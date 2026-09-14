@@ -29,6 +29,40 @@ function worldFor(data: string): Record<string, unknown> {
 
 const index = parseLibraryIndex(rawIndex)
 
+/**
+ * What a book carrying prose has to say about where the prose came from.
+ *
+ * This replaces a guard that asked for the phrase `original scene drafts`,
+ * `original prose` or `public-domain translation`. Those were the words the
+ * first few worlds happened to use. The convention moved to naming the source
+ * edition — "the complete narrative text of Project Gutenberg eBook #345" — and
+ * 27 of the 32 prose-carrying books then failed a rule that had only ever been
+ * matching a turn of phrase. They were left failing, which is how a guard stops
+ * being read at all.
+ *
+ * So: substance rather than wording, and the substance is already written down.
+ * EX-007 asks that the exact edition, the public-domain status and the source
+ * appear in the notice, not only in Lore. These two are that rule.
+ *
+ * Every shipped prose world is built from Project Gutenberg, so that is what
+ * `SOURCE_EDITION` demands. A book drawn from somewhere else — Wikisource, a
+ * scan of a 19th-century printing — will fail here, and should: where prose
+ * came from is a decision to make in the open, not a pattern to widen quietly.
+ */
+const PUBLIC_DOMAIN_BASIS = /public[- ]domain|domínio público/i
+const SOURCE_EDITION = /Project Gutenberg\b[^;]{0,60}?\d{1,6}/i
+
+/**
+ * And what a book carrying no prose has to say instead.
+ *
+ * The pair is the point. A rule written only for the prose books can be
+ * satisfied by a catalogue that has none, and it would read as coverage while
+ * asking nothing — so the books that carry no prose are held to the opposite
+ * claim in the same run, and `both kinds of book are present` below keeps
+ * either half from being satisfied by an empty set.
+ */
+const DECLARES_NO_PROSE = /no text from the book is included|not the novel['’]s prose/i
+
 describe('the published library catalogue', () => {
   it('is valid and not empty', () => {
     expect(index.entries.length).toBeGreaterThan(0)
@@ -41,6 +75,18 @@ describe('the published library catalogue', () => {
     const worldIds = index.entries.map((e) => e.worldId)
     expect(new Set(ids).size).toBe(ids.length)
     expect(new Set(worldIds).size).toBe(worldIds.length)
+  })
+
+  it('ships both kinds of book, so the provenance rule is exercised both ways', () => {
+    // Each book is asked either to name its source or to declare it has no
+    // prose, and neither question is asked of the other kind. If the catalogue
+    // ever held only one kind, half the rule would go untested while still
+    // reporting green.
+    const withProse = index.entries.filter(
+      (e) => ((worldFor(e.data).sceneTexts as unknown[] | undefined) ?? []).length > 0,
+    )
+    expect(withProse.length, 'books carrying prose').toBeGreaterThan(0)
+    expect(index.entries.length - withProse.length, 'books carrying none').toBeGreaterThan(0)
   })
 
   it('keeps the Odyssey manuscript cover readable without a cross-origin request', () => {
@@ -60,17 +106,23 @@ describe('the published library catalogue', () => {
         expect(entry.notice).toMatch(/unofficial/i)
       })
 
-      it('ships scene prose only with declared public-domain provenance', () => {
-        // Copyrighted examples remain structural references. A public-domain
-        // source may include prose when the catalogue declares that basis and
-        // every draft resolves uniquely to a modeled event.
+      it('says where its prose came from, or says it has none', () => {
+        // EX-007, on the catalogue side: a public-domain book may reproduce
+        // prose when the notice declares that basis and names the edition it
+        // was built from. A book still in copyright stays a structural
+        // reference, and says so.
         const world = worldFor(entry.data)
         const sceneTexts = (world.sceneTexts ?? []) as Array<{ eventId: string }>
         const events = world.events as Array<{ id: string }>
         if (sceneTexts.length > 0) {
-          expect(entry.notice).toMatch(/(?:original (?:scene drafts|prose)|public-domain translation)/i)
+          expect(entry.notice, 'declares a public-domain basis').toMatch(PUBLIC_DOMAIN_BASIS)
+          expect(entry.notice, 'names the source edition').toMatch(SOURCE_EDITION)
+          // Every draft resolves uniquely to a modeled event, so no passage is
+          // orphaned and none is shown twice.
           expect(sceneTexts).toHaveLength(events.length)
           expect(new Set(sceneTexts.map((scene) => scene.eventId)).size).toBe(events.length)
+        } else {
+          expect(entry.notice, 'says it carries no prose').toMatch(DECLARES_NO_PROSE)
         }
         expect(world.sceneRevisions ?? [], 'sceneRevisions').toEqual([])
       })

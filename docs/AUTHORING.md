@@ -63,7 +63,7 @@ If a rule genuinely does not apply, record the reason in the generator, pull req
 
 - **EX-501 — Synchronize both copies.** The editable `.pwk` in `example/` and downloadable `.pwk` in `public/library/` must be byte-for-byte synchronized when both are shipped.
 - **EX-502 — Use `.pwb` only when needed.** Include one only for uploaded image blobs. A linked-image example must not carry an empty or obsolete `.pwb`.
-- **EX-503 — Update the catalogue exactly.** `public/library/index.json` must contain the correct ID, title, author, blurb, notice, cover, data filename, world ID, entity counts, and exact UTF-8 byte size.
+- **EX-503 — Update the catalogue exactly.** `library/index.json` must contain the correct ID, title, author, blurb, notice, cover, data filename, world ID, entity counts, and exact UTF-8 byte size.
 - **EX-504 — Keep generation reproducible.** When a generator is used, commit it and make regeneration preserve both shipped copies and catalogue metadata.
 - **EX-505 — Run automated validation.** At minimum run `npm test -- --run libraryCatalogue exampleQuality exampleCompat`. Any failure blocks release. Run the full suite when shared code or validation logic changes.
 - **EX-506 — Complete the application pass.** Load the downloadable copy through Library in reading mode. Visit Timeline, Calendar, Characters, Arc, Relationships, Items, Maps, Lore, Factions, and Knowledge; then disable reading mode and repeat checks requiring the complete dataset.

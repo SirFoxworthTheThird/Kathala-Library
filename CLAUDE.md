@@ -88,16 +88,22 @@ it.
 
 ## Known failures, and the gate
 
-31 tests currently fail, and they are inherited rather than new:
+4 tests currently fail, and they are inherited rather than new:
 
-- **27 in `libraryCatalogue`** — a stale guard. It requires a notice matching
-  `/original scene drafts|original prose|public-domain translation/`, while the
-  notices now read "the complete narrative text of Project Gutenberg eBook
-  #345". The authoring convention moved and the regex did not. Fixing it means
-  deciding what a correct provenance notice should say.
 - **2 in `exampleQuality`** — map structure in *The Time Machine* and *The War
   of the Worlds*.
 - **1 each in `libraryLoreGating` and `libraryChapterTitles`.**
+
+There were 31. The other 27 were one stale guard in `libraryCatalogue`, which
+demanded a notice matching `/original scene drafts|original prose|public-domain
+translation/` — the words the first few worlds happened to use — while the
+notices had moved to naming the source edition, "the complete narrative text of
+Project Gutenberg eBook #345". The rule the guard was reaching for is EX-007,
+and EX-007 already says it: name the edition, the translator where applicable,
+and the public-domain status, in the notice as well as in Lore. The test asks
+that now, so a prose book must declare a public-domain basis and cite its
+Project Gutenberg edition, and a book with no prose must say it has none. Only
+*The Iliad* had to change — its Lore recorded eBook 2199 and its notice did not.
 
 Do not paper over these by loosening an assertion. They are real disagreements
 between the rules and the books, and each wants a decision.
