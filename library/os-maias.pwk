@@ -8232,7 +8232,7 @@
       ],
       "coverImageId": "os-maias-image-world-cover",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "os-maias-event-001"
     },
     {
       "worldId": "os-maias-world",
@@ -8266,7 +8266,7 @@
       ],
       "coverImageId": "os-maias-image-item-relogio-afonso",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "os-maias-event-001"
     }
   ],
   "factions": [

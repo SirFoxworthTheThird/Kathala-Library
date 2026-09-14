@@ -5953,7 +5953,7 @@
       ],
       "coverImageId": "wuthering-heights-image-world-cover",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "wuthering-heights-event-001"
     },
     {
       "worldId": "wuthering-heights-world",
@@ -5973,7 +5973,7 @@
         "wuthering-heights-location-heights",
         "wuthering-heights-location-grange"
       ],
-      "visibleFromEventId": null
+      "visibleFromEventId": "wuthering-heights-event-001"
     }
   ],
   "factions": [

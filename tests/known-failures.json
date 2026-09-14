@@ -6,10 +6,5 @@
     "shrink. See CLAUDE.md, 'Known failures', for what each group is waiting on.",
     "Regenerate with: npm run gate -- --update"
   ],
-  "known": [
-    "editorial chapter titles the-odyssey says in Lore that its chapter names are editorial",
-    "lore in the shipped worlds never leaves a page with no scene to wait for",
-    "published examples meet the authoring quality rules The Time Machine uses descriptive locations and structurally valid maps",
-    "published examples meet the authoring quality rules The War of the Worlds uses descriptive locations and structurally valid maps"
-  ]
+  "known": []
 }
