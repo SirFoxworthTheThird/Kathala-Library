@@ -4,25 +4,37 @@ import { describe, it, expect } from 'vitest'
  * A world that names its chapters says where the names came from.
  *
  * **R1.** A blind reader run reported the shipped worlds inventing chapter
- * titles. Measured across all thirty, it is far narrower than that: four use the
- * book's own numbering (*Frankenstein*, *Neuromancer*, *Pride and Prejudice*,
- * *The Picture of Dorian Gray*), two use its own structural divisions
- * (*The Moonstone*'s periods, *The Woman in White*'s narrators), and of the
- * twenty-four that carry descriptive titles, all but two are the author's own —
- * *Dracula*'s document headings included, which look invented and are not.
+ * titles. It is far narrower than that. Of the 39 shipped worlds, 35 carry
+ * descriptive chapter titles and four number them as the book does
+ * (*Frankenstein*, *Neuromancer*, *Pride and Prejudice*, *The Picture of Dorian
+ * Gray*); of the 35, the great majority are the author's own — *Dracula*'s
+ * document headings included, which look invented and are not, and *Journey to
+ * the West*'s couplets, which are the novel's.
  *
- * The two that are editorial are *Jane Eyre*, whose chapters Brontë numbered and
- * did not name, and *The Odyssey*, whose books carry numbers in the Greek and
- * acquire names only from translators. `EX-006` already requires an editorial
- * reconstruction to be identified in Lore and its assumptions explained — the
- * rule these worlds' calendars and maps already follow — and this is that rule
- * applied to the chapter titles.
+ * Four are editorial: *Jane Eyre* and *Wuthering Heights*, whose chapters the
+ * Brontës numbered and did not name, and *The Iliad* and *The Odyssey*, whose
+ * books carry numbers in the Greek and acquire names only from translators.
+ * `EX-006` already requires an editorial reconstruction to be identified in Lore
+ * and its assumptions explained — the rule these worlds' calendars and maps
+ * already follow — and this is that rule applied to the chapter titles.
  *
- * The list below cannot be checked automatically: nothing in the data
- * distinguishes a title an author wrote from one an example author supplied. So
- * the second test checks the half that *can* be derived — that a world named
- * here really does carry descriptive titles — which is what stops the list
- * outliving the thing it describes.
+ * **The list is hand-kept, and that is the weak point.** Nothing in the data
+ * distinguishes a title an author wrote from one an example author supplied, so
+ * no rule can derive it. It went stale exactly as you would expect: *The Iliad*
+ * and *Wuthering Heights* were added to the Library declaring their titles
+ * editorial in Lore, and nobody extended the list, so the rule quietly stopped
+ * covering half the worlds it was about. The second test is what keeps the list
+ * from outliving the thing it describes, by checking the half that *can* be
+ * derived — that a world named here really does carry descriptive titles.
+ *
+ * **And the declaration is matched on substance, not on wording.** This asked
+ * for the literal phrase "editorial signpost" until *The Odyssey* failed it
+ * while saying the same thing in its own words: "the descriptive book names and
+ * exact calendar values used here are editorial aids." A guard that matches a
+ * turn of phrase fails the worlds that comply and passes nothing extra. What it
+ * asks now is that one sentence of Lore ties the words *editorial*, *names or
+ * titles*, and *chapters or books* together — which is the claim EX-006 wants a
+ * reader to be able to find.
  */
 
 const worldFiles = import.meta.glob('../library/*.pwk', {
@@ -40,7 +52,24 @@ const worldsBySlug = new Map(Object.entries(worldFiles).map(([path, text]) => {
 }))
 
 /** Worlds whose chapter names were written for the example, not by the author. */
-const EDITORIAL_TITLES = ['jane-eyre', 'the-odyssey']
+const EDITORIAL_TITLES = ['jane-eyre', 'the-iliad', 'the-odyssey', 'wuthering-heights']
+
+/**
+ * Does one sentence of this page say the chapter names are editorial?
+ *
+ * Sentence-scoped on purpose. A page that happens to use the word "editorial"
+ * somewhere and the word "chapter" somewhere else is most of these pages, and a
+ * rule that accepted that would pass on every world whether or not it made the
+ * claim.
+ */
+function declaresEditorialTitles(body: string): boolean {
+  return body
+    .split(/(?<=[.!?])\s+/)
+    .some((sentence) =>
+      /editorial/i.test(sentence) &&
+      /\b(?:names?|titles?|named|titled)\b/i.test(sentence) &&
+      /\b(?:chapters?|books?)\b/i.test(sentence))
+}
 
 /** A heading that is only a number or a structural label, e.g. "Chapter IV". */
 const STRUCTURAL = /^(chapter|letter|book|part|canto|prologue|epilogue|interlude)\b[\s\dIVXLC.:—-]*$/i
@@ -54,8 +83,7 @@ describe('editorial chapter titles', () => {
   it.each(EDITORIAL_TITLES)('%s says in Lore that its chapter names are editorial', (slug) => {
     const world = worldsBySlug.get(slug)
     expect(world, `${slug} should be a shipped world`).toBeDefined()
-    const said = (world!.lorePages ?? []).some((p) =>
-      /editorial signpost/i.test(p.body) && /chapter|book/i.test(p.body))
+    const said = (world!.lorePages ?? []).some((p) => declaresEditorialTitles(p.body))
     expect(said, 'a reader should be able to find out that these names are not the author’s').toBe(true)
   })
 
@@ -83,6 +111,6 @@ describe('editorial chapter titles', () => {
     expect(alice, 'Alice should be a shipped world').toBeDefined()
     expect((alice!.chapters ?? []).filter((c) => c.title && !STRUCTURAL.test(c.title)).length)
       .toBeGreaterThan(5)
-    expect((alice!.lorePages ?? []).some((p) => /editorial signpost/i.test(p.body))).toBe(false)
+    expect((alice!.lorePages ?? []).some((p) => declaresEditorialTitles(p.body))).toBe(false)
   })
 })

@@ -86,39 +86,45 @@ does, in the same run, or it can pass by finding nothing at all.
 enforced is a claim, and reviewers read it as one. Write it after the test earns
 it.
 
-## Known failures, and the gate
+## The gate
 
-4 tests currently fail, and they are inherited rather than new:
+The suite is green: **652 tests, 0 failing.** `tests/known-failures.json` is an
+empty list, and `npm run gate` is what CI runs — it fails if anything fails, and
+*also* fails if a listed test starts passing, with instructions to run
+`npm run gate -- --update` and commit the shorter list. The list can only shrink.
 
-- **2 in `exampleQuality`** — map structure in *The Time Machine* and *The War
-  of the Worlds*.
-- **1 each in `libraryLoreGating` and `libraryChapterTitles`.**
+It was 31, inherited from the application repository, and every one of them was
+a real disagreement between a rule and a book rather than a flaky test. They are
+worth recording, because three of the four groups turned out to be the *rule*
+being wrong in the same way:
 
-There were 31. The other 27 were one stale guard in `libraryCatalogue`, which
-demanded a notice matching `/original scene drafts|original prose|public-domain
-translation/` — the words the first few worlds happened to use — while the
-notices had moved to naming the source edition, "the complete narrative text of
-Project Gutenberg eBook #345". The rule the guard was reaching for is EX-007,
-and EX-007 already says it: name the edition, the translator where applicable,
-and the public-domain status, in the notice as well as in Lore. The test asks
-that now, so a prose book must declare a public-domain basis and cite its
-Project Gutenberg edition, and a book with no prose must say it has none. Only
-*The Iliad* had to change — its Lore recorded eBook 2199 and its notice did not.
+- **27 in `libraryCatalogue`** — a guard demanding one of three phrases where
+  the convention had moved to naming the Project Gutenberg edition. The rule it
+  was reaching for was EX-007, which already said the right thing. Fixed by
+  asking for substance; only *The Iliad* needed a data change, and its Lore
+  already held the number its notice was missing.
+- **1 in `libraryChapterTitles`** — the same shape again. It demanded the literal
+  phrase "editorial signpost" while *The Odyssey* said "editorial aids". Fixing
+  it exposed the more useful bug: the hand-kept list of editorial-titled worlds
+  had gone stale, missing *The Iliad* and *Wuthering Heights*.
+- **2 in `exampleQuality`** — here the rule was right. Three sub-map markers in
+  *The Time Machine* and *The War of the Worlds* described the app rather than
+  the place ("Portal to the detailed Victorian London map"). The drill-down is
+  carried by `linkedMapLayerId`, so the prose was saying what the UI already
+  shows; the descriptions now describe the places.
+- **1 in `libraryLoreGating`** — the rule was right, and this was the one with a
+  reader-visible cost. 31 Lore pages across six worlds had no reveal point, so
+  they were shown from chapter one whatever they said — *The Underworld* and
+  *The Bow and the Bed* among them. Each now points at the scene that earns it,
+  and pages that are pure provenance point at the first scene, which is the
+  convention the compliant worlds already followed.
 
-Do not paper over these by loosening an assertion. They are real disagreements
-between the rules and the books, and each wants a decision.
-
-Because of them, CI cannot demand a green suite without either making those
-decisions now or weakening the rules — and weakening a rule to get a green tick
-is how a suite stops meaning anything. So `npm run gate` asks the question that
-can be answered honestly today: **did this change break something that was
-working?**
-
-`tests/known-failures.json` lists the 31 by name. The gate fails if anything
-outside that list fails, and *also* fails if a listed test starts passing —
-with instructions to run `npm run gate -- --update` and commit the shorter
-list. The list can only shrink. A baseline that quietly keeps names of tests
-nobody is waiting on any more grows until it covers a real regression.
+**The lesson worth keeping.** A guard that matches a turn of phrase fails the
+books that comply and catches nothing that does not, and once it is failing it
+stops being read — which is how the same mistake sat in two different files. If
+a rule can ask about substance, make it; if it genuinely cannot, pair it with the
+half that can be derived, the way the chapter-titles list is now checked against
+the titles it claims to describe.
 
 ## A structure worth moving to
 

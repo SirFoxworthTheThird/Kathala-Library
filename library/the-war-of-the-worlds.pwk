@@ -418,7 +418,7 @@
       "mapLayerId": "war-of-the-worlds-map-environs",
       "linkedMapLayerId": "war-of-the-worlds-map-essex",
       "name": "Road into Essex",
-      "description": "Portal to the eastward refugee route through Chelmsford toward the Blackwater coast.",
+      "description": "The eastward refugee route through Chelmsford toward the Blackwater coast.",
       "x": 1452,
       "y": 995,
       "imageId": "war-of-the-worlds-image-correa24",
@@ -450,7 +450,7 @@
       "mapLayerId": "war-of-the-worlds-map-environs",
       "linkedMapLayerId": "war-of-the-worlds-map-london",
       "name": "London",
-      "description": "Portal to the detailed Victorian London map.",
+      "description": "The capital the Martians advance on, and the start of the exodus that carries the narrator’s brother eastward.",
       "x": 1017,
       "y": 826,
       "imageId": "war-of-the-worlds-image-correa26",
@@ -7049,7 +7049,7 @@
       "tags": [],
       "coverImageId": "war-of-the-worlds-image-correa6",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "war-of-the-worlds-event-1-1"
     },
     {
       "worldId": "war-of-the-worlds-world",
@@ -7062,7 +7062,7 @@
       "tags": [],
       "coverImageId": "war-of-the-worlds-image-correa17",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "war-of-the-worlds-event-19-1"
     },
     {
       "worldId": "war-of-the-worlds-world",
@@ -7075,7 +7075,7 @@
       "tags": [],
       "coverImageId": "war-of-the-worlds-image-correa21",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "war-of-the-worlds-event-14-2"
     },
     {
       "worldId": "war-of-the-worlds-world",
@@ -7088,7 +7088,7 @@
       "tags": [],
       "coverImageId": "war-of-the-worlds-image-mapEnvirons",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "war-of-the-worlds-event-1-1"
     },
     {
       "worldId": "war-of-the-worlds-world",
@@ -7101,7 +7101,7 @@
       "tags": [],
       "coverImageId": "war-of-the-worlds-image-cover",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "war-of-the-worlds-event-1-1"
     },
     {
       "worldId": "war-of-the-worlds-world",
@@ -7114,7 +7114,7 @@
       "tags": [],
       "coverImageId": "war-of-the-worlds-image-cover",
       "linkedEntityIds": [],
-      "visibleFromEventId": null
+      "visibleFromEventId": "war-of-the-worlds-event-1-1"
     }
   ],
   "factions": [
