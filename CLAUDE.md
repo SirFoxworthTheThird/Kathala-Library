@@ -8,7 +8,9 @@ they are held to. It holds no application code.
 ```bash
 npm install --legacy-peer-deps   # plain `npm install` currently fails here (see below)
 npm test                         # the authoring rules, over every shipped world
+npm run gate                     # what CI runs: no NEW failures, none silently fixed
 npm run catalogue                # regenerate library/index.json from what is on disk
+npm run catalogue:check          # what CI runs: fail if the catalogue is stale
 ```
 
 `npm install` without `--legacy-peer-deps` fails with npm's
@@ -84,7 +86,7 @@ does, in the same run, or it can pass by finding nothing at all.
 enforced is a claim, and reviewers read it as one. Write it after the test earns
 it.
 
-## Known failures
+## Known failures, and the gate
 
 31 tests currently fail, and they are inherited rather than new:
 
@@ -99,6 +101,18 @@ it.
 
 Do not paper over these by loosening an assertion. They are real disagreements
 between the rules and the books, and each wants a decision.
+
+Because of them, CI cannot demand a green suite without either making those
+decisions now or weakening the rules — and weakening a rule to get a green tick
+is how a suite stops meaning anything. So `npm run gate` asks the question that
+can be answered honestly today: **did this change break something that was
+working?**
+
+`tests/known-failures.json` lists the 31 by name. The gate fails if anything
+outside that list fails, and *also* fails if a listed test starts passing —
+with instructions to run `npm run gate -- --update` and commit the shorter
+list. The list can only shrink. A baseline that quietly keeps names of tests
+nobody is waiting on any more grows until it covers a real regression.
 
 ## A structure worth moving to
 

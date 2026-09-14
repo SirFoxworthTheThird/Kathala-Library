@@ -1,0 +1,47 @@
+name: Books
+
+# Every change to a book, and every push to main. A book reaches readers within
+# a minute of landing here, so this is the only thing standing between a
+# malformed world and the live Library.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Authoring rules
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # One commit of history. The working tree is still the full 1.7 GB —
+          # `fetch-depth` shallows the history, not the files — and it has to
+          # be: `libraryOwnAssets` checks that every image a world names is
+          # actually shipped, which needs the files on disk.
+          #
+          # So every run downloads 1.7 GB, and that is the one place the
+          # artwork's weight costs something repeatedly. Lossless WebP would
+          # take it to about 1.1 GB with identical pixels, if it starts to hurt.
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # `npm ci` and a plain `npm install` both fail here with npm's
+      # `Cannot read properties of null (reading 'edgesOut')`. It is a
+      # resolution bug rather than a problem with the tree; this is the
+      # workaround, and it is the same one the README tells a contributor.
+      - name: Install
+        run: npm install --legacy-peer-deps
+
+      # Before the rules: a book added without regenerating the catalogue would
+      # be invisible to readers, or visible with the wrong download size.
+      - name: The catalogue matches the worlds on disk
+        run: npm run catalogue:check
+
+      - name: The authoring rules
+        run: npm run gate

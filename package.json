@@ -6,7 +6,9 @@
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest",
-    "catalogue": "node scripts/build-index.mjs"
+    "catalogue": "node scripts/build-index.mjs",
+    "gate": "node scripts/gate.mjs",
+    "catalogue:check": "node scripts/build-index.mjs --check"
   },
   "devDependencies": {
     "vitest": "^4.1.2"

@@ -18,6 +18,14 @@ import { join } from 'path'
 const LIBRARY = 'library'
 const INDEX = join(LIBRARY, 'index.json')
 
+/*
+  `--check` writes nothing and fails if the catalogue is not what this script
+  would produce. That is what CI runs: a book added without regenerating the
+  catalogue is the failure this exists to prevent, and a check that silently
+  fixed it in CI would let the repository and the deployed site disagree.
+*/
+const checkOnly = process.argv.includes('--check')
+
 function fail(message) {
   console.error(`build-index: ${message}`)
   process.exit(1)
@@ -80,9 +88,25 @@ for (const entry of index.entries) {
 const sortKey = (e) => e.title.replace(/^(the|a|an)\s+/i, '').toLocaleLowerCase()
 index.entries.sort((a, b) => sortKey(a).localeCompare(sortKey(b)))
 
-writeFileSync(INDEX, `${JSON.stringify(index, null, 2)}\n`, 'utf8')
+const next = `${JSON.stringify(index, null, 2)}\n`
+const current = readFileSync(INDEX, 'utf8')
+
+if (checkOnly) {
+  if (next !== current) {
+    fail(
+      'the catalogue is out of date — run `npm run catalogue` and commit the result.\n' +
+      (changed > 0
+        ? `  ${changed} field(s) disagree with the files on disk (listed above)`
+        : '  the entries are correct but not in the order the shelf files them'),
+    )
+  }
+  console.log(`build-index: catalogue matches the ${index.entries.length} worlds on disk`)
+  process.exit(0)
+}
+
+writeFileSync(INDEX, next, 'utf8')
 console.log(
-  changed === 0
+  next === current
     ? `build-index: ${index.entries.length} entries, nothing to correct`
     : `build-index: ${index.entries.length} entries, ${changed} field(s) corrected`,
 )

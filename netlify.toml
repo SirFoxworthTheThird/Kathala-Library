@@ -1,0 +1,16 @@
+# No build step: the files are published exactly as they sit in the repository.
+#
+# The publish directory is the repository root rather than `library/`, because
+# every image inside every world is stored as a relative path beginning
+# `library/` — 309 of them in Journey to the West alone. Publishing the subtree
+# would mean rewriting those paths in all 39 worlds to gain nothing.
+[build]
+  publish = "."
+  command = ""
+
+# Everything the app asks for lives under /library/. The rest of the repository
+# is published too, which is untidy rather than unsafe on a public repo.
+[[headers]]
+  for = "/library/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
