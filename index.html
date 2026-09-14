@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PlotWeave Library</title>
+<meta name="description" content="The worlds PlotWeave ships in its Library, served for the app to fetch.">
+<meta name="robots" content="noindex">
+<style>
+  :root {
+    --paper: #F6F7F5; --ink: #101418; --slate: #56605E;
+    --line: #D8DCD6; --accent: #176B63; --surface: #FFFFFF;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0E1213; --ink: #E8ECE9; --slate: #9AA5A1;
+      --line: #2A3234; --accent: #4FB3A6; --surface: #161B1C;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--paper); color: var(--ink);
+    font: 16px/1.65 system-ui, -apple-system, "Segoe UI", sans-serif;
+    padding: clamp(32px, 8vw, 80px) clamp(20px, 5vw, 48px);
+    display: flex; justify-content: center;
+  }
+  main { max-width: 60ch; display: flex; flex-direction: column; gap: 22px; }
+  h1 { font-size: clamp(26px, 5vw, 34px); line-height: 1.15; margin: 0; letter-spacing: -0.015em; }
+  p { margin: 0; }
+  .lede { color: var(--slate); }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  code {
+    font-family: ui-monospace, "SF Mono", Menlo, monospace; font-size: 0.88em;
+    background: var(--surface); border: 1px solid var(--line);
+    padding: 1px 5px; border-radius: 3px;
+  }
+  .note {
+    border-left: 2px solid var(--line); padding: 2px 0 2px 16px;
+    color: var(--slate); font-size: 15px;
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>PlotWeave Library</h1>
+  <p class="lede">
+    This is not a website. It is where
+    <a href="https://plotweave.netlify.app/">PlotWeave</a> fetches the books in
+    its Library, so a new one reaches readers without waiting for a new version
+    of the app.
+  </p>
+  <p>
+    Thirty-nine worlds built from published books. Thirty-one carry the complete
+    text of a public-domain novel, each naming the Project Gutenberg edition it
+    was built from; the rest are structural references to books still in
+    copyright and contain none of their text.
+  </p>
+  <p>
+    The catalogue is at <a href="/library/index.json"><code>/library/index.json</code></a>,
+    and each world sits beside it.
+  </p>
+  <p class="note">
+    Open PlotWeave and choose <strong>Library</strong> to read one. The books are
+    unofficial references, not affiliated with any author or publisher.
+  </p>
+  <p>
+    Source, and how to add a book:
+    <a href="https://github.com/SirFoxworthTheThird/PlotWeave-Library">github.com/SirFoxworthTheThird/PlotWeave-Library</a>
+  </p>
+</main>
+</body>
+</html>
