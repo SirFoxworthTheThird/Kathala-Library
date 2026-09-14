@@ -379,6 +379,23 @@
       "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houghton%20HEW%2012.10.15%20-%20The%20Picture%20of%20Dorian%20Gray%2C%201891%20(cover).jpg?width=960"
     },
     {
+      "id": "pipeline-check",
+      "title": "Pipeline Check (not a book)",
+      "author": "PlotWeave",
+      "blurb": "A temporary copy used to prove that adding a book here reaches readers without releasing the app. Delete after checking.",
+      "data": "pipeline-check.pwk",
+      "dataBytes": 230921,
+      "counts": {
+        "characters": 15,
+        "chapters": 10,
+        "events": 47,
+        "locations": 24
+      },
+      "notice": "Unofficial. Not a book: a structural duplicate of the Jekyll and Hyde world under a different id, published briefly to verify the publishing pipeline. It contains no text from any work. Delete after checking.",
+      "worldId": "pipeline-check-world",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dr._Jekyll_and_Mr._Hyde_LCCN2014635954.jpg/960px-Dr._Jekyll_and_Mr._Hyde_LCCN2014635954.jpg"
+    },
+    {
       "id": "pride-and-prejudice",
       "title": "Pride and Prejudice",
       "author": "Jane Austen",
