@@ -52,6 +52,20 @@ export interface LibraryEntry {
   imagesBytes?: number
   cover?: string
   counts?: { characters?: number; chapters?: number; events?: number; locations?: number }
+  /**
+   * The oldest PlotWeave that can open this book, as `major.minor.patch`.
+   *
+   * Optional, and almost no book needs it. It exists because the books are
+   * published independently of the app now: a desktop install from a year ago
+   * fetches a catalogue written today. A book relying on something genuinely
+   * new says so, and an app too old to give it tells the reader on the card
+   * instead of importing into a world that silently lacks it.
+   *
+   * An app released before the field existed ignores it, so it protects only
+   * versions that already know to look — which is why it was added before any
+   * book needed it rather than when one did.
+   */
+  minAppVersion?: string
 }
 
 export interface LibraryIndex {
@@ -83,6 +97,14 @@ export function parseLibraryIndex(raw: unknown): LibraryIndex {
       }
     }
     if (typeof e.dataBytes !== 'number') throw new Error(`Library entry ${i} is missing dataBytes`)
+    if (e.minAppVersion !== undefined && !/^\d+(\.\d+)*$/.test(String(e.minAppVersion).trim())) {
+      // The app ignores a requirement it cannot read rather than hiding a book,
+      // which is right at runtime and wrong here: publishing one means the
+      // requirement silently does nothing.
+      throw new Error(
+        `Library entry ${i} has a minAppVersion that is not a version: ${JSON.stringify(e.minAppVersion)}`,
+      )
+    }
     if (e.cover !== undefined && !(typeof e.cover === 'string' && isAllowedCover(e.cover))) {
       throw new Error(`Library entry ${i} has a cover that is neither an absolute http(s) URL nor a path under library/`)
     }
