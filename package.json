@@ -1,0 +1,14 @@
+{
+  "name": "plotweave-library",
+  "private": true,
+  "type": "module",
+  "description": "The worlds PlotWeave ships in its Library, and the rules they are held to.",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "catalogue": "node scripts/build-index.mjs"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.2"
+  }
+}
