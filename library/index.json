@@ -566,6 +566,23 @@
       "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Treasure_Island-Scribner%27s-1911.jpg/1280px-Treasure_Island-Scribner%27s-1911.jpg"
     },
     {
+      "id": "the-turn-of-the-screw",
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "blurb": "A young governess’s uncanny reports at Bly entangle two children, an anxious housekeeper, and an absent guardian in a mystery of duty, suspicion, and uncertain testimony.",
+      "data": "the-turn-of-the-screw.pwk",
+      "notice": "Unofficial reading-mode edition containing the complete public-domain narrative from Project Gutenberg eBook 209. Original interpretive maps and generated illustrations are reading aids, not historical surveys. Approximate calendar placements and reported apparition presence are documented in Lore.",
+      "cover": "library/the-turn-of-the-screw/art/world.png",
+      "dataBytes": 472944,
+      "worldId": "turn-of-the-screw-world",
+      "counts": {
+        "characters": 10,
+        "chapters": 25,
+        "events": 52,
+        "locations": 34
+      }
+    },
+    {
       "id": "twenty-thousand-leagues-under-the-seas",
       "title": "Twenty Thousand Leagues Under the Seas",
       "author": "Jules Verne",
