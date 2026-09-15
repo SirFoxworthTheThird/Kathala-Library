@@ -368,7 +368,12 @@
       "blurb": "Beneath the splendor of the Paris Opera, a hidden musical genius draws a young soprano and her childhood love into a mystery of beauty, terror, obsession, and compassion.",
       "data": "the-phantom-of-the-opera.pwk",
       "dataBytes": 840626,
-      "counts": { "characters": 19, "chapters": 28, "events": 83, "locations": 37 },
+      "counts": {
+        "characters": 19,
+        "chapters": 28,
+        "events": 83,
+        "locations": 37
+      },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text of The Phantom of the Opera, translated by Alexander Teixeira de Mattos, from Project Gutenberg eBook #175; Gutenberg packaging is excluded. The Prologue, 26 chapters, and Epilogue are preserved in source order. Structural summaries, event divisions, editorial chronology, maps, and generated illustrations are original additions documented in Lore.",
       "worldId": "phantom-opera-world",
       "cover": "library/the-phantom-of-the-opera/art/world-cover.png"
