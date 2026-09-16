@@ -57,6 +57,7 @@ If a rule genuinely does not apply, record the reason in the generator, pull req
 - **EX-403 — Do not pad features.** A feature may remain unused when genuinely irrelevant. Record the decision instead of inventing factions, regions, timelines, or relationships.
 - **EX-404 — Resolve every reference.** All entity, event, chapter, timeline, image, map, location, route, faction, relationship, item, goal, thread, motif, and knowledge references must point to existing records.
 - **EX-405 — Preserve reading-mode spoilers.** Data visible before an event must not reveal later deaths, identities, alliances, locations, ownership, or outcomes. Use reveal events and snapshots at the correct time.
+  Two parts of this are enforced by `tests/librarySpoilerLanguage.test.ts`: a plot thread or motif may not use forward-looking language ("later", "eventually", "turns out"), and no standing description may state a secret that the same world's `knowledgeFacts` say the reader learns in a later chapter. Both are a floor — a description that gives the ending away in plain words passes them, so read `docs/ex405-sweep-2026-09-16.md` before adding a book.
 - **EX-406 — Use a genre-appropriate theme.** Do not leave the world on the default theme when an existing theme clearly matches the book.
 
 ## 6. Packaging and release
