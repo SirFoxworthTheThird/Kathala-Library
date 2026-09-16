@@ -769,7 +769,7 @@
       "id": "tale-of-two-cities-char-cly",
       "name": "Roger Cly",
       "aliases": [],
-      "description": "A fellow spy whose staged English funeral conceals his later service in revolutionary Paris.",
+      "description": "An Old Bailey witness who swears he had no motive in giving evidence but public duty.",
       "portraitImageId": "tale-of-two-cities-image-phiz-14",
       "color": "#76554d",
       "tags": [],
@@ -3971,7 +3971,7 @@
       "label": "son-in-law and inherited wound",
       "strength": 5,
       "sentiment": "mixed",
-      "description": "Manette loves Darnay while the Evrémonde name awakens trauma and eventually condemns him through the hidden letter.",
+      "description": "Manette loves Darnay, and cannot always hear the name Evrémonde without the past coming back.",
       "isBidirectional": true,
       "startEventId": "tale-of-two-cities-event-020"
     },
@@ -4027,7 +4027,7 @@
       "label": "former servant and revolutionary witness",
       "strength": 4,
       "sentiment": "mixed",
-      "description": "Defarge shelters the released doctor and later uses the document hidden in his cell against Darnay.",
+      "description": "Defarge was the doctor’s servant once, and sheltered him when he came out of the Bastille.",
       "isBidirectional": false,
       "startEventId": "tale-of-two-cities-event-006"
     },
@@ -9178,7 +9178,7 @@
       "id": "tale-of-two-cities-thread-sacrifice",
       "name": "Carton’s Promise",
       "color": "#67546c",
-      "description": "A private promise becomes a carefully executed rescue and a freely chosen future for others."
+      "description": "Carton tells Lucie exactly what he is and what he would do for her, and asks her to remember it."
     }
   ],
   "motifs": [
