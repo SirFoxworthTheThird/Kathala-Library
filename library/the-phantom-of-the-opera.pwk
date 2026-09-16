@@ -1080,7 +1080,7 @@
       "updatedAt": 1789387200000,
       "id": "phantom-item-gold-ring",
       "name": "Plain Gold Ring",
-      "description": "A simple ring given to Christine as a sign of obedience, later transformed by mercy and remembrance.",
+      "description": "A plain gold ring given to Christine on the condition that she never takes it off.",
       "iconType": "ring",
       "imageId": "phantom-image-item-gold-ring",
       "tags": []
@@ -10362,7 +10362,7 @@
       "id": "phantom-thread-ghost-identity",
       "name": "Who Is the Opera Ghost?",
       "color": "#8e6d45",
-      "description": "Witnesses and investigators move from superstition toward Erik’s identity.",
+      "description": "The narrator sets aside the fashionable explanations for the Chagny affair and reopens the question of what was living in the Opera.",
       "status": "complete",
       "tags": []
     },
@@ -10373,7 +10373,7 @@
       "id": "phantom-thread-christine-voice",
       "name": "The Angel of Music",
       "color": "#d2b66e",
-      "description": "Christine’s mysterious teacher changes from sacred promise to dangerous human presence.",
+      "description": "The teacher Christine’s father promised her before he died, and the voice she says now teaches her.",
       "status": "complete",
       "tags": []
     },
@@ -10395,7 +10395,7 @@
       "id": "phantom-thread-love-choice",
       "name": "Christine’s Choice",
       "color": "#b66b81",
-      "description": "Christine’s bonds with Raoul and Erik make love, pity, and freedom the central conflict.",
+      "description": "What Christine owes to the voice that taught her, and to the young man who knew her as a child by the sea.",
       "status": "complete",
       "tags": []
     },
@@ -10406,7 +10406,7 @@
       "id": "phantom-thread-rescue",
       "name": "Descent Beneath the Opera",
       "color": "#526f78",
-      "description": "Raoul and the Persian follow Christine through the hidden architecture.",
+      "description": "The cellars under the Opera go down five floors, and the people who work there do not go to the lowest.",
       "status": "complete",
       "tags": []
     },

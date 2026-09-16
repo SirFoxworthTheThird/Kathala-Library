@@ -1325,7 +1325,7 @@
       "aliases": [
         "Lord Godalming"
       ],
-      "description": "Lucy’s fiancé and later a principal member of the hunting party.",
+      "description": "Lucy’s fiancé and heir to Lord Godalming, steady where his friends are clever.",
       "portraitImageId": "dracula-char-arthur-portrait",
       "color": "#8f7aa8",
       "tags": [
@@ -1394,7 +1394,7 @@
       "worldId": "dracula-1897-world",
       "name": "Mr Peter Hawkins",
       "aliases": [],
-      "description": "Jonathan’s employer and later benefactor in Exeter.",
+      "description": "Jonathan’s employer in Exeter, who sent him to Transylvania in his own place.",
       "portraitImageId": "dracula-char-hawkins-portrait",
       "color": "#817561",
       "tags": [
@@ -1639,7 +1639,7 @@
       "id": "dracula-item-journal",
       "worldId": "dracula-1897-world",
       "name": "Jonathan’s Journal",
-      "description": "The shorthand record of Castle Dracula and the later hunt.",
+      "description": "The shorthand record Jonathan keeps at Castle Dracula, written where his host cannot read it.",
       "iconType": "book",
       "imageId": "dracula-item-journal-image",
       "tags": [
@@ -8114,7 +8114,7 @@
       "label": "Captor and Prisoner",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Dracula imprisons Jonathan, exploits his legal knowledge, and later becomes the object of his vengeance.",
+      "description": "Dracula wants Jonathan’s legal knowledge, and then wants Jonathan not to leave.",
       "isBidirectional": false,
       "startEventId": "dracula-event-4",
       "createdAt": 1785499200000,
@@ -8212,7 +8212,7 @@
       "label": "Trusted Collaborators",
       "strength": "bond",
       "sentiment": "positive",
-      "description": "Van Helsing recognizes Mina’s intellect and later protects her during the final approach.",
+      "description": "Van Helsing recognises Mina’s intellect and treats it as the best instrument they have.",
       "isBidirectional": true,
       "startEventId": "dracula-event-45",
       "createdAt": 1785499200000,

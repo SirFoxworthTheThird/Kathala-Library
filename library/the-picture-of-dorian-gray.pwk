@@ -932,7 +932,7 @@
       "id": "dorian-gray-char-francis",
       "name": "Francis",
       "aliases": [],
-      "description": "Dorian’s later servant, present during the anxious days at Selby Royal and the final night.",
+      "description": "Dorian’s valet at Grosvenor Square, who answers the door and asks nothing.",
       "portraitImageId": "dorian-gray-image-char-francis",
       "color": "#7c7063",
       "tags": [
@@ -1226,7 +1226,7 @@
       "updatedAt": 1785528000000,
       "id": "dorian-gray-item-screen",
       "name": "Embroidered Screen",
-      "description": "The studio screen and later household barrier used to obstruct sight of the portrait.",
+      "description": "A large screen carried up from the studio and set to stand in front of the portrait.",
       "iconType": "view-grid-outline",
       "imageId": "dorian-gray-image-item-screen",
       "tags": []
@@ -1270,7 +1270,7 @@
       "updatedAt": 1785528000000,
       "id": "dorian-gray-item-basil-bag",
       "name": "Basil’s Bag and Coat",
-      "description": "Effects left in Dorian’s house after Basil’s murder and later burned.",
+      "description": "Basil’s travelling bag and coat, left in the hall on the night he calls at Grosvenor Square.",
       "iconType": "bag-suitcase",
       "imageId": "dorian-gray-image-item-basil-bag",
       "tags": []
@@ -11519,9 +11519,9 @@
       "createdAt": 1785528000000,
       "updatedAt": 1785528000000,
       "id": "dorian-gray-thread-portrait",
-      "name": "The Living Portrait",
+      "name": "The Portrait in the Studio",
       "color": "#7d4d52",
-      "description": "The canvas receives age, cruelty, and guilt while Dorian’s face remains young."
+      "description": "Basil’s portrait of Dorian is the best thing he has painted and the one thing he will not exhibit."
     },
     {
       "worldId": "dorian-gray-world",
@@ -11530,7 +11530,7 @@
       "id": "dorian-gray-thread-influence",
       "name": "Lord Henry’s Influence",
       "color": "#72577c",
-      "description": "Lord Henry’s epigrams and the yellow book teach Dorian to treat life as an aesthetic experiment."
+      "description": "Lord Henry’s epigrams find in Dorian somebody young enough to try them out on his own life."
     },
     {
       "worldId": "dorian-gray-world",
@@ -11539,25 +11539,25 @@
       "id": "dorian-gray-thread-sibyl",
       "name": "Sibyl Vane and the Cost of Art",
       "color": "#a65f79",
-      "description": "Dorian loves Sibyl’s performances, rejects her when love destroys the illusion, and lives after her death."
+      "description": "Dorian falls in love with an actress in a shabby theatre, and with the parts she plays there."
     },
     {
       "worldId": "dorian-gray-world",
       "createdAt": 1785528000000,
       "updatedAt": 1785528000000,
       "id": "dorian-gray-thread-james",
-      "name": "James Vane’s Vengeance",
+      "name": "James Vane’s Promise",
       "color": "#516977",
-      "description": "James’s promise to kill Prince Charming survives eighteen years and follows Dorian from the docks to Selby."
+      "description": "James warns Sibyl against the gentleman she will not name, and swears what he will do if she is wronged."
     },
     {
       "worldId": "dorian-gray-world",
       "createdAt": 1785528000000,
       "updatedAt": 1785528000000,
       "id": "dorian-gray-thread-basil",
-      "name": "Basil’s Conscience",
+      "name": "Basil’s Devotion",
       "color": "#65705a",
-      "description": "Basil’s love, art, warnings, and demand to see Dorian’s soul lead to the attic."
+      "description": "Basil’s feeling for Dorian has changed his painting, and he is afraid of how much of it shows."
     },
     {
       "worldId": "dorian-gray-world",
@@ -11566,7 +11566,7 @@
       "id": "dorian-gray-thread-double-life",
       "name": "The Double Life",
       "color": "#5f5965",
-      "description": "Unaging beauty protects Dorian’s social identity while hidden rooms and East End nights accumulate corruption."
+      "description": "What the portrait has begun to show, and what Dorian decides about who may be allowed to see it."
     },
     {
       "worldId": "dorian-gray-world",
@@ -11593,7 +11593,7 @@
       "id": "dorian-gray-thread-reform",
       "name": "The Failed Reform",
       "color": "#75805c",
-      "description": "Dorian mistakes one spared victim for moral change, but the portrait records vanity and hypocrisy."
+      "description": "Daylight confirms that the portrait has altered, and Dorian resolves to repair the harm he has done."
     },
     {
       "worldId": "dorian-gray-world",
@@ -11620,7 +11620,7 @@
       "id": "dorian-gray-thread-time",
       "name": "Youth Against Time",
       "color": "#6c7885",
-      "description": "Dorian’s fixed appearance hides nearly eighteen years of change from every observer except the portrait."
+      "description": "Lord Henry tells Dorian that youth is the only thing worth having, and the only thing he is certain to lose."
     }
   ],
   "motifs": [

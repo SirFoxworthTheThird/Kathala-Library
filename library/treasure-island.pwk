@@ -1101,7 +1101,7 @@
       "updatedAt": 1786057200000,
       "id": "treasure-island-item-weapons",
       "name": "Muskets and Pistols",
-      "description": "The firearms shifted aft before the mutiny and later distributed among the defenders of the stockade.",
+      "description": "The ship’s firearms, moved aft into the cabin where the squire’s party can reach them.",
       "iconType": "weapon",
       "imageId": "treasure-island-image-stockade",
       "tags": []
@@ -10796,18 +10796,18 @@
       "createdAt": 1786057200000,
       "updatedAt": 1786057200000,
       "id": "treasure-island-thread-map",
-      "name": "Flint’s Map and Treasure",
+      "name": "Billy Bones’s Sea Chest",
       "color": "#b8873d",
-      "description": "The papers taken from Billy Bones lead the expedition to Flint’s cache and conceal Gunn’s decisive intervention."
+      "description": "Whatever the old captain keeps in his chest, other men want it enough to come to the door asking."
     },
     {
       "worldId": "treasure-island-world",
       "createdAt": 1786057200000,
       "updatedAt": 1786057200000,
       "id": "treasure-island-thread-silver",
-      "name": "Silver’s Shifting Allegiance",
+      "name": "The One-Legged Sailor",
       "color": "#777047",
-      "description": "Silver moves between trusted cook, mutineer captain, Jim’s protector, and self-interested survivor."
+      "description": "Billy Bones pays Jim fourpence a month to watch the road for a seafaring man with one leg."
     },
     {
       "worldId": "treasure-island-world",
@@ -10816,7 +10816,7 @@
       "id": "treasure-island-thread-pirates",
       "name": "Flint’s Former Crew",
       "color": "#74483f",
-      "description": "Billy’s old shipmates pursue the papers and later form the core of the Hispaniola mutiny."
+      "description": "Black Dog presses Billy about their old shipmates and about the papers Flint left behind."
     },
     {
       "worldId": "treasure-island-world",
@@ -10825,16 +10825,16 @@
       "id": "treasure-island-thread-expedition",
       "name": "The Treasure Expedition",
       "color": "#486f7f",
-      "description": "Trelawney’s voyage develops from hopeful enterprise into armed survival and eventual return."
+      "description": "Trelawney reads Flint’s account of enormous takings and sets about fitting out a ship."
     },
     {
       "worldId": "treasure-island-world",
       "createdAt": 1786057200000,
       "updatedAt": 1786057200000,
       "id": "treasure-island-thread-mutiny",
-      "name": "The Hispaniola Mutiny",
+      "name": "Smollett’s Objections",
       "color": "#8a3f38",
-      "description": "Silver’s recruited crew prepares, delays, and launches its attempt to seize ship and treasure."
+      "description": "The captain tells the squire that the crew knows too much, and that he does not like the voyage."
     },
     {
       "worldId": "treasure-island-world",
@@ -10868,9 +10868,9 @@
       "createdAt": 1786057200000,
       "updatedAt": 1786057200000,
       "id": "treasure-island-thread-gunn-secret",
-      "name": "Ben Gunn’s Secret",
+      "name": "Ben Gunn",
       "color": "#827943",
-      "description": "The maroon’s hints conceal the fact that the treasure has already been moved."
+      "description": "A man marooned three years on the island, with his own reasons for wanting to meet the party from the ship."
     },
     {
       "worldId": "treasure-island-world",

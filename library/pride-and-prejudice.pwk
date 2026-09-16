@@ -776,7 +776,7 @@
       "id": "pp-char-georgiana",
       "name": "Georgiana Darcy",
       "aliases": [],
-      "description": "Darcy’s shy younger sister, once targeted by Wickham and later befriended by Elizabeth.",
+      "description": "Darcy’s shy younger sister, spoken of a great deal more often than she is seen.",
       "portraitImageId": "pp-image-art-georgiana",
       "color": "#8c8296",
       "tags": [],
@@ -7719,7 +7719,7 @@
       "label": "Influential friends",
       "strength": "strong",
       "sentiment": "positive",
-      "description": "Darcy’s judgment first separates Bingley from Jane and later helps repair the harm.",
+      "description": "Bingley takes Darcy’s judgment for his own, on questions Darcy is not qualified to judge.",
       "isBidirectional": true,
       "startEventId": null
     },
@@ -7775,7 +7775,7 @@
       "label": "Aunt and resistant nephew",
       "strength": "medium",
       "sentiment": "neutral",
-      "description": "She treats family expectation as authority; Darcy ultimately rejects it.",
+      "description": "She treats family expectation as authority, and has long since decided whom he will marry.",
       "isBidirectional": true,
       "startEventId": null
     },
@@ -14883,7 +14883,7 @@
       "id": "pp-thread-darcy-elizabeth",
       "name": "Elizabeth and Darcy",
       "color": "#845f72",
-      "description": "Mutual misjudgment becomes self-knowledge, changed conduct, and love."
+      "description": "Elizabeth and Darcy take each other’s measure at a country assembly, and both of them get it wrong."
     },
     {
       "worldId": "pride-prejudice-world",
@@ -14901,7 +14901,7 @@
       "id": "pp-thread-bingley-jane",
       "name": "Jane and Bingley",
       "color": "#a27883",
-      "description": "A gentle courtship is interrupted by social interference and restored through greater independence."
+      "description": "A single man of large fortune takes Netherfield, and the eldest Miss Bennet is the handsomest girl in the room."
     },
     {
       "worldId": "pride-prejudice-world",
@@ -14944,9 +14944,9 @@
       "createdAt": 1785672000000,
       "updatedAt": 1785672000000,
       "id": "pp-thread-lydia-wickham",
-      "name": "Lydia and Wickham",
+      "name": "Lydia and the Officers",
       "color": "#9c594f",
-      "description": "Impulsive attraction and predatory opportunism threaten the entire family."
+      "description": "Lydia pursues the regiment at Meryton with no interest at all in what it costs anyone else."
     },
     {
       "worldId": "pride-prejudice-world",

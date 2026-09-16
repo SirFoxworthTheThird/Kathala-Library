@@ -651,7 +651,7 @@
       "id": "woman-in-white-character-pesca",
       "name": "Professor Pesca",
       "aliases": [],
-      "description": "Walter’s exuberant Italian friend, whose gratitude wins Walter the Limmeridge post and whose past association later exposes Fosco.",
+      "description": "Walter’s exuberant Italian friend, whose gratitude wins him the Limmeridge post.",
       "portraitImageId": "woman-in-white-image-polo-12",
       "color": "#596b72",
       "tags": [],
@@ -5535,10 +5535,10 @@
       "id": "woman-in-white-relationship-walter-laura",
       "characterAId": "woman-in-white-character-walter",
       "characterBId": "woman-in-white-character-laura",
-      "label": "drawing master and pupil; later spouses",
+      "label": "drawing master and pupil",
       "strength": "bond",
       "sentiment": "positive",
-      "description": "Their restrained affection survives separation, concealment, and the work of restoring Laura’s identity.",
+      "description": "A restrained affection that neither of them is in any position to declare.",
       "isBidirectional": true,
       "startEventId": "woman-in-white-event-walter-8"
     },
@@ -5692,7 +5692,7 @@
       "label": "close friends",
       "strength": "strong",
       "sentiment": "positive",
-      "description": "Their friendship begins in gratitude and later connects Walter to Fosco’s political past.",
+      "description": "A friendship that begins in gratitude, on a day at the seaside neither man will forget.",
       "isBidirectional": true,
       "startEventId": "woman-in-white-event-walter-3"
     },
@@ -10613,9 +10613,9 @@
       "createdAt": 1786838400000,
       "updatedAt": 1786838400000,
       "id": "woman-in-white-thread-identity",
-      "name": "The Identity Exchange",
+      "name": "The Woman on the Road",
       "color": "#8b6070",
-      "description": "Anne and Laura’s resemblance is exploited until testimony and dates can separate the two women again."
+      "description": "A frightened woman dressed all in white stops Walter on the Finchley Road at midnight and asks the way to London."
     },
     {
       "worldId": "woman-in-white-world",
@@ -10624,7 +10624,7 @@
       "id": "woman-in-white-thread-secret",
       "name": "Sir Percival’s Secret",
       "color": "#695b4f",
-      "description": "Anne’s warning points toward a hidden defect in Percival’s family record and social position."
+      "description": "Anne Catherick warns against a baronet she will not name, and will not say what she knows about him."
     },
     {
       "worldId": "woman-in-white-world",
@@ -10633,7 +10633,7 @@
       "id": "woman-in-white-thread-inheritance",
       "name": "Laura’s Fortune",
       "color": "#9b7c49",
-      "description": "The marriage settlement and Laura’s money provide the conspiracy’s financial motive."
+      "description": "Twenty thousand pounds settled on Laura Fairlie, and the marriage settlement a family solicitor is asked to draw."
     },
     {
       "worldId": "woman-in-white-world",
@@ -10642,7 +10642,7 @@
       "id": "woman-in-white-thread-love",
       "name": "Walter and Laura",
       "color": "#8a6f82",
-      "description": "Affection, separation, protection, and the restoration of a shared future form the emotional through-line."
+      "description": "A drawing master and his pupil, and a distance between them that everyone but the two of them can measure."
     },
     {
       "worldId": "woman-in-white-world",

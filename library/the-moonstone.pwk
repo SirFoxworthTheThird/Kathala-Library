@@ -726,7 +726,7 @@
       "id": "moonstone-char-franklin",
       "name": "Franklin Blake",
       "aliases": [],
-      "description": "Rachel’s cosmopolitan cousin, whose determination to recover the truth eventually turns the inquiry upon his own missing memory.",
+      "description": "Rachel’s cosmopolitan cousin, sent down to Yorkshire carrying a birthday present nobody wanted delivered.",
       "portraitImageId": "moonstone-image-jewett-47",
       "color": "#6d6650",
       "tags": [],
@@ -908,7 +908,7 @@
       "id": "moonstone-char-murthwaite",
       "name": "Mr Murthwaite",
       "aliases": [],
-      "description": "A widely travelled observer of India who recognizes the diamond’s religious significance and later witnesses its restoration.",
+      "description": "A widely travelled observer of India, and the only person at the dinner table who understands what the diamond is.",
       "portraitImageId": "moonstone-image-jewett-20",
       "color": "#6d6650",
       "tags": [],
@@ -10627,7 +10627,7 @@
       "id": "moonstone-thread-rosanna",
       "name": "Rosanna’s Concealment",
       "color": "#785d68",
-      "description": "Rosanna’s attempt to protect Franklin preserves the evidence that later clears him."
+      "description": "Rosanna Spearman behaves strangely in the days after the theft, and the household reads it as guilt."
     },
     {
       "worldId": "moonstone-world",
@@ -10636,7 +10636,7 @@
       "id": "moonstone-thread-romance",
       "name": "Rachel and Franklin",
       "color": "#7a4f5d",
-      "description": "Love is tested by eyewitness certainty, silence, accusation, medical explanation, and earned reconciliation."
+      "description": "Cousins thrown together by a birthday, and a quarrel afterwards that neither of them will explain."
     },
     {
       "worldId": "moonstone-world",
@@ -10681,7 +10681,7 @@
       "id": "moonstone-thread-colonial",
       "name": "Empire and Restitution",
       "color": "#755a3d",
-      "description": "The diamond’s English mystery begins in military plunder and ends when its sacred custodians recover it."
+      "description": "The diamond’s English history begins in the plunder of Seringapatam, and three Indians are already watching the house."
     },
     {
       "worldId": "moonstone-world",
