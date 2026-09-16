@@ -597,7 +597,7 @@
       "mapLayerId": "invisible-man-map-burdock",
       "linkedMapLayerId": null,
       "name": "Port Burdock Police Station",
-      "description": "Marvel’s legal refuge eventually becomes the place where disputed money and Griffin’s notebooks enter official custody.",
+      "description": "The station Marvel makes for when he wants the law between himself and Griffin.",
       "x": 1190,
       "y": 530,
       "imageId": "invisible-man-image-locations-burdock-police",
@@ -790,7 +790,7 @@
       "aliases": [
         "Mr Marvel"
       ],
-      "description": "A wary tramp forced into service as Griffin’s visible assistant who eventually escapes with the notebooks and money.",
+      "description": "A wary tramp pressed into service as Griffin’s visible hands.",
       "portraitImageId": "invisible-man-image-characters-marvel",
       "color": "#8a7558",
       "tags": [],
@@ -804,7 +804,7 @@
       "id": "invisible-man-character-mrs-hall",
       "name": "Mrs Jenny Hall",
       "aliases": [],
-      "description": "The capable landlady of the Coach and Horses, initially protective of a paying guest and later unwilling to tolerate intimidation.",
+      "description": "The capable landlady of the Coach and Horses, protective of a paying guest.",
       "portraitImageId": "invisible-man-image-characters-mrs-hall",
       "color": "#8b6659",
       "tags": [],
@@ -1015,7 +1015,7 @@
       "updatedAt": 1787529600000,
       "id": "invisible-man-item-portmanteau",
       "name": "Black Portmanteau",
-      "description": "A travel case carried through the snow and later packed with books, papers, and stolen money.",
+      "description": "A travel case carried through the snow to Iping.",
       "type": "container",
       "imageId": "invisible-man-image-items-portmanteau",
       "tags": []
@@ -1070,7 +1070,7 @@
       "updatedAt": 1787529600000,
       "id": "invisible-man-item-money",
       "name": "Stolen Money",
-      "description": "Coins taken from the vicarage and later carried by Marvel give visible evidence to an unseen crime.",
+      "description": "Coins taken from the vicarage, with nobody seen to take them.",
       "type": "currency",
       "imageId": "invisible-man-image-items-money",
       "tags": []

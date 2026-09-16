@@ -1055,7 +1055,7 @@
       "id": "around-the-world-in-eighty-days-char-proctor",
       "name": "Colonel Stamp Proctor",
       "aliases": [],
-      "description": "A belligerent American encountered first at an election rally and later aboard the transcontinental train.",
+      "description": "A belligerent American first encountered at an election rally.",
       "portraitImageId": "around-the-world-in-eighty-days-image-plate-36",
       "color": "#814a3e",
       "tags": [],
@@ -1240,7 +1240,7 @@
       "updatedAt": 1786060800000,
       "id": "around-the-world-in-eighty-days-item-watch",
       "name": "Passepartout’s Watch",
-      "description": "A cherished watch kept on London time, eventually exposing the westward movement of the apparent day.",
+      "description": "A cherished family watch kept on London time, which its owner will not reset.",
       "iconType": "watch",
       "imageId": "around-the-world-in-eighty-days-image-plate-8",
       "tags": []
@@ -1251,7 +1251,7 @@
       "updatedAt": 1786060800000,
       "id": "around-the-world-in-eighty-days-item-shoes",
       "name": "Passepartout’s Temple Shoes",
-      "description": "The footwear left behind in Bombay and later produced as evidence in Calcutta.",
+      "description": "The footwear left behind in the pagoda at Bombay.",
       "iconType": "clothing",
       "imageId": "around-the-world-in-eighty-days-image-plate-11",
       "tags": []
@@ -6390,7 +6390,7 @@
       "label": "charterer, captor, and buyer",
       "strength": 4,
       "sentiment": "mixed",
-      "description": "Fogg violates the agreed destination but ultimately pays Speedy an extraordinary price for the Henrietta.",
+      "description": "Fogg charters the Henrietta from her captain and then violates the agreed destination.",
       "isBidirectional": false,
       "startEventId": "around-the-world-in-eighty-days-event-064"
     },
