@@ -175,43 +175,72 @@ describe('reading-mode spoilers in the shipped worlds', () => {
       const key = sortKeys(w)
       const seen = firstSeen(w)
 
-      const names: { name: string; id: string }[] = []
-      for (const c of w.characters ?? []) {
-        for (const n of [c.name, ...(c.aliases ?? [])]) {
-          if (n && n.trim().length >= 4) names.push({ name: n.trim(), id: c.id })
-        }
+      /*
+        Three things below are for speed, and they are here because this test
+        passed locally at 4.3s and *timed out* on CI against vitest's 5s
+        default. A timeout is reported as a failing test, so it read as "the
+        library has a spoiler in it" when the library was fine. Measured on
+        this machine: 4296ms → 803ms.
+
+        The regexes are compiled once per world rather than once per `split`
+        call, which was a hundred-odd `new RegExp` across a thousand-odd calls.
+        (Worth ~0.5s of the total — most of the win is the substring check in
+        `split` below.)
+      */
+      const names: { id: string; lower: string; bounded: RegExp; plain: RegExp }[] = []
+      const addName = (n: string | undefined, id: string) => {
+        const name = n?.trim()
+        if (!name || name.length < 4) return
+        names.push({
+          id,
+          lower: name.toLowerCase(),
+          bounded: new RegExp(`(^|[^\\p{L}\\p{N}])(${escape(name)})(?=$|[^\\p{L}\\p{N}])`, 'iu'),
+          plain: new RegExp(escape(name), 'giu'),
+        })
       }
-      for (const i of w.items ?? []) if (i.name.length >= 4) names.push({ name: i.name, id: i.id })
-      names.sort((a, b) => b.name.length - a.name.length)
+      for (const c of w.characters ?? []) {
+        addName(c.name, c.id)
+        for (const alias of c.aliases ?? []) addName(alias, c.id)
+      }
+      for (const i of w.items ?? []) addName(i.name, i.id)
 
       // Entity names are matched and then struck out, so the words left over are
       // the claim rather than the cast.
       const split = (text: string) => {
         const ids = new Set<string>()
         let rest = text
-        for (const { name, id } of names) {
-          const re = new RegExp(`(^|[^\\p{L}\\p{N}])(${escape(name)})(?=$|[^\\p{L}\\p{N}])`, 'giu')
-          if (re.test(rest)) {
-            ids.add(id)
-            rest = rest.replace(new RegExp(escape(name), 'giu'), ' ')
-          }
+        let lower = text.toLowerCase()
+        for (const { id, lower: needle, bounded, plain } of names) {
+          // A plain substring check first, and the reason this test runs in
+          // under a second. Almost every name is absent from almost every
+          // description, and `includes` rejects those without touching the
+          // unicode-aware regex behind it.
+          if (!lower.includes(needle) || !bounded.test(rest)) continue
+          ids.add(id)
+          plain.lastIndex = 0
+          rest = rest.replace(plain, ' ')
+          lower = rest.toLowerCase()
         }
         return { ids, words: contentWords(rest) }
       }
 
-      const standing: { kind: string; label: string; at: number; text: string }[] = []
-      for (const t of threadsAndMotifs(w)) {
-        const at = seen.get(t.id)
-        if (at !== undefined) standing.push({ kind: 'thread', label: t.name, at, text: `${t.name} ${t.description ?? ''}` })
+      /*
+        Split every record once, not once per fact.
+
+        The obvious nesting — walk the facts, and inside that walk the standing
+        records — re-runs `split` over the same description for every fact in
+        the world. Worth ~0.1s on its own; kept because the cost grows with the
+        product of the two and the next long book would pay it again.
+      */
+      const standing: { kind: string; label: string; at: number; parts: ReturnType<typeof split> }[] = []
+      const addStanding = (kind: string, label: string, id: string, text: string | undefined) => {
+        const at = seen.get(id)
+        if (at === undefined || !text) return
+        standing.push({ kind, label, at, parts: split(text) })
       }
-      for (const c of w.characters ?? []) {
-        const at = seen.get(c.id)
-        if (at !== undefined && c.description) standing.push({ kind: 'character', label: c.name, at, text: c.description })
-      }
-      for (const i of w.items ?? []) {
-        const at = seen.get(i.id)
-        if (at !== undefined && i.description) standing.push({ kind: 'item', label: i.name, at, text: i.description })
-      }
+      for (const t of threadsAndMotifs(w)) addStanding('thread', t.name, t.id, `${t.name} ${t.description ?? ''}`)
+      for (const c of w.characters ?? []) addStanding('character', c.name, c.id, c.description)
+      for (const i of w.items ?? []) addStanding('item', i.name, i.id, i.description)
 
       for (const fact of w.knowledgeFacts ?? []) {
         const learnedAt = fact.readerLearnsAtEventId ? key.get(fact.readerLearnsAtEventId) : undefined
@@ -223,7 +252,7 @@ describe('reading-mode spoilers in the shipped worlds', () => {
           // secret sitting in the same chapter is ordering, not a spoiler.
           if (learnedAt - r.at < 1) continue
           compared++
-          const got = split(r.text)
+          const got = r.parts
           const sharedNames = [...secret.ids].filter((id) => got.ids.has(id))
           if (sharedNames.length < 2) continue
           const sharedWords = [...secret.words].filter((word) => got.words.has(word))
