@@ -727,7 +727,7 @@
       "mapLayerId": "phantom-map-lake-house",
       "linkedMapLayerId": null,
       "name": "Little Well",
-      "description": "A narrow well and burial place near the hidden house, later central to the narrator’s evidence.",
+      "description": "A narrow well near the hidden house, and a burial place.",
       "x": 1210,
       "y": 435,
       "iconType": "pin",
@@ -4999,7 +4999,7 @@
       "label": "Brothers",
       "strength": 7,
       "sentiment": "positive",
-      "description": "Philippe protects family standing but ultimately follows Raoul into the Opera danger.",
+      "description": "Philippe protects the family standing his younger brother is risking.",
       "isBidirectional": true,
       "startEventId": "phantom-event-03-2"
     },

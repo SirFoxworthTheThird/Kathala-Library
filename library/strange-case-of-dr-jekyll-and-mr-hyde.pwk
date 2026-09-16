@@ -451,7 +451,7 @@
       "mapLayerId": "jekyll-hyde-map-laboratory",
       "linkedMapLayerId": null,
       "name": "Private Cabinet",
-      "description": "Jekyll’s locked inner room, later occupied by the pacing Hyde.",
+      "description": "Jekyll’s locked inner room above the old dissecting theatre.",
       "x": 760,
       "y": 317,
       "iconType": "room",
@@ -3209,7 +3209,7 @@
       "label": "Old friends",
       "strength": "strong",
       "sentiment": "positive",
-      "description": "Utterson relies on Lanyon’s judgment and later guards his testimony.",
+      "description": "Utterson relies on Lanyon’s judgment, and Lanyon will not discuss Jekyll.",
       "isBidirectional": true,
       "startEventId": null
     },

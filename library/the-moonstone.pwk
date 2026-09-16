@@ -437,7 +437,7 @@
       "mapLayerId": "moonstone-map-estate",
       "linkedMapLayerId": null,
       "name": "Franklin’s Bedroom",
-      "description": "The guest room and dressing area connected to the stained nightgown, Rosanna’s concealment, and the later experiment.",
+      "description": "The guest room and dressing area, and the door between them.",
       "x": 930,
       "y": 323,
       "imageId": "moonstone-image-jewett-16",
@@ -1217,7 +1217,7 @@
       "updatedAt": 1786464000000,
       "id": "moonstone-item-laudanum",
       "name": "Laudanum Dose",
-      "description": "Opium administered first without Franklin’s knowledge and later under controlled conditions to recover the lost sequence.",
+      "description": "Opium, administered to Franklin without his knowledge.",
       "iconType": "medicine",
       "imageId": "moonstone-image-jewett-63",
       "tags": []
