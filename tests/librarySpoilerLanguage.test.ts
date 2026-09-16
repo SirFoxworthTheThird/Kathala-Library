@@ -41,6 +41,7 @@ interface Event {
 }
 interface World {
   chapters?: { id: string; number: number }[]
+  characterGoals?: { characterId: string; text?: string }[]
   events?: Event[]
   characters?: Character[]
   items?: Named[]
@@ -133,6 +134,38 @@ describe('reading-mode spoilers in the shipped worlds', () => {
     }
     expect(checked).toBeGreaterThan(400)
     expect(found, `these tell a reader what happens after the scene that reveals them:\n${found.slice(0, 8).join('\n')}`)
+      .toEqual([])
+  })
+
+  /*
+    EX-407, the half of it a machine can check.
+
+    A goal is shown from its own start event onward and never changes, so it is
+    a standing record in everything but name. A reader run found one appearing
+    at chapter 4 — correctly gated, and still naming two people they had not met
+    and a threat not yet made. That one names rather than foretells and this
+    rule does not catch it; what it does catch is a goal written from the far
+    end of the arc it belongs to.
+
+    Knowledge facts are deliberately *not* checked. Fourteen of the library's
+    409 trip this word list and only a third are real: "no later than the exact
+    agreed second" is a deadline, "Franklin cannot later remember" is the fact
+    itself. A gate that fires two-thirds wrong gets baselined into silence, so
+    EX-407 asks for facts in prose and settles for goals in a test.
+  */
+  it('never lets a character goal promise a later chapter', () => {
+    const found: string[] = []
+    let checked = 0
+    for (const [file, w] of parsed) {
+      for (const g of w.characterGoals ?? []) {
+        if (!g.text) continue
+        checked++
+        const hit = FORWARD_LOOKING.find((re) => re.test(g.text as string))
+        if (hit) found.push(`${file} — ${hit} in ${JSON.stringify(g.text)}`)
+      }
+    }
+    expect(checked).toBeGreaterThan(200)
+    expect(found, `these reach past the scene that reveals them:\n${found.slice(0, 8).join('\n')}`)
       .toEqual([])
   })
 
