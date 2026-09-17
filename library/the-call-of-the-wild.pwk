@@ -7210,19 +7210,6 @@
       "coverImageId": null,
       "linkedEntityIds": [],
       "visibleFromEventId": "call-wild-event-raid"
-    },
-    {
-      "worldId": "call-wild-world",
-      "createdAt": 1788393600000,
-      "updatedAt": 1788393600000,
-      "id": "call-wild-lore-omissions",
-      "categoryId": "call-wild-lore-category-book",
-      "title": "Intentional Feature Decisions",
-      "body": "One timeline is sufficient because Buck’s story is linear. No map regions, floor groups, cross-timeline artifacts, annotations, or writing logs are added: none clarifies this narrative. Relationship snapshots record initial states; later changes are expressed only where the relationship itself materially begins or ends.",
-      "tags": [],
-      "coverImageId": null,
-      "linkedEntityIds": [],
-      "visibleFromEventId": "call-wild-event-estate"
     }
   ],
   "factions": [
