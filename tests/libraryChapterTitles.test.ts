@@ -59,7 +59,17 @@ const worldsBySlug = new Map(Object.entries(worldFiles).map(([path, text]) => {
   return [file.replace(/\.pwk$/, ''), JSON.parse(text) as World] as const
 }))
 
-/** Worlds whose chapter names were written for the example, not by the author. */
+/**
+ * Worlds whose chapter names were written for the world, not by the author.
+ *
+ * **Adding one here means editing the application's guide too.** `docs/GUIDE.md`
+ * names these books by hand, under *Chapter titles* — it has to, because a
+ * reader wants to know which titles are the author's and which are ours, and no
+ * test spans the two repositories. That list said *"Two books … Jane Eyre and
+ * The Odyssey"* for as long as there were five, having been written when there
+ * were two and never revisited when The Iliad, Wuthering Heights and The Woman
+ * in White joined them.
+ */
 const EDITORIAL_TITLES = [
   'jane-eyre', 'the-iliad', 'the-odyssey', 'the-woman-in-white', 'wuthering-heights',
 ]
