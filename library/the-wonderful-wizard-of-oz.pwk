@@ -11766,7 +11766,7 @@
       "label": "rescuer and debtor",
       "strength": "moderate",
       "sentiment": "positive",
-      "description": "An axe swung at a wildcat buys a friendship that saves a lion and later finds a lost road.",
+      "description": "An axe swung at a wildcat buys a friendship.",
       "isBidirectional": true,
       "startEventId": "oz-event-wildcat"
     },
@@ -16017,7 +16017,7 @@
       "id": "oz-lore-maps",
       "categoryId": "oz-lore-category-sources",
       "title": "The Maps in This World",
-      "body": "Baum published no map of Oz with the 1900 edition, so every layer here is an interpretation. Six of the seven — the Land of Oz, the Emerald City, the Palace, the Yellow Castle, the China Country and Glinda’s Castle — are AI-generated maps supplied by this world’s author; the Kansas layer was drawn for this example from what the text states. The six carry names and country the 1900 book does not: the Land of Oz puts the poppy field and the china country where the sequels put them rather than where Dorothy meets them on the road, and its border figures follow the 1939 film’s designs; the palace plans name Princess Ozma and the Book of Records, which arrive in later books; the city is given four gates where the book gives it one; and the china country is given a capital, Porcelainia, that the text never mentions. Markers are pinned to the feature each painting names, so the journey doubles back west of the Emerald City between the river and the poppies; the chapter order, not the line on the map, is the record of where the party went. No layer carries a scale, so nothing here should be read as a distance.",
+      "body": "Baum published no map of Oz with the 1900 edition, so every layer here is an interpretation. Six of the seven — the Land of Oz, the Emerald City, the Palace, the Yellow Castle, the China Country and Glinda’s Castle — are AI-generated maps supplied by this world’s author; the Kansas layer was drawn for this world from what the text states. The six carry names and country the 1900 book does not: the Land of Oz puts the poppy field and the china country where the sequels put them rather than where Dorothy meets them on the road, and its border figures follow the 1939 film’s designs; the palace plans name Princess Ozma and the Book of Records, which arrive in later books; the city is given four gates where the book gives it one; and the china country is given a capital, Porcelainia, that the text never mentions. Markers are pinned to the feature each painting names, so the journey doubles back west of the Emerald City between the river and the poppies; the chapter order, not the line on the map, is the record of where the party went. No layer carries a scale, so nothing here should be read as a distance.",
       "tags": [],
       "coverImageId": null,
       "linkedEntityIds": [],

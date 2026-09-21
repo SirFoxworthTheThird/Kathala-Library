@@ -651,7 +651,7 @@
       "id": "woman-in-white-character-pesca",
       "name": "Professor Pesca",
       "aliases": [],
-      "description": "Walter’s exuberant Italian friend, whose gratitude wins Walter the Limmeridge post and whose past association later exposes Fosco.",
+      "description": "Walter’s exuberant Italian friend, whose gratitude wins him the Limmeridge post.",
       "portraitImageId": "woman-in-white-image-polo-12",
       "color": "#596b72",
       "tags": [],
@@ -5535,10 +5535,10 @@
       "id": "woman-in-white-relationship-walter-laura",
       "characterAId": "woman-in-white-character-walter",
       "characterBId": "woman-in-white-character-laura",
-      "label": "drawing master and pupil; later spouses",
+      "label": "drawing master and pupil",
       "strength": "bond",
       "sentiment": "positive",
-      "description": "Their restrained affection survives separation, concealment, and the work of restoring Laura’s identity.",
+      "description": "A restrained affection that neither of them is in any position to declare.",
       "isBidirectional": true,
       "startEventId": "woman-in-white-event-walter-8"
     },
@@ -5692,7 +5692,7 @@
       "label": "close friends",
       "strength": "strong",
       "sentiment": "positive",
-      "description": "Their friendship begins in gratitude and later connects Walter to Fosco’s political past.",
+      "description": "A friendship that begins in gratitude, on a day at the seaside neither man will forget.",
       "isBidirectional": true,
       "startEventId": "woman-in-white-event-walter-3"
     },
@@ -5920,7 +5920,7 @@
       "id": "woman-in-white-chapter-05",
       "timelineId": "woman-in-white-timeline-main",
       "number": 5,
-      "title": "Walter V: Escape from the Asylum",
+      "title": "Walter V: The Men Who Came After Her",
       "summary": "Men searching the road reveal that the woman Walter assisted has escaped from a private asylum.",
       "status": "final",
       "targetWordCount": null
@@ -5956,7 +5956,7 @@
       "id": "woman-in-white-chapter-08",
       "timelineId": "woman-in-white-timeline-main",
       "number": 8,
-      "title": "Walter VIII: Laura and the Likeness",
+      "title": "Walter VIII: Miss Fairlie",
       "summary": "Walter meets Laura and is startled by her resemblance to the woman he encountered outside London.",
       "status": "final",
       "targetWordCount": null
@@ -6028,7 +6028,7 @@
       "id": "woman-in-white-chapter-14",
       "timelineId": "woman-in-white-timeline-main",
       "number": 14,
-      "title": "Walter XIV: The Secret and the Farewell",
+      "title": "Walter XIV: The Last of Limmeridge",
       "summary": "Anne cannot fully disclose Percival’s secret; Walter leaves Limmeridge after a final painful meeting with Laura.",
       "status": "final",
       "targetWordCount": null
@@ -6076,7 +6076,7 @@
       "id": "woman-in-white-chapter-18",
       "timelineId": "woman-in-white-timeline-main",
       "number": 18,
-      "title": "Gilmore III: Laura Accepts the Marriage",
+      "title": "Gilmore III: The Question Put to Laura",
       "summary": "Laura refuses to break the promise made to her father, even after Gilmore explains the settlement’s danger.",
       "status": "final",
       "targetWordCount": null
@@ -6088,7 +6088,7 @@
       "id": "woman-in-white-chapter-19",
       "timelineId": "woman-in-white-timeline-main",
       "number": 19,
-      "title": "Gilmore IV: The Settlement Is Signed",
+      "title": "Gilmore IV: The Terms of the Settlement",
       "summary": "Fairlie declines to fight the terms, and the marriage settlement is completed over Gilmore’s objections.",
       "status": "final",
       "targetWordCount": null
@@ -6304,7 +6304,7 @@
       "id": "woman-in-white-chapter-37",
       "timelineId": "woman-in-white-timeline-main",
       "number": 37,
-      "title": "Jane Gould: Preparing the Burial",
+      "title": "Jane Gould: Her Statement",
       "summary": "Jane Gould’s evidence helps complete the official chain from the London death to the coffin sent north.",
       "status": "final",
       "targetWordCount": null
@@ -6316,7 +6316,7 @@
       "id": "woman-in-white-chapter-38",
       "timelineId": "woman-in-white-timeline-main",
       "number": 38,
-      "title": "The Tombstone at Limmeridge",
+      "title": "The Narrative of the Tombstone",
       "summary": "A formal record states that Laura, Lady Glyde, died on July 25, 1850, and was buried beside her mother.",
       "status": "final",
       "targetWordCount": null
@@ -6340,7 +6340,7 @@
       "id": "woman-in-white-chapter-40",
       "timelineId": "woman-in-white-timeline-main",
       "number": 40,
-      "title": "Third Epoch — Walter I: Laura at Her Own Grave",
+      "title": "Third Epoch — Walter I: Return to Limmeridge",
       "summary": "At Limmeridge Churchyard, Walter sees Marian with a living woman he recognizes as Laura beside Laura’s own tombstone.",
       "status": "final",
       "targetWordCount": null
@@ -6364,7 +6364,7 @@
       "id": "woman-in-white-chapter-42",
       "timelineId": "woman-in-white-timeline-main",
       "number": 42,
-      "title": "Walter III: The Conspiracy Takes Shape",
+      "title": "Walter III: What Can Be Proved",
       "summary": "Walter combines Marian’s diary, the burial record, and Laura’s fragments of memory into a working theory of exchanged identities.",
       "status": "final",
       "targetWordCount": null
@@ -6412,7 +6412,7 @@
       "id": "woman-in-white-chapter-46",
       "timelineId": "woman-in-white-timeline-main",
       "number": 46,
-      "title": "Walter VII: Anne’s Parentage",
+      "title": "Walter VII: Old Welmingham",
       "summary": "Walter discovers that Anne and Laura shared a father, explaining their resemblance without making them interchangeable.",
       "status": "final",
       "targetWordCount": null
@@ -6448,7 +6448,7 @@
       "id": "woman-in-white-chapter-49",
       "timelineId": "woman-in-white-timeline-main",
       "number": 49,
-      "title": "Walter X: The Vestry Fire",
+      "title": "Walter X: The Vestry at Old Welmingham",
       "summary": "Percival breaks into the vestry to destroy the register, accidentally sets the building alight, and is trapped.",
       "status": "final",
       "targetWordCount": null
@@ -6460,7 +6460,7 @@
       "id": "woman-in-white-chapter-50",
       "timelineId": "woman-in-white-timeline-main",
       "number": 50,
-      "title": "Walter XI: The Inquest",
+      "title": "Walter XI: After Old Welmingham",
       "summary": "The inquest confirms Percival’s accidental death but cannot replace the destroyed register as evidence in Laura’s case.",
       "status": "final",
       "targetWordCount": null
@@ -6484,7 +6484,7 @@
       "id": "woman-in-white-chapter-52",
       "timelineId": "woman-in-white-timeline-main",
       "number": 52,
-      "title": "Walter I: The Register’s Secret",
+      "title": "Walter I: Knowlesbury",
       "summary": "Walter verifies Mrs Catherick’s account and distinguishes Percival’s motive from Fosco’s execution of the identity exchange.",
       "status": "final",
       "targetWordCount": null
@@ -6508,7 +6508,7 @@
       "id": "woman-in-white-chapter-54",
       "timelineId": "woman-in-white-timeline-main",
       "number": 54,
-      "title": "Walter III: Marriage and Recovery",
+      "title": "Walter III: London Again",
       "summary": "Walter and Laura marry privately, choosing a shared life before public restoration of her name is complete.",
       "status": "final",
       "targetWordCount": null
@@ -6532,7 +6532,7 @@
       "id": "woman-in-white-chapter-56",
       "timelineId": "woman-in-white-timeline-main",
       "number": 56,
-      "title": "Walter V: Pesca Recognises Fosco",
+      "title": "Walter V: Pesca’s Past",
       "summary": "At the opera, Pesca sees Fosco and reacts with fear and recognition that contradicts the Count’s public identity.",
       "status": "final",
       "targetWordCount": null
@@ -6544,7 +6544,7 @@
       "id": "woman-in-white-chapter-57",
       "timelineId": "woman-in-white-timeline-main",
       "number": 57,
-      "title": "Walter VI: The Brotherhood’s Mark",
+      "title": "Walter VI: An Errand to Fosco",
       "summary": "Pesca explains the brotherhood’s discipline and gives Walter leverage more immediate than English legal proceedings.",
       "status": "final",
       "targetWordCount": null
@@ -6568,7 +6568,7 @@
       "id": "woman-in-white-chapter-59",
       "timelineId": "woman-in-white-timeline-main",
       "number": 59,
-      "title": "Fosco: The Confession",
+      "title": "Fosco: His Narrative",
       "summary": "Fosco writes how Anne died under Laura’s name and Laura was committed as Anne, fixing the dates and responsibilities.",
       "status": "final",
       "targetWordCount": null
@@ -6580,7 +6580,7 @@
       "id": "woman-in-white-chapter-60",
       "timelineId": "woman-in-white-timeline-main",
       "number": 60,
-      "title": "Conclusion I: Laura’s Identity Restored",
+      "title": "Conclusion I: Walter’s Narrative Resumed",
       "summary": "Fosco’s confession and the corrected chronology allow Laura’s name to be restored publicly at Limmeridge.",
       "status": "final",
       "targetWordCount": null
@@ -6592,7 +6592,7 @@
       "id": "woman-in-white-chapter-61",
       "timelineId": "woman-in-white-timeline-main",
       "number": 61,
-      "title": "Conclusion II: Fosco’s Death in Paris",
+      "title": "Conclusion II: Paris",
       "summary": "While working in Paris, Walter and Pesca identify Fosco after his body is recovered from the Seine and displayed at the Morgue.",
       "status": "final",
       "targetWordCount": null
@@ -6604,7 +6604,7 @@
       "id": "woman-in-white-chapter-62",
       "timelineId": "woman-in-white-timeline-main",
       "number": 62,
-      "title": "Conclusion III: Heir of Limmeridge",
+      "title": "Conclusion III: Limmeridge",
       "summary": "Walter, Laura, and Marian return to Limmeridge with Walter and Laura’s son, now heir to the estate.",
       "status": "final",
       "targetWordCount": null
@@ -9485,7 +9485,7 @@
       "id": "woman-in-white-lore-sources",
       "categoryId": "woman-in-white-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The manuscript contains the complete narrative text of Wilkie Collins’s public-domain novel from Project Gutenberg eBook #583, arranged across its successive witnesses and documentary sections. Gutenberg packaging and the contents list are excluded. Structure and chronology follow the novel and a scholarly chronology. Linked illustrations come from the 1875 Polo edition and Thomas Eyre Macklin; map layers are historical editorial aids, not exact plans of fictional estates.",
+      "body": "The manuscript contains the complete narrative text of Wilkie Collins’s public-domain novel from Project Gutenberg eBook #583, arranged across its successive witnesses and documentary sections. Gutenberg packaging and the contents list are excluded. Structure and chronology follow the novel and a scholarly chronology. Linked illustrations come from the 1875 Polo edition and Thomas Eyre Macklin; map layers are historical editorial aids, not exact plans of fictional estates. Collins numbered his chapters within each narrative and did not name them, so the chapter names shown here are editorial titles supplied for this edition: they identify the narrator and the place or occasion, and deliberately do not say what happens in the chapter.",
       "tags": [],
       "coverImageId": "woman-in-white-image-polo-46",
       "linkedEntityIds": [],
@@ -10613,9 +10613,9 @@
       "createdAt": 1786838400000,
       "updatedAt": 1786838400000,
       "id": "woman-in-white-thread-identity",
-      "name": "The Identity Exchange",
+      "name": "The Woman on the Road",
       "color": "#8b6070",
-      "description": "Anne and Laura’s resemblance is exploited until testimony and dates can separate the two women again."
+      "description": "A frightened woman dressed all in white stops Walter on the Finchley Road at midnight and asks the way to London."
     },
     {
       "worldId": "woman-in-white-world",
@@ -10624,7 +10624,7 @@
       "id": "woman-in-white-thread-secret",
       "name": "Sir Percival’s Secret",
       "color": "#695b4f",
-      "description": "Anne’s warning points toward a hidden defect in Percival’s family record and social position."
+      "description": "Anne Catherick warns against a baronet she will not name, and will not say what she knows about him."
     },
     {
       "worldId": "woman-in-white-world",
@@ -10633,7 +10633,7 @@
       "id": "woman-in-white-thread-inheritance",
       "name": "Laura’s Fortune",
       "color": "#9b7c49",
-      "description": "The marriage settlement and Laura’s money provide the conspiracy’s financial motive."
+      "description": "Twenty thousand pounds settled on Laura Fairlie, and the marriage settlement a family solicitor is asked to draw."
     },
     {
       "worldId": "woman-in-white-world",
@@ -10642,7 +10642,7 @@
       "id": "woman-in-white-thread-love",
       "name": "Walter and Laura",
       "color": "#8a6f82",
-      "description": "Affection, separation, protection, and the restoration of a shared future form the emotional through-line."
+      "description": "A drawing master and his pupil, and a distance between them that everyone but the two of them can measure."
     },
     {
       "worldId": "woman-in-white-world",

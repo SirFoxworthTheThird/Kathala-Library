@@ -556,7 +556,7 @@
       "id": "wuthering-heights-char-zillah",
       "name": "Zillah",
       "aliases": [],
-      "description": "The later housekeeper at Wuthering Heights who shelters Lockwood and reports Cathy’s isolation.",
+      "description": "The housekeeper at Wuthering Heights who shelters Lockwood.",
       "portraitImageId": "wuthering-heights-image-character-zillah",
       "color": "#64748b",
       "tags": [],
@@ -668,7 +668,7 @@
       "updatedAt": 1789322400000,
       "id": "wuthering-heights-item-hareton-books",
       "name": "Hareton’s Books",
-      "description": "Books first associated with humiliation and later with Cathy’s effort to teach Hareton.",
+      "description": "Books first associated with humiliation.",
       "iconType": "object",
       "imageId": "wuthering-heights-image-item-hareton-books",
       "tags": []

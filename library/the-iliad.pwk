@@ -1143,7 +1143,7 @@
       "updatedAt": 1799539200000,
       "id": "iliad-item-new-armour",
       "name": "Armour Forged by Hephaestus",
-      "description": "A complete divine panoply whose arrival and purpose are revealed in the later action.",
+      "description": "A complete divine panoply, made at a mother’s asking.",
       "iconType": "shield",
       "imageId": "iliad-image-art-item-new-armour",
       "tags": []
@@ -5869,7 +5869,7 @@
       "label": "son and father",
       "strength": 5,
       "sentiment": "positive",
-      "description": "Hector carries Priam’s city in battle; Priam later crosses the enemy camp to recover him.",
+      "description": "Hector carries Priam’s city in battle, and Priam watches from the wall.",
       "isBidirectional": true,
       "startEventId": "iliad-event-010"
     },
@@ -10642,7 +10642,7 @@
       "id": "iliad-lore-12",
       "categoryId": "iliad-lore-category-sources",
       "title": "Artwork and Map Provenance",
-      "body": "The cover, all character portraits, all item studies, all location scenes, and all three navigable maps are original AI-generated illustrations created for this PlotWeave example. They are interpretive reader reconstructions, not archaeological plans or official editions. No generated image is used as evidence for event chronology. The root Troad map expresses only broad story-relative position; the Troy and Achaean Camp layouts are schematic, and distances, street plans, tent positions, and gateway coordinates are editorial. Asset identities and prompts are recorded in scripts/iliad/asset-manifest.json.",
+      "body": "The cover, all character portraits, all item studies, all location scenes, and all three navigable maps are original AI-generated illustrations created for this world. They are interpretive reader reconstructions, not archaeological plans or official editions. No generated image is used as evidence for event chronology. The root Troad map expresses only broad story-relative position; the Troy and Achaean Camp layouts are schematic, and distances, street plans, tent positions, and gateway coordinates are editorial.",
       "tags": [],
       "coverImageId": "iliad-image-art-troad",
       "linkedEntityIds": [],

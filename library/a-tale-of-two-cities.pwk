@@ -226,7 +226,7 @@
       "mapLayerId": "tale-of-two-cities-map-route",
       "linkedMapLayerId": null,
       "name": "Evrémonde Château",
-      "description": "The stone country seat whose inherited cruelty Darnay renounces and revolution later burns.",
+      "description": "The stone country seat whose inherited cruelty Darnay renounces.",
       "x": 730,
       "y": 394,
       "imageId": "tale-of-two-cities-image-barnard-20",
@@ -402,7 +402,7 @@
       "mapLayerId": "tale-of-two-cities-map-paris",
       "linkedMapLayerId": null,
       "name": "The Bastille",
-      "description": "The fortress at the eastern end of the city that holds Manette for eighteen years and later yields his hidden testimony.",
+      "description": "The fortress at the eastern end of the city that held Manette for eighteen years.",
       "x": 1030,
       "y": 457,
       "imageId": "tale-of-two-cities-image-phiz-5",
@@ -769,7 +769,7 @@
       "id": "tale-of-two-cities-char-cly",
       "name": "Roger Cly",
       "aliases": [],
-      "description": "A fellow spy whose staged English funeral conceals his later service in revolutionary Paris.",
+      "description": "An Old Bailey witness who swears he had no motive in giving evidence but public duty.",
       "portraitImageId": "tale-of-two-cities-image-phiz-14",
       "color": "#76554d",
       "tags": [],
@@ -3971,7 +3971,7 @@
       "label": "son-in-law and inherited wound",
       "strength": 5,
       "sentiment": "mixed",
-      "description": "Manette loves Darnay while the Evrémonde name awakens trauma and eventually condemns him through the hidden letter.",
+      "description": "Manette loves Darnay, and cannot always hear the name Evrémonde without the past coming back.",
       "isBidirectional": true,
       "startEventId": "tale-of-two-cities-event-020"
     },
@@ -4027,7 +4027,7 @@
       "label": "former servant and revolutionary witness",
       "strength": 4,
       "sentiment": "mixed",
-      "description": "Defarge shelters the released doctor and later uses the document hidden in his cell against Darnay.",
+      "description": "Defarge was the doctor’s servant once, and sheltered him when he came out of the Bastille.",
       "isBidirectional": false,
       "startEventId": "tale-of-two-cities-event-006"
     },
@@ -7565,7 +7565,7 @@
       "id": "tale-of-two-cities-lore-page-1",
       "categoryId": "tale-of-two-cities-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The example follows all three books and forty-five chapters of the public-domain Project Gutenberg text. Visuals link to mature period engravings by Fred Barnard and Hablot K. Browne (“Phiz”) on Wikimedia Commons and Project Gutenberg. The route, London, and Paris layers use linked historical maps rather than decorative scene art.",
+      "body": "This world follows all three books and forty-five chapters of the public-domain Project Gutenberg text. Visuals link to mature period engravings by Fred Barnard and Hablot K. Browne (“Phiz”) on Wikimedia Commons and Project Gutenberg. The route, London, and Paris layers use linked historical maps rather than decorative scene art.",
       "tags": [],
       "coverImageId": "tale-of-two-cities-image-cover",
       "linkedEntityIds": [
@@ -9178,7 +9178,7 @@
       "id": "tale-of-two-cities-thread-sacrifice",
       "name": "Carton’s Promise",
       "color": "#67546c",
-      "description": "A private promise becomes a carefully executed rescue and a freely chosen future for others."
+      "description": "Carton tells Lucie exactly what he is and what he would do for her, and asks her to remember it."
     }
   ],
   "motifs": [

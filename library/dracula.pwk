@@ -6,7 +6,7 @@
     "readingMode": true,
     "id": "dracula-1897-world",
     "name": "Dracula",
-    "description": "Count Dracula leaves his Transylvanian castle and carries his predation into England. As Lucy Westenra falls under his influence and Mina Harker becomes his next target, a group of friends unites its knowledge, faith, and courage to hunt him back across Europe.",
+    "description": "Count Dracula arranges, through an English solicitor sent out to his castle in the Carpathians, to buy property in London and move himself there. What follows is assembled afterwards from the journals, letters and records of the people who came to understand what he was.",
     "coverImageId": "dracula-image-cover",
     "theme": "theme-horror",
     "createdAt": 1785499200000,
@@ -1063,7 +1063,7 @@
       "mapLayerId": "dracula-map-whitby",
       "linkedMapLayerId": null,
       "name": "East Cliff",
-      "description": "Mina watches the sea and later searches for sleepwalking Lucy.",
+      "description": "The cliff above the harbour, with its churchyard seat, where Mina sits and watches the sea.",
       "x": 920,
       "y": 434,
       "iconType": "landmark",
@@ -1244,7 +1244,7 @@
     {
       "id": "dracula-char-mina",
       "worldId": "dracula-1897-world",
-      "name": "Wilhelmina “Mina” Murray Harker",
+      "name": "Wilhelmina “Mina” Murray",
       "aliases": [
         "Mina Murray",
         "Mina Harker"
@@ -1325,7 +1325,7 @@
       "aliases": [
         "Lord Godalming"
       ],
-      "description": "Lucy’s fiancé and later a principal member of the hunting party.",
+      "description": "Lucy’s fiancé and heir to Lord Godalming, steady where his friends are clever.",
       "portraitImageId": "dracula-char-arthur-portrait",
       "color": "#8f7aa8",
       "tags": [
@@ -1394,7 +1394,7 @@
       "worldId": "dracula-1897-world",
       "name": "Mr Peter Hawkins",
       "aliases": [],
-      "description": "Jonathan’s employer and later benefactor in Exeter.",
+      "description": "Jonathan’s employer in Exeter, who sent him to Transylvania in his own place.",
       "portraitImageId": "dracula-char-hawkins-portrait",
       "color": "#817561",
       "tags": [
@@ -1639,7 +1639,7 @@
       "id": "dracula-item-journal",
       "worldId": "dracula-1897-world",
       "name": "Jonathan’s Journal",
-      "description": "The shorthand record of Castle Dracula and the later hunt.",
+      "description": "The shorthand record Jonathan keeps at Castle Dracula, written where his host cannot read it.",
       "iconType": "book",
       "imageId": "dracula-item-journal-image",
       "tags": [
@@ -8114,7 +8114,7 @@
       "label": "Captor and Prisoner",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Dracula imprisons Jonathan, exploits his legal knowledge, and later becomes the object of his vengeance.",
+      "description": "Dracula wants Jonathan’s legal knowledge, and then wants Jonathan not to leave.",
       "isBidirectional": false,
       "startEventId": "dracula-event-4",
       "createdAt": 1785499200000,
@@ -8212,7 +8212,7 @@
       "label": "Trusted Collaborators",
       "strength": "bond",
       "sentiment": "positive",
-      "description": "Van Helsing recognizes Mina’s intellect and later protects her during the final approach.",
+      "description": "Van Helsing recognises Mina’s intellect and treats it as the best instrument they have.",
       "isBidirectional": true,
       "startEventId": "dracula-event-45",
       "createdAt": 1785499200000,
@@ -12868,7 +12868,7 @@
       "worldId": "dracula-1897-world",
       "categoryId": "dracula-lore-category-sources",
       "title": "Calendar Convention",
-      "body": "The novel explicitly dates its documents from 3 May through 6 November but does not state a year. This example uses 1893 solely as an editorial calendar scaffold; month and day follow the text.",
+      "body": "The novel explicitly dates its documents from 3 May through 6 November but does not state a year. This world uses 1893 solely as an editorial calendar scaffold; month and day follow the text.",
       "tags": [],
       "coverImageId": null,
       "linkedEntityIds": [
@@ -14825,7 +14825,7 @@
       "worldId": "dracula-1897-world",
       "name": "Dracula Moves West",
       "color": "#8f1d2c",
-      "description": "The Count prepares, executes, and later reverses his migration between Transylvania and England.",
+      "description": "The Count's plan to move himself, his earth, and his business from Transylvania to England.",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000
     },

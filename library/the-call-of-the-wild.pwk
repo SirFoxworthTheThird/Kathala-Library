@@ -7192,7 +7192,7 @@
       "id": "call-wild-lore-art",
       "categoryId": "call-wild-lore-category-sources",
       "title": "Artwork and Map Provenance",
-      "body": "The navigable maps, world cover, portraits, object studies, and place illustrations are original AI-generated raster artwork created for this PlotWeave example. They use a mature, period-inspired adventure-book style rather than photographs. Every entity has its own subject-specific composition, and maps remain visually and functionally distinct from entity artwork.",
+      "body": "The navigable maps, world cover, portraits, object studies, and place illustrations are original AI-generated raster artwork created for this world. They use a mature, period-inspired adventure-book style rather than photographs. Every entity has its own subject-specific composition, and maps remain visually and functionally distinct from entity artwork.",
       "tags": [],
       "coverImageId": "call-wild-image-world",
       "linkedEntityIds": [],
@@ -7205,24 +7205,11 @@
       "id": "call-wild-lore-yeehat",
       "categoryId": "call-wild-lore-category-book",
       "title": "The Yeehat Episode",
-      "body": "The final chapter uses a fictionalized Indigenous group through a 1903 outsider perspective. This example retains the plot role, avoids invented ethnography, and names only the unnamed war leader needed for event presence.",
+      "body": "The final chapter uses a fictionalized Indigenous group through a 1903 outsider perspective. This world retains the plot role, avoids invented ethnography, and names only the unnamed war leader needed for event presence.",
       "tags": [],
       "coverImageId": null,
       "linkedEntityIds": [],
       "visibleFromEventId": "call-wild-event-raid"
-    },
-    {
-      "worldId": "call-wild-world",
-      "createdAt": 1788393600000,
-      "updatedAt": 1788393600000,
-      "id": "call-wild-lore-omissions",
-      "categoryId": "call-wild-lore-category-book",
-      "title": "Intentional Feature Decisions",
-      "body": "One timeline is sufficient because Buck’s story is linear. No map regions, floor groups, cross-timeline artifacts, annotations, or writing logs are added: none clarifies this narrative. Relationship snapshots record initial states; later changes are expressed only where the relationship itself materially begins or ends.",
-      "tags": [],
-      "coverImageId": null,
-      "linkedEntityIds": [],
-      "visibleFromEventId": "call-wild-event-estate"
     }
   ],
   "factions": [

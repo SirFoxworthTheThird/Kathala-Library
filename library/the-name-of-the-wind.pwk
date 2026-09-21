@@ -265,7 +265,7 @@
       "worldId": "10000000-0000-4000-a000-000000000000",
       "mapLayerId": "notw-map-temerant",
       "name": "Hallowfell",
-      "description": "Town where the troupe stays and Abenthy eventually remains.",
+      "description": "Town where the troupe stays, and where Abenthy means to leave them.",
       "x": 685.8935777509511,
       "y": 238.27185618940948,
       "factionId": null,
@@ -382,7 +382,7 @@
       "worldId": "10000000-0000-4000-a000-000000000000",
       "mapLayerId": "notw-map-waystone",
       "name": "Road to Newarre",
-      "description": "Road on which Chronicler is robbed and later found by Kote.",
+      "description": "Road on which Chronicler is robbed.",
       "x": 286,
       "y": 446,
       "factionId": null,
@@ -731,7 +731,7 @@
       "worldId": "10000000-0000-4000-a000-000000000000",
       "name": "Anker",
       "aliases": [],
-      "description": "Innkeeper who later rents Kvothe a room in Imre.",
+      "description": "Innkeeper in Imre, on the far side of the river from the University.",
       "portraitImageId": "notw-location-image-eolian",
       "color": null,
       "tags": [
@@ -1663,7 +1663,7 @@
       "id": "notw-item-cipher",
       "worldId": "10000000-0000-4000-a000-000000000000",
       "name": "Chronicler's Cipher Pages",
-      "description": "Pages on which Chronicler records Kvothe's story in a private shorthand.",
+      "description": "Pages on which Chronicler takes down what he is told, in a private shorthand.",
       "iconType": "document",
       "imageId": "notw-location-image-dan01",
       "tags": [
@@ -1773,7 +1773,7 @@
       "id": "notw-item-lute",
       "worldId": "10000000-0000-4000-a000-000000000000",
       "name": "Kvothe's Lute",
-      "description": "His father's lute, restored after Tarbean and later shattered by Ambrose.",
+      "description": "His father's lute, and the thing he will not sell.",
       "iconType": "artifact",
       "imageId": "notw-location-image-eolian",
       "tags": [
@@ -16860,7 +16860,7 @@
       "worldId": "10000000-0000-4000-a000-000000000000",
       "categoryId": "lore-cat-places",
       "title": "About the Local Maps",
-      "body": "The Tarbean, University and Imre, Trebon, and Newarre maps are original AI-generated reader reconstructions. Only the Four Corners main map was used as an aesthetic reference; none of the previous submap layouts was used. Known relationships guide the designs: the University lies west of Imre across the Omethi and Stonebridge; Anker’s belongs to the University-side town; Tarbean contrasts wealthy Hillside with crowded Waterside; Mauthen Farm is near Trebon; and the Waystone Inn belongs to Newarre. Exact streets, building footprints, bearings, local distances and the position of the rural ruins are editorial, not surveyed or author-approved geography. Newarre’s precise position in the wider world remains uncertain; its existing root-map gateway is an approximate navigation aid, not a canonical location. The Underthing inset is a schematic underground view, not a literal surface site or complete floor plan. Maps show neutral place identities rather than later attacks or outcomes. The generation prompts, research references and review limitations are recorded in scripts/name-of-the-wind/map-manifest.json and MAP-REVIEW.md.",
+      "body": "The Tarbean, University and Imre, Trebon, and Newarre maps are original AI-generated reader reconstructions. Only the Four Corners main map was used as an aesthetic reference; none of the previous submap layouts was used. Known relationships guide the designs: the University lies west of Imre across the Omethi and Stonebridge; Anker’s belongs to the University-side town; Tarbean contrasts wealthy Hillside with crowded Waterside; Mauthen Farm is near Trebon; and the Waystone Inn belongs to Newarre. Exact streets, building footprints, bearings, local distances and the position of the rural ruins are editorial, not surveyed or author-approved geography. Newarre’s precise position in the wider world remains uncertain; its existing root-map gateway is an approximate navigation aid, not a canonical location. The Underthing inset is a schematic underground view, not a literal surface site or complete floor plan. Maps show neutral place identities rather than later attacks or outcomes.",
       "tags": [
         "maps",
         "sources",

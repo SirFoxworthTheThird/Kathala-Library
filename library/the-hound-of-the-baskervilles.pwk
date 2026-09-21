@@ -499,7 +499,7 @@
       "mapLayerId": "hound-map-hall",
       "linkedMapLayerId": null,
       "name": "Sir Henry’s Room",
-      "description": "Sir Henry sleeps here and lends Barrymore a suit later worn by Selden.",
+      "description": "Where Sir Henry sleeps, and where the Hall’s hospitality is extended to its servants.",
       "x": 930,
       "y": 620,
       "iconType": "building",
@@ -875,7 +875,7 @@
       "updatedAt": 1785585600000,
       "id": "hound-item-brown-boot",
       "name": "New Brown Boot",
-      "description": "A new boot stolen from Sir Henry’s hotel room and later returned.",
+      "description": "A new boot, bought in the Strand and never once worn, missing from Sir Henry’s hotel room.",
       "iconType": "footprints",
       "imageId": "hound-image-paget-29",
       "tags": []
@@ -4717,10 +4717,10 @@
       "id": "hound-relationship-5",
       "characterAId": "hound-char-stapleton",
       "characterBId": "hound-char-beryl",
-      "label": "Coercive marriage",
+      "label": "Naturalist and his sister",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Stapleton controls, threatens, and binds his wife when she resists the murders.",
+      "description": "Stapleton presents Beryl as his sister, and she does not contradict him.",
       "isBidirectional": true,
       "startEventId": null
     },
@@ -4745,10 +4745,10 @@
       "id": "hound-relationship-7",
       "characterAId": "hound-char-stapleton",
       "characterBId": "hound-char-sir-charles",
-      "label": "Murderer and victim",
+      "label": "Neighbours on the moor",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Stapleton uses the legend and hound to frighten Sir Charles to death.",
+      "description": "Stapleton knew Sir Charles, and was one of the few men on the moor he would stop and talk to.",
       "isBidirectional": true,
       "startEventId": null
     },
@@ -4860,7 +4860,7 @@
       "label": "Captor and captive",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Hugo’s violence begins the legend later exploited by Stapleton.",
+      "description": "Hugo’s violence on the moor is where the family legend begins.",
       "isBidirectional": true,
       "startEventId": null
     }
@@ -9530,7 +9530,7 @@
       "id": "hound-thread-curse",
       "name": "The Baskerville Curse",
       "color": "#79534f",
-      "description": "A family legend is weaponised as the explanation for two attempted murders."
+      "description": "A manuscript of 1742 sets a monstrous hound on the Baskerville line, and Mortimer brings it to Baker Street alongside a death of last May."
     },
     {
       "worldId": "hound-world",
@@ -9548,25 +9548,25 @@
       "id": "hound-thread-inheritance",
       "name": "The Baskerville Inheritance",
       "color": "#9a744f",
-      "description": "Sir Henry’s succession makes him both the estate’s hope and Stapleton’s target."
+      "description": "Sir Charles dies at the moor-gate, and an estate and a fortune pass to a nephew nobody in Devon has met."
     },
     {
       "worldId": "hound-world",
       "createdAt": 1785585600000,
       "updatedAt": 1785585600000,
       "id": "hound-thread-stapleton",
-      "name": "Stapleton’s Conspiracy",
+      "name": "Sir Charles at the Moor-Gate",
       "color": "#5c6f4e",
-      "description": "Stapleton hides his identity, marriage, hound, and manipulation behind naturalist respectability."
+      "description": "Sir Charles stood at the yew-alley gate on the night of 4 June as though waiting for somebody, and the cigar ash says he waited some time."
     },
     {
       "worldId": "hound-world",
       "createdAt": 1785585600000,
       "updatedAt": 1785585600000,
       "id": "hound-thread-beryl",
-      "name": "Beryl’s Resistance",
+      "name": "The Warning to Sir Henry",
       "color": "#8b6674",
-      "description": "Beryl tries to protect Sir Henry while living under coercion."
+      "description": "Words cut from the Times and pasted onto a sheet, telling Sir Henry to keep away from the moor."
     },
     {
       "worldId": "hound-world",
@@ -9575,7 +9575,7 @@
       "id": "hound-thread-selden",
       "name": "Selden on the Moor",
       "color": "#665b54",
-      "description": "The escaped convict creates a plausible danger and becomes an unintended victim."
+      "description": "Soldiers are on the Devon roads hunting Selden, the Notting Hill murderer, loose somewhere on the moor."
     },
     {
       "worldId": "hound-world",
@@ -9584,34 +9584,34 @@
       "id": "hound-thread-barrymores",
       "name": "The Barrymores’ Secret",
       "color": "#6e6870",
-      "description": "The servants’ aid to Selden makes innocent conduct look criminal."
+      "description": "A telegram is contrived to prove whether Barrymore was at the Hall, and the answer settles nothing."
     },
     {
       "worldId": "hound-world",
       "createdAt": 1785585600000,
       "updatedAt": 1785585600000,
       "id": "hound-thread-laura",
-      "name": "Laura Lyons and the Letter",
+      "name": "The Appointment at the Gate",
       "color": "#8c6c78",
-      "description": "A vulnerable woman’s letter becomes the concealed appointment behind Sir Charles’s death."
+      "description": "Something brought Sir Charles out to the gate that night, and whatever it was left no name behind it."
     },
     {
       "worldId": "hound-world",
       "createdAt": 1785585600000,
       "updatedAt": 1785585600000,
       "id": "hound-thread-hidden-holmes",
-      "name": "The Man on the Tor",
+      "name": "Watson Alone in Devon",
       "color": "#4f6573",
-      "description": "Holmes conducts a parallel inquiry while Watson believes him to be in London."
+      "description": "Holmes pleads business in London, and Watson goes down to guard Sir Henry by himself."
     },
     {
       "worldId": "hound-world",
       "createdAt": 1785585600000,
       "updatedAt": 1785585600000,
       "id": "hound-thread-hound",
-      "name": "The Real Hound",
+      "name": "Hound or Legend",
       "color": "#694d48",
-      "description": "Footprints, cries, scent, and phosphorus gradually replace superstition with material evidence."
+      "description": "Mortimer has seen the footprints of a gigantic hound near the body, and cannot bring himself to say what he thinks they mean."
     }
   ],
   "motifs": [
@@ -9685,7 +9685,7 @@
       "id": "hound-motif-captivity",
       "name": "Captivity and Escape",
       "color": "#675f58",
-      "description": "Beryl, Selden, the hound, and the mire’s victims occupy different forms of confinement."
+      "description": "The moor holds people as surely as any wall does, and lets very few of them go."
     }
   ],
   "continuitySuppressions": [],

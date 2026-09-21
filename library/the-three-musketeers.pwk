@@ -227,7 +227,7 @@
       "mapLayerId": "three-musketeers-map-france",
       "linkedMapLayerId": null,
       "name": "Chantilly",
-      "description": "The town where Porthos is wounded and later tries to finance his campaign equipment through Madame Coquenard.",
+      "description": "The town where Porthos is wounded and stays behind.",
       "x": 815,
       "y": 695,
       "imageId": "three-musketeers-image-leloir-20",
@@ -932,7 +932,7 @@
       "updatedAt": 1786579200000,
       "id": "three-musketeers-item-pass",
       "name": "Cardinal’s Pass",
-      "description": "Richelieu’s unrestricted written authority, taken from Milady and later used to protect the companions from prosecution.",
+      "description": "Richelieu’s unrestricted written authority, given to Milady.",
       "iconType": "document",
       "imageId": "three-musketeers-image-item-pass",
       "tags": []
@@ -954,7 +954,7 @@
       "updatedAt": 1786579200000,
       "id": "three-musketeers-item-queen-ring",
       "name": "The Queen’s Diamond Ring",
-      "description": "Anne’s private reward to d’Artagnan, later sold to finance the friends’ warning missions from La Rochelle.",
+      "description": "Anne’s private reward to d’Artagnan.",
       "iconType": "jewellery",
       "imageId": "three-musketeers-image-item-queen-ring",
       "tags": []
@@ -7289,7 +7289,7 @@
       "label": "mentor and chosen brother",
       "strength": 5,
       "sentiment": "positive",
-      "description": "Athos tempers d’Artagnan’s impulse with judgment and eventually entrusts him with the friends’ future.",
+      "description": "Athos tempers d’Artagnan’s impulse with judgment, and says nothing about himself.",
       "isBidirectional": true,
       "startEventId": "three-musketeers-event-005"
     },

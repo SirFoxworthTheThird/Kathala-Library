@@ -18,6 +18,14 @@ import { describe, it, expect } from 'vitest'
  * and its assumptions explained — the rule these worlds' calendars and maps
  * already follow — and this is that rule applied to the chapter titles.
  *
+ * *The Woman in White* joined them after a blind reader run typed a half-
+ * remembered name into the search box at chapter 9 and was handed *Fosco: The
+ * Confession* and *Conclusion II: Fosco's Death in Paris*. Collins numbered his
+ * chapters within each narrative and named none of them; the epochs and the
+ * named narratives here are his, and the tails after the colon were supplied
+ * for this edition. That is EX-008, and the tails that stated an outcome rather
+ * than naming the chapter were EX-009 as well.
+ *
  * **The list is hand-kept, and that is the weak point.** Nothing in the data
  * distinguishes a title an author wrote from one an example author supplied, so
  * no rule can derive it. It went stale exactly as you would expect: *The Iliad*
@@ -51,8 +59,20 @@ const worldsBySlug = new Map(Object.entries(worldFiles).map(([path, text]) => {
   return [file.replace(/\.pwk$/, ''), JSON.parse(text) as World] as const
 }))
 
-/** Worlds whose chapter names were written for the example, not by the author. */
-const EDITORIAL_TITLES = ['jane-eyre', 'the-iliad', 'the-odyssey', 'wuthering-heights']
+/**
+ * Worlds whose chapter names were written for the world, not by the author.
+ *
+ * **Adding one here means editing the application's guide too.** `docs/GUIDE.md`
+ * names these books by hand, under *Chapter titles* — it has to, because a
+ * reader wants to know which titles are the author's and which are ours, and no
+ * test spans the two repositories. That list said *"Two books … Jane Eyre and
+ * The Odyssey"* for as long as there were five, having been written when there
+ * were two and never revisited when The Iliad, Wuthering Heights and The Woman
+ * in White joined them.
+ */
+const EDITORIAL_TITLES = [
+  'jane-eyre', 'the-iliad', 'the-odyssey', 'the-woman-in-white', 'wuthering-heights',
+]
 
 /**
  * Does one sentence of this page say the chapter names are editorial?

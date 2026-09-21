@@ -10993,7 +10993,7 @@
       "id": "frankenstein-lore-15",
       "categoryId": "frankenstein-lore-category-sources",
       "title": "Map and Image Sources",
-      "body": "Maps are URL-linked Wikimedia Commons previews: Europe 1815, a Lake Geneva regional map, Geneva city, Ingolstadt 1816, Chamonix/Mont Blanc 1892, British Isles, a complete labeled Orkney archipelago map, Ireland 1815, Arctic 1894, and a public-domain cottage floor plan. The Orkney map was created by Wikivoyage contributor Paul and is available under CC BY-SA. The cover, Victor, and the Creature use public-domain 1831 engravings by Theodor von Holst. The supporting-character portraits use representative public-domain period paintings and engravings linked from Wikimedia Commons, selected to evoke the novel’s late-eighteenth-century world; their historical sitters are visual references for the fictional cast, not claimed identities. Item artwork uses Google Noto Color Emoji through Iconify. No image blobs are embedded in the example.",
+      "body": "Maps are URL-linked Wikimedia Commons previews: Europe 1815, a Lake Geneva regional map, Geneva city, Ingolstadt 1816, Chamonix/Mont Blanc 1892, British Isles, a complete labeled Orkney archipelago map, Ireland 1815, Arctic 1894, and a public-domain cottage floor plan. The Orkney map was created by Wikivoyage contributor Paul and is available under CC BY-SA. The cover, Victor, and the Creature use public-domain 1831 engravings by Theodor von Holst. The supporting-character portraits use representative public-domain period paintings and engravings linked from Wikimedia Commons, selected to evoke the novel’s late-eighteenth-century world; their historical sitters are visual references for the fictional cast, not claimed identities. Item artwork uses Google Noto Color Emoji through Iconify. No image blobs are embedded in this world.",
       "tags": [],
       "coverImageId": null,
       "linkedEntityIds": [],
@@ -12657,9 +12657,9 @@
       "createdAt": 1785528000000,
       "updatedAt": 1785528000000,
       "id": "frankenstein-thread-pursuit",
-      "name": "The Final Pursuit",
+      "name": "The Pursuit on the Ice",
       "color": "#637c8d",
-      "description": "Victor follows the Creature from Geneva toward the Arctic."
+      "description": "Walton’s crew sights a sledge with a huge driver, and a second man half-dead on the floe behind it."
     },
     {
       "worldId": "frankenstein-world",
@@ -12693,9 +12693,9 @@
       "createdAt": 1785528000000,
       "updatedAt": 1785528000000,
       "id": "frankenstein-thread-death",
-      "name": "The Ruined Family",
+      "name": "The Frankensteins of Geneva",
       "color": "#75515a",
-      "description": "Each death narrows Victor’s world until vengeance is all that remains."
+      "description": "The household Victor grew up in, and how much of his life is still kept inside it."
     },
     {
       "worldId": "frankenstein-world",
@@ -12722,7 +12722,7 @@
       "id": "frankenstein-thread-ice",
       "name": "Into the Ice",
       "color": "#789db0",
-      "description": "Ice traps Walton, separates Victor from the Creature, and closes the pursuit."
+      "description": "The ship is beset north of Archangel, and the ice decides what happens next."
     }
   ],
   "motifs": [
