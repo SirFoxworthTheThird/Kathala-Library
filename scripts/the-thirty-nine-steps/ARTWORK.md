@@ -1,0 +1,15 @@
+# Artwork manifest
+
+All 77 final PNGs were generated separately with OpenAI’s built-in image-generation tool on 15 September 2026 and are stored under `library/the-thirty-nine-steps/`. They comprise one world cover, 21 portraits, 10 item illustrations, 39 location illustrations, one faction image, and five navigable maps. No image is reused. SHA-256 duplicate checks cover the entire set.
+
+The common portrait prompt requested the named ledger subject as a distinct waist-up figure in mature 1910s British oil-and-charcoal literary realism, with restrained earth colours, visible brush grain, historically accurate clothing, natural proportions, an atmospheric neutral background, no other figure, no text, no border, no watermark, and no cartoon treatment. Each subject description came from `world-ledger.mjs`; specific details included Scudder’s short brown beard and gimlet blue eyes, Turnbull’s horn spectacles and battered hat, the old man’s bald head and hooded hawk eyes, the lisping man’s expressive actor’s face, Royer’s missing fingers, and the false Alloa’s spade-cut beard.
+
+The common item prompt requested a single source-specific object or inseparable set as a tactile Edwardian still life, without people, maps, labels, readable text, or modern objects. Individual prompts named the crocodile-skin cipher notebook, long knife, sovereign belt, Bradshaw, milkman’s clothes, Sir Harry’s letter, roadman kit, Jopley’s touring car, lentonite and detonator, and Admiralty tide tables.
+
+The common location prompt requested the exact ledger place as a wide, mature 1910s adventure-novel landscape or interior, historically grounded, with restrained natural colour and suspenseful light, no map and no prominent identifiable figure. Each of the 39 locations was prompted by name and its specific physical description in `world-ledger.mjs`.
+
+The five map prompts requested functional, period-inspired cartography with no text: recognizable southern Britain; an Edwardian central London street plan; an interpretive Galloway hill map; an invented overhead Black Stone farm plan; and an invented overhead plan of Bradgate and the Ruff with six private cliff staircases. The two invented plans are explicitly identified as editorial interpretation in Lore and source notes. Map markers use bottom-origin Y coordinates.
+
+The world-cover prompt placed Hannay from behind on a heather ridge with a distant train, search monoplane, black notebook, and layered suggestion of the chalk coast. The Black Stone faction prompt used three silhouettes reflected in a polished black stone beside coded papers.
+
+Contact-sheet review checked every final image for subject, period, style, duplication, maps used as art, broken anatomy, misleading objects, and irrelevant content. All selected assets passed. No correction prompt was necessary; the five maps were also inspected at full resolution before marker placement. `make-contact-sheets.py` reproduces the review sheets from the final repository assets.
