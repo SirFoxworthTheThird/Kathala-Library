@@ -413,6 +413,23 @@
       "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/AUSTEN(1894)%20Pride%20and%20prejudice%20(15811958311).jpg?width=960"
     },
     {
+      "id": "a-princess-of-mars",
+      "title": "A Princess of Mars",
+      "author": "Edgar Rice Burroughs",
+      "blurb": "An ageless Virginia soldier wakes beneath the twin moons of Barsoom, where ruined cities, rival nations, and unfamiliar customs turn survival into allegiance.",
+      "data": "a-princess-of-mars.pwk",
+      "dataBytes": 850429,
+      "counts": {
+        "characters": 19,
+        "chapters": 28,
+        "events": 108,
+        "locations": 30
+      },
+      "notice": "Unofficial reading-mode edition of a public-domain novel. Scene drafts reproduce the complete retained text of Edgar Rice Burroughs’s original English novel from Project Gutenberg eBook #62 (UTF-8 text updated 12 January 2025), including the title, dedication, foreword, and all twenty-eight author-supplied chapter headings. Gutenberg headers, licence, delimiters, contents and illustrations lists, and illustration placeholders and captions are excluded. Event divisions, chronology, maps, summaries, and all 66 original generated illustrations are editorial and documented in the book’s edition lore.",
+      "worldId": "a-princess-of-mars-world",
+      "cover": "library/a-princess-of-mars/art/world.png"
+    },
+    {
       "id": "the-prisoner-of-zenda",
       "title": "The Prisoner of Zenda",
       "author": "Anthony Hope",
