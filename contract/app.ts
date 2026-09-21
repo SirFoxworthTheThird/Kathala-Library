@@ -1,5 +1,5 @@
 /**
- * The parts of PlotWeave a shipped world has to agree with.
+ * The parts of Kathala a shipped world has to agree with.
  *
  * These values are defined by the application, not here — a world cannot invent
  * a theme, and a catalogue cannot invent a field. They are restated in this
@@ -12,7 +12,7 @@
  * so. Treat a mismatch as a bug in this file first.
  *
  * Source of truth: `src/lib/themes.ts` and `src/lib/library.ts` in
- * SirFoxworthTheThird/PlotWeave.
+ * SirFoxworthTheThird/Kathala.
  */
 
 /** Theme ids the app defines, from `APP_THEMES` in `src/lib/themes.ts`. */
@@ -53,7 +53,7 @@ export interface LibraryEntry {
   cover?: string
   counts?: { characters?: number; chapters?: number; events?: number; locations?: number }
   /**
-   * The oldest PlotWeave that can open this book, as `major.minor.patch`.
+   * The oldest Kathala that can open this book, as `major.minor.patch`.
    *
    * Optional, and almost no book needs it. It exists because the books are
    * published independently of the app now: a desktop install from a year ago

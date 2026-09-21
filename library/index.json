@@ -7,7 +7,7 @@
       "author": "Lewis Carroll",
       "blurb": "A curious girl follows a hurried White Rabbit into a dream world where size, language, time, games, and authority refuse to behave.",
       "data": "alice-in-wonderland.pwk",
-      "dataBytes": 511475,
+      "dataBytes": 511473,
       "counts": {
         "characters": 24,
         "chapters": 12,
@@ -161,14 +161,14 @@
       "author": "Homer",
       "blurb": "A quarrel over honour removes Achilles from the Achaean line as Troy’s defenders and the divided gods press the war toward the beached ships.",
       "data": "the-iliad.pwk",
-      "dataBytes": 1253326,
+      "dataBytes": 1253322,
       "counts": {
         "characters": 52,
         "chapters": 24,
         "events": 75,
         "locations": 17
       },
-      "notice": "Unofficial reference for a public-domain ancient epic. Structural summaries and editorial chronology are original PlotWeave material; scene drafts reproduce Samuel Butler’s public-domain translation from Project Gutenberg eBook 2199; Gutenberg front matter, per-book prose summaries, and end matter are excluded. The cover is an original AI-generated interpretation created for PlotWeave; source, map sourcing, and editorial method are recorded in Lore.",
+      "notice": "Unofficial reference for a public-domain ancient epic. Structural summaries and editorial chronology are original Kathala material; scene drafts reproduce Samuel Butler’s public-domain translation from Project Gutenberg eBook 2199; Gutenberg front matter, per-book prose summaries, and end matter are excluded. The cover is an original AI-generated interpretation created for Kathala; source, map sourcing, and editorial method are recorded in Lore.",
       "worldId": "iliad-world",
       "cover": "library/the-iliad/art/cover.jpg"
     },
@@ -178,7 +178,7 @@
       "author": "H. G. Wells",
       "blurb": "A physicist who erases his visible body discovers that secrecy, hunger, weather, fear, and violence make invisibility a prison as much as a power.",
       "data": "the-invisible-man.pwk",
-      "dataBytes": 568386,
+      "dataBytes": 568384,
       "counts": {
         "characters": 18,
         "chapters": 29,
@@ -299,7 +299,7 @@
       "author": "William Gibson",
       "blurb": "A damaged console cowboy joins a physical and virtual heist that will decide whether two imprisoned artificial intelligences can become one.",
       "data": "neuromancer.pwk",
-      "dataBytes": 259330,
+      "dataBytes": 259328,
       "counts": {
         "characters": 17,
         "chapters": 24,
@@ -316,7 +316,7 @@
       "author": "Homer",
       "blurb": "Odysseus crosses a mythic Mediterranean while Telemachus and Penelope defend the household awaiting his return.",
       "data": "the-odyssey.pwk",
-      "dataBytes": 979296,
+      "dataBytes": 979294,
       "counts": {
         "characters": 43,
         "chapters": 24,
@@ -333,7 +333,7 @@
       "author": "Eça de Queirós",
       "blurb": "Três gerações, uma paixão impossível e o retrato mordaz da Lisboa oitocentista.",
       "data": "os-maias.pwk",
-      "dataBytes": 1652726,
+      "dataBytes": 1652724,
       "counts": {
         "characters": 30,
         "chapters": 18,
@@ -357,7 +357,7 @@
         "events": 47,
         "locations": 34
       },
-      "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text of the 1911 Peter and Wendy from Project Gutenberg eBook #16; Gutenberg packaging, its contents list, and the closing title are excluded. Structural summaries, event divisions, chronology, portraits, and maps are editorial. Public-domain F. D. Bedford plates and original PlotWeave artwork are credited in Lore.",
+      "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text of the 1911 Peter and Wendy from Project Gutenberg eBook #16; Gutenberg packaging, its contents list, and the closing title are excluded. Structural summaries, event divisions, chronology, portraits, and maps are editorial. Public-domain F. D. Bedford plates and original Kathala artwork are credited in Lore.",
       "worldId": "peter-pan-world",
       "cover": "library/peter-pan/art/bedford/icover.jpg"
     },
@@ -418,7 +418,7 @@
       "author": "Anthony Hope",
       "blurb": "An English traveller with a king's face must wear the crown, rescue his captive double, and surrender the princess he loves.",
       "data": "the-prisoner-of-zenda.pwk",
-      "dataBytes": 602057,
+      "dataBytes": 602055,
       "counts": {
         "characters": 18,
         "chapters": 22,
@@ -691,7 +691,7 @@
       "author": "Emily Brontë",
       "blurb": "On the Yorkshire moors, the histories of the Earnshaw and Linton households are consumed by Heathcliff’s bond with Catherine and the revenge he carries into their children’s lives.",
       "data": "wuthering-heights.pwk",
-      "dataBytes": 915708,
+      "dataBytes": 915706,
       "counts": {
         "characters": 16,
         "chapters": 34,

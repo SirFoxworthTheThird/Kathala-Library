@@ -6,13 +6,13 @@ The manuscript reproduces the complete narrative of Gaston Leroux's *The Phantom
 
 ## Editorial material
 
-Chapter synopses, scene divisions, event descriptions, the reconstructed calendar, tension values, character states, relationships, knowledge, factions, lore, routes, and map coordinates are original PlotWeave editorial material. The Prologue and Epilogue are modeled as later documentary frames on the single narrative timeline.
+Chapter synopses, scene divisions, event descriptions, the reconstructed calendar, tension values, character states, relationships, knowledge, factions, lore, routes, and map coordinates are original Kathala editorial material. The Prologue and Epilogue are modeled as later documentary frames on the single narrative timeline.
 
 ## Artwork and maps
 
-All eighty pictures in this edition are original generated illustrations created for PlotWeave and stored in this repository. They include one cover, nineteen distinct character portraits, sixteen distinct item studies, thirty-seven location illustrations, and seven maps or architectural plans. No photographs or downloaded third-party images are used.
+All eighty pictures in this edition are original generated illustrations created for Kathala and stored in this repository. They include one cover, nineteen distinct character portraits, sixteen distinct item studies, thirty-seven location illustrations, and seven maps or architectural plans. No photographs or downloaded third-party images are used.
 
-The visual direction is a restrained late-nineteenth-century French Gothic edition: engraved linework, lithographic colour, candlelit interiors, and mature historical realism. Character portraits avoid modern photography and cartoon styling. Item plates depict the specific object named by the record. Maps were generated as functional, north-oriented cartography or architectural plans and were then checked in PlotWeave with its bottom-origin Leaflet coordinates.
+The visual direction is a restrained late-nineteenth-century French Gothic edition: engraved linework, lithographic colour, candlelit interiors, and mature historical realism. Character portraits avoid modern photography and cartoon styling. Item plates depict the specific object named by the record. Maps were generated as functional, north-oriented cartography or architectural plans and were then checked in Kathala with its bottom-origin Leaflet coordinates.
 
 ## Reproduction
 

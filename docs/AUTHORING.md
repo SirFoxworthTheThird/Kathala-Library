@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > These rules are requirements, not suggestions. They apply to every new or substantially revised book in `library/`. An example is not complete and must not be committed, reviewed as finished, or merged while any applicable rule is unmet.
 
-The creator is responsible for completing the companion [release checklist](CHECKLIST.md), running the automated checks, and performing the visual checks in PlotWeave. Passing tests does not replace visual review. Visual review does not replace tests.
+The creator is responsible for completing the companion [release checklist](CHECKLIST.md), running the automated checks, and performing the visual checks in Kathala. Passing tests does not replace visual review. Visual review does not replace tests.
 
 If a rule genuinely does not apply, record the reason in the generator, pull request, or review notes. Do not silently omit required data and do not invent content merely to make a feature appear populated.
 
@@ -22,7 +22,7 @@ If a rule genuinely does not apply, record the reason in the generator, pull req
 
   What this rule does **not** catch is as important, because its near neighbours are legitimate and were checked one by one. A **colophon** — which edition, whose engravings, which maps are invented — is front matter, and for openly licensed artwork the attribution is a condition of use, so *Text, Maps, and Illustrations* stays. So does a page explaining **the book's own structure**: *Why There Are Two Timelines*, *A Novel Made of Testimony*, *Jekyll and Hyde Are One Embodied Person* and *Reported Sight Is Not Confirmed Knowledge* each answer a question the companion itself raises for a reader who can see two timeline tabs or two character cards for one man. The line is whether the page is about the story or about the file.
 
-  **And the word for a shipped world is “world”, never “example”.** These rules call them examples among ourselves — EX-001 and EX-401 both do — and that word used to reach the reader: *The Iliad* said its artwork was *“created for this PlotWeave example”*, and twenty-eight of Tolkien's map layers read *“geographic layer for the Fellowship example”*. It is honest provenance that also tells somebody they are holding a demo rather than a book. Sixteen phrasings across fourteen books were changed, and the shelf notice with them. The ordinary sense of the word is untouched and must stay: Miss Temple *“provides the stable example under which Jane's intellectual life develops”*, and Moby-Dick's harpoon crotch is *“another example of the boat's dangerous precision”*. `tests/libraryLoreVoice.test.ts` tells the two apart by requiring *this* or *the* immediately before the word, which caught all sixteen and none of the seven survivors.
+  **And the word for a shipped world is “world”, never “example”.** These rules call them examples among ourselves — EX-001 and EX-401 both do — and that word used to reach the reader: *The Iliad* said its artwork was *“created for this Kathala example”*, and twenty-eight of Tolkien's map layers read *“geographic layer for the Fellowship example”*. It is honest provenance that also tells somebody they are holding a demo rather than a book. Sixteen phrasings across fourteen books were changed, and the shelf notice with them. The ordinary sense of the word is untouched and must stay: Miss Temple *“provides the stable example under which Jane's intellectual life develops”*, and Moby-Dick's harpoon crotch is *“another example of the boat's dangerous precision”*. `tests/libraryLoreVoice.test.ts` tells the two apart by requiring *this* or *the* immediately before the word, which caught all sixteen and none of the seven survivors.
 
 ## 2. Characters and event state
 
@@ -41,7 +41,7 @@ If a rule genuinely does not apply, record the reason in the generator, pull req
 - **EX-203 — Provide exactly one gateway.** Every submap must be opened by exactly one location on its parent map, except documented floor-group behavior that intentionally shares a building entrance. The gateway must sit on the depicted parent location.
 - **EX-204 — Populate every map.** Each map and submap must contain all story-relevant locations depicted at that scale. A submap with no locations must not ship.
 - **EX-205 — Write place descriptions.** Descriptions must explain the place itself, be book-specific, and remain spoiler-safe before their reveal. Prohibited text includes “a location relevant to the journey,” “portal to the submap,” and other navigation or dataset language.
-- **EX-206 — Validate markers visually.** Load every layer in PlotWeave, zoom until all markers can be checked, and compare every marker with the artwork. Numeric inspection is insufficient. Account for Leaflet’s inverted image-coordinate assumptions.
+- **EX-206 — Validate markers visually.** Load every layer in Kathala, zoom until all markers can be checked, and compare every marker with the artwork. Numeric inspection is insufficient. Account for Leaflet’s inverted image-coordinate assumptions.
 - **EX-207 — Validate deep nesting.** Open gateways through every nesting depth and confirm the correct child loads without an infinite spinner or console error.
 - **EX-208 — Validate playback.** Exercise events crossing root maps, submaps, deep submaps, and floors. The active layer must change, the image must finish loading, and the moving character must be centered at a useful zoom on first arrival and later movement.
 
@@ -89,7 +89,7 @@ A reviewer must reject or return an example when:
 
 - an applicable rule is knowingly unmet;
 - the checklist contains an unchecked item without an explained non-applicability decision;
-- visual validation is claimed without opening every map and submap in PlotWeave;
+- visual validation is claimed without opening every map and submap in Kathala;
 - images were assigned from URLs or filenames without visual inspection;
 - only one of the editable and downloadable copies was updated;
 - completion is reported without validation evidence.

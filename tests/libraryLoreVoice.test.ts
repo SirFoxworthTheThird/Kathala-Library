@@ -101,7 +101,7 @@ const REPO_PATH = /\bscripts\/|\b[\w-]+\.(?:json|md|mjs|ts|js)\b|\bMAP-REVIEW\b|
 
 /**
  * A sentence inventorying the world file rather than describing the story: it
- * names a PlotWeave object type *and* says whether one was put in. Measured
+ * names a Kathala object type *and* says whether one was put in. Measured
  * across every shipped page, this caught the two sentences it was written for
  * and nothing else — "Apparition snapshots represent the governess's perceived
  * presence" and "Both timelines share one absolute day axis" are about the book
@@ -156,7 +156,7 @@ describe('the voice of the shipped lore', () => {
   it('never calls a shipped world an example', () => {
     /*
       "example" was the library's own word for a shipped world and it reached
-      the reader: *The Iliad* said its artwork was "created for this PlotWeave
+      the reader: *The Iliad* said its artwork was "created for this Kathala
       example", which is honest provenance that also tells somebody they are
       holding a demo rather than a book. Sixteen phrasings across fourteen
       books, including twenty-eight map layers reading "geographic layer for the
@@ -170,7 +170,7 @@ describe('the voice of the shipped lore', () => {
       immediately before the word separates the two — measured against the
       corpus, it caught all sixteen and none of the seven.
     */
-    const demo = allStrings.filter(({ text }) => /\b(?:this|the) (?:PlotWeave |Fellowship )?examples?\b/i.test(text))
+    const demo = allStrings.filter(({ text }) => /\b(?:this|the) (?:Kathala |Fellowship )?examples?\b/i.test(text))
     expect(demo.map((d) => `${d.where}\n    ${d.text.slice(0, 120)}`),
       'these tell a reader the book is a demo').toEqual([])
   })

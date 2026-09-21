@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This repository holds the worlds PlotWeave ships in its Library, and the rules
+This repository holds the worlds Kathala ships in its Library, and the rules
 they are held to. It holds no application code.
 
 ## Commands
@@ -26,7 +26,7 @@ library/                 published as-is; this is what the app fetches
   <book>.pwb             its images, for the four books that embed them
   <book>/art|maps/       artwork the world links by relative path
   index.json             the catalogue — generated, not hand-written
-contract/app.ts          the parts of PlotWeave a world must agree with
+contract/app.ts          the parts of Kathala a world must agree with
 tests/                   the authoring rules, as tests
 docs/AUTHORING.md        the EX-* rules in prose
 docs/CHECKLIST.md        the release checklist
