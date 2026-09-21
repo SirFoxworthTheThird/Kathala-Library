@@ -25,7 +25,7 @@ Read and follow the [mandatory example-authoring rules](EXAMPLE_AUTHORING_RULES.
 - [ ] Every map is a legible map rather than an unrelated illustration. (`EX-201`)
 - [ ] All necessary submaps exist, contain locations, and have exactly one valid parent gateway. (`EX-202`–`EX-204`)
 - [ ] Every location description is specific, place-focused, and spoiler-safe. (`EX-205`)
-- [ ] Every marker on every map and submap was visually checked at a useful zoom in PlotWeave. (`EX-206`)
+- [ ] Every marker on every map and submap was visually checked at a useful zoom in Kathala. (`EX-206`)
 - [ ] Every gateway depth and map/floor transition was exercised. (`EX-207`)
 - [ ] Playback was tested across layers, including first arrival and later movement. (`EX-208`)
 

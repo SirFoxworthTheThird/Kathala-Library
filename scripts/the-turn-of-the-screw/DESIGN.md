@@ -16,7 +16,7 @@
 4. Bly Manor — upper floor, schoolroom, bedrooms, corridor, and tower access.
 5. Bly Tower and Roof — battlements and the first sighting point.
 
-Every child map must have a visible gateway location in its parent. Every map receives a purpose-built period plan; location coordinates are checked in PlotWeave with Leaflet's bottom-origin Y coordinate.
+Every child map must have a visible gateway location in its parent. Every map receives a purpose-built period plan; location coordinates are checked in Kathala with Leaflet's bottom-origin Y coordinate.
 
 ## Visual direction
 
@@ -28,6 +28,6 @@ Original generated illustrations only. Mature 1890s English Gothic realism, infl
 - No carried-forward or generic status prose in the source data.
 - Distinct images for every character and item; location illustrations must depict their actual record.
 - Calendar pins are numeric day offsets, with fractional values for time of day.
-- Tension stays within PlotWeave's 1–5 range.
+- Tension stays within Kathala's 1–5 range.
 - Include relationships and their changes, plot threads, motifs, goals, lore, factions, knowledge/reveals, item custody, routes, and meaningful location descriptions without spoilers.
 - Validate the complete manuscript by normalized reconstruction from all scene drafts.

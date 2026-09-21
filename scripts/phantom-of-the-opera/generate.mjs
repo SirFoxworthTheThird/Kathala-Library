@@ -140,7 +140,7 @@ sourceSections.forEach((section, si) => {
     const eventId = ref('event', `${String(si+1).padStart(2,'0')}-${ei+1}`)
     const locationId = ref('loc', e.location)
     const location = locs.find(l=>l.id===locationId)
-    // PlotWeave stores calendar pins as numeric day offsets (fractions encode
+    // Kathala stores calendar pins as numeric day offsets (fractions encode
     // time of day), not ISO timestamps.  The prologue and epilogue are later
     // documentary frames; the novel's central action begins at day zero.
     const inWorldTime = si === 0
