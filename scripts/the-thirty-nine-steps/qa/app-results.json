@@ -1,0 +1,175 @@
+{
+  "routes": {
+    "reading:dashboard": {
+      "ok": true,
+      "chars": 708,
+      "sample": "WORLD\n\nThe Thirty-Nine Steps\n\nIn the weeks before the First World War, a restless mining engineer inherits a murdered agent’s coded warning and races across Britain between police "
+    },
+    "reading:timeline": {
+      "ok": true,
+      "chars": 1383,
+      "sample": "Hannay’s Account\n(10 chapters)\nNarrative\nChronological\nCh. 1 — Chapter I — The Man Who Died\n— Bored with London, Hannay resolves to leave England unless adventure finds him first. "
+    },
+    "reading:characters": {
+      "ok": true,
+      "chars": 201,
+      "sample": "Characters\n1\n\nThe cast you're tracking across the story.\n\nReading mode — 20 characters not yet met by chapter 1 are hidden. Move the chapter cursor forward to reveal them.\n\nRichard"
+    },
+    "reading:maps": {
+      "ok": true,
+      "chars": 228,
+      "sample": "MAP LAYERS\n1\nBritain in 1914\nLondon\nCHARACTERS\n1\nRichard Hannay\nOxford Circus\nLOCATIONS\n1\nITEMS\n0\nROUTES\n0\nREGIONS\n0\nLondon\nBuilding\nRichard Hannay\nOxford Circus · Sub-map\n+\n−\n Lea"
+    },
+    "reading:calendar": {
+      "ok": true,
+      "chars": 173,
+      "sample": "Calendar\n\nScenes by in-world date.\n\nMay 1914 (editorial chronology)\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\nA Last Day of Boredom\n24\n25\n26\n27\n28\n29\n30\n31"
+    },
+    "reading:items": {
+      "ok": true,
+      "chars": 134,
+      "sample": "Items\n0\n\nObjects characters carry, use, or lose over time.\n\nNo items yet\n\nTrack objects that characters carry, use, or lose over time."
+    },
+    "reading:relationships": {
+      "ok": true,
+      "chars": 66,
+      "sample": "Richard Hannay\nTidy up\nEveryone\nRichard Hannay\nFactions\nReact Flow"
+    },
+    "reading:lore": {
+      "ok": true,
+      "chars": 688,
+      "sample": "All pages\n3\nUncategorised\n0\nCATEGORIES\nEdition and Editorial Method\n3\nThe World of the Novel\n0\nLore\n3\n\nYour world's history, rules, and mythology — things that don't change with ti"
+    },
+    "reading:factions": {
+      "ok": true,
+      "chars": 216,
+      "sample": "Factions\n0\n\nOrganizations characters belong to — kingdoms, guilds, cults.\n\nNo factions yet\n\nFactions are organizations characters can belong to — kingdoms, guilds, cults. Optional,"
+    },
+    "reading:knowledge": {
+      "ok": true,
+      "chars": 246,
+      "sample": "Knowledge\n0\n\nSecrets and key information — track who knows what, and when they learn it.\n\nOrder added\nCounts reflect the moment the cursor is on.\n\nNo facts yet\n\nAdd a secret or pie"
+    },
+    "reading:settings": {
+      "ok": true,
+      "chars": 2201,
+      "sample": "Reading mode\nPictures\nTheme\nCollapse all\nREADING MODE\n\nPresent this world to someone reading the book rather than writing it. Characters, items and places the story has not introdu"
+    },
+    "writing:manuscript": {
+      "ok": true,
+      "chars": 224525,
+      "url": "http://127.0.0.1:5173/#/worlds/thirty-nine-steps-world/manuscript",
+      "sample": "Manuscript\n\n72 of 72 scenes written · 40,896 words\n\nFind & replace\nExport\nDraft\nReading\nGoal\nCh. 1 — Chapter I — The Man Who Died\n\n4,756 words · 5/5 scenes\n\nBored with London, Hann"
+    },
+    "writing:corkboard": {
+      "ok": true,
+      "chars": 14063,
+      "url": "http://127.0.0.1:5173/#/worlds/thirty-nine-steps-world/corkboard",
+      "sample": "Corkboard\n10 chapters · 72 scenes\n\nDrag scene cards to reorder them within a chapter or move them to another.\n\nCHAPTER 1\n\nChapter I — The Man Who Died\n\n5 scenes · 4,756 words\n\nA La"
+    },
+    "writing:structure": {
+      "ok": true,
+      "chars": 708,
+      "url": "http://127.0.0.1:5173/#/worlds/thirty-nine-steps-world/structure",
+      "sample": "Structure\n\nThe classic seven-beat, three-act spine.\n\n0 / 7 beats placed\nThree-Act\nPlace a beat in Act 2 and one in Act 3 to see how your chapters divide between the acts.\nHook\nACT "
+    },
+    "writing:character-arc": {
+      "ok": true,
+      "chars": 15974,
+      "url": "http://127.0.0.1:5173/#/worlds/thirty-nine-steps-world/arc",
+      "sample": "Character Arc\n21 chars · 10 ch\nCharacters\nFactions\nThreads\nChapters\nScenes\nMost seen\nA–Z\nHide 1 with no recorded state\nClear filter\nFactions\nStatus\nPOV\nGoals\nPNG\nCharacter\t\nCh. 1\nC"
+    }
+  },
+  "maps": {
+    "playback": [
+      {
+        "title": "The Neighbour Who Is Dead",
+        "expected": "London",
+        "matched": true,
+        "banner": "PlotWeave\n/\nThe Thirty-Nine Steps\n/\nLondon\nCh.1 · The Neighbour Who Is Dead\nCtrl+K"
+      },
+      {
+        "title": "Figures on the Train",
+        "expected": "Britain in 1914",
+        "matched": true,
+        "banner": "PlotWeave\n/\nThe Thirty-Nine Steps\n/\nBritain in 1914\nCh.3 · Figures on the Train\nCtrl+K"
+      },
+      {
+        "title": "Through the Tripwires",
+        "expected": "The Black Stone Farm",
+        "matched": true,
+        "banner": "PlotWeave\n/\nThe Thirty-Nine Steps\n/\nThe Black Stone Farm\nCh.6 · Through the Tripwires\nCtrl+K"
+      },
+      {
+        "title": "The Bridge Table",
+        "expected": "The Ruff at Bradgate",
+        "matched": true,
+        "banner": "PlotWeave\n/\nThe Thirty-Nine Steps\n/\nThe Ruff at Bradgate\nCh.10 · The Bridge Table\nCtrl+K"
+      },
+      {
+        "title": "Seven Weeks Later",
+        "expected": "Britain in 1914",
+        "matched": true,
+        "banner": "PlotWeave\n/\nThe Thirty-Nine Steps\n/\nBritain in 1914\nCh.10 · Seven Weeks Later\nCtrl+K"
+      }
+    ],
+    "Britain in 1914": {
+      "visible": true,
+      "imageCount": 1,
+      "markerCount": 11
+    },
+    "London": {
+      "visible": true,
+      "imageCount": 1,
+      "markerCount": 14
+    },
+    "The Galloway Hills": {
+      "visible": true,
+      "imageCount": 1,
+      "markerCount": 15
+    },
+    "The Black Stone Farm": {
+      "visible": true,
+      "imageCount": 1,
+      "markerCount": 4
+    },
+    "The Ruff at Bradgate": {
+      "visible": true,
+      "imageCount": 1,
+      "markerCount": 5
+    }
+  },
+  "reveal": {
+    "start": {
+      "hasHannay": true,
+      "hidesScudder": true,
+      "hidesBlackStone": true
+    },
+    "late": {
+      "hasScudder": true,
+      "hasAllOnStageCharacters": true,
+      "mentionedOnlyKarolidesHidden": true
+    }
+  },
+  "artwork": {
+    "records": 77,
+    "urls": 77,
+    "failed": []
+  },
+  "errors": [],
+  "warnings": [],
+  "libraryCard": {
+    "title": "The Thirty-Nine Steps",
+    "text": "The Thirty-Nine Steps\nJohn Buchan\n\nA murdered agent’s cipher sends Richard Hannay from a London flat across the Galloway hills and back toward a secret waiting above the Kent coast.\n\n21 characters · 10 chapters · 72 scenes · 39 locations\n\nUnofficial reading-mode edition of a public-domain novel. Scene drafts reproduce the complete narrative text of John Buchan’s original English 1915 novel from Project Gutenberg eBook #558 (UTF-8 text updated 7 April 2021), including the dedication and all ten author-supplied chapter headings. Gutenberg packaging, duplicated title and contents, illustration placeholder, delimiters, and licence are excluded. Event divisions, intermediate chronology, maps, summaries, and all 77 original generated illustrations are editorial and documented in SOURCES.md and Lore.\n\nDownload (530 KB)\nPictures load from the web",
+    "coverLoaded": true
+  },
+  "worldId": "thirty-nine-steps-world",
+  "readingModeOnArrival": true,
+  "manuscript": {
+    "chapters": 10,
+    "scenes": 72,
+    "first": "TO\nTHOMAS ARTHUR NELSON\n(LOTHIAN AND BORDER HORSE)\n\nMy Dear Tommy,\n\nYou and I have long cherished an affection for that ",
+    "last": ". I joined the\nNew Army the first week, and owing to my Matabele experience got a\ncaptain’s commission straight off. But I had done my best service, I\nthink, before I put on khaki.",
+    "words": 40896
+  }
+}
