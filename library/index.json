@@ -224,6 +224,23 @@
       "cover": "library/journey-to-the-west/art/cover.jpg"
     },
     {
+      "id": "kidnapped",
+      "title": "Kidnapped",
+      "author": "Robert Louis Stevenson",
+      "blurb": "A young Lowlander cheated of his inheritance is carried to sea, cast ashore, and drawn into a perilous flight across the Highlands beside the Jacobite adventurer Alan Breck Stewart.",
+      "data": "kidnapped.pwk",
+      "dataBytes": 815543,
+      "counts": {
+        "characters": 20,
+        "chapters": 30,
+        "events": 90,
+        "locations": 35
+      },
+      "notice": "Unofficial reading-mode edition of a public-domain novel. Scene drafts reproduce the complete retained text of Robert Louis Stevenson’s original English novel from Project Gutenberg eBook #421 (UTF-8 text updated 23 September 2024), including the dedication and all thirty author-supplied chapter headings. Gutenberg headers, licence, delimiters, and contents are excluded. Event divisions, chronology, maps, summaries, and all 73 original generated illustrations are editorial and documented in the book’s edition lore.",
+      "worldId": "kidnapped-world",
+      "cover": "library/kidnapped/art/world.png"
+    },
+    {
       "id": "the-lost-world",
       "title": "The Lost World",
       "author": "Arthur Conan Doyle",
