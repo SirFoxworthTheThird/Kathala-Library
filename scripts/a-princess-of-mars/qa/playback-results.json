@@ -1,0 +1,87 @@
+{
+  "samples": [
+    {
+      "second": 1,
+      "layer": "Barsoom",
+      "cursor": "Playing… Ch.3 · Under Alien Moons"
+    },
+    {
+      "second": 2,
+      "layer": "Barsoom",
+      "cursor": "Playing… Ch.3 · Under Alien Moons"
+    },
+    {
+      "second": 3,
+      "layer": "Barsoom",
+      "cursor": "Playing… Ch.3 · Under Alien Moons"
+    },
+    {
+      "second": 4,
+      "layer": "Barsoom",
+      "cursor": "Playing… Ch.3 · Under Alien Moons"
+    },
+    {
+      "second": 5,
+      "layer": "Barsoom",
+      "cursor": "Playing… Ch.3 · Under Alien Moons"
+    },
+    {
+      "second": 6,
+      "layer": "Barsoom",
+      "cursor": "Playing… Ch.3 · Under Alien Moons"
+    },
+    {
+      "second": 7,
+      "layer": "Thark and Korad",
+      "cursor": "Playing… Ch.3 · The Incubator"
+    },
+    {
+      "second": 8,
+      "layer": "Barsoom",
+      "cursor": "Playing… Ch.3 · The Incubator"
+    },
+    {
+      "second": 9,
+      "layer": "Thark and Korad",
+      "cursor": "Playing… Ch.3 · The Incubator"
+    },
+    {
+      "second": 10,
+      "layer": "Thark and Korad",
+      "cursor": "Playing… Ch.3 · The Incubator"
+    },
+    {
+      "second": 11,
+      "layer": "Thark and Korad",
+      "cursor": "Playing… Ch.3 · The Incubator"
+    },
+    {
+      "second": 12,
+      "layer": "Thark and Korad",
+      "cursor": "Playing… Ch.3 · The Incubator"
+    },
+    {
+      "second": 13,
+      "layer": "Thark and Korad",
+      "cursor": "Playing… Ch.3 · The Incubator"
+    },
+    {
+      "second": 14,
+      "layer": "Thark and Korad",
+      "cursor": "Playing… Ch.3 · The Incubator"
+    }
+  ],
+  "visitedLayers": [
+    "Barsoom",
+    "Thark and Korad"
+  ],
+  "visibleMapImages": [
+    {
+      "src": "http://127.0.0.1:4174/library/a-princess-of-mars/maps/thark.png",
+      "w": 1536,
+      "h": 1024,
+      "opacity": "1"
+    }
+  ],
+  "errors": []
+}
