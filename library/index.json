@@ -36,6 +36,23 @@
       "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20-%20book%20cover%20(139390140).jpg?width=960"
     },
     {
+      "id": "call-of-cthulhu",
+      "title": "The Call of Cthulhu",
+      "author": "H. P. Lovecraft",
+      "blurb": "Inherited papers draw a skeptical Boston scholar into a network of dreams, artifacts, police testimony, and maritime records whose fragments point beyond familiar history and geography.",
+      "data": "call-of-cthulhu.pwk",
+      "dataBytes": 157887,
+      "counts": {
+        "characters": 11,
+        "chapters": 3,
+        "events": 12,
+        "locations": 21
+      },
+      "notice": "Unofficial reading-mode edition of a public-domain story. It includes the complete text from Project Gutenberg eBook #68283, based on the February 1928 Weird Tales publication; Gutenberg packaging and licence text are excluded. Editorial scene divisions, chronology, maps, and 46 original generated illustrations are documented in Lore.",
+      "worldId": "call-of-cthulhu-world",
+      "cover": "library/call-of-cthulhu/art/world.png"
+    },
+    {
       "id": "the-call-of-the-wild",
       "title": "The Call of the Wild",
       "author": "Jack London",
