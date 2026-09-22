@@ -4,11 +4,13 @@ import {chapterPlans,withCuts} from './story-ledger.mjs'
 import {sourceSections,narrativeText,sourceEdition,sourceUrl,sourceFileSha256,normalize,countWords} from './source-text.mjs'
 
 const W='call-of-cthulhu-world',T='call-of-cthulhu-timeline',now=Date.UTC(2026,8,22),stamp={worldId:W,createdAt:now,updatedAt:now},id=(k,v)=>`coc-${k}-${v}`
+// Leaflet's CRS.Simple uses a bottom-left origin. These anchors are matched to
+// the labelled dots, buildings, and route circles painted into each map.
 const coords={
- 'providence-gateway':[650,430],'new-orleans':[420,590],'swamp-gateway':[455,570],'st-louis':[405,420],oslo:[820,265],sydney:[1370,700],auckland:[1450,770],pacific:[1120,680],'rlyeh-gateway':[820,760],
- 'angell-house':[535,430],brown:[650,340],'wilcox-studio':[875,600],waterfront:[1240,600],
- 'bayou-landing':[260,520],'squatter-village':[720,300],'cult-clearing':[1060,400],'police-camp':[1170,700],
- landing:[280,300],'cyclopean-city':[670,450],'great-door':[1000,450],channel:[1260,800]
+ 'providence-gateway':[405,728],'new-orleans':[320,674],'swamp-gateway':[320,674],'st-louis':[340,717],oslo:[728,828],sydney:[1348,359],auckland:[1460,337],pacific:[315,282],'rlyeh-gateway':[202,232],
+ 'angell-house':[485,624],brown:[620,682],'wilcox-studio':[880,440],waterfront:[1350,374],
+ 'bayou-landing':[275,691],'squatter-village':[780,819],'cult-clearing':[1060,734],'police-camp':[1160,534],
+ landing:[273,742],'cyclopean-city':[650,639],'great-door':[1004,575],channel:[1254,184]
 }
 const blobs=[]
 function image(kind,key,path){const url=`library/call-of-cthulhu/${path??`art/${kind}/${key}.png`}`,disk=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(disk))throw Error(`Missing ${url}`);const b=fs.readFileSync(disk);const imageId=id('image',`${kind}-${key}`);blobs.push({...stamp,id:imageId,mimeType:'image/png',url});return{id:imageId,width:b.readUInt32BE(16),height:b.readUInt32BE(20)}}
