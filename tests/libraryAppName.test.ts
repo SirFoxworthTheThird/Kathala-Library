@@ -51,19 +51,14 @@ const records = raw({
   ...import.meta.glob('../scripts/**/qa/*.json', { eager: true, query: '?raw', import: 'default' }),
 })
 
-/**
- * The old name is still correct in the two hosts, which serve the app and this
- * library today and move with the sites rather than with the repositories.
- * Only the app's appears here — `index.html` links a reader to it — but both
- * are exempt, because the day this repository names its own site is not the day
- * the check should start failing.
- */
-const HOSTS = ['plotweave.netlify.app', 'plotweave-library.netlify.app']
-const strip = (text: string) => HOSTS.reduce((t, h) => t.split(h).join(''), text)
-
+/*
+  Nothing is exempt any more. The two hosts were, while they still served the
+  app and this library under the old name; both have moved, so the rule is now
+  the plain one it reads as.
+*/
 const hits = (files: Record<string, string>) =>
   Object.entries(files)
-    .flatMap(([path, text]) => strip(text).split('\n').map((line, i) => ({ path, i, line })))
+    .flatMap(([path, text]) => text.split('\n').map((line, i) => ({ path, i, line })))
     .filter(({ line }) => /plotweave/i.test(line))
     .map(({ path, i, line }) => `${path}:${i + 1}: ${line.trim().slice(0, 100)}`)
 
@@ -89,15 +84,15 @@ describe('the old application name', () => {
 
   /*
     The presence half. Both absences above are satisfied by a repository that
-    has forgotten the rename happened — one where the records were swept too,
-    and one where the site moved and the exemption stopped excusing anything.
-    Neither is a state this repository should reach quietly.
+    has forgotten the rename happened — one where the QA records were swept
+    along with everything else, and one where the page stopped pointing a reader
+    at the app at all. Neither is a state this repository should reach quietly.
   */
-  it('is still where it belongs: the QA records, and the site that has not moved', () => {
+  it('is still in the QA records, and the page still points at the app', () => {
     const kept = Object.values(records).filter((text) => /plotweave/i.test(text))
     expect(kept.length, 'the QA records were rewritten, which the exemption exists to prevent')
       .toBeGreaterThan(2)
     expect(live['../index.html'], 'the page no longer links a reader to the app')
-      .toContain('plotweave.netlify.app')
+      .toContain('kathala.netlify.app')
   })
 })
