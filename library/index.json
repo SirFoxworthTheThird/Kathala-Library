@@ -16,7 +16,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 11; Gutenberg packaging and decorative separators are excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore.",
       "worldId": "alice-wonderland-world",
-      "cover": "library/alice-in-wonderland/art/generated/cover.jpg"
+      "cover": "library/alice-in-wonderland/art/generated/cover.jpg",
+      "hasProse": true
     },
     {
       "id": "around-the-world-in-eighty-days",
@@ -33,7 +34,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete English novel text from Project Gutenberg eBook 103; Gutenberg packaging is excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore.",
       "worldId": "around-the-world-in-eighty-days-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20-%20book%20cover%20(139390140).jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20-%20book%20cover%20(139390140).jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "call-of-cthulhu",
@@ -50,7 +52,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain story. It includes the complete text from Project Gutenberg eBook #68283, based on the February 1928 Weird Tales publication; Gutenberg packaging and licence text are excluded. Editorial scene divisions, chronology, maps, and 46 original generated illustrations are documented in Lore.",
       "worldId": "call-of-cthulhu-world",
-      "cover": "library/call-of-cthulhu/art/world.png"
+      "cover": "library/call-of-cthulhu/art/world.png",
+      "hasProse": true
     },
     {
       "id": "the-call-of-the-wild",
@@ -67,7 +70,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 215; Gutenberg packaging is excluded. Editorial structure, chronology, maps, and illustration provenance are documented in Lore.",
       "worldId": "call-wild-world",
-      "cover": "library/the-call-of-the-wild/art/world.jpg"
+      "cover": "library/the-call-of-the-wild/art/world.jpg",
+      "hasProse": true
     },
     {
       "id": "carmilla",
@@ -84,7 +88,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novella. It includes the complete retained narrative from Project Gutenberg eBook #10007, updated 28 October 2024; Gutenberg packaging, licence text, contents list, and publisher advertisements are excluded. Editorial event divisions, chronology, maps, and 53 original generated illustrations are documented in Lore.",
       "worldId": "carmilla-world",
-      "cover": "library/carmilla/art/world.png"
+      "cover": "library/carmilla/art/world.png",
+      "hasProse": true
     },
     {
       "id": "the-count-of-monte-cristo",
@@ -101,7 +106,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1184 across all 117 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "count-of-monte-cristo-world",
-      "cover": "https://www.gutenberg.org/files/1184/1184-h/images/0009m.jpg"
+      "cover": "https://www.gutenberg.org/files/1184/1184-h/images/0009m.jpg",
+      "hasProse": true
     },
     {
       "id": "dracula",
@@ -118,7 +124,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #345, divided among the original 27 chapters and modeled events; Gutenberg packaging and advertisements are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "dracula-1897-world",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dracula1st.jpeg/960px-Dracula1st.jpeg"
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dracula1st.jpeg/960px-Dracula1st.jpeg",
+      "hasProse": true
     },
     {
       "id": "the-fellowship-of-the-ring",
@@ -136,7 +143,8 @@
       "notice": "Unofficial, fan-made reference. Structural notes only — no text from the book is included. Not affiliated with or endorsed by the author or publisher.",
       "images": "the-fellowship-of-the-ring.pwb",
       "imagesBytes": 15352825,
-      "worldId": "aX-7torL9Na4l4UvyLWIP"
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "hasProse": false
     },
     {
       "id": "frankenstein",
@@ -153,7 +161,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #84 across four letters and 24 chapters; Gutenberg packaging is excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "frankenstein-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frontispiece%20to%20Frankenstein%201831.jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frontispiece%20to%20Frankenstein%201831.jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "harry-potter-and-the-philosopher-s-stone",
@@ -170,7 +179,8 @@
       },
       "notice": "Unofficial, fan-made reference. Structural notes only — no text from the book is included. Not affiliated with or endorsed by the author or publisher.",
       "worldId": "hp-ps-world",
-      "cover": "https://static.posters.cz/image/1300/214926.jpg"
+      "cover": "https://static.posters.cz/image/1300/214926.jpg",
+      "hasProse": false
     },
     {
       "id": "the-hound-of-the-baskervilles",
@@ -187,7 +197,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #2852 across all 15 chapters; Gutenberg packaging is excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "hound-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-42%20-%20Frontispiece%20(Hound%20of%20Baskervilles).jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-42%20-%20Frontispiece%20(Hound%20of%20Baskervilles).jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "the-iliad",
@@ -204,7 +215,8 @@
       },
       "notice": "Unofficial reference for a public-domain ancient epic. Structural summaries and editorial chronology are original Kathala material; scene drafts reproduce Samuel Butler’s public-domain translation from Project Gutenberg eBook 2199; Gutenberg front matter, per-book prose summaries, and end matter are excluded. The cover is an original AI-generated interpretation created for Kathala; source, map sourcing, and editorial method are recorded in Lore.",
       "worldId": "iliad-world",
-      "cover": "library/the-iliad/art/cover.jpg"
+      "cover": "library/the-iliad/art/cover.jpg",
+      "hasProse": true
     },
     {
       "id": "the-invisible-man",
@@ -221,7 +233,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text from Project Gutenberg eBook #5230, covering Chapters I–XXVIII and the Epilogue; Gutenberg packaging and the contents list are excluded. Structural summaries, event divisions, chronology, maps, and state notes are editorial.",
       "worldId": "invisible-man-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wells%20-%20The%20Invisible%20Man%20-%20Pearson%20cover%201897.jpg?width=900"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wells%20-%20The%20Invisible%20Man%20-%20Pearson%20cover%201897.jpg?width=900",
+      "hasProse": true
     },
     {
       "id": "jane-eyre",
@@ -238,7 +251,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1260 across all 38 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "jane-eyre-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jeanne%20Eyre%20-%20Editions%20Hachette%201872.jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jeanne%20Eyre%20-%20Editions%20Hachette%201872.jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "journey-to-the-west",
@@ -255,7 +269,8 @@
       },
       "notice": "Unofficial reference for a public-domain novel. This world contains original structural summaries and a reconstructed chronology, not the novel’s prose. The chapter titles are the book’s own couplets, rendered in English. The maps and illustrations are modern AI-generated interpretations: original artwork supplied by the world author, with additional illustrations generated at their request. The cover is a public-domain leaf of the 1592 Shidetang first edition.",
       "worldId": "journey-to-the-west-world",
-      "cover": "library/journey-to-the-west/art/cover.jpg"
+      "cover": "library/journey-to-the-west/art/cover.jpg",
+      "hasProse": false
     },
     {
       "id": "kidnapped",
@@ -272,7 +287,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. Scene drafts reproduce the complete retained text of Robert Louis Stevenson’s original English novel from Project Gutenberg eBook #421 (UTF-8 text updated 23 September 2024), including the dedication and all thirty author-supplied chapter headings. Gutenberg headers, licence, delimiters, and contents are excluded. Event divisions, chronology, maps, summaries, and all 73 original generated illustrations are editorial and documented in the book’s edition lore.",
       "worldId": "kidnapped-world",
-      "cover": "library/kidnapped/art/world.png"
+      "cover": "library/kidnapped/art/world.png",
+      "hasProse": true
     },
     {
       "id": "the-lost-world",
@@ -289,7 +305,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #139 across all 16 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "lost-world-world",
-      "cover": "https://arthurconandoyle.co.uk/images/characters/original%20serialization%20of%20The%20Lost%20World%20in%20Strand%20Magazine-11042019144308.jpg"
+      "cover": "https://arthurconandoyle.co.uk/images/characters/original%20serialization%20of%20The%20Lost%20World%20in%20Strand%20Magazine-11042019144308.jpg",
+      "hasProse": true
     },
     {
       "id": "moby-dick",
@@ -306,7 +323,8 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete narrative of all 135 chapters and the Epilogue from Project Gutenberg eBook 2701; Etymology, Extracts, Gutenberg front matter, and end matter are excluded.",
       "worldId": "moby-dick-world",
-      "cover": "library/moby-dick/art/world.png"
+      "cover": "library/moby-dick/art/world.png",
+      "hasProse": true
     },
     {
       "id": "the-moonstone",
@@ -323,7 +341,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #155 across all 57 modeled sections; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "moonstone-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moonstone%20novel%20-%20frontispiece.png?width=1000"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moonstone%20novel%20-%20frontispiece.png?width=1000",
+      "hasProse": true
     },
     {
       "id": "the-name-of-the-wind",
@@ -342,7 +361,8 @@
       "images": "the-name-of-the-wind.pwb",
       "imagesBytes": 1831070,
       "worldId": "10000000-0000-4000-a000-000000000000",
-      "cover": "https://marc-simonetti-shop.myshopify.com/cdn/shop/products/nameofthewind_1200x1200.jpg?v=1574358352"
+      "cover": "https://marc-simonetti-shop.myshopify.com/cdn/shop/products/nameofthewind_1200x1200.jpg?v=1574358352",
+      "hasProse": false
     },
     {
       "id": "neuromancer",
@@ -359,7 +379,8 @@
       },
       "notice": "Unofficial reference for a copyrighted novel (1984). It contains original summaries, credited linked illustrations, one original portrait, and original spatial maps and plans—not the novel’s prose.",
       "worldId": "neuromancer-world",
-      "cover": "https://shop.suntup.press/cdn/shop/products/Molly-CMYK_sized_1a831c57-9abb-4ca1-97d6-990e21fc197e_1024x1024.jpg?v=1597688476"
+      "cover": "https://shop.suntup.press/cdn/shop/products/Molly-CMYK_sized_1a831c57-9abb-4ca1-97d6-990e21fc197e_1024x1024.jpg?v=1597688476",
+      "hasProse": false
     },
     {
       "id": "the-odyssey",
@@ -376,7 +397,8 @@
       },
       "notice": "Unofficial reference for a public-domain epic. Manuscript scenes contain Samuel Butler’s complete narrative prose from Project Gutenberg eBook 1727; Gutenberg front matter, per-book summaries, footnotes, appendices, and end matter are excluded.",
       "worldId": "odyssey-world",
-      "cover": "library/the-odyssey/art/cover.png"
+      "cover": "library/the-odyssey/art/cover.png",
+      "hasProse": true
     },
     {
       "id": "os-maias",
@@ -393,7 +415,8 @@
       },
       "notice": "Unofficial reference / referência não oficial de um romance em domínio público. As cenas reproduzem a original prose / prosa original integral dos 18 capítulos de Os Maias: episodios da vida romantica, edição Ernesto Chardron de 1888, transcrição Project Gutenberg n.º 40409; o aparato Gutenberg foi excluído. Títulos, resumos, calendário, estrutura e ilustrações originais geradas são editoriais.",
       "worldId": "os-maias-world",
-      "cover": "library/os-maias/art/world-cover.jpg"
+      "cover": "library/os-maias/art/world-cover.jpg",
+      "hasProse": true
     },
     {
       "id": "peter-pan",
@@ -410,7 +433,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text of the 1911 Peter and Wendy from Project Gutenberg eBook #16; Gutenberg packaging, its contents list, and the closing title are excluded. Structural summaries, event divisions, chronology, portraits, and maps are editorial. Public-domain F. D. Bedford plates and original Kathala artwork are credited in Lore.",
       "worldId": "peter-pan-world",
-      "cover": "library/peter-pan/art/bedford/icover.jpg"
+      "cover": "library/peter-pan/art/bedford/icover.jpg",
+      "hasProse": true
     },
     {
       "id": "the-phantom-of-the-opera",
@@ -427,7 +451,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text of The Phantom of the Opera, translated by Alexander Teixeira de Mattos, from Project Gutenberg eBook #175; Gutenberg packaging is excluded. The Prologue, 26 chapters, and Epilogue are preserved in source order. Structural summaries, event divisions, editorial chronology, maps, and generated illustrations are original additions documented in Lore.",
       "worldId": "phantom-opera-world",
-      "cover": "library/the-phantom-of-the-opera/art/world-cover.png"
+      "cover": "library/the-phantom-of-the-opera/art/world-cover.png",
+      "hasProse": true
     },
     {
       "id": "the-picture-of-dorian-gray",
@@ -444,7 +469,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete preface and narrative text of Project Gutenberg eBook #174 across all 20 chapters; Gutenberg packaging is excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "dorian-gray-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houghton%20HEW%2012.10.15%20-%20The%20Picture%20of%20Dorian%20Gray%2C%201891%20(cover).jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houghton%20HEW%2012.10.15%20-%20The%20Picture%20of%20Dorian%20Gray%2C%201891%20(cover).jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "pride-and-prejudice",
@@ -461,7 +487,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1342 across all 61 chapters; Gutenberg packaging and illustrated-edition front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "pride-prejudice-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/AUSTEN(1894)%20Pride%20and%20prejudice%20(15811958311).jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/AUSTEN(1894)%20Pride%20and%20prejudice%20(15811958311).jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "a-princess-of-mars",
@@ -478,7 +505,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. Scene drafts reproduce the complete retained text of Edgar Rice Burroughs’s original English novel from Project Gutenberg eBook #62 (UTF-8 text updated 12 January 2025), including the title, dedication, foreword, and all twenty-eight author-supplied chapter headings. Gutenberg headers, licence, delimiters, contents and illustrations lists, and illustration placeholders and captions are excluded. Event divisions, chronology, maps, summaries, and all 66 original generated illustrations are editorial and documented in the book’s edition lore.",
       "worldId": "a-princess-of-mars-world",
-      "cover": "library/a-princess-of-mars/art/world.png"
+      "cover": "library/a-princess-of-mars/art/world.png",
+      "hasProse": true
     },
     {
       "id": "the-prisoner-of-zenda",
@@ -495,7 +523,8 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete original prose of all 22 chapters from Project Gutenberg eBook #95 (UTF-8 plain text, updated 21 December 2022; credits: Judith Boss); Gutenberg front and end matter are excluded. Scene divisions, summaries, calendar dates, fictional map geography, and all original generated illustrations are editorial.",
       "worldId": "prisoner-of-zenda-world",
-      "cover": "library/prisoner-of-zenda/art/world-cover.jpg"
+      "cover": "library/prisoner-of-zenda/art/world-cover.jpg",
+      "hasProse": true
     },
     {
       "id": "robinson-crusoe",
@@ -512,7 +541,8 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete original prose of Project Gutenberg eBook 521; Gutenberg front matter, licence wrapper, contents, and end matter are excluded. The cover uses public-domain Walter Paget artwork; characters, locations, items, and maps use original generated period illustrations. Sources and editorial method are recorded in Lore.",
       "worldId": "robinson-crusoe-world",
-      "cover": "library/robinson-crusoe/art/paget-015.jpg"
+      "cover": "library/robinson-crusoe/art/paget-015.jpg",
+      "hasProse": true
     },
     {
       "id": "the-scarlet-pimpernel",
@@ -529,7 +559,8 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete narrative from Project Gutenberg eBook 60; Gutenberg front and end matter are excluded. Period cartography and public-domain illustration sources are linked in the file.",
       "worldId": "scarlet-pimpernel-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thescarletpimpernel1908.jpg?width=1200"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thescarletpimpernel1908.jpg?width=1200",
+      "hasProse": true
     },
     {
       "id": "the-secret-garden",
@@ -546,7 +577,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #17396, divided among the original 27 chapters and modeled events; Gutenberg packaging and editorial matter are excluded. Linked period maps, plans, and public-domain book illustrations are recorded in Lore.",
       "worldId": "secret-garden-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houghton%20AC85%20B9345%20911s%20-%20Secret%20Garden%2C%201911%20-%20cover.jpg?width=900"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houghton%20AC85%20B9345%20911s%20-%20Secret%20Garden%2C%201911%20-%20cover.jpg?width=900",
+      "hasProse": true
     },
     {
       "id": "strange-case-of-dr-jekyll-and-mr-hyde",
@@ -563,7 +595,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text from Project Gutenberg eBook #43; Gutenberg packaging and the contents list are excluded. Structural summaries, event divisions, chronology, maps, and state notes are editorial.",
       "worldId": "jekyll-hyde-world",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dr._Jekyll_and_Mr._Hyde_LCCN2014635954.jpg/960px-Dr._Jekyll_and_Mr._Hyde_LCCN2014635954.jpg"
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dr._Jekyll_and_Mr._Hyde_LCCN2014635954.jpg/960px-Dr._Jekyll_and_Mr._Hyde_LCCN2014635954.jpg",
+      "hasProse": true
     },
     {
       "id": "a-tale-of-two-cities",
@@ -580,7 +613,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #98 across all 45 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "tale-of-two-cities-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover%20for%20A%20Tale%20of%20Two%20Cities%2C%20by%20Phiz.jpeg?width=1000"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover%20for%20A%20Tale%20of%20Two%20Cities%2C%20by%20Phiz.jpeg?width=1000",
+      "hasProse": true
     },
     {
       "id": "the-thirty-nine-steps",
@@ -597,7 +631,8 @@
         "chapters": 10,
         "events": 72,
         "locations": 39
-      }
+      },
+      "hasProse": true
     },
     {
       "id": "the-three-musketeers",
@@ -614,7 +649,8 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete English narrative from Project Gutenberg eBook 1257; Gutenberg front and end matter are excluded.",
       "worldId": "three-musketeers-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dartagnan-musketeers%20-%20Maurice%20Leloir.jpg?width=1200"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dartagnan-musketeers%20-%20Maurice%20Leloir.jpg?width=1200",
+      "hasProse": true
     },
     {
       "id": "the-time-machine",
@@ -631,7 +667,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 35; Gutenberg packaging is excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore.",
       "worldId": "time-machine-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20by%20Norman%20Saunders.jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20by%20Norman%20Saunders.jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "treasure-island",
@@ -648,7 +685,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #120 across all 34 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "treasure-island-world",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Treasure_Island-Scribner%27s-1911.jpg/1280px-Treasure_Island-Scribner%27s-1911.jpg"
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Treasure_Island-Scribner%27s-1911.jpg/1280px-Treasure_Island-Scribner%27s-1911.jpg",
+      "hasProse": true
     },
     {
       "id": "the-turn-of-the-screw",
@@ -665,7 +703,8 @@
         "chapters": 25,
         "events": 52,
         "locations": 34
-      }
+      },
+      "hasProse": true
     },
     {
       "id": "twenty-thousand-leagues-under-the-seas",
@@ -682,7 +721,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #164 across all 46 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20title%200a.jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20title%200a.jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "the-two-towers",
@@ -700,7 +740,8 @@
       "notice": "Unofficial, fan-made reference. Structural notes only — no text from the book is included. Not affiliated with or endorsed by the author or publisher.",
       "images": "the-two-towers.pwb",
       "imagesBytes": 11918280,
-      "worldId": "mOlU8GWK_NGtK-STFFtqC"
+      "worldId": "mOlU8GWK_NGtK-STFFtqC",
+      "hasProse": false
     },
     {
       "id": "the-war-of-the-worlds",
@@ -717,7 +758,8 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 36; Gutenberg packaging is excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore.",
       "worldId": "war-of-the-worlds-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/War%20of%20the%20worlds%20live%201906%20cover.jpg?width=960"
+      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/War%20of%20the%20worlds%20live%201906%20cover.jpg?width=960",
+      "hasProse": true
     },
     {
       "id": "the-wise-man-s-fear",
@@ -734,7 +776,8 @@
       },
       "notice": "Unofficial, fan-made reference. Structural notes only — no text from the book is included. Not affiliated with or endorsed by the author or publisher.",
       "worldId": "ag5-SfCGAP0HIVKimJBe7",
-      "cover": "https://marc-simonetti-shop.myshopify.com/cdn/shop/products/wisemanfear01_1200x1200.jpg?v=1574360210"
+      "cover": "https://marc-simonetti-shop.myshopify.com/cdn/shop/products/wisemanfear01_1200x1200.jpg?v=1574360210",
+      "hasProse": false
     },
     {
       "id": "the-woman-in-white",
@@ -751,7 +794,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text from Project Gutenberg eBook #583, divided among all 62 modeled documentary sections; Gutenberg packaging and the contents list are excluded. Structural summaries, event divisions and chronology are editorial. Historical maps and public-domain book illustrations are linked in the file.",
       "worldId": "woman-in-white-world",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_woman_in_white_Cover_1890.jpg"
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_woman_in_white_Cover_1890.jpg",
+      "hasProse": true
     },
     {
       "id": "the-wonderful-wizard-of-oz",
@@ -768,7 +812,8 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete Project Gutenberg eBook #55 text, including Baum’s Introduction; Gutenberg packaging and illustration placeholders are excluded. Structural summaries, event divisions and the calendar are editorial. W. W. Denslow’s 1900 illustrations are public domain and ship with the book. The maps are the world author’s own work and are not public domain, as the Lore says.",
       "worldId": "wizard-of-oz-world",
-      "cover": "library/the-wonderful-wizard-of-oz/art/cover.jpg"
+      "cover": "library/the-wonderful-wizard-of-oz/art/cover.jpg",
+      "hasProse": true
     },
     {
       "id": "wuthering-heights",
@@ -785,7 +830,8 @@
       },
       "notice": "Unofficial reference for a public-domain novel. The original prose is public domain; manuscript scenes reproduce the complete narrative of all 34 chapters from Project Gutenberg eBook #768 (plain text, updated 6 May 2026; credits: David Price). Gutenberg front and end matter are excluded. Chapter titles, event descriptions, and the reconstructed calendar are editorial. All maps and entity artwork are original generated illustrations documented in Lore.",
       "worldId": "wuthering-heights-world",
-      "cover": "library/wuthering-heights/art/world-cover.jpg"
+      "cover": "library/wuthering-heights/art/world-cover.jpg",
+      "hasProse": true
     }
   ]
 }
