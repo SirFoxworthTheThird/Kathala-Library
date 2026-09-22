@@ -37,7 +37,10 @@ const live = raw({
   ...import.meta.glob('../{README.md,CLAUDE.md,index.html,package.json}', { eager: true, query: '?raw', import: 'default' }),
   ...import.meta.glob('../docs/*.md', { eager: true, query: '?raw', import: 'default' }),
   ...import.meta.glob('../contract/*.ts', { eager: true, query: '?raw', import: 'default' }),
-  ...import.meta.glob('../scripts/**/*.mjs', { eager: true, query: '?raw', import: 'default' }),
+  // The deploy configuration, which the first version of this file did not
+  // read — and `_headers` was carrying the old name in a comment at the time.
+  ...import.meta.glob('../{_headers,netlify.toml}', { eager: true, query: '?raw', import: 'default' }),
+  ...import.meta.glob('../scripts/**/*.{mjs,js}', { eager: true, query: '?raw', import: 'default' }),
 })
 
 /**
@@ -49,7 +52,14 @@ const live = raw({
 const records = raw({
   ...import.meta.glob('../scripts/**/QA.md', { eager: true, query: '?raw', import: 'default' }),
   ...import.meta.glob('../scripts/**/qa/*.json', { eager: true, query: '?raw', import: 'default' }),
+  // The one-off harnesses that produced those screens, bundled as they were
+  // run — down to the absolute path of the machine they were run on. They
+  // build nothing and ship nothing.
+  ...import.meta.glob('../scripts/**/app-qa.mjs', { eager: true, query: '?raw', import: 'default' }),
 })
+
+/** The QA harnesses are read as records, so they must not also be read as live. */
+for (const path of Object.keys(records)) delete (live as Record<string, string>)[path]
 
 /*
   Nothing is exempt any more. The two hosts were, while they still served the
@@ -69,6 +79,7 @@ describe('the old application name', () => {
     expect(Object.keys(live).length).toBeGreaterThan(10)
     expect(live['../README.md']).toBeTruthy()
     expect(live['../index.html']).toBeTruthy()
+    expect(live['../_headers'], 'the deploy configuration is not in the scan').toBeTruthy()
     expect(shipped['../library/index.json']).toBeTruthy()
     expect(shipped['../library/the-thirty-nine-steps.pwk'], 'the book that carried the ninth occurrence')
       .toBeTruthy()
