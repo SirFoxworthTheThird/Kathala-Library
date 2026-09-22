@@ -53,6 +53,25 @@ export interface LibraryEntry {
   cover?: string
   counts?: { characters?: number; chapters?: number; events?: number; locations?: number }
   /**
+   * Whether the world carries the book's text.
+   *
+   * Derived, never written by hand: `sceneTexts` is either there or it is not,
+   * and it is the same question the app asks itself — `useHasProse` counts the
+   * same rows — so the shelf and the opened world cannot disagree about which
+   * books can be read.
+   *
+   * It is the sharpest division in the catalogue. Thirty-nine books hold the
+   * complete public-domain text and can be read in the app; seven hold
+   * structure only, because the novel is still in copyright or the world was
+   * built as a reference rather than an edition. A reader looking for something
+   * to read and a writer looking at how a world is put together want opposite
+   * halves of that.
+   *
+   * Optional, because a catalogue published before this field existed has none,
+   * and an app reading one must not conclude that every book lacks prose.
+   */
+  hasProse?: boolean
+  /**
    * The oldest Kathala that can open this book, as `major.minor.patch`.
    *
    * Optional, and almost no book needs it. It exists because the books are
@@ -97,6 +116,9 @@ export function parseLibraryIndex(raw: unknown): LibraryIndex {
       }
     }
     if (typeof e.dataBytes !== 'number') throw new Error(`Library entry ${i} is missing dataBytes`)
+    if (e.hasProse !== undefined && typeof e.hasProse !== 'boolean') {
+      throw new Error(`Library entry ${i} has a hasProse that is not a boolean`)
+    }
     if (e.minAppVersion !== undefined && !/^\d+(\.\d+)*$/.test(String(e.minAppVersion).trim())) {
       // The app ignores a requirement it cannot read rather than hiding a book,
       // which is right at runtime and wrong here: publishing one means the
