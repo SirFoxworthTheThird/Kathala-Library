@@ -142,7 +142,7 @@ world.blobs.push(...generatedBlobs);
 
 const sourcePage = world.lorePages.find((page) => page.id === 'alice-wonderland-lore-sources');
 if (sourcePage) {
-  sourcePage.body = 'The manuscript follows the complete public-domain text of Lewis Carroll’s novel in Project Gutenberg eBook 11. Every narrative passage from Chapters I–XII is assigned once in source order; Gutenberg contents, decorative separators, terminal label, and packaging are excluded. The cover, character portraits, location scenes, fantasy maps, and item plates are original PlotWeave Library assets. Event divisions and dream chronology are editorial.';
+  sourcePage.body = 'The manuscript follows the complete public-domain text of Lewis Carroll’s novel in Project Gutenberg eBook 11. Every narrative passage from Chapters I–XII is assigned once in source order; Gutenberg contents, decorative separators, terminal label, and packaging are excluded. The cover, character portraits, location scenes, fantasy maps, and item plates are original Kathala Library assets. Event divisions and dream chronology are editorial.';
   sourcePage.coverImageId = coverId;
 }
 
