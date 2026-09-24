@@ -39,6 +39,7 @@ Read and follow the [mandatory example-authoring rules](EXAMPLE_AUTHORING_RULES.
 - [ ] Sources, licences/public-domain status, and generated assets are recorded in Lore. (`EX-307`)
 - [ ] Every id points at a record the world contains — POV, cast, inventories, item references, scene locations, snapshot owners. (`EX-409`)
 - [ ] No non-collective item sits in two inventories at one scene; a kind of thing is marked `isCollective`. (`EX-410`)
+- [ ] Every enumerated field carries a value the application defines — scene status above all. (`EX-411`)
 
 ## Worldbuilding and reading mode
 
