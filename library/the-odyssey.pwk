@@ -1342,7 +1342,8 @@
       "description": "Exceptionally strong wine used to overpower Polyphemus.",
       "iconType": "flask",
       "imageId": "odyssey-image-art-cyclops",
-      "tags": []
+      "tags": [],
+      "isCollective": true
     },
     {
       "worldId": "odyssey-world",
@@ -1386,7 +1387,8 @@
       "description": "Sacred livestock whose slaughter triggers Zeus’s destruction of the last ship.",
       "iconType": "sun",
       "imageId": "odyssey-image-art-cattle",
-      "tags": []
+      "tags": [],
+      "isCollective": true
     },
     {
       "worldId": "odyssey-world",

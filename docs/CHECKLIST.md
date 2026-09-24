@@ -37,6 +37,8 @@ Read and follow the [mandatory example-authoring rules](EXAMPLE_AUTHORING_RULES.
 - [ ] Named characters and distinct items have distinct suitable illustrations. (`EX-304`)
 - [ ] Artwork matches the genre, avoids unwanted photographs/cartoon styles, and has no broken URLs. (`EX-305`–`EX-306`)
 - [ ] Sources, licences/public-domain status, and generated assets are recorded in Lore. (`EX-307`)
+- [ ] Every id points at a record the world contains — POV, cast, inventories, item references, scene locations, snapshot owners. (`EX-409`)
+- [ ] No non-collective item sits in two inventories at one scene; a kind of thing is marked `isCollective`. (`EX-410`)
 
 ## Worldbuilding and reading mode
 
