@@ -90,6 +90,47 @@ describe('the ids a shipped world uses', () => {
  */
 const SHARED_INVENTORY_CEILING = 42
 
+/**
+ * A field's value has to be one the app knows.
+ *
+ * Nine books shipped **627 scenes with `status: "complete"`**, which is not one
+ * of the five an `EventStatus` can be — `idea`, `outline`, `draft`, `revised`,
+ * `final`. Nothing normalises it on import, so in those books the status field
+ * meant nothing to the app: the manuscript compile's written-versus-unwritten
+ * filter, the Writing Progress screen and the continuity check for a scene
+ * marked done with no draft all read a value none of them recognises.
+ *
+ * The same shape of fault as a dangling id (EX-409): not malformed, not a
+ * spoiler, and invisible in a diff — just wrong.
+ */
+const EVENT_STATUSES = new Set(['idea', 'outline', 'draft', 'revised', 'final'])
+
+describe('the values a shipped world uses', () => {
+  it('are ones the application defines', () => {
+    const wrong: string[] = []
+    for (const [book, w] of books) {
+      for (const e of w.events ?? []) {
+        const status = (e as { status?: string }).status
+        if (status !== undefined && !EVENT_STATUSES.has(status)) {
+          wrong.push(`${book}: ${e.title ?? e.id} status=${status}`)
+        }
+      }
+    }
+    expect(wrong.slice(0, 10)).toEqual([])
+  })
+
+  /*
+    The presence half: the rule is about the values being *known*, not about
+    the field being absent. If nothing carries a status at all, the assertion
+    above is vacuous.
+  */
+  it('are actually there to be checked', () => {
+    const withStatus = books.reduce(
+      (n, [, w]) => n + (w.events ?? []).filter((e) => (e as { status?: string }).status).length, 0)
+    expect(withStatus).toBeGreaterThan(2000)
+  })
+})
+
 describe('an object in two pairs of hands', () => {
   const shared = books.flatMap(([book, w]) => {
     const collective = new Set((w.items ?? []).filter((i) => i.isCollective).map((i) => i.id))
