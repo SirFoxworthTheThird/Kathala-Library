@@ -6,7 +6,7 @@
     "id": "hound-world",
     "name": "The Hound of the Baskervilles",
     "description": "Sherlock Holmes and Dr Watson investigate the death of Sir Charles Baskerville and the threat against his heir, moving from London evidence to a Dartmoor landscape shaped by inheritance, coercion, concealed identities, and a legendary hound.",
-    "coverImageId": "hound-image-cover",
+    "coverImageId": "hound-image-generated-cover",
     "theme": "theme-noir",
     "readingMode": true,
     "createdAt": 1785585600000,
@@ -153,7 +153,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-1"
+      "imageId": "hound-image-generated-location-london-portal"
     },
     {
       "worldId": "hound-world",
@@ -169,7 +169,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-cover"
+      "imageId": "hound-image-generated-location-dartmoor-portal"
     },
     {
       "worldId": "hound-world",
@@ -185,7 +185,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-5"
+      "imageId": "hound-image-generated-location-baker-street"
     },
     {
       "worldId": "hound-world",
@@ -201,7 +201,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-8"
+      "imageId": "hound-image-generated-location-northumberland"
     },
     {
       "worldId": "hound-world",
@@ -217,7 +217,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-12"
+      "imageId": "hound-image-generated-location-charing-cross"
     },
     {
       "worldId": "hound-world",
@@ -233,7 +233,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-15"
+      "imageId": "hound-image-generated-location-waterloo"
     },
     {
       "worldId": "hound-world",
@@ -249,7 +249,7 @@
       "iconType": "custom",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-17"
+      "imageId": "hound-image-generated-location-cartwright-route"
     },
     {
       "worldId": "hound-world",
@@ -265,7 +265,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-18"
+      "imageId": "hound-image-generated-location-moor-gate"
     },
     {
       "worldId": "hound-world",
@@ -281,7 +281,7 @@
       "iconType": "castle",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-20"
+      "imageId": "hound-image-generated-location-hall-portal"
     },
     {
       "worldId": "hound-world",
@@ -297,7 +297,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-25"
+      "imageId": "hound-image-generated-location-merripit"
     },
     {
       "worldId": "hound-world",
@@ -313,7 +313,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-30"
+      "imageId": "hound-image-generated-location-grimpen"
     },
     {
       "worldId": "hound-world",
@@ -329,7 +329,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-31"
+      "imageId": "hound-image-generated-location-tor"
     },
     {
       "worldId": "hound-world",
@@ -345,7 +345,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-34"
+      "imageId": "hound-image-generated-location-stone-hut"
     },
     {
       "worldId": "hound-world",
@@ -361,7 +361,7 @@
       "iconType": "town",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-35"
+      "imageId": "hound-image-generated-location-coombe-tracey"
     },
     {
       "worldId": "hound-world",
@@ -377,7 +377,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-33"
+      "imageId": "hound-image-generated-location-frankland"
     },
     {
       "worldId": "hound-world",
@@ -393,7 +393,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-32"
+      "imageId": "hound-image-generated-location-princetown"
     },
     {
       "worldId": "hound-world",
@@ -409,7 +409,7 @@
       "iconType": "custom",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-selden"
+      "imageId": "hound-image-generated-location-selden-refuge"
     },
     {
       "worldId": "hound-world",
@@ -425,7 +425,7 @@
       "iconType": "custom",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-53"
+      "imageId": "hound-image-generated-location-hound-kennel"
     },
     {
       "worldId": "hound-world",
@@ -441,7 +441,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-22"
+      "imageId": "hound-image-generated-location-yew-alley-entry"
     },
     {
       "worldId": "hound-world",
@@ -457,7 +457,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-23"
+      "imageId": "hound-image-generated-location-summer-house"
     },
     {
       "worldId": "hound-world",
@@ -473,7 +473,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-19"
+      "imageId": "hound-image-generated-location-great-hall"
     },
     {
       "worldId": "hound-world",
@@ -489,7 +489,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-21"
+      "imageId": "hound-image-generated-location-dining-room"
     },
     {
       "worldId": "hound-world",
@@ -505,7 +505,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-26"
+      "imageId": "hound-image-generated-location-sir-henry-room"
     },
     {
       "worldId": "hound-world",
@@ -521,7 +521,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-28"
+      "imageId": "hound-image-generated-location-watson-room"
     },
     {
       "worldId": "hound-world",
@@ -537,7 +537,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-29"
+      "imageId": "hound-image-generated-location-barrymore-room"
     },
     {
       "worldId": "hound-world",
@@ -553,7 +553,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "hound-image-paget-27"
+      "imageId": "hound-image-generated-location-portrait-gallery"
     }
   ],
   "characters": [
@@ -565,7 +565,7 @@
       "name": "Sherlock Holmes",
       "aliases": [],
       "description": "The consulting detective who directs the investigation while concealing his own movements on Dartmoor.",
-      "portraitImageId": "hound-image-paget-1",
+      "portraitImageId": "hound-image-generated-character-holmes",
       "color": "#66798c",
       "tags": [],
       "isAlive": true,
@@ -579,7 +579,7 @@
       "name": "Dr. John Watson",
       "aliases": [],
       "description": "Holmes’s friend, narrator, and field investigator at Baskerville Hall.",
-      "portraitImageId": "hound-image-paget-5",
+      "portraitImageId": "hound-image-generated-character-watson",
       "color": "#8b7355",
       "tags": [],
       "isAlive": true,
@@ -593,7 +593,7 @@
       "name": "Sir Henry Baskerville",
       "aliases": [],
       "description": "The Canadian-raised heir who returns to claim Baskerville Hall despite threats.",
-      "portraitImageId": "hound-image-paget-11",
+      "portraitImageId": "hound-image-generated-character-sir-henry",
       "color": "#9b694e",
       "tags": [],
       "isAlive": true,
@@ -607,7 +607,7 @@
       "name": "Dr. James Mortimer",
       "aliases": [],
       "description": "A country physician and friend of Sir Charles who brings the case to Holmes.",
-      "portraitImageId": "hound-image-paget-6",
+      "portraitImageId": "hound-image-generated-character-mortimer",
       "color": "#7c8068",
       "tags": [],
       "isAlive": true,
@@ -621,7 +621,7 @@
       "name": "Sir Charles Baskerville",
       "aliases": [],
       "description": "The late baronet whose terror and death initiate the investigation.",
-      "portraitImageId": "hound-image-paget-8",
+      "portraitImageId": "hound-image-generated-character-sir-charles",
       "color": "#6d625f",
       "tags": [],
       "isAlive": false,
@@ -635,7 +635,7 @@
       "name": "Jack Stapleton",
       "aliases": [],
       "description": "A naturalist of the moor, secretly Roger Baskerville and architect of the murders.",
-      "portraitImageId": "hound-image-paget-9",
+      "portraitImageId": "hound-image-generated-character-stapleton",
       "color": "#6f8155",
       "tags": [],
       "isAlive": false,
@@ -649,7 +649,7 @@
       "name": "Beryl Stapleton",
       "aliases": [],
       "description": "Stapleton’s wife, forced to pose as his sister and struggling to warn Sir Henry.",
-      "portraitImageId": "hound-image-paget-10",
+      "portraitImageId": "hound-image-generated-character-beryl",
       "color": "#8f6b76",
       "tags": [],
       "isAlive": true,
@@ -663,7 +663,7 @@
       "name": "John Barrymore",
       "aliases": [],
       "description": "The Hall’s bearded butler, initially suspected because he secretly aids Selden.",
-      "portraitImageId": "hound-image-paget-12",
+      "portraitImageId": "hound-image-generated-character-barrymore",
       "color": "#5d6670",
       "tags": [],
       "isAlive": true,
@@ -677,7 +677,7 @@
       "name": "Eliza Barrymore",
       "aliases": [],
       "description": "The housekeeper and Selden’s sister, torn between duty and family loyalty.",
-      "portraitImageId": "hound-image-paget-14",
+      "portraitImageId": "hound-image-generated-character-mrs-barrymore",
       "color": "#7f625f",
       "tags": [],
       "isAlive": true,
@@ -691,7 +691,7 @@
       "name": "Laura Lyons",
       "aliases": [],
       "description": "Frankland’s estranged daughter, manipulated by Stapleton into writing to Sir Charles.",
-      "portraitImageId": "hound-image-paget-15",
+      "portraitImageId": "hound-image-generated-character-laura",
       "color": "#9a7180",
       "tags": [],
       "isAlive": true,
@@ -705,7 +705,7 @@
       "name": "Selden",
       "aliases": [],
       "description": "Mrs Barrymore’s brother, an escaped convict hiding on the moor.",
-      "portraitImageId": "hound-image-paget-selden",
+      "portraitImageId": "hound-image-generated-character-selden",
       "color": "#594f4b",
       "tags": [],
       "isAlive": false,
@@ -719,7 +719,7 @@
       "name": "Mr. Frankland",
       "aliases": [],
       "description": "An elderly litigious neighbour whose telescope inadvertently helps Watson.",
-      "portraitImageId": "hound-image-paget-17",
+      "portraitImageId": "hound-image-generated-character-frankland",
       "color": "#8b6f4e",
       "tags": [],
       "isAlive": true,
@@ -733,7 +733,7 @@
       "name": "Cartwright",
       "aliases": [],
       "description": "The Baker Street page who searches hotel wastepaper and supplies Holmes’s hut.",
-      "portraitImageId": "hound-image-paget-18",
+      "portraitImageId": "hound-image-generated-character-cartwright",
       "color": "#667f74",
       "tags": [],
       "isAlive": true,
@@ -747,7 +747,7 @@
       "name": "Inspector Lestrade",
       "aliases": [],
       "description": "The Scotland Yard inspector who joins Holmes for the final trap.",
-      "portraitImageId": "hound-image-paget-19",
+      "portraitImageId": "hound-image-generated-character-lestrade",
       "color": "#4f6474",
       "tags": [],
       "isAlive": true,
@@ -761,7 +761,7 @@
       "name": "Perkins",
       "aliases": [],
       "description": "The Baskerville coachman who carries guests between station and Hall.",
-      "portraitImageId": "hound-image-paget-20",
+      "portraitImageId": "hound-image-generated-character-perkins",
       "color": "#75624d",
       "tags": [],
       "isAlive": true,
@@ -775,7 +775,7 @@
       "name": "John Clayton",
       "aliases": [],
       "description": "The cabman unknowingly hired by Stapleton under Holmes’s name.",
-      "portraitImageId": "hound-image-paget-21",
+      "portraitImageId": "hound-image-generated-character-clayton",
       "color": "#686868",
       "tags": [],
       "isAlive": true,
@@ -789,7 +789,7 @@
       "name": "Postmaster",
       "aliases": [],
       "description": "The Grimpen postmaster who reveals that Barrymore did not personally receive Holmes’s telegram.",
-      "portraitImageId": "hound-image-paget-22",
+      "portraitImageId": "hound-image-generated-character-postmaster",
       "color": "#7d725d",
       "tags": [],
       "isAlive": true,
@@ -803,7 +803,7 @@
       "name": "Hugo Baskerville",
       "aliases": [],
       "description": "The violent ancestor at the centre of the Baskerville legend.",
-      "portraitImageId": "hound-image-paget-27",
+      "portraitImageId": "hound-image-generated-character-hugo",
       "color": "#6f4841",
       "tags": [],
       "isAlive": false,
@@ -817,7 +817,7 @@
       "name": "The Yeoman’s Daughter",
       "aliases": [],
       "description": "The unnamed woman abducted by Hugo who escapes across the moor.",
-      "portraitImageId": "hound-image-paget-28",
+      "portraitImageId": "hound-image-generated-character-yeoman-daughter",
       "color": "#887373",
       "tags": [],
       "isAlive": false,
@@ -833,7 +833,7 @@
       "name": "Mortimer’s Walking Stick",
       "description": "The forgotten stick from which Holmes and Watson infer Mortimer’s profession and habits.",
       "iconType": "walking-stick",
-      "imageId": "hound-image-paget-24",
+      "imageId": "hound-image-generated-item-walking-stick",
       "tags": []
     },
     {
@@ -844,7 +844,7 @@
       "name": "Baskerville Manuscript",
       "description": "The dated family account of Hugo Baskerville and the legendary hound.",
       "iconType": "scroll",
-      "imageId": "hound-image-paget-27",
+      "imageId": "hound-image-generated-item-manuscript",
       "tags": []
     },
     {
@@ -855,7 +855,7 @@
       "name": "Newspaper Account",
       "description": "The report of Sir Charles’s death and the official inquest.",
       "iconType": "newspaper",
-      "imageId": "hound-image-paget-25",
+      "imageId": "hound-image-generated-item-newspaper",
       "tags": []
     },
     {
@@ -866,7 +866,7 @@
       "name": "Anonymous Warning Note",
       "description": "Words cut from the Times warn Sir Henry to keep away from the moor.",
       "iconType": "mail-warning",
-      "imageId": "hound-image-paget-26",
+      "imageId": "hound-image-generated-item-warning",
       "tags": []
     },
     {
@@ -877,7 +877,7 @@
       "name": "New Brown Boot",
       "description": "A new boot, bought in the Strand and never once worn, missing from Sir Henry’s hotel room.",
       "iconType": "footprints",
-      "imageId": "hound-image-paget-29",
+      "imageId": "hound-image-generated-item-brown-boot",
       "tags": []
     },
     {
@@ -888,7 +888,7 @@
       "name": "Old Black Boot",
       "description": "A worn boot stolen to give the hound Sir Henry’s scent.",
       "iconType": "footprints",
-      "imageId": "hound-image-paget-30",
+      "imageId": "hound-image-generated-item-old-boot",
       "tags": []
     },
     {
@@ -899,7 +899,7 @@
       "name": "Barrymore Telegram",
       "description": "Holmes’s test of whether Barrymore is truly at Baskerville Hall.",
       "iconType": "send",
-      "imageId": "hound-image-paget-31",
+      "imageId": "hound-image-generated-item-telegram",
       "tags": []
     },
     {
@@ -910,7 +910,7 @@
       "name": "Burned Letter Fragment",
       "description": "A fragment signed L.L. asks Sir Charles to wait at the yew-alley gate.",
       "iconType": "mail",
-      "imageId": "hound-image-paget-32",
+      "imageId": "hound-image-generated-item-sir-charles-letter",
       "tags": []
     },
     {
@@ -921,7 +921,7 @@
       "name": "Barrymore’s Candle",
       "description": "The light in the window signals food and clothing to Selden.",
       "iconType": "flame",
-      "imageId": "hound-image-paget-33",
+      "imageId": "hound-image-generated-item-candle",
       "tags": []
     },
     {
@@ -932,7 +932,7 @@
       "name": "Frankland’s Telescope",
       "description": "The instrument that reveals Cartwright crossing the moor to Holmes.",
       "iconType": "telescope",
-      "imageId": "hound-image-paget-34",
+      "imageId": "hound-image-generated-item-telescope",
       "tags": []
     },
     {
@@ -943,7 +943,7 @@
       "name": "Watson’s Reports",
       "description": "Watson’s letters and diary preserve his investigation for Holmes and the reader.",
       "iconType": "notebook",
-      "imageId": "hound-image-paget-35",
+      "imageId": "hound-image-generated-item-reports",
       "tags": []
     },
     {
@@ -954,7 +954,7 @@
       "name": "Portrait of Hugo Baskerville",
       "description": "The family portrait exposes Stapleton’s Baskerville resemblance.",
       "iconType": "image-frame",
-      "imageId": "hound-image-paget-56",
+      "imageId": "hound-image-generated-item-portrait",
       "tags": []
     },
     {
@@ -965,7 +965,7 @@
       "name": "Sir Henry’s Old Suit",
       "description": "Clothes given to Selden cause the hound to pursue the wrong man.",
       "iconType": "shirt",
-      "imageId": "hound-image-paget-57",
+      "imageId": "hound-image-generated-item-sir-henry-suit",
       "tags": []
     },
     {
@@ -976,7 +976,7 @@
       "name": "Phosphorus Preparation",
       "description": "Stapleton paints the hound’s muzzle to create a supernatural glow.",
       "iconType": "flask-conical",
-      "imageId": "hound-image-paget-58",
+      "imageId": "hound-image-generated-item-phosphorus",
       "tags": []
     },
     {
@@ -987,7 +987,7 @@
       "name": "Holmes’s Revolver",
       "description": "Holmes uses it to kill the attacking hound.",
       "iconType": "target",
-      "imageId": "hound-image-paget-54",
+      "imageId": "hound-image-generated-item-revolver",
       "tags": []
     },
     {
@@ -998,7 +998,7 @@
       "name": "Mire Path Markers",
       "description": "Hidden rods indicate the only safe path across the Great Grimpen Mire.",
       "iconType": "signpost",
-      "imageId": "hound-image-paget-59",
+      "imageId": "hound-image-generated-item-mire-marks",
       "tags": []
     },
     {
@@ -1009,7 +1009,7 @@
       "name": "The Hound",
       "description": "A huge trained dog used by Stapleton as a weapon disguised by phosphorus.",
       "iconType": "dog",
-      "imageId": "hound-image-paget-53",
+      "imageId": "hound-image-generated-item-hound",
       "tags": []
     },
     {
@@ -1020,7 +1020,7 @@
       "name": "Butterfly Net",
       "description": "Stapleton’s naturalist’s net, part vocation and part camouflage.",
       "iconType": "bug",
-      "imageId": "hound-image-paget-60",
+      "imageId": "hound-image-generated-item-net",
       "tags": []
     }
   ],
@@ -7628,13 +7628,6 @@
   ],
   "blobs": [
     {
-      "id": "hound-image-cover",
-      "worldId": "hound-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-42%20-%20Frontispiece%20(Hound%20of%20Baskervilles).jpg?width=960",
-      "createdAt": 1785585600000
-    },
-    {
       "id": "hound-image-map-britain",
       "worldId": "hound-world",
       "mimeType": "image/png",
@@ -7663,270 +7656,516 @@
       "createdAt": 1785585600000
     },
     {
-      "id": "hound-image-paget-1",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-01.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/cover.jpg"
     },
     {
-      "id": "hound-image-paget-5",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-holmes",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-05%20-%20Hound%20of%20Baskervilles%2C%20page%2024.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/holmes.jpg"
     },
     {
-      "id": "hound-image-paget-6",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-watson",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-06.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/watson.jpg"
     },
     {
-      "id": "hound-image-paget-8",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-sir-henry",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-08.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/sir-henry.jpg"
     },
     {
-      "id": "hound-image-paget-9",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-mortimer",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-09.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/mortimer.jpg"
     },
     {
-      "id": "hound-image-paget-10",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-sir-charles",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-10.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/sir-charles.jpg"
     },
     {
-      "id": "hound-image-paget-11",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-stapleton",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-11%20-%20Sir%20Henry%20Baskerville%20(Hound%20of%20Baskervilles%2C%20page%2058).jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/stapleton.jpg"
     },
     {
-      "id": "hound-image-paget-12",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-beryl",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-12.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/beryl.jpg"
     },
     {
-      "id": "hound-image-paget-14",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-barrymore",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-14%20-%20Hound%20of%20Baskervilles%2C%20page%2076.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/barrymore.jpg"
     },
     {
-      "id": "hound-image-paget-15",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-mrs-barrymore",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-15.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/mrs-barrymore.jpg"
     },
     {
-      "id": "hound-image-paget-17",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-laura",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-17.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/laura.jpg"
     },
     {
-      "id": "hound-image-paget-18",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-selden",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-18.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/selden.jpg"
     },
     {
-      "id": "hound-image-paget-19",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-frankland",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-19.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/frankland.jpg"
     },
     {
-      "id": "hound-image-paget-20",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-cartwright",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-20.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/cartwright.jpg"
     },
     {
-      "id": "hound-image-paget-21",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-lestrade",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-21%20-%20Hound%20of%20Baskervilles%2C%20page%20118.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/lestrade.jpg"
     },
     {
-      "id": "hound-image-paget-22",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-perkins",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-22.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/perkins.jpg"
     },
     {
-      "id": "hound-image-paget-23",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-clayton",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-23.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/clayton.jpg"
     },
     {
-      "id": "hound-image-paget-24",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-postmaster",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-24.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/postmaster.jpg"
     },
     {
-      "id": "hound-image-paget-25",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-hugo",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-25.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/hugo.jpg"
     },
     {
-      "id": "hound-image-paget-26",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-character-yeoman-daughter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-26.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/characters/yeoman-daughter.jpg"
     },
     {
-      "id": "hound-image-paget-27",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-walking-stick",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-27%20-%20Legend%20of%20the%20wicked%20Hugo%20(Hound%20of%20Baskervilles%2C%20page%20160).jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/walking-stick.jpg"
     },
     {
-      "id": "hound-image-paget-28",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-manuscript",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-28%20-%20Hound%20of%20Baskervilles%2C%20page%20163.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/manuscript.jpg"
     },
     {
-      "id": "hound-image-paget-29",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-newspaper",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-29.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/newspaper.jpg"
     },
     {
-      "id": "hound-image-paget-30",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-warning",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-30.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/warning.jpg"
     },
     {
-      "id": "hound-image-paget-31",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-brown-boot",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-31.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/brown-boot.jpg"
     },
     {
-      "id": "hound-image-paget-32",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-old-boot",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-32.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/old-boot.jpg"
     },
     {
-      "id": "hound-image-paget-33",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-telegram",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-33.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/telegram.jpg"
     },
     {
-      "id": "hound-image-paget-34",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-sir-charles-letter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-34%20-%20Hound%20of%20Baskervilles%2C%20page%20204.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/sir-charles-letter.jpg"
     },
     {
-      "id": "hound-image-paget-35",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-candle",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-35.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/candle.jpg"
     },
     {
-      "id": "hound-image-paget-53",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-telescope",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-53%20-%20The%20coal-black%20Hound%20(Hound%20of%20Baskervilles).jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/telescope.jpg"
     },
     {
-      "id": "hound-image-paget-54",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-reports",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-54%20-%20The%20Hound%20killed%20by%20Holmes.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/reports.jpg"
     },
     {
-      "id": "hound-image-paget-55",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-portrait",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-55.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/portrait.jpg"
     },
     {
-      "id": "hound-image-paget-56",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-sir-henry-suit",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-56.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/sir-henry-suit.jpg"
     },
     {
-      "id": "hound-image-paget-57",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-phosphorus",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-57.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/phosphorus.jpg"
     },
     {
-      "id": "hound-image-paget-58",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-revolver",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-58.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/revolver.jpg"
     },
     {
-      "id": "hound-image-paget-59",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-mire-marks",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-59.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/mire-marks.jpg"
     },
     {
-      "id": "hound-image-paget-60",
       "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-hound",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houn-60.jpg?width=720",
-      "createdAt": 1785585600000
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/hound.jpg"
     },
     {
-      "id": "hound-image-paget-selden",
       "worldId": "hound-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Hound%20of%20the%20Baskervilles%2C%20pg.260.png?width=720",
-      "createdAt": 1785585600000
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-item-net",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/items/net.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-london-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/london-portal.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-dartmoor-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/dartmoor-portal.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-baker-street",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/baker-street.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-northumberland",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/northumberland.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-charing-cross",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/charing-cross.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-waterloo",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/waterloo.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-cartwright-route",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/cartwright-route.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-moor-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/moor-gate.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-hall-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/hall-portal.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-merripit",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/merripit.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-grimpen",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/grimpen.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-tor",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/tor.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-stone-hut",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/stone-hut.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-coombe-tracey",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/coombe-tracey.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-frankland",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/frankland.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-princetown",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/princetown.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-selden-refuge",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/selden-refuge.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-hound-kennel",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/hound-kennel.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-yew-alley-entry",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/yew-alley-entry.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-summer-house",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/summer-house.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-great-hall",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/great-hall.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-dining-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/dining-room.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-sir-henry-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/sir-henry-room.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-watson-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/watson-room.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-barrymore-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/barrymore-room.jpg"
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1790624030748,
+      "updatedAt": 1790624030748,
+      "id": "hound-image-generated-location-portrait-gallery",
+      "mimeType": "image/jpeg",
+      "url": "library/the-hound-of-the-baskervilles/art/generated/locations/portrait-gallery.jpg"
     }
   ],
   "travelModes": [],
@@ -8036,7 +8275,7 @@
       "title": "The Baskerville Legend",
       "body": "A manuscript dated 1742 recounts Hugo Baskerville’s death beside a spectral hound. Whether or not the legend began in fact, Stapleton turns inherited fear into a murder weapon.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-character-hugo",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-57"
     },
@@ -8049,7 +8288,7 @@
       "title": "The Line of Succession",
       "body": "Sir Charles’s death brings Sir Henry from Canada. Stapleton is secretly the son of Roger Baskerville, a younger brother of Sir Charles, and therefore has a financial motive to remove the remaining heir.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-item-portrait",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-62"
     },
@@ -8062,7 +8301,7 @@
       "title": "The Great Grimpen Mire",
       "body": "The mire appears open but contains lethal bogs and only narrow islands of firm ground. Stapleton’s marked path gives him a private refuge, kennel, and escape route.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-location-grimpen",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-57"
     },
@@ -8075,7 +8314,7 @@
       "title": "The Fictional Baskerville Country",
       "body": "Baskerville Hall, Merripit House, Lafter Hall, and Grimpen are fictional. Their positions on the Dartmoor map are an editorial reconstruction of the novel’s relative directions, not claims about real sites.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-location-dartmoor-portal",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-26"
     },
@@ -8088,7 +8327,7 @@
       "title": "Sir Charles’s Death",
       "body": "Stapleton arranges Laura’s letter, releases the hound when Sir Charles waits at the gate, and relies on terror and heart disease to leave no conventional wound.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-location-summer-house",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-62"
     },
@@ -8101,7 +8340,7 @@
       "title": "The Attempt on Sir Henry",
       "body": "Stapleton first steals a worn boot for scent, later releases the hound as Sir Henry walks from Merripit House, and loses control of the plan when Holmes shoots the animal.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-item-hound",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-57"
     },
@@ -8114,7 +8353,7 @@
       "title": "Holmes’s Hidden Investigation",
       "body": "Holmes remains on Dartmoor in a stone hut, using Cartwright for supplies. The concealment lets him study Stapleton without alerting the suspect, though it also keeps Watson and the reader partially uninformed.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-location-stone-hut",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-49"
     },
@@ -8127,7 +8366,7 @@
       "title": "The Material Hound",
       "body": "The “demon” is a large dog trained as a weapon. Phosphorus creates the fiery appearance; stolen clothing provides scent; the moor and family story amplify fear.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-item-phosphorus",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-57"
     },
@@ -8140,7 +8379,7 @@
       "title": "Documents as Evidence",
       "body": "The case is carried through a manuscript, newspaper account, warning note, telegram, Watson’s reports, diary extracts, and the burned L.L. letter. Each document has a different author and degree of reliability.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-item-reports",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-45"
     },
@@ -8153,7 +8392,7 @@
       "title": "Text Source",
       "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #2852, divided across all 15 chapters and modeled events. Gutenberg packaging, repeated chapter headings, and the closing title are excluded. Maps and illustrations are documented separately in this page.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-1"
     },
@@ -8166,7 +8405,7 @@
       "title": "Sidney Paget Illustrations",
       "body": "Character and item images link to Sidney Paget’s original Strand and early book illustrations held on Wikimedia Commons. Individual files retain the licensing information on their Commons pages.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-generated-character-holmes",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-1"
     },
@@ -8177,9 +8416,9 @@
       "id": "hound-lore-12",
       "categoryId": "hound-lore-category-sources",
       "title": "Map Sources",
-      "body": "The Britain locator, 1890 London map, historical Ordnance Survey Dartmoor drawing, and period house plan are linked from Wikimedia Commons. The house plan provides navigable editorial space rather than a canonical Baskerville Hall blueprint.",
+      "body": "The cover, character portraits, item plates, and location scenes are original generated illustrations created for the Kathala Library edition. The four linked maps remain preserved for geographic and navigational accuracy: Britain, Victorian London, Dartmoor, and the editorial plan of Baskerville Hall.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "hound-image-map-dartmoor",
       "linkedEntityIds": [],
       "visibleFromEventId": "hound-event-1"
     }
