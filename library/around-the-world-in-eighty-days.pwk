@@ -6,7 +6,7 @@
     "id": "around-the-world-in-eighty-days-world",
     "name": "Around the World in Eighty Days",
     "description": "Phileas Fogg wagers that the new railways and steamship lines can carry him around the globe in eighty days. Travelling east with Passepartout, pursued by a mistaken detective, and joined by Aouda, he discovers that precision can master a timetable but not the loyalty, danger, and affection encountered along the route.",
-    "coverImageId": "around-the-world-in-eighty-days-image-cover",
+    "coverImageId": "around-the-world-in-eighty-days-image-generated-cover",
     "theme": "theme-action",
     "readingMode": true,
     "createdAt": 1786060800000,
@@ -170,7 +170,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-1"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-london-entrance"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -186,7 +186,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-5"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-paris"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -202,7 +202,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-5"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-turin"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -218,7 +218,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-6"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-brindisi"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -234,7 +234,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-7"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-suez"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -250,7 +250,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-8"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-aden"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -266,7 +266,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-10"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-bombay-entrance"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -282,7 +282,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-23"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-calcutta-world"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -298,7 +298,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-25"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-singapore"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -314,7 +314,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-27"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-hong-kong"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -330,7 +330,7 @@
       "iconType": "ship",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-30"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-tankadere-sea"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -346,7 +346,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-32"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-yokohama-entrance"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -362,7 +362,7 @@
       "iconType": "ship",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-35"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-general-grant"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -378,7 +378,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-36"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-san-francisco-entrance"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -394,7 +394,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-48"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-new-york-world"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -410,7 +410,7 @@
       "iconType": "ship",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-50"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-henrietta"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -426,7 +426,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-51"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-queenstown"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -442,7 +442,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-52"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-liverpool"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -458,7 +458,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-1"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-savile-row"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -474,7 +474,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-3"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-reform-club"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -490,7 +490,7 @@
       "iconType": "station",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-4"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-charing-cross"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -506,7 +506,7 @@
       "iconType": "station",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-53"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-london-terminus"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -522,7 +522,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-54"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-wilson-house"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -538,7 +538,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-10"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-bombay"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -554,7 +554,7 @@
       "iconType": "temple",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-11"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-malabar-hill"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -570,7 +570,7 @@
       "iconType": "station",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-14"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-kholby"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -586,7 +586,7 @@
       "iconType": "forest",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-15"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-jungle-camp"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -602,7 +602,7 @@
       "iconType": "temple",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-18"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-pillaji-temple"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -618,7 +618,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-21"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-suttee-clearing"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -634,7 +634,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-22"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-allahabad"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -650,7 +650,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-22"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-benares"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -666,7 +666,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-23"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-calcutta"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -682,7 +682,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-31"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-yokohama-harbor"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -698,7 +698,7 @@
       "iconType": "district",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-31"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-yokohama-streets"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -714,7 +714,7 @@
       "iconType": "theatre",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-33"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-long-noses"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -730,7 +730,7 @@
       "iconType": "ship",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-34"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-general-grant-berth"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -746,7 +746,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-36"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-san-francisco"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -762,7 +762,7 @@
       "iconType": "station",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-37"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-oakland"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -778,7 +778,7 @@
       "iconType": "station",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-40"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-medicine-bow"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -794,7 +794,7 @@
       "iconType": "fort",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-45"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-fort-kearny"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -810,7 +810,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-47"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-omaha"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -826,7 +826,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-48"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-chicago"
     },
     {
       "worldId": "around-the-world-in-eighty-days-world",
@@ -842,7 +842,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "around-the-world-in-eighty-days-image-plate-48"
+      "imageId": "around-the-world-in-eighty-days-image-generated-location-new-york"
     }
   ],
   "characters": [
@@ -856,7 +856,7 @@
         "Mr Fogg"
       ],
       "description": "An exact, reserved London gentleman who stakes his fortune on completing the new global itinerary in eighty days.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-1",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-fogg",
       "color": "#4f6f78",
       "tags": [],
       "isAlive": true,
@@ -870,7 +870,7 @@
       "name": "Jean Passepartout",
       "aliases": [],
       "description": "Fogg’s resourceful French valet, newly committed to a quiet life and repeatedly drawn into the journey’s most physical dangers.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-2",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-passepartout",
       "color": "#b06f3c",
       "tags": [],
       "isAlive": true,
@@ -886,7 +886,7 @@
         "Mrs Aouda"
       ],
       "description": "A Parsi woman rescued in India who becomes an active, perceptive companion during the eastward journey.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-21",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-aouda",
       "color": "#8d5c68",
       "tags": [],
       "isAlive": true,
@@ -902,7 +902,7 @@
         "Mr Fix"
       ],
       "description": "A British detective who mistakes Fogg for the Bank of England robber and follows him while awaiting legal authority.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-7",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-fix",
       "color": "#6a6260",
       "tags": [],
       "isAlive": true,
@@ -916,7 +916,7 @@
       "name": "Sir Francis Cromarty",
       "aliases": [],
       "description": "A British brigadier-general who travels across India and helps Fogg rescue Aouda.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-14",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-cromarty",
       "color": "#66734e",
       "tags": [],
       "isAlive": true,
@@ -930,7 +930,7 @@
       "name": "The Parsee Guide",
       "aliases": [],
       "description": "A skilled young guide who supplies local knowledge and leads the elephant party through the forest.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-15",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-guide",
       "color": "#8a7348",
       "tags": [],
       "isAlive": true,
@@ -944,7 +944,7 @@
       "name": "Kiouni",
       "aliases": [],
       "description": "The elephant purchased by Fogg when the railway unexpectedly ends at Kholby.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-15",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-kiouni",
       "color": "#77705e",
       "tags": [],
       "isAlive": true,
@@ -958,7 +958,7 @@
       "name": "The Chief Priest",
       "aliases": [],
       "description": "The leader of the procession holding Aouda at the Pillaji temple.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-18",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-priest",
       "color": "#7e5344",
       "tags": [],
       "isAlive": true,
@@ -972,7 +972,7 @@
       "name": "Judge Obadiah",
       "aliases": [],
       "description": "The Calcutta magistrate who hears the temple case and sets a costly bail.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-23",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-obadiah",
       "color": "#6b5a48",
       "tags": [],
       "isAlive": true,
@@ -986,7 +986,7 @@
       "name": "Oysterpuff",
       "aliases": [],
       "description": "The court clerk who produces Passepartout’s abandoned shoes as evidence.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-23",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-oysterpuff",
       "color": "#756654",
       "tags": [],
       "isAlive": true,
@@ -1000,7 +1000,7 @@
       "name": "The Suez Consul",
       "aliases": [],
       "description": "The British official who validates Fogg’s passport despite Fix’s attempt to delay him.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-7",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-consul",
       "color": "#4c7080",
       "tags": [],
       "isAlive": true,
@@ -1014,7 +1014,7 @@
       "name": "John Bunsby",
       "aliases": [],
       "description": "The decisive pilot and master of the Tankadere, hired to force a passage toward Shanghai.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-30",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-bunsby",
       "color": "#496c75",
       "tags": [],
       "isAlive": true,
@@ -1028,7 +1028,7 @@
       "name": "Honourable William Batulcar",
       "aliases": [],
       "description": "An American circus proprietor whose troupe gives Passepartout work and an unexpected reunion.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-33",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-batulcar",
       "color": "#93643f",
       "tags": [],
       "isAlive": true,
@@ -1042,7 +1042,7 @@
       "name": "Captain of the General Grant",
       "aliases": [],
       "description": "The Pacific Mail captain responsible for the long Yokohama–San Francisco crossing.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-35",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-mandiboy",
       "color": "#486878",
       "tags": [],
       "isAlive": true,
@@ -1056,7 +1056,7 @@
       "name": "Colonel Stamp Proctor",
       "aliases": [],
       "description": "A belligerent American first encountered at an election rally.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-36",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-proctor",
       "color": "#814a3e",
       "tags": [],
       "isAlive": true,
@@ -1070,7 +1070,7 @@
       "name": "The Pacific Railroad Conductor",
       "aliases": [],
       "description": "The railway official who manages bridge hazards, track obstructions, and the attack on the train.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-40",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-conductor",
       "color": "#5d6a70",
       "tags": [],
       "isAlive": true,
@@ -1084,7 +1084,7 @@
       "name": "Mudge",
       "aliases": [],
       "description": "An American who carries the party from Fort Kearny to Omaha in a sail-powered sledge.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-47",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-mudge",
       "color": "#6f7456",
       "tags": [],
       "isAlive": true,
@@ -1098,7 +1098,7 @@
       "name": "Captain Andrew Speedy",
       "aliases": [],
       "description": "The stubborn master of the Henrietta, whose ship and command Fogg progressively buys.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-50",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-speedy",
       "color": "#704f43",
       "tags": [],
       "isAlive": true,
@@ -1112,7 +1112,7 @@
       "name": "Reverend Samuel Wilson",
       "aliases": [],
       "description": "The London clergyman whose availability reveals the calendar error to Passepartout.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-54",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-wilson",
       "color": "#706955",
       "tags": [],
       "isAlive": true,
@@ -1126,7 +1126,7 @@
       "name": "Andrew Stuart",
       "aliases": [],
       "description": "A Reform Club whist player who challenges the feasibility of the eighty-day circuit.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-3",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-stuart",
       "color": "#675a4d",
       "tags": [],
       "isAlive": true,
@@ -1140,7 +1140,7 @@
       "name": "John Sullivan",
       "aliases": [],
       "description": "A Reform Club member who joins the twenty-thousand-pound wager.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-3",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-sullivan",
       "color": "#5b6670",
       "tags": [],
       "isAlive": true,
@@ -1154,7 +1154,7 @@
       "name": "Samuel Fallentin",
       "aliases": [],
       "description": "One of Fogg’s fellow whist players and backers of the wager.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-3",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-fallentin",
       "color": "#6a6355",
       "tags": [],
       "isAlive": true,
@@ -1168,7 +1168,7 @@
       "name": "Thomas Flanagan",
       "aliases": [],
       "description": "A brewer and Reform Club member who stakes money against Fogg’s timetable.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-3",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-flanagan",
       "color": "#76604f",
       "tags": [],
       "isAlive": true,
@@ -1182,7 +1182,7 @@
       "name": "Gauthier Ralph",
       "aliases": [],
       "description": "A Bank of England governor who discusses the robbery before joining the wager.",
-      "portraitImageId": "around-the-world-in-eighty-days-image-plate-3",
+      "portraitImageId": "around-the-world-in-eighty-days-image-generated-character-ralph",
       "color": "#4f6474",
       "tags": [],
       "isAlive": true,
@@ -1198,7 +1198,7 @@
       "name": "Fogg’s Carpet-bag",
       "description": "A compact travelling bag holding shirts, footwear, and a large reserve of Bank of England notes.",
       "iconType": "bag",
-      "imageId": "around-the-world-in-eighty-days-image-plate-4",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-carpet-bag",
       "tags": []
     },
     {
@@ -1209,7 +1209,7 @@
       "name": "Bradshaw’s Continental Railway Guide",
       "description": "The railway and steamship timetable used to convert the proposed circuit into a sequence of connections.",
       "iconType": "book",
-      "imageId": "around-the-world-in-eighty-days-image-plate-3",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-bradshaw",
       "tags": []
     },
     {
@@ -1220,7 +1220,7 @@
       "name": "Fogg’s Passport",
       "description": "A document stamped at the principal stops, intended as proof of the route rather than a legal necessity.",
       "iconType": "document",
-      "imageId": "around-the-world-in-eighty-days-image-plate-7",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-passport",
       "tags": []
     },
     {
@@ -1231,7 +1231,7 @@
       "name": "Fix’s Arrest Warrant",
       "description": "The delayed authority Fix needs before he can detain Fogg in British territory.",
       "iconType": "document",
-      "imageId": "around-the-world-in-eighty-days-image-plate-7",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-warrant",
       "tags": []
     },
     {
@@ -1242,7 +1242,7 @@
       "name": "Passepartout’s Watch",
       "description": "A cherished family watch kept on London time, which its owner will not reset.",
       "iconType": "watch",
-      "imageId": "around-the-world-in-eighty-days-image-plate-8",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-watch",
       "tags": []
     },
     {
@@ -1253,7 +1253,7 @@
       "name": "Passepartout’s Temple Shoes",
       "description": "The footwear left behind in the pagoda at Bombay.",
       "iconType": "clothing",
-      "imageId": "around-the-world-in-eighty-days-image-plate-11",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-shoes",
       "tags": []
     },
     {
@@ -1264,7 +1264,7 @@
       "name": "Fogg’s Banknotes",
       "description": "The portable fortune from which Fogg calmly pays fares, bail, rewards, animals, vessels, and fuel.",
       "iconType": "money",
-      "imageId": "around-the-world-in-eighty-days-image-plate-4",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-banknotes",
       "tags": []
     },
     {
@@ -1275,7 +1275,7 @@
       "name": "Fogg’s Revolver",
       "description": "A travelling weapon carried through the dangerous railway crossing and used during the rescue.",
       "iconType": "weapon",
-      "imageId": "around-the-world-in-eighty-days-image-plate-44",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-revolver",
       "tags": []
     },
     {
@@ -1286,7 +1286,7 @@
       "name": "Kiouni’s Tack",
       "description": "The saddle and equipment used to carry the party across the unfinished Indian railway gap.",
       "iconType": "equipment",
-      "imageId": "around-the-world-in-eighty-days-image-plate-15",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-elephant",
       "tags": []
     },
     {
@@ -1297,7 +1297,7 @@
       "name": "Aouda’s Palanquin",
       "description": "The covered litter used in the procession from the temple before the rescue.",
       "iconType": "vehicle",
-      "imageId": "around-the-world-in-eighty-days-image-plate-18",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-palanquin",
       "tags": []
     },
     {
@@ -1308,7 +1308,7 @@
       "name": "Opium Pipe",
       "description": "The pipe forced on Passepartout after Fix prevents him from warning Fogg about the Carnatic.",
       "iconType": "object",
-      "imageId": "around-the-world-in-eighty-days-image-plate-28",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-opium-pipe",
       "tags": []
     },
     {
@@ -1319,7 +1319,7 @@
       "name": "Long Nose Costume",
       "description": "The elaborate acrobat’s disguise Passepartout wears in Batulcar’s human pyramid.",
       "iconType": "clothing",
-      "imageId": "around-the-world-in-eighty-days-image-plate-33",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-circus-costume",
       "tags": []
     },
     {
@@ -1330,7 +1330,7 @@
       "name": "Round-the-world Tickets",
       "description": "The sequence of rail and steamship passages purchased as the journey advances.",
       "iconType": "document",
-      "imageId": "around-the-world-in-eighty-days-image-plate-4",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-railway-tickets",
       "tags": []
     },
     {
@@ -1341,7 +1341,7 @@
       "name": "Mudge’s Sledge Sail",
       "description": "A broad sail that turns prairie wind into speed across the frozen plains.",
       "iconType": "equipment",
-      "imageId": "around-the-world-in-eighty-days-image-plate-47",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-sledge-sail",
       "tags": []
     },
     {
@@ -1352,7 +1352,7 @@
       "name": "The Henrietta",
       "description": "A screw steamer bought piece by piece when coal runs short on the Atlantic.",
       "iconType": "ship",
-      "imageId": "around-the-world-in-eighty-days-image-plate-50",
+      "imageId": "around-the-world-in-eighty-days-image-generated-item-henrietta",
       "tags": []
     }
   ],
@@ -9876,13 +9876,6 @@
   ],
   "blobs": [
     {
-      "id": "around-the-world-in-eighty-days-image-cover",
-      "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20-%20book%20cover%20(139390140).jpg?width=960",
-      "createdAt": 1786060800000
-    },
-    {
       "id": "around-the-world-in-eighty-days-image-map-world",
       "worldId": "around-the-world-in-eighty-days-world",
       "mimeType": "image/png",
@@ -9918,389 +9911,668 @@
       "createdAt": 1786060800000
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-1",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%201.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-cover",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/cover.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-2",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%202.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-fogg",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/phileas-fogg.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-3",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%203.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-passepartout",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/jean-passepartout.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-4",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%204.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-aouda",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/aouda.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-5",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%205.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-fix",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/detective-fix.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-6",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%206.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-cromarty",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/sir-francis-cromarty.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-7",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%207.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-guide",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/parsee-guide.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-8",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%208.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-kiouni",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/kiouni.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-9",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%209.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-priest",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/chief-priest.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-10",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2010.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-obadiah",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/judge-obadiah.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-11",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2011.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-oysterpuff",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/oysterpuff.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-12",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2012.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-consul",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/suez-consul.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-13",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2013.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-bunsby",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/john-bunsby.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-14",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2014.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-batulcar",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/william-batulcar.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-15",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2015.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-mandiboy",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/general-grant-captain.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-16",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2016.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-proctor",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/colonel-stamp-proctor.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-17",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2017.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-conductor",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/railroad-conductor.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-18",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2018.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-mudge",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/mudge.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-19",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2019.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-speedy",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/captain-andrew-speedy.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-20",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2020.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-wilson",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/reverend-samuel-wilson.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-21",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2021.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-stuart",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/andrew-stuart.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-22",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2022.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-sullivan",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/john-sullivan.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-23",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2023.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-fallentin",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/samuel-fallentin.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-24",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2024.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-flanagan",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/thomas-flanagan.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-25",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2025.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-character-ralph",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/characters/gauthier-ralph.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-26",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2026.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-carpet-bag",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/carpet-bag.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-27",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2027.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-bradshaw",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/bradshaws-guide.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-28",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2028.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-passport",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/foggs-passport.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-29",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2029.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-warrant",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/arrest-warrant.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-30",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2030.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-watch",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/passepartouts-watch.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-31",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2031.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-shoes",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/temple-shoes.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-32",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2032.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-banknotes",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/banknotes.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-33",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2033.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-revolver",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/foggs-revolver.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-34",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2034.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-elephant",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/kiounis-tack.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-35",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2035.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-palanquin",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/aoudas-palanquin.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-36",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2036.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-opium-pipe",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/opium-pipe.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-37",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2037.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-circus-costume",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/long-nose-costume.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-38",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2038.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-railway-tickets",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/round-the-world-tickets.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-39",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2039.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-sledge-sail",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/sled-sail.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-40",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2040.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-item-henrietta",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/items/henrietta.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-41",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2041.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-london-entrance",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/london.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-42",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2042.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-paris",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/paris.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-43",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2043.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-turin",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/turin.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-44",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2044.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-brindisi",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/brindisi.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-45",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2045.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-suez",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/suez.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-46",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2046.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-aden",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/aden.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-47",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2047.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-bombay-entrance",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/bombay-entrance.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-48",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2048.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-calcutta-world",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/calcutta-world.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-49",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2049.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-singapore",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/singapore.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-50",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2050.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-hong-kong",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/hong-kong.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-51",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2051.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-tankadere-sea",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/tankadere-sea.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-52",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2052.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-yokohama-entrance",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/yokohama-entrance.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-53",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2053.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-general-grant",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/general-grant.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-54",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2054.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-san-francisco-entrance",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/san-francisco-entrance.jpg"
     },
     {
-      "id": "around-the-world-in-eighty-days-image-plate-55",
       "worldId": "around-the-world-in-eighty-days-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Around%20the%20World%20in%20Eighty%20Days%20(1873)%2055.png?width=960",
-      "createdAt": 1786060800000
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-new-york-world",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/new-york-world.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-henrietta",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/henrietta-atlantic.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-queenstown",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/queenstown.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-liverpool",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/liverpool.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-savile-row",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/savile-row.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-reform-club",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/reform-club.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-charing-cross",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/charing-cross.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-london-terminus",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/london-terminus.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-wilson-house",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/wilson-house.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-bombay",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/bombay.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-malabar-hill",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/malabar-hill.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-kholby",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/kholby.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-jungle-camp",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/jungle-camp.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-pillaji-temple",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/pillaji-temple.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-suttee-clearing",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/suttee-clearing.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-allahabad",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/allahabad.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-benares",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/benares.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-calcutta",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/calcutta.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-yokohama-harbor",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/yokohama-harbor.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-yokohama-streets",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/yokohama-streets.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-long-noses",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/long-noses.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-general-grant-berth",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/general-grant-berth.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-san-francisco",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/san-francisco.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-oakland",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/oakland.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-medicine-bow",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/medicine-bow.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-fort-kearny",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/fort-kearny.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-omaha",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/omaha.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-chicago",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/chicago.jpg"
+    },
+    {
+      "worldId": "around-the-world-in-eighty-days-world",
+      "createdAt": 1790562082123,
+      "updatedAt": 1790562082123,
+      "id": "around-the-world-in-eighty-days-image-generated-location-new-york",
+      "mimeType": "image/jpeg",
+      "url": "library/around-the-world-in-eighty-days/art/generated/locations/new-york.jpg"
     }
   ],
   "travelModes": [],
@@ -10469,9 +10741,9 @@
       "id": "around-the-world-in-eighty-days-lore-page-1",
       "categoryId": "around-the-world-in-eighty-days-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The chronology and chapter structure follow the public-domain George Makepeace Towle translation available through Project Gutenberg. Character and place artwork comes from the 1873 illustrated edition associated with Alphonse de Neuville and Léon Benett. The linked maps include a dedicated route map, a Victorian London map, an 1870 Indian railway map, an 1870 Yokohama map, and an 1871 American railway map.",
+      "body": "The chronology and chapter structure follow the complete public-domain George Makepeace Towle translation available through Project Gutenberg. The cover, character portraits, item plates, and location scenes are original generated illustrations created for the Kathala Library edition. The five linked maps remain carefully selected historical maps: a dedicated route map, Victorian London, the 1870 Indian railway network, 1870 Yokohama, and the 1871 American railway network.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-cover",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-cover",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-world"
       ],
@@ -10486,7 +10758,7 @@
       "title": "Why the Travellers Gain a Day",
       "body": "By travelling continually east, the party meets sunrise earlier at each longitude. Their accumulated local adjustments amount to twenty-four hours by the time they circle the globe, although Passepartout’s watch remains on London time.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-plate-54",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-character-passepartout",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-item-watch"
       ],
@@ -10517,7 +10789,7 @@
       "title": "Steam, Rail, and Telegraph",
       "body": "The wager depends on nineteenth-century networks that synchronize distant schedules and carry news ahead of travellers. The same system that enables Fogg also lets Fix send warrants and lets London turn the route into a market.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-plate-37",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-location-oakland",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-faction-transport-crews"
       ],
@@ -10532,7 +10804,7 @@
       "title": "Improvisation beyond the Timetable",
       "body": "The elephant, Tankadere, wind sledge, and Henrietta are not picturesque diversions but responses to gaps in the published network. Fogg repeatedly replaces lost scheduled time with private transport and extraordinary expenditure.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-plate-47",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-location-omaha",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-item-henrietta"
       ],
@@ -10547,7 +10819,7 @@
       "title": "The Reform Club Wager",
       "body": "Fogg’s club combines private sociability, newspapers, card play, and financial confidence. Its clock and written memorandum make Pall Mall the journey’s legal and dramatic finish line.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-plate-3",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-location-reform-club",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-faction-reform-club"
       ],
@@ -10562,7 +10834,7 @@
       "title": "Passports and British Jurisdiction",
       "body": "Fogg seeks stamps as evidence of his route, while Fix cares less about travel permission than about the changing limits of police authority. Hong Kong is the final British territory before the Pacific; Liverpool is where the warrant can finally be used.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-plate-7",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-item-passport",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-item-passport",
         "around-the-world-in-eighty-days-item-warrant"
@@ -10578,7 +10850,7 @@
       "title": "India in the Novel",
       "body": "The Indian chapters are shaped by the assumptions and exoticism of a nineteenth-century European adventure novel set under British colonial rule. Its railway, court, religious, and rescue episodes should be read as literary constructions rather than neutral description of Indian life.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-plate-18",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-location-pillaji-temple",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-map-india"
       ],
@@ -10593,7 +10865,7 @@
       "title": "America in the Novel",
       "body": "The American crossing compresses elections, Mormon history, railroad engineering, frontier violence, and winter transport into an accelerated sequence. These episodes reflect Verne’s imagined geography and period conventions as much as documentary travel.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-plate-44",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-location-medicine-bow",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-map-america"
       ],
@@ -10608,7 +10880,7 @@
       "title": "Aouda’s Agency",
       "body": "Although introduced through a rescue plot shaped by period conventions, Aouda observes, decides, travels voluntarily, uses a weapon in defence, and ultimately proposes marriage herself.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-plate-21",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-character-aouda",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-char-aouda"
       ],
@@ -10621,9 +10893,9 @@
       "id": "around-the-world-in-eighty-days-lore-page-complete-text",
       "categoryId": "around-the-world-in-eighty-days-lore-category-context",
       "title": "Complete Text Edition",
-      "body": "The manuscript follows the complete public-domain English text of Jules Verne’s novel in Project Gutenberg eBook 103. Every narrative paragraph from Chapters I–XXXVII is assigned once in source order; Gutenberg contents, front matter, and end matter are excluded. Summaries, event divisions, chronology, maps, and state notes are editorial.",
+      "body": "The manuscript follows the complete public-domain English text of Jules Verne’s novel in Project Gutenberg eBook 103. Every narrative paragraph from Chapters I–XXXVII is assigned once in source order; Gutenberg contents, front matter, and end matter are excluded. The cover, portraits, item plates, and location scenes are original generated illustrations; the historical maps and all summaries, event divisions, chronology, and state notes are editorial selections.",
       "tags": [],
-      "coverImageId": "around-the-world-in-eighty-days-image-cover",
+      "coverImageId": "around-the-world-in-eighty-days-image-generated-cover",
       "linkedEntityIds": [
         "around-the-world-in-eighty-days-world"
       ],
