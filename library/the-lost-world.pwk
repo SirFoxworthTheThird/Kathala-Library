@@ -6,7 +6,7 @@
     "id": "lost-world-world",
     "name": "The Lost World",
     "description": "Arthur Conan Doyle’s adventure follows reporter Edward Malone and three formidable explorers from London into an isolated South American plateau where prehistoric animals, rival peoples, scientific ambition, and the problem of returning with believable proof test every idea of heroism.",
-    "coverImageId": "lost-world-image-cover",
+    "coverImageId": "lost-world-image-generated-cover",
     "theme": "theme-action",
     "readingMode": true,
     "createdAt": 1786838400000,
@@ -150,7 +150,7 @@
       "description": "The capital’s clubs, lecture halls, newspaper offices, and suburban homes frame the public dispute over Challenger’s claims.",
       "x": 850,
       "y": 290,
-      "imageId": "lost-world-image-strand-49",
+      "imageId": "lost-world-image-generated-location-london-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -166,7 +166,7 @@
       "description": "The south-coast port from which the expedition sails and to which it returns before its celebrated London reception.",
       "x": 839,
       "y": 315,
-      "imageId": "lost-world-image-strand-12",
+      "imageId": "lost-world-image-generated-location-southampton",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -182,7 +182,7 @@
       "description": "The long sea route carrying the explorers from England toward the mouth of the Amazon.",
       "x": 630,
       "y": 430,
-      "imageId": "lost-world-image-strand-1",
+      "imageId": "lost-world-image-generated-location-atlantic-crossing",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -198,7 +198,7 @@
       "description": "The river system and inland trail leading from northern Brazil toward the hidden plateau.",
       "x": 455,
       "y": 720,
-      "imageId": "lost-world-image-strand-19",
+      "imageId": "lost-world-image-generated-location-amazon-gate",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -214,7 +214,7 @@
       "description": "The Hungerton family’s comfortable suburban home, where Malone hopes to prove himself worthy of Gladys.",
       "x": 870,
       "y": 1840,
-      "imageId": "lost-world-image-streatham-art",
+      "imageId": "lost-world-image-generated-location-chestnuts",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -230,7 +230,7 @@
       "description": "The busy newspaper office where McArdle sends Malone in search of an adventure with real danger and public consequence.",
       "x": 1110,
       "y": 1056,
-      "imageId": "lost-world-image-gazette-art",
+      "imageId": "lost-world-image-generated-location-gazette",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -246,7 +246,7 @@
       "description": "A convivial London club where Malone asks Tarp Henry how to approach the famously combative Professor Challenger.",
       "x": 1000,
       "y": 1010,
-      "imageId": "lost-world-image-savage-club-art",
+      "imageId": "lost-world-image-generated-location-savage-club",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -262,7 +262,7 @@
       "description": "A substantial Kensington house whose study holds Challenger’s specimens, drawings, and fiercely guarded evidence.",
       "x": 660,
       "y": 1170,
-      "imageId": "lost-world-image-strand-25",
+      "imageId": "lost-world-image-generated-location-challenger-house",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -278,7 +278,7 @@
       "description": "The lecture hall where experts dispute the plateau evidence and volunteers are called for an expedition.",
       "x": 620,
       "y": 1100,
-      "imageId": "lost-world-image-strand-9",
+      "imageId": "lost-world-image-generated-location-zoological-institute",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -294,7 +294,7 @@
       "description": "Roxton’s bachelor quarters, furnished with trophies and the equipment of an experienced hunter and traveller.",
       "x": 865,
       "y": 1020,
-      "imageId": "lost-world-image-strand-11",
+      "imageId": "lost-world-image-generated-location-roxton-rooms",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -310,7 +310,7 @@
       "description": "A large public auditorium near Langham Place where the returning explorers present their evidence to a packed audience.",
       "x": 880,
       "y": 920,
-      "imageId": "lost-world-image-strand-46",
+      "imageId": "lost-world-image-generated-location-queens-hall",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -326,7 +326,7 @@
       "description": "The last urban base on the Amazon, where the party opens its sealed orders, gathers guides, and leaves regular communication behind.",
       "x": 145,
       "y": 385,
-      "imageId": "lost-world-image-strand-13",
+      "imageId": "lost-world-image-generated-location-manaos",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -342,7 +342,7 @@
       "description": "A riverside settlement whose inhabitants provide local knowledge and additional bearers for the inland journey.",
       "x": 183,
       "y": 350,
-      "imageId": "lost-world-image-amazon-canoe-art",
+      "imageId": "lost-world-image-generated-location-indian-village",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -358,7 +358,7 @@
       "description": "A difficult stretch where canoes, stores, and specimens must be carried around broken water.",
       "x": 260,
       "y": 405,
-      "imageId": "lost-world-image-rapids-art",
+      "imageId": "lost-world-image-generated-location-rapids",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -374,7 +374,7 @@
       "description": "A narrow, vegetation-covered waterway leading away from the known river system toward the plateau country.",
       "x": 450,
       "y": 179,
-      "imageId": "lost-world-image-strand-43",
+      "imageId": "lost-world-image-generated-location-secret-stream",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -390,7 +390,7 @@
       "description": "The expedition’s supply camp beneath the plateau, guarded by Zambo after the ascent party is cut off above.",
       "x": 630,
       "y": 140,
-      "imageId": "lost-world-image-strand-24",
+      "imageId": "lost-world-image-generated-location-base-camp",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -406,7 +406,7 @@
       "description": "An isolated high country ringed by cliffs and reached only through a precarious ascent.",
       "x": 630,
       "y": 70,
-      "imageId": "lost-world-image-strand-44",
+      "imageId": "lost-world-image-generated-location-plateau-gate",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -422,7 +422,7 @@
       "description": "A narrow pinnacle beside the cliff where a felled tree creates the expedition’s first bridge onto the summit.",
       "x": 390,
       "y": 640,
-      "imageId": "lost-world-image-strand-22",
+      "imageId": "lost-world-image-generated-location-tree-bridge",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -438,7 +438,7 @@
       "description": "The explorers’ defended camp of thorn and fire near the plateau’s southern rim.",
       "x": 414,
       "y": 635,
-      "imageId": "lost-world-image-strand-29",
+      "imageId": "lost-world-image-generated-location-summit-camp",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -454,7 +454,7 @@
       "description": "Dense primeval woodland surrounding a tall tree from which Malone first surveys the interior.",
       "x": 155,
       "y": 208,
-      "imageId": "lost-world-image-strand-26",
+      "imageId": "lost-world-image-generated-location-forest-lookout",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -470,7 +470,7 @@
       "description": "A muddy forest pool and clearing visited by a family of armoured herbivorous dinosaurs.",
       "x": 305,
       "y": 470,
-      "imageId": "lost-world-image-strand-7",
+      "imageId": "lost-world-image-generated-location-stegosaurus-pool",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -486,7 +486,7 @@
       "description": "A hot, mineral-stained spring on the western side of the plateau, used as a landmark during exploration.",
       "x": 70,
       "y": 290,
-      "imageId": "lost-world-image-strand-32",
+      "imageId": "lost-world-image-generated-location-challenger-geyser",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -502,7 +502,7 @@
       "description": "A foul, marshy nesting ground crowded with pterodactyls and bordered by exposed blue volcanic clay.",
       "x": 530,
       "y": 485,
-      "imageId": "lost-world-image-strand-27",
+      "imageId": "lost-world-image-generated-location-pterodactyl-swamp",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -518,7 +518,7 @@
       "description": "The broad inland lake at the centre of Maple White Land, visible from high ground and visited by the explorers.",
       "x": 390,
       "y": 348,
-      "imageId": "lost-world-image-strand-40",
+      "imageId": "lost-world-image-generated-location-central-lake",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -534,7 +534,7 @@
       "description": "A rough settlement near the eastern cliffs occupied by the plateau’s aggressive ape-men.",
       "x": 650,
       "y": 525,
-      "imageId": "lost-world-image-strand-36",
+      "imageId": "lost-world-image-generated-location-ape-town",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -550,7 +550,7 @@
       "description": "Caves beneath the northern cliffs that shelter the plateau people and overlook their cultivated ground.",
       "x": 175,
       "y": 110,
-      "imageId": "lost-world-image-strand-47",
+      "imageId": "lost-world-image-generated-location-indian-caves",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -566,7 +566,7 @@
       "description": "A concealed natural passage through the cliff, known to the plateau people and opening near the expedition’s lower camp.",
       "x": 445,
       "y": 620,
-      "imageId": "lost-world-image-strand-38",
+      "imageId": "lost-world-image-generated-location-escape-tunnel",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -581,7 +581,7 @@
       "name": "Edward Malone",
       "aliases": [],
       "description": "A young Daily Gazette reporter who joins the expedition to seek the danger and achievement he imagines will win Gladys Hungerton.",
-      "portraitImageId": "lost-world-image-strand-3",
+      "portraitImageId": "lost-world-image-generated-character-malone",
       "color": "#6d7f50",
       "tags": [],
       "isAlive": true,
@@ -595,7 +595,7 @@
       "name": "Professor George Edward Challenger",
       "aliases": [],
       "description": "A brilliant, volcanic zoologist whose claims about surviving prehistoric life provoke ridicule and launch the expedition.",
-      "portraitImageId": "lost-world-image-strand-14",
+      "portraitImageId": "lost-world-image-generated-character-challenger",
       "color": "#7a3f32",
       "tags": [],
       "isAlive": true,
@@ -609,7 +609,7 @@
       "name": "Professor Summerlee",
       "aliases": [],
       "description": "A respected comparative anatomist and severe sceptic who joins the expedition to test Challenger’s evidence in person.",
-      "portraitImageId": "lost-world-image-strand-21",
+      "portraitImageId": "lost-world-image-generated-character-summerlee",
       "color": "#64707a",
       "tags": [],
       "isAlive": true,
@@ -623,7 +623,7 @@
       "name": "Lord John Roxton",
       "aliases": [],
       "description": "A seasoned sportsman, explorer, and opponent of Amazonian slavery whose courage and fieldcraft steady the party.",
-      "portraitImageId": "lost-world-image-strand-15",
+      "portraitImageId": "lost-world-image-generated-character-roxton",
       "color": "#8a6a36",
       "tags": [],
       "isAlive": true,
@@ -637,7 +637,7 @@
       "name": "Gladys Hungerton",
       "aliases": [],
       "description": "The self-possessed young woman whose ideal of heroic achievement helps send Malone abroad, though her own choices follow a different course.",
-      "portraitImageId": "lost-world-image-strand-51",
+      "portraitImageId": "lost-world-image-generated-character-gladys",
       "color": "#865c74",
       "tags": [],
       "isAlive": true,
@@ -651,7 +651,7 @@
       "name": "McArdle",
       "aliases": [],
       "description": "The experienced news editor who recognizes Malone’s appetite for danger and commissions him to investigate Challenger.",
-      "portraitImageId": "lost-world-image-strand-5",
+      "portraitImageId": "lost-world-image-generated-character-mcardle",
       "color": "#566a78",
       "tags": [],
       "isAlive": true,
@@ -667,7 +667,7 @@
         "Jessie Challenger"
       ],
       "description": "Challenger’s small, composed wife, one of the few people able to interrupt his rages without being intimidated by them.",
-      "portraitImageId": "lost-world-image-strand-16",
+      "portraitImageId": "lost-world-image-generated-character-mrs-challenger",
       "color": "#806d62",
       "tags": [],
       "isAlive": true,
@@ -681,7 +681,7 @@
       "name": "Zambo",
       "aliases": [],
       "description": "A loyal African member of the expedition who maintains the lower camp and preserves the party’s only link with the outside world.",
-      "portraitImageId": "lost-world-image-strand-45",
+      "portraitImageId": "lost-world-image-generated-character-zambo",
       "color": "#5e715b",
       "tags": [],
       "isAlive": true,
@@ -695,7 +695,7 @@
       "name": "Gomez",
       "aliases": [],
       "description": "A former slave-trader’s associate who joins as a guide while concealing a personal grievance against Roxton.",
-      "portraitImageId": "lost-world-image-strand-34",
+      "portraitImageId": "lost-world-image-generated-character-gomez",
       "color": "#704a45",
       "tags": [],
       "isAlive": true,
@@ -709,7 +709,7 @@
       "name": "Manuel",
       "aliases": [],
       "description": "Gomez’s fellow guide and accomplice, experienced on the rivers but committed to the same concealed revenge.",
-      "portraitImageId": "lost-world-image-strand-33",
+      "portraitImageId": "lost-world-image-generated-character-manuel",
       "color": "#725d48",
       "tags": [],
       "isAlive": true,
@@ -725,7 +725,7 @@
       "name": "Maple White’s Sketchbook",
       "description": "A battered notebook containing drawings and observations from the American artist who first reached the plateau country.",
       "type": "book",
-      "imageId": "lost-world-image-strand-6",
+      "imageId": "lost-world-image-generated-item-sketchbook",
       "tags": []
     },
     {
@@ -736,7 +736,7 @@
       "name": "Challenger’s Plateau Photographs",
       "description": "Damaged photographic plates offered as evidence of the inaccessible plateau and the creatures seen there.",
       "type": "document",
-      "imageId": "lost-world-image-strand-8",
+      "imageId": "lost-world-image-generated-item-photographs",
       "tags": []
     },
     {
@@ -747,7 +747,7 @@
       "name": "Giant Wing Bone",
       "description": "An anomalously large bone Challenger presents as physical evidence that an unknown flying reptile survived.",
       "type": "specimen",
-      "imageId": "lost-world-image-item-wing-bone-art",
+      "imageId": "lost-world-image-generated-item-bone",
       "tags": []
     },
     {
@@ -758,7 +758,7 @@
       "name": "Sealed Expedition Instructions",
       "description": "Challenger’s written directions, opened at Manaos, that define the route while withholding its final destination from outsiders.",
       "type": "document",
-      "imageId": "lost-world-image-item-sealed-orders-art",
+      "imageId": "lost-world-image-generated-item-sealed-orders",
       "tags": []
     },
     {
@@ -769,7 +769,7 @@
       "name": "Expedition Rifles",
       "description": "Roxton’s carefully chosen firearms, essential for hunting, defence, signalling, and the plateau conflict.",
       "type": "weapon",
-      "imageId": "lost-world-image-item-rifles-art",
+      "imageId": "lost-world-image-generated-item-rifles",
       "tags": []
     },
     {
@@ -780,7 +780,7 @@
       "name": "Rope and Climbing Gear",
       "description": "The rope, axes, and improvised tackle used to scale the pinnacle and negotiate the plateau cliffs.",
       "type": "tool",
-      "imageId": "lost-world-image-item-rope-art",
+      "imageId": "lost-world-image-generated-item-rope",
       "tags": []
     },
     {
@@ -791,7 +791,7 @@
       "name": "Camera and Specimen Cases",
       "description": "Malone’s camera equipment and the party’s labelled cases for carrying photographs, bones, insects, plants, and other evidence home.",
       "type": "tool",
-      "imageId": "lost-world-image-item-camera-art",
+      "imageId": "lost-world-image-generated-item-camera",
       "tags": []
     },
     {
@@ -802,7 +802,7 @@
       "name": "Pterodactyl Crate",
       "description": "A reinforced travelling crate containing the expedition’s decisive living specimen for the London meeting.",
       "type": "container",
-      "imageId": "lost-world-image-strand-50",
+      "imageId": "lost-world-image-generated-item-pterodactyl-crate",
       "tags": []
     },
     {
@@ -813,7 +813,7 @@
       "name": "Blue-Clay Diamonds",
       "description": "Uncut diamonds gathered by Roxton from the volcanic blue clay beside the pterodactyl swamp.",
       "type": "treasure",
-      "imageId": "lost-world-image-item-diamonds-art",
+      "imageId": "lost-world-image-generated-item-diamonds",
       "tags": []
     }
   ],
@@ -6347,13 +6347,6 @@
   ],
   "blobs": [
     {
-      "id": "lost-world-image-cover",
-      "worldId": "lost-world-world",
-      "mimeType": "image/jpeg",
-      "url": "https://arthurconandoyle.co.uk/images/characters/original%20serialization%20of%20The%20Lost%20World%20in%20Strand%20Magazine-11042019144308.jpg",
-      "createdAt": 1786838400000
-    },
-    {
       "id": "lost-world-image-atlantic-map",
       "worldId": "lost-world-world",
       "mimeType": "image/jpeg",
@@ -6382,438 +6375,380 @@
       "createdAt": 1786838400000
     },
     {
-      "id": "lost-world-image-strand-1",
       "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-01.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-2",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-02.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-3",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-03.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-4",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-04.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-5",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-05.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-6",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-06.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-7",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-07.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-8",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-08.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-9",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-09.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-10",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-10.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-11",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-11.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-12",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-12.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-13",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-13.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-14",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-14.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-15",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-15.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-16",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-16.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-17",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-17.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-18",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-18.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-19",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-19.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-20",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-20.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-21",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-21.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-22",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-22.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-23",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-23.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-24",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-24.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-25",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-25.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-26",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-26.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-27",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-27.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-28",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-28.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-29",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-29.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-30",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-30.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-31",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-31.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-32",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-32.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-33",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-33.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-34",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-34.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-35",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-35.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-36",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-36.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-37",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-37.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-38",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-38.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-39",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-39.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-40",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-40.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-41",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-41.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-42",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-42.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-43",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-43.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-44",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-44.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-45",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-45.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-46",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-46.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-47",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-47.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-48",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-48.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-49",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-49.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-50",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-50.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-strand-51",
-      "worldId": "lost-world-world",
-      "mimeType": "image/gif",
-      "url": "https://forgottenfutures.com/game/ff3/lw-51.gif",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-streatham-art",
-      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://ideal-homes.gre.ac.uk/__data/assets/image/0018/304182/thrale-house-00074-640.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/cover.jpg"
     },
     {
-      "id": "lost-world-image-gazette-art",
       "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-malone",
       "mimeType": "image/jpeg",
-      "url": "https://heartofglassdotuk.files.wordpress.com/2021/03/potterygazetteoffices1879.jpg?w=723",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/malone.jpg"
     },
     {
-      "id": "lost-world-image-savage-club-art",
       "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-challenger",
       "mimeType": "image/jpeg",
-      "url": "https://lirp.cdn-website.com/e925290f/dms3rep/multi/opt/Savageclubmenujohnson-640w.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/challenger.jpg"
     },
     {
-      "id": "lost-world-image-amazon-canoe-art",
       "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-summerlee",
       "mimeType": "image/jpeg",
-      "url": "https://www.diariopopularmg.com.br/wp-content/uploads/2023/03/Navegacao-por-um-braco-do-Rio-Doce-Maxilian-Neuwied.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/summerlee.jpg"
     },
     {
-      "id": "lost-world-image-rapids-art",
       "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-roxton",
       "mimeType": "image/jpeg",
-      "url": "https://pictures.abebooks.com/inventory/31839678472_2.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/roxton.jpg"
     },
     {
-      "id": "lost-world-image-item-wing-bone-art",
       "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-gladys",
       "mimeType": "image/jpeg",
-      "url": "https://2.bp.blogspot.com/-8d_GVfAyzP4/TZB4OSQKhSI/AAAAAAAABNQ/6GSaWYCqrTE/s1600/Pteranodon_reconstruction_Eaton_1910.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/gladys.jpg"
     },
     {
-      "id": "lost-world-image-item-sealed-orders-art",
       "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-mcardle",
       "mimeType": "image/jpeg",
-      "url": "https://cdn.vectorstock.com/i/500p/03/45/vintage-wax-sealed-envelope-vector-59700345.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/mcardle.jpg"
     },
     {
-      "id": "lost-world-image-item-rifles-art",
       "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-mrs-challenger",
       "mimeType": "image/jpeg",
-      "url": "https://ids.si.edu/ids/deliveryService?id=NMAH-NMAH2003-11599",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/mrs-challenger.jpg"
     },
     {
-      "id": "lost-world-image-item-rope-art",
       "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-zambo",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/71807/71807-h/images/i_017_1.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/zambo.jpg"
     },
     {
-      "id": "lost-world-image-item-camera-art",
       "worldId": "lost-world-world",
-      "mimeType": "image/webp",
-      "url": "https://www.fineartstorehouse.com/p/629/vintage-travel-camera-13593871.jpg.webp",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "lost-world-image-item-diamonds-art",
-      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-gomez",
       "mimeType": "image/jpeg",
-      "url": "https://www.legendsofamerica.com/wp-content/uploads/2019/08/TavernierSketchDiamond.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-lost-world/art/generated/characters/gomez.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-character-manuel",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/characters/manuel.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-sketchbook",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/sketchbook.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-photographs",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/photographs.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-bone",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/bone.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-sealed-orders",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/sealed-orders.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-rifles",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/rifles.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-rope",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/rope.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-camera",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/camera.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-pterodactyl-crate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/pterodactyl-crate.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-item-diamonds",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/items/diamonds.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-london-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/london-gate.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-southampton",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/southampton.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-atlantic-crossing",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/atlantic-crossing.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-amazon-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/amazon-gate.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-chestnuts",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/chestnuts.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-gazette",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/gazette.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-savage-club",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/savage-club.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-challenger-house",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/challenger-house.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-zoological-institute",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/zoological-institute.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-roxton-rooms",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/roxton-rooms.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-queens-hall",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/queens-hall.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-manaos",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/manaos.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-indian-village",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/indian-village.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-rapids",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/rapids.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-secret-stream",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/secret-stream.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-base-camp",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/base-camp.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-plateau-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/plateau-gate.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-tree-bridge",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/tree-bridge.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-summit-camp",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/summit-camp.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-forest-lookout",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/forest-lookout.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-stegosaurus-pool",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/stegosaurus-pool.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-challenger-geyser",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/challenger-geyser.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-pterodactyl-swamp",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/pterodactyl-swamp.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-central-lake",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/central-lake.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-ape-town",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/ape-town.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-indian-caves",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/indian-caves.jpg"
+    },
+    {
+      "worldId": "lost-world-world",
+      "createdAt": 1790604311572,
+      "updatedAt": 1790604311572,
+      "id": "lost-world-image-generated-location-escape-tunnel",
+      "mimeType": "image/jpeg",
+      "url": "library/the-lost-world/art/generated/locations/escape-tunnel.jpg"
     }
   ],
   "travelModes": [
@@ -6944,7 +6879,7 @@
       "title": "The Lost-World Idea",
       "body": "The plateau turns a blank space on the map into an evolutionary refuge, letting extinct and modern life occupy the same isolated landscape.",
       "tags": [],
-      "coverImageId": "lost-world-image-strand-32",
+      "coverImageId": "lost-world-image-generated-location-plateau-gate",
       "linkedEntityIds": [],
       "visibleFromEventId": "lost-world-event-private-evidence"
     },
@@ -6957,7 +6892,7 @@
       "title": "What Counts as Proof",
       "body": "The story moves through a hierarchy of evidence: testimony, sketch, photograph, bone, shared observation, collected specimen, and finally a living animal.",
       "tags": [],
-      "coverImageId": "lost-world-image-strand-42",
+      "coverImageId": "lost-world-image-generated-item-photographs",
       "linkedEntityIds": [],
       "visibleFromEventId": "lost-world-event-private-evidence"
     },
@@ -6970,7 +6905,7 @@
       "title": "The Amazonian Frontier",
       "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #139 across all 16 chapters. Gutenberg packaging, contents, foreword, and front matter are excluded. Maps and illustrations are documented separately in this page.",
       "tags": [],
-      "coverImageId": "lost-world-image-strand-19",
+      "coverImageId": "lost-world-image-generated-location-amazon-gate",
       "linkedEntityIds": [],
       "visibleFromEventId": "lost-world-event-roxton-rooms"
     },
@@ -6983,7 +6918,7 @@
       "title": "Life on the Plateau",
       "body": "Maple White Land supports multiple ecosystems and two intelligent populations whose conflict shapes the explorers’ survival.",
       "tags": [],
-      "coverImageId": "lost-world-image-strand-38",
+      "coverImageId": "lost-world-image-generated-location-indian-caves",
       "linkedEntityIds": [],
       "visibleFromEventId": "lost-world-event-ape-capture"
     },
@@ -6996,7 +6931,7 @@
       "title": "Malone’s Dispatches",
       "body": "The narrative is framed as Malone’s reporting: observations intended for a newspaper gradually become a complete first-person record when communication is cut.",
       "tags": [],
-      "coverImageId": "lost-world-image-strand-11",
+      "coverImageId": "lost-world-image-generated-character-malone",
       "linkedEntityIds": [],
       "visibleFromEventId": "lost-world-event-commission"
     },
@@ -7007,9 +6942,9 @@
       "id": "lost-world-lore-sources",
       "categoryId": "lost-world-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #139 across all 16 chapters. Gutenberg packaging, contents, foreword, and front matter are excluded. Maps and illustrations are documented separately in this page.",
+      "body": "The cover, character portraits, item plates, and location scenes are original generated illustrations created for the Kathala Library edition. The four linked historical maps remain preserved: London, the Atlantic crossing, the South American approach, and the plateau itself.",
       "tags": [],
-      "coverImageId": "lost-world-image-strand-1",
+      "coverImageId": "lost-world-image-plateau-map",
       "linkedEntityIds": [],
       "visibleFromEventId": "lost-world-event-proposal"
     }
