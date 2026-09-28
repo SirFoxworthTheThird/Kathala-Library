@@ -6,7 +6,7 @@
     "id": "jane-eyre-world",
     "name": "Jane Eyre",
     "description": "Charlotte Brontë’s novel follows Jane Eyre from an unloved childhood through Lowood School, work as a governess at Thornfield Hall, flight across the moors, and the discovery of family and independence. Its Gothic secrets and intense love story remain governed by Jane’s insistence that conscience, economic freedom, and equality are necessary conditions of belonging.",
-    "coverImageId": "jane-eyre-image-cover",
+    "coverImageId": "jane-eyre-image-generated-cover",
     "theme": "theme-gothic",
     "readingMode": true,
     "createdAt": 1786464000000,
@@ -184,7 +184,7 @@
       "description": "The Reed family’s northern country estate, where Jane spends an isolated childhood among wealthy relations.",
       "x": 650,
       "y": 733,
-      "imageId": "jane-eyre-image-bewick-scene",
+      "imageId": "jane-eyre-image-generated-location-gateshead-gate",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -200,7 +200,7 @@
       "description": "A remote charitable girls’ school in a cold valley, governed by austerity and sustained by the care of its teachers.",
       "x": 470,
       "y": 863,
-      "imageId": "jane-eyre-image-townsend-1",
+      "imageId": "jane-eyre-image-generated-location-lowood-gate",
       "iconType": "school",
       "tags": [],
       "factionId": null
@@ -216,7 +216,7 @@
       "description": "The country estate near Millcote where Jane becomes Adèle’s governess and enters Rochester’s divided household.",
       "x": 540,
       "y": 653,
-      "imageId": "jane-eyre-image-townsend-2",
+      "imageId": "jane-eyre-image-generated-location-thornfield-gate",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -232,7 +232,7 @@
       "description": "An exposed upland district of crossroads, scattered farms, stone villages, and secluded houses.",
       "x": 610,
       "y": 503,
-      "imageId": "jane-eyre-image-wilson-moor",
+      "imageId": "jane-eyre-image-generated-location-moors-gate",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -248,7 +248,7 @@
       "description": "A curtained family room where Jane reads apart from the Reed children and first resists John’s violence.",
       "x": 850,
       "y": 263,
-      "imageId": "jane-eyre-image-bewick-scene",
+      "imageId": "jane-eyre-image-generated-location-breakfast-room",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -264,7 +264,7 @@
       "description": "A grand, rarely used bedchamber associated with Mr Reed’s death and made terrifying by punishment and memory.",
       "x": 850,
       "y": 523,
-      "imageId": "jane-eyre-image-reed-scene",
+      "imageId": "jane-eyre-image-generated-location-red-room",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -280,7 +280,7 @@
       "description": "Jane and the Reed children’s upstairs room, overseen by Bessie and Abbott.",
       "x": 350,
       "y": 573,
-      "imageId": "jane-eyre-image-townsend-1",
+      "imageId": "jane-eyre-image-generated-location-nursery",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -296,7 +296,7 @@
       "description": "Mrs Reed’s formal family room, where visitors are received.",
       "x": 660,
       "y": 393,
-      "imageId": "jane-eyre-image-townsend-3",
+      "imageId": "jane-eyre-image-generated-location-drawing-room",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -312,7 +312,7 @@
       "description": "The quiet chamber where Mr Lloyd examines Jane after her collapse and proposes a life beyond Gateshead.",
       "x": 440,
       "y": 213,
-      "imageId": "jane-eyre-image-townsend-4",
+      "imageId": "jane-eyre-image-generated-location-sickroom",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -328,7 +328,7 @@
       "description": "A long crowded room of lessons, recitations, correction, and Jane’s public humiliation.",
       "x": 430,
       "y": 1167,
-      "imageId": "jane-eyre-image-townsend-5",
+      "imageId": "jane-eyre-image-generated-location-schoolroom",
       "iconType": "school",
       "tags": [],
       "factionId": null
@@ -344,7 +344,7 @@
       "description": "The pupils’ dining hall, remembered for burnt porridge, scant portions, and the contrast of Miss Temple’s generosity.",
       "x": 1020,
       "y": 517,
-      "imageId": "jane-eyre-image-townsend-6",
+      "imageId": "jane-eyre-image-generated-location-refectory",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -360,7 +360,7 @@
       "description": "A cold communal sleeping room where illness spreads and Jane spends Helen’s final night beside her.",
       "x": 250,
       "y": 537,
-      "imageId": "jane-eyre-image-townsend-7",
+      "imageId": "jane-eyre-image-generated-location-dormitory",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -376,7 +376,7 @@
       "description": "The enclosed outdoor space where pupils endure cold, exercise, inspection, and the first signs of epidemic.",
       "x": 640,
       "y": 897,
-      "imageId": "jane-eyre-image-townsend-8",
+      "imageId": "jane-eyre-image-generated-location-lowood-yard",
       "iconType": "yard",
       "tags": [],
       "factionId": null
@@ -392,7 +392,7 @@
       "description": "The greener boundary beyond the school buildings, offering brief freedom and holding Helen’s quiet grave.",
       "x": 90,
       "y": 1377,
-      "imageId": "jane-eyre-image-townsend-9",
+      "imageId": "jane-eyre-image-generated-location-lowood-garden",
       "iconType": "garden",
       "tags": [],
       "factionId": null
@@ -408,7 +408,7 @@
       "description": "The warm first threshold of Thornfield, linking the household rooms, staircase, and outer approach.",
       "x": 910,
       "y": 569,
-      "imageId": "jane-eyre-image-townsend-2",
+      "imageId": "jane-eyre-image-generated-location-thornfield-hall",
       "iconType": "entrance",
       "tags": [],
       "factionId": null
@@ -424,7 +424,7 @@
       "description": "Jane teaches Adèle here and first shows Rochester the drawings through which he tests her imagination.",
       "x": 430,
       "y": 849,
-      "imageId": "jane-eyre-image-townsend-10",
+      "imageId": "jane-eyre-image-generated-location-schoolroom-thornfield",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -440,7 +440,7 @@
       "description": "The room of evening conversation, music, social performance, and Jane’s observation of the Ingram party.",
       "x": 1400,
       "y": 879,
-      "imageId": "jane-eyre-image-garrett-gypsy",
+      "imageId": "jane-eyre-image-generated-location-thornfield-drawing",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -456,7 +456,7 @@
       "description": "A private chamber endangered by a night fire, where Jane’s intervention changes their confidence in one another.",
       "x": 1510,
       "y": 529,
-      "imageId": "jane-eyre-image-townsend-11",
+      "imageId": "jane-eyre-image-generated-location-rochester-room",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -472,7 +472,7 @@
       "description": "A narrow upper corridor behind which strange laughter and guarded movement remain unexplained.",
       "x": 680,
       "y": 1039,
-      "imageId": "jane-eyre-image-garrett-bertha",
+      "imageId": "jane-eyre-image-generated-location-third-floor",
       "iconType": "corridor",
       "tags": [],
       "factionId": null
@@ -488,7 +488,7 @@
       "description": "A locked upper chamber maintained by Grace Poole and hidden from ordinary household life.",
       "x": 1050,
       "y": 1139,
-      "imageId": "jane-eyre-image-garrett-bertha",
+      "imageId": "jane-eyre-image-generated-location-attic",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -504,7 +504,7 @@
       "description": "A passage from Thornfield’s interior to the paths, orchard, road, and neighbouring church.",
       "x": 650,
       "y": 309,
-      "imageId": "jane-eyre-image-townsend-2",
+      "imageId": "jane-eyre-image-generated-location-garden-door",
       "iconType": "entrance",
       "tags": [],
       "factionId": null
@@ -520,7 +520,7 @@
       "description": "The exposed summit of the house, reached during the final fire above the gathered servants and neighbours.",
       "x": 1420,
       "y": 1089,
-      "imageId": "jane-eyre-image-townsend-15",
+      "imageId": "jane-eyre-image-generated-location-battlements",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -536,7 +536,7 @@
       "description": "A secluded part of the grounds where Jane and Rochester speak without spectators beneath a great horse-chestnut.",
       "x": 390,
       "y": 319,
-      "imageId": "jane-eyre-image-rochester-jane",
+      "imageId": "jane-eyre-image-generated-location-orchard",
       "iconType": "garden",
       "tags": [],
       "factionId": null
@@ -552,7 +552,7 @@
       "description": "The parish church where a wedding ceremony stops when legal testimony reaches the altar.",
       "x": 1080,
       "y": 289,
-      "imageId": "jane-eyre-image-townsend-12",
+      "imageId": "jane-eyre-image-generated-location-thornfield-church",
       "iconType": "church",
       "tags": [],
       "factionId": null
@@ -568,7 +568,7 @@
       "description": "The winter road where Jane aids a fallen rider without knowing he is Thornfield’s master.",
       "x": 170,
       "y": 149,
-      "imageId": "jane-eyre-image-townsend-2",
+      "imageId": "jane-eyre-image-generated-location-hay-lane",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -584,7 +584,7 @@
       "description": "A lonely crossroads where Jane is set down with almost no money and no known refuge.",
       "x": 300,
       "y": 919,
-      "imageId": "jane-eyre-image-wilson-moor",
+      "imageId": "jane-eyre-image-generated-location-whitcross",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -600,7 +600,7 @@
       "description": "Heather, stone, rain, and wide distances surround Jane during her hungry wandering.",
       "x": 300,
       "y": 539,
-      "imageId": "jane-eyre-image-wilson-moor",
+      "imageId": "jane-eyre-image-generated-location-open-moor",
       "iconType": "wilderness",
       "tags": [],
       "factionId": null
@@ -616,7 +616,7 @@
       "description": "The Rivers siblings’ modest stone home, where Jane recovers and discovers a family founded on affinity rather than obligation.",
       "x": 650,
       "y": 769,
-      "imageId": "jane-eyre-image-townsend-13",
+      "imageId": "jane-eyre-image-generated-location-moor-house",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -632,7 +632,7 @@
       "description": "A small schoolroom where Jane teaches village girls and builds an independent working life.",
       "x": 760,
       "y": 459,
-      "imageId": "jane-eyre-image-townsend-14",
+      "imageId": "jane-eyre-image-generated-location-morton-school",
       "iconType": "school",
       "tags": [],
       "factionId": null
@@ -648,7 +648,7 @@
       "description": "A damp, secluded woodland house where Rochester withdraws after the destruction of Thornfield.",
       "x": 1050,
       "y": 719,
-      "imageId": "jane-eyre-image-ending",
+      "imageId": "jane-eyre-image-generated-location-ferndean",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -663,7 +663,7 @@
       "name": "Jane Eyre",
       "aliases": [],
       "description": "An orphaned, observant, and morally independent girl who becomes a teacher and governess while insisting that love cannot cost her self-respect.",
-      "portraitImageId": "jane-eyre-image-townsend-1",
+      "portraitImageId": "jane-eyre-image-generated-character-jane",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -677,7 +677,7 @@
       "name": "Edward Fairfax Rochester",
       "aliases": [],
       "description": "The master of Thornfield, intellectually restless and emotionally forceful, whose concealed marriage makes honesty the condition of any future with Jane.",
-      "portraitImageId": "jane-eyre-image-townsend-2",
+      "portraitImageId": "jane-eyre-image-generated-character-rochester",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -691,7 +691,7 @@
       "name": "Mrs Sarah Reed",
       "aliases": [],
       "description": "Jane’s widowed aunt, who protects her own children and treats the dependent orphan as an unwelcome burden.",
-      "portraitImageId": "jane-eyre-image-portrait-lady-1",
+      "portraitImageId": "jane-eyre-image-generated-character-mrs-reed",
       "color": "#6c5966",
       "tags": [],
       "isAlive": false,
@@ -705,7 +705,7 @@
       "name": "John Reed",
       "aliases": [],
       "description": "Mrs Reed’s indulged son, whose childhood cruelty matures into waste, debt, and ruin.",
-      "portraitImageId": "jane-eyre-image-reed-scene",
+      "portraitImageId": "jane-eyre-image-generated-character-john-reed",
       "color": "#6c5966",
       "tags": [],
       "isAlive": false,
@@ -719,7 +719,7 @@
       "name": "Bessie Lee",
       "aliases": [],
       "description": "The Gateshead nursemaid whose songs, stories, rebukes, and occasional tenderness give Jane her first imperfect affection.",
-      "portraitImageId": "jane-eyre-image-townsend-3",
+      "portraitImageId": "jane-eyre-image-generated-character-bessie",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -733,7 +733,7 @@
       "name": "Mr Lloyd",
       "aliases": [],
       "description": "The Reed household apothecary who listens seriously to Jane and recommends that she be sent to school.",
-      "portraitImageId": "jane-eyre-image-portrait-gentleman-1",
+      "portraitImageId": "jane-eyre-image-generated-character-lloyd",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -747,7 +747,7 @@
       "name": "Mr Brocklehurst",
       "aliases": [],
       "description": "Lowood’s severe treasurer and religious authority, using proclaimed humility to justify deprivation and public shame.",
-      "portraitImageId": "jane-eyre-image-townsend-4",
+      "portraitImageId": "jane-eyre-image-generated-character-brocklehurst",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -761,7 +761,7 @@
       "name": "Helen Burns",
       "aliases": [],
       "description": "Jane’s thoughtful Lowood friend, whose endurance, learning, and faith offer a philosophy Jane admires without wholly adopting.",
-      "portraitImageId": "jane-eyre-image-townsend-5",
+      "portraitImageId": "jane-eyre-image-generated-character-helen",
       "color": "#6c5966",
       "tags": [],
       "isAlive": false,
@@ -775,7 +775,7 @@
       "name": "Miss Maria Temple",
       "aliases": [],
       "description": "Lowood’s humane superintendent and teacher, who feeds, hears, and publicly clears Jane.",
-      "portraitImageId": "jane-eyre-image-townsend-6",
+      "portraitImageId": "jane-eyre-image-generated-character-temple",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -789,7 +789,7 @@
       "name": "Miss Scatcherd",
       "aliases": [],
       "description": "A Lowood teacher whose strict attention to Helen’s faults exposes the school’s punitive habits.",
-      "portraitImageId": "jane-eyre-image-townsend-7",
+      "portraitImageId": "jane-eyre-image-generated-character-scatcherd",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -803,7 +803,7 @@
       "name": "Adèle Varens",
       "aliases": [],
       "description": "Rochester’s lively French ward and Jane’s pupil, eager for attention, presents, performance, and affection.",
-      "portraitImageId": "jane-eyre-image-townsend-8",
+      "portraitImageId": "jane-eyre-image-generated-character-adele",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -817,7 +817,7 @@
       "name": "Mrs Alice Fairfax",
       "aliases": [],
       "description": "Thornfield’s housekeeper, a courteous relation of the Rochester family who welcomes Jane but knows only part of the house’s secret.",
-      "portraitImageId": "jane-eyre-image-portrait-lady-2",
+      "portraitImageId": "jane-eyre-image-generated-character-fairfax",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -831,7 +831,7 @@
       "name": "Grace Poole",
       "aliases": [],
       "description": "A well-paid servant whose guarded work on Thornfield’s third floor provides a plausible name for unexplained sounds.",
-      "portraitImageId": "jane-eyre-image-townsend-9",
+      "portraitImageId": "jane-eyre-image-generated-character-grace",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -845,7 +845,7 @@
       "name": "Bertha Antoinetta Mason Rochester",
       "aliases": [],
       "description": "Rochester’s wife, confined at Thornfield after years of severe illness and presented through a narrative controlled by those who imprison her.",
-      "portraitImageId": "jane-eyre-image-garrett-bertha",
+      "portraitImageId": "jane-eyre-image-generated-character-bertha",
       "color": "#6c5966",
       "tags": [],
       "isAlive": false,
@@ -859,7 +859,7 @@
       "name": "Blanche Ingram",
       "aliases": [],
       "description": "An accomplished and status-conscious guest whose apparent courtship with Rochester makes Jane confront class and economic inequality.",
-      "portraitImageId": "jane-eyre-image-townsend-10",
+      "portraitImageId": "jane-eyre-image-generated-character-blanche",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -873,7 +873,7 @@
       "name": "Richard Mason",
       "aliases": [],
       "description": "A visitor from Spanish Town in the West Indies, where Rochester once lived.",
-      "portraitImageId": "jane-eyre-image-townsend-11",
+      "portraitImageId": "jane-eyre-image-generated-character-mason",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -887,7 +887,7 @@
       "name": "Mr Briggs",
       "aliases": [],
       "description": "A London solicitor with business concerning Mr Rochester.",
-      "portraitImageId": "jane-eyre-image-portrait-gentleman-2",
+      "portraitImageId": "jane-eyre-image-generated-character-briggs",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -901,7 +901,7 @@
       "name": "St John Eyre Rivers",
       "aliases": [],
       "description": "A disciplined clergyman whose vocation, self-command, and imperial mission cannot accommodate Jane as an equal emotional partner.",
-      "portraitImageId": "jane-eyre-image-townsend-12",
+      "portraitImageId": "jane-eyre-image-generated-character-st-john",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -915,7 +915,7 @@
       "name": "Diana Rivers",
       "aliases": [],
       "description": "St John’s learned, warm sister, who welcomes Jane’s mind.",
-      "portraitImageId": "jane-eyre-image-townsend-13",
+      "portraitImageId": "jane-eyre-image-generated-character-diana",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -929,7 +929,7 @@
       "name": "Mary Rivers",
       "aliases": [],
       "description": "Diana’s quieter sister, sharing intellectual companionship, household work, and the restored family at Moor House.",
-      "portraitImageId": "jane-eyre-image-townsend-14",
+      "portraitImageId": "jane-eyre-image-generated-character-mary",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -943,7 +943,7 @@
       "name": "Hannah",
       "aliases": [],
       "description": "The Rivers household servant, initially suspicious of a destitute stranger but willing to revise her judgment.",
-      "portraitImageId": "jane-eyre-image-townsend-15",
+      "portraitImageId": "jane-eyre-image-generated-character-hannah",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -957,7 +957,7 @@
       "name": "Rosamond Oliver",
       "aliases": [],
       "description": "The beautiful and generous daughter of Morton’s wealthy patron, drawn to St John despite his refusal of domestic happiness.",
-      "portraitImageId": "jane-eyre-image-townsend-16",
+      "portraitImageId": "jane-eyre-image-generated-character-rosamond",
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
@@ -973,7 +973,7 @@
       "name": "Bewick’s History of British Birds",
       "description": "The illustrated volume Jane reads behind the breakfast-room curtain, joining northern landscapes to her desire for another life.",
       "iconType": "book",
-      "imageId": "jane-eyre-image-item-book",
+      "imageId": "jane-eyre-image-generated-item-bewick",
       "tags": []
     },
     {
@@ -984,7 +984,7 @@
       "name": "Jane’s Slate",
       "description": "The classroom slate whose accidental fall gives Brocklehurst the occasion to brand Jane publicly.",
       "iconType": "tool",
-      "imageId": "jane-eyre-image-item-slate",
+      "imageId": "jane-eyre-image-generated-item-slate",
       "tags": []
     },
     {
@@ -995,7 +995,7 @@
       "name": "Governess Advertisement",
       "description": "Jane’s brief newspaper notice seeking a private teaching post beyond Lowood.",
       "iconType": "document",
-      "imageId": "jane-eyre-image-item-advert",
+      "imageId": "jane-eyre-image-generated-item-advertisement",
       "tags": []
     },
     {
@@ -1006,7 +1006,7 @@
       "name": "Jane’s Portfolio",
       "description": "A group of imaginative watercolours through which Rochester recognizes a private visual world beyond Jane’s plain manner.",
       "iconType": "art",
-      "imageId": "jane-eyre-image-item-portfolio",
+      "imageId": "jane-eyre-image-generated-item-drawings",
       "tags": []
     },
     {
@@ -1017,7 +1017,7 @@
       "name": "Third-Floor Key",
       "description": "A key associated with the locked rooms and paid watch maintained above Thornfield’s ordinary household.",
       "iconType": "key",
-      "imageId": "jane-eyre-image-item-key",
+      "imageId": "jane-eyre-image-generated-item-third-floor-key",
       "tags": []
     },
     {
@@ -1028,7 +1028,7 @@
       "name": "Wedding Veil",
       "description": "Rochester’s costly bridal veil, torn during a nocturnal visit that Jane cannot explain.",
       "iconType": "clothing",
-      "imageId": "jane-eyre-image-item-veil",
+      "imageId": "jane-eyre-image-generated-item-veil",
       "tags": []
     },
     {
@@ -1039,7 +1039,7 @@
       "name": "John Eyre’s Letter",
       "description": "A letter revealing that Jane’s uncle tried to make her his heir and that Mrs Reed concealed the inquiry.",
       "iconType": "letter",
-      "imageId": "jane-eyre-image-item-letter",
+      "imageId": "jane-eyre-image-generated-item-john-letter",
       "tags": []
     },
     {
@@ -1050,7 +1050,7 @@
       "name": "Rochester’s Bridal Jewels",
       "description": "Ornaments Rochester offers as part of a transformation Jane resists because it would make her feel purchased and disguised.",
       "iconType": "jewellery",
-      "imageId": "jane-eyre-image-item-jewel",
+      "imageId": "jane-eyre-image-generated-item-jewels",
       "tags": []
     },
     {
@@ -1061,7 +1061,7 @@
       "name": "Torn Signature",
       "description": "A scrap bearing Jane’s true name, found by St John and used to connect the village teacher with Briggs’s search.",
       "iconType": "evidence",
-      "imageId": "jane-eyre-image-item-paper",
+      "imageId": "jane-eyre-image-generated-item-signature",
       "tags": []
     },
     {
@@ -1072,7 +1072,7 @@
       "name": "St John’s Final Letter",
       "description": "A calm final message from India, closing Jane’s retrospective account with his unwavering expectation of death and vocation.",
       "iconType": "letter",
-      "imageId": "jane-eyre-image-item-book-prayer",
+      "imageId": "jane-eyre-image-generated-item-st-john-letter",
       "tags": []
     }
   ],
@@ -7946,13 +7946,6 @@
   ],
   "blobs": [
     {
-      "id": "jane-eyre-image-cover",
-      "worldId": "jane-eyre-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jeanne%20Eyre%20-%20Editions%20Hachette%201872.jpg?width=960",
-      "createdAt": 1786464000000
-    },
-    {
       "id": "jane-eyre-image-map-england",
       "worldId": "jane-eyre-world",
       "mimeType": "image/png",
@@ -7995,263 +7988,508 @@
       "createdAt": 1786464000000
     },
     {
-      "id": "jane-eyre-image-townsend-1",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P30b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/cover.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-2",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-jane",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P107b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/jane.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-3",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-rochester",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P140b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/rochester.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-4",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-mrs-reed",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P184b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/mrs-reed.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-5",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-john-reed",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P190b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/john-reed.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-6",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-bessie",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P272b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/bessie.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-7",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-lloyd",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P311b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/lloyd.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-8",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-brocklehurst",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P316b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/brocklehurst.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-9",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-helen",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P323b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/helen.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-10",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-temple",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P350b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/temple.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-11",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-scatcherd",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P369b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/scatcherd.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-12",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-adele",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P413b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/adele.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-13",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-fairfax",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P422b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/fairfax.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-14",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-grace",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P435b.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/grace.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-15",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-bertha",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rochester%20with%20dying%20wife%20from%20Jane%20Eyre.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/bertha.jpg"
     },
     {
-      "id": "jane-eyre-image-townsend-16",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-blanche",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%94%D0%B6%D0%B5%D0%B9%D0%BD%20%D0%AD%D0%B9%D1%80.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/blanche.jpg"
     },
     {
-      "id": "jane-eyre-image-garrett-gypsy",
       "worldId": "jane-eyre-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Edmund%20Henry%20Garrett%20-%20Illustration%20for%20Jane%20Eyre.png?width=900",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "jane-eyre-image-garrett-bertha",
-      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-mason",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bertha%20Mason%20illustration%20-%20Edmund%20Henry%20Garrett.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/mason.jpg"
     },
     {
-      "id": "jane-eyre-image-wilson-moor",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-briggs",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jane%20Eyre.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/briggs.jpg"
     },
     {
-      "id": "jane-eyre-image-bewick-scene",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-st-john",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bewickthief%20big.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/st-john.jpg"
     },
     {
-      "id": "jane-eyre-image-reed-scene",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-diana",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mr%20Reed%20torments%20Jane%20Eyre.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/diana.jpg"
     },
     {
-      "id": "jane-eyre-image-rochester-jane",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-mary",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Life%20and%20Works%20of%20the%20Sisters%20Bronte%20-%20Rochester%20and%20Jane%20Eyre.jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/mary.jpg"
     },
     {
-      "id": "jane-eyre-image-ending",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-hannah",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/709%20of%20%27Jane%20Eyre%27%20(11298156955).jpg?width=900",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/hannah.jpg"
     },
     {
-      "id": "jane-eyre-image-portrait-lady-1",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-character-rosamond",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Janeeyre.jpg?width=720",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/characters/rosamond.jpg"
     },
     {
-      "id": "jane-eyre-image-portrait-lady-2",
       "worldId": "jane-eyre-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jane%20Eyre.png?width=720",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "jane-eyre-image-portrait-gentleman-1",
-      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-bewick",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20a%20Gentleman%20by%20Joseph%20Wright.jpg?width=720",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/bewick.jpg"
     },
     {
-      "id": "jane-eyre-image-portrait-gentleman-2",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-slate",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20a%20gentleman%2C%20circa%201800%20(by%20William%20Wood).jpg?width=720",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/slate.jpg"
     },
     {
-      "id": "jane-eyre-image-item-book",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-advertisement",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Title%20Page%20of%20History%20of%20British%20Birds%20by%20Thomas%20Bewick%2C%201804%20edition%2C%20Volume%201.jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/advertisement.jpg"
     },
     {
-      "id": "jane-eyre-image-item-slate",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-drawings",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Albert%20Anker%20-%20Schulknabe%20mit%20Schiefertafel%20in%20Schneelandschaft.jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/drawings.jpg"
     },
     {
-      "id": "jane-eyre-image-item-advert",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-third-floor-key",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Print%2C%20advertisement%2C%20newspaper-periodical%20(BM%201902%2C1011.9609).jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/third-floor-key.jpg"
     },
     {
-      "id": "jane-eyre-image-item-portfolio",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-veil",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A%20Painter%27s%20Studio%20sc000450.jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/veil.jpg"
     },
     {
-      "id": "jane-eyre-image-item-key",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-john-letter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vintage%20key%20illustration%20(39820339253).jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/john-letter.jpg"
     },
     {
-      "id": "jane-eyre-image-item-veil",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-jewels",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/1911%20Britannica%20-%20Lace%2042.jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/jewels.jpg"
     },
     {
-      "id": "jane-eyre-image-item-letter",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-signature",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jean-Baptiste%20Sim%C3%A9on%20Chardin%20013.jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/signature.jpg"
     },
     {
-      "id": "jane-eyre-image-item-jewel",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-item-st-john-letter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Diamond%20Necklace%20Marie%20Antoinette.jpeg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/items/st-john-letter.jpg"
     },
     {
-      "id": "jane-eyre-image-item-paper",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-gateshead-gate",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Haberle%20Torn%20in%20Transit.jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/locations/gateshead-gate.jpg"
     },
     {
-      "id": "jane-eyre-image-item-book-prayer",
       "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-lowood-gate",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A%20Booke%20of%20Christian%20Prayers%20MET%20MM57292.jpg?width=800",
-      "createdAt": 1786464000000
+      "url": "library/jane-eyre/art/generated/locations/lowood-gate.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-thornfield-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/thornfield-gate.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-moors-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/moors-gate.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-breakfast-room",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/breakfast-room.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-red-room",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/red-room.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-nursery",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/nursery.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-drawing-room",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/drawing-room.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-sickroom",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/sickroom.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-schoolroom",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/schoolroom.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-refectory",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/refectory.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-dormitory",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/dormitory.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-lowood-yard",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/lowood-yard.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-lowood-garden",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/lowood-garden.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-thornfield-hall",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/thornfield-hall.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-schoolroom-thornfield",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/schoolroom-thornfield.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-thornfield-drawing",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/thornfield-drawing.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-rochester-room",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/rochester-room.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-third-floor",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/third-floor.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-attic",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/attic.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-garden-door",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/garden-door.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-battlements",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/battlements.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-orchard",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/orchard.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-thornfield-church",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/thornfield-church.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-hay-lane",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/hay-lane.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-whitcross",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/whitcross.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-open-moor",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/open-moor.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-moor-house",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/moor-house.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-morton-school",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/morton-school.jpg"
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1790637341099,
+      "updatedAt": 1790637341099,
+      "id": "jane-eyre-image-generated-location-ferndean",
+      "mimeType": "image/jpeg",
+      "url": "library/jane-eyre/art/generated/locations/ferndean.jpg"
     }
   ],
   "travelModes": [],
@@ -8371,9 +8609,9 @@
       "id": "jane-eyre-lore-page-1",
       "categoryId": "jane-eyre-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The structure follows Charlotte Brontë’s 1847 public-domain novel as presented by Project Gutenberg. Brontë’s chapters are numbered and carry no titles: the chapter names used here are editorial signposts written for this world, not the author’s words, and they are chosen to help you find a place in the book rather than to describe it. Linked visual material includes F. H. Townsend and Edmund H. Garrett book illustrations from Wikimedia Commons. Historical overview maps and representative floor plans are editorial spatial aids, not canonical plans.",
+      "body": "The structure follows Charlotte Brontë’s 1847 public-domain novel as presented by Project Gutenberg. Brontë’s chapters are numbered and carry no titles: the chapter names used here are editorial signposts written for this world, not the author’s words. The cover, character portraits, item plates, and location scenes are original generated illustrations created for the Kathala Library edition. The six linked maps remain preserved as editorial spatial aids—not canonical plans—for England, Gateshead Hall, Lowood Institution, Thornfield Hall, Thornfield Grounds, and the Midland Moors.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-cover",
+      "coverImageId": "jane-eyre-image-generated-cover",
       "linkedEntityIds": [
         "jane-eyre-world"
       ],
@@ -8403,7 +8641,7 @@
       "title": "Lowood Institution",
       "body": "Lowood combines charitable education with privation. Its reform after the typhus epidemic shows that suffering came from governance and provision, not from an inevitable educational ideal.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-townsend-5",
+      "coverImageId": "jane-eyre-image-generated-location-lowood-gate",
       "linkedEntityIds": [
         "jane-eyre-map-lowood",
         "jane-eyre-faction-lowood"
@@ -8419,7 +8657,7 @@
       "title": "Thornfield’s Divided House",
       "body": "Public rooms support teaching, hospitality, and courtship; the upper passage supports concealment, paid surveillance, and confinement. The house’s vertical division is moral as well as architectural.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-garrett-bertha",
+      "coverImageId": "jane-eyre-image-generated-location-third-floor",
       "linkedEntityIds": [
         "jane-eyre-map-thornfield"
       ],
@@ -8434,7 +8672,7 @@
       "title": "The Governess’s Position",
       "body": "A governess is educated yet employed, intimate with a family yet excluded from its class. Jane’s work at Thornfield makes that unstable social position central to courtship and self-respect.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-townsend-10",
+      "coverImageId": "jane-eyre-image-generated-item-advertisement",
       "linkedEntityIds": [
         "jane-eyre-char-jane",
         "jane-eyre-faction-ingram"
@@ -8450,7 +8688,7 @@
       "title": "Marriage, Property, and Legal Identity",
       "body": "The interrupted wedding depends on a prior marriage that remains legally binding. Jane’s later inheritance changes the economic relation under which she could choose marriage.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-item-letter",
+      "coverImageId": "jane-eyre-image-generated-item-john-letter",
       "linkedEntityIds": [
         "jane-eyre-item-john-letter",
         "jane-eyre-char-briggs"
@@ -8466,7 +8704,7 @@
       "title": "Voice and Moral Equality",
       "body": "Jane’s defining acts repeatedly involve speaking when silence is expected: to Mrs Reed, Brocklehurst’s verdict, Rochester’s authority, and St John’s religious pressure.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-rochester-jane",
+      "coverImageId": "jane-eyre-image-generated-character-jane",
       "linkedEntityIds": [
         "jane-eyre-char-jane"
       ],
@@ -8481,7 +8719,7 @@
       "title": "Fire, Shelter, and Destruction",
       "body": "Fire warms rooms and makes fellowship possible, but at Thornfield it also reveals hidden danger and finally destroys the architecture of concealment.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-townsend-15",
+      "coverImageId": "jane-eyre-image-generated-location-rochester-room",
       "linkedEntityIds": [
         "jane-eyre-map-thornfield"
       ],
@@ -8496,7 +8734,7 @@
       "title": "Seeing and Recognition",
       "body": "Portraits, mirrors, watching, blindness, and recovered sight distinguish outward appearance from sustained recognition of another person.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-ending",
+      "coverImageId": "jane-eyre-image-generated-item-drawings",
       "linkedEntityIds": [
         "jane-eyre-char-rochester",
         "jane-eyre-item-drawings"
@@ -8512,7 +8750,7 @@
       "title": "Faith Without Erasure",
       "body": "Helen’s consolation, Brocklehurst’s cruelty, St John’s vocation, and Jane’s conscience show religious language serving very different relations to suffering and freedom.",
       "tags": [],
-      "coverImageId": "jane-eyre-image-townsend-12",
+      "coverImageId": "jane-eyre-image-generated-character-st-john",
       "linkedEntityIds": [
         "jane-eyre-char-helen",
         "jane-eyre-char-brocklehurst",
