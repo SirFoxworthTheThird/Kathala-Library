@@ -67,6 +67,9 @@ for (const entry of index.entries) {
       events: (world.events ?? []).length,
       locations: (world.locationMarkers ?? []).length,
     },
+    // The same question the app asks itself — `useHasProse` counts these rows —
+    // so the shelf and the opened world cannot disagree about what can be read.
+    hasProse: (world.sceneTexts ?? []).length > 0,
   }
   if (entry.images) {
     const p = join(LIBRARY, entry.images)

@@ -1,7 +1,7 @@
 # Netlify reads this from the publish directory.
 #
 # Displaying an image needs no CORS header — a browser will paint a
-# cross-origin <img> without asking. *Copying* one does, and PlotWeave's
+# cross-origin <img> without asking. *Copying* one does, and Kathala's
 # "save pictures to this device" does exactly that: it fetches each linked
 # image with `mode: 'cors'` and stores the bytes, so a reader can keep a
 # book's artwork offline. Without this header that feature fails on every

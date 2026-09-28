@@ -1,6 +1,6 @@
 # Kathala Library
 
-The worlds [Kathala](https://github.com/SirFoxworthTheThird/PlotWeave) ships in
+The worlds [Kathala](https://github.com/SirFoxworthTheThird/Kathala) ships in
 its Library, and the rules they are held to. No application code lives here.
 
 Thirty-nine worlds built from published books. Thirty-one carry the complete

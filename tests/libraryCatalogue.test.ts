@@ -185,3 +185,47 @@ describe('the published library catalogue', () => {
     })
   }
 })
+
+/**
+ * `hasProse` is the shelf's sharpest division, and it is derived.
+ *
+ * A reader opening the Library wants the books they can read; a writer wants to
+ * see how a world is assembled. Those are opposite halves of the same shelf,
+ * and until this field existed the catalogue could not tell them apart — the
+ * app had to download a world to find out whether it had any text in it.
+ *
+ * Asserted against the files rather than against itself: a hand-edited entry,
+ * or a book whose prose was dropped in a regeneration, is exactly the drift
+ * `dataBytes` suffered three times before it was derived.
+ */
+describe('which books carry the text', () => {
+  it('says so for every entry, and agrees with the world file', () => {
+    expect(index.entries.length).toBeGreaterThan(40)
+    for (const entry of index.entries) {
+      const world = worldFor(entry.data)
+      const scenes = (world.sceneTexts ?? []) as unknown[]
+      expect(entry.hasProse, `${entry.id} does not say whether it carries prose`)
+        .toBe(scenes.length > 0)
+    }
+  })
+
+  /*
+    The census. Both halves have to be real for the division to mean anything:
+    a shelf where every book carries prose needs no split, and one where none
+    does has nothing to read. The seven without are the books still in
+    copyright, plus Journey to the West, which is a reference rather than an
+    edition — so this also fails if a copyrighted novel ever acquires a
+    `sceneTexts` row, which is the one way this repository could do real harm.
+  */
+  it('has books on both sides of the division', () => {
+    const withProse = index.entries.filter((e) => e.hasProse)
+    const structureOnly = index.entries.filter((e) => !e.hasProse)
+    expect(withProse.length).toBeGreaterThan(30)
+    expect(structureOnly.length).toBeGreaterThan(3)
+    expect(withProse.length + structureOnly.length).toBe(index.entries.length)
+    for (const entry of structureOnly) {
+      expect(entry.notice, `${entry.id} carries no prose but its notice does not say so`)
+        .toMatch(/no text from the book|not the novel’s prose|structural/i)
+    }
+  })
+})
