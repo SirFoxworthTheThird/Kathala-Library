@@ -7,7 +7,7 @@
     "id": "frankenstein-world",
     "name": "Frankenstein; or, The Modern Prometheus",
     "description": "An ambitious young scientist gives life to a being assembled from the dead, then abandons his creation. Rejected by every human community, the Creature turns his longing for companionship into vengeance, binding creator and creation in a pursuit from Geneva to the Arctic.",
-    "coverImageId": "frankenstein-image-cover",
+    "coverImageId": "frankenstein-image-generated-cover",
     "theme": "theme-horror",
     "createdAt": 1785528000000,
     "updatedAt": 1785528000000,
@@ -254,7 +254,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-stPetersburg"
+      "imageId": "frankenstein-image-generated-location-st-petersburg"
     },
     {
       "worldId": "frankenstein-world",
@@ -270,7 +270,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-sailing"
+      "imageId": "frankenstein-image-generated-location-archangel-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -286,7 +286,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-geneva-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -302,7 +302,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-victorLab"
+      "imageId": "frankenstein-image-generated-location-ingolstadt-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -318,7 +318,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-arveron"
+      "imageId": "frankenstein-image-generated-location-montblanc-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -334,7 +334,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-oxford"
+      "imageId": "frankenstein-image-generated-location-britain-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -350,7 +350,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-wanderer"
+      "imageId": "frankenstein-image-generated-location-rhine"
     },
     {
       "worldId": "frankenstein-world",
@@ -366,7 +366,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-forest"
+      "imageId": "frankenstein-image-generated-location-black-forest"
     },
     {
       "worldId": "frankenstein-world",
@@ -382,7 +382,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-wanderer"
+      "imageId": "frankenstein-image-generated-location-continental-road"
     },
     {
       "worldId": "frankenstein-world",
@@ -398,7 +398,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-geneva-city-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -414,7 +414,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-belrive"
     },
     {
       "worldId": "frankenstein-world",
@@ -430,7 +430,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-lake-geneva"
     },
     {
       "worldId": "frankenstein-world",
@@ -446,7 +446,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-arveron"
+      "imageId": "frankenstein-image-generated-location-mont-saleve"
     },
     {
       "worldId": "frankenstein-world",
@@ -462,7 +462,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-evian"
     },
     {
       "worldId": "frankenstein-world",
@@ -478,7 +478,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-lausanne"
     },
     {
       "worldId": "frankenstein-world",
@@ -494,7 +494,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-geneva-city"
     },
     {
       "worldId": "frankenstein-world",
@@ -510,7 +510,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-frankenstein-home"
     },
     {
       "worldId": "frankenstein-world",
@@ -526,7 +526,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-plainpalais"
     },
     {
       "worldId": "frankenstein-world",
@@ -542,7 +542,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-frontispiece"
+      "imageId": "frankenstein-image-generated-location-geneva-prison"
     },
     {
       "worldId": "frankenstein-world",
@@ -558,7 +558,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-abbey"
+      "imageId": "frankenstein-image-generated-location-cemetery"
     },
     {
       "worldId": "frankenstein-world",
@@ -574,7 +574,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-wanderer"
+      "imageId": "frankenstein-image-generated-location-city-gate"
     },
     {
       "worldId": "frankenstein-world",
@@ -590,7 +590,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-victorLab"
+      "imageId": "frankenstein-image-generated-location-university"
     },
     {
       "worldId": "frankenstein-world",
@@ -606,7 +606,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-victorLab"
+      "imageId": "frankenstein-image-generated-location-victor-rooms"
     },
     {
       "worldId": "frankenstein-world",
@@ -622,7 +622,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-victorLab"
+      "imageId": "frankenstein-image-generated-location-laboratory"
     },
     {
       "worldId": "frankenstein-world",
@@ -638,7 +638,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-clerval-lodging"
     },
     {
       "worldId": "frankenstein-world",
@@ -654,7 +654,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-abbey"
+      "imageId": "frankenstein-image-generated-location-graveyard"
     },
     {
       "worldId": "frankenstein-world",
@@ -670,7 +670,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-cottage-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -686,7 +686,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-forest"
+      "imageId": "frankenstein-image-generated-location-country-road"
     },
     {
       "worldId": "frankenstein-world",
@@ -702,7 +702,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-arveron"
+      "imageId": "frankenstein-image-generated-location-chamonix"
     },
     {
       "worldId": "frankenstein-world",
@@ -718,7 +718,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-arveron"
+      "imageId": "frankenstein-image-generated-location-arve-valley"
     },
     {
       "worldId": "frankenstein-world",
@@ -734,7 +734,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-wanderer"
+      "imageId": "frankenstein-image-generated-location-montanvert"
     },
     {
       "worldId": "frankenstein-world",
@@ -750,7 +750,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-arveron"
+      "imageId": "frankenstein-image-generated-location-mer-de-glace"
     },
     {
       "worldId": "frankenstein-world",
@@ -766,7 +766,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-mountain-hut"
     },
     {
       "worldId": "frankenstein-world",
@@ -782,7 +782,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-lakeGeneva"
+      "imageId": "frankenstein-image-generated-location-mont-blanc"
     },
     {
       "worldId": "frankenstein-world",
@@ -798,7 +798,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-london"
+      "imageId": "frankenstein-image-generated-location-london"
     },
     {
       "worldId": "frankenstein-world",
@@ -814,7 +814,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-oxford"
+      "imageId": "frankenstein-image-generated-location-oxford"
     },
     {
       "worldId": "frankenstein-world",
@@ -830,7 +830,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-matlock"
+      "imageId": "frankenstein-image-generated-location-matlock"
     },
     {
       "worldId": "frankenstein-world",
@@ -846,7 +846,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cumberland"
+      "imageId": "frankenstein-image-generated-location-cumberland"
     },
     {
       "worldId": "frankenstein-world",
@@ -862,7 +862,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cumberland"
+      "imageId": "frankenstein-image-generated-location-edinburgh"
     },
     {
       "worldId": "frankenstein-world",
@@ -878,7 +878,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cumberland"
+      "imageId": "frankenstein-image-generated-location-perth"
     },
     {
       "worldId": "frankenstein-world",
@@ -894,7 +894,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-sailing"
+      "imageId": "frankenstein-image-generated-location-orkney-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -910,7 +910,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-ireland"
+      "imageId": "frankenstein-image-generated-location-ireland-portal"
     },
     {
       "worldId": "frankenstein-world",
@@ -926,7 +926,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-sailing"
+      "imageId": "frankenstein-image-generated-location-english-channel"
     },
     {
       "worldId": "frankenstein-world",
@@ -942,7 +942,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-sailing"
+      "imageId": "frankenstein-image-generated-location-remote-island"
     },
     {
       "worldId": "frankenstein-world",
@@ -958,7 +958,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-island-hut"
     },
     {
       "worldId": "frankenstein-world",
@@ -974,7 +974,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-seaIce"
+      "imageId": "frankenstein-image-generated-location-rocky-shore"
     },
     {
       "worldId": "frankenstein-world",
@@ -990,7 +990,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-sailing"
+      "imageId": "frankenstein-image-generated-location-northern-sea"
     },
     {
       "worldId": "frankenstein-world",
@@ -1006,7 +1006,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-ireland"
+      "imageId": "frankenstein-image-generated-location-irish-coast"
     },
     {
       "worldId": "frankenstein-world",
@@ -1022,7 +1022,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-irish-village"
     },
     {
       "worldId": "frankenstein-world",
@@ -1038,7 +1038,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-frontispiece"
+      "imageId": "frankenstein-image-generated-location-kirwin-court"
     },
     {
       "worldId": "frankenstein-world",
@@ -1054,7 +1054,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-ireland"
+      "imageId": "frankenstein-image-generated-location-harbor"
     },
     {
       "worldId": "frankenstein-world",
@@ -1070,7 +1070,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-stPetersburg"
+      "imageId": "frankenstein-image-generated-location-archangel"
     },
     {
       "worldId": "frankenstein-world",
@@ -1086,7 +1086,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-seaIce"
+      "imageId": "frankenstein-image-generated-location-open-sea"
     },
     {
       "worldId": "frankenstein-world",
@@ -1102,7 +1102,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-sailing"
+      "imageId": "frankenstein-image-generated-location-walton-ship"
     },
     {
       "worldId": "frankenstein-world",
@@ -1118,7 +1118,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-seaIce"
+      "imageId": "frankenstein-image-generated-location-sled-route"
     },
     {
       "worldId": "frankenstein-world",
@@ -1134,7 +1134,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-seaIce"
+      "imageId": "frankenstein-image-generated-location-ice-field"
     },
     {
       "worldId": "frankenstein-world",
@@ -1150,7 +1150,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-seaIce"
+      "imageId": "frankenstein-image-generated-location-ice-raft"
     },
     {
       "worldId": "frankenstein-world",
@@ -1166,7 +1166,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-hovel"
     },
     {
       "worldId": "frankenstein-world",
@@ -1182,7 +1182,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-de-lacey-room"
     },
     {
       "worldId": "frankenstein-world",
@@ -1198,7 +1198,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-cottage"
+      "imageId": "frankenstein-image-generated-location-family-room"
     },
     {
       "worldId": "frankenstein-world",
@@ -1214,7 +1214,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "frankenstein-location-image-forest"
+      "imageId": "frankenstein-image-generated-location-cottage-door"
     }
   ],
   "characters": [
@@ -1228,7 +1228,7 @@
         "Captain Walton"
       ],
       "description": "Polar explorer and the outer-frame letter writer.",
-      "portraitImageId": "frankenstein-image-char-walton",
+      "portraitImageId": "frankenstein-image-generated-character-walton",
       "color": "#7aa6c2",
       "tags": [
         "explorer",
@@ -1247,7 +1247,7 @@
         "Mrs Saville"
       ],
       "description": "Walton’s sister and the recipient of his letters.",
-      "portraitImageId": "frankenstein-image-char-margaret",
+      "portraitImageId": "frankenstein-image-generated-character-margaret",
       "color": "#b78c9b",
       "tags": [
         "correspondent"
@@ -1263,7 +1263,7 @@
       "name": "Victor Frankenstein",
       "aliases": [],
       "description": "Genevan student whose pursuit of forbidden knowledge creates the central tragedy.",
-      "portraitImageId": "frankenstein-image-char-victor",
+      "portraitImageId": "frankenstein-image-generated-character-victor",
       "color": "#caa85e",
       "tags": [
         "creator",
@@ -1283,7 +1283,7 @@
         "The fiend"
       ],
       "description": "Victor’s articulate, abandoned creation, driven from sympathy toward vengeance.",
-      "portraitImageId": "frankenstein-image-char-creature",
+      "portraitImageId": "frankenstein-image-generated-character-creature",
       "color": "#87966f",
       "tags": [
         "creation",
@@ -1300,7 +1300,7 @@
       "name": "Alphonse Frankenstein",
       "aliases": [],
       "description": "Victor’s father and head of the Frankenstein household.",
-      "portraitImageId": "frankenstein-image-char-alphonse",
+      "portraitImageId": "frankenstein-image-generated-character-alphonse",
       "color": "#9a7758",
       "tags": [
         "family"
@@ -1318,7 +1318,7 @@
         "Caroline Beaufort"
       ],
       "description": "Victor’s mother, whose compassion shapes the family before her early death.",
-      "portraitImageId": "frankenstein-image-char-caroline",
+      "portraitImageId": "frankenstein-image-generated-character-caroline",
       "color": "#c98e8e",
       "tags": [
         "family"
@@ -1334,7 +1334,7 @@
       "name": "Elizabeth Lavenza",
       "aliases": [],
       "description": "Victor’s beloved companion and eventual wife.",
-      "portraitImageId": "frankenstein-image-char-elizabeth",
+      "portraitImageId": "frankenstein-image-generated-character-elizabeth",
       "color": "#d7b46a",
       "tags": [
         "family"
@@ -1350,7 +1350,7 @@
       "name": "Ernest Frankenstein",
       "aliases": [],
       "description": "Victor’s surviving younger brother.",
-      "portraitImageId": "frankenstein-image-char-ernest",
+      "portraitImageId": "frankenstein-image-generated-character-ernest",
       "color": "#7796a8",
       "tags": [
         "family"
@@ -1366,7 +1366,7 @@
       "name": "William Frankenstein",
       "aliases": [],
       "description": "Victor’s youngest brother, murdered by the Creature.",
-      "portraitImageId": "frankenstein-image-char-william",
+      "portraitImageId": "frankenstein-image-generated-character-william",
       "color": "#d5c28a",
       "tags": [
         "family"
@@ -1382,7 +1382,7 @@
       "name": "Henry Clerval",
       "aliases": [],
       "description": "Victor’s loyal childhood friend and moral counterweight.",
-      "portraitImageId": "frankenstein-image-char-clerval",
+      "portraitImageId": "frankenstein-image-generated-character-clerval",
       "color": "#5f9c8b",
       "tags": [
         "friend"
@@ -1398,7 +1398,7 @@
       "name": "Justine Moritz",
       "aliases": [],
       "description": "A trusted servant unjustly condemned for William’s murder.",
-      "portraitImageId": "frankenstein-image-char-justine",
+      "portraitImageId": "frankenstein-image-generated-character-justine",
       "color": "#aaa2b2",
       "tags": [
         "family",
@@ -1415,7 +1415,7 @@
       "name": "Beaufort",
       "aliases": [],
       "description": "Caroline’s impoverished father and Alphonse’s old friend.",
-      "portraitImageId": "frankenstein-image-char-beaufort",
+      "portraitImageId": "frankenstein-image-generated-character-beaufort",
       "color": "#8d7768",
       "tags": [
         "family-history"
@@ -1431,7 +1431,7 @@
       "name": "M. Krempe",
       "aliases": [],
       "description": "A professor who dismisses Victor’s earlier studies.",
-      "portraitImageId": "frankenstein-image-char-krempe",
+      "portraitImageId": "frankenstein-image-generated-character-krempe",
       "color": "#847258",
       "tags": [
         "university"
@@ -1447,7 +1447,7 @@
       "name": "M. Waldman",
       "aliases": [],
       "description": "A persuasive chemistry professor who encourages Victor’s scientific ambition.",
-      "portraitImageId": "frankenstein-image-char-waldman",
+      "portraitImageId": "frankenstein-image-generated-character-waldman",
       "color": "#8aa0a7",
       "tags": [
         "university"
@@ -1463,7 +1463,7 @@
       "name": "De Lacey",
       "aliases": [],
       "description": "The blind patriarch of the exiled French family.",
-      "portraitImageId": "frankenstein-image-char-de-lacey",
+      "portraitImageId": "frankenstein-image-generated-character-de-lacey",
       "color": "#a88e6f",
       "tags": [
         "de-lacey"
@@ -1479,7 +1479,7 @@
       "name": "Felix De Lacey",
       "aliases": [],
       "description": "De Lacey’s son, devoted to Safie but fearful of the Creature.",
-      "portraitImageId": "frankenstein-image-char-felix",
+      "portraitImageId": "frankenstein-image-generated-character-felix",
       "color": "#8b754f",
       "tags": [
         "de-lacey"
@@ -1495,7 +1495,7 @@
       "name": "Agatha De Lacey",
       "aliases": [],
       "description": "De Lacey’s daughter, observed with affection by the Creature.",
-      "portraitImageId": "frankenstein-image-char-agatha",
+      "portraitImageId": "frankenstein-image-generated-character-agatha",
       "color": "#b98975",
       "tags": [
         "de-lacey"
@@ -1511,7 +1511,7 @@
       "name": "Safie",
       "aliases": [],
       "description": "A young woman who escapes her father and joins Felix.",
-      "portraitImageId": "frankenstein-image-char-safie",
+      "portraitImageId": "frankenstein-image-generated-character-safie",
       "color": "#bc8a61",
       "tags": [
         "de-lacey"
@@ -1529,7 +1529,7 @@
         "The Turkish merchant"
       ],
       "description": "A merchant whose imprisonment and broken promise cause the De Laceys’ exile.",
-      "portraitImageId": "frankenstein-image-char-merchant",
+      "portraitImageId": "frankenstein-image-generated-character-merchant",
       "color": "#78614e",
       "tags": [
         "merchant"
@@ -1545,7 +1545,7 @@
       "name": "Mr Kirwin",
       "aliases": [],
       "description": "The humane Irish magistrate who oversees Victor’s case.",
-      "portraitImageId": "frankenstein-image-char-kirwin",
+      "portraitImageId": "frankenstein-image-generated-character-kirwin",
       "color": "#728491",
       "tags": [
         "authority"
@@ -1561,7 +1561,7 @@
       "name": "Walton’s Ship Master",
       "aliases": [],
       "description": "The experienced officer who helps command Walton’s vessel.",
-      "portraitImageId": "frankenstein-image-char-shipmaster",
+      "portraitImageId": "frankenstein-image-generated-character-shipmaster",
       "color": "#667d91",
       "tags": [
         "expedition"
@@ -1577,7 +1577,7 @@
       "name": "Walton’s Crew",
       "aliases": [],
       "description": "The sailors who demand a safe return when the ice threatens the ship.",
-      "portraitImageId": "frankenstein-image-char-crew",
+      "portraitImageId": "frankenstein-image-generated-character-crew",
       "color": "#668aa0",
       "tags": [
         "expedition"
@@ -1593,7 +1593,7 @@
       "name": "Geneva Magistrate",
       "aliases": [],
       "description": "The official who hears Victor’s accusation against the Creature.",
-      "portraitImageId": "frankenstein-image-char-magistrate",
+      "portraitImageId": "frankenstein-image-generated-character-magistrate",
       "color": "#776e61",
       "tags": [
         "authority"
@@ -1609,7 +1609,7 @@
       "name": "Irish Nurse",
       "aliases": [],
       "description": "The attendant who cares for Victor during his imprisonment and illness.",
-      "portraitImageId": "frankenstein-image-char-nurse",
+      "portraitImageId": "frankenstein-image-generated-character-nurse",
       "color": "#8fa6a0",
       "tags": [
         "caretaker"
@@ -1627,7 +1627,7 @@
       "name": "Walton’s Letters",
       "description": "The Arctic correspondence addressed to Margaret Saville.",
       "iconType": "envelope",
-      "imageId": "frankenstein-image-item-walton-letters",
+      "imageId": "frankenstein-image-generated-item-walton-letters",
       "tags": [
         "document"
       ]
@@ -1640,7 +1640,7 @@
       "name": "Victor’s Notes",
       "description": "The record from which Walton preserves Victor’s narrative.",
       "iconType": "quill-ink",
-      "imageId": "frankenstein-image-item-victor-notes",
+      "imageId": "frankenstein-image-generated-item-victor-notes",
       "tags": [
         "document"
       ]
@@ -1653,7 +1653,7 @@
       "name": "Chemical Apparatus",
       "description": "Instruments of Victor’s university experiments.",
       "iconType": "chemical-drop",
-      "imageId": "frankenstein-image-item-chemistry",
+      "imageId": "frankenstein-image-generated-item-chemistry",
       "tags": [
         "science"
       ]
@@ -1666,7 +1666,7 @@
       "name": "Creation Instruments",
       "description": "The tools used in the secret labor of animation.",
       "iconType": "toolbox",
-      "imageId": "frankenstein-image-item-creation-tools",
+      "imageId": "frankenstein-image-generated-item-creation-tools",
       "tags": [
         "science"
       ]
@@ -1679,7 +1679,7 @@
       "name": "Caroline’s Miniature",
       "description": "A portrait taken from William and planted on Justine.",
       "iconType": "portrait",
-      "imageId": "frankenstein-image-item-miniature",
+      "imageId": "frankenstein-image-generated-item-miniature",
       "tags": [
         "evidence"
       ]
@@ -1692,7 +1692,7 @@
       "name": "Justine’s Locket",
       "description": "The pocket in which the incriminating miniature is found.",
       "iconType": "lockpicks",
-      "imageId": "frankenstein-image-item-locket",
+      "imageId": "frankenstein-image-generated-item-locket",
       "tags": [
         "evidence"
       ]
@@ -1705,7 +1705,7 @@
       "name": "Paradise Lost",
       "description": "One of the Creature’s formative books.",
       "iconType": "book-cover",
-      "imageId": "frankenstein-image-item-paradise-lost",
+      "imageId": "frankenstein-image-generated-item-paradise-lost",
       "tags": [
         "book"
       ]
@@ -1718,7 +1718,7 @@
       "name": "Plutarch’s Lives",
       "description": "The Creature’s source for civic virtue and history.",
       "iconType": "book-cover",
-      "imageId": "frankenstein-image-item-plutarch",
+      "imageId": "frankenstein-image-generated-item-plutarch",
       "tags": [
         "book"
       ]
@@ -1731,7 +1731,7 @@
       "name": "The Sorrows of Werter",
       "description": "The Creature’s source for intense private feeling.",
       "iconType": "book-cover",
-      "imageId": "frankenstein-image-item-werter",
+      "imageId": "frankenstein-image-generated-item-werter",
       "tags": [
         "book"
       ]
@@ -1744,7 +1744,7 @@
       "name": "Laboratory Journal Pages",
       "description": "Victor’s account of assembling the Creature, read by the Creature himself.",
       "iconType": "papers",
-      "imageId": "frankenstein-image-item-journal-pages",
+      "imageId": "frankenstein-image-generated-item-journal-pages",
       "tags": [
         "document"
       ]
@@ -1757,7 +1757,7 @@
       "name": "The Cottage Fire",
       "description": "The warmth, danger, and knowledge first discovered by the Creature.",
       "iconType": "campfire",
-      "imageId": "frankenstein-image-item-fire",
+      "imageId": "frankenstein-image-generated-item-fire",
       "tags": [
         "symbol"
       ]
@@ -1770,7 +1770,7 @@
       "name": "Female Creature’s Remains",
       "description": "The destroyed second body and the evidence Victor sinks at sea.",
       "iconType": "broken-bone",
-      "imageId": "frankenstein-image-item-female-remains",
+      "imageId": "frankenstein-image-generated-item-female-remains",
       "tags": [
         "remains"
       ]
@@ -1783,7 +1783,7 @@
       "name": "Victor’s Boat",
       "description": "The small craft used to dispose of the remains and reach Ireland.",
       "iconType": "sailboat",
-      "imageId": "frankenstein-image-item-boat",
+      "imageId": "frankenstein-image-generated-item-boat",
       "tags": [
         "vehicle"
       ]
@@ -1796,7 +1796,7 @@
       "name": "Wedding-Night Pistols",
       "description": "Weapons Victor carries while expecting the Creature’s attack.",
       "iconType": "pistol-gun",
-      "imageId": "frankenstein-image-item-pistol",
+      "imageId": "frankenstein-image-generated-item-pistol",
       "tags": [
         "weapon"
       ]
@@ -1809,7 +1809,7 @@
       "name": "Dog Sled",
       "description": "The vehicle used in the final northern pursuit.",
       "iconType": "wolf-howl",
-      "imageId": "frankenstein-image-item-dog-sled",
+      "imageId": "frankenstein-image-generated-item-dog-sled",
       "tags": [
         "vehicle"
       ]
@@ -1822,7 +1822,7 @@
       "name": "Wedding Ring",
       "description": "The symbol of Victor and Elizabeth’s brief marriage.",
       "iconType": "ring",
-      "imageId": "frankenstein-image-item-wedding-ring",
+      "imageId": "frankenstein-image-generated-item-wedding-ring",
       "tags": [
         "symbol"
       ]
@@ -1835,7 +1835,7 @@
       "name": "Ice Raft",
       "description": "The fragment on which the Creature disappears into darkness.",
       "iconType": "iceberg",
-      "imageId": "frankenstein-image-item-ice-raft",
+      "imageId": "frankenstein-image-generated-item-ice-raft",
       "tags": [
         "vehicle"
       ]
@@ -10193,13 +10193,6 @@
   ],
   "blobs": [
     {
-      "id": "frankenstein-image-cover",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frontispiece%20to%20Frankenstein%201831.jpg?width=960",
-      "createdAt": 1785528000000
-    },
-    {
       "id": "frankenstein-image-map-europe",
       "worldId": "frankenstein-world",
       "mimeType": "image/jpeg",
@@ -10270,403 +10263,828 @@
       "createdAt": 1785528000000
     },
     {
-      "id": "frankenstein-image-char-walton",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sir_John_Franklin_by_Thomas_Phillips.jpg/500px-Sir_John_Franklin_by_Thomas_Phillips.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/cover.jpg"
     },
     {
-      "id": "frankenstein-image-char-margaret",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-walton",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Elisabeth_vig%C3%A9e_lebrun%2C_autoritratto%2C_1790.jpg/500px-Elisabeth_vig%C3%A9e_lebrun%2C_autoritratto%2C_1790.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/walton.jpg"
     },
     {
-      "id": "frankenstein-image-char-victor",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-margaret",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frankenstein%20observing%20the%20first%20stirrings%20of%20his%20creature.%20Wellcome%20L0027125.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/margaret.jpg"
     },
     {
-      "id": "frankenstein-image-char-creature",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-victor",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frankenstein%2C%20or%20the%20Modern%20Prometheus%20(Revised%20Edition%2C%201831)%20Creature.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/victor.jpg"
     },
     {
-      "id": "frankenstein-image-char-alphonse",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-creature",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/18th_Century_Portrait_of_a_Man.jpg/500px-18th_Century_Portrait_of_a_Man.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/creature.jpg"
     },
     {
-      "id": "frankenstein-image-char-caroline",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-alphonse",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Caroline_herschel.jpg/500px-Caroline_herschel.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/alphonse.jpg"
     },
     {
-      "id": "frankenstein-image-char-elizabeth",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-caroline",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Portrait_of_Charlotte_du_Val_d'Ognes%2C_attributed_to_Marie-Denise_Villers.jpg/500px-Portrait_of_Charlotte_du_Val_d'Ognes%2C_attributed_to_Marie-Denise_Villers.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/caroline.jpg"
     },
     {
-      "id": "frankenstein-image-char-ernest",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-elizabeth",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/French_18th_Century_-_Portrait_of_a_Young_Man%2C_possibly_c._1770%2C_1961.9.18.jpg/500px-French_18th_Century_-_Portrait_of_a_Young_Man%2C_possibly_c._1770%2C_1961.9.18.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/elizabeth.jpg"
     },
     {
-      "id": "frankenstein-image-char-william",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-ernest",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Thomas_Gainsborough_-_The_Blue_Boy_(c._1770).jpg/500px-Thomas_Gainsborough_-_The_Blue_Boy_(c._1770).jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/ernest.jpg"
     },
     {
-      "id": "frankenstein-image-char-clerval",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-william",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Portrait_of_Percy_Bysshe_Shelley_by_Curran%2C_1819.jpg/500px-Portrait_of_Percy_Bysshe_Shelley_by_Curran%2C_1819.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/william.jpg"
     },
     {
-      "id": "frankenstein-image-char-justine",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-clerval",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Francisco_de_Goya%2C_Young_Lady_Wearing_a_Mantilla_and_Basquina%2C_c._1800-1805%2C_NGA_46469.jpg/500px-Francisco_de_Goya%2C_Young_Lady_Wearing_a_Mantilla_and_Basquina%2C_c._1800-1805%2C_NGA_46469.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/clerval.jpg"
     },
     {
-      "id": "frankenstein-image-char-beaufort",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-justine",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sir_Henry_Raeburn_-_Portrait_of_a_Man_with_Gray_Hair_-_1962.961_-_Art_Institute_of_Chicago.jpg/500px-Sir_Henry_Raeburn_-_Portrait_of_a_Man_with_Gray_Hair_-_1962.961_-_Art_Institute_of_Chicago.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/justine.jpg"
     },
     {
-      "id": "frankenstein-image-char-krempe",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-beaufort",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Henry_Raeburn_(1756-1823)_-_Professor_Joseph_Black_(1728%E2%80%931799)_-_GLAHA_44015_-_Hunterian_Museum_and_Art_Gallery.jpg/500px-Henry_Raeburn_(1756-1823)_-_Professor_Joseph_Black_(1728%E2%80%931799)_-_GLAHA_44015_-_Hunterian_Museum_and_Art_Gallery.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/beaufort.jpg"
     },
     {
-      "id": "frankenstein-image-char-waldman",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-krempe",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sir_Humphry_Davy%2C_Bt_by_Thomas_Phillips.jpg/500px-Sir_Humphry_Davy%2C_Bt_by_Thomas_Phillips.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/krempe.jpg"
     },
     {
-      "id": "frankenstein-image-char-de-lacey",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-waldman",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rembrandt_van_Rijn_-_Portrait_of_an_Elderly_Man_-_1118_-_Mauritshuis.jpg/500px-Rembrandt_van_Rijn_-_Portrait_of_an_Elderly_Man_-_1118_-_Mauritshuis.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/waldman.jpg"
     },
     {
-      "id": "frankenstein-image-char-felix",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-de-lacey",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/European_18th_Century%2C_Portrait_of_a_Young_Man_in_Uniform%2C_1790s%2C_NGA_75749.jpg/500px-European_18th_Century%2C_Portrait_of_a_Young_Man_in_Uniform%2C_1790s%2C_NGA_75749.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/de-lacey.jpg"
     },
     {
-      "id": "frankenstein-image-char-agatha",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-felix",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Johannes_Vermeer_-_Portrait_of_a_Young_Woman_-_WGA24672.jpg/500px-Johannes_Vermeer_-_Portrait_of_a_Young_Woman_-_WGA24672.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/felix.jpg"
     },
     {
-      "id": "frankenstein-image-char-safie",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-agatha",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Liotard_Lady_in_Turkish_Dress_Holding_a_Fan.jpg/500px-Liotard_Lady_in_Turkish_Dress_Holding_a_Fan.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/agatha.jpg"
     },
     {
-      "id": "frankenstein-image-char-merchant",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-safie",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jean-Etienne_Liotard_-_Portrait_d'un_grand_vizir_(vers_1741).jpg/500px-Jean-Etienne_Liotard_-_Portrait_d'un_grand_vizir_(vers_1741).jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/safie.jpg"
     },
     {
-      "id": "frankenstein-image-char-kirwin",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-merchant",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sir_Walter_Scott_-_Raeburn.jpg/500px-Sir_Walter_Scott_-_Raeburn.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/merchant.jpg"
     },
     {
-      "id": "frankenstein-image-char-shipmaster",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-kirwin",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stephen_Hewson_(active_1768-1812)_-_Portrait_of_an_East_India_Company_Captain_-_BHC3127_-_Royal_Museums_Greenwich.jpg/500px-Stephen_Hewson_(active_1768-1812)_-_Portrait_of_an_East_India_Company_Captain_-_BHC3127_-_Royal_Museums_Greenwich.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/kirwin.jpg"
     },
     {
-      "id": "frankenstein-image-char-crew",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-shipmaster",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/On_a_Sailing_Ship_by_Caspar_David_Friedrich.jpg/500px-On_a_Sailing_Ship_by_Caspar_David_Friedrich.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/shipmaster.jpg"
     },
     {
-      "id": "frankenstein-image-char-magistrate",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-crew",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/John_Riley_(1646-1691)_(style_of)_-_Portrait_of_an_Unknown_Judge_(possibly_a_member_of_the_Vernon_family)_-_814142_-_National_Trust.jpg/500px-John_Riley_(1646-1691)_(style_of)_-_Portrait_of_an_Unknown_Judge_(possibly_a_member_of_the_Vernon_family)_-_814142_-_National_Trust.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/crew.jpg"
     },
     {
-      "id": "frankenstein-image-char-nurse",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-magistrate",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Winslow_Homer_-_The_Nurse.jpg/500px-Winslow_Homer_-_The_Nurse.jpg",
-      "createdAt": 1785528000000
+      "url": "library/frankenstein/art/generated/characters/magistrate.jpg"
     },
     {
-      "id": "frankenstein-image-item-walton-letters",
       "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/love-letter.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-victor-notes",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/spiral-notepad.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-chemistry",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/test-tube.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-creation-tools",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/hammer-and-wrench.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-miniature",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/framed-picture.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-locket",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/heart-decoration.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-paradise-lost",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/blue-book.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-plutarch",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/green-book.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-werter",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/orange-book.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-journal-pages",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/page-facing-up.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-fire",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/fire.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-female-remains",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/bone.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-boat",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/sailboat.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-pistol",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/water-pistol.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-dog-sled",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/sled.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-wedding-ring",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/ring.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-image-item-ice-raft",
-      "worldId": "frankenstein-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/ice.svg",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "frankenstein-location-image-stPetersburg",
-      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-character-nurse",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fyodor%20Alexeyev%20-%20View%20of%20the%20Peter%20and%20Paul%20Fortress%20and%20Palace%20Embankment%20-%20Google%20Art%20Project.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/characters/nurse.jpg"
     },
     {
-      "id": "frankenstein-location-image-sailing",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-walton-letters",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/On%20a%20Sailing%20Ship%20by%20Caspar%20David%20Friedrich.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/walton-letters.jpg"
     },
     {
-      "id": "frankenstein-location-image-lakeGeneva",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-victor-notes",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Mallord%20William%20Turner%20-%20Lake%20Geneva%20and%20Mount%20Blanc%20-%20Google%20Art%20Project.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/victor-notes.jpg"
     },
     {
-      "id": "frankenstein-location-image-victorLab",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-chemistry",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frankenstein%20observing%20the%20first%20stirrings%20of%20his%20creature.%20Wellcome%20L0027125.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/chemistry.jpg"
     },
     {
-      "id": "frankenstein-location-image-arveron",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-creation-tools",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/J%20M%20W%20Turner%20-%20The%20Source%20of%20the%20Arveron%20in%20the%20Valley%20of%20Chamouni%2C%20Savoy%20-%20B1977.14.8177%20-%20Yale%20Center%20for%20British%20Art.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/creation-tools.jpg"
     },
     {
-      "id": "frankenstein-location-image-oxford",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-miniature",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/High%20Street%2C%20Oxford%20(painting)%2C%20by%20Turner%20(1810)%20crop.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/miniature.jpg"
     },
     {
-      "id": "frankenstein-location-image-wanderer",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-locket",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caspar%20David%20Friedrich%20-%20Wanderer%20above%20the%20sea%20of%20fog.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/locket.jpg"
     },
     {
-      "id": "frankenstein-location-image-forest",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-paradise-lost",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Waldinneres%20bei%20Mondschein%20(Caspar%20David%20Friedrich)-Detail-WUS03239.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/paradise-lost.jpg"
     },
     {
-      "id": "frankenstein-location-image-cottage",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-plutarch",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caspar%20David%20Friedrich%20-%20Verschneite%20H%C3%BCtte%20(1827).jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/plutarch.jpg"
     },
     {
-      "id": "frankenstein-location-image-frontispiece",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-werter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Frontispiece%20to%20Frankenstein%201831.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/werter.jpg"
     },
     {
-      "id": "frankenstein-location-image-abbey",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-journal-pages",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caspar%20David%20Friedrich%20-%20Abtei%20im%20Eichwald%20-%20Google%20Art%20Project.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/journal-pages.jpg"
     },
     {
-      "id": "frankenstein-location-image-london",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-fire",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Mallord%20William%20Turner%20-%20London%20from%20Greenwich%20Park%20-%20Google%20Art%20Project.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/fire.jpg"
     },
     {
-      "id": "frankenstein-location-image-matlock",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-female-remains",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Joseph%20Wright%20of%20Derby%20-%20Matlock%20Tor%20by%20Moonlight%20-%2048.4%20-%20Detroit%20Institute%20of%20Arts.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/female-remains.jpg"
     },
     {
-      "id": "frankenstein-location-image-cumberland",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-boat",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Turner%20Buttermere%20Lake%20with%20Park%20of%20Cromackwater.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/boat.jpg"
     },
     {
-      "id": "frankenstein-location-image-ireland",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-pistol",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drury%20-%20View%20of%20the%20Giant's%20Causeway.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/pistol.jpg"
     },
     {
-      "id": "frankenstein-location-image-seaIce",
       "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-dog-sled",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caspar%20David%20Friedrich%20-%20The%20Sea%20of%20Ice%20-%20WGA8270.jpg?width=1280",
-      "createdAt": 1786147200000
+      "url": "library/frankenstein/art/generated/items/dog-sled.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-wedding-ring",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/items/wedding-ring.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-item-ice-raft",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/items/ice-raft.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-st-petersburg",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/st-petersburg.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-archangel-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/archangel-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-geneva-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/geneva-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-ingolstadt-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/ingolstadt-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-montblanc-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/montblanc-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-britain-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/britain-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-rhine",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/rhine.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-black-forest",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/black-forest.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-continental-road",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/continental-road.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-geneva-city-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/geneva-city-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-belrive",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/belrive.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-lake-geneva",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/lake-geneva.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-mont-saleve",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/mont-saleve.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-evian",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/evian.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-lausanne",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/lausanne.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-geneva-city",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/geneva-city.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-frankenstein-home",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/frankenstein-home.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-plainpalais",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/plainpalais.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-geneva-prison",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/geneva-prison.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-cemetery",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/cemetery.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-city-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/city-gate.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-university",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/university.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-victor-rooms",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/victor-rooms.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-laboratory",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/laboratory.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-clerval-lodging",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/clerval-lodging.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-graveyard",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/graveyard.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-cottage-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/cottage-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-country-road",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/country-road.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-chamonix",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/chamonix.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-arve-valley",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/arve-valley.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-montanvert",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/montanvert.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-mer-de-glace",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/mer-de-glace.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-mountain-hut",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/mountain-hut.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-mont-blanc",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/mont-blanc.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-london",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/london.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-oxford",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/oxford.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-matlock",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/matlock.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-cumberland",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/cumberland.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-edinburgh",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/edinburgh.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-perth",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/perth.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-orkney-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/orkney-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-ireland-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/ireland-portal.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-english-channel",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/english-channel.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-remote-island",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/remote-island.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-island-hut",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/island-hut.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-rocky-shore",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/rocky-shore.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-northern-sea",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/northern-sea.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-irish-coast",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/irish-coast.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-irish-village",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/irish-village.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-kirwin-court",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/kirwin-court.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-harbor",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/harbor.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-archangel",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/archangel.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-open-sea",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/open-sea.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-walton-ship",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/walton-ship.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-sled-route",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/sled-route.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-ice-field",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/ice-field.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-ice-raft",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/ice-raft.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-hovel",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/hovel.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-de-lacey-room",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/de-lacey-room.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-family-room",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/family-room.jpg"
+    },
+    {
+      "worldId": "frankenstein-world",
+      "createdAt": 1790599531403,
+      "updatedAt": 1790599531403,
+      "id": "frankenstein-image-generated-location-cottage-door",
+      "mimeType": "image/jpeg",
+      "url": "library/frankenstein/art/generated/locations/cottage-door.jpg"
     }
   ],
   "travelModes": [],
@@ -10813,7 +11231,7 @@
       "title": "Natural Philosophy and Chemistry",
       "body": "Victor moves from obsolete occult authorities toward modern chemistry, but carries forward the older dream of total mastery.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-item-chemistry",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-19"
     },
@@ -10826,7 +11244,7 @@
       "title": "Animation and Its Limits",
       "body": "The novel never supplies a reproducible method. The decisive continuity fact is Victor’s secrecy and revulsion, not a technical recipe.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-location-laboratory",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-25"
     },
@@ -10839,7 +11257,7 @@
       "title": "The Creature’s Learning",
       "body": "The Creature acquires language socially, then interprets himself through books and Victor’s laboratory record.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-item-paradise-lost",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-55"
     },
@@ -10852,7 +11270,7 @@
       "title": "Appearance and Judgment",
       "body": "Villagers, Felix, and courts repeatedly act on what seems visible while missing motive, history, or truth.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-character-creature",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-58"
     },
@@ -10865,7 +11283,7 @@
       "title": "Genevan Justice",
       "body": "Justine’s conviction demonstrates how moral character can be overwhelmed by coerced confession and planted evidence.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-location-geneva-prison",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-34"
     },
@@ -10878,7 +11296,7 @@
       "title": "The De Laceys’ Exile",
       "body": "Felix’s rescue of Safie’s father costs the French family wealth, status, and country.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-location-cottage-portal",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-52"
     },
@@ -10891,7 +11309,7 @@
       "title": "Geneva and Lake Léman",
       "body": "The Frankenstein family’s domestic center becomes inseparable from William’s and Elizabeth’s deaths.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-location-lake-geneva",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-80"
     },
@@ -10904,7 +11322,7 @@
       "title": "Ingolstadt",
       "body": "Victor’s university city is the place where education becomes secrecy and creation.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-location-university",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-19"
     },
@@ -10917,7 +11335,7 @@
       "title": "Mont Blanc and the Mer de Glace",
       "body": "The glacier gives the Creature a stage on which to demand narrative and moral recognition.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-location-mer-de-glace",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-40"
     },
@@ -10930,7 +11348,7 @@
       "title": "Britain, Orkney, and Ireland",
       "body": "Victor’s research journey becomes a trail of isolation, broken promise, murder, and wrongful suspicion.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-location-island-hut",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-74"
     },
@@ -10943,7 +11361,7 @@
       "title": "The Arctic Frame",
       "body": "The frozen sea joins Walton’s ambition to Victor’s pursuit and gives Walton a chance to choose differently.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-location-walton-ship",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-1"
     },
@@ -10956,7 +11374,7 @@
       "title": "Creator and Creation",
       "body": "Neither Victor nor the Creature can escape the identity formed by the other; their pursuit becomes reciprocal.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-character-victor",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-40"
     },
@@ -10969,7 +11387,7 @@
       "title": "Companionship",
       "body": "Walton wants a friend, the Creature demands an equal, and Victor repeatedly withdraws from those who already love him.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-character-clerval",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-61"
     },
@@ -10982,7 +11400,7 @@
       "title": "Edition and Chapter Structure",
       "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #84, using the common four-letter and 24-chapter text represented by this world. Gutenberg packaging and the closing title are excluded. Maps and illustrations are documented separately in this page.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-1"
     },
@@ -10993,9 +11411,9 @@
       "id": "frankenstein-lore-15",
       "categoryId": "frankenstein-lore-category-sources",
       "title": "Map and Image Sources",
-      "body": "Maps are URL-linked Wikimedia Commons previews: Europe 1815, a Lake Geneva regional map, Geneva city, Ingolstadt 1816, Chamonix/Mont Blanc 1892, British Isles, a complete labeled Orkney archipelago map, Ireland 1815, Arctic 1894, and a public-domain cottage floor plan. The Orkney map was created by Wikivoyage contributor Paul and is available under CC BY-SA. The cover, Victor, and the Creature use public-domain 1831 engravings by Theodor von Holst. The supporting-character portraits use representative public-domain period paintings and engravings linked from Wikimedia Commons, selected to evoke the novel’s late-eighteenth-century world; their historical sitters are visual references for the fictional cast, not claimed identities. Item artwork uses Google Noto Color Emoji through Iconify. No image blobs are embedded in this world.",
+      "body": "The cover, character portraits, item plates, and location scenes are original generated illustrations created for the Kathala Library edition. The ten linked maps remain carefully selected historical maps covering Europe, the Lake Geneva region, Geneva, Ingolstadt, Mont Blanc, Britain, Orkney, Ireland, the Arctic, and the De Lacey cottage area.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "frankenstein-image-map-europe",
       "linkedEntityIds": [],
       "visibleFromEventId": "frankenstein-event-1"
     }
