@@ -6,7 +6,7 @@
     "id": "moonstone-world",
     "name": "The Moonstone",
     "description": "Wilkie Collins’s mystery follows a sacred yellow diamond from its violent seizure at Seringapatam to Rachel Verinder’s eighteenth birthday, where it vanishes from a locked cabinet. A chain of partial narrators, material clues, concealed love, financial pressure, and medical experiment gradually separates what was seen from what was intended—and asks whether English possession ever made the stone English property.",
-    "coverImageId": "moonstone-image-cover",
+    "coverImageId": "moonstone-image-generated-cover",
     "theme": "theme-mystery",
     "readingMode": true,
     "createdAt": 1786464000000,
@@ -184,7 +184,7 @@
       "description": "The northern English county in which the Verinders’ coastal estate and the first inquiry are situated.",
       "x": 620,
       "y": 370,
-      "imageId": "moonstone-image-jewett-5",
+      "imageId": "moonstone-image-generated-location-yorkshire-gate",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -200,7 +200,7 @@
       "description": "The capital where family, law, finance, charity, and the diamond’s hidden market converge.",
       "x": 627,
       "y": 390,
-      "imageId": "moonstone-image-jewett-45",
+      "imageId": "moonstone-image-generated-location-london-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -216,7 +216,7 @@
       "description": "The fortified island city where the Moonstone enters Colonel Herncastle’s possession during the assault of 1799.",
       "x": 905,
       "y": 640,
-      "imageId": "moonstone-image-jewett-2",
+      "imageId": "moonstone-image-generated-location-seringapatam-gate",
       "iconType": "fortress",
       "tags": [],
       "factionId": null
@@ -232,7 +232,7 @@
       "description": "The western Indian peninsula containing Somnauth, where the guardians complete the diamond’s restoration.",
       "x": 885,
       "y": 626,
-      "imageId": "moonstone-image-jewett-74",
+      "imageId": "moonstone-image-generated-location-kathiawar-gate",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -248,7 +248,7 @@
       "description": "The coast approached by the East Indiaman before the three guardians leave the ship in a stolen boat.",
       "x": 895,
       "y": 656,
-      "imageId": "moonstone-image-jewett-71",
+      "imageId": "moonstone-image-generated-location-india-coast",
       "iconType": "harbor",
       "tags": [],
       "factionId": null
@@ -264,7 +264,7 @@
       "description": "Lady Verinder’s country seat stands within reach of Frizinghall and a lonely North Sea bay.",
       "x": 860,
       "y": 534,
-      "imageId": "moonstone-image-jewett-11",
+      "imageId": "moonstone-image-generated-location-verinder-estate",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -280,7 +280,7 @@
       "description": "The nearest town, providing the police office, railway connection, doctor, tradespeople, and local news. ",
       "x": 800,
       "y": 514,
-      "imageId": "moonstone-image-jewett-24",
+      "imageId": "moonstone-image-generated-location-frizinghall",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -296,7 +296,7 @@
       "description": "A small fishing settlement due south of the Shivering Sand, beyond a point of land, where Limping Lucy and the Yollands live close to the shore.",
       "x": 900,
       "y": 499,
-      "imageId": "moonstone-image-jewett-39",
+      "imageId": "moonstone-image-generated-location-cobbs-hole",
       "iconType": "village",
       "tags": [],
       "factionId": null
@@ -312,7 +312,7 @@
       "description": "A tidal quicksand between two rocky spits whose smooth surface conceals depth, suction, and evidence.",
       "x": 910,
       "y": 544,
-      "imageId": "moonstone-image-jewett-5",
+      "imageId": "moonstone-image-generated-location-shivering-sand",
       "iconType": "hazard",
       "tags": [],
       "factionId": null
@@ -328,7 +328,7 @@
       "description": "The modest home at Cobb’s Hole where Rosanna finds friendship and arranges a concealed iron box.",
       "x": 885,
       "y": 497,
-      "imageId": "moonstone-image-jewett-39",
+      "imageId": "moonstone-image-generated-location-yolland-cottage",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -344,7 +344,7 @@
       "description": "The station connecting the estate to London and carrying detectives, letters, suspects, and returning investigators.",
       "x": 775,
       "y": 499,
-      "imageId": "moonstone-image-jewett-47",
+      "imageId": "moonstone-image-generated-location-railway-station",
       "iconType": "station",
       "tags": [],
       "factionId": null
@@ -360,7 +360,7 @@
       "description": "The formal approach where visitors, tradespeople, police, and servants enter the Verinder household.",
       "x": 640,
       "y": 118,
-      "imageId": "moonstone-image-jewett-12",
+      "imageId": "moonstone-image-generated-location-front-drive",
       "iconType": "entrance",
       "tags": [],
       "factionId": null
@@ -376,7 +376,7 @@
       "description": "The south-facing walk where Sergeant Cuff studies roses, household reactions, and the pattern of suspicion.",
       "x": 640,
       "y": 728,
-      "imageId": "moonstone-image-jewett-25",
+      "imageId": "moonstone-image-generated-location-terrace",
       "iconType": "garden",
       "tags": [],
       "factionId": null
@@ -392,7 +392,7 @@
       "description": "The principal family room used for birthday conversation, interviews, music, and difficult confrontations.",
       "x": 510,
       "y": 493,
-      "imageId": "moonstone-image-jewett-17",
+      "imageId": "moonstone-image-generated-location-drawing-room",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -408,7 +408,7 @@
       "description": "The birthday dinner places the diamond before the entire company and gathers the night’s witnesses.",
       "x": 765,
       "y": 493,
-      "imageId": "moonstone-image-jewett-19",
+      "imageId": "moonstone-image-generated-location-dining-room",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -424,7 +424,7 @@
       "description": "The private room whose cabinet holds the Moonstone for only a few hours before the drawer is found empty.",
       "x": 890,
       "y": 578,
-      "imageId": "moonstone-image-jewett-22",
+      "imageId": "moonstone-image-generated-location-rachel-room",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -440,7 +440,7 @@
       "description": "The guest room and dressing area, and the door between them.",
       "x": 930,
       "y": 323,
-      "imageId": "moonstone-image-jewett-16",
+      "imageId": "moonstone-image-generated-location-franklin-room",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -456,7 +456,7 @@
       "description": "The household staff’s common space, where loyalty, gossip, resentments, and the investigation’s pressure meet.",
       "x": 345,
       "y": 283,
-      "imageId": "moonstone-image-jewett-27",
+      "imageId": "moonstone-image-generated-location-servants-hall",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -472,7 +472,7 @@
       "description": "The newly decorated door whose wet paint preserves a crucial smear from the night of the theft.",
       "x": 705,
       "y": 353,
-      "imageId": "moonstone-image-jewett-17",
+      "imageId": "moonstone-image-generated-location-painted-door",
       "iconType": "corridor",
       "tags": [],
       "factionId": null
@@ -488,7 +488,7 @@
       "description": "Betteredge’s refuge with Robinson Crusoe and the room in which Cuff assembles parts of the first inquiry.",
       "x": 380,
       "y": 498,
-      "imageId": "moonstone-image-jewett-66",
+      "imageId": "moonstone-image-generated-location-verinder-library",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -504,7 +504,7 @@
       "description": "The chamber where Herncastle stands over a dying guardian with the diamond set in a bloodied dagger.",
       "x": 655,
       "y": 584,
-      "imageId": "moonstone-image-jewett-2",
+      "imageId": "moonstone-image-generated-location-moonstone-armoury",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -520,7 +520,7 @@
       "description": "The confused centre of plunder after the fortress falls, despite orders meant to restrain looting.",
       "x": 620,
       "y": 524,
-      "imageId": "moonstone-image-jewett-1",
+      "imageId": "moonstone-image-generated-location-treasury-court",
       "iconType": "courtyard",
       "tags": [],
       "factionId": null
@@ -536,7 +536,7 @@
       "description": "The approach by which the assault crosses the Cauvery and enters the fortified island.",
       "x": 335,
       "y": 734,
-      "imageId": "moonstone-image-jewett-1",
+      "imageId": "moonstone-image-generated-location-river-breach",
       "iconType": "battlefield",
       "tags": [],
       "factionId": null
@@ -552,7 +552,7 @@
       "description": "Lady Verinder’s London residence, where illness, family conflict, and Miss Clack’s anxious charity fill the second narrative.",
       "x": 545,
       "y": 534,
-      "imageId": "moonstone-image-jewett-37",
+      "imageId": "moonstone-image-generated-location-montagu-square",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -568,7 +568,7 @@
       "description": "The solicitor’s chambers where wills, loans, identities, and the diamond’s legal and financial trails are compared.",
       "x": 735,
       "y": 434,
-      "imageId": "moonstone-image-jewett-51",
+      "imageId": "moonstone-image-generated-location-bruff-office",
       "iconType": "office",
       "tags": [],
       "factionId": null
@@ -584,7 +584,7 @@
       "description": "The money-lender’s home becomes a surveillance point after the Indians mark him as the diamond’s temporary holder.",
       "x": 890,
       "y": 394,
-      "imageId": "moonstone-image-jewett-41",
+      "imageId": "moonstone-image-generated-location-luker-house",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -600,7 +600,7 @@
       "description": "A guarded repository where Luker places the Moonstone under terms that delay its sale for a year.",
       "x": 825,
       "y": 414,
-      "imageId": "moonstone-image-jewett-51",
+      "imageId": "moonstone-image-generated-location-london-bank",
       "iconType": "bank",
       "tags": [],
       "factionId": null
@@ -616,7 +616,7 @@
       "description": "Godfrey’s family home, whose cultivated respectability conceals financial pressure and private arrangements.",
       "x": 1040,
       "y": 229,
-      "imageId": "moonstone-image-jewett-46",
+      "imageId": "moonstone-image-generated-location-hothouse",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -632,7 +632,7 @@
       "description": "A public-house used by the disguised Godfrey on the night the Indians reclaim the stone.",
       "x": 850,
       "y": 319,
-      "imageId": "moonstone-image-jewett-70",
+      "imageId": "moonstone-image-generated-location-wheel-of-fortune",
       "iconType": "inn",
       "tags": [],
       "factionId": null
@@ -648,7 +648,7 @@
       "description": "The lodging where Gooseberry’s surveillance and Cuff’s return bring the last English pursuit to its end.",
       "x": 690,
       "y": 359,
-      "imageId": "moonstone-image-jewett-69",
+      "imageId": "moonstone-image-generated-location-northumberland-street",
       "iconType": "inn",
       "tags": [],
       "factionId": null
@@ -664,7 +664,7 @@
       "description": "The physician’s assistant’s quiet rooms hold medical records, laudanum, and the plan for reconstructing the forgotten night.",
       "x": 510,
       "y": 299,
-      "imageId": "moonstone-image-jewett-65",
+      "imageId": "moonstone-image-generated-location-ezra-lodging",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -680,7 +680,7 @@
       "description": "A curtained hilltop sanctuary near Somnauth where the restored yellow diamond shines again in the forehead of the deity.",
       "x": 470,
       "y": 112,
-      "imageId": "moonstone-image-jewett-74",
+      "imageId": "moonstone-image-generated-location-moon-shrine",
       "iconType": "temple",
       "tags": [],
       "factionId": null
@@ -696,7 +696,7 @@
       "description": "The ancient pilgrimage city toward which thousands travel for the ceremony of the moon god.",
       "x": 445,
       "y": 87,
-      "imageId": "moonstone-image-jewett-74",
+      "imageId": "moonstone-image-generated-location-somnauth",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -712,7 +712,7 @@
       "description": "A rocky platform between trees above a plain and meeting rivers, prepared for the guardians’ completed vow.",
       "x": 510,
       "y": 147,
-      "imageId": "moonstone-image-jewett-74",
+      "imageId": "moonstone-image-generated-location-sacred-grove",
       "iconType": "grove",
       "tags": [],
       "factionId": null
@@ -727,7 +727,7 @@
       "name": "Franklin Blake",
       "aliases": [],
       "description": "Rachel’s cosmopolitan cousin, sent down to Yorkshire carrying a birthday present nobody wanted delivered.",
-      "portraitImageId": "moonstone-image-jewett-47",
+      "portraitImageId": "moonstone-image-generated-character-franklin",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -741,7 +741,7 @@
       "name": "Rachel Verinder",
       "aliases": [],
       "description": "A strong-willed heiress who protects the person she believes stole her birthday diamond even while refusing to excuse him.",
-      "portraitImageId": "moonstone-image-jewett-37",
+      "portraitImageId": "moonstone-image-generated-character-rachel",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -755,7 +755,7 @@
       "name": "Gabriel Betteredge",
       "aliases": [],
       "description": "The Verinders’ loyal house-steward and first narrator, guided by habit, affection, and repeated consultation of Robinson Crusoe.",
-      "portraitImageId": "moonstone-image-jewett-66",
+      "portraitImageId": "moonstone-image-generated-character-betteredge",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -769,7 +769,7 @@
       "name": "Penelope Betteredge",
       "aliases": [],
       "description": "Gabriel’s perceptive daughter and Rachel’s maid, often quicker than her father to understand emotional evidence.",
-      "portraitImageId": "moonstone-image-jewett-23",
+      "portraitImageId": "moonstone-image-generated-character-penelope",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -783,7 +783,7 @@
       "name": "Rosanna Spearman",
       "aliases": [],
       "description": "A reformed thief working as a housemaid, isolated by shame and driven by unreturned devotion to protect Franklin.",
-      "portraitImageId": "moonstone-image-jewett-10",
+      "portraitImageId": "moonstone-image-generated-character-rosanna",
       "color": "#6d6650",
       "tags": [],
       "isAlive": false,
@@ -797,7 +797,7 @@
       "name": "Lady Julia Verinder",
       "aliases": [],
       "description": "Rachel’s mother, an intelligent and protective widow who balances family dignity against the need for an honest inquiry.",
-      "portraitImageId": "moonstone-image-jewett-35",
+      "portraitImageId": "moonstone-image-generated-character-lady-verinder",
       "color": "#6d6650",
       "tags": [],
       "isAlive": false,
@@ -811,7 +811,7 @@
       "name": "Sergeant Cuff",
       "aliases": [],
       "description": "A patient detective whose attention to small material facts and human motives makes him formidable even when his first conclusion fails.",
-      "portraitImageId": "moonstone-image-jewett-25",
+      "portraitImageId": "moonstone-image-generated-character-cuff",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -825,7 +825,7 @@
       "name": "Godfrey Ablewhite",
       "aliases": [],
       "description": "Rachel’s admired cousin and public philanthropist, whose reputation conceals debts and a decisive act of opportunism.",
-      "portraitImageId": "moonstone-image-jewett-46",
+      "portraitImageId": "moonstone-image-generated-character-godfrey",
       "color": "#6d6650",
       "tags": [],
       "isAlive": false,
@@ -839,7 +839,7 @@
       "name": "Drusilla Clack",
       "aliases": [],
       "description": "A fervent evangelical cousin whose intrusive charity and self-serving narration nonetheless preserve crucial conversations.",
-      "portraitImageId": "moonstone-image-jewett-44",
+      "portraitImageId": "moonstone-image-generated-character-miss-clack",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -853,7 +853,7 @@
       "name": "Matthew Bruff",
       "aliases": [],
       "description": "The Verinder family solicitor, bringing legal memory, financial records, and disciplined skepticism to the investigation.",
-      "portraitImageId": "moonstone-image-jewett-51",
+      "portraitImageId": "moonstone-image-generated-character-bruff",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -867,7 +867,7 @@
       "name": "Doctor Candy",
       "aliases": [],
       "description": "The sociable Frizinghall physician whose offended professional pride leads him to administer opium without consent.",
-      "portraitImageId": "moonstone-image-jewett-57",
+      "portraitImageId": "moonstone-image-generated-character-candy",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -881,7 +881,7 @@
       "name": "Ezra Jennings",
       "aliases": [],
       "description": "Candy’s marginalized assistant, a skilled and compassionate medical thinker who reconstructs Franklin’s forgotten actions.",
-      "portraitImageId": "moonstone-image-jewett-65",
+      "portraitImageId": "moonstone-image-generated-character-ezra",
       "color": "#6d6650",
       "tags": [],
       "isAlive": false,
@@ -895,7 +895,7 @@
       "name": "Septimus Luker",
       "aliases": [],
       "description": "A London money-lender who accepts the diamond as security and becomes a target of the Indian guardians.",
-      "portraitImageId": "moonstone-image-jewett-41",
+      "portraitImageId": "moonstone-image-generated-character-luker",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -909,7 +909,7 @@
       "name": "Mr Murthwaite",
       "aliases": [],
       "description": "A widely travelled observer of India, and the only person at the dinner table who understands what the diamond is.",
-      "portraitImageId": "moonstone-image-jewett-20",
+      "portraitImageId": "moonstone-image-generated-character-murthwaite",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -923,7 +923,7 @@
       "name": "Limping Lucy Yolland",
       "aliases": [],
       "description": "Rosanna’s fierce friend at Cobb’s Hole, entrusted with a letter and contemptuous of the household that failed her.",
-      "portraitImageId": "moonstone-image-jewett-39",
+      "portraitImageId": "moonstone-image-generated-character-lucy",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -937,7 +937,7 @@
       "name": "Mrs Yolland",
       "aliases": [],
       "description": "Lucy’s mother, whose cottage gives Rosanna privacy, practical help, and a place to arrange the hidden tin case.",
-      "portraitImageId": "moonstone-image-jewett-29",
+      "portraitImageId": "moonstone-image-generated-character-mrs-yolland",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -951,7 +951,7 @@
       "name": "Superintendent Seegrave",
       "aliases": [],
       "description": "The local officer whose blunt search of the household spreads resentment and damages evidence.",
-      "portraitImageId": "moonstone-image-jewett-24",
+      "portraitImageId": "moonstone-image-generated-character-seegrave",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -965,7 +965,7 @@
       "name": "Gooseberry",
       "aliases": [],
       "description": "A sharp street boy employed by Bruff and Cuff to follow suspects through London without attracting notice.",
-      "portraitImageId": "moonstone-image-jewett-69",
+      "portraitImageId": "moonstone-image-generated-character-gooseberry",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -979,7 +979,7 @@
       "name": "Colonel John Herncastle",
       "aliases": [],
       "description": "The estranged uncle who violently takes the Moonstone at Seringapatam and leaves it to Rachel as a dangerous legacy.",
-      "portraitImageId": "moonstone-image-jewett-2",
+      "portraitImageId": "moonstone-image-generated-character-herncastle",
       "color": "#6d6650",
       "tags": [],
       "isAlive": false,
@@ -995,7 +995,7 @@
         "The Chief Indian"
       ],
       "description": "One of three hereditary guardians who pursues the sacred diamond across England and coordinates its recovery.",
-      "portraitImageId": "moonstone-image-jewett-3",
+      "portraitImageId": "moonstone-image-generated-character-guardian-one",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -1009,7 +1009,7 @@
       "name": "Second Indian Guardian",
       "aliases": [],
       "description": "A disguised Brahmin maintaining surveillance of the stone and its temporary holders.",
-      "portraitImageId": "moonstone-image-jewett-8",
+      "portraitImageId": "moonstone-image-generated-character-guardian-two",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -1023,7 +1023,7 @@
       "name": "Third Indian Guardian",
       "aliases": [],
       "description": "The third member of the watch, sharing exile and ritual obligation until the Moonstone returns to its shrine.",
-      "portraitImageId": "moonstone-image-jewett-20",
+      "portraitImageId": "moonstone-image-generated-character-guardian-three",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -1037,7 +1037,7 @@
       "name": "Guardian in the Armoury",
       "aliases": [],
       "description": "The mortally wounded custodian who identifies Herncastle’s theft and warns that the sacred stone will be avenged.",
-      "portraitImageId": "moonstone-image-jewett-2",
+      "portraitImageId": "moonstone-image-generated-character-dying-guardian",
       "color": "#6d6650",
       "tags": [],
       "isAlive": false,
@@ -1051,7 +1051,7 @@
       "name": "Mr Ablewhite",
       "aliases": [],
       "description": "Godfrey’s wealthy father, determined to defend the family name until financial evidence defeats denial.",
-      "portraitImageId": "moonstone-image-jewett-51",
+      "portraitImageId": "moonstone-image-generated-character-ablewhite-sr",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -1065,7 +1065,7 @@
       "name": "Herncastle’s Cousin",
       "aliases": [],
       "description": "The unnamed officer whose family paper records the theft at Seringapatam and refuses fellowship with Herncastle.",
-      "portraitImageId": "moonstone-image-jewett-1",
+      "portraitImageId": "moonstone-image-generated-character-narrator",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -1079,7 +1079,7 @@
       "name": "Sergeant Cuff’s Agent",
       "aliases": [],
       "description": "The investigator sent to trace the three guardians from London through Gravesend and Plymouth.",
-      "portraitImageId": "moonstone-image-jewett-71",
+      "portraitImageId": "moonstone-image-generated-character-cuffs-man",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -1093,7 +1093,7 @@
       "name": "Captain of the Bewley Castle",
       "aliases": [],
       "description": "The East Indiaman’s captain whose statement explains how the guardians left the becalmed ship near India.",
-      "portraitImageId": "moonstone-image-jewett-71",
+      "portraitImageId": "moonstone-image-generated-character-ship-captain",
       "color": "#6d6650",
       "tags": [],
       "isAlive": true,
@@ -1109,7 +1109,7 @@
       "name": "The Moonstone",
       "description": "A large flawed yellow diamond, sacred to the moon god and carried into England through colonial violence.",
       "iconType": "gem",
-      "imageId": "moonstone-image-jewett-74",
+      "imageId": "moonstone-image-generated-item-moonstone",
       "tags": []
     },
     {
@@ -1120,7 +1120,7 @@
       "name": "Tipu’s Dagger",
       "description": "The jewelled weapon in whose handle the Moonstone is set when Herncastle takes it from the palace armoury.",
       "iconType": "weapon",
-      "imageId": "moonstone-image-jewett-2",
+      "imageId": "moonstone-image-generated-item-dagger",
       "tags": []
     },
     {
@@ -1131,7 +1131,7 @@
       "name": "Robinson Crusoe",
       "description": "Betteredge’s weathered household oracle, opened for guidance whenever events exceed ordinary experience.",
       "iconType": "book",
-      "imageId": "moonstone-image-jewett-66",
+      "imageId": "moonstone-image-generated-item-robinson",
       "tags": []
     },
     {
@@ -1142,7 +1142,7 @@
       "name": "Painted Door Smear",
       "description": "A mark in wet paint that proves a garment brushed the corridor during the night of the theft.",
       "iconType": "evidence",
-      "imageId": "moonstone-image-jewett-17",
+      "imageId": "moonstone-image-generated-item-painted-door",
       "tags": []
     },
     {
@@ -1153,7 +1153,7 @@
       "name": "Paint-Stained Nightgown",
       "description": "The missing garment bearing Franklin’s name and the smear that connects him to Rachel’s room.",
       "iconType": "clothing",
-      "imageId": "moonstone-image-jewett-55",
+      "imageId": "moonstone-image-generated-item-nightgown",
       "tags": []
     },
     {
@@ -1164,7 +1164,7 @@
       "name": "Rosanna’s Tin Case",
       "description": "A sealed metal box containing the nightgown and Rosanna’s written explanation beneath the Shivering Sand.",
       "iconType": "container",
-      "imageId": "moonstone-image-jewett-39",
+      "imageId": "moonstone-image-generated-item-tin-case",
       "tags": []
     },
     {
@@ -1175,7 +1175,7 @@
       "name": "Rosanna’s Letter",
       "description": "Her posthumous account of the nightgown, her concealment, and the love that distorted her choices.",
       "iconType": "letter",
-      "imageId": "moonstone-image-jewett-55",
+      "imageId": "moonstone-image-generated-item-rosanna-letter",
       "tags": []
     },
     {
@@ -1186,7 +1186,7 @@
       "name": "Herncastle’s Will",
       "description": "The testament that delivers the diamond to Rachel while making destruction of the stone a condition if Herncastle dies violently.",
       "iconType": "document",
-      "imageId": "moonstone-image-jewett-14",
+      "imageId": "moonstone-image-generated-item-will",
       "tags": []
     },
     {
@@ -1197,7 +1197,7 @@
       "name": "Luker’s Bank Receipt",
       "description": "Proof of the date and terms under which the Moonstone is lodged in a strongroom as security.",
       "iconType": "document",
-      "imageId": "moonstone-image-jewett-51",
+      "imageId": "moonstone-image-generated-item-bank-receipt",
       "tags": []
     },
     {
@@ -1208,7 +1208,7 @@
       "name": "Candy’s Medical Notes",
       "description": "Fragmented shorthand preserved and reconstructed by Ezra Jennings after the doctor’s fever.",
       "iconType": "document",
-      "imageId": "moonstone-image-jewett-57",
+      "imageId": "moonstone-image-generated-item-candy-notes",
       "tags": []
     },
     {
@@ -1219,7 +1219,7 @@
       "name": "Laudanum Dose",
       "description": "Opium, administered to Franklin without his knowledge.",
       "iconType": "medicine",
-      "imageId": "moonstone-image-jewett-63",
+      "imageId": "moonstone-image-generated-item-laudanum",
       "tags": []
     },
     {
@@ -1230,7 +1230,7 @@
       "name": "Mock Diamond",
       "description": "A substitute object used in the reconstructed room to test Franklin’s drugged actions without risking another jewel.",
       "iconType": "gem",
-      "imageId": "moonstone-image-jewett-63",
+      "imageId": "moonstone-image-generated-item-mock-diamond",
       "tags": []
     },
     {
@@ -1241,7 +1241,7 @@
       "name": "Godfrey’s Disguise",
       "description": "Darkened skin, altered hair, and clothing used to conceal Godfrey’s final attempt to redeem and sell the stone.",
       "iconType": "clothing",
-      "imageId": "moonstone-image-jewett-70",
+      "imageId": "moonstone-image-generated-item-disguise",
       "tags": []
     },
     {
@@ -1252,7 +1252,7 @@
       "name": "Cuff’s Sealed Report",
       "description": "The detective’s final written deductions, opened after the London pursuit confirms his revised solution.",
       "iconType": "document",
-      "imageId": "moonstone-image-jewett-71",
+      "imageId": "moonstone-image-generated-item-cuff-report",
       "tags": []
     }
   ],
@@ -8442,531 +8442,6 @@
   ],
   "blobs": [
     {
-      "id": "moonstone-image-cover",
-      "worldId": "moonstone-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moonstone%20novel%20-%20frontispiece.png?width=1000",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-1",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/1.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-2",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/2.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-3",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/3.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-4",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/4.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-5",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/5.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-6",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/6.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-7",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/7.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-8",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/8.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-9",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/9.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-10",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/10.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-11",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/11.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-12",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/12.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-13",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/13.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-14",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/14.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-15",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/15.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-16",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/16.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-17",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/17.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-18",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/18.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-19",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/19.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-20",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/20.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-21",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/21.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-22",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/22.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-23",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/23.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-24",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/24.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-25",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/25.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-26",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/26.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-27",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/27.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-28",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/28.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-29",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/29.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-30",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/30.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-31",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/31.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-32",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/32.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-33",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/33.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-34",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/34.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-35",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/35.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-36",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/36.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-37",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/37.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-38",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/38.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-39",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/39.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-40",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/40.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-41",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/41.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-42",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/42.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-43",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/43.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-44",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/44.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-45",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/45.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-46",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/46.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-47",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/47.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-48",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/48.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-49",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/49.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-50",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/50.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-51",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/51.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-52",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/52.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-53",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/53.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-54",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/54.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-55",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/55.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-56",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/56.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-57",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/57.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-58",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/58.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-59",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/59.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-60",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/60.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-61",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/61.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-62",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/62.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-63",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/63.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-64",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/64.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-65",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/65.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-66",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/66.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-67",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/67.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-68",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/68.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-69",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/69.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-70",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/70.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-71",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/71.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-72",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/72.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-73",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/73.jpg",
-      "createdAt": 1786464000000
-    },
-    {
-      "id": "moonstone-image-jewett-74",
-      "worldId": "moonstone-world",
-      "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/art/illustration/jewett/74.jpg",
-      "createdAt": 1786464000000
-    },
-    {
       "id": "moonstone-image-map-world",
       "worldId": "moonstone-world",
       "mimeType": "image/jpeg",
@@ -9007,6 +8482,614 @@
       "mimeType": "image/jpeg",
       "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kathiawar%20map.jpg?width=1280",
       "createdAt": 1786464000000
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-cover",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/cover.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-franklin",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/franklin.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-rachel",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/rachel.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-betteredge",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/betteredge.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-penelope",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/penelope.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-rosanna",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/rosanna.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-lady-verinder",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/lady-verinder.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-cuff",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/cuff.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-godfrey",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/godfrey.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-miss-clack",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/miss-clack.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-bruff",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/bruff.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-candy",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/candy.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-ezra",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/ezra.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-luker",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/luker.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-murthwaite",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/murthwaite.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-lucy",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/lucy.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-mrs-yolland",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/mrs-yolland.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-seegrave",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/seegrave.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-gooseberry",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/gooseberry.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-herncastle",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/herncastle.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-guardian-one",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/guardian-one.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-guardian-two",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/guardian-two.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-guardian-three",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/guardian-three.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-dying-guardian",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/dying-guardian.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-ablewhite-sr",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/ablewhite-sr.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-narrator",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/narrator.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-cuffs-man",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/cuffs-man.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-character-ship-captain",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/characters/ship-captain.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-moonstone",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/moonstone.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-dagger",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/dagger.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-robinson",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/robinson.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-painted-door",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/painted-door.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-nightgown",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/nightgown.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-tin-case",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/tin-case.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-rosanna-letter",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/rosanna-letter.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-will",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/will.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-bank-receipt",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/bank-receipt.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-candy-notes",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/candy-notes.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-laudanum",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/laudanum.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-mock-diamond",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/mock-diamond.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-disguise",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/disguise.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-item-cuff-report",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/items/cuff-report.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-yorkshire-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/yorkshire-gate.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-london-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/london-gate.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-seringapatam-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/seringapatam-gate.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-kathiawar-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/kathiawar-gate.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-india-coast",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/india-coast.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-verinder-estate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/verinder-estate.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-frizinghall",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/frizinghall.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-cobbs-hole",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/cobbs-hole.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-shivering-sand",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/shivering-sand.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-yolland-cottage",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/yolland-cottage.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-railway-station",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/railway-station.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-front-drive",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/front-drive.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-terrace",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/terrace.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-drawing-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/drawing-room.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-dining-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/dining-room.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-rachel-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/rachel-room.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-franklin-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/franklin-room.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-servants-hall",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/servants-hall.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-painted-door",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/painted-door.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-verinder-library",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/verinder-library.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-moonstone-armoury",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/moonstone-armoury.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-treasury-court",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/treasury-court.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-river-breach",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/river-breach.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-montagu-square",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/montagu-square.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-bruff-office",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/bruff-office.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-luker-house",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/luker-house.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-london-bank",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/london-bank.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-hothouse",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/hothouse.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-wheel-of-fortune",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/wheel-of-fortune.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-northumberland-street",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/northumberland-street.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-ezra-lodging",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/ezra-lodging.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-moon-shrine",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/moon-shrine.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-somnauth",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/somnauth.jpg"
+    },
+    {
+      "worldId": "moonstone-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "moonstone-image-generated-location-sacred-grove",
+      "mimeType": "image/jpeg",
+      "url": "library/the-moonstone/art/generated/locations/sacred-grove.jpg"
     }
   ],
   "travelModes": [],
@@ -9111,9 +9194,9 @@
       "id": "moonstone-lore-page-1",
       "categoryId": "moonstone-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The structure follows the public-domain Project Gutenberg text, preserving its prologue, eight documentary narratives, and epilogue. Linked character, item, and location art comes from the 1868 Harper’s Weekly engravings catalogued by the Victorian Web. Historical maps are linked from Wikimedia Commons; the Yorkshire layer uses T. Langdale’s 1822 map supplied by the North Yorkshire County Record Office archive shop.",
+      "body": "The structure follows the public-domain Project Gutenberg text, preserving its prologue, eight documentary narratives, and epilogue. The 1868 Harper’s Weekly engravings catalogued by the Victorian Web supplied the earlier linked illustration set and remain an editorial reference for period atmosphere. The cover, character portraits, item plates, and location scenes are now original generated illustrations created for the Kathala Library edition. Historical maps remain linked from Wikimedia Commons; the Yorkshire layer uses T. Langdale’s 1822 map supplied by the North Yorkshire County Record Office archive shop. The six maps are retained as historical and editorial spatial aids; the representative Verinder House plan is not a canonical floor plan.",
       "tags": [],
-      "coverImageId": "moonstone-image-cover",
+      "coverImageId": "moonstone-image-generated-cover",
       "linkedEntityIds": [
         "moonstone-world"
       ],
@@ -9128,7 +9211,7 @@
       "title": "Representative Verinder House Plan",
       "body": "The novel describes rooms and routes but supplies no canonical floor plan. The house layer therefore uses a public-domain eighteenth-century country-house plan as a clearly identified spatial aid rather than claiming an authentic Verinder design.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-17",
+      "coverImageId": "moonstone-image-map-estate",
       "linkedEntityIds": [
         "moonstone-map-estate"
       ],
@@ -9143,7 +9226,7 @@
       "title": "The Storming of Seringapatam",
       "body": "British forces captured Tipu Sultan’s island capital in 1799. Collins makes this act of conquest and plunder the origin of the English mystery rather than a detachable exotic legend.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-1",
+      "coverImageId": "moonstone-image-generated-location-treasury-court",
       "linkedEntityIds": [
         "moonstone-map-seringapatam",
         "moonstone-loc-moonstone-armoury"
@@ -9159,7 +9242,7 @@
       "title": "Kathiawar, Somnauth, and Sacred Return",
       "body": "The epilogue follows Murthwaite through western India to a pilgrimage near Somnauth, where the stone returns to ritual custody beyond the investigators’ reach.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-74",
+      "coverImageId": "moonstone-image-generated-location-sacred-grove",
       "linkedEntityIds": [
         "moonstone-map-kathiawar",
         "moonstone-loc-moon-shrine"
@@ -9175,7 +9258,7 @@
       "title": "The Multi-Narrator Case File",
       "body": "The novel assembles a family paper, household memoir, evangelical diary, legal account, personal narrative, medical journal, detective report, letters, and epilogue statements. No voice is neutral, but their overlaps make correction possible.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-66",
+      "coverImageId": "moonstone-image-generated-character-betteredge",
       "linkedEntityIds": [
         "moonstone-world"
       ],
@@ -9190,7 +9273,7 @@
       "title": "Victorian Credit and Reputation",
       "body": "Godfrey’s public philanthropy coexists with trust obligations and private debt. The bank pledge turns the diamond into collateral, while respectability delays suspicion.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-51",
+      "coverImageId": "moonstone-image-generated-item-bank-receipt",
       "linkedEntityIds": [
         "moonstone-char-godfrey",
         "moonstone-char-luker",
@@ -9207,7 +9290,7 @@
       "title": "Opium, Consent, and Experiment",
       "body": "Candy’s secret dose causes the forgotten action; Jennings’s later experiment repeats conditions with Franklin’s informed cooperation and careful observation. The contrast is ethical as well as medical.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-63",
+      "coverImageId": "moonstone-image-generated-item-laudanum",
       "linkedEntityIds": [
         "moonstone-char-ezra",
         "moonstone-char-candy",
@@ -9224,7 +9307,7 @@
       "title": "Evidence Corrects Character Judgment",
       "body": "Servant status, criminal history, charity, foreignness, disability, and reputation repeatedly bias judgment. Paint, cloth, notes, dates, and observed action force the case to be revised.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-34",
+      "coverImageId": "moonstone-image-generated-item-painted-door",
       "linkedEntityIds": [
         "moonstone-char-cuff",
         "moonstone-item-nightgown"
@@ -9240,7 +9323,7 @@
       "title": "The Shivering Sand",
       "body": "The quicksand is both landscape and moral image: a surface that changes with the tide, conceals what enters it, and briefly returns evidence to patient timing.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-5",
+      "coverImageId": "moonstone-image-generated-location-shivering-sand",
       "linkedEntityIds": [
         "moonstone-loc-shivering-sand",
         "moonstone-item-tin-case"
@@ -9256,7 +9339,7 @@
       "title": "Guardianship versus Ownership",
       "body": "English law treats the Moonstone as legacy, property, collateral, and evidence. The guardians treat it as a sacred presence held through an obligation older than individual possession.",
       "tags": [],
-      "coverImageId": "moonstone-image-jewett-20",
+      "coverImageId": "moonstone-image-generated-character-guardian-one",
       "linkedEntityIds": [
         "moonstone-faction-guardians",
         "moonstone-item-moonstone"
