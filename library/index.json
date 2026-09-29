@@ -550,16 +550,16 @@
       "author": "Baroness Orczy",
       "blurb": "A hidden English League races across revolutionary France while Marguerite Blakeney struggles to protect her brother, restore trust, and reach the Channel escape.",
       "data": "the-scarlet-pimpernel.pwk",
-      "dataBytes": 760931,
+      "dataBytes": 769077,
       "counts": {
         "characters": 15,
         "chapters": 31,
         "events": 37,
         "locations": 15
       },
-      "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete narrative from Project Gutenberg eBook 60; Gutenberg front and end matter are excluded. Period cartography and public-domain illustration sources are linked in the file.",
+      "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete narrative from Project Gutenberg eBook 60; Gutenberg front and end matter are excluded. Period cartography and public-domain illustration sources are linked in the file. Four linked historical and editorial maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "scarlet-pimpernel-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thescarletpimpernel1908.jpg?width=1200",
+      "cover": "library/the-scarlet-pimpernel/art/generated/cover.jpg",
       "hasProse": true
     },
     {
