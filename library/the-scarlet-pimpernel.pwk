@@ -6,7 +6,7 @@
     "id": "scarlet-pimpernel-world",
     "name": "The Scarlet Pimpernel",
     "description": "Baroness Orczy’s historical adventure follows a hidden English rescue league across revolutionary France and the Channel, while Marguerite Blakeney races to undo Chauvelin’s leverage and recover the trust lost inside her marriage.",
-    "coverImageId": "scarlet-pimpernel-image-cover",
+    "coverImageId": "scarlet-pimpernel-image-generated-cover",
     "theme": "theme-action",
     "readingMode": true,
     "createdAt": 1786579200000,
@@ -150,7 +150,7 @@
       "description": "The English capital where Percy’s fashionable public life conceals the League’s command centre.",
       "x": 115,
       "y": 1349,
-      "imageId": "scarlet-pimpernel-image-percy-marguerite",
+      "imageId": "scarlet-pimpernel-image-generated-location-london-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -166,7 +166,7 @@
       "description": "The quieter Thames-side retreat where Percy and Marguerite confront the distance in their marriage.",
       "x": 100,
       "y": 1304,
-      "imageId": "scarlet-pimpernel-image-percy-marguerite",
+      "imageId": "scarlet-pimpernel-image-generated-location-richmond",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -182,7 +182,7 @@
       "description": "The Channel port where refugees arrive, packets wait on weather and tide, and the pursuit races toward France.",
       "x": 510,
       "y": 1134,
-      "imageId": "scarlet-pimpernel-image-sally-inn",
+      "imageId": "scarlet-pimpernel-image-generated-location-dover",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -198,7 +198,7 @@
       "description": "Mr Jellyband’s Dover inn, a busy coaching house whose ordinary hospitality shelters refugees and secret League business.",
       "x": 500,
       "y": 1149,
-      "imageId": "scarlet-pimpernel-image-sally-inn",
+      "imageId": "scarlet-pimpernel-image-generated-location-fishermans-rest",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -214,7 +214,7 @@
       "description": "The French port from which the road runs west toward the Chat Gris, Gris-Nez, and the League’s coastal rendezvous.",
       "x": 650,
       "y": 1094,
-      "imageId": "scarlet-pimpernel-image-escape",
+      "imageId": "scarlet-pimpernel-image-generated-location-calais-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -230,7 +230,7 @@
       "description": "The revolutionary capital where the de Tournays begin their flight through a guarded city barrier.",
       "x": 765,
       "y": 214,
-      "imageId": "scarlet-pimpernel-image-paris-cart",
+      "imageId": "scarlet-pimpernel-image-generated-location-paris-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -246,7 +246,7 @@
       "description": "Percy and Marguerite’s fashionable London home, outwardly polished while their confidence in one another has broken down.",
       "x": 330,
       "y": 457,
-      "imageId": "scarlet-pimpernel-image-percy-marguerite",
+      "imageId": "scarlet-pimpernel-image-generated-location-blakeney-house",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -262,7 +262,7 @@
       "description": "The diplomatic ball where Chauvelin watches the League and Marguerite searches for its hidden leader.",
       "x": 360,
       "y": 472,
-      "imageId": "scarlet-pimpernel-image-league",
+      "imageId": "scarlet-pimpernel-image-generated-location-grenville-ball",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -278,7 +278,7 @@
       "description": "A crowded public setting where Chauvelin privately reveals his leverage over Armand.",
       "x": 410,
       "y": 407,
-      "imageId": "scarlet-pimpernel-image-chauvelin",
+      "imageId": "scarlet-pimpernel-image-generated-location-opera",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -294,7 +294,7 @@
       "description": "A guarded Paris gate where carts are searched before the evening closure and Percy’s first shown rescue succeeds by disguise.",
       "x": 160,
       "y": 332,
-      "imageId": "scarlet-pimpernel-image-paris-cart",
+      "imageId": "scarlet-pimpernel-image-generated-location-west-barricade",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -310,7 +310,7 @@
       "description": "The public square associated with executions and the crowd’s violent revolutionary spectacle at the novel’s opening.",
       "x": 805,
       "y": 387,
-      "imageId": "scarlet-pimpernel-image-paris-cart",
+      "imageId": "scarlet-pimpernel-image-generated-location-place-greve",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -326,7 +326,7 @@
       "description": "A dilapidated wayside inn outside Calais on the road toward Gris-Nez, used by Percy as a meeting point and stage for misdirection.",
       "x": 1450,
       "y": 843,
-      "imageId": "scarlet-pimpernel-image-chauvelin",
+      "imageId": "scarlet-pimpernel-image-generated-location-chat-gris",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -342,7 +342,7 @@
       "description": "The dark coastal road along which Chauvelin’s party follows a cart toward the supposed rendezvous.",
       "x": 1370,
       "y": 793,
-      "imageId": "scarlet-pimpernel-image-escape",
+      "imageId": "scarlet-pimpernel-image-generated-location-gris-nez-road",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -358,7 +358,7 @@
       "description": "A lonely coastal hut chosen as the fugitives’ rendezvous and surrounded by Chauvelin’s men as a trap closes.",
       "x": 1270,
       "y": 723,
-      "imageId": "scarlet-pimpernel-image-escape",
+      "imageId": "scarlet-pimpernel-image-generated-location-blanchard-hut",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -374,7 +374,7 @@
       "description": "A concealed creek below the cliffs where the League’s boat can reach the fugitives and carry them to the schooner.",
       "x": 1230,
       "y": 703,
-      "imageId": "scarlet-pimpernel-image-schooner-engraving",
+      "imageId": "scarlet-pimpernel-image-generated-location-cliff-creek",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -389,7 +389,7 @@
       "name": "Sir Percy Blakeney",
       "aliases": [],
       "description": "A wealthy English baronet whose extravagant clothes, slow drawl, and apparently empty wit make him a fashionable curiosity; his marriage to Marguerite is visibly strained.",
-      "portraitImageId": "scarlet-pimpernel-image-percy-rescue",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-percy",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -405,7 +405,7 @@
         "Marguerite St. Just"
       ],
       "description": "A celebrated French actress and Percy’s wife, renowned for her intelligence but burdened by a past denunciation and a marriage without trust.",
-      "portraitImageId": "scarlet-pimpernel-image-marguerite",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-marguerite",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -419,7 +419,7 @@
       "name": "Citizen Chauvelin",
       "aliases": [],
       "description": "An accredited agent of the French Republic who uses surveillance, coercion, and patience to identify and capture the Scarlet Pimpernel.",
-      "portraitImageId": "scarlet-pimpernel-image-chauvelin",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-chauvelin",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -433,7 +433,7 @@
       "name": "Armand St. Just",
       "aliases": [],
       "description": "Marguerite’s devoted brother and an ally of the League whose compromising letter becomes Chauvelin’s leverage.",
-      "portraitImageId": "scarlet-pimpernel-image-armand-marguerite",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-armand",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -447,7 +447,7 @@
       "name": "Suzanne de Tournay",
       "aliases": [],
       "description": "The Comte’s daughter, rescued from Paris and sustained by the hope that her father will follow her to safety.",
-      "portraitImageId": "scarlet-pimpernel-image-de-tournay",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-suzanne",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -461,7 +461,7 @@
       "name": "Comtesse de Tournay",
       "aliases": [],
       "description": "Suzanne’s proud mother, rescued with her children and openly hostile to Marguerite because of the St. Cyr denunciation.",
-      "portraitImageId": null,
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-comtesse",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -475,7 +475,7 @@
       "name": "Comte de Tournay",
       "aliases": [],
       "description": "A proscribed French aristocrat waiting near Calais for the League to complete his escape.",
-      "portraitImageId": null,
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-comte",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -489,7 +489,7 @@
       "name": "Vicomte de Tournay",
       "aliases": [],
       "description": "Suzanne’s brother, rescued from Paris with his mother and sister.",
-      "portraitImageId": null,
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-vicomte",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -505,7 +505,7 @@
         "Lord Tony"
       ],
       "description": "An enthusiastic member of the League who helps receive the de Tournay refugees at Dover.",
-      "portraitImageId": "scarlet-pimpernel-image-lord-tony",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-tony",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -519,7 +519,7 @@
       "name": "Sir Andrew Ffoulkes",
       "aliases": [],
       "description": "A trusted League lieutenant who protects its secrets, aids Marguerite, and guides her to Calais.",
-      "portraitImageId": "scarlet-pimpernel-image-league",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-andrew",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -533,7 +533,7 @@
       "name": "Sally Jellyband",
       "aliases": [],
       "description": "Mr Jellyband’s capable daughter, serving travellers at the Fisherman’s Rest while political danger gathers around the inn.",
-      "portraitImageId": "scarlet-pimpernel-image-sally-inn",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-sally",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -547,7 +547,7 @@
       "name": "Mr Jellyband",
       "aliases": [],
       "description": "The patriotic and hospitable proprietor of the Fisherman’s Rest and Sally’s father.",
-      "portraitImageId": null,
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-jellyband",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -561,7 +561,7 @@
       "name": "The Prince of Wales",
       "aliases": [],
       "description": "The Prince’s fashionable social presence helps define the world in which Percy’s foppish manner appears credible.",
-      "portraitImageId": "scarlet-pimpernel-image-percy-marguerite",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-prince",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -575,7 +575,7 @@
       "name": "Sergeant Bibot",
       "aliases": [],
       "description": "A confident guard at the West Barricade who believes himself too vigilant to be fooled by the Pimpernel.",
-      "portraitImageId": "scarlet-pimpernel-image-paris-cart",
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-bibot",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -589,7 +589,7 @@
       "name": "Citizen Desgas",
       "aliases": [],
       "description": "Chauvelin’s secretary and field subordinate during the pursuit from Calais to the hut.",
-      "portraitImageId": null,
+      "portraitImageId": "scarlet-pimpernel-image-generated-character-desgas",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
@@ -605,7 +605,7 @@
       "name": "Scarlet Pimpernel Emblem",
       "description": "A small red flower drawn on the League’s notices, simultaneously a signature, a promise of rescue, and a taunt.",
       "iconType": "symbol",
-      "imageId": "scarlet-pimpernel-image-pimpernel-emblem",
+      "imageId": "scarlet-pimpernel-image-generated-item-flower",
       "tags": []
     },
     {
@@ -616,7 +616,7 @@
       "name": "Armand’s Letter",
       "description": "An intercepted letter that proves Armand’s sympathy with the League and gives Chauvelin power over Marguerite.",
       "iconType": "document",
-      "imageId": "scarlet-pimpernel-image-sealed-letter",
+      "imageId": "scarlet-pimpernel-image-generated-item-armand-letter",
       "tags": []
     },
     {
@@ -627,7 +627,7 @@
       "name": "The League’s Papers",
       "description": "Instructions and plans stolen at Dover, revealing the Calais rendezvous without naming the League’s leader.",
       "iconType": "document",
-      "imageId": "scarlet-pimpernel-image-paper-scene",
+      "imageId": "scarlet-pimpernel-image-generated-item-league-papers",
       "tags": []
     },
     {
@@ -638,7 +638,7 @@
       "name": "The Covered Market Cart",
       "description": "The cart in which the de Tournays pass the Paris barrier beneath Percy’s disguise and a false threat of illness.",
       "iconType": "vehicle",
-      "imageId": "scarlet-pimpernel-image-paris-cart",
+      "imageId": "scarlet-pimpernel-image-generated-item-market-cart",
       "tags": []
     },
     {
@@ -649,7 +649,7 @@
       "name": "The Day Dream",
       "description": "Percy’s schooner, waiting offshore to carry the fugitives and their rescuers safely back to England.",
       "iconType": "vehicle",
-      "imageId": "scarlet-pimpernel-image-schooner-engraving",
+      "imageId": "scarlet-pimpernel-image-generated-item-schooner",
       "tags": []
     }
   ],
@@ -5572,13 +5572,6 @@
   ],
   "blobs": [
     {
-      "id": "scarlet-pimpernel-image-cover",
-      "worldId": "scarlet-pimpernel-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thescarletpimpernel1908.jpg?width=1200",
-      "createdAt": 1786579200000
-    },
-    {
       "id": "scarlet-pimpernel-image-channel-map",
       "worldId": "scarlet-pimpernel-world",
       "mimeType": "image/jpeg",
@@ -5607,109 +5600,292 @@
       "createdAt": 1786579200000
     },
     {
-      "id": "scarlet-pimpernel-image-percy-marguerite",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page008.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/cover.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-paris-cart",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-percy",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page018.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/percy.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-sally-inn",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-marguerite",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page024.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/marguerite.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-lord-tony",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-chauvelin",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page038.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/chauvelin.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-league",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-armand",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/frontispiece.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/armand.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-percy-rescue",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-suzanne",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page058.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/suzanne.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-armand-marguerite",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-comtesse",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page064.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/comtesse.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-marguerite",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-comte",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page076.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/comte.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-de-tournay",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-vicomte",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page112.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/vicomte.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-paper-scene",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-tony",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page154.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/tony.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-chauvelin",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-andrew",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page202.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/andrew.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-escape",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-sally",
       "mimeType": "image/jpeg",
-      "url": "https://gutenberg.net.au/ebooks/fr100323-images/page250.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/sally.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-pimpernel-emblem",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-jellyband",
       "mimeType": "image/jpeg",
-      "url": "https://mdl.artvee.com/ft/58247pl.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/jellyband.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-sealed-letter",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-prince",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lettre%20de%20Louis%20XIII%201%20et%202%20-%20Archives%20Nationales%20-%20AE-II-789.jpg?width=1200",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/prince.jpg"
     },
     {
-      "id": "scarlet-pimpernel-image-schooner-engraving",
       "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-bibot",
       "mimeType": "image/jpeg",
-      "url": "https://readingroo.ms/7/2/8/5/72859/72859-h/images/p069_ill.jpg",
-      "createdAt": 1786579200000
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/bibot.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-character-desgas",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/characters/desgas.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-item-flower",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/items/flower.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-item-armand-letter",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/items/armand-letter.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-item-league-papers",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/items/league-papers.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-item-market-cart",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/items/market-cart.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-item-schooner",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/items/schooner.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-london-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/london-gate.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-richmond",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/richmond.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-dover",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/dover.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-fishermans-rest",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/fishermans-rest.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-calais-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/calais-gate.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-paris-gate",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/paris-gate.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-blakeney-house",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/blakeney-house.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-grenville-ball",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/grenville-ball.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-opera",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/opera.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-west-barricade",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/west-barricade.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-place-greve",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/place-greve.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-chat-gris",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/chat-gris.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-gris-nez-road",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/gris-nez-road.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-blanchard-hut",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/blanchard-hut.jpg"
+    },
+    {
+      "worldId": "scarlet-pimpernel-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "scarlet-pimpernel-image-generated-location-cliff-creek",
+      "mimeType": "image/jpeg",
+      "url": "library/the-scarlet-pimpernel/art/generated/locations/cliff-creek.jpg"
     }
   ],
   "travelModes": [
@@ -5834,7 +6010,7 @@
       "title": "Paris and the Revolutionary Terror",
       "body": "The novel opens in September 1792 amid revolutionary executions, guarded barriers, and the persecution of aristocratic families. Orczy heightens this historical setting into the immediate danger from which the League operates.",
       "tags": [],
-      "coverImageId": "scarlet-pimpernel-image-paris-cart",
+      "coverImageId": "scarlet-pimpernel-image-generated-location-place-greve",
       "linkedEntityIds": [
         "scarlet-pimpernel-character-paris-gate",
         "scarlet-pimpernel-faction-republic"
@@ -5850,7 +6026,7 @@
       "title": "One to Command, Nineteen to Obey",
       "body": "The League consists of twenty Englishmen. Its members protect the leader’s identity by oath and rely on preparation, disguise, speed, and disciplined trust rather than open battle.",
       "tags": [],
-      "coverImageId": "scarlet-pimpernel-image-league",
+      "coverImageId": "scarlet-pimpernel-image-generated-item-league-papers",
       "linkedEntityIds": [
         "scarlet-pimpernel-faction-league",
         "scarlet-pimpernel-character-andrew",
@@ -5867,7 +6043,7 @@
       "title": "Percy’s Operational Disguises",
       "body": "Percy’s disguises exploit expectation: guards dismiss the sick, political agents ignore servants, and fashionable society mistakes performed foolishness for incapacity.",
       "tags": [],
-      "coverImageId": "scarlet-pimpernel-image-percy-rescue",
+      "coverImageId": "scarlet-pimpernel-image-generated-character-percy",
       "linkedEntityIds": [
         "scarlet-pimpernel-character-percy",
         "scarlet-pimpernel-thread-identity"
@@ -5896,9 +6072,9 @@
       "id": "scarlet-pimpernel-lore-sources",
       "categoryId": "scarlet-pimpernel-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "Structure and manuscript prose follow Baroness Orczy’s complete public-domain novel in Project Gutenberg eBook 60. Every narrative paragraph from Chapters I–XXXI is assigned once in source order; Gutenberg front and end matter are excluded. Linked stage images come from a circa-1903 Scarlet Pimpernel production reproduced by Project Gutenberg Australia; maps are historical editorial aids and entity art is reviewed separately from navigable maps.",
+      "body": "Structure and manuscript prose follow Baroness Orczy’s complete public-domain novel in Project Gutenberg eBook 60. Every narrative paragraph from Chapters I–XXXI is assigned once in source order; Gutenberg front and end matter are excluded. Linked stage images come from a circa-1903 Scarlet Pimpernel production reproduced by Project Gutenberg Australia; maps are historical editorial aids and entity art is reviewed separately from navigable maps. The cover, character portraits, item plates, and location scenes are original generated illustrations created for the Kathala Library edition in a coherent late-eighteenth-century style. The four linked historical and editorial maps remain available as spatial aids. Superseded external non-map illustration records are retained with the edition’s integration documentation.",
       "tags": [],
-      "coverImageId": "scarlet-pimpernel-image-cover",
+      "coverImageId": "scarlet-pimpernel-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "scarlet-pimpernel-event-001"
     }
