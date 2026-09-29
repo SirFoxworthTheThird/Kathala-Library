@@ -7,7 +7,7 @@
     "id": "dorian-gray-world",
     "name": "The Picture of Dorian Gray",
     "description": "A beautiful young man wishes that Basil Hallward’s portrait will age in his place. Under Lord Henry Wotton’s influence, Dorian pursues sensation while the hidden canvas records cruelty, scandal, murder, and time, until his attempt to destroy the evidence makes the truth visible.",
-    "coverImageId": "dorian-gray-image-cover",
+    "coverImageId": "dorian-gray-image-generated-cover",
     "theme": "theme-horror",
     "createdAt": 1785528000000,
     "updatedAt": 1785528000000,
@@ -187,7 +187,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-dorian"
+      "imageId": "dorian-gray-image-generated-location-london-portal"
     },
     {
       "worldId": "dorian-gray-world",
@@ -203,7 +203,7 @@
       "iconType": "castle",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-duchess"
+      "imageId": "dorian-gray-image-generated-location-selby-portal"
     },
     {
       "worldId": "dorian-gray-world",
@@ -219,7 +219,7 @@
       "iconType": "home-group",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-hetty"
+      "imageId": "dorian-gray-image-generated-location-country-village"
     },
     {
       "worldId": "dorian-gray-world",
@@ -235,7 +235,7 @@
       "iconType": "palette",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-basil"
+      "imageId": "dorian-gray-image-generated-location-basil-studio"
     },
     {
       "worldId": "dorian-gray-world",
@@ -251,7 +251,7 @@
       "iconType": "party-popper",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-hubbard"
+      "imageId": "dorian-gray-image-generated-location-brandon-party"
     },
     {
       "worldId": "dorian-gray-world",
@@ -267,7 +267,7 @@
       "iconType": "silverware-fork-knife",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-agatha"
+      "imageId": "dorian-gray-image-generated-location-agatha-house"
     },
     {
       "worldId": "dorian-gray-world",
@@ -283,7 +283,7 @@
       "iconType": "home",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-victoria"
+      "imageId": "dorian-gray-image-generated-location-henry-house"
     },
     {
       "worldId": "dorian-gray-world",
@@ -299,7 +299,7 @@
       "iconType": "home-lock",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-dorian"
+      "imageId": "dorian-gray-image-generated-location-dorian-portal"
     },
     {
       "worldId": "dorian-gray-world",
@@ -315,7 +315,7 @@
       "iconType": "theater",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-sibyl"
+      "imageId": "dorian-gray-image-generated-location-theatre"
     },
     {
       "worldId": "dorian-gray-world",
@@ -331,7 +331,7 @@
       "iconType": "glass-cocktail",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-fermor"
+      "imageId": "dorian-gray-image-generated-location-club"
     },
     {
       "worldId": "dorian-gray-world",
@@ -347,7 +347,7 @@
       "iconType": "flask-outline",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-alan"
+      "imageId": "dorian-gray-image-generated-location-alan-house"
     },
     {
       "worldId": "dorian-gray-world",
@@ -363,7 +363,7 @@
       "iconType": "train",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-basil-bag"
+      "imageId": "dorian-gray-image-generated-location-victoria-station"
     },
     {
       "worldId": "dorian-gray-world",
@@ -379,7 +379,7 @@
       "iconType": "weather-fog",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-opium-pipe"
+      "imageId": "dorian-gray-image-generated-location-soho-portal"
     },
     {
       "worldId": "dorian-gray-world",
@@ -395,7 +395,7 @@
       "iconType": "home-city",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-mrs-vane"
+      "imageId": "dorian-gray-image-generated-location-vane-lodgings"
     },
     {
       "worldId": "dorian-gray-world",
@@ -411,7 +411,7 @@
       "iconType": "smoking-pipe",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-opium-pipe"
+      "imageId": "dorian-gray-image-generated-location-opium-den"
     },
     {
       "worldId": "dorian-gray-world",
@@ -427,7 +427,7 @@
       "iconType": "pier",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-james"
+      "imageId": "dorian-gray-image-generated-location-dock-street"
     },
     {
       "worldId": "dorian-gray-world",
@@ -443,7 +443,7 @@
       "iconType": "door",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-hubbard"
+      "imageId": "dorian-gray-image-generated-location-house-hall"
     },
     {
       "worldId": "dorian-gray-world",
@@ -459,7 +459,7 @@
       "iconType": "bookshelf",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-yellow-book"
+      "imageId": "dorian-gray-image-generated-location-house-library"
     },
     {
       "worldId": "dorian-gray-world",
@@ -475,7 +475,7 @@
       "iconType": "sofa-outline",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-henry"
+      "imageId": "dorian-gray-image-generated-location-house-drawing"
     },
     {
       "worldId": "dorian-gray-world",
@@ -491,7 +491,7 @@
       "iconType": "silverware",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-agatha"
+      "imageId": "dorian-gray-image-generated-location-house-dining"
     },
     {
       "worldId": "dorian-gray-world",
@@ -507,7 +507,7 @@
       "iconType": "greenhouse",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-orchids"
+      "imageId": "dorian-gray-image-generated-location-house-garden"
     },
     {
       "worldId": "dorian-gray-world",
@@ -523,7 +523,7 @@
       "iconType": "stairs",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-attic-key"
+      "imageId": "dorian-gray-image-generated-location-attic-portal"
     },
     {
       "worldId": "dorian-gray-world",
@@ -539,7 +539,7 @@
       "iconType": "lock",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-purple-cover"
+      "imageId": "dorian-gray-image-generated-location-attic-room"
     },
     {
       "worldId": "dorian-gray-world",
@@ -555,7 +555,7 @@
       "iconType": "image-frame",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-portrait"
+      "imageId": "dorian-gray-image-generated-location-portrait-wall"
     },
     {
       "worldId": "dorian-gray-world",
@@ -571,7 +571,7 @@
       "iconType": "view-grid-outline",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-screen"
+      "imageId": "dorian-gray-image-generated-location-attic-screen"
     },
     {
       "worldId": "dorian-gray-world",
@@ -587,7 +587,7 @@
       "iconType": "cabinet",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-cabinet"
+      "imageId": "dorian-gray-image-generated-location-attic-cabinet"
     },
     {
       "worldId": "dorian-gray-world",
@@ -603,7 +603,7 @@
       "iconType": "door-closed-lock",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-attic-key"
+      "imageId": "dorian-gray-image-generated-location-attic-door"
     },
     {
       "worldId": "dorian-gray-world",
@@ -619,7 +619,7 @@
       "iconType": "door",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-duchess"
+      "imageId": "dorian-gray-image-generated-location-selby-hall"
     },
     {
       "worldId": "dorian-gray-world",
@@ -635,7 +635,7 @@
       "iconType": "sofa-outline",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-geoffrey"
+      "imageId": "dorian-gray-image-generated-location-selby-drawing"
     },
     {
       "worldId": "dorian-gray-world",
@@ -651,7 +651,7 @@
       "iconType": "greenhouse",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-orchids"
+      "imageId": "dorian-gray-image-generated-location-selby-conservatory"
     },
     {
       "worldId": "dorian-gray-world",
@@ -667,7 +667,7 @@
       "iconType": "flower-outline",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-char-james"
+      "imageId": "dorian-gray-image-generated-location-selby-terrace"
     },
     {
       "worldId": "dorian-gray-world",
@@ -683,7 +683,7 @@
       "iconType": "pine-tree",
       "tags": [],
       "factionId": null,
-      "imageId": "dorian-gray-image-item-revolver"
+      "imageId": "dorian-gray-image-generated-location-selby-shooting"
     }
   ],
   "characters": [
@@ -697,7 +697,7 @@
         "Prince Charming"
       ],
       "description": "A beautiful young gentleman whose wish leaves his portrait to bear the visible consequences of age and corruption.",
-      "portraitImageId": "dorian-gray-image-char-dorian",
+      "portraitImageId": "dorian-gray-image-generated-character-dorian",
       "color": "#c7a96b",
       "tags": [
         "protagonist",
@@ -714,7 +714,7 @@
       "name": "Basil Hallward",
       "aliases": [],
       "description": "A serious painter whose devotion to Dorian has changed his work.",
-      "portraitImageId": "dorian-gray-image-char-basil",
+      "portraitImageId": "dorian-gray-image-generated-character-basil",
       "color": "#6f775b",
       "tags": [
         "artist"
@@ -732,7 +732,7 @@
         "Harry"
       ],
       "description": "A dazzling, paradox-loving aristocrat whose philosophy of sensation shapes Dorian’s self-conception.",
-      "portraitImageId": "dorian-gray-image-char-henry",
+      "portraitImageId": "dorian-gray-image-generated-character-henry",
       "color": "#755b79",
       "tags": [
         "influencer",
@@ -749,7 +749,7 @@
       "name": "Sibyl Vane",
       "aliases": [],
       "description": "A gifted young actress who loves Dorian as Prince Charming and loses her art when love becomes real.",
-      "portraitImageId": "dorian-gray-image-char-sibyl",
+      "portraitImageId": "dorian-gray-image-generated-character-sibyl",
       "color": "#b67a8c",
       "tags": [
         "actress"
@@ -767,7 +767,7 @@
         "Jim"
       ],
       "description": "Sibyl’s protective sailor brother, driven for years by his oath to avenge her.",
-      "portraitImageId": "dorian-gray-image-char-james",
+      "portraitImageId": "dorian-gray-image-generated-character-james",
       "color": "#536b78",
       "tags": [
         "sailor",
@@ -784,7 +784,7 @@
       "name": "Mrs Vane",
       "aliases": [],
       "description": "Sibyl and James’s theatrical, debt-burdened mother, preoccupied with the family’s prospects.",
-      "portraitImageId": "dorian-gray-image-char-mrs-vane",
+      "portraitImageId": "dorian-gray-image-generated-character-mrs-vane",
       "color": "#8d6b70",
       "tags": [
         "theatre"
@@ -800,7 +800,7 @@
       "name": "Alan Campbell",
       "aliases": [],
       "description": "A scientist and former intimate of Dorian who is coerced into destroying Basil’s body.",
-      "portraitImageId": "dorian-gray-image-char-alan",
+      "portraitImageId": "dorian-gray-image-generated-character-alan",
       "color": "#547064",
       "tags": [
         "chemist"
@@ -816,7 +816,7 @@
       "name": "Lady Agatha",
       "aliases": [],
       "description": "Lord Henry’s philanthropic aunt and hostess of a luncheon that introduces Dorian to a wider social circle.",
-      "portraitImageId": "dorian-gray-image-char-agatha",
+      "portraitImageId": "dorian-gray-image-generated-character-agatha",
       "color": "#8f7b65",
       "tags": [
         "aristocracy",
@@ -835,7 +835,7 @@
         "Uncle George"
       ],
       "description": "Lord Henry’s worldly uncle, a storehouse of family scandal who explains Dorian’s ancestry.",
-      "portraitImageId": "dorian-gray-image-char-fermor",
+      "portraitImageId": "dorian-gray-image-generated-character-fermor",
       "color": "#806b52",
       "tags": [
         "aristocracy"
@@ -853,7 +853,7 @@
         "Lady Henry"
       ],
       "description": "Lord Henry’s wife, briefly encountered amid music and the fashionable epigrams of their marriage.",
-      "portraitImageId": "dorian-gray-image-char-victoria",
+      "portraitImageId": "dorian-gray-image-generated-character-victoria",
       "color": "#937386",
       "tags": [
         "aristocracy"
@@ -869,7 +869,7 @@
       "name": "Gladys, Duchess of Monmouth",
       "aliases": [],
       "description": "A clever society beauty who flirts verbally with Dorian at Selby Royal.",
-      "portraitImageId": "dorian-gray-image-char-duchess",
+      "portraitImageId": "dorian-gray-image-generated-character-duchess",
       "color": "#9a6e78",
       "tags": [
         "aristocracy"
@@ -885,7 +885,7 @@
       "name": "Geoffrey Clouston",
       "aliases": [],
       "description": "The Duchess of Monmouth’s brother and sportsman whose shot accidentally kills James Vane.",
-      "portraitImageId": "dorian-gray-image-char-geoffrey",
+      "portraitImageId": "dorian-gray-image-generated-character-geoffrey",
       "color": "#6c7353",
       "tags": [
         "sportsman"
@@ -901,7 +901,7 @@
       "name": "Adrian Singleton",
       "aliases": [],
       "description": "A ruined young gentleman encountered in an opium den, evidence of Dorian’s destructive influence.",
-      "portraitImageId": "dorian-gray-image-char-adrian",
+      "portraitImageId": "dorian-gray-image-generated-character-adrian",
       "color": "#645f69",
       "tags": [
         "fallen-circle"
@@ -917,7 +917,7 @@
       "name": "Victor",
       "aliases": [],
       "description": "Dorian’s valet, watched suspiciously after the portrait is moved to the locked schoolroom.",
-      "portraitImageId": "dorian-gray-image-char-victor",
+      "portraitImageId": "dorian-gray-image-generated-character-victor",
       "color": "#756b60",
       "tags": [
         "servant"
@@ -933,7 +933,7 @@
       "name": "Francis",
       "aliases": [],
       "description": "Dorian’s valet at Grosvenor Square, who answers the door and asks nothing.",
-      "portraitImageId": "dorian-gray-image-char-francis",
+      "portraitImageId": "dorian-gray-image-generated-character-francis",
       "color": "#7c7063",
       "tags": [
         "servant"
@@ -949,7 +949,7 @@
       "name": "Mrs Leaf",
       "aliases": [],
       "description": "Dorian’s elderly housekeeper, keeper of household memory and the old schoolroom key.",
-      "portraitImageId": "dorian-gray-image-char-mrs-leaf",
+      "portraitImageId": "dorian-gray-image-generated-character-mrs-leaf",
       "color": "#8a7668",
       "tags": [
         "servant"
@@ -965,7 +965,7 @@
       "name": "Hetty Merton",
       "aliases": [],
       "description": "A country girl whom Dorian leaves uncorrupted in a late attempt to prove he can reform.",
-      "portraitImageId": "dorian-gray-image-char-hetty",
+      "portraitImageId": "dorian-gray-image-generated-character-hetty",
       "color": "#8c9270",
       "tags": [
         "country"
@@ -981,7 +981,7 @@
       "name": "Mr Isaacs",
       "aliases": [],
       "description": "The Jewish theatre manager who employs Sibyl and holds the Vane family’s debts.",
-      "portraitImageId": "dorian-gray-image-char-isaacs",
+      "portraitImageId": "dorian-gray-image-generated-character-isaacs",
       "color": "#76644f",
       "tags": [
         "theatre"
@@ -997,7 +997,7 @@
       "name": "Mr Hubbard",
       "aliases": [],
       "description": "The frame-maker who brings workmen to move the covered portrait into Dorian’s old schoolroom.",
-      "portraitImageId": "dorian-gray-image-char-hubbard",
+      "portraitImageId": "dorian-gray-image-generated-character-hubbard",
       "color": "#746858",
       "tags": [
         "craftsman"
@@ -1013,7 +1013,7 @@
       "name": "The Opium-Den Woman",
       "aliases": [],
       "description": "A ruined woman whose cry of “Prince Charming” gives James Vane the name he has hunted.",
-      "portraitImageId": "dorian-gray-image-char-opium-woman",
+      "portraitImageId": "dorian-gray-image-generated-character-opium-woman",
       "color": "#755b62",
       "tags": [
         "east-end"
@@ -1029,7 +1029,7 @@
       "name": "Lady Narborough",
       "aliases": [],
       "description": "A witty society hostess whose dinner Dorian attends immediately after Basil’s murder.",
-      "portraitImageId": "dorian-gray-image-char-narborough",
+      "portraitImageId": "dorian-gray-image-generated-character-narborough",
       "color": "#8f6671",
       "tags": [
         "aristocracy"
@@ -1045,7 +1045,7 @@
       "name": "Lady Brandon",
       "aliases": [],
       "description": "The hostess who introduces Basil to Dorian at a crowded social gathering.",
-      "portraitImageId": "dorian-gray-image-char-brandon",
+      "portraitImageId": "dorian-gray-image-generated-character-brandon",
       "color": "#927767",
       "tags": [
         "aristocracy"
@@ -1061,7 +1061,7 @@
       "name": "Sir Thomas Burdon",
       "aliases": [],
       "description": "A Radical member of Parliament at Lady Agatha’s luncheon.",
-      "portraitImageId": "dorian-gray-image-char-burdon",
+      "portraitImageId": "dorian-gray-image-generated-character-burdon",
       "color": "#686d78",
       "tags": [
         "politics"
@@ -1077,7 +1077,7 @@
       "name": "Mr Erskine of Treadley",
       "aliases": [],
       "description": "An elderly gentleman of letters who listens to Lord Henry’s provocations at luncheon.",
-      "portraitImageId": "dorian-gray-image-char-erskine",
+      "portraitImageId": "dorian-gray-image-generated-character-erskine",
       "color": "#71705e",
       "tags": [
         "letters"
@@ -1093,7 +1093,7 @@
       "name": "Lord Kelso",
       "aliases": [],
       "description": "Dorian’s harsh grandfather, recalled in the story of Margaret Devereux’s marriage.",
-      "portraitImageId": "dorian-gray-image-char-kelso",
+      "portraitImageId": "dorian-gray-image-generated-character-kelso",
       "color": "#665b54",
       "tags": [
         "ancestry"
@@ -1111,7 +1111,7 @@
         "Lady Margaret Devereux"
       ],
       "description": "Dorian’s beautiful mother, remembered as defying Lord Kelso to marry a penniless officer.",
-      "portraitImageId": "dorian-gray-image-char-margaret",
+      "portraitImageId": "dorian-gray-image-generated-character-margaret",
       "color": "#a2767b",
       "tags": [
         "ancestry"
@@ -1129,7 +1129,7 @@
       "name": "The Portrait of Dorian Gray",
       "description": "Basil’s masterpiece, which ages and records Dorian’s cruelty while Dorian remains young.",
       "iconType": "image-frame",
-      "imageId": "dorian-gray-image-item-portrait",
+      "imageId": "dorian-gray-image-generated-item-portrait",
       "tags": []
     },
     {
@@ -1140,7 +1140,7 @@
       "name": "Basil’s Brushes and Palette",
       "description": "The tools used to complete the portrait in Basil’s studio.",
       "iconType": "palette",
-      "imageId": "dorian-gray-image-item-brushes",
+      "imageId": "dorian-gray-image-generated-item-brushes",
       "tags": []
     },
     {
@@ -1151,7 +1151,7 @@
       "name": "The Yellow Book",
       "description": "Lord Henry’s poisonous French novel, read and imitated by Dorian for years.",
       "iconType": "book-open-variant",
-      "imageId": "dorian-gray-image-item-yellow-book",
+      "imageId": "dorian-gray-image-generated-item-yellow-book",
       "tags": []
     },
     {
@@ -1162,7 +1162,7 @@
       "name": "Dorian’s Mirror",
       "description": "A polished mirror in which Dorian compares his unchanged face with the portrait.",
       "iconType": "mirror-rectangle",
-      "imageId": "dorian-gray-image-item-mirror",
+      "imageId": "dorian-gray-image-generated-item-mirror",
       "tags": []
     },
     {
@@ -1173,7 +1173,7 @@
       "name": "Sibyl’s Playbill",
       "description": "A theatre bill advertising Sibyl’s Shakespearean performances.",
       "iconType": "theater",
-      "imageId": "dorian-gray-image-item-playbill",
+      "imageId": "dorian-gray-image-generated-item-playbill",
       "tags": []
     },
     {
@@ -1184,7 +1184,7 @@
       "name": "Letter to Sibyl",
       "description": "Dorian’s remorseful letter asking Sibyl’s forgiveness, written too late.",
       "iconType": "email-seal",
-      "imageId": "dorian-gray-image-item-letter-sibyl",
+      "imageId": "dorian-gray-image-generated-item-letter-sibyl",
       "tags": []
     },
     {
@@ -1195,7 +1195,7 @@
       "name": "Newspaper Reports",
       "description": "Reports of Sibyl’s death, Dorian’s scandals, Basil’s disappearance, and James’s shooting.",
       "iconType": "newspaper-variant-outline",
-      "imageId": "dorian-gray-image-item-newspaper",
+      "imageId": "dorian-gray-image-generated-item-newspaper",
       "tags": []
     },
     {
@@ -1206,7 +1206,7 @@
       "name": "Schoolroom Key",
       "description": "The key to the locked room where Dorian hides the portrait.",
       "iconType": "key-variant",
-      "imageId": "dorian-gray-image-item-attic-key",
+      "imageId": "dorian-gray-image-generated-item-attic-key",
       "tags": []
     },
     {
@@ -1217,7 +1217,7 @@
       "name": "Purple Satin Coverlet",
       "description": "A rich funerary cloth used to conceal the changing portrait.",
       "iconType": "texture-box",
-      "imageId": "dorian-gray-image-item-purple-cover",
+      "imageId": "dorian-gray-image-generated-item-purple-cover",
       "tags": []
     },
     {
@@ -1228,7 +1228,7 @@
       "name": "Embroidered Screen",
       "description": "A large screen carried up from the studio and set to stand in front of the portrait.",
       "iconType": "view-grid-outline",
-      "imageId": "dorian-gray-image-item-screen",
+      "imageId": "dorian-gray-image-generated-item-screen",
       "tags": []
     },
     {
@@ -1239,7 +1239,7 @@
       "name": "Knife",
       "description": "The weapon Dorian uses first against Basil and finally against the portrait.",
       "iconType": "knife",
-      "imageId": "dorian-gray-image-item-knife",
+      "imageId": "dorian-gray-image-generated-item-knife",
       "tags": []
     },
     {
@@ -1250,7 +1250,7 @@
       "name": "Blackmail Letter",
       "description": "A written threat that forces Alan Campbell to obey Dorian.",
       "iconType": "email-alert-outline",
-      "imageId": "dorian-gray-image-item-blackmail-letter",
+      "imageId": "dorian-gray-image-generated-item-blackmail-letter",
       "tags": []
     },
     {
@@ -1261,7 +1261,7 @@
       "name": "Alan’s Chemical Apparatus",
       "description": "A locked case and equipment used to destroy Basil’s remains.",
       "iconType": "test-tube",
-      "imageId": "dorian-gray-image-item-chemical-case",
+      "imageId": "dorian-gray-image-generated-item-chemical-case",
       "tags": []
     },
     {
@@ -1272,7 +1272,7 @@
       "name": "Basil’s Bag and Coat",
       "description": "Basil’s travelling bag and coat, left in the hall on the night he calls at Grosvenor Square.",
       "iconType": "bag-suitcase",
-      "imageId": "dorian-gray-image-item-basil-bag",
+      "imageId": "dorian-gray-image-generated-item-basil-bag",
       "tags": []
     },
     {
@@ -1283,7 +1283,7 @@
       "name": "James Vane’s Revolver",
       "description": "The weapon James carries while hunting the man he knows as Prince Charming.",
       "iconType": "pistol",
-      "imageId": "dorian-gray-image-item-revolver",
+      "imageId": "dorian-gray-image-generated-item-revolver",
       "tags": []
     },
     {
@@ -1294,7 +1294,7 @@
       "name": "Opium Pipe",
       "description": "The instrument of oblivion in the East End den Dorian visits after the murder.",
       "iconType": "smoking-pipe",
-      "imageId": "dorian-gray-image-item-opium-pipe",
+      "imageId": "dorian-gray-image-generated-item-opium-pipe",
       "tags": []
     },
     {
@@ -1305,7 +1305,7 @@
       "name": "Selby Orchids",
       "description": "Exotic flowers surrounding Dorian’s society performance at Selby Royal.",
       "iconType": "flower-tulip-outline",
-      "imageId": "dorian-gray-image-item-orchids",
+      "imageId": "dorian-gray-image-generated-item-orchids",
       "tags": []
     },
     {
@@ -1316,7 +1316,7 @@
       "name": "Locked Cabinet",
       "description": "A cabinet containing curios, poisons, and private remnants of Dorian’s hidden life.",
       "iconType": "dresser",
-      "imageId": "dorian-gray-image-item-cabinet",
+      "imageId": "dorian-gray-image-generated-item-cabinet",
       "tags": []
     }
   ],
@@ -9263,13 +9263,6 @@
   ],
   "blobs": [
     {
-      "id": "dorian-gray-image-cover",
-      "worldId": "dorian-gray-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Houghton%20HEW%2012.10.15%20-%20The%20Picture%20of%20Dorian%20Gray%2C%201891%20(cover).jpg?width=960",
-      "createdAt": 1785528000000
-    },
-    {
       "id": "dorian-gray-image-map-britain",
       "worldId": "dorian-gray-world",
       "mimeType": "image/png",
@@ -9312,312 +9305,620 @@
       "createdAt": 1785528000000
     },
     {
-      "id": "dorian-gray-image-char-dorian",
       "worldId": "dorian-gray-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Engraving%20Portrait%20of%20Dorian%20Gray%20by%20F.%20Sim%C3%A9on%201922.png?width=800",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "dorian-gray-image-char-basil",
-      "worldId": "dorian-gray-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/From%20The%20Picture%20of%20Dorian%20Gray%20by%20Eug%C3%A8ne%20D%C3%A9t%C3%A9%20after%20Thiriat.png?width=800",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "dorian-gray-image-char-henry",
-      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dorian%20Grey%20Chapitre%20Quatre.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/cover.jpg"
     },
     {
-      "id": "dorian-gray-image-char-sibyl",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-dorian",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-020.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/dorian.jpg"
     },
     {
-      "id": "dorian-gray-image-char-james",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-basil",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-021.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/basil.jpg"
     },
     {
-      "id": "dorian-gray-image-char-mrs-vane",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-henry",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-043.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/henry.jpg"
     },
     {
-      "id": "dorian-gray-image-char-alan",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-sibyl",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-067.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/sibyl.jpg"
     },
     {
-      "id": "dorian-gray-image-char-agatha",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-james",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-087.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/james.jpg"
     },
     {
-      "id": "dorian-gray-image-char-fermor",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-mrs-vane",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-111.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/mrs-vane.jpg"
     },
     {
-      "id": "dorian-gray-image-char-victoria",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-alan",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-131.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/alan.jpg"
     },
     {
-      "id": "dorian-gray-image-char-duchess",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-agatha",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-145.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/agatha.jpg"
     },
     {
-      "id": "dorian-gray-image-char-geoffrey",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-fermor",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-163.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/fermor.jpg"
     },
     {
-      "id": "dorian-gray-image-char-adrian",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-victoria",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-185.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/victoria.jpg"
     },
     {
-      "id": "dorian-gray-image-char-victor",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-duchess",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-203.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/duchess.jpg"
     },
     {
-      "id": "dorian-gray-image-char-francis",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-geoffrey",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-217.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/geoffrey.jpg"
     },
     {
-      "id": "dorian-gray-image-char-mrs-leaf",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-adrian",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-259.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/adrian.jpg"
     },
     {
-      "id": "dorian-gray-image-char-hetty",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-victor",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Doriangray.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/victor.jpg"
     },
     {
-      "id": "dorian-gray-image-char-isaacs",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-francis",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Illustration%20pour%20le%20Portrait%20de%20Dorian%20Gray%20-%20estampe%20-%20(sc%C3%A8ne%20de%20march%C3%A9)%20(2e%20%C3%A9tat)%20-%20Jean-%C3%89mile%20Laboureur%20-%20btv1b10536675f.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/francis.jpg"
     },
     {
-      "id": "dorian-gray-image-char-hubbard",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-mrs-leaf",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Illustration%20pour%20le%20Portrait%20de%20Dorian%20Gray%20-%20estampe%20-%20(sc%C3%A8ne%20de%20r%C3%A9ception%20mondaine)%20(2e%20%C3%A9tat)%20-%20Jean-%C3%89mile%20Laboureur%20-%20btv1b10536676w.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/mrs-leaf.jpg"
     },
     {
-      "id": "dorian-gray-image-char-opium-woman",
       "worldId": "dorian-gray-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Engraving%20Portrait%20of%20Dorian%20Gray%20by%20F.%20Sim%C3%A9on%201922.png?width=800",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "dorian-gray-image-char-narborough",
-      "worldId": "dorian-gray-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/From%20The%20Picture%20of%20Dorian%20Gray%20by%20Eug%C3%A8ne%20D%C3%A9t%C3%A9%20after%20Thiriat.png?width=800",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "dorian-gray-image-char-brandon",
-      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-hetty",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dorian%20Grey%20Chapitre%20Quatre.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/hetty.jpg"
     },
     {
-      "id": "dorian-gray-image-char-burdon",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-isaacs",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-020.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/isaacs.jpg"
     },
     {
-      "id": "dorian-gray-image-char-erskine",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-hubbard",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-021.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/hubbard.jpg"
     },
     {
-      "id": "dorian-gray-image-char-kelso",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-opium-woman",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-043.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/opium-woman.jpg"
     },
     {
-      "id": "dorian-gray-image-char-margaret",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-narborough",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-067.jpg?width=800",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/narborough.jpg"
     },
     {
-      "id": "dorian-gray-image-item-portrait",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-brandon",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Doriangray.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/brandon.jpg"
     },
     {
-      "id": "dorian-gray-image-item-brushes",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-burdon",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Doriangray.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/burdon.jpg"
     },
     {
-      "id": "dorian-gray-image-item-yellow-book",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-erskine",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-217.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/erskine.jpg"
     },
     {
-      "id": "dorian-gray-image-item-mirror",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-kelso",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Hand-mirror%20(BM%201938%2C0804.21).jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/kelso.jpg"
     },
     {
-      "id": "dorian-gray-image-item-playbill",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-character-margaret",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-131.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/characters/margaret.jpg"
     },
     {
-      "id": "dorian-gray-image-item-letter-sibyl",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-portrait",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-163.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/portrait.jpg"
     },
     {
-      "id": "dorian-gray-image-item-newspaper",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-brushes",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-185.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/brushes.jpg"
     },
     {
-      "id": "dorian-gray-image-item-attic-key",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-yellow-book",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-203.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/yellow-book.jpg"
     },
     {
-      "id": "dorian-gray-image-item-purple-cover",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-mirror",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-203.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/mirror.jpg"
     },
     {
-      "id": "dorian-gray-image-item-screen",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-playbill",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-203.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/playbill.jpg"
     },
     {
-      "id": "dorian-gray-image-item-knife",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-letter-sibyl",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-361.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/letter-sibyl.jpg"
     },
     {
-      "id": "dorian-gray-image-item-blackmail-letter",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-newspaper",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-271.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/newspaper.jpg"
     },
     {
-      "id": "dorian-gray-image-item-chemical-case",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-attic-key",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-271.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/attic-key.jpg"
     },
     {
-      "id": "dorian-gray-image-item-basil-bag",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-purple-cover",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-247.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/purple-cover.jpg"
     },
     {
-      "id": "dorian-gray-image-item-revolver",
       "worldId": "dorian-gray-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Engraving%20Portrait%20of%20Dorian%20Gray%20by%20F.%20Sim%C3%A9on%201922.png?width=960",
-      "createdAt": 1785528000000
-    },
-    {
-      "id": "dorian-gray-image-item-opium-pipe",
-      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-screen",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20end%20of%20opium-smoking.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/screen.jpg"
     },
     {
-      "id": "dorian-gray-image-item-orchids",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-knife",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-319.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/knife.jpg"
     },
     {
-      "id": "dorian-gray-image-item-cabinet",
       "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-blackmail-letter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wilde%20-%20Le%20portrait%20de%20Dorian%20Gray%20(trad.%20Jaloux)%2C%201928%20-%20image-217.jpg?width=960",
-      "createdAt": 1785528000000
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/blackmail-letter.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-chemical-case",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/chemical-case.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-basil-bag",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/basil-bag.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-revolver",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/revolver.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-opium-pipe",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/opium-pipe.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-orchids",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/orchids.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-item-cabinet",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/items/cabinet.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-london-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/london-portal.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-selby-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/selby-portal.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-country-village",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/country-village.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-basil-studio",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/basil-studio.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-brandon-party",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/brandon-party.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-agatha-house",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/agatha-house.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-henry-house",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/henry-house.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-dorian-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/dorian-portal.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-theatre",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/theatre.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-club",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/club.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-alan-house",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/alan-house.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-victoria-station",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/victoria-station.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-soho-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/soho-portal.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-vane-lodgings",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/vane-lodgings.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-opium-den",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/opium-den.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-dock-street",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/dock-street.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-house-hall",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/house-hall.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-house-library",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/house-library.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-house-drawing",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/house-drawing.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-house-dining",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/house-dining.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-house-garden",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/house-garden.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-attic-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/attic-portal.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-attic-room",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/attic-room.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-portrait-wall",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/portrait-wall.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-attic-screen",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/attic-screen.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-attic-cabinet",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/attic-cabinet.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-attic-door",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/attic-door.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-selby-hall",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/selby-hall.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-selby-drawing",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/selby-drawing.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-selby-conservatory",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/selby-conservatory.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-selby-terrace",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/selby-terrace.jpg"
+    },
+    {
+      "worldId": "dorian-gray-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "dorian-gray-image-generated-location-selby-shooting",
+      "mimeType": "image/jpeg",
+      "url": "library/the-picture-of-dorian-gray/art/generated/locations/selby-shooting.jpg"
     }
   ],
   "travelModes": [],
@@ -9726,7 +10027,7 @@
       "title": "The Portrait as Moral Record",
       "body": "The portrait is both Basil’s highest artistic achievement and the material record of Dorian’s aging, cruelty, blood guilt, and self-deception. Its supernatural exchange is confirmed only after Dorian rejects Sibyl and sees the painted mouth change.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-item-portrait",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-49"
     },
@@ -9739,7 +10040,7 @@
       "title": "Basil’s Theory of Artistic Exposure",
       "body": "Basil initially refuses exhibition because he believes the portrait discloses too much of his feeling for Dorian. The supernatural secret later reverses this fear: the work exposes the sitter rather than the painter.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-character-basil",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-33"
     },
@@ -9752,7 +10053,7 @@
       "title": "Sibyl Vane and the End of Acting",
       "body": "Sibyl’s art depends on believing theatrical passion. Real love makes imitation seem empty, so her emotional awakening destroys the talent Dorian mistakes for her identity.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-character-sibyl",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-25"
     },
@@ -9765,7 +10066,7 @@
       "title": "Dorian’s Unchanging Face",
       "body": "Dorian’s body remains visibly young for nearly eighteen years. Society reads innocence from his face, James mistakes youth for an alibi, and the portrait stores the appearance time and conduct would otherwise produce.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-character-dorian",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-62"
     },
@@ -9778,7 +10079,7 @@
       "title": "Prince Charming",
       "body": "Sibyl’s name for Dorian survives her death. Because James knows no other name, the theatrical identity becomes both Dorian’s protection and the clue that allows vengeance to find him.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-character-james",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-62"
     },
@@ -9791,7 +10092,7 @@
       "title": "The Locked Schoolroom",
       "body": "Dorian’s former schoolroom joins childhood memory to adult concealment. The portrait, Basil’s body, chemical destruction, and the final reversal all occupy the room he alone can unlock.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-location-attic-room",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-79"
     },
@@ -9804,7 +10105,7 @@
       "title": "Reputation Without Evidence",
       "body": "Dorian’s acquaintances accumulate stories of ruined lives, but beauty, rank, and hospitality prevent rumour from becoming proof. Basil’s demand to see Dorian’s soul literalizes society’s impossible evidentiary standard.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-location-club",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-45"
     },
@@ -9817,7 +10118,7 @@
       "title": "The Vane Family and Economic Precarity",
       "body": "Sibyl’s theatre work supports a household burdened by debt to Isaacs. James’s departure for Australia and Mrs Vane’s hope for a wealthy marriage contrast sharply with Dorian’s inherited freedom.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-location-vane-lodgings",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-17"
     },
@@ -9830,7 +10131,7 @@
       "title": "The Yellow Book",
       "body": "Lord Henry’s unnamed French novel becomes Dorian’s script for a life of cultivated sensation. Dorian acquires copies in different colours and interprets its protagonist as a prefiguration of himself.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-item-yellow-book",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-41"
     },
@@ -9843,7 +10144,7 @@
       "title": "Mirrors, Keys, and Coverings",
       "body": "The mirror enables comparison, the key controls access, and the purple coverlet hides the canvas. These objects do not erase truth; they regulate who can encounter it.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-item-mirror",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-37"
     },
@@ -9856,7 +10157,7 @@
       "title": "Reading Order and Calendar",
       "body": "The calendar is an editorial reconstruction for the expanded twenty-chapter 1891 version. It begins in 1873, preserves the early summer sequence, models Chapter XI as a long passage of nearly eighteen years, and ends around Dorian’s thirty-eighth birthday. Exact dates are not supplied by the novel.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-map-britain",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-1"
     },
@@ -9867,9 +10168,9 @@
       "id": "dorian-gray-lore-12",
       "categoryId": "dorian-gray-lore-category-sources",
       "title": "Linked Historical Maps and Artwork",
-      "body": "The manuscript contains the complete preface and narrative text of Project Gutenberg eBook #174, divided across the novel’s 20 chapters and modeled events. Gutenberg packaging and the closing title are excluded. Maps and illustrations are documented separately in this page.",
+      "body": "The manuscript contains the complete preface and narrative text of Project Gutenberg eBook #174, divided across the novel’s 20 chapters and modeled events. Gutenberg packaging and the closing title are excluded. The cover, character portraits, item plates, and location scenes are original generated illustrations created for the Kathala Library edition in a coherent late-Victorian style. The six linked historical and editorial maps are retained as spatial aids. Superseded external illustration blobs have been removed, while their source context remains documented here.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "dorian-gray-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "dorian-gray-event-1"
     }
