@@ -478,16 +478,16 @@
       "author": "Jane Austen",
       "blurb": "Elizabeth Bennet and Fitzwilliam Darcy move through attraction, error, family crisis, and the difficult revision of first impressions.",
       "data": "pride-and-prejudice.pwk",
-      "dataBytes": 1191144,
+      "dataBytes": 1203094,
       "counts": {
         "characters": 34,
         "chapters": 61,
         "events": 98,
         "locations": 24
       },
-      "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1342 across all 61 chapters; Gutenberg packaging and illustrated-edition front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
+      "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1342 across all 61 chapters; Gutenberg packaging and illustrated-edition front matter are excluded. Six linked historical and editorial maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "pride-prejudice-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/AUSTEN(1894)%20Pride%20and%20prejudice%20(15811958311).jpg?width=960",
+      "cover": "library/pride-and-prejudice/art/generated/cover.jpg",
       "hasProse": true
     },
     {

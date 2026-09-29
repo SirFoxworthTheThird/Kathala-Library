@@ -6,7 +6,7 @@
     "id": "pride-prejudice-world",
     "name": "Pride and Prejudice",
     "description": "Jane Austen’s novel follows Elizabeth Bennet and Fitzwilliam Darcy through attraction, error, social pressure, family crisis, and the difficult revision of first impressions, alongside the contrasting courtships of the Bennet sisters.",
-    "coverImageId": "pp-image-cover",
+    "coverImageId": "pp-image-generated-cover",
     "theme": "theme-romance",
     "readingMode": true,
     "createdAt": 1785672000000,
@@ -187,7 +187,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-netherfield"
+      "imageId": "pp-image-generated-location-hertfordshire-portal"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -203,7 +203,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-gardiner"
+      "imageId": "pp-image-generated-location-london-portal"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -219,7 +219,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-lady-catherine"
+      "imageId": "pp-image-generated-location-kent-portal"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -235,7 +235,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-pemberley"
+      "imageId": "pp-image-generated-location-derbyshire-portal"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -251,7 +251,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-forster"
+      "imageId": "pp-image-generated-location-brighton-portal"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -267,7 +267,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-wickham"
+      "imageId": "pp-image-generated-location-newcastle"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -283,7 +283,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-bennet"
+      "imageId": "pp-image-generated-location-longbourn"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -299,7 +299,7 @@
       "iconType": "town",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-denny"
+      "imageId": "pp-image-generated-location-meryton"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -315,7 +315,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-dance"
+      "imageId": "pp-image-generated-location-assembly"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -331,7 +331,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-caroline"
+      "imageId": "pp-image-generated-location-netherfield"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -347,7 +347,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-charlotte"
+      "imageId": "pp-image-generated-location-lucas-lodge"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -363,7 +363,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-mrs-philips"
+      "imageId": "pp-image-generated-location-philips-house"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -379,7 +379,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-reconciliation"
+      "imageId": "pp-image-generated-location-oakham-mount"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -395,7 +395,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-mrs-gardiner"
+      "imageId": "pp-image-generated-location-gardiner-house"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -411,7 +411,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-georgiana"
+      "imageId": "pp-image-generated-location-darcy-london"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -427,7 +427,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-mrs-younge"
+      "imageId": "pp-image-generated-location-wickham-lodgings"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -443,7 +443,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-sermons"
+      "imageId": "pp-image-generated-location-hunsford"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -459,7 +459,7 @@
       "iconType": "castle",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-jenkinson"
+      "imageId": "pp-image-generated-location-rosings"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -475,7 +475,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-letter"
+      "imageId": "pp-image-generated-location-rosings-grove"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -491,7 +491,7 @@
       "iconType": "castle",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-mrs-reynolds"
+      "imageId": "pp-image-generated-location-pemberley"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -507,7 +507,7 @@
       "iconType": "town",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-visiting"
+      "imageId": "pp-image-generated-location-lambton"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -523,7 +523,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-carriage"
+      "imageId": "pp-image-generated-location-lambton-inn"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -539,7 +539,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-mrs-forster"
+      "imageId": "pp-image-generated-location-brighton-camp"
     },
     {
       "worldId": "pride-prejudice-world",
@@ -555,7 +555,7 @@
       "iconType": "town",
       "tags": [],
       "factionId": null,
-      "imageId": "pp-image-art-lydia"
+      "imageId": "pp-image-generated-location-brighton-town"
     }
   ],
   "characters": [
@@ -567,7 +567,7 @@
       "name": "Elizabeth Bennet",
       "aliases": [],
       "description": "Intelligent and independent second Bennet daughter whose judgments of Darcy and Wickham must be revised.",
-      "portraitImageId": "pp-image-art-elizabeth",
+      "portraitImageId": "pp-image-generated-character-elizabeth",
       "color": "#8f6d78",
       "tags": [],
       "isAlive": true,
@@ -581,7 +581,7 @@
       "name": "Fitzwilliam Darcy",
       "aliases": [],
       "description": "Wealthy master of Pemberley whose reserve, pride, loyalty, and capacity for change shape the central courtship.",
-      "portraitImageId": "pp-image-art-darcy",
+      "portraitImageId": "pp-image-generated-character-darcy",
       "color": "#556b78",
       "tags": [],
       "isAlive": true,
@@ -595,7 +595,7 @@
       "name": "Jane Bennet",
       "aliases": [],
       "description": "The eldest Bennet daughter, generous in judgment and quietly in love with Bingley.",
-      "portraitImageId": "pp-image-art-jane",
+      "portraitImageId": "pp-image-generated-character-jane",
       "color": "#9a7a82",
       "tags": [],
       "isAlive": true,
@@ -609,7 +609,7 @@
       "name": "Charles Bingley",
       "aliases": [],
       "description": "Good-humoured tenant of Netherfield who falls readily in love with Jane.",
-      "portraitImageId": "pp-image-art-bingley",
+      "portraitImageId": "pp-image-generated-character-bingley",
       "color": "#718297",
       "tags": [],
       "isAlive": true,
@@ -623,7 +623,7 @@
       "name": "Mr Bennet",
       "aliases": [],
       "description": "Witty but withdrawn father whose amusement often substitutes for responsible action.",
-      "portraitImageId": "pp-image-art-bennet",
+      "portraitImageId": "pp-image-generated-character-bennet",
       "color": "#756a5b",
       "tags": [],
       "isAlive": true,
@@ -637,7 +637,7 @@
       "name": "Mrs Bennet",
       "aliases": [],
       "description": "Anxious and indiscreet mother determined to marry her five daughters advantageously.",
-      "portraitImageId": "pp-image-art-mrs-bennet",
+      "portraitImageId": "pp-image-generated-character-mrs-bennet",
       "color": "#a06c70",
       "tags": [],
       "isAlive": true,
@@ -651,7 +651,7 @@
       "name": "Mary Bennet",
       "aliases": [],
       "description": "Bookish third Bennet daughter given to moral observations and public performance.",
-      "portraitImageId": "pp-image-art-mary",
+      "portraitImageId": "pp-image-generated-character-mary",
       "color": "#74677b",
       "tags": [],
       "isAlive": true,
@@ -665,7 +665,7 @@
       "name": "Catherine “Kitty” Bennet",
       "aliases": [],
       "description": "Impressionable fourth Bennet daughter who follows Lydia until separation improves her.",
-      "portraitImageId": "pp-image-art-kitty",
+      "portraitImageId": "pp-image-generated-character-kitty",
       "color": "#a17c8c",
       "tags": [],
       "isAlive": true,
@@ -679,7 +679,7 @@
       "name": "Lydia Bennet",
       "aliases": [],
       "description": "Impulsive youngest Bennet daughter whose elopement with Wickham threatens the family.",
-      "portraitImageId": "pp-image-art-lydia",
+      "portraitImageId": "pp-image-generated-character-lydia",
       "color": "#b36c76",
       "tags": [],
       "isAlive": true,
@@ -693,7 +693,7 @@
       "name": "George Wickham",
       "aliases": [],
       "description": "Charming militia officer who conceals debts, attempted exploitation, and bad faith.",
-      "portraitImageId": "pp-image-art-wickham",
+      "portraitImageId": "pp-image-generated-character-wickham",
       "color": "#76685c",
       "tags": [],
       "isAlive": true,
@@ -707,7 +707,7 @@
       "name": "Mr William Collins",
       "aliases": [],
       "description": "Obsequious clergyman and Longbourn heir who proposes first to Elizabeth and then Charlotte.",
-      "portraitImageId": "pp-image-art-collins",
+      "portraitImageId": "pp-image-generated-character-collins",
       "color": "#847853",
       "tags": [],
       "isAlive": true,
@@ -721,7 +721,7 @@
       "name": "Charlotte Lucas",
       "aliases": [],
       "description": "Elizabeth’s pragmatic friend, who secures stability by marrying Mr Collins.",
-      "portraitImageId": "pp-image-art-charlotte",
+      "portraitImageId": "pp-image-generated-character-charlotte",
       "color": "#74806c",
       "tags": [],
       "isAlive": true,
@@ -735,7 +735,7 @@
       "name": "Caroline Bingley",
       "aliases": [],
       "description": "Bingley’s status-conscious sister, hostile to Jane and Elizabeth and attentive to Darcy.",
-      "portraitImageId": "pp-image-art-caroline",
+      "portraitImageId": "pp-image-generated-character-caroline",
       "color": "#876885",
       "tags": [],
       "isAlive": true,
@@ -749,7 +749,7 @@
       "name": "Louisa Hurst",
       "aliases": [],
       "description": "Bingley’s married sister and Caroline’s ally in social exclusion.",
-      "portraitImageId": "pp-image-art-mrs-hurst",
+      "portraitImageId": "pp-image-generated-character-mrs-hurst",
       "color": "#7f7188",
       "tags": [],
       "isAlive": true,
@@ -763,7 +763,7 @@
       "name": "Mr Hurst",
       "aliases": [],
       "description": "Louisa’s indolent husband, chiefly interested in cards, food, and comfort.",
-      "portraitImageId": "pp-image-art-mr-hurst",
+      "portraitImageId": "pp-image-generated-character-mr-hurst",
       "color": "#756b63",
       "tags": [],
       "isAlive": true,
@@ -777,7 +777,7 @@
       "name": "Georgiana Darcy",
       "aliases": [],
       "description": "Darcy’s shy younger sister, spoken of a great deal more often than she is seen.",
-      "portraitImageId": "pp-image-art-georgiana",
+      "portraitImageId": "pp-image-generated-character-georgiana",
       "color": "#8c8296",
       "tags": [],
       "isAlive": true,
@@ -791,7 +791,7 @@
       "name": "Colonel Fitzwilliam",
       "aliases": [],
       "description": "Darcy’s sociable cousin, Georgiana’s co-guardian, and Elizabeth’s companion at Hunsford.",
-      "portraitImageId": "pp-image-art-colonel-fitzwilliam",
+      "portraitImageId": "pp-image-generated-character-colonel-fitzwilliam",
       "color": "#687889",
       "tags": [],
       "isAlive": true,
@@ -805,7 +805,7 @@
       "name": "Lady Catherine de Bourgh",
       "aliases": [],
       "description": "Darcy’s domineering aunt, patroness of Collins, and defender of inherited rank.",
-      "portraitImageId": "pp-image-art-lady-catherine",
+      "portraitImageId": "pp-image-generated-character-lady-catherine",
       "color": "#815a64",
       "tags": [],
       "isAlive": true,
@@ -819,7 +819,7 @@
       "name": "Anne de Bourgh",
       "aliases": [],
       "description": "Lady Catherine’s sickly daughter and imagined future wife for Darcy.",
-      "portraitImageId": "pp-image-art-anne-de-bourgh",
+      "portraitImageId": "pp-image-generated-character-anne-de-bourgh",
       "color": "#8a7c83",
       "tags": [],
       "isAlive": true,
@@ -833,7 +833,7 @@
       "name": "Mrs Jenkinson",
       "aliases": [],
       "description": "Anne de Bourgh’s attentive companion.",
-      "portraitImageId": "pp-image-art-jenkinson",
+      "portraitImageId": "pp-image-generated-character-jenkinson",
       "color": "#77716c",
       "tags": [],
       "isAlive": true,
@@ -847,7 +847,7 @@
       "name": "Sir William Lucas",
       "aliases": [],
       "description": "Courteous former mayor who delights in ceremony and social distinction.",
-      "portraitImageId": "pp-image-art-sir-william",
+      "portraitImageId": "pp-image-generated-character-sir-william",
       "color": "#8a744f",
       "tags": [],
       "isAlive": true,
@@ -861,7 +861,7 @@
       "name": "Lady Lucas",
       "aliases": [],
       "description": "Charlotte’s mother and Mrs Bennet’s neighbourly rival.",
-      "portraitImageId": "pp-image-art-lady-lucas",
+      "portraitImageId": "pp-image-generated-character-lady-lucas",
       "color": "#917360",
       "tags": [],
       "isAlive": true,
@@ -875,7 +875,7 @@
       "name": "Maria Lucas",
       "aliases": [],
       "description": "Charlotte’s younger sister and Elizabeth’s fellow traveller to Hunsford.",
-      "portraitImageId": "pp-image-art-maria",
+      "portraitImageId": "pp-image-generated-character-maria",
       "color": "#8d7f72",
       "tags": [],
       "isAlive": true,
@@ -889,7 +889,7 @@
       "name": "Mr Edward Gardiner",
       "aliases": [],
       "description": "Mrs Bennet’s sensible brother, a London merchant and responsible uncle.",
-      "portraitImageId": "pp-image-art-gardiner",
+      "portraitImageId": "pp-image-generated-character-gardiner",
       "color": "#65766c",
       "tags": [],
       "isAlive": true,
@@ -903,7 +903,7 @@
       "name": "Mrs Gardiner",
       "aliases": [],
       "description": "Elizabeth’s perceptive aunt, trusted confidante, and companion at Pemberley.",
-      "portraitImageId": "pp-image-art-mrs-gardiner",
+      "portraitImageId": "pp-image-generated-character-mrs-gardiner",
       "color": "#7e7770",
       "tags": [],
       "isAlive": true,
@@ -917,7 +917,7 @@
       "name": "Mr Philips",
       "aliases": [],
       "description": "Meryton attorney and Mrs Bennet’s brother-in-law.",
-      "portraitImageId": "pp-image-art-mr-philips",
+      "portraitImageId": "pp-image-generated-character-mr-philips",
       "color": "#6f7069",
       "tags": [],
       "isAlive": true,
@@ -931,7 +931,7 @@
       "name": "Mrs Philips",
       "aliases": [],
       "description": "Mrs Bennet’s gossip-loving sister in Meryton.",
-      "portraitImageId": "pp-image-art-mrs-philips",
+      "portraitImageId": "pp-image-generated-character-mrs-philips",
       "color": "#9a716d",
       "tags": [],
       "isAlive": true,
@@ -945,7 +945,7 @@
       "name": "Mr Denny",
       "aliases": [],
       "description": "Militia officer who introduces Wickham to the Bennet circle.",
-      "portraitImageId": "pp-image-art-denny",
+      "portraitImageId": "pp-image-generated-character-denny",
       "color": "#65717b",
       "tags": [],
       "isAlive": true,
@@ -959,7 +959,7 @@
       "name": "Colonel Forster",
       "aliases": [],
       "description": "Commander of the militia regiment and host responsible for Lydia in Brighton.",
-      "portraitImageId": "pp-image-art-forster",
+      "portraitImageId": "pp-image-generated-character-forster",
       "color": "#5f7181",
       "tags": [],
       "isAlive": true,
@@ -973,7 +973,7 @@
       "name": "Mrs Forster",
       "aliases": [],
       "description": "Young wife of Colonel Forster and Lydia’s friend, who invites her to Brighton.",
-      "portraitImageId": "pp-image-art-mrs-forster",
+      "portraitImageId": "pp-image-generated-character-mrs-forster",
       "color": "#a17f8a",
       "tags": [],
       "isAlive": true,
@@ -987,7 +987,7 @@
       "name": "Miss Mary King",
       "aliases": [],
       "description": "A young heiress briefly courted by Wickham.",
-      "portraitImageId": "pp-image-art-miss-king",
+      "portraitImageId": "pp-image-generated-character-miss-king",
       "color": "#8a7a65",
       "tags": [],
       "isAlive": true,
@@ -1001,7 +1001,7 @@
       "name": "Mrs Reynolds",
       "aliases": [],
       "description": "Pemberley housekeeper whose testimony challenges Elizabeth’s view of Darcy.",
-      "portraitImageId": "pp-image-art-mrs-reynolds",
+      "portraitImageId": "pp-image-generated-character-mrs-reynolds",
       "color": "#737b70",
       "tags": [],
       "isAlive": true,
@@ -1015,7 +1015,7 @@
       "name": "Mrs Younge",
       "aliases": [],
       "description": "Former Georgiana companion whose connection to Wickham helps Darcy locate Lydia.",
-      "portraitImageId": "pp-image-art-mrs-younge",
+      "portraitImageId": "pp-image-generated-character-mrs-younge",
       "color": "#6f646b",
       "tags": [],
       "isAlive": true,
@@ -1029,7 +1029,7 @@
       "name": "Mrs Hill",
       "aliases": [],
       "description": "Longbourn housekeeper who witnesses Lydia’s triumphal return.",
-      "portraitImageId": "pp-image-art-hill",
+      "portraitImageId": "pp-image-generated-character-hill",
       "color": "#776e65",
       "tags": [],
       "isAlive": true,
@@ -1045,7 +1045,7 @@
       "name": "Netherfield Lease News",
       "description": "The neighbourhood intelligence that a wealthy single man has taken Netherfield.",
       "iconType": "newspaper",
-      "imageId": "pp-image-art-netherfield",
+      "imageId": "pp-image-generated-item-netherfield-news",
       "tags": []
     },
     {
@@ -1056,7 +1056,7 @@
       "name": "Assembly Dance Card",
       "description": "The social record of partners, refusals, and public preference.",
       "iconType": "notebook",
-      "imageId": "pp-image-art-dance",
+      "imageId": "pp-image-generated-item-dance-card",
       "tags": []
     },
     {
@@ -1067,7 +1067,7 @@
       "name": "Jane’s Netherfield Letter",
       "description": "Jane’s note asking Elizabeth to come when illness confines her at Netherfield.",
       "iconType": "mail",
-      "imageId": "pp-image-art-letter",
+      "imageId": "pp-image-generated-item-jane-letter",
       "tags": []
     },
     {
@@ -1078,7 +1078,7 @@
       "name": "Caroline Bingley’s London Letter",
       "description": "The letter announcing the Netherfield party’s departure and implying Bingley’s future with Georgiana.",
       "iconType": "mail",
-      "imageId": "pp-image-art-letter",
+      "imageId": "pp-image-generated-item-caroline-letter",
       "tags": []
     },
     {
@@ -1089,7 +1089,7 @@
       "name": "Fordyce’s Sermons",
       "description": "Mr Collins’s chosen evening reading, rejected by Lydia.",
       "iconType": "book-open",
-      "imageId": "pp-image-art-sermons",
+      "imageId": "pp-image-generated-item-fordyce",
       "tags": []
     },
     {
@@ -1100,7 +1100,7 @@
       "name": "Netherfield Ball Invitation",
       "description": "The long-awaited invitation that brings every rivalry into one room.",
       "iconType": "mail",
-      "imageId": "pp-image-art-dance",
+      "imageId": "pp-image-generated-item-ball-invitation",
       "tags": []
     },
     {
@@ -1111,7 +1111,7 @@
       "name": "Darcy’s Hunsford Letter",
       "description": "Darcy’s written account of Bingley, Wickham, and Georgiana that overturns Elizabeth’s certainty.",
       "iconType": "mail",
-      "imageId": "pp-image-art-letter",
+      "imageId": "pp-image-generated-item-darcy-letter",
       "tags": []
     },
     {
@@ -1122,7 +1122,7 @@
       "name": "Gardiners’ Travelling Carriage",
       "description": "The vehicle carrying Elizabeth and her aunt and uncle through Derbyshire.",
       "iconType": "car",
-      "imageId": "pp-image-art-carriage",
+      "imageId": "pp-image-generated-item-gardiner-carriage",
       "tags": []
     },
     {
@@ -1133,7 +1133,7 @@
       "name": "Darcy’s Pemberley Portrait",
       "description": "The portrait before which Elizabeth considers Darcy in the context of home and responsibility.",
       "iconType": "image-frame",
-      "imageId": "pp-image-art-pemberley",
+      "imageId": "pp-image-generated-item-pemberley-portrait",
       "tags": []
     },
     {
@@ -1144,7 +1144,7 @@
       "name": "Georgiana’s Dinner Invitation",
       "description": "The invitation bringing Elizabeth into Darcy’s family circle.",
       "iconType": "mail",
-      "imageId": "pp-image-art-visiting",
+      "imageId": "pp-image-generated-item-georgiana-invitation",
       "tags": []
     },
     {
@@ -1155,7 +1155,7 @@
       "name": "Jane’s Elopement Letters",
       "description": "Two delayed letters revealing Lydia’s flight with Wickham.",
       "iconType": "mail-warning",
-      "imageId": "pp-image-art-letter",
+      "imageId": "pp-image-generated-item-jane-elopement-letters",
       "tags": []
     },
     {
@@ -1166,7 +1166,7 @@
       "name": "Lydia’s Note to Mrs Forster",
       "description": "A careless farewell note treating elopement as a joke.",
       "iconType": "mail-warning",
-      "imageId": "pp-image-art-letter",
+      "imageId": "pp-image-generated-item-lydia-note",
       "tags": []
     },
     {
@@ -1177,7 +1177,7 @@
       "name": "Mr Gardiner’s Express",
       "description": "The message announcing that Lydia and Wickham have been found and can marry.",
       "iconType": "send",
-      "imageId": "pp-image-art-letter",
+      "imageId": "pp-image-generated-item-gardiner-express",
       "tags": []
     },
     {
@@ -1188,7 +1188,7 @@
       "name": "Wickham Marriage Settlement",
       "description": "The financial arrangement presented as Mr Gardiner’s work but secretly funded by Darcy.",
       "iconType": "file",
-      "imageId": "pp-image-art-reconciliation",
+      "imageId": "pp-image-generated-item-settlement",
       "tags": []
     },
     {
@@ -1199,7 +1199,7 @@
       "name": "Lydia’s Wedding Ring",
       "description": "The visible proof Lydia displays without shame at Longbourn.",
       "iconType": "circle",
-      "imageId": "pp-image-art-ring",
+      "imageId": "pp-image-generated-item-wedding-ring",
       "tags": []
     },
     {
@@ -1210,7 +1210,7 @@
       "name": "Mrs Gardiner’s Explanatory Letter",
       "description": "The account revealing Darcy’s search, payment, and presence at Lydia’s wedding.",
       "iconType": "mail",
-      "imageId": "pp-image-art-reconciliation",
+      "imageId": "pp-image-generated-item-aunt-letter",
       "tags": []
     },
     {
@@ -1221,7 +1221,7 @@
       "name": "Mr Collins’s Warning Letter",
       "description": "A letter from Mr Collins predicting disgrace for the Bennet family.",
       "iconType": "mail-warning",
-      "imageId": "pp-image-art-letter",
+      "imageId": "pp-image-generated-item-collins-letter",
       "tags": []
     }
   ],
@@ -12508,13 +12508,6 @@
   ],
   "blobs": [
     {
-      "id": "pp-image-cover",
-      "worldId": "pride-prejudice-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/AUSTEN(1894)%20Pride%20and%20prejudice%20(15811958311).jpg?width=960",
-      "createdAt": 1785672000000
-    },
-    {
       "id": "pp-image-map-england",
       "worldId": "pride-prejudice-world",
       "mimeType": "image/png",
@@ -12553,323 +12546,616 @@
       "id": "pp-image-map-sussex",
       "worldId": "pride-prejudice-world",
       "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sussex%20UK%20location%20map.svg?width=1280",
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/East%20Sussex%20UK%20location%20map.svg?width=1280",
       "createdAt": 1785672000000
     },
     {
-      "id": "pp-image-art-elizabeth",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Elisabeth%20Bennet%20(d%C3%A9tail).jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/cover.jpg"
     },
     {
-      "id": "pp-image-art-darcy",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-elizabeth",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thompson-Darcy.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/elizabeth.jpg"
     },
     {
-      "id": "pp-image-art-wickham",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-darcy",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thompson-PP-Wickham.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/darcy.jpg"
     },
     {
-      "id": "pp-image-art-mrs-bennet",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-jane",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mrs%20Bennet.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/jane.jpg"
     },
     {
-      "id": "pp-image-art-lady-catherine",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-bingley",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lady%20Catherine%20de%20Bourg.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/bingley.jpg"
     },
     {
-      "id": "pp-image-art-lydia",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-bennet",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lydia%20showing%20her%20ring%20CH51.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/bennet.jpg"
     },
     {
-      "id": "pp-image-art-jane",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mrs-bennet",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bingley%26Jane%20CH%2055.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mrs-bennet.jpg"
     },
     {
-      "id": "pp-image-art-collins",
       "worldId": "pride-prejudice-world",
-      "mimeType": "image/gif",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mr%20Collins%20didn't%20read%20novels.gif?width=720",
-      "createdAt": 1785672000000
-    },
-    {
-      "id": "pp-image-art-caroline",
-      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mary",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P10-Miss%20Bingley.JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mary.jpg"
     },
     {
-      "id": "pp-image-art-bennet",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-kitty",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP01.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/kitty.jpg"
     },
     {
-      "id": "pp-image-art-mary",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-lydia",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP02.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/lydia.jpg"
     },
     {
-      "id": "pp-image-art-kitty",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-wickham",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP03.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/wickham.jpg"
     },
     {
-      "id": "pp-image-art-bingley",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-collins",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP04.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/collins.jpg"
     },
     {
-      "id": "pp-image-art-charlotte",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-charlotte",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP05.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/charlotte.jpg"
     },
     {
-      "id": "pp-image-art-sir-william",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-caroline",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP06.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/caroline.jpg"
     },
     {
-      "id": "pp-image-art-lady-lucas",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mrs-hurst",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP07.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mrs-hurst.jpg"
     },
     {
-      "id": "pp-image-art-maria",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mr-hurst",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP08.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mr-hurst.jpg"
     },
     {
-      "id": "pp-image-art-gardiner",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-georgiana",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP09.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/georgiana.jpg"
     },
     {
-      "id": "pp-image-art-mrs-gardiner",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-colonel-fitzwilliam",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP10.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/colonel-fitzwilliam.jpg"
     },
     {
-      "id": "pp-image-art-georgiana",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-lady-catherine",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP11.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/lady-catherine.jpg"
     },
     {
-      "id": "pp-image-art-colonel-fitzwilliam",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-anne-de-bourgh",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP12.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/anne-de-bourgh.jpg"
     },
     {
-      "id": "pp-image-art-mr-philips",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-jenkinson",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP13.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/jenkinson.jpg"
     },
     {
-      "id": "pp-image-art-mrs-philips",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-sir-william",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P-Mrs%20Bennet%20et%20Philips.JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/sir-william.jpg"
     },
     {
-      "id": "pp-image-art-denny",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-lady-lucas",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP14.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/lady-lucas.jpg"
     },
     {
-      "id": "pp-image-art-forster",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-maria",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP15.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/maria.jpg"
     },
     {
-      "id": "pp-image-art-mrs-forster",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-gardiner",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP16.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/gardiner.jpg"
     },
     {
-      "id": "pp-image-art-mr-hurst",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mrs-gardiner",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP17.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mrs-gardiner.jpg"
     },
     {
-      "id": "pp-image-art-mrs-hurst",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mr-philips",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP18.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mr-philips.jpg"
     },
     {
-      "id": "pp-image-art-miss-king",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mrs-philips",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP19.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mrs-philips.jpg"
     },
     {
-      "id": "pp-image-art-mrs-reynolds",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-denny",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP20.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/denny.jpg"
     },
     {
-      "id": "pp-image-art-mrs-younge",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-forster",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP21.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/forster.jpg"
     },
     {
-      "id": "pp-image-art-anne-de-bourgh",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mrs-forster",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP22.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mrs-forster.jpg"
     },
     {
-      "id": "pp-image-art-jenkinson",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-miss-king",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P%20ch%2028.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/miss-king.jpg"
     },
     {
-      "id": "pp-image-art-hill",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mrs-reynolds",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-PP-Ch51.JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mrs-reynolds.jpg"
     },
     {
-      "id": "pp-image-art-peacock",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-mrs-younge",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Thomson-P%26P-Incipit.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/mrs-younge.jpg"
     },
     {
-      "id": "pp-image-art-proposal",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-character-hill",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P34-D%C3%A9claration%20de%20Darcy%20(BrockNB).JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/characters/hill.jpg"
     },
     {
-      "id": "pp-image-art-letter",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-netherfield-news",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P35-la%20lettre.JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/netherfield-news.jpg"
     },
     {
-      "id": "pp-image-art-pemberley",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-dance-card",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P43-Devant%20le%20portrait%20de%20Darcy%20(BrockNB).JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/dance-card.jpg"
     },
     {
-      "id": "pp-image-art-ring",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-jane-letter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lydia%20showing%20her%20ring%20CH51.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/jane-letter.jpg"
     },
     {
-      "id": "pp-image-art-dance",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-caroline-letter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/PrideandPrejudiceCH3.jpg?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/caroline-letter.jpg"
     },
     {
-      "id": "pp-image-art-netherfield",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-fordyce",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P10-Netherfield%20(NB).JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/fordyce.jpg"
     },
     {
-      "id": "pp-image-art-sermons",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-ball-invitation",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P14-Collins%20lit%20Fordice.JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/ball-invitation.jpg"
     },
     {
-      "id": "pp-image-art-carriage",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-darcy-letter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P27%20(a%20troop%20of%20boys%20%26%20girls).JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/darcy-letter.jpg"
     },
     {
-      "id": "pp-image-art-visiting",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-gardiner-carriage",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P44-Visiting%20Lambton.JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/gardiner-carriage.jpg"
     },
     {
-      "id": "pp-image-art-reconciliation",
       "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-pemberley-portrait",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P%26P52-Do%20not%20let%20us%20quarrel%20about%20the%20past.JPG?width=720",
-      "createdAt": 1785672000000
+      "url": "library/pride-and-prejudice/art/generated/items/pemberley-portrait.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-georgiana-invitation",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/items/georgiana-invitation.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-jane-elopement-letters",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/items/jane-elopement-letters.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-lydia-note",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/items/lydia-note.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-gardiner-express",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/items/gardiner-express.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-settlement",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/items/settlement.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-wedding-ring",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/items/wedding-ring.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-aunt-letter",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/items/aunt-letter.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-item-collins-letter",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/items/collins-letter.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-hertfordshire-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/hertfordshire-portal.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-london-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/london-portal.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-kent-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/kent-portal.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-derbyshire-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/derbyshire-portal.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-brighton-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/brighton-portal.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-newcastle",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/newcastle.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-longbourn",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/longbourn.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-meryton",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/meryton.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-assembly",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/assembly.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-netherfield",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/netherfield.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-lucas-lodge",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/lucas-lodge.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-philips-house",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/philips-house.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-oakham-mount",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/oakham-mount.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-gardiner-house",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/gardiner-house.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-darcy-london",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/darcy-london.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-wickham-lodgings",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/wickham-lodgings.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-hunsford",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/hunsford.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-rosings",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/rosings.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-rosings-grove",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/rosings-grove.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-pemberley",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/pemberley.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-lambton",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/lambton.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-lambton-inn",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/lambton-inn.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-brighton-camp",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/brighton-camp.jpg"
+    },
+    {
+      "worldId": "pride-prejudice-world",
+      "createdAt": 1785672000000,
+      "updatedAt": 1785672000000,
+      "id": "pp-image-generated-location-brighton-town",
+      "mimeType": "image/jpeg",
+      "url": "library/pride-and-prejudice/art/generated/locations/brighton-town.jpg"
     }
   ],
   "travelModes": [],
@@ -12993,7 +13279,7 @@
       "title": "The Longbourn Entail",
       "body": "Longbourn is entailed in the male line to Mr Collins. Mrs Bennet’s anxiety is comic in expression but grounded in the real insecurity facing five daughters with limited fortunes.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-location-longbourn",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-21"
     },
@@ -13006,7 +13292,7 @@
       "title": "Marriage Settlements and Income",
       "body": "Annual income, dowries, debts, property, and settlements define what characters call prudence, advantage, or rescue. The novel never reduces marriage to money, but never permits money to disappear from it.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-item-settlement",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-1"
     },
@@ -13019,7 +13305,7 @@
       "title": "Balls and Dancing",
       "body": "Assemblies and private balls make preference public. A second dance signals attention; a refusal can humiliate; a partner forces conversation within a strict social form.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-item-dance-card",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-3"
     },
@@ -13032,7 +13318,7 @@
       "title": "Elopement and Reputation",
       "body": "Lydia’s unmarried flight with Wickham threatens not only her position but the marriage prospects of every Bennet sister. The settlement contains the scandal without reforming the couple.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-item-wedding-ring",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-79"
     },
@@ -13045,7 +13331,7 @@
       "title": "The Meryton Militia",
       "body": "The regiment supplies Meryton with uniforms, gossip, and mobile young men. It also gives Wickham borrowed prestige and leads Lydia from local flirtation to Brighton.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-location-brighton-camp",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-60"
     },
@@ -13058,7 +13344,7 @@
       "title": "Trade, Land, and Gentility",
       "body": "The Gardiners’ trade connections expose Darcy’s early snobbery, yet their conduct repeatedly exceeds that of wealthier characters. Pemberley ultimately welcomes character rather than pedigree.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-character-gardiner",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-68"
     },
@@ -13071,7 +13357,7 @@
       "title": "Darcy and Wickham’s History",
       "body": "Darcy’s letter explains Wickham’s exchanged living, debts, and attempted elopement with Georgiana. Later conduct and independent testimony confirm the account.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-character-wickham",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-53"
     },
@@ -13084,7 +13370,7 @@
       "title": "The Hunsford Letter",
       "body": "Darcy’s letter is the novel’s epistemic hinge: a private document that requires Elizabeth to reread both the page and herself.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-item-darcy-letter",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-53"
     },
@@ -13097,7 +13383,7 @@
       "title": "Pemberley as Testimony",
       "body": "The estate, Mrs Reynolds, Georgiana, and Darcy’s hospitality reveal responsibility through a network of conduct rather than a single self-defence.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-location-pemberley",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-64"
     },
@@ -13110,7 +13396,7 @@
       "title": "Editorial Calendar",
       "body": "The event dates form a coherent reading calendar anchored broadly to the novel’s autumn-to-autumn sequence. Exact days are an editorial reconstruction where Austen supplies only relative time.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-1"
     },
@@ -13123,7 +13409,7 @@
       "title": "Fictional Geography",
       "body": "Longbourn, Meryton, Netherfield, Rosings, and Pemberley are fictional. Their markers preserve narrative relationships on historical or regional maps rather than claiming canonical coordinates.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-map-england",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-1"
     },
@@ -13134,9 +13420,9 @@
       "id": "pp-lore-12",
       "categoryId": "pp-lore-category-sources",
       "title": "Text, Illustration, and Map Sources",
-      "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #1342, divided across all 61 chapters and modeled events. Gutenberg packaging, the illustrated edition’s front matter, chapter headings, and closing colophon are excluded. Maps and illustrations are documented separately in this page.",
+      "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #1342, divided across all 61 chapters and modeled events. Gutenberg packaging, the illustrated edition’s front matter, chapter headings, and closing colophon are excluded. Maps and illustrations are documented separately in this page. The cover, character portraits, item plates, and location scenes are original generated illustrations created for the Kathala Library edition in a coherent Regency style. The six linked historical and editorial maps remain available as spatial aids. Superseded external non-map illustration blobs have been removed from the world package; their complete prior blob records are retained with the edition’s integration documentation.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "pp-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "pp-event-1"
     }

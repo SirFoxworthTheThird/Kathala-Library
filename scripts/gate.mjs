@@ -27,7 +27,11 @@ const update = process.argv.includes('--update')
 
 function run() {
   try {
-    execFileSync('npx', ['vitest', 'run', '--reporter=json', `--outputFile=${REPORT}`], {
+    const command = process.platform === 'win32' ? process.execPath : 'npx'
+    const args = process.platform === 'win32'
+      ? ['node_modules/vitest/vitest.mjs', 'run', '--reporter=json', `--outputFile=${REPORT}`]
+      : ['vitest', 'run', '--reporter=json', `--outputFile=${REPORT}`]
+    execFileSync(command, args, {
       stdio: ['ignore', 'ignore', 'inherit'],
     })
   } catch {
