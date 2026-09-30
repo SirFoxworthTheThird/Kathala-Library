@@ -1,0 +1,5 @@
+# Jekyll and Hyde generated-art prompt record
+
+All 58 assets use separate, subject-specific prompts. Shared direction: naturalistic late-Victorian oil-painted realism; restrained 1880s book-illustration texture; London fog, gaslight, mahogany, soot, brick, and muted burgundy/green-gold accents; historically plausible clothing, interiors, documents, police work, laboratories, and domestic service; psychologically precise rather than sensational; no readable text, logos, signatures, or watermarks.
+
+Character prompts distinguish age, profession, class, posture, grooming, and temperament. Jekyll and Hyde remain recognizably one embodied person without a split-face device: Jekyll is a large, cultivated man of about fifty; Hyde is smaller, younger, physically compressed, and morally alarming without deformity or supernatural monster features. Item prompts depict specific Victorian documents, chemicals, furniture, and evidence as still-life plates. Location prompts preserve a coherent geography from respectable professional London through Soho to Jekyll's connected house, courtyard, theatre, and private cabinet.
