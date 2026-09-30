@@ -7,7 +7,7 @@
     "id": "jekyll-hyde-world",
     "name": "Strange Case of Dr Jekyll and Mr Hyde",
     "description": "A London lawyer investigates the disturbing connection between his respected friend Dr Henry Jekyll and the violent Edward Hyde. Wills, locked doors, handwriting, chemical experiments, and delayed confessions reveal that the hunted criminal and the endangered doctor are two identities struggling within one body.",
-    "coverImageId": "jekyll-hyde-image-cover",
+    "coverImageId": "jekyll-hyde-image-generated-cover",
     "theme": "theme-horror",
     "createdAt": 1785528000000,
     "updatedAt": 1785528000000,
@@ -153,7 +153,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-utterson"
+      "imageId": "jekyll-hyde-image-generated-location-utterson-office"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -169,7 +169,7 @@
       "iconType": "home",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-enfield"
+      "imageId": "jekyll-hyde-image-generated-location-utterson-home"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -185,7 +185,7 @@
       "iconType": "home",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-lanyon"
+      "imageId": "jekyll-hyde-image-generated-location-lanyon-house"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -201,7 +201,7 @@
       "iconType": "danger",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-carew"
+      "imageId": "jekyll-hyde-image-generated-location-carew-site"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -217,7 +217,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-newcomen"
+      "imageId": "jekyll-hyde-image-generated-location-police-station"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -233,7 +233,7 @@
       "iconType": "region",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-hyde"
+      "imageId": "jekyll-hyde-image-generated-location-soho-portal"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -249,7 +249,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-jekyll"
+      "imageId": "jekyll-hyde-image-generated-location-jekyll-portal"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -265,7 +265,7 @@
       "iconType": "home",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-housekeeper"
+      "imageId": "jekyll-hyde-image-generated-location-hyde-house"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -281,7 +281,7 @@
       "iconType": "door",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-hyde"
+      "imageId": "jekyll-hyde-image-generated-location-back-door"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -297,7 +297,7 @@
       "iconType": "danger",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-girl"
+      "imageId": "jekyll-hyde-image-generated-location-trampling-corner"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -313,7 +313,7 @@
       "iconType": "shop",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-father"
+      "imageId": "jekyll-hyde-image-generated-location-all-night-shop"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -329,7 +329,7 @@
       "iconType": "street",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-newcomen"
+      "imageId": "jekyll-hyde-image-generated-location-soho-street"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -345,7 +345,7 @@
       "iconType": "door",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-doctor"
+      "imageId": "jekyll-hyde-image-generated-location-front-hall"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -361,7 +361,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-doctor"
+      "imageId": "jekyll-hyde-image-generated-location-dining-room"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -377,7 +377,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-guest"
+      "imageId": "jekyll-hyde-image-generated-location-drawing-room"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -393,7 +393,7 @@
       "iconType": "courtyard",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-poole"
+      "imageId": "jekyll-hyde-image-generated-location-courtyard"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -409,7 +409,7 @@
       "iconType": "window",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-jekyll"
+      "imageId": "jekyll-hyde-image-generated-location-window"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -425,7 +425,7 @@
       "iconType": "laboratory",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-poole"
+      "imageId": "jekyll-hyde-image-generated-location-lab-portal"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -441,7 +441,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-bradshaw"
+      "imageId": "jekyll-hyde-image-generated-location-theatre"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -457,7 +457,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-jekyll"
+      "imageId": "jekyll-hyde-image-generated-location-cabinet"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -473,7 +473,7 @@
       "iconType": "laboratory",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-lanyon"
+      "imageId": "jekyll-hyde-image-generated-location-chemical-table"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -489,7 +489,7 @@
       "iconType": "container",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-maid"
+      "imageId": "jekyll-hyde-image-generated-location-drawer-cupboard"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -505,7 +505,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-guest"
+      "imageId": "jekyll-hyde-image-generated-location-fireplace"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -521,7 +521,7 @@
       "iconType": "door",
       "tags": [],
       "factionId": null,
-      "imageId": "jekyll-hyde-image-char-poole"
+      "imageId": "jekyll-hyde-image-generated-location-cabinet-door"
     }
   ],
   "characters": [
@@ -535,7 +535,7 @@
         "Mr Utterson"
       ],
       "description": "A reserved London lawyer whose loyalty and methodical curiosity uncover the truth.",
-      "portraitImageId": "jekyll-hyde-image-char-utterson",
+      "portraitImageId": "jekyll-hyde-image-generated-character-utterson",
       "color": "#8d775c",
       "tags": [
         "lawyer",
@@ -552,7 +552,7 @@
       "name": "Dr Henry Jekyll",
       "aliases": [],
       "description": "A respected physician who seeks to divide his moral nature by chemical means.",
-      "portraitImageId": "jekyll-hyde-image-char-jekyll",
+      "portraitImageId": "jekyll-hyde-image-generated-character-jekyll",
       "color": "#8b6f77",
       "tags": [
         "physician",
@@ -571,7 +571,7 @@
         "Mr Hyde"
       ],
       "description": "Jekyll’s liberated secondary identity: smaller, younger, violent, and free of social conscience.",
-      "portraitImageId": "jekyll-hyde-image-char-hyde",
+      "portraitImageId": "jekyll-hyde-image-generated-character-hyde",
       "color": "#4b5845",
       "tags": [
         "double",
@@ -590,7 +590,7 @@
         "Mr Enfield"
       ],
       "description": "Utterson’s distant kinsman and Sunday walking companion, whose story begins the inquiry.",
-      "portraitImageId": "jekyll-hyde-image-char-enfield",
+      "portraitImageId": "jekyll-hyde-image-generated-character-enfield",
       "color": "#7f8d91",
       "tags": [
         "witness"
@@ -608,7 +608,7 @@
         "Dr Lanyon"
       ],
       "description": "A conventional physician and old friend of Jekyll whose certainty collapses after witnessing the transformation.",
-      "portraitImageId": "jekyll-hyde-image-char-lanyon",
+      "portraitImageId": "jekyll-hyde-image-generated-character-lanyon",
       "color": "#9c805e",
       "tags": [
         "physician",
@@ -625,7 +625,7 @@
       "name": "Poole",
       "aliases": [],
       "description": "Jekyll’s loyal butler, driven to seek Utterson when the cabinet becomes terrifying.",
-      "portraitImageId": "jekyll-hyde-image-char-poole",
+      "portraitImageId": "jekyll-hyde-image-generated-character-poole",
       "color": "#766b63",
       "tags": [
         "servant",
@@ -642,7 +642,7 @@
       "name": "Sir Danvers Carew",
       "aliases": [],
       "description": "An elderly and gracious Member of Parliament murdered by Hyde.",
-      "portraitImageId": "jekyll-hyde-image-char-carew",
+      "portraitImageId": "jekyll-hyde-image-generated-character-carew",
       "color": "#b39b76",
       "tags": [
         "victim",
@@ -659,7 +659,7 @@
       "name": "Inspector Newcomen",
       "aliases": [],
       "description": "The Scotland Yard inspector who follows Hyde’s financial and domestic trail.",
-      "portraitImageId": "jekyll-hyde-image-char-newcomen",
+      "portraitImageId": "jekyll-hyde-image-generated-character-newcomen",
       "color": "#5f7382",
       "tags": [
         "police",
@@ -676,7 +676,7 @@
       "name": "Mr Guest",
       "aliases": [],
       "description": "Utterson’s head clerk and an expert reader of handwriting.",
-      "portraitImageId": "jekyll-hyde-image-char-guest",
+      "portraitImageId": "jekyll-hyde-image-generated-character-guest",
       "color": "#8e755f",
       "tags": [
         "clerk",
@@ -693,7 +693,7 @@
       "name": "The Maid Witness",
       "aliases": [],
       "description": "A romantic-minded servant who sees Hyde murder Carew from an upper window.",
-      "portraitImageId": "jekyll-hyde-image-char-maid",
+      "portraitImageId": "jekyll-hyde-image-generated-character-maid",
       "color": "#88757d",
       "tags": [
         "witness"
@@ -709,7 +709,7 @@
       "name": "Hyde’s Housekeeper",
       "aliases": [],
       "description": "The elderly woman who receives Utterson and Newcomen at Hyde’s Soho rooms.",
-      "portraitImageId": "jekyll-hyde-image-char-housekeeper",
+      "portraitImageId": "jekyll-hyde-image-generated-character-housekeeper",
       "color": "#857363",
       "tags": [
         "servant",
@@ -726,7 +726,7 @@
       "name": "The Little Girl",
       "aliases": [],
       "description": "The child trampled by Hyde in Enfield’s account.",
-      "portraitImageId": "jekyll-hyde-image-char-girl",
+      "portraitImageId": "jekyll-hyde-image-generated-character-girl",
       "color": "#a58b78",
       "tags": [
         "victim"
@@ -742,7 +742,7 @@
       "name": "The Girl’s Father",
       "aliases": [],
       "description": "A member of the family who helps confront Hyde and secure compensation.",
-      "portraitImageId": "jekyll-hyde-image-char-father",
+      "portraitImageId": "jekyll-hyde-image-generated-character-father",
       "color": "#7d6a55",
       "tags": [
         "family"
@@ -758,7 +758,7 @@
       "name": "The Family Doctor",
       "aliases": [],
       "description": "An apothecary-like doctor whose loathing of Hyde strengthens the confrontation.",
-      "portraitImageId": "jekyll-hyde-image-char-doctor",
+      "portraitImageId": "jekyll-hyde-image-generated-character-doctor",
       "color": "#78846f",
       "tags": [
         "physician",
@@ -775,7 +775,7 @@
       "name": "Bradshaw",
       "aliases": [],
       "description": "A trusted member of Jekyll’s household who guards the laboratory’s other exit.",
-      "portraitImageId": "jekyll-hyde-image-char-bradshaw",
+      "portraitImageId": "jekyll-hyde-image-generated-character-bradshaw",
       "color": "#6d665f",
       "tags": [
         "servant"
@@ -793,7 +793,7 @@
       "name": "Jekyll’s Will",
       "description": "A disturbing will leaving Jekyll’s estate to Hyde after death or unexplained absence.",
       "iconType": "file",
-      "imageId": "jekyll-hyde-image-item-will",
+      "imageId": "jekyll-hyde-image-generated-item-will",
       "tags": []
     },
     {
@@ -804,7 +804,7 @@
       "name": "Key to the Laboratory Door",
       "description": "Hyde’s proof of authorized access to Jekyll’s private premises.",
       "iconType": "key",
-      "imageId": "jekyll-hyde-image-item-door-key",
+      "imageId": "jekyll-hyde-image-generated-item-door-key",
       "tags": []
     },
     {
@@ -815,7 +815,7 @@
       "name": "The Compensation Cheque",
       "description": "A cheque signed by Jekyll and used by Hyde to settle the trampling scandal.",
       "iconType": "document",
-      "imageId": "jekyll-hyde-image-item-cheque",
+      "imageId": "jekyll-hyde-image-generated-item-cheque",
       "tags": []
     },
     {
@@ -826,7 +826,7 @@
       "name": "Broken Walking Cane",
       "description": "The heavy cane Jekyll once gave Utterson, broken during Carew’s murder.",
       "iconType": "weapon",
-      "imageId": "jekyll-hyde-image-item-cane",
+      "imageId": "jekyll-hyde-image-generated-item-cane",
       "tags": []
     },
     {
@@ -837,7 +837,7 @@
       "name": "Carew’s Letter",
       "description": "The addressed letter found on Carew’s body that brings police to Utterson.",
       "iconType": "envelope",
-      "imageId": "jekyll-hyde-image-item-carew-letter",
+      "imageId": "jekyll-hyde-image-generated-item-carew-letter",
       "tags": []
     },
     {
@@ -848,7 +848,7 @@
       "name": "Hyde’s Bank Account",
       "description": "The financial trail police watch in hope that Hyde will return for money.",
       "iconType": "document",
-      "imageId": "jekyll-hyde-image-item-bank-ledger",
+      "imageId": "jekyll-hyde-image-generated-item-bank-ledger",
       "tags": []
     },
     {
@@ -859,7 +859,7 @@
       "name": "Hyde’s Farewell Letter",
       "description": "A letter presented by Jekyll as proof that Hyde has escaped and released him.",
       "iconType": "envelope",
-      "imageId": "jekyll-hyde-image-item-hyde-letter",
+      "imageId": "jekyll-hyde-image-generated-item-hyde-letter",
       "tags": []
     },
     {
@@ -870,7 +870,7 @@
       "name": "Guest’s Handwriting Comparison",
       "description": "The comparison showing that Hyde’s and Jekyll’s hands differ mainly in slope.",
       "iconType": "document",
-      "imageId": "jekyll-hyde-image-item-handwriting-note",
+      "imageId": "jekyll-hyde-image-generated-item-handwriting-note",
       "tags": []
     },
     {
@@ -881,7 +881,7 @@
       "name": "Lanyon’s Sealed Letter",
       "description": "A packet for Utterson, not to be opened until Jekyll’s death or disappearance.",
       "iconType": "envelope",
-      "imageId": "jekyll-hyde-image-item-lanyon-letter",
+      "imageId": "jekyll-hyde-image-generated-item-lanyon-letter",
       "tags": []
     },
     {
@@ -892,7 +892,7 @@
       "name": "Jekyll’s Instructions to Lanyon",
       "description": "The urgent registered letter directing Lanyon to retrieve the laboratory drawer and await a midnight visitor.",
       "iconType": "envelope",
-      "imageId": "jekyll-hyde-image-item-jekyll-instructions",
+      "imageId": "jekyll-hyde-image-generated-item-jekyll-instructions",
       "tags": []
     },
     {
@@ -903,7 +903,7 @@
       "name": "Laboratory Drawer",
       "description": "The drawer containing powders, a phial, and Jekyll’s experimental records.",
       "iconType": "container",
-      "imageId": "jekyll-hyde-image-item-drawer",
+      "imageId": "jekyll-hyde-image-generated-item-drawer",
       "tags": []
     },
     {
@@ -914,7 +914,7 @@
       "name": "White Powders",
       "description": "Measured packets required to prepare the transforming draught.",
       "iconType": "chemical",
-      "imageId": "jekyll-hyde-image-item-powders",
+      "imageId": "jekyll-hyde-image-generated-item-powders",
       "tags": []
     },
     {
@@ -925,7 +925,7 @@
       "name": "Red Tincture",
       "description": "A blood-red liquid that changes colour when mixed with the powders.",
       "iconType": "chemical",
-      "imageId": "jekyll-hyde-image-item-tincture",
+      "imageId": "jekyll-hyde-image-generated-item-tincture",
       "tags": []
     },
     {
@@ -936,7 +936,7 @@
       "name": "The Transforming Salt",
       "description": "A chemical salt whose original impurity proves essential to the reaction.",
       "iconType": "chemical",
-      "imageId": "jekyll-hyde-image-item-salt",
+      "imageId": "jekyll-hyde-image-generated-item-salt",
       "tags": []
     },
     {
@@ -947,7 +947,7 @@
       "name": "The Transforming Draught",
       "description": "The unstable mixture that changes Jekyll into Hyde and, for a time, back again.",
       "iconType": "chemical",
-      "imageId": "jekyll-hyde-image-item-draught",
+      "imageId": "jekyll-hyde-image-generated-item-draught",
       "tags": []
     },
     {
@@ -958,7 +958,7 @@
       "name": "Dr Lanyon’s Narrative",
       "description": "Lanyon’s written testimony describing Hyde’s transformation into Jekyll.",
       "iconType": "book",
-      "imageId": "jekyll-hyde-image-item-lanyon-narrative",
+      "imageId": "jekyll-hyde-image-generated-item-lanyon-narrative",
       "tags": []
     },
     {
@@ -969,7 +969,7 @@
       "name": "Henry Jekyll’s Full Statement",
       "description": "Jekyll’s confession of the experiment, the double life, and the final chemical failure.",
       "iconType": "book",
-      "imageId": "jekyll-hyde-image-item-jekyll-statement",
+      "imageId": "jekyll-hyde-image-generated-item-jekyll-statement",
       "tags": []
     },
     {
@@ -980,7 +980,7 @@
       "name": "Hyde’s Poison",
       "description": "The substance used by Hyde in the locked cabinet before the door is forced.",
       "iconType": "chemical",
-      "imageId": "jekyll-hyde-image-item-poison",
+      "imageId": "jekyll-hyde-image-generated-item-poison",
       "tags": []
     }
   ],
@@ -5250,13 +5250,6 @@
   ],
   "blobs": [
     {
-      "id": "jekyll-hyde-image-cover",
-      "worldId": "jekyll-hyde-world",
-      "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dr._Jekyll_and_Mr._Hyde_LCCN2014635954.jpg/960px-Dr._Jekyll_and_Mr._Hyde_LCCN2014635954.jpg",
-      "createdAt": 1785528000000
-    },
-    {
       "id": "jekyll-hyde-image-map-london",
       "worldId": "jekyll-hyde-world",
       "mimeType": "image/jpeg",
@@ -5285,235 +5278,468 @@
       "createdAt": 1785528000000
     },
     {
-      "id": "jekyll-hyde-image-char-utterson",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jekyll.and.Hyde.Ch1.Drawing1.jpg/500px-Jekyll.and.Hyde.Ch1.Drawing1.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/cover.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-jekyll",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-utterson",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jekyll.and.Hyde.Ch10.Drawing1.jpg/500px-Jekyll.and.Hyde.Ch10.Drawing1.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/utterson.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-hyde",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-jekyll",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jekyll.and.Hyde.Ch1.Drawing3.jpg/500px-Jekyll.and.Hyde.Ch1.Drawing3.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/jekyll.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-enfield",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-hyde",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jekyll.and.Hyde.Ch2.Drawing2.jpg/500px-Jekyll.and.Hyde.Ch2.Drawing2.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/hyde.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-lanyon",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-enfield",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Jekyll.and.Hyde.Ch9.Drawing1.jpg/500px-Jekyll.and.Hyde.Ch9.Drawing1.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/enfield.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-poole",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-lanyon",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Jekyll.and.Hyde.Ch8.Drawing1.jpg/500px-Jekyll.and.Hyde.Ch8.Drawing1.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/lanyon.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-carew",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-poole",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jekyll.and.Hyde.Ch4.Drawing1.jpg/500px-Jekyll.and.Hyde.Ch4.Drawing1.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/poole.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-newcomen",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-carew",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jekyll.and.Hyde.Ch4.Drawing2.jpg/500px-Jekyll.and.Hyde.Ch4.Drawing2.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/carew.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-guest",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-newcomen",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jekyll.and.Hyde.Ch5.Drawing2.jpg/500px-Jekyll.and.Hyde.Ch5.Drawing2.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/newcomen.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-maid",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-guest",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jekyll.and.Hyde.Ch5.Drawing1.jpg/500px-Jekyll.and.Hyde.Ch5.Drawing1.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/guest.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-housekeeper",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-maid",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Jekyll.and.Hyde.Ch8.Drawing3.jpg/500px-Jekyll.and.Hyde.Ch8.Drawing3.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/maid.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-girl",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-housekeeper",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jekyll.and.Hyde.Ch1.Drawing2.JPG/500px-Jekyll.and.Hyde.Ch1.Drawing2.JPG",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/housekeeper.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-father",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-girl",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Jekyll.and.Hyde.Ch2.Drawing1.jpg/500px-Jekyll.and.Hyde.Ch2.Drawing1.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/girl.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-doctor",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-father",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jekyll.and.Hyde.Ch3.Drawing1.jpg/500px-Jekyll.and.Hyde.Ch3.Drawing1.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/father.jpg"
     },
     {
-      "id": "jekyll-hyde-image-char-bradshaw",
       "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-doctor",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jekyll.and.Hyde.Ch8.Drawing2.jpg/500px-Jekyll.and.Hyde.Ch8.Drawing2.jpg",
-      "createdAt": 1785528000000
+      "url": "library/jekyll-hyde/art/generated/characters/doctor.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-will",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/page-facing-up.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-character-bradshaw",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/characters/bradshaw.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-door-key",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/old-key.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-will",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/will.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-cheque",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/pound-banknote.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-door-key",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/door-key.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-cane",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/magic-wand.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-cheque",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/cheque.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-carew-letter",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/love-letter.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-cane",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/cane.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-bank-ledger",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/ledger.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-carew-letter",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/carew-letter.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-hyde-letter",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/envelope-with-arrow.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-bank-ledger",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/bank-ledger.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-handwriting-note",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/memo.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-hyde-letter",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/hyde-letter.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-lanyon-letter",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/closed-mailbox-with-raised-flag.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-handwriting-note",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/handwriting-note.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-jekyll-instructions",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/incoming-envelope.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-lanyon-letter",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/lanyon-letter.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-drawer",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/card-file-box.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-jekyll-instructions",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/jekyll-instructions.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-powders",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/test-tube.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-drawer",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/drawer.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-tincture",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/alembic.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-powders",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/powders.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-salt",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/petri-dish.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-tincture",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/tincture.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-draught",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/beverage-box.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-salt",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/salt.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-lanyon-narrative",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/notebook.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-draught",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/draught.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-jekyll-statement",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/spiral-notepad.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-lanyon-narrative",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/lanyon-narrative.jpg"
     },
     {
-      "id": "jekyll-hyde-image-item-poison",
       "worldId": "jekyll-hyde-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://api.iconify.design/noto/skull-and-crossbones.svg",
-      "createdAt": 1785528000000
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-jekyll-statement",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/jekyll-statement.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-item-poison",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/items/poison.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-utterson-office",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/utterson-office.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-utterson-home",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/utterson-home.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-lanyon-house",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/lanyon-house.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-carew-site",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/carew-site.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-police-station",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/police-station.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-soho-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/soho-portal.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-jekyll-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/jekyll-residence.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-hyde-house",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/hyde-house.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-back-door",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/back-door.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-trampling-corner",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/trampling-corner.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-all-night-shop",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/all-night-shop.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-soho-street",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/soho-street.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-front-hall",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/front-hall.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-dining-room",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/dining-room.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-drawing-room",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/drawing-room.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-courtyard",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/courtyard.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-window",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/window.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-lab-portal",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/lab-wing.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-theatre",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/theatre.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-cabinet",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/cabinet.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-chemical-table",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/chemical-table.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-drawer-cupboard",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/drawer-cupboard.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-fireplace",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/fireplace.jpg"
+    },
+    {
+      "worldId": "jekyll-hyde-world",
+      "createdAt": 1785528000000,
+      "updatedAt": 1785528000000,
+      "id": "jekyll-hyde-image-generated-location-cabinet-door",
+      "mimeType": "image/jpeg",
+      "url": "library/jekyll-hyde/art/generated/locations/cabinet-door.jpg"
     }
   ],
   "travelModes": [],
@@ -5606,7 +5832,7 @@
       "title": "Jekyll and Hyde Are One Embodied Person",
       "body": "This world models Jekyll and Hyde as separate character records so snapshots, knowledge, and relationships can show which identity is manifest at an event. The relationship between them records their shared body.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-character-jekyll",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-34"
     },
@@ -5619,7 +5845,7 @@
       "title": "Hyde’s Changing Strength",
       "body": "Hyde begins smaller because Jekyll has exercised that side of himself less. Repetition strengthens Hyde until he emerges without the draught.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-character-hyde",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-39"
     },
@@ -5632,7 +5858,7 @@
       "title": "The Transforming Draught",
       "body": "The draught combines a red tincture, measured powders, and a salt containing an unknown impurity. It separates and recombines embodied identity rather than merely disguising Jekyll.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-item-draught",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-39"
     },
@@ -5645,7 +5871,7 @@
       "title": "The Impure Salt",
       "body": "The first salt works only because of an accidental impurity. Later supplies are chemically purer and therefore useless, making the experiment irreproducible.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-item-salt",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-39"
     },
@@ -5658,7 +5884,7 @@
       "title": "Reputation and Blackmail",
       "body": "Utterson and Enfield initially interpret the connection through familiar Victorian fears: scandal, blackmail, inheritance, and the exploitation of a respectable man.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-location-utterson-office",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-1"
     },
@@ -5671,7 +5897,7 @@
       "title": "London’s Moral Geography",
       "body": "The novel contrasts respectable squares and professional interiors with fog, nocturnal streets, and Soho. Jekyll’s divided building makes that geography architectural.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-location-soho-portal",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-1"
     },
@@ -5684,7 +5910,7 @@
       "title": "The Order of Disclosure",
       "body": "Enfield’s oral story, the will, Hyde’s forged letter, Lanyon’s sealed narrative, and Jekyll’s statement progressively replace inference with testimony.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-item-lanyon-narrative",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-39"
     },
@@ -5697,7 +5923,7 @@
       "title": "Handwriting as Evidence",
       "body": "Guest recognizes that Hyde’s hand and Jekyll’s hand share their structure. The clue approaches the truth while still allowing Utterson to imagine forgery.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-item-handwriting-note",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-18"
     },
@@ -5710,7 +5936,7 @@
       "title": "Responsibility",
       "body": "Jekyll describes Hyde as a separate self but also admits preparing his freedom, enjoying his acts, and using transformation to evade accountability.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-item-jekyll-statement",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-39"
     },
@@ -5723,7 +5949,7 @@
       "title": "Professional Friendship",
       "body": "Utterson, Jekyll, and Lanyon belong to an old male professional circle. Loyalty delays exposure but also preserves the documents that reveal the case.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-character-lanyon",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-6"
     },
@@ -5736,7 +5962,7 @@
       "title": "Editorial Calendar",
       "body": "The novel gives relative intervals more often than exact dates. Calendar dates in this world are an editorial reconstruction chosen to preserve stated seasons, elapsed intervals, and event order.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-map-london",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-1"
     },
@@ -5747,9 +5973,9 @@
       "id": "jekyll-hyde-lore-12",
       "categoryId": "jekyll-hyde-lore-category-sources",
       "title": "Map and Image Sources",
-      "body": "The manuscript contains the complete public-domain narrative text from Project Gutenberg eBook #43, divided across all ten chapters and forty-seven modeled events; Gutenberg packaging and the contents list are excluded. Maps use linked Wikimedia Commons images: Bacon’s 1890 London map, Charles Booth’s West Central poverty map, the 1880 Tower House plan, and an early nineteenth-century laboratory plan. The cover is a public-domain period theatrical poster. Character artwork uses public-domain Charles Raymond Macauley illustrations from the 1904 edition. Item artwork uses Google Noto Color Emoji through Iconify. No image blobs are embedded.",
+      "body": "The manuscript contains the complete public-domain narrative text from Project Gutenberg eBook #43, divided across all ten chapters and forty-seven modeled events; Gutenberg packaging and the contents list are excluded. Maps use linked Wikimedia Commons images: Bacon’s 1890 London map, Charles Booth’s West Central poverty map, the 1880 Tower House plan, and an early nineteenth-century laboratory plan. The cover is a public-domain period theatrical poster. Character artwork uses public-domain Charles Raymond Macauley illustrations from the 1904 edition. Item artwork uses Google Noto Color Emoji through Iconify. No image blobs are embedded. The cover, all character portraits, all item plates, and all location scenes are original generated illustrations created for the Kathala Library edition in a coherent late-Victorian style. The four linked historical and editorial maps remain available as spatial aids. Superseded external non-map illustration records are retained with the edition’s integration documentation.",
       "tags": [],
-      "coverImageId": null,
+      "coverImageId": "jekyll-hyde-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "jekyll-hyde-event-1"
     }
