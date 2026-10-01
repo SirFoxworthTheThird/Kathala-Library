@@ -604,16 +604,16 @@
       "author": "Charles Dickens",
       "blurb": "Lucie Manette, Charles Darnay, and Sydney Carton are bound across London and Paris as private resurrection, inherited injustice, revolution, and chosen sacrifice converge.",
       "data": "a-tale-of-two-cities.pwk",
-      "dataBytes": 1130077,
+      "dataBytes": 1130630,
       "counts": {
         "characters": 25,
         "chapters": 45,
         "events": 58,
         "locations": 28
       },
-      "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #98 across all 45 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
+      "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #98 across all 45 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore. The edition uses original generated illustrations, documented in Lore; linked historical maps are retained.",
       "worldId": "tale-of-two-cities-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover%20for%20A%20Tale%20of%20Two%20Cities%2C%20by%20Phiz.jpeg?width=1000",
+      "cover": "library/a-tale-of-two-cities/art/generated/cover.jpg",
       "hasProse": true
     },
     {
