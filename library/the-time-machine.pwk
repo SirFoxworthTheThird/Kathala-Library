@@ -6,7 +6,7 @@
     "id": "time-machine-world",
     "name": "The Time Machine",
     "description": "H. G. Wells’s novel follows an unnamed Victorian inventor from a sceptical Richmond dinner into the year 802,701, where the Eloi, Morlocks, ruined institutions, and a still more distant dying Earth turn technological triumph into an inquiry about class, evolution, mortality, and human tenderness.",
-    "coverImageId": "time-machine-image-cover",
+    "coverImageId": "time-machine-image-generated-cover",
     "theme": "theme-scifi",
     "readingMode": true,
     "createdAt": 1786122000000,
@@ -133,7 +133,7 @@
       "description": "The unnamed inventor’s suburban home, where two Thursday dinners frame his account.",
       "x": 837,
       "y": 1525,
-      "imageId": "time-machine-image-title-page",
+      "imageId": "time-machine-image-generated-location-house-portal",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -149,7 +149,7 @@
       "description": "The Thames Valley as the Time Traveller encounters it in the year 802,701.",
       "x": 926,
       "y": 1435,
-      "imageId": "time-machine-image-finlay-1",
+      "imageId": "time-machine-image-generated-location-future-portal",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -165,7 +165,7 @@
       "description": "The Thursday guests eat here before argument, demonstration, and testimony move into the evening.",
       "x": 1115,
       "y": 454,
-      "imageId": "time-machine-image-title-page",
+      "imageId": "time-machine-image-generated-location-dining-room",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -181,7 +181,7 @@
       "description": "The guests debate the fourth dimension and watch the model machine vanish from a table.",
       "x": 1675,
       "y": 479,
-      "imageId": "time-machine-image-finlay-1",
+      "imageId": "time-machine-image-generated-location-drawing-room",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -197,7 +197,7 @@
       "description": "The editorial plan assigns the inventor’s laboratory to the garden-room wing beside the central hall.",
       "x": 750,
       "y": 414,
-      "imageId": "time-machine-image-finlay-2",
+      "imageId": "time-machine-image-generated-location-laboratory",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -213,7 +213,7 @@
       "description": "The route between dinner, the drawing room, and the laboratory passes through this broad interior hall.",
       "x": 910,
       "y": 569,
-      "imageId": "time-machine-image-title-page",
+      "imageId": "time-machine-image-generated-location-central-hall",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -229,7 +229,7 @@
       "description": "The Richmond garden outside the house, associated with the machine’s starting point and the narrator’s final vigil.",
       "x": 985,
       "y": 129,
-      "imageId": "time-machine-image-finlay-1",
+      "imageId": "time-machine-image-generated-location-garden",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -245,7 +245,7 @@
       "description": "The machine stops on a hail-whitened lawn below a colossal white sphinx on a bronze pedestal.",
       "x": 898,
       "y": 1483,
-      "imageId": "time-machine-image-white-sphinx",
+      "imageId": "time-machine-image-generated-location-sphinx-lawn",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -261,7 +261,7 @@
       "description": "A vast, weathered communal building where the Eloi eat fruit, sleep together, and receive the traveller.",
       "x": 837,
       "y": 1573,
-      "imageId": "time-machine-image-finlay-1",
+      "imageId": "time-machine-image-generated-location-great-hall",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -277,7 +277,7 @@
       "description": "A reach of the Thames valley where the traveller rescues Weena from the water.",
       "x": 600,
       "y": 1535,
-      "imageId": "time-machine-image-finlay-2",
+      "imageId": "time-machine-image-generated-location-river-bank",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -293,7 +293,7 @@
       "description": "One of the circular wells whose descending ladder, cool air, and machinery connect the surface to the underworld.",
       "x": 1008,
       "y": 1326,
-      "imageId": "time-machine-image-finlay-3",
+      "imageId": "time-machine-image-generated-location-well",
       "iconType": "custom",
       "tags": [],
       "factionId": null
@@ -309,7 +309,7 @@
       "description": "A schematic point for the dark galleries and machinery reached through the well; their underground extent is not mapped by Wells.",
       "x": 1042,
       "y": 1271,
-      "imageId": "time-machine-image-finlay-3",
+      "imageId": "time-machine-image-generated-location-underworld",
       "iconType": "custom",
       "tags": [],
       "factionId": null
@@ -325,7 +325,7 @@
       "description": "The moonless forest crossed on the return journey, where fire becomes both defence and catastrophe.",
       "x": 1138,
       "y": 1134,
-      "imageId": "time-machine-image-finlay-4",
+      "imageId": "time-machine-image-generated-location-wood",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -341,7 +341,7 @@
       "description": "A remote, museum-like ruin containing decayed exhibits, preserved matches, camphor, and an iron bar.",
       "x": 1419,
       "y": 1017,
-      "imageId": "time-machine-image-finlay-4",
+      "imageId": "time-machine-image-generated-location-green-palace",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -357,7 +357,7 @@
       "description": "The hollow pedestal conceals the Time Machine and becomes a trap when the bronze panels close.",
       "x": 926,
       "y": 1456,
-      "imageId": "time-machine-image-white-sphinx",
+      "imageId": "time-machine-image-generated-location-sphinx-chamber",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -373,7 +373,7 @@
       "description": "A temporal overlay rather than a geographic claim: millions of years later, a red shore lies beneath a swollen sun.",
       "x": 1400,
       "y": 310,
-      "imageId": "time-machine-image-finlay-4",
+      "imageId": "time-machine-image-generated-location-far-shore",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -388,7 +388,7 @@
       "name": "The Time Traveller",
       "aliases": [],
       "description": "The unnamed inventor whose experiment becomes an eight-day expedition through humanity’s remote future.",
-      "portraitImageId": "time-machine-image-finlay-1",
+      "portraitImageId": "time-machine-image-generated-character-traveller",
       "color": "#6b7280",
       "tags": [],
       "isAlive": true,
@@ -402,7 +402,7 @@
       "name": "The Narrator",
       "aliases": [],
       "description": "An unnamed member of the Richmond dinner circle who records the traveller’s argument, testimony, and disappearance.",
-      "portraitImageId": "time-machine-image-portrait-victorian-gentleman",
+      "portraitImageId": "time-machine-image-generated-character-narrator",
       "color": "#7c6f64",
       "tags": [],
       "isAlive": true,
@@ -416,7 +416,7 @@
       "name": "Weena",
       "aliases": [],
       "description": "An Eloi whom the traveller rescues and befriends; her trust changes his expedition from observation to responsibility.",
-      "portraitImageId": "time-machine-image-finlay-2",
+      "portraitImageId": "time-machine-image-generated-character-weena",
       "color": "#b7798c",
       "tags": [],
       "isAlive": false,
@@ -430,7 +430,7 @@
       "name": "Filby",
       "aliases": [],
       "description": "An argumentative guest who resists the traveller’s geometric explanation.",
-      "portraitImageId": "time-machine-image-portrait-noble-man",
+      "portraitImageId": "time-machine-image-generated-character-filby",
       "color": "#817267",
       "tags": [],
       "isAlive": true,
@@ -444,7 +444,7 @@
       "name": "The Psychologist",
       "aliases": [],
       "description": "A guest trained to scrutinise perception, and the first to handle the vanished model’s empty space.",
-      "portraitImageId": "time-machine-image-portrait-gentleman-gb",
+      "portraitImageId": "time-machine-image-generated-character-psychologist",
       "color": "#65758b",
       "tags": [],
       "isAlive": true,
@@ -458,7 +458,7 @@
       "name": "The Medical Man",
       "aliases": [],
       "description": "A dinner guest who examines the traveller’s exhausted physical condition.",
-      "portraitImageId": "time-machine-image-portrait-fragonard",
+      "portraitImageId": "time-machine-image-generated-character-medical-man",
       "color": "#70806f",
       "tags": [],
       "isAlive": true,
@@ -472,7 +472,7 @@
       "name": "The Provincial Mayor",
       "aliases": [],
       "description": "A ceremonious, sceptical guest at the first Thursday discussion.",
-      "portraitImageId": "time-machine-image-portrait-vandyck",
+      "portraitImageId": "time-machine-image-generated-character-mayor",
       "color": "#897354",
       "tags": [],
       "isAlive": true,
@@ -486,7 +486,7 @@
       "name": "The Very Young Man",
       "aliases": [],
       "description": "A guest who extends the time-travel idea into practical fantasies.",
-      "portraitImageId": "time-machine-image-portrait-addison",
+      "portraitImageId": "time-machine-image-generated-character-young-man",
       "color": "#6f8292",
       "tags": [],
       "isAlive": true,
@@ -500,7 +500,7 @@
       "name": "The Editor",
       "aliases": [],
       "description": "A later dinner guest who treats the returned traveller’s appearance as extraordinary news.",
-      "portraitImageId": "time-machine-image-portrait-wright",
+      "portraitImageId": "time-machine-image-generated-character-editor",
       "color": "#625f66",
       "tags": [],
       "isAlive": true,
@@ -514,7 +514,7 @@
       "name": "The Journalist",
       "aliases": [],
       "description": "A later guest eager to turn the traveller’s return into copy.",
-      "portraitImageId": "time-machine-image-portrait-wood",
+      "portraitImageId": "time-machine-image-generated-character-journalist",
       "color": "#70665f",
       "tags": [],
       "isAlive": true,
@@ -528,7 +528,7 @@
       "name": "The Silent Man",
       "aliases": [],
       "description": "A quiet, observant guest at the second Thursday dinner.",
-      "portraitImageId": "time-machine-image-portrait-constable",
+      "portraitImageId": "time-machine-image-generated-character-silent-man",
       "color": "#5f6368",
       "tags": [],
       "isAlive": true,
@@ -542,7 +542,7 @@
       "name": "Mrs Watchett",
       "aliases": [],
       "description": "The housekeeper who briefly sees the inventor cross his laboratory during the first moments of travel.",
-      "portraitImageId": "time-machine-image-portrait-watchett",
+      "portraitImageId": "time-machine-image-generated-character-mrs-watchett",
       "color": "#87756d",
       "tags": [],
       "isAlive": true,
@@ -556,7 +556,7 @@
       "name": "The Morlocks",
       "aliases": [],
       "description": "A collective character for the pale underground people who maintain machinery and hunt on moonless nights.",
-      "portraitImageId": "time-machine-image-finlay-3",
+      "portraitImageId": "time-machine-image-generated-character-morlocks",
       "color": "#777b82",
       "tags": [],
       "isAlive": true,
@@ -570,7 +570,7 @@
       "name": "The Eloi",
       "aliases": [],
       "description": "A collective character for the delicate surface people of the year 802,701.",
-      "portraitImageId": "time-machine-image-finlay-4",
+      "portraitImageId": "time-machine-image-generated-character-eloi",
       "color": "#a98578",
       "tags": [],
       "isAlive": true,
@@ -586,7 +586,7 @@
       "name": "Model Time Machine",
       "description": "A small ivory-and-nickel model used to demonstrate motion through the fourth dimension.",
       "iconType": "clock",
-      "imageId": "time-machine-image-item-mechanism",
+      "imageId": "time-machine-image-generated-item-model",
       "tags": []
     },
     {
@@ -597,7 +597,7 @@
       "name": "The Time Machine",
       "description": "The full-sized saddle-like apparatus of brass, nickel, ivory, and crystal that carries its rider through time.",
       "iconType": "settings",
-      "imageId": "time-machine-image-item-machine",
+      "imageId": "time-machine-image-generated-item-machine",
       "tags": []
     },
     {
@@ -608,7 +608,7 @@
       "name": "Starting Lever",
       "description": "The small lever removed for safety and reattached when the traveller needs the machine to move.",
       "iconType": "wrench",
-      "imageId": "time-machine-image-item-lever",
+      "imageId": "time-machine-image-generated-item-lever",
       "tags": []
     },
     {
@@ -619,7 +619,7 @@
       "name": "Wax Matches",
       "description": "The traveller’s dwindling Victorian matches give light, evidence, and temporary protection from Morlocks.",
       "iconType": "flame",
-      "imageId": "time-machine-image-item-matches",
+      "imageId": "time-machine-image-generated-item-matches",
       "tags": []
     },
     {
@@ -630,7 +630,7 @@
       "name": "Camphor",
       "description": "A flammable block taken from the Palace of Green Porcelain to sustain light in the forest.",
       "iconType": "flask-conical",
-      "imageId": "time-machine-image-item-camphor",
+      "imageId": "time-machine-image-generated-item-camphor",
       "tags": []
     },
     {
@@ -641,7 +641,7 @@
       "name": "Iron Bar",
       "description": "A metal lever broken from a museum machine and carried as a mace.",
       "iconType": "hammer",
-      "imageId": "time-machine-image-item-iron-bar",
+      "imageId": "time-machine-image-generated-item-iron-bar",
       "tags": []
     },
     {
@@ -652,7 +652,7 @@
       "name": "Weena’s Flowers",
       "description": "Two strange white flowers placed in the traveller’s pocket and preserved as the narrator’s final material evidence.",
       "iconType": "flower-2",
-      "imageId": "time-machine-image-item-flowers",
+      "imageId": "time-machine-image-generated-item-flowers",
       "tags": []
     },
     {
@@ -663,7 +663,7 @@
       "name": "Eloi Fruit",
       "description": "The abundant fruit that feeds the surface people and initially suggests an effortless golden age.",
       "iconType": "apple",
-      "imageId": "time-machine-image-item-fruit",
+      "imageId": "time-machine-image-generated-item-fruit",
       "tags": []
     },
     {
@@ -674,7 +674,7 @@
       "name": "Small Camera",
       "description": "A camera packed for the traveller’s final departure, intended to bring back clearer evidence.",
       "iconType": "camera",
-      "imageId": "time-machine-image-item-camera",
+      "imageId": "time-machine-image-generated-item-camera",
       "tags": []
     }
   ],
@@ -5403,188 +5403,6 @@
   ],
   "blobs": [
     {
-      "id": "time-machine-image-cover",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20by%20Norman%20Saunders.jpg?width=960",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-finlay-1",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20by%20Virgil%20Finlay%201.png?width=960",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-finlay-2",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20by%20Virgil%20Finlay%202.png?width=960",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-finlay-3",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20by%20Virgil%20Finlay%203.png?width=960",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-finlay-4",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20by%20Virgil%20Finlay%204.png?width=960",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-white-sphinx",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White%20Sphinx.png?width=960",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-title-page",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20(H.%20G.%20Wells%2C%20William%20Heinemann%2C%201895)%20title%20page.jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-victorian-gentleman",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Victorian%20Gentleman.png?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-noble-man",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vintage%20noble%20man%20illustration%20(39820339183).jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-gentleman-gb",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20a%20Gentleman%20(GB%2019c).jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-fragonard",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Fragonard%20-%20Portrait%20of%20a%20Gentleman.jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-vandyck",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anthony%20van%20Dyck%20-%20Portrait%20of%20a%20Gentleman.jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-addison",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20a%20gentleman%2C%20traditionally%20identified%20as%20Edward%20Addison%20(by%20George%20Romney).jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-wright",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20a%20Gentleman%20by%20Joseph%20Wright.jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-wood",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Portrait%20of%20a%20gentleman%2C%20circa%201800%20(by%20William%20Wood).jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-constable",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Constable%20-%20Portrait%20of%20a%20Gentleman%20(unfinished)%2C%201803%E2%80%931804%2C%20L.F11.1936.0.0.jpg?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-portrait-watchett",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jane-Austen-portrait-victorian-engraving.png?width=720",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-mechanism",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/M%C3%A9canisme.jpg?width=800",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-machine",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Time%20Machine%20by%20Norman%20Saunders.jpg?width=800",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-lever",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Archimedes%20lever.png?width=800",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-matches",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Congreve%20matchbox.jpg?width=800",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-camphor",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/NAS-083%20Cinnamomum%20camphora.png?width=800",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-iron-bar",
-      "worldId": "time-machine-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lever%20(PSF).png?width=800",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-flowers",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/White%20Flowers%20in%20a%20Vase%20MET%20DP805121.jpg?width=800",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-fruit",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Botanical%20plate%20with%20spray%20of%20apples%20MET%20DP-1687-040.jpg?width=800",
-      "createdAt": 1786122000000
-    },
-    {
-      "id": "time-machine-image-item-camera",
-      "worldId": "time-machine-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pocket%20Kodak%20Camera%20Advert%20(McClure's%20Magazine%201895).jpg?width=800",
-      "createdAt": 1786122000000
-    },
-    {
       "id": "time-machine-image-map-richmond",
       "worldId": "time-machine-world",
       "mimeType": "image/jpeg",
@@ -5597,6 +5415,326 @@
       "mimeType": "image/jpeg",
       "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cambridge%20cottage%20floorplan.jpg?width=1920",
       "createdAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-cover",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/cover.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-traveller",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/traveller.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-narrator",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/narrator.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-weena",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/weena.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-filby",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/filby.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-psychologist",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/psychologist.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-medical-man",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/medical-man.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-mayor",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/mayor.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-young-man",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/young-man.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-editor",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/editor.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-journalist",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/journalist.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-silent-man",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/silent-man.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-mrs-watchett",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/mrs-watchett.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-morlocks",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/morlocks.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-character-eloi",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/characters/eloi.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-model",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/model.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-machine",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/machine.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-lever",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/lever.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-matches",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/matches.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-camphor",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/camphor.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-iron-bar",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/iron-bar.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-flowers",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/flowers.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-fruit",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/fruit.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-item-camera",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/items/camera.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-house-portal",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/house-portal.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-future-portal",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/future-portal.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-dining-room",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/dining-room.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-drawing-room",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/drawing-room.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-laboratory",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/laboratory.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-central-hall",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/central-hall.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-garden",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/garden.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-sphinx-lawn",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/sphinx-lawn.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-great-hall",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/great-hall.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-river-bank",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/river-bank.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-well",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/well.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-underworld",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/underworld.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-wood",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/wood.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-green-palace",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/green-palace.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-sphinx-chamber",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/sphinx-chamber.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "time-machine-image-generated-location-far-shore",
+      "worldId": "time-machine-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-time-machine/art/generated/locations/far-shore.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     }
   ],
   "travelModes": [],
@@ -5712,7 +5850,7 @@
       "title": "The Fourth Dimension",
       "body": "The opening argument treats time as a measurable dimension analogous to length, breadth, and thickness, then asks whether machinery could control motion along it.",
       "tags": [],
-      "coverImageId": "time-machine-image-finlay-1",
+      "coverImageId": "time-machine-image-generated-item-model",
       "linkedEntityIds": [],
       "visibleFromEventId": "time-machine-event-1"
     },
@@ -5725,7 +5863,7 @@
       "title": "The Machine’s Controls",
       "body": "A pair of levers governs departure and direction. Because the traveller removes the starting lever, recovering and refitting it becomes essential inside the White Sphinx.",
       "tags": [],
-      "coverImageId": "time-machine-image-finlay-1",
+      "coverImageId": "time-machine-image-generated-item-lever",
       "linkedEntityIds": [],
       "visibleFromEventId": "time-machine-event-8"
     },
@@ -5738,7 +5876,7 @@
       "title": "The Year 802,701",
       "body": "The machine first stops in a warm Thames Valley transformed by long biological, architectural, and social change. The exact geography is recognisable only in broad features.",
       "tags": [],
-      "coverImageId": "time-machine-image-finlay-2",
+      "coverImageId": "time-machine-image-generated-location-future-portal",
       "linkedEntityIds": [],
       "visibleFromEventId": "time-machine-event-10"
     },
@@ -5751,7 +5889,7 @@
       "title": "The Further Vision",
       "body": "Millions of years later, the traveller sees a red sun, altered sea, giant shore creatures, cold, and darkness. The sequence expands the novel beyond human history into planetary mortality.",
       "tags": [],
-      "coverImageId": "time-machine-image-finlay-4",
+      "coverImageId": "time-machine-image-generated-location-far-shore",
       "linkedEntityIds": [],
       "visibleFromEventId": "time-machine-event-38"
     },
@@ -5764,7 +5902,7 @@
       "title": "Eloi and Morlocks",
       "body": "The traveller interprets the two peoples through Victorian class division, but revises his theory as evidence of machinery, fear, dependence, and predation accumulates. His account remains an inference, not an omniscient history.",
       "tags": [],
-      "coverImageId": "time-machine-image-finlay-3",
+      "coverImageId": "time-machine-image-generated-character-eloi",
       "linkedEntityIds": [],
       "visibleFromEventId": "time-machine-event-21"
     },
@@ -5777,7 +5915,7 @@
       "title": "The Palace of Green Porcelain",
       "body": "The palace resembles a museum whose collections have decayed into fragments. It represents knowledge preserved physically after its systems of meaning and use have failed.",
       "tags": [],
-      "coverImageId": "time-machine-image-finlay-4",
+      "coverImageId": "time-machine-image-generated-location-green-palace",
       "linkedEntityIds": [],
       "visibleFromEventId": "time-machine-event-29"
     },
@@ -5790,7 +5928,7 @@
       "title": "Text Source",
       "body": "The manuscript follows the complete public-domain text of H. G. Wells’s novel in Project Gutenberg eBook 35. Every narrative passage from Chapters I–XVI and the Epilogue is assigned once in source order; Gutenberg contents, front matter, and end matter are excluded. Summaries, event divisions, chronology, and notes are editorial.",
       "tags": [],
-      "coverImageId": "time-machine-image-title-page",
+      "coverImageId": "time-machine-image-generated-location-house-portal",
       "linkedEntityIds": [],
       "visibleFromEventId": "time-machine-event-1"
     },
@@ -5801,9 +5939,9 @@
       "id": "time-machine-lore-8",
       "categoryId": "time-machine-lore-category-sources",
       "title": "Illustration Sources",
-      "body": "The cover and future-world scenes use public-domain illustrations by Norman Saunders and Virgil Finlay. Because Wells leaves most Richmond guests physically undescribed, their distinct portraits are clearly editorial public-domain period artworks rather than canonical likenesses. Every story item likewise uses its own period object, botanical, or mechanical illustration. Images are linked from Wikimedia Commons.",
+      "body": "The original visual edition used public-domain cover and future-world illustrations by Norman Saunders and Virgil Finlay; those source records are archived with the integration documentation. Because Wells leaves most Richmond guests physically undescribed, their distinct portraits remain editorial interpretations rather than canonical likenesses. Every story item has its own period object, botanical, or mechanical illustration. The current cover, character portraits, item plates, and location scenes are original generated illustrations made for this edition. The superseded external illustration sources are archived; the historical map links remain in use.",
       "tags": [],
-      "coverImageId": "time-machine-image-cover",
+      "coverImageId": "time-machine-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "time-machine-event-1"
     },
@@ -5830,7 +5968,7 @@
       "name": "The Richmond Dinner Circle",
       "description": "The changing group of professionals and sceptics who hear the inventor’s claims.",
       "color": "#716b6b",
-      "coverImageId": "time-machine-image-title-page",
+      "coverImageId": "time-machine-image-generated-location-house-portal",
       "tags": []
     },
     {
@@ -5841,7 +5979,7 @@
       "name": "The Eloi",
       "description": "The small surface people living communally among the ruins and gardens of 802,701.",
       "color": "#a98277",
-      "coverImageId": "time-machine-image-finlay-2",
+      "coverImageId": "time-machine-image-generated-character-eloi",
       "tags": []
     },
     {
@@ -5852,7 +5990,7 @@
       "name": "The Morlocks",
       "description": "The pale underground people associated with machinery, darkness, and the hidden economy of the future.",
       "color": "#636b73",
-      "coverImageId": "time-machine-image-finlay-3",
+      "coverImageId": "time-machine-image-generated-character-morlocks",
       "tags": []
     }
   ],
