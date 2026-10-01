@@ -6,7 +6,7 @@
     "id": "war-of-the-worlds-world",
     "name": "The War of the Worlds",
     "description": "H. G. Wells’s invasion novel follows ordinary witnesses through the collapse of Victorian England as technologically overwhelming Martians strike Surrey and London, testing human confidence, social order, companionship, and the fragile biological conditions of conquest.",
-    "coverImageId": "war-of-the-worlds-image-cover",
+    "coverImageId": "war-of-the-worlds-image-generated-cover",
     "theme": "theme-scifi",
     "readingMode": true,
     "createdAt": 1786122000000,
@@ -133,7 +133,7 @@
       "description": "The sandy common north of Woking where the first cylinder lands and opens.",
       "x": 322,
       "y": 893,
-      "imageId": "war-of-the-worlds-image-correa6",
+      "imageId": "war-of-the-worlds-image-generated-location-horsell",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -149,7 +149,7 @@
       "description": "The narrator’s home district and the first town struck by the Heat-Ray.",
       "x": 327,
       "y": 863,
-      "imageId": "war-of-the-worlds-image-correa7",
+      "imageId": "war-of-the-worlds-image-generated-location-woking",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -165,7 +165,7 @@
       "description": "The narrator’s house and viewpoint north-east of Woking.",
       "x": 350,
       "y": 876,
-      "imageId": "war-of-the-worlds-image-correa8",
+      "imageId": "war-of-the-worlds-image-generated-location-maybury",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -181,7 +181,7 @@
       "description": "The woods east of Woking burned by the Heat-Ray and crossed by advancing machines.",
       "x": 385,
       "y": 848,
-      "imageId": "war-of-the-worlds-image-correa9",
+      "imageId": "war-of-the-worlds-image-generated-location-byfleet",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -197,7 +197,7 @@
       "description": "The narrator passes Pyrford on both his outward and return journeys to Leatherhead.",
       "x": 390,
       "y": 813,
-      "imageId": "war-of-the-worlds-image-correa10",
+      "imageId": "war-of-the-worlds-image-generated-location-pyrford",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -213,7 +213,7 @@
       "description": "The village and defensive line crossed during the narrator’s return and the Martian advance.",
       "x": 405,
       "y": 778,
-      "imageId": "war-of-the-worlds-image-correa11",
+      "imageId": "war-of-the-worlds-image-generated-location-ripley",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -229,7 +229,7 @@
       "description": "A concealed artillery position that briefly damages a fighting machine.",
       "x": 440,
       "y": 813,
-      "imageId": "war-of-the-worlds-image-correa12",
+      "imageId": "war-of-the-worlds-image-generated-location-st-georges-hill",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -245,7 +245,7 @@
       "description": "A gun position destroyed after the Martians pass Ripley.",
       "x": 455,
       "y": 798,
-      "imageId": "war-of-the-worlds-image-correa13",
+      "imageId": "war-of-the-worlds-image-generated-location-painshill",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -261,7 +261,7 @@
       "description": "The Thames crossing where artillery briefly brings down a fighting machine.",
       "x": 445,
       "y": 838,
-      "imageId": "war-of-the-worlds-image-correa14",
+      "imageId": "war-of-the-worlds-image-generated-location-weybridge",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -277,7 +277,7 @@
       "description": "The river settlement and deserted house where the narrator and curate shelter from Black Smoke.",
       "x": 468,
       "y": 863,
-      "imageId": "war-of-the-worlds-image-correa15",
+      "imageId": "war-of-the-worlds-image-generated-location-halliford",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -293,7 +293,7 @@
       "description": "The narrator lands near Walton after drifting downriver from Weybridge.",
       "x": 480,
       "y": 873,
-      "imageId": "war-of-the-worlds-image-correa16",
+      "imageId": "war-of-the-worlds-image-generated-location-walton",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -309,7 +309,7 @@
       "description": "A refuge farther east along the Thames after the battle at Weybridge.",
       "x": 500,
       "y": 853,
-      "imageId": "war-of-the-worlds-image-correa17",
+      "imageId": "war-of-the-worlds-image-generated-location-sunbury",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -325,7 +325,7 @@
       "description": "The town to which the narrator first takes his wife for safety.",
       "x": 355,
       "y": 703,
-      "imageId": "war-of-the-worlds-image-correa18",
+      "imageId": "war-of-the-worlds-image-generated-location-leatherhead",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -341,7 +341,7 @@
       "description": "The narrator and curate move toward Kew after leaving their Halliford shelter.",
       "x": 720,
       "y": 833,
-      "imageId": "war-of-the-worlds-image-correa19",
+      "imageId": "war-of-the-worlds-image-generated-location-kew",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -357,7 +357,7 @@
       "description": "The silent district where a new cylinder buries the narrator and curate beside a ruined house.",
       "x": 760,
       "y": 813,
-      "imageId": "war-of-the-worlds-image-correa20",
+      "imageId": "war-of-the-worlds-image-generated-location-sheen",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -373,7 +373,7 @@
       "description": "The flooded ground and road immediately beyond the ruined house at Sheen.",
       "x": 785,
       "y": 823,
-      "imageId": "war-of-the-worlds-image-correa21",
+      "imageId": "war-of-the-worlds-image-generated-location-mortlake",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -389,7 +389,7 @@
       "description": "The northern road where London’s refugee flood becomes desperate.",
       "x": 890,
       "y": 1074,
-      "imageId": "war-of-the-worlds-image-correa22",
+      "imageId": "war-of-the-worlds-image-generated-location-barnet",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -405,7 +405,7 @@
       "description": "A congested waypoint on the brother’s escape from London.",
       "x": 807,
       "y": 1039,
-      "imageId": "war-of-the-worlds-image-correa23",
+      "imageId": "war-of-the-worlds-image-generated-location-edgware",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -421,7 +421,7 @@
       "description": "The eastward refugee route through Chelmsford toward the Blackwater coast.",
       "x": 1452,
       "y": 995,
-      "imageId": "war-of-the-worlds-image-correa24",
+      "imageId": "war-of-the-worlds-image-generated-location-chelmsford",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -437,7 +437,7 @@
       "description": "The brother and the Elphinstones reach the coast near Tillingham and embark among the refugee shipping.",
       "x": 1400,
       "y": 484,
-      "imageId": "war-of-the-worlds-image-correa25",
+      "imageId": "war-of-the-worlds-image-generated-location-tillingham",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -453,7 +453,7 @@
       "description": "The capital the Martians advance on, and the start of the exodus that carries the narrator’s brother eastward.",
       "x": 1017,
       "y": 826,
-      "imageId": "war-of-the-worlds-image-correa26",
+      "imageId": "war-of-the-worlds-image-generated-location-london-portal",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -469,7 +469,7 @@
       "description": "The brother’s rooms lie near the park when news of the invasion reaches London.",
       "x": 952,
       "y": 1051,
-      "imageId": "war-of-the-worlds-image-correa27",
+      "imageId": "war-of-the-worlds-image-generated-location-regents-park",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -485,7 +485,7 @@
       "description": "Crowds, newspapers, and confused reports precede the general flight.",
       "x": 1050,
       "y": 981,
-      "imageId": "war-of-the-worlds-image-correa28",
+      "imageId": "war-of-the-worlds-image-generated-location-euston",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -501,7 +501,7 @@
       "description": "Where the brother seeks news before the exodus.",
       "x": 1080,
       "y": 491,
-      "imageId": "war-of-the-worlds-image-correa29",
+      "imageId": "war-of-the-worlds-image-generated-location-waterloo",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -517,7 +517,7 @@
       "description": "The brother begins his bicycle escape through north-west London.",
       "x": 873,
       "y": 1001,
-      "imageId": "war-of-the-worlds-image-correa30",
+      "imageId": "war-of-the-worlds-image-generated-location-marylebone",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -533,7 +533,7 @@
       "description": "The narrator sees the silent Martian camp and hears the dying cry “Ulla.”",
       "x": 884,
       "y": 1133,
-      "imageId": "war-of-the-worlds-image-correa31",
+      "imageId": "war-of-the-worlds-image-generated-location-primrose",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -549,7 +549,7 @@
       "description": "Red weed and abandoned streets mark the occupied city.",
       "x": 590,
       "y": 691,
-      "imageId": "war-of-the-worlds-image-correa6",
+      "imageId": "war-of-the-worlds-image-generated-location-hyde-park",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -565,7 +565,7 @@
       "description": "The narrator wanders through the Natural History Museum after the Martians die.",
       "x": 690,
       "y": 571,
-      "imageId": "war-of-the-worlds-image-correa7",
+      "imageId": "war-of-the-worlds-image-generated-location-south-kensington",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -581,7 +581,7 @@
       "description": "The artilleryman imagines an underground human resistance centred on the railways.",
       "x": 1385,
       "y": 851,
-      "imageId": "war-of-the-worlds-image-correa8",
+      "imageId": "war-of-the-worlds-image-generated-location-liverpool-street",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -597,7 +597,7 @@
       "description": "The narrator searches for food while moving from Mortlake toward Putney.",
       "x": 300,
       "y": 261,
-      "imageId": "war-of-the-worlds-image-correa9",
+      "imageId": "war-of-the-worlds-image-generated-location-roehampton",
       "iconType": "settlement",
       "tags": [],
       "factionId": null
@@ -613,7 +613,7 @@
       "description": "The narrator encounters the artilleryman again on the edge of the common.",
       "x": 360,
       "y": 91,
-      "imageId": "war-of-the-worlds-image-correa10",
+      "imageId": "war-of-the-worlds-image-generated-location-wimbledon",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -629,7 +629,7 @@
       "description": "The narrator meets the artilleryman and hears his grand survival scheme.",
       "x": 430,
       "y": 201,
-      "imageId": "war-of-the-worlds-image-correa11",
+      "imageId": "war-of-the-worlds-image-generated-location-putney",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -644,7 +644,7 @@
       "name": "The Narrator",
       "aliases": [],
       "description": "A philosophical writer from Woking whose eyewitness account frames the invasion.",
-      "portraitImageId": "war-of-the-worlds-image-correa6",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-narrator",
       "color": "#73665f",
       "tags": [],
       "isAlive": true,
@@ -658,7 +658,7 @@
       "name": "The Narrator’s Wife",
       "aliases": [],
       "description": "His capable partner, taken to Leatherhead before the fighting cuts them apart.",
-      "portraitImageId": "war-of-the-worlds-image-correa7",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-wife",
       "color": "#73665f",
       "tags": [],
       "isAlive": true,
@@ -672,7 +672,7 @@
       "name": "The Narrator’s Brother",
       "aliases": [],
       "description": "A medical student whose flight from London supplies the second eyewitness route.",
-      "portraitImageId": "war-of-the-worlds-image-correa8",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-brother",
       "color": "#73665f",
       "tags": [],
       "isAlive": true,
@@ -686,7 +686,7 @@
       "name": "Ogilvy",
       "aliases": [],
       "description": "An astronomer who identifies the cylinders and dies at Horsell Common.",
-      "portraitImageId": "war-of-the-worlds-image-correa9",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-ogilvy",
       "color": "#73665f",
       "tags": [],
       "isAlive": false,
@@ -700,7 +700,7 @@
       "name": "Henderson",
       "aliases": [],
       "description": "A journalist who accompanies Ogilvy to inspect the cylinder.",
-      "portraitImageId": "war-of-the-worlds-image-correa10",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-henderson",
       "color": "#73665f",
       "tags": [],
       "isAlive": false,
@@ -714,7 +714,7 @@
       "name": "Stent",
       "aliases": [],
       "description": "The Astronomer Royal, sent with a delegation to communicate with the Martians.",
-      "portraitImageId": "war-of-the-worlds-image-correa11",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-stent",
       "color": "#73665f",
       "tags": [],
       "isAlive": false,
@@ -728,7 +728,7 @@
       "name": "The Curate",
       "aliases": [],
       "description": "A traumatised clergyman whose panic conflicts with the narrator’s discipline.",
-      "portraitImageId": "war-of-the-worlds-image-correa12",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-curate",
       "color": "#73665f",
       "tags": [],
       "isAlive": false,
@@ -742,7 +742,7 @@
       "name": "The Artilleryman",
       "aliases": [],
       "description": "A soldier who survives the first rout at Woking.",
-      "portraitImageId": "war-of-the-worlds-image-correa13",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-artilleryman",
       "color": "#73665f",
       "tags": [],
       "isAlive": true,
@@ -756,7 +756,7 @@
       "name": "Mrs Elphinstone",
       "aliases": [],
       "description": "A refugee protected by the narrator’s brother on the road from London.",
-      "portraitImageId": "war-of-the-worlds-image-correa14",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-mrs-elphinstone",
       "color": "#73665f",
       "tags": [],
       "isAlive": true,
@@ -770,7 +770,7 @@
       "name": "Miss Elphinstone",
       "aliases": [],
       "description": "Mrs Elphinstone’s determined sister, who drives their escape carriage.",
-      "portraitImageId": "war-of-the-worlds-image-correa15",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-miss-elphinstone",
       "color": "#73665f",
       "tags": [],
       "isAlive": true,
@@ -784,7 +784,7 @@
       "name": "The Spotted Dog Innkeeper",
       "aliases": [],
       "description": "A Maybury neighbour who dies while trying to flee the advancing machines.",
-      "portraitImageId": "war-of-the-worlds-image-correa16",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-innkeeper",
       "color": "#73665f",
       "tags": [],
       "isAlive": false,
@@ -798,7 +798,7 @@
       "name": "The Martians",
       "aliases": [],
       "description": "The collective invading intelligence operating cylinders, fighting machines, and handling machines.",
-      "portraitImageId": "war-of-the-worlds-image-correa17",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-martians",
       "color": "#73665f",
       "tags": [],
       "isAlive": false,
@@ -812,7 +812,7 @@
       "name": "The London Refugees",
       "aliases": [],
       "description": "A collective character representing the vast civilian exodus.",
-      "portraitImageId": "war-of-the-worlds-image-correa18",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-crowd",
       "color": "#73665f",
       "tags": [],
       "isAlive": true,
@@ -826,7 +826,7 @@
       "name": "The Thunder Child Crew",
       "aliases": [],
       "description": "The sailors whose torpedo ram attacks the Martian machines to protect refugee shipping.",
-      "portraitImageId": "war-of-the-worlds-image-correa19",
+      "portraitImageId": "war-of-the-worlds-image-generated-character-thunder-child",
       "color": "#73665f",
       "tags": [],
       "isAlive": false,
@@ -842,7 +842,7 @@
       "name": "Martian Cylinder",
       "description": "One of the interplanetary projectiles fired from Mars.",
       "iconType": "circle",
-      "imageId": "war-of-the-worlds-image-correa20",
+      "imageId": "war-of-the-worlds-image-generated-item-cylinder",
       "tags": []
     },
     {
@@ -853,7 +853,7 @@
       "name": "Heat-Ray",
       "description": "An invisible beam focused through a polished apparatus, igniting whatever it touches.",
       "iconType": "sun",
-      "imageId": null,
+      "imageId": "war-of-the-worlds-image-generated-item-heat-ray",
       "tags": []
     },
     {
@@ -864,7 +864,7 @@
       "name": "Black Smoke",
       "description": "A heavy chemical vapour used to suffocate defenders.",
       "iconType": "cloud",
-      "imageId": null,
+      "imageId": "war-of-the-worlds-image-generated-item-black-smoke",
       "tags": []
     },
     {
@@ -875,7 +875,7 @@
       "name": "Fighting Machine",
       "description": "A towering three-legged war machine with tentacles and weapon systems.",
       "iconType": "bot",
-      "imageId": null,
+      "imageId": "war-of-the-worlds-image-generated-item-fighting-machine",
       "tags": []
     },
     {
@@ -886,7 +886,7 @@
       "name": "Handling Machine",
       "description": "A compact many-limbed machine used for work and feeding.",
       "iconType": "settings",
-      "imageId": "war-of-the-worlds-image-correa23",
+      "imageId": "war-of-the-worlds-image-generated-item-handling-machine",
       "tags": []
     },
     {
@@ -897,7 +897,7 @@
       "name": "Red Weed",
       "description": "A fast-growing Martian plant that chokes waterways before succumbing to terrestrial disease.",
       "iconType": "sprout",
-      "imageId": "war-of-the-worlds-image-correa24",
+      "imageId": "war-of-the-worlds-image-generated-item-red-weed",
       "tags": []
     },
     {
@@ -908,7 +908,7 @@
       "name": "Revolver",
       "description": "The brother’s last defence during the violent refugee journey.",
       "iconType": "target",
-      "imageId": null,
+      "imageId": "war-of-the-worlds-image-generated-item-revolver",
       "tags": []
     },
     {
@@ -919,7 +919,7 @@
       "name": "Bicycle",
       "description": "The brother’s first means of escape from London.",
       "iconType": "bike",
-      "imageId": null,
+      "imageId": "war-of-the-worlds-image-generated-item-bicycle",
       "tags": []
     },
     {
@@ -930,7 +930,7 @@
       "name": "Pony Cart",
       "description": "The hired cart used to carry the narrator’s wife to Leatherhead.",
       "iconType": "car",
-      "imageId": null,
+      "imageId": "war-of-the-worlds-image-generated-item-pony-cart",
       "tags": []
     },
     {
@@ -941,7 +941,7 @@
       "name": "HMS Thunder Child",
       "description": "The ironclad torpedo ram that confronts three fighting machines offshore.",
       "iconType": "ship",
-      "imageId": null,
+      "imageId": "war-of-the-worlds-image-generated-item-torpedo-ram",
       "tags": []
     }
   ],
@@ -6804,13 +6804,6 @@
   ],
   "blobs": [
     {
-      "id": "war-of-the-worlds-image-cover",
-      "worldId": "war-of-the-worlds-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/War%20of%20the%20worlds%20live%201906%20cover.jpg?width=960",
-      "createdAt": 1786122000000
-    },
-    {
       "id": "war-of-the-worlds-image-mapEnvirons",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
@@ -6832,186 +6825,460 @@
       "createdAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa6",
+      "id": "war-of-the-worlds-image-generated-cover",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2006.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/cover.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa7",
+      "id": "war-of-the-worlds-image-generated-character-narrator",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2007.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/narrator.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa8",
+      "id": "war-of-the-worlds-image-generated-character-wife",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2008.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/wife.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa9",
+      "id": "war-of-the-worlds-image-generated-character-brother",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2009.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/brother.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa10",
+      "id": "war-of-the-worlds-image-generated-character-ogilvy",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2010.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/ogilvy.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa11",
+      "id": "war-of-the-worlds-image-generated-character-henderson",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2011.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/henderson.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa12",
+      "id": "war-of-the-worlds-image-generated-character-stent",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2012.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/stent.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa13",
+      "id": "war-of-the-worlds-image-generated-character-curate",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2013.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/curate.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa14",
+      "id": "war-of-the-worlds-image-generated-character-artilleryman",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2014.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/artilleryman.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa15",
+      "id": "war-of-the-worlds-image-generated-character-mrs-elphinstone",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2015.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/mrs-elphinstone.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa16",
+      "id": "war-of-the-worlds-image-generated-character-miss-elphinstone",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2016.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/miss-elphinstone.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa17",
+      "id": "war-of-the-worlds-image-generated-character-innkeeper",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2017.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/innkeeper.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa18",
+      "id": "war-of-the-worlds-image-generated-character-martians",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2018.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/martians.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa19",
+      "id": "war-of-the-worlds-image-generated-character-crowd",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2019.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/crowd.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa20",
+      "id": "war-of-the-worlds-image-generated-character-thunder-child",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2020.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/characters/thunder-child.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa21",
+      "id": "war-of-the-worlds-image-generated-item-cylinder",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2021.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/cylinder.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa22",
+      "id": "war-of-the-worlds-image-generated-item-heat-ray",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2022.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/heat-ray.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa23",
+      "id": "war-of-the-worlds-image-generated-item-black-smoke",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2023.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/black-smoke.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa24",
+      "id": "war-of-the-worlds-image-generated-item-fighting-machine",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2024.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/fighting-machine.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa25",
+      "id": "war-of-the-worlds-image-generated-item-handling-machine",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2025.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/handling-machine.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa26",
+      "id": "war-of-the-worlds-image-generated-item-red-weed",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2026.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/red-weed.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa27",
+      "id": "war-of-the-worlds-image-generated-item-revolver",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2027.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/revolver.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa28",
+      "id": "war-of-the-worlds-image-generated-item-bicycle",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2028.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/bicycle.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa29",
+      "id": "war-of-the-worlds-image-generated-item-pony-cart",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2029.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/pony-cart.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa30",
+      "id": "war-of-the-worlds-image-generated-item-torpedo-ram",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2030.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/items/torpedo-ram.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     },
     {
-      "id": "war-of-the-worlds-image-correa31",
+      "id": "war-of-the-worlds-image-generated-location-horsell",
       "worldId": "war-of-the-worlds-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20War%20of%20the%20Worlds%20by%20Henrique%20Alvim%20Corr%C3%AAa%2031.jpg?width=960",
-      "createdAt": 1786122000000
+      "url": "library/the-war-of-the-worlds/art/generated/locations/horsell.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-woking",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/woking.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-maybury",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/maybury.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-byfleet",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/byfleet.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-pyrford",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/pyrford.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-ripley",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/ripley.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-st-georges-hill",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/st-georges-hill.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-painshill",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/painshill.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-weybridge",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/weybridge.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-halliford",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/halliford.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-walton",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/walton.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-sunbury",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/sunbury.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-leatherhead",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/leatherhead.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-kew",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/kew.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-sheen",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/sheen.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-mortlake",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/mortlake.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-barnet",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/barnet.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-edgware",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/edgware.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-chelmsford",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/chelmsford.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-tillingham",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/tillingham.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-london-portal",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/london-portal.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-regents-park",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/regents-park.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-euston",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/euston.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-waterloo",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/waterloo.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-marylebone",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/marylebone.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-primrose",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/primrose.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-hyde-park",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/hyde-park.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-south-kensington",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/south-kensington.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-liverpool-street",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/liverpool-street.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-roehampton",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/roehampton.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-wimbledon",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/wimbledon.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
+    },
+    {
+      "id": "war-of-the-worlds-image-generated-location-putney",
+      "worldId": "war-of-the-worlds-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-war-of-the-worlds/art/generated/locations/putney.jpg",
+      "createdAt": 1786122000000,
+      "updatedAt": 1786122000000
     }
   ],
   "loreCategories": [
@@ -7047,7 +7314,7 @@
       "title": "Mars and Opposition",
       "body": "At astronomical opposition, observers see eruptions interpreted later as launches toward Earth.",
       "tags": [],
-      "coverImageId": "war-of-the-worlds-image-correa6",
+      "coverImageId": "war-of-the-worlds-image-generated-location-horsell",
       "linkedEntityIds": [],
       "visibleFromEventId": "war-of-the-worlds-event-1-1"
     },
@@ -7060,7 +7327,7 @@
       "title": "Martian Biology",
       "body": "The invaders are highly developed brains with tentacular limbs, dependent upon machines and direct feeding.",
       "tags": [],
-      "coverImageId": "war-of-the-worlds-image-correa17",
+      "coverImageId": "war-of-the-worlds-image-generated-character-martians",
       "linkedEntityIds": [],
       "visibleFromEventId": "war-of-the-worlds-event-19-1"
     },
@@ -7073,7 +7340,7 @@
       "title": "Heat-Ray and Black Smoke",
       "body": "The invasion combines directed energy with a poisonous vapour dispersed against artillery and settlements.",
       "tags": [],
-      "coverImageId": "war-of-the-worlds-image-correa21",
+      "coverImageId": "war-of-the-worlds-image-generated-item-heat-ray",
       "linkedEntityIds": [],
       "visibleFromEventId": "war-of-the-worlds-event-14-2"
     },
@@ -7097,9 +7364,9 @@
       "id": "war-of-the-worlds-lore-5",
       "categoryId": "war-of-the-worlds-lore-category-sources",
       "title": "Illustration Sources",
-      "body": "Artwork links to Henrique Alvim Corrêa’s public-domain 1906 illustrations and period maps on Wikimedia Commons. Portrait assignments are editorial, not canonical likenesses.",
+      "body": "Artwork links to Henrique Alvim Corrêa’s public-domain 1906 illustrations and period maps on Wikimedia Commons. Portrait assignments are editorial, not canonical likenesses. This edition adds original generated illustrations for the cover, every character, every item, and every location, in a coherent late Victorian visual style. Three linked period maps remain available for geographic reference. Twenty-seven superseded external non-map illustration source records are archived with the integration documentation.",
       "tags": [],
-      "coverImageId": "war-of-the-worlds-image-cover",
+      "coverImageId": "war-of-the-worlds-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "war-of-the-worlds-event-1-1"
     },
@@ -7112,7 +7379,7 @@
       "title": "Complete Text Edition",
       "body": "The manuscript follows the complete public-domain text of H. G. Wells’s novel in Project Gutenberg eBook 36. Every narrative paragraph from both books and all twenty-seven chapters is assigned once in source order; Gutenberg contents, front matter, and end matter are excluded. Event divisions and chronology are editorial.",
       "tags": [],
-      "coverImageId": "war-of-the-worlds-image-cover",
+      "coverImageId": "war-of-the-worlds-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "war-of-the-worlds-event-1-1"
     }
@@ -7126,7 +7393,7 @@
       "name": "Martian Expedition",
       "description": "The invading force and its machines.",
       "color": "#74483f",
-      "coverImageId": "war-of-the-worlds-image-correa17",
+      "coverImageId": "war-of-the-worlds-image-generated-character-martians",
       "tags": []
     },
     {
@@ -7137,7 +7404,7 @@
       "name": "British Defenders",
       "description": "Soldiers, artillery, navy, and civil authorities attempting resistance.",
       "color": "#586779",
-      "coverImageId": "war-of-the-worlds-image-correa19",
+      "coverImageId": "war-of-the-worlds-image-generated-character-thunder-child",
       "tags": []
     },
     {
@@ -7148,7 +7415,7 @@
       "name": "Civilian Refugees",
       "description": "The population displaced from Surrey and London.",
       "color": "#847468",
-      "coverImageId": "war-of-the-worlds-image-correa18",
+      "coverImageId": "war-of-the-worlds-image-generated-character-crowd",
       "tags": []
     }
   ],

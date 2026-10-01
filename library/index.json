@@ -749,16 +749,16 @@
       "author": "H. G. Wells",
       "blurb": "Martian cylinders fall into the familiar landscape of Surrey and London, overturning Victorian confidence as separated witnesses struggle through invasion, flight, and occupation.",
       "data": "the-war-of-the-worlds.pwk",
-      "dataBytes": 635330,
+      "dataBytes": 645734,
       "counts": {
         "characters": 14,
         "chapters": 27,
         "events": 54,
         "locations": 32
       },
-      "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 36; Gutenberg packaging is excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore.",
+      "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 36; Gutenberg packaging is excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore. The original generated illustrations and three retained period maps are documented in Lore.",
       "worldId": "war-of-the-worlds-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/War%20of%20the%20worlds%20live%201906%20cover.jpg?width=960",
+      "cover": "library/the-war-of-the-worlds/art/generated/cover.jpg",
       "hasProse": true
     },
     {
