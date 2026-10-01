@@ -6,7 +6,7 @@
     "id": "treasure-island-world",
     "name": "Treasure Island",
     "description": "Jim Hawkins follows a dead pirate’s map from a threatened coastal inn to the Hispaniola and a remote island, where buried wealth draws honest sailors, mutineers, and survivors into a contest of courage, seamanship, loyalty, and shifting command.",
-    "coverImageId": "treasure-island-image-cover",
+    "coverImageId": "treasure-island-image-generated-cover",
     "theme": "theme-western",
     "readingMode": true,
     "createdAt": 1786057200000,
@@ -153,7 +153,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-billy"
+      "imageId": "treasure-island-image-generated-location-admiral-benbow"
     },
     {
       "worldId": "treasure-island-world",
@@ -169,7 +169,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-departure"
+      "imageId": "treasure-island-image-generated-location-bristol-entrance"
     },
     {
       "worldId": "treasure-island-world",
@@ -185,7 +185,7 @@
       "iconType": "ship",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-chapter-10"
+      "imageId": "treasure-island-image-generated-location-hispaniola-entrance"
     },
     {
       "worldId": "treasure-island-world",
@@ -201,7 +201,7 @@
       "iconType": "island",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-treasure"
+      "imageId": "treasure-island-image-generated-location-island-entrance"
     },
     {
       "worldId": "treasure-island-world",
@@ -217,7 +217,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-departure"
+      "imageId": "treasure-island-image-generated-location-trelawney-lodgings"
     },
     {
       "worldId": "treasure-island-world",
@@ -233,7 +233,7 @@
       "iconType": "tavern",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-silver"
+      "imageId": "treasure-island-image-generated-location-spyglass"
     },
     {
       "worldId": "treasure-island-world",
@@ -249,7 +249,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-chapter-10"
+      "imageId": "treasure-island-image-generated-location-bristol-quay"
     },
     {
       "worldId": "treasure-island-world",
@@ -265,7 +265,7 @@
       "iconType": "ship",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-chapter-10"
+      "imageId": "treasure-island-image-generated-location-ship-berth"
     },
     {
       "worldId": "treasure-island-world",
@@ -281,7 +281,7 @@
       "iconType": "deck",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-ship-fight"
+      "imageId": "treasure-island-image-generated-location-ship-deck"
     },
     {
       "worldId": "treasure-island-world",
@@ -297,7 +297,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-smollett"
+      "imageId": "treasure-island-image-generated-location-ship-roundhouse"
     },
     {
       "worldId": "treasure-island-world",
@@ -313,7 +313,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-hands"
+      "imageId": "treasure-island-image-generated-location-ship-cabin"
     },
     {
       "worldId": "treasure-island-world",
@@ -329,7 +329,7 @@
       "iconType": "storage",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-mutiny"
+      "imageId": "treasure-island-image-generated-location-ship-hold"
     },
     {
       "worldId": "treasure-island-world",
@@ -345,7 +345,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-silver"
+      "imageId": "treasure-island-image-generated-location-ship-galley"
     },
     {
       "worldId": "treasure-island-world",
@@ -361,7 +361,7 @@
       "iconType": "object",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-mutiny"
+      "imageId": "treasure-island-image-generated-location-apple-barrel"
     },
     {
       "worldId": "treasure-island-world",
@@ -377,7 +377,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-mutiny"
+      "imageId": "treasure-island-image-generated-location-forecastle"
     },
     {
       "worldId": "treasure-island-world",
@@ -392,7 +392,8 @@
       "y": 1510,
       "iconType": "harbor",
       "tags": [],
-      "factionId": null
+      "factionId": null,
+      "imageId": "treasure-island-image-generated-location-north-inlet"
     },
     {
       "worldId": "treasure-island-world",
@@ -407,7 +408,8 @@
       "y": 1275,
       "iconType": "mountain",
       "tags": [],
-      "factionId": null
+      "factionId": null,
+      "imageId": "treasure-island-image-generated-location-spyglass-hill"
     },
     {
       "worldId": "treasure-island-world",
@@ -422,7 +424,8 @@
       "y": 895,
       "iconType": "mountain",
       "tags": [],
-      "factionId": null
+      "factionId": null,
+      "imageId": "treasure-island-image-generated-location-mizzenmast-hill"
     },
     {
       "worldId": "treasure-island-world",
@@ -437,7 +440,8 @@
       "y": 1690,
       "iconType": "mountain",
       "tags": [],
-      "factionId": null
+      "factionId": null,
+      "imageId": "treasure-island-image-generated-location-foremast-hill"
     },
     {
       "worldId": "treasure-island-world",
@@ -453,7 +457,7 @@
       "iconType": "harbor",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-chapter-10"
+      "imageId": "treasure-island-image-generated-location-anchorage"
     },
     {
       "worldId": "treasure-island-world",
@@ -469,7 +473,7 @@
       "iconType": "swamp",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-gunn"
+      "imageId": "treasure-island-image-generated-location-swamp"
     },
     {
       "worldId": "treasure-island-world",
@@ -485,7 +489,7 @@
       "iconType": "fort",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-stockade"
+      "imageId": "treasure-island-image-generated-location-stockade"
     },
     {
       "worldId": "treasure-island-world",
@@ -501,7 +505,7 @@
       "iconType": "shore",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-ship-fight"
+      "imageId": "treasure-island-image-generated-location-landing"
     },
     {
       "worldId": "treasure-island-world",
@@ -517,7 +521,7 @@
       "iconType": "cave",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-gunn"
+      "imageId": "treasure-island-image-generated-location-ben-gunn-cave"
     },
     {
       "worldId": "treasure-island-world",
@@ -533,7 +537,7 @@
       "iconType": "shore",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-gunn"
+      "imageId": "treasure-island-image-generated-location-coracle-cache"
     },
     {
       "worldId": "treasure-island-world",
@@ -549,7 +553,7 @@
       "iconType": "ship",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-hands"
+      "imageId": "treasure-island-image-generated-location-hispaniola-grounded"
     },
     {
       "worldId": "treasure-island-world",
@@ -565,7 +569,7 @@
       "iconType": "forest",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-mutiny"
+      "imageId": "treasure-island-image-generated-location-alan-site"
     },
     {
       "worldId": "treasure-island-world",
@@ -581,7 +585,7 @@
       "iconType": "forest",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-knife"
+      "imageId": "treasure-island-image-generated-location-tom-site"
     },
     {
       "worldId": "treasure-island-world",
@@ -597,7 +601,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-treasure"
+      "imageId": "treasure-island-image-generated-location-skeleton"
     },
     {
       "worldId": "treasure-island-world",
@@ -613,7 +617,7 @@
       "iconType": "landmark",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-treasure"
+      "imageId": "treasure-island-image-generated-location-treasure-pit"
     },
     {
       "worldId": "treasure-island-world",
@@ -629,7 +633,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "treasure-island-image-smollett"
+      "imageId": "treasure-island-image-generated-location-livesey-house"
     }
   ],
   "characters": [
@@ -643,7 +647,7 @@
         "Jim"
       ],
       "description": "The innkeeper’s son whose curiosity, courage, and impulsive decisions carry him from the Admiral Benbow to the centre of the mutiny.",
-      "portraitImageId": "treasure-island-image-jim",
+      "portraitImageId": "treasure-island-image-generated-character-jim",
       "color": "#cf9b4a",
       "tags": [],
       "isAlive": true,
@@ -659,7 +663,7 @@
         "Jim’s mother"
       ],
       "description": "The practical keeper of the Admiral Benbow who insists on taking only the money honestly owed from Billy Bones’s chest.",
-      "portraitImageId": "treasure-island-image-departure",
+      "portraitImageId": "treasure-island-image-generated-character-mother",
       "color": "#8a6a55",
       "tags": [],
       "isAlive": true,
@@ -675,7 +679,7 @@
         "Jim’s father"
       ],
       "description": "The ailing innkeeper whose decline leaves Jim and his mother exposed to Billy Bones and his pursuers.",
-      "portraitImageId": "treasure-island-image-billy",
+      "portraitImageId": "treasure-island-image-generated-character-father",
       "color": "#77706c",
       "tags": [],
       "isAlive": false,
@@ -691,7 +695,7 @@
         "the captain"
       ],
       "description": "A scarred former mate of Captain Flint who hides at the Admiral Benbow with the dead pirate’s papers.",
-      "portraitImageId": "treasure-island-image-billy",
+      "portraitImageId": "treasure-island-image-generated-character-billy",
       "color": "#79513d",
       "tags": [],
       "isAlive": false,
@@ -705,7 +709,7 @@
       "name": "Black Dog",
       "aliases": [],
       "description": "A two-fingered pirate who locates Billy Bones and survives their violent reunion.",
-      "portraitImageId": "treasure-island-image-black-dog",
+      "portraitImageId": "treasure-island-image-generated-character-black-dog",
       "color": "#4f4740",
       "tags": [],
       "isAlive": true,
@@ -721,7 +725,7 @@
         "Pew"
       ],
       "description": "A blind and terrifying pirate messenger who delivers the black spot and commands the raid on the inn.",
-      "portraitImageId": "treasure-island-image-pew",
+      "portraitImageId": "treasure-island-image-generated-character-pew",
       "color": "#625c59",
       "tags": [],
       "isAlive": false,
@@ -737,7 +741,7 @@
         "Doctor Livesey"
       ],
       "description": "A physician, magistrate, and veteran who becomes the expedition’s calm strategist and medical officer.",
-      "portraitImageId": "treasure-island-image-smollett",
+      "portraitImageId": "treasure-island-image-generated-character-livesey",
       "color": "#527a76",
       "tags": [],
       "isAlive": true,
@@ -753,7 +757,7 @@
         "the squire"
       ],
       "description": "An enthusiastic landowner whose money launches the expedition, though his loose talk helps Silver recruit the crew.",
-      "portraitImageId": "treasure-island-image-departure",
+      "portraitImageId": "treasure-island-image-generated-character-trelawney",
       "color": "#8c684a",
       "tags": [],
       "isAlive": true,
@@ -769,7 +773,7 @@
         "Captain Smollett"
       ],
       "description": "The professional captain of the Hispaniola, suspicious of the voyage’s secrecy and exacting in defence of his loyal crew.",
-      "portraitImageId": "treasure-island-image-smollett",
+      "portraitImageId": "treasure-island-image-generated-character-smollett",
       "color": "#405b6b",
       "tags": [],
       "isAlive": true,
@@ -786,7 +790,7 @@
         "the sea-cook"
       ],
       "description": "A charismatic one-legged sea-cook and former Flint quartermaster who balances leadership of the mutiny against his own survival.",
-      "portraitImageId": "treasure-island-image-silver",
+      "portraitImageId": "treasure-island-image-generated-character-silver",
       "color": "#816846",
       "tags": [],
       "isAlive": true,
@@ -802,7 +806,7 @@
         "Silver’s parrot"
       ],
       "description": "Silver’s green parrot, named after the old pirate captain and trained to cry fragments of buccaneering speech.",
-      "portraitImageId": "treasure-island-image-parrot",
+      "portraitImageId": "treasure-island-image-generated-character-parrot",
       "color": "#56834d",
       "tags": [],
       "isAlive": true,
@@ -816,7 +820,7 @@
       "name": "Tom Redruth",
       "aliases": [],
       "description": "Trelawney’s elderly gamekeeper and a loyal member of the shore party.",
-      "portraitImageId": "treasure-island-image-stockade",
+      "portraitImageId": "treasure-island-image-generated-character-redruth",
       "color": "#805e45",
       "tags": [],
       "isAlive": false,
@@ -832,7 +836,7 @@
         "Gray"
       ],
       "description": "An honest seaman who breaks from the mutineers when Smollett calls the loyal hands aft.",
-      "portraitImageId": "treasure-island-image-stockade",
+      "portraitImageId": "treasure-island-image-generated-character-gray",
       "color": "#596d72",
       "tags": [],
       "isAlive": true,
@@ -846,7 +850,7 @@
       "name": "Ben Gunn",
       "aliases": [],
       "description": "A marooned former pirate who has survived alone for three years and holds the island’s decisive secret.",
-      "portraitImageId": "treasure-island-image-gunn",
+      "portraitImageId": "treasure-island-image-generated-character-gunn",
       "color": "#8c7955",
       "tags": [],
       "isAlive": true,
@@ -860,7 +864,7 @@
       "name": "Israel Hands",
       "aliases": [],
       "description": "The Hispaniola’s coxswain and an experienced pirate who remains aboard after the mutiny.",
-      "portraitImageId": "treasure-island-image-hands",
+      "portraitImageId": "treasure-island-image-generated-character-hands",
       "color": "#69564a",
       "tags": [],
       "isAlive": false,
@@ -874,7 +878,7 @@
       "name": "Job Anderson",
       "aliases": [],
       "description": "The ship’s boatswain and one of Silver’s chief mutineers during the attack on the stockade.",
-      "portraitImageId": "treasure-island-image-mutiny",
+      "portraitImageId": "treasure-island-image-generated-character-anderson",
       "color": "#70463d",
       "tags": [],
       "isAlive": false,
@@ -888,7 +892,7 @@
       "name": "George Merry",
       "aliases": [],
       "description": "An openly hostile pirate who challenges Silver’s authority when the treasure hunt collapses.",
-      "portraitImageId": "treasure-island-image-black-spot",
+      "portraitImageId": "treasure-island-image-generated-character-merry",
       "color": "#7a4d3e",
       "tags": [],
       "isAlive": false,
@@ -904,7 +908,7 @@
         "Dick"
       ],
       "description": "A young mutineer whose failing health and fear of Flint’s ghost expose the pirates’ crumbling confidence.",
-      "portraitImageId": "treasure-island-image-mutiny",
+      "portraitImageId": "treasure-island-image-generated-character-dick",
       "color": "#8b765c",
       "tags": [],
       "isAlive": true,
@@ -918,7 +922,7 @@
       "name": "Tom Morgan",
       "aliases": [],
       "description": "An older pirate who once sailed with Flint and joins Silver’s mutiny.",
-      "portraitImageId": "treasure-island-image-mutiny",
+      "portraitImageId": "treasure-island-image-generated-character-morgan",
       "color": "#6f5b4a",
       "tags": [],
       "isAlive": true,
@@ -934,7 +938,7 @@
         "the mate"
       ],
       "description": "The Hispaniola’s unreliable first mate, whose secret drinking ends in his disappearance at sea.",
-      "portraitImageId": "treasure-island-image-chapter-10",
+      "portraitImageId": "treasure-island-image-generated-character-arrow",
       "color": "#63727a",
       "tags": [],
       "isAlive": false,
@@ -950,7 +954,7 @@
         "Hunter"
       ],
       "description": "One of Trelawney’s servants and a loyal defender of the stockade.",
-      "portraitImageId": "treasure-island-image-stockade",
+      "portraitImageId": "treasure-island-image-generated-character-hunter",
       "color": "#667a55",
       "tags": [],
       "isAlive": false,
@@ -966,7 +970,7 @@
         "Joyce"
       ],
       "description": "Trelawney’s quiet valet, inexperienced in battle but steadfast at the stockade.",
-      "portraitImageId": "treasure-island-image-stockade",
+      "portraitImageId": "treasure-island-image-generated-character-joyce",
       "color": "#6c725c",
       "tags": [],
       "isAlive": false,
@@ -980,7 +984,7 @@
       "name": "Alan",
       "aliases": [],
       "description": "An honest sailor murdered after refusing to join the mutiny.",
-      "portraitImageId": "treasure-island-image-mutiny",
+      "portraitImageId": "treasure-island-image-generated-character-alan",
       "color": "#6e7374",
       "tags": [],
       "isAlive": false,
@@ -994,7 +998,7 @@
       "name": "Tom",
       "aliases": [],
       "description": "A loyal seaman who rejects Silver’s offer and pays for that refusal in the island woods.",
-      "portraitImageId": "treasure-island-image-knife",
+      "portraitImageId": "treasure-island-image-generated-character-tom",
       "color": "#6d685c",
       "tags": [],
       "isAlive": false,
@@ -1010,7 +1014,7 @@
         "Captain Flint"
       ],
       "description": "The dead buccaneer whose buried plunder, violent reputation, and old crew govern the living characters’ choices.",
-      "portraitImageId": "treasure-island-image-treasure",
+      "portraitImageId": "treasure-island-image-generated-character-flint",
       "color": "#443f3a",
       "tags": [],
       "isAlive": false,
@@ -1026,7 +1030,7 @@
       "name": "Flint’s Treasure Map",
       "description": "The island chart marked with bearings, memoranda, and three red crosses, one identifying the main cache.",
       "iconType": "map",
-      "imageId": "treasure-island-image-map-island",
+      "imageId": "treasure-island-image-generated-item-treasure-map",
       "tags": []
     },
     {
@@ -1037,7 +1041,7 @@
       "name": "Billy Bones’s Sea Chest",
       "description": "The tarred chest containing clothes, instruments, coins, and the oilskin packet sought by Flint’s former crew.",
       "iconType": "chest",
-      "imageId": "treasure-island-image-billy",
+      "imageId": "treasure-island-image-generated-item-sea-chest",
       "tags": []
     },
     {
@@ -1048,7 +1052,7 @@
       "name": "The Black Spot",
       "description": "A circular pirate summons cut from printed paper and used to depose or condemn a leader.",
       "iconType": "document",
-      "imageId": "treasure-island-image-black-spot",
+      "imageId": "treasure-island-image-generated-item-black-spot",
       "tags": []
     },
     {
@@ -1059,7 +1063,7 @@
       "name": "Oilskin Packet",
       "description": "The sealed bundle removed from Billy Bones’s chest and opened at Dr Livesey’s house.",
       "iconType": "package",
-      "imageId": "treasure-island-image-billy",
+      "imageId": "treasure-island-image-generated-item-oilskin",
       "tags": []
     },
     {
@@ -1070,7 +1074,7 @@
       "name": "Flint’s Account Book",
       "description": "A coded record of ships, dates, and accumulated sums that demonstrates the scale of Flint’s plunder.",
       "iconType": "book",
-      "imageId": "treasure-island-image-treasure",
+      "imageId": "treasure-island-image-generated-item-logbook",
       "tags": []
     },
     {
@@ -1081,7 +1085,7 @@
       "name": "Billy Bones’s Coins",
       "description": "A mixed hoard of foreign coinage from many voyages, used by Mrs Hawkins to calculate the inn’s debt.",
       "iconType": "treasure",
-      "imageId": "treasure-island-image-treasure",
+      "imageId": "treasure-island-image-generated-item-coins",
       "tags": []
     },
     {
@@ -1092,7 +1096,7 @@
       "name": "Silver’s Spyglass",
       "description": "A brass telescope suited to a sea-cook who knows ships, harbours, and men better than he first admits.",
       "iconType": "tool",
-      "imageId": "treasure-island-image-silver",
+      "imageId": "treasure-island-image-generated-item-spyglass",
       "tags": []
     },
     {
@@ -1103,7 +1107,7 @@
       "name": "Muskets and Pistols",
       "description": "The ship’s firearms, moved aft into the cabin where the squire’s party can reach them.",
       "iconType": "weapon",
-      "imageId": "treasure-island-image-stockade",
+      "imageId": "treasure-island-image-generated-item-weapons",
       "tags": []
     },
     {
@@ -1114,7 +1118,7 @@
       "name": "Powder and Ammunition",
       "description": "The expedition’s gunpowder and shot, moved away from the suspect crew and guarded by Smollett’s party.",
       "iconType": "resource",
-      "imageId": "treasure-island-image-stockade",
+      "imageId": "treasure-island-image-generated-item-powder",
       "tags": []
     },
     {
@@ -1125,7 +1129,7 @@
       "name": "Union Jack",
       "description": "The flag raised over the stockade by Captain Smollett as an open declaration of lawful command.",
       "iconType": "flag",
-      "imageId": "treasure-island-image-smollett",
+      "imageId": "treasure-island-image-generated-item-union-jack",
       "tags": []
     },
     {
@@ -1136,7 +1140,7 @@
       "name": "Jolly Roger",
       "description": "The pirate flag raised above the Hispaniola after the mutineers seize her.",
       "iconType": "flag",
-      "imageId": "treasure-island-image-ship-fight",
+      "imageId": "treasure-island-image-generated-item-jolly-roger",
       "tags": []
     },
     {
@@ -1147,7 +1151,7 @@
       "name": "Ben Gunn’s Coracle",
       "description": "A tiny hide-covered boat, light enough to carry but extremely difficult to steer in open water.",
       "iconType": "boat",
-      "imageId": "treasure-island-image-gunn",
+      "imageId": "treasure-island-image-generated-item-coracle",
       "tags": []
     },
     {
@@ -1158,7 +1162,7 @@
       "name": "Ben Gunn’s Boat",
       "description": "The small craft Ben Gunn built himself, hidden under a tent of goatskin.",
       "iconType": "boat",
-      "imageId": "treasure-island-image-gunn",
+      "imageId": "treasure-island-image-generated-item-ben-boat",
       "tags": []
     },
     {
@@ -1169,7 +1173,7 @@
       "name": "Flint’s Treasure",
       "description": "Bars, coins, and valuables accumulated through piracy and concealed on the island before Flint’s death.",
       "iconType": "treasure",
-      "imageId": "treasure-island-image-treasure",
+      "imageId": "treasure-island-image-generated-item-treasure",
       "tags": []
     },
     {
@@ -1180,7 +1184,7 @@
       "name": "Parmesan Cheese",
       "description": "A piece of cheese carried by Livesey and promised to the cheese-starved Ben Gunn.",
       "iconType": "food",
-      "imageId": "treasure-island-image-gunn",
+      "imageId": "treasure-island-image-generated-item-cheese",
       "tags": []
     }
   ],
@@ -8931,13 +8935,6 @@
   ],
   "blobs": [
     {
-      "id": "treasure-island-image-cover",
-      "worldId": "treasure-island-world",
-      "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Treasure_Island-Scribner%27s-1911.jpg/1280px-Treasure_Island-Scribner%27s-1911.jpg",
-      "createdAt": 1786057200000
-    },
-    {
       "id": "treasure-island-image-map-atlantic",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
@@ -8966,137 +8963,580 @@
       "createdAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-jim",
+      "id": "treasure-island-image-generated-cover",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TI-JimHawkins.jpg/1280px-TI-JimHawkins.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/cover.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-silver",
+      "id": "treasure-island-image-generated-character-jim",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/N._C._Wyeth_-_Long_John_Silver_%26_Jim_Hawkins.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/jim.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-billy",
+      "id": "treasure-island-image-generated-character-mother",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TI-billy.jpg/1280px-TI-billy.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/mother.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-black-dog",
+      "id": "treasure-island-image-generated-character-father",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TI-BlackDog.jpg/1280px-TI-BlackDog.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/father.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-pew",
+      "id": "treasure-island-image-generated-character-billy",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TI-blindpew.jpg/1280px-TI-blindpew.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/billy.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-gunn",
+      "id": "treasure-island-image-generated-character-black-dog",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/TI-Gunn.jpg/1280px-TI-Gunn.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/black-dog.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-hands",
+      "id": "treasure-island-image-generated-character-pew",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TI-Israel.jpg/1280px-TI-Israel.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/pew.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-smollett",
+      "id": "treasure-island-image-generated-character-livesey",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TI-Smollett_%28restored%29.jpg/1280px-TI-Smollett_%28restored%29.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/livesey.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-stockade",
+      "id": "treasure-island-image-generated-character-trelawney",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TI-stockade.jpg/1280px-TI-stockade.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/trelawney.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-treasure",
+      "id": "treasure-island-image-generated-character-smollett",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TI-treasure.jpg/1280px-TI-treasure.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/smollett.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-black-spot",
+      "id": "treasure-island-image-generated-character-silver",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TI-BlackSpot.jpg/1280px-TI-BlackSpot.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/silver.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-knife",
+      "id": "treasure-island-image-generated-character-parrot",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/TI-knife.jpg/1280px-TI-knife.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/parrot.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-parrot",
+      "id": "treasure-island-image-generated-character-redruth",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/TI-parrot.jpg/1280px-TI-parrot.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/redruth.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-mutiny",
+      "id": "treasure-island-image-generated-character-gray",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TI-PreparingFormutiny.jpg/1280px-TI-PreparingFormutiny.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/gray.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-hostage",
+      "id": "treasure-island-image-generated-character-gunn",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/N._C._Wyeth_-_Treasure_Island_-_The_Hostage.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/gunn.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-departure",
+      "id": "treasure-island-image-generated-character-hands",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/N._C._Wyeth_-_Treasure_Island_-_Jim_Hawkins_leaves_home.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/hands.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-bones-routs",
+      "id": "treasure-island-image-generated-character-anderson",
       "worldId": "treasure-island-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/N._C._Wyeth_-_Captain_Bones_routs_Black_Dog.jpg",
-      "createdAt": 1786057200000
+      "url": "library/treasure-island/art/generated/characters/anderson.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-chapter-10",
+      "id": "treasure-island-image-generated-character-merry",
       "worldId": "treasure-island-world",
-      "mimeType": "image/png",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Treasure_Island_Chapter_10.png",
-      "createdAt": 1786057200000
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/merry.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     },
     {
-      "id": "treasure-island-image-ship-fight",
+      "id": "treasure-island-image-generated-character-dick",
       "worldId": "treasure-island-world",
-      "mimeType": "image/png",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Treasure-island03.png",
-      "createdAt": 1786057200000
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/dick.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-character-morgan",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/morgan.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-character-arrow",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/arrow.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-character-hunter",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/hunter.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-character-joyce",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/joyce.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-character-alan",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/alan.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-character-tom",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/tom.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-character-flint",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/characters/flint.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-treasure-map",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/treasure-map.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-sea-chest",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/sea-chest.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-black-spot",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/black-spot.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-oilskin",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/oilskin.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-logbook",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/logbook.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-coins",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/coins.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-spyglass",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/spyglass.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-weapons",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/weapons.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-powder",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/powder.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-union-jack",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/union-jack.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-jolly-roger",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/jolly-roger.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-coracle",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/coracle.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-ben-boat",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/ben-boat.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-treasure",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/treasure.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-item-cheese",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/items/cheese.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-admiral-benbow",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/admiral-benbow.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-bristol-entrance",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/bristol-entrance.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-hispaniola-entrance",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/hispaniola-entrance.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-island-entrance",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/island-entrance.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-trelawney-lodgings",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/trelawney-lodgings.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-spyglass",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/spyglass.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-bristol-quay",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/bristol-quay.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-ship-berth",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/ship-berth.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-ship-deck",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/ship-deck.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-ship-roundhouse",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/ship-roundhouse.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-ship-cabin",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/ship-cabin.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-ship-hold",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/ship-hold.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-ship-galley",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/ship-galley.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-apple-barrel",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/apple-barrel.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-forecastle",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/forecastle.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-north-inlet",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/north-inlet.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-spyglass-hill",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/spyglass-hill.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-mizzenmast-hill",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/mizzenmast-hill.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-foremast-hill",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/foremast-hill.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-anchorage",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/anchorage.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-swamp",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/swamp.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-stockade",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/stockade.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-landing",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/landing.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-ben-gunn-cave",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/ben-gunn-cave.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-coracle-cache",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/coracle-cache.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-hispaniola-grounded",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/hispaniola-grounded.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-alan-site",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/alan-site.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-tom-site",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/tom-site.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-skeleton",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/skeleton.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-treasure-pit",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/treasure-pit.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
+    },
+    {
+      "id": "treasure-island-image-generated-location-livesey-house",
+      "worldId": "treasure-island-world",
+      "mimeType": "image/jpeg",
+      "url": "library/treasure-island/art/generated/locations/livesey-house.jpg",
+      "createdAt": 1786057200000,
+      "updatedAt": 1786057200000
     }
   ],
   "travelModes": [],
@@ -9225,9 +9665,9 @@
       "id": "treasure-island-lore-page-1",
       "categoryId": "treasure-island-lore-category-sources",
       "title": "Linked Artwork and Maps",
-      "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #120, divided across all 34 chapters and modeled events. Gutenberg packaging, the dedication, prefatory poem, contents, part headings, and repeated chapter headings are excluded. Maps and illustrations are documented separately in this page.",
+      "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #120, divided across all 34 chapters and modeled events. Gutenberg packaging, the dedication, prefatory poem, contents, part headings, and repeated chapter headings are excluded. Maps and illustrations are documented separately in this page. The cover, all character portraits, item plates, and location scenes in this edition are original generated illustrations with a coherent mid-eighteenth-century maritime visual direction. The four linked editorial maps remain available for geography and ship layout. Twenty superseded external non-map illustration source records are archived with the integration documentation.",
       "tags": [],
-      "coverImageId": "treasure-island-image-cover",
+      "coverImageId": "treasure-island-image-generated-cover",
       "linkedEntityIds": [
         "treasure-island-world"
       ],
@@ -9257,7 +9697,7 @@
       "title": "The Black Spot",
       "body": "Flint’s former crew uses a circular paper token as a formal notice of judgment or removal. Its power depends entirely on shared pirate custom and the recipient’s fear of collective action.",
       "tags": [],
-      "coverImageId": "treasure-island-image-black-spot",
+      "coverImageId": "treasure-island-image-generated-item-black-spot",
       "linkedEntityIds": [
         "treasure-island-item-black-spot"
       ],
@@ -9272,7 +9712,7 @@
       "title": "Shares and Pirate Articles",
       "body": "Silver’s followers think in negotiated shares, elected leadership, and collective accusation, even while violence repeatedly overrides their procedures.",
       "tags": [],
-      "coverImageId": "treasure-island-image-mutiny",
+      "coverImageId": "treasure-island-image-generated-character-silver",
       "linkedEntityIds": [
         "treasure-island-faction-mutineers"
       ],
@@ -9287,7 +9727,7 @@
       "title": "The Hispaniola",
       "body": "A schooner requires coordinated watches, sail handling, steering, anchoring, and knowledge of tide. Once discipline collapses, even possession of the ship does not guarantee control.",
       "tags": [],
-      "coverImageId": "treasure-island-image-chapter-10",
+      "coverImageId": "treasure-island-image-generated-location-ship-deck",
       "linkedEntityIds": [
         "treasure-island-map-hispaniola"
       ],
@@ -9302,7 +9742,7 @@
       "title": "The Coracle",
       "body": "Gunn’s small hide-covered boat is light and concealable but turns readily and offers almost no protection from current or surf.",
       "tags": [],
-      "coverImageId": "treasure-island-image-gunn",
+      "coverImageId": "treasure-island-image-generated-item-coracle",
       "linkedEntityIds": [
         "treasure-island-item-coracle"
       ],
@@ -9332,7 +9772,7 @@
       "title": "Bristol and Atlantic Trade",
       "body": "The expedition departs from a port capable of supplying a ship, arms, food, and a large pool of experienced sailors, honest and otherwise.",
       "tags": [],
-      "coverImageId": "treasure-island-image-departure",
+      "coverImageId": "treasure-island-image-generated-location-bristol-entrance",
       "linkedEntityIds": [
         "treasure-island-map-bristol"
       ],
@@ -9347,7 +9787,7 @@
       "title": "Captain Flint’s Last Voyage",
       "body": "Before the novel begins, Flint buries a vast cache on the island, kills the men who helped him, and leaves a map and remembered trail of terror.",
       "tags": [],
-      "coverImageId": "treasure-island-image-treasure",
+      "coverImageId": "treasure-island-image-generated-item-treasure",
       "linkedEntityIds": [
         "treasure-island-char-flint",
         "treasure-island-item-treasure"
@@ -9363,7 +9803,7 @@
       "title": "Ben Gunn’s Marooning",
       "body": "Gunn returns to the island with another crew, fails to find the treasure, and is abandoned with minimal supplies. Three solitary years reshape him into both comic survivor and strategic power.",
       "tags": [],
-      "coverImageId": "treasure-island-image-gunn",
+      "coverImageId": "treasure-island-image-generated-character-gunn",
       "linkedEntityIds": [
         "treasure-island-char-gunn"
       ],
@@ -9378,7 +9818,7 @@
       "title": "Songs, Parrots, and Memory",
       "body": "Fragments of pirate language outlive their original setting. Silver’s parrot and Gunn’s imitation of Flint turn repeated words into instruments of identity and fear.",
       "tags": [],
-      "coverImageId": "treasure-island-image-parrot",
+      "coverImageId": "treasure-island-image-generated-character-parrot",
       "linkedEntityIds": [
         "treasure-island-char-parrot"
       ],
@@ -9394,7 +9834,7 @@
       "name": "The Loyal Party",
       "description": "Smollett’s officers, Trelawney’s servants, Jim, and the sailors who uphold the expedition after the mutiny.",
       "color": "#486979",
-      "coverImageId": "treasure-island-image-smollett",
+      "coverImageId": "treasure-island-image-generated-character-smollett",
       "tags": []
     },
     {
@@ -9405,7 +9845,7 @@
       "name": "The Hispaniola Mutineers",
       "description": "Silver’s recruited pirates and wavering seamen, united by the hope of taking Flint’s treasure and the ship.",
       "color": "#8a4b3c",
-      "coverImageId": "treasure-island-image-mutiny",
+      "coverImageId": "treasure-island-image-generated-character-silver",
       "tags": []
     },
     {
@@ -9416,7 +9856,7 @@
       "name": "Captain Flint’s Former Crew",
       "description": "The scattered survivors of Flint’s piratical company, whose past violence creates the novel’s map, grudges, and rituals.",
       "color": "#5f5145",
-      "coverImageId": "treasure-island-image-treasure",
+      "coverImageId": "treasure-island-image-generated-character-flint",
       "tags": []
     },
     {
@@ -9427,7 +9867,7 @@
       "name": "The Hawkins Household",
       "description": "The family and inn exposed to Billy Bones’s presence at the Admiral Benbow.",
       "color": "#7d684e",
-      "coverImageId": "treasure-island-image-departure",
+      "coverImageId": "treasure-island-image-generated-location-admiral-benbow",
       "tags": []
     }
   ],
