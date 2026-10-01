@@ -6,7 +6,7 @@
     "id": "tale-of-two-cities-world",
     "name": "A Tale of Two Cities",
     "description": "Charles Dickens’s story of London and Paris follows Lucie Manette, Charles Darnay, and Sydney Carton from a private resurrection in 1775 through the French Revolution. Family love, inherited violence, political judgment, and chosen sacrifice bind the two cities as lives are recalled, condemned, exchanged, and carried into the future.",
-    "coverImageId": "tale-of-two-cities-image-cover",
+    "coverImageId": "tale-of-two-cities-image-generated-cover",
     "theme": "theme-action",
     "readingMode": true,
     "createdAt": 1786377600000,
@@ -133,7 +133,7 @@
       "description": "The English capital where Tellson’s Bank connects private lives to events across the Channel.",
       "x": 115,
       "y": 1349,
-      "imageId": "tale-of-two-cities-image-barnard-12",
+      "imageId": "tale-of-two-cities-image-generated-location-london-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -149,7 +149,7 @@
       "description": "The steep, muddy rise on the Dover road where suspicion surrounds the night mail.",
       "x": 245,
       "y": 1254,
-      "imageId": "tale-of-two-cities-image-pg-0414m",
+      "imageId": "tale-of-two-cities-image-generated-location-shooters-hill",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -165,7 +165,7 @@
       "description": "The Channel port where Lucie learns why Tellson’s has summoned her.",
       "x": 510,
       "y": 1134,
-      "imageId": "tale-of-two-cities-image-barnard-13",
+      "imageId": "tale-of-two-cities-image-generated-location-dover",
       "iconType": "harbor",
       "tags": [],
       "factionId": null
@@ -181,7 +181,7 @@
       "description": "The French landing from which Lorry, Lucie, and the recalled prisoner travel toward Paris.",
       "x": 650,
       "y": 1094,
-      "imageId": "tale-of-two-cities-image-phiz-15",
+      "imageId": "tale-of-two-cities-image-generated-location-calais",
       "iconType": "harbor",
       "tags": [],
       "factionId": null
@@ -197,7 +197,7 @@
       "description": "The French capital where imprisonment, revolution, family history, and sacrifice converge.",
       "x": 765,
       "y": 214,
-      "imageId": "tale-of-two-cities-image-barnard-14",
+      "imageId": "tale-of-two-cities-image-generated-location-paris-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -213,7 +213,7 @@
       "description": "A hungry village beneath the marquis’s château, marked by a child’s death and a father’s revenge.",
       "x": 700,
       "y": 364,
-      "imageId": "tale-of-two-cities-image-barnard-21",
+      "imageId": "tale-of-two-cities-image-generated-location-evremonde-village",
       "iconType": "village",
       "tags": [],
       "factionId": null
@@ -229,7 +229,7 @@
       "description": "The stone country seat whose inherited cruelty Darnay renounces.",
       "x": 730,
       "y": 394,
-      "imageId": "tale-of-two-cities-image-barnard-20",
+      "imageId": "tale-of-two-cities-image-generated-location-evremonde-chateau",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -245,7 +245,7 @@
       "description": "The district from which the road-mender carries news of the hanging and the château fire.",
       "x": 675,
       "y": 429,
-      "imageId": "tale-of-two-cities-image-pg-0544m",
+      "imageId": "tale-of-two-cities-image-generated-location-beauvais",
       "iconType": "village",
       "tags": [],
       "factionId": null
@@ -261,7 +261,7 @@
       "description": "An old, cramped bank whose ledgers, couriers, and loyal clerks bridge London and Paris. ",
       "x": 820,
       "y": 357,
-      "imageId": "tale-of-two-cities-image-barnard-12",
+      "imageId": "tale-of-two-cities-image-generated-location-tellsons-london",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -277,7 +277,7 @@
       "description": "The criminal court where resemblance and unreliable testimony save Charles Darnay from a traitor’s death.",
       "x": 790,
       "y": 322,
-      "imageId": "tale-of-two-cities-image-phiz-10",
+      "imageId": "tale-of-two-cities-image-generated-location-old-bailey",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -293,7 +293,7 @@
       "description": "Lucie’s quiet household, where recalled life, courtship, friendship, and approaching footsteps gather.",
       "x": 570,
       "y": 462,
-      "imageId": "tale-of-two-cities-image-barnard-15",
+      "imageId": "tale-of-two-cities-image-generated-location-soho-house",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -309,7 +309,7 @@
       "description": "The legal rooms where Carton performs the insight and labour credited to the ambitious barrister.",
       "x": 805,
       "y": 342,
-      "imageId": "tale-of-two-cities-image-barnard-18",
+      "imageId": "tale-of-two-cities-image-generated-location-stryer-chambers",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -325,7 +325,7 @@
       "description": "Jerry’s lodging near the Fleet Street world of Tellson’s, divided between domestic intimidation, secret prayer, and nocturnal graveyard work.",
       "x": 845,
       "y": 377,
-      "imageId": "tale-of-two-cities-image-phiz-24",
+      "imageId": "tale-of-two-cities-image-generated-location-cruncher-home",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -341,7 +341,7 @@
       "description": "The burial ground where Jerry’s “fishing” trade confronts an unexpectedly empty coffin.",
       "x": 610,
       "y": 582,
-      "imageId": "tale-of-two-cities-image-barnard-25",
+      "imageId": "tale-of-two-cities-image-generated-location-st-pancras",
       "iconType": "cemetery",
       "tags": [],
       "factionId": null
@@ -357,7 +357,7 @@
       "description": "The noisy legal and commercial artery between Tellson’s, Temple Bar, and the courts.",
       "x": 830,
       "y": 372,
-      "imageId": "tale-of-two-cities-image-pg-0524m",
+      "imageId": "tale-of-two-cities-image-generated-location-fleet-street",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -373,7 +373,7 @@
       "description": "A working wine-shop in the eastern faubourg that becomes a revolutionary listening post and registry.",
       "x": 1110,
       "y": 482,
-      "imageId": "tale-of-two-cities-image-phiz-16",
+      "imageId": "tale-of-two-cities-image-generated-location-defarge-wine",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -389,7 +389,7 @@
       "description": "The locked upper room where Doctor Manette makes shoes until Lucie reaches him.",
       "x": 1125,
       "y": 497,
-      "imageId": "tale-of-two-cities-image-pg-0442m",
+      "imageId": "tale-of-two-cities-image-generated-location-defarge-garret",
       "iconType": "room",
       "tags": [],
       "factionId": null
@@ -405,7 +405,7 @@
       "description": "The fortress at the eastern end of the city that held Manette for eighteen years.",
       "x": 1030,
       "y": 457,
-      "imageId": "tale-of-two-cities-image-phiz-5",
+      "imageId": "tale-of-two-cities-image-generated-location-bastille",
       "iconType": "fortress",
       "tags": [],
       "factionId": null
@@ -421,7 +421,7 @@
       "description": "The bank’s threatened Paris branch near the central commercial city, serving émigrés while Lorry protects records and people.",
       "x": 620,
       "y": 442,
-      "imageId": "tale-of-two-cities-image-barnard-11",
+      "imageId": "tale-of-two-cities-image-generated-location-tellsons-paris",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -437,7 +437,7 @@
       "description": "The Marais prison where Darnay joins the nightly roll of those marked for trial.",
       "x": 850,
       "y": 497,
-      "imageId": "tale-of-two-cities-image-barnard-6",
+      "imageId": "tale-of-two-cities-image-generated-location-la-force",
       "iconType": "prison",
       "tags": [],
       "factionId": null
@@ -453,7 +453,7 @@
       "description": "The prison beside the Palais de Justice on the Île de la Cité where Carton exchanges one condemned identity for another.",
       "x": 650,
       "y": 387,
-      "imageId": "tale-of-two-cities-image-barnard-7",
+      "imageId": "tale-of-two-cities-image-generated-location-conciergerie",
       "iconType": "prison",
       "tags": [],
       "factionId": null
@@ -469,7 +469,7 @@
       "description": "The court at the Palais de Justice that first acquits Darnay and then condemns him through Manette’s Bastille letter.",
       "x": 675,
       "y": 397,
-      "imageId": "tale-of-two-cities-image-barnard-22",
+      "imageId": "tale-of-two-cities-image-generated-location-tribunal",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -485,7 +485,7 @@
       "description": "The former Place Louis XV at the western end of the Tuileries, toward which the tumbrils carry Carton and the seamstress.",
       "x": 275,
       "y": 437,
-      "imageId": "tale-of-two-cities-image-barnard-4",
+      "imageId": "tale-of-two-cities-image-generated-location-place-revolution",
       "iconType": "square",
       "tags": [],
       "factionId": null
@@ -501,7 +501,7 @@
       "description": "The temporary household near the prison quarter from which Lucie keeps her daily vigil and the family prepares escape.",
       "x": 805,
       "y": 512,
-      "imageId": "tale-of-two-cities-image-barnard-10",
+      "imageId": "tale-of-two-cities-image-generated-location-manette-paris",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -517,7 +517,7 @@
       "description": "The street corner beneath La Force where Lucie stands daily within sight of Darnay’s unseen window.",
       "x": 875,
       "y": 487,
-      "imageId": "tale-of-two-cities-image-barnard-16",
+      "imageId": "tale-of-two-cities-image-generated-location-wood-sawyer",
       "iconType": "street",
       "tags": [],
       "factionId": null
@@ -533,7 +533,7 @@
       "description": "The bloodied sharpening stone outside the bank where Doctor Manette enters the revolutionary crowd.",
       "x": 600,
       "y": 452,
-      "imageId": "tale-of-two-cities-image-barnard-17",
+      "imageId": "tale-of-two-cities-image-generated-location-grindstone",
       "iconType": "courtyard",
       "tags": [],
       "factionId": null
@@ -549,7 +549,7 @@
       "description": "The densely inhabited eastern quarter whose hunger, organizing, and collective fury drive the rising sea.",
       "x": 1150,
       "y": 457,
-      "imageId": "tale-of-two-cities-image-barnard-14",
+      "imageId": "tale-of-two-cities-image-generated-location-saint-antoine",
       "iconType": "district",
       "tags": [],
       "factionId": null
@@ -565,7 +565,7 @@
       "description": "The streets carrying Carton and the seamstress westward from the Conciergerie to the Place de la Révolution.",
       "x": 500,
       "y": 412,
-      "imageId": "tale-of-two-cities-image-barnard-4",
+      "imageId": "tale-of-two-cities-image-generated-location-tumbril",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -580,7 +580,7 @@
       "name": "Sydney Carton",
       "aliases": [],
       "description": "A brilliant, self-neglecting barrister whose resemblance to Darnay and love for Lucie give his wasted life a final chosen purpose.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-15",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-carton",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -596,7 +596,7 @@
         "Charles Evrémonde"
       ],
       "description": "A French aristocrat who renounces his family name and estate but cannot escape the obligations and crimes attached to them.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-6",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-darnay",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -610,7 +610,7 @@
       "name": "Lucie Manette",
       "aliases": [],
       "description": "Doctor Manette’s compassionate daughter, the golden thread binding a household across exile, trauma, and revolution.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-13",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-lucie",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -624,7 +624,7 @@
       "name": "Doctor Alexandre Manette",
       "aliases": [],
       "description": "A physician recalled from eighteen years in the Bastille, whose authority and hidden testimony pull in opposite directions.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-8",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-manette",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -638,7 +638,7 @@
       "name": "Jarvis Lorry",
       "aliases": [],
       "description": "Tellson’s practical and deeply loyal clerk, accustomed to calling devotion business.",
-      "portraitImageId": "tale-of-two-cities-image-phiz-11",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-lorry",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -652,7 +652,7 @@
       "name": "Miss Pross",
       "aliases": [],
       "description": "Lucie’s fierce English guardian, whose loyalty culminates in a physical stand against Madame Defarge.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-1",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-pross",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -668,7 +668,7 @@
         "Madame Defarge"
       ],
       "description": "A Saint Antoine organizer who encodes condemned names in knitting and refuses every boundary on inherited vengeance.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-24",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-madame-defarge",
       "color": "#76554d",
       "tags": [],
       "isAlive": false,
@@ -684,7 +684,7 @@
         "Monsieur Defarge"
       ],
       "description": "A wine-shop keeper and former servant of Manette who leads revolutionary action while retaining traces of pity.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-23",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-defarge",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -698,7 +698,7 @@
       "name": "Jerry Cruncher",
       "aliases": [],
       "description": "Tellson’s messenger and porter, publicly respectable by day and a grave-robber by night.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-12",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-jerry",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -712,7 +712,7 @@
       "name": "Young Jerry Cruncher",
       "aliases": [],
       "description": "Jerry’s observant son, fascinated and unsettled by the gap between his father’s declared and secret trades.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-25",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-young-jerry",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -726,7 +726,7 @@
       "name": "Mrs. Cruncher",
       "aliases": [],
       "description": "Jerry’s abused wife, whose private prayer and moral resistance survive his suspicion and threats.",
-      "portraitImageId": "tale-of-two-cities-image-pg-0535m",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-mrs-cruncher",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -740,7 +740,7 @@
       "name": "C. J. Stryver",
       "aliases": [],
       "description": "An ambitious barrister who turns Carton’s insight into professional success and treats marriage as advancement.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-18",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-stryver",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -756,7 +756,7 @@
         "Solomon Pross"
       ],
       "description": "A professional spy whose concealed identity and access to the prisons make him vulnerable to Carton’s leverage.",
-      "portraitImageId": "tale-of-two-cities-image-pg-0653m",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-barsad",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -770,7 +770,7 @@
       "name": "Roger Cly",
       "aliases": [],
       "description": "An Old Bailey witness who swears he had no motive in giving evidence but public duty.",
-      "portraitImageId": "tale-of-two-cities-image-phiz-14",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-cly",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -784,7 +784,7 @@
       "name": "Marquis St. Evrémonde",
       "aliases": [],
       "description": "Darnay’s cruel uncle, treating peasant lives as natural tribute to aristocratic privilege.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-20",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-marquis",
       "color": "#76554d",
       "tags": [],
       "isAlive": false,
@@ -798,7 +798,7 @@
       "name": "Théophile Gabelle",
       "aliases": [],
       "description": "The Evrémonde estate agent whose endangered appeal draws Darnay back into revolutionary France.",
-      "portraitImageId": "tale-of-two-cities-image-phiz-22",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-gabelle",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -814,7 +814,7 @@
         "The Wood-Sawyer"
       ],
       "description": "A village witness transformed into a revolutionary enthusiast and observer beneath La Force.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-21",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-road-mender",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -828,7 +828,7 @@
       "name": "The Vengeance",
       "aliases": [],
       "description": "Madame Defarge’s close companion and an eager public voice of revolutionary punishment.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-5",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-vengeance",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -842,7 +842,7 @@
       "name": "Gaspard",
       "aliases": [],
       "description": "A bereaved father who avenges his child’s death by killing the marquis.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-2",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-gaspard",
       "color": "#76554d",
       "tags": [],
       "isAlive": false,
@@ -856,7 +856,7 @@
       "name": "Joseph-François Foulon",
       "aliases": [],
       "description": "A hated official whose contempt for starvation returns upon him in revolutionary violence.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-19",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-foulon",
       "color": "#76554d",
       "tags": [],
       "isAlive": false,
@@ -870,7 +870,7 @@
       "name": "Monseigneur",
       "aliases": [],
       "description": "A great lord whose ritualized luxury exemplifies the ancien régime’s distance from hunger.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-11",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-monseigneur",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -884,7 +884,7 @@
       "name": "Jacques Three",
       "aliases": [],
       "description": "A bloodthirsty revolutionary juryman who presses punishment beyond evidence or mercy.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-16",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-jacques-three",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -898,7 +898,7 @@
       "name": "President of the Tribunal",
       "aliases": [],
       "description": "The presiding voice of revolutionary justice, converting accusation and applause into sentences.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-22",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-president",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -912,7 +912,7 @@
       "name": "The Little Seamstress",
       "aliases": [],
       "description": "A young condemned prisoner who recognizes Carton’s substitution and shares his final journey with quiet courage.",
-      "portraitImageId": "tale-of-two-cities-image-barnard-4",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-seamstress",
       "color": "#76554d",
       "tags": [],
       "isAlive": false,
@@ -926,7 +926,7 @@
       "name": "Little Lucie",
       "aliases": [],
       "description": "Lucie and Charles’s daughter, carrying the household’s future through flight and bereavement.",
-      "portraitImageId": "tale-of-two-cities-image-pg-0686m",
+      "portraitImageId": "tale-of-two-cities-image-generated-character-little-lucie",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
@@ -942,7 +942,7 @@
       "name": "“Recalled to Life” Message",
       "description": "Lorry’s strange reply to Tellson’s summons, carrying private hope through a dangerous public road.",
       "iconType": "scroll",
-      "imageId": "tale-of-two-cities-image-pg-0414m",
+      "imageId": "tale-of-two-cities-image-generated-item-recalled-note",
       "tags": []
     },
     {
@@ -953,7 +953,7 @@
       "name": "Shoemaking Bench and Tools",
       "description": "The prison occupation through which Manette’s mind retreats from unbearable memory.",
       "iconType": "tool",
-      "imageId": "tale-of-two-cities-image-phiz-2",
+      "imageId": "tale-of-two-cities-image-generated-item-shoemaking-tools",
       "tags": []
     },
     {
@@ -964,7 +964,7 @@
       "name": "Golden Hair Keepsake",
       "description": "A strand connecting Manette’s lost family life to the daughter standing before him.",
       "iconType": "misc",
-      "imageId": "tale-of-two-cities-image-pg-0442m",
+      "imageId": "tale-of-two-cities-image-generated-item-golden-hair",
       "tags": []
     },
     {
@@ -975,7 +975,7 @@
       "name": "Broken Wine Cask",
       "description": "The spilled wine that briefly feeds Saint Antoine and stains the street with an image of blood.",
       "iconType": "food",
-      "imageId": "tale-of-two-cities-image-phiz-16",
+      "imageId": "tale-of-two-cities-image-generated-item-wine-cask",
       "tags": []
     },
     {
@@ -986,7 +986,7 @@
       "name": "Knitted Register",
       "description": "Madame Defarge’s encoded list of people marked for revolutionary death.",
       "iconType": "textile",
-      "imageId": "tale-of-two-cities-image-pg-0544m",
+      "imageId": "tale-of-two-cities-image-generated-item-knitted-register",
       "tags": []
     },
     {
@@ -997,7 +997,7 @@
       "name": "Darnay’s Renunciation Letter",
       "description": "The private declaration by which Charles tells his uncle he rejects the Evrémonde inheritance.",
       "iconType": "scroll",
-      "imageId": "tale-of-two-cities-image-pg-0496m",
+      "imageId": "tale-of-two-cities-image-generated-item-darnay-letter",
       "tags": []
     },
     {
@@ -1008,7 +1008,7 @@
       "name": "Gabelle’s Prison Appeal",
       "description": "A desperate request addressed to the emigrant marquis that draws Darnay back to France.",
       "iconType": "scroll",
-      "imageId": "tale-of-two-cities-image-pg-0616m",
+      "imageId": "tale-of-two-cities-image-generated-item-gabelle-appeal",
       "tags": []
     },
     {
@@ -1019,7 +1019,7 @@
       "name": "Manette’s Bastille Letter",
       "description": "The hidden account of the Evrémonde crime and Manette’s curse upon their descendants.",
       "iconType": "scroll",
-      "imageId": "tale-of-two-cities-image-barnard-9",
+      "imageId": "tale-of-two-cities-image-generated-item-manette-letter",
       "tags": []
     },
     {
@@ -1030,7 +1030,7 @@
       "name": "Barsad’s Spy Card",
       "description": "Carton’s remembered proof that Solomon Pross is the prison spy John Barsad.",
       "iconType": "card",
-      "imageId": "tale-of-two-cities-image-pg-0653m",
+      "imageId": "tale-of-two-cities-image-generated-item-barsad-card",
       "tags": []
     },
     {
@@ -1041,7 +1041,7 @@
       "name": "Carton’s Escape Papers",
       "description": "Passes and identity documents prepared to carry the Manette household and an unconscious Darnay out of France.",
       "iconType": "scroll",
-      "imageId": "tale-of-two-cities-image-pg-0686m",
+      "imageId": "tale-of-two-cities-image-generated-item-carton-papers",
       "tags": []
     },
     {
@@ -1052,7 +1052,7 @@
       "name": "Carton’s Sedative",
       "description": "The chemical means by which Carton prevents Darnay from resisting the exchange.",
       "iconType": "flask",
-      "imageId": "tale-of-two-cities-image-barnard-7",
+      "imageId": "tale-of-two-cities-image-generated-item-drug",
       "tags": []
     },
     {
@@ -1063,7 +1063,7 @@
       "name": "The Guillotine",
       "description": "The revolutionary instrument repeatedly imagined as both public justice and mechanized death.",
       "iconType": "weapon",
-      "imageId": "tale-of-two-cities-image-pg-0592m",
+      "imageId": "tale-of-two-cities-image-generated-item-guillotine",
       "tags": []
     },
     {
@@ -1074,7 +1074,7 @@
       "name": "The Third Tumbril",
       "description": "The cart carrying Carton and the seamstress through Paris toward execution.",
       "iconType": "vehicle",
-      "imageId": "tale-of-two-cities-image-barnard-4",
+      "imageId": "tale-of-two-cities-image-generated-item-tumbril",
       "tags": []
     },
     {
@@ -1085,7 +1085,7 @@
       "name": "Evrémonde Château Key",
       "description": "A symbol of inherited property that cannot unlock moral freedom or protect the estate from fire.",
       "iconType": "key",
-      "imageId": "tale-of-two-cities-image-barnard-20",
+      "imageId": "tale-of-two-cities-image-generated-item-chateau-key",
       "tags": []
     },
     {
@@ -1096,7 +1096,7 @@
       "name": "La Force Evening List",
       "description": "The roll call that determines who remains buried and who is summoned before the tribunal.",
       "iconType": "scroll",
-      "imageId": "tale-of-two-cities-image-pg-0649m",
+      "imageId": "tale-of-two-cities-image-generated-item-prison-list",
       "tags": []
     }
   ],
@@ -6912,517 +6912,6 @@
   ],
   "blobs": [
     {
-      "id": "tale-of-two-cities-image-cover",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cover%20for%20A%20Tale%20of%20Two%20Cities%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-1",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20Fred%20Barnard%2C%20Miss%20Pross%20et%20Lucie.jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-2",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20%22He%20stooped%20a%20little%22%20(II%2C8).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-3",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20%22What%20is%20this%3F%22%20(I%2C6).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-4",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20(III%2C%2015)%20The%20Third%20Tumbril%2C%20Carton%20with%20another%20blameless%20victim.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-5",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20A%20Female%20Jacobin%20(The%20Vengeance%20or%20Mme%20Defarge).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-6",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20Darnay%20arrested%20in%20Paris%20(III%2C1).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-7",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20Darnay%20leaving%20the%20courtroom%20to%20be%20executed%20the%20following%20day%20(III%2C11).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-8",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20Dr%20Manette%20et%20Mr%20Lorry%20(II%2C14).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-9",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20Dr%20Manette's%20epistolary%20denunciation%20of%20the%20Evr%C3%A9mondes%20brothers%20(III%2C8).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-10",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20Dr%20Manette%2C%20out%20of%20his%20senses%2C%20after%20midnight%20on%20the%20day%20of%20Darnay's%20sentence%20(III%2C12).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-11",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20elderly%20exiled%20French%20aristocrats%20at%20Tellson's%20(II%2C24).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-12",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20Jerry%20Cruncher%20and%20his%20son%20outside%20Tellson%20Bank%20(II%2C1).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-13",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20Lucie%20meets%20Javis%20Lorry%20(I%2C4).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-14",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20Saint-Antoine%20(11%2C16).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-15",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20SydneyCarton%20and%20Lucie%20Manette%20(I%2C13).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-16",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20The%20Carmagnole%20(III%2C5).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-17",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20The%20Grindstone%20(III%2C2).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-18",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20The%20Lion%20and%20the%20Jackal%20(II%2C5).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-19",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20The%20Mob%20attacking%20Foulon%20de%20Dou%C3%A9%2C%2022%20July%201789%20(II%2C22).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-20",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20The%20Murdered%20Marquis%20(II%2C9).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-21",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20The%20Road-Mender%20narrates%20the%20story%20of%20the%20decaying%20corpse%20(II%2C15).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-22",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20The%20trial%20of%20Evr%C3%A9monde%20(III%2C9).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-23",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Fred%20Barnard%2C%20The%20Wine-Shop%20in%20St.%20Antoine.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-24",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20Mme%20Defarge%20confronts%20Miss%20Pross%20(III%2C14)%2C%20by%20Fred%20Barnard.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-barnard-25",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'The%20Resurrectionists'%20Wellcome%20L0001670.jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-2",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mr%20Lorry%20and%20Miss%20Pross%20guiltily%20destroy%20Dr%20Manette's%20workbench%20(Phiz).jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-3",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20After%20the%20Sentence%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-4",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20Before%20the%20Prison%20Tribunal%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-5",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20Dr%20Manette%20in%20Bastille%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-6",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20Mr%20Stryver%20at%20Tellson's%20Bank%2C%20by%20Phiz.jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-7",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20Sous%20le%20platane%20Frontispiece%2C%20par%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-8",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Double%20Recognition%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-9",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Knock%20at%20the%20Door%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-10",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Likeness%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-11",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Mail%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-12",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Sea%20Rises%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-13",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Shoemaker%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-14",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Spy's%20Funeral%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-15",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Stoppage%20at%20the%20Fountain%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-16",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%20The%20Wine-Shop.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-17",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C%2C%20The%20Double%20Recognition%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-18",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/T2C.%20Mr%20Stryver%20congratulates%20his%20client%2C%20by%20Phiz.jpeg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-19",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tale%20of%20two%20cities%2C%20by%20Phiz.PNG?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-20",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p142%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-21",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p154%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-22",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p162%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-23",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p202%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-24",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p220%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-25",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p246%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-26",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p290%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-27",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p292%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-28",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p332%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-29",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p36%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-30",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p42%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-31",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p6%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-32",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p70%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-33",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p76%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-phiz-34",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Writings%20of%20Charles%20Dickens%20v20%20p96%20(engraving).jpg?width=1000",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0414m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0414m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0442m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0442m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0465m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0465m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0471m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0471m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0496m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0496m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0524m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0524m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0535m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0535m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0544m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0544m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0576m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0576m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0592m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0592m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0616m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0616m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0649m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0649m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0653m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0653m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
-      "id": "tale-of-two-cities-image-pg-0686m",
-      "worldId": "tale-of-two-cities-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/98/images/0686m.jpg",
-      "createdAt": 1786377600000
-    },
-    {
       "id": "tale-of-two-cities-image-map-route",
       "worldId": "tale-of-two-cities-world",
       "mimeType": "image/jpeg",
@@ -7442,6 +6931,558 @@
       "mimeType": "image/jpeg",
       "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Louis-Joseph%20Mondhare%2C%20Plan%20de%20la%20ville%20et%20faubourg%20de%20Paris%20divis%C3%A9%20en%20ses%2048%20sections%2C%201790%20-%20Gallica.jpg?width=1280",
       "createdAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-cover",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/cover.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-carton",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/carton.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-darnay",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/darnay.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-lucie",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/lucie.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-manette",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/manette.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-lorry",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/lorry.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-pross",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/pross.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-madame-defarge",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/madame-defarge.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-defarge",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/defarge.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-jerry",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/jerry.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-young-jerry",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/young-jerry.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-mrs-cruncher",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/mrs-cruncher.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-stryver",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/stryver.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-barsad",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/barsad.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-cly",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/cly.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-marquis",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/marquis.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-gabelle",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/gabelle.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-road-mender",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/road-mender.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-vengeance",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/vengeance.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-gaspard",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/gaspard.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-foulon",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/foulon.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-monseigneur",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/monseigneur.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-jacques-three",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/jacques-three.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-president",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/president.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-seamstress",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/seamstress.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-character-little-lucie",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/characters/little-lucie.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-recalled-note",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/recalled-note.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-shoemaking-tools",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/shoemaking-tools.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-golden-hair",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/golden-hair.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-wine-cask",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/wine-cask.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-knitted-register",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/knitted-register.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-darnay-letter",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/darnay-letter.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-gabelle-appeal",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/gabelle-appeal.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-manette-letter",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/manette-letter.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-barsad-card",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/barsad-card.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-carton-papers",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/carton-papers.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-drug",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/drug.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-guillotine",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/guillotine.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-tumbril",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/tumbril.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-chateau-key",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/chateau-key.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-item-prison-list",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/items/prison-list.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-london-gate",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/london-gate.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-shooters-hill",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/shooters-hill.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-dover",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/dover.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-calais",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/calais.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-paris-gate",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/paris-gate.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-evremonde-village",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/evremonde-village.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-evremonde-chateau",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/evremonde-chateau.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-beauvais",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/beauvais.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-tellsons-london",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/tellsons-london.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-old-bailey",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/old-bailey.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-soho-house",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/soho-house.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-stryer-chambers",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/stryer-chambers.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-cruncher-home",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/cruncher-home.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-st-pancras",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/st-pancras.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-fleet-street",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/fleet-street.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-defarge-wine",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/defarge-wine.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-defarge-garret",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/defarge-garret.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-bastille",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/bastille.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-tellsons-paris",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/tellsons-paris.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-la-force",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/la-force.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-conciergerie",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/conciergerie.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-tribunal",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/tribunal.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-place-revolution",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/place-revolution.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-manette-paris",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/manette-paris.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-wood-sawyer",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/wood-sawyer.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-grindstone",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/grindstone.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-saint-antoine",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/saint-antoine.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
+    },
+    {
+      "id": "tale-of-two-cities-image-generated-location-tumbril",
+      "worldId": "tale-of-two-cities-world",
+      "mimeType": "image/jpeg",
+      "url": "library/a-tale-of-two-cities/art/generated/locations/tumbril.jpg",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000
     }
   ],
   "travelModes": [],
@@ -7565,9 +7606,9 @@
       "id": "tale-of-two-cities-lore-page-1",
       "categoryId": "tale-of-two-cities-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "This world follows all three books and forty-five chapters of the public-domain Project Gutenberg text. Visuals link to mature period engravings by Fred Barnard and Hablot K. Browne (“Phiz”) on Wikimedia Commons and Project Gutenberg. The route, London, and Paris layers use linked historical maps rather than decorative scene art.",
+      "body": "This world follows all three books and forty-five chapters of the public-domain Project Gutenberg text. The original visual edition linked mature period engravings by Fred Barnard and Hablot K. Browne (Phiz) on Wikimedia Commons and Project Gutenberg; those source records are archived with the integration documentation. The route, London, and Paris layers use linked historical maps rather than decorative scene art. The cover, all character portraits, item plates, and location scenes in this edition are original generated illustrations in a historically grounded late-eighteenth-century style. The linked route, London, and Paris historical maps remain in use. Superseded external non-map illustration source records are archived with the integration documentation.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-cover",
+      "coverImageId": "tale-of-two-cities-image-generated-cover",
       "linkedEntityIds": [
         "tale-of-two-cities-world"
       ],
@@ -7582,7 +7623,7 @@
       "title": "From 1775 to the Terror",
       "body": "The story begins before the American Revolution and moves through the fall of the Bastille into the French Revolutionary Terror. Exact event dates outside firmly dated public events are editorial reconstruction for a coherent calendar.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-barnard-16",
+      "coverImageId": "tale-of-two-cities-image-generated-location-paris-gate",
       "linkedEntityIds": [
         "tale-of-two-cities-map-route"
       ],
@@ -7597,7 +7638,7 @@
       "title": "The Bastille and Prison Memory",
       "body": "Manette’s eighteen years in the Bastille make a destroyed fortress remain active in his habits, authority, and hidden testimony. One Hundred and Five, North Tower becomes both address and identity.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-phiz-6",
+      "coverImageId": "tale-of-two-cities-image-generated-location-bastille",
       "linkedEntityIds": [
         "tale-of-two-cities-char-manette",
         "tale-of-two-cities-loc-bastille"
@@ -7613,7 +7654,7 @@
       "title": "Revolutionary Prisons and the Tribunal",
       "body": "La Force and the Conciergerie held prisoners during the Revolution, while extraordinary courts accelerated accusation, judgment, and execution under political pressure.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-barnard-22",
+      "coverImageId": "tale-of-two-cities-image-generated-location-conciergerie",
       "linkedEntityIds": [
         "tale-of-two-cities-loc-la-force",
         "tale-of-two-cities-loc-conciergerie",
@@ -7630,7 +7671,7 @@
       "title": "The Old Bailey and Treason Evidence",
       "body": "The English trial tests recognition, informers, and credibility. Carton’s observation of resemblance creates reasonable doubt without proving Darnay’s movements harmless.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-phiz-11",
+      "coverImageId": "tale-of-two-cities-image-generated-location-old-bailey",
       "linkedEntityIds": [
         "tale-of-two-cities-loc-old-bailey",
         "tale-of-two-cities-char-barsad"
@@ -7646,7 +7687,7 @@
       "title": "Resurrection Men",
       "body": "Before legal medical supply met demand, grave robbers sold bodies for anatomical study. Jerry’s “fishing” literalizes the novel’s language of recalled life while exposing a hidden economy around death.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-barnard-25",
+      "coverImageId": "tale-of-two-cities-image-generated-location-st-pancras",
       "linkedEntityIds": [
         "tale-of-two-cities-char-jerry",
         "tale-of-two-cities-loc-st-pancras"
@@ -7662,7 +7703,7 @@
       "title": "Knitting as Register",
       "body": "Madame Defarge’s textile code turns ordinary public work into durable surveillance. The register joins household craft to political intelligence and makes forgetting impossible.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-barnard-5",
+      "coverImageId": "tale-of-two-cities-image-generated-item-knitted-register",
       "linkedEntityIds": [
         "tale-of-two-cities-item-knitted-register",
         "tale-of-two-cities-char-madame-defarge"
@@ -7678,7 +7719,7 @@
       "title": "Mail, Road, and Channel",
       "body": "The Dover road and Channel crossing connect Tellson’s two houses. Mud, weather, papers, and suspicion make travel time a force in every rescue and arrest.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-phiz-11",
+      "coverImageId": "tale-of-two-cities-image-generated-location-shooters-hill",
       "linkedEntityIds": [
         "tale-of-two-cities-map-route",
         "tale-of-two-cities-loc-shooters-hill"
@@ -7694,7 +7735,7 @@
       "title": "Guillotine and Tumbrils",
       "body": "Condemned prisoners travelled by open cart to the execution square. Dickens presents the machine as the endpoint of decisions that crowds and institutions repeatedly choose.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-barnard-4",
+      "coverImageId": "tale-of-two-cities-image-generated-item-guillotine",
       "linkedEntityIds": [
         "tale-of-two-cities-item-guillotine",
         "tale-of-two-cities-item-tumbril"
@@ -7710,7 +7751,7 @@
       "title": "Doubling and Chosen Identity",
       "body": "Carton and Darnay look alike but live under different relations to talent, love, inheritance, and responsibility. The final exchange makes likeness a deliberate moral act.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-phiz-12",
+      "coverImageId": "tale-of-two-cities-image-generated-character-carton",
       "linkedEntityIds": [
         "tale-of-two-cities-char-carton",
         "tale-of-two-cities-char-darnay"
@@ -7726,7 +7767,7 @@
       "title": "Resurrection and the Golden Thread",
       "body": "Return from prison, empty coffins, acquittals, and substituted identities complicate resurrection. Lucie’s care gives those returns a household in which they can become life rather than spectacle.",
       "tags": [],
-      "coverImageId": "tale-of-two-cities-image-barnard-1",
+      "coverImageId": "tale-of-two-cities-image-generated-character-lucie",
       "linkedEntityIds": [
         "tale-of-two-cities-char-lucie",
         "tale-of-two-cities-char-manette"
