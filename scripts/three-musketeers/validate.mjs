@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import { fileURLToPath } from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..','..'),slug='the-three-musketeers',assetSlug='three-musketeers';
+const world=JSON.parse(fs.readFileSync(path.join(root,'library',`${slug}.pwk`),'utf8')),blobs=new Map(world.blobs.map(b=>[b.id,b])),fail=[];
+const req=(id,label)=>{const b=blobs.get(id);if(!b)return fail.push(`${label}: missing blob ${id}`);if(b.url.startsWith('library/')){const f=path.join(root,...b.url.split('/'));if(!fs.existsSync(f))fail.push(`${label}: missing file ${b.url}`)}};
+req(world.world.coverImageId,'world cover');for(const x of world.characters)req(x.portraitImageId,`character ${x.id}`);for(const x of world.items)req(x.imageId,`item ${x.id}`);for(const x of world.locationMarkers)req(x.imageId,`location ${x.id}`);for(const x of world.mapLayers)req(x.imageId,`map ${x.id}`);for(const x of world.lorePages)req(x.coverImageId,`lore ${x.id}`);
+const generated=world.blobs.filter(b=>b.id.includes('image-generated-')),mapIds=new Set(world.mapLayers.map(x=>x.imageId)),external=world.blobs.filter(b=>/^https?:/.test(b.url)&&!mapIds.has(b.id));
+if(generated.length!==58)fail.push(`expected 58 generated blobs, got ${generated.length}`);if(mapIds.size!==4)fail.push(`expected 4 maps, got ${mapIds.size}`);if(external.length)fail.push(`external non-map blobs remain: ${external.map(b=>b.id).join(', ')}`);
+const archive=path.join(root,'scripts',assetSlug,'superseded-external-sources.json');if(!fs.existsSync(archive))fail.push('missing superseded external source archive');else{const a=JSON.parse(fs.readFileSync(archive));if(!Array.isArray(a.blobs)||a.blobs.length!==94)fail.push(`expected 94 archived blobs, got ${a.blobs?.length??0}`)}
+const hashes=new Map();for(const b of generated){const f=path.join(root,...b.url.split('/'));if(!fs.existsSync(f))continue;const bytes=fs.readFileSync(f);if(bytes.subarray(0,2).toString('hex')!=='ffd8')fail.push(`${b.url}: not JPEG`);const h=crypto.createHash('sha256').update(bytes).digest('hex');if(hashes.has(h))fail.push(`duplicate: ${hashes.get(h)} and ${b.url}`);hashes.set(h,b.url)}
+if(fail.length){console.error(fail.join('\n'));process.exit(1)}console.log(JSON.stringify({generated:generated.length,maps:mapIds.size,characters:world.characters.length,items:world.items.length,locations:world.locationMarkers.length,loreCovers:world.lorePages.length,externalNonMaps:0,duplicates:0},null,2));

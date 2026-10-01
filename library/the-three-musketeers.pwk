@@ -6,7 +6,7 @@
     "id": "three-musketeers-world",
     "name": "The Three Musketeers",
     "description": "Alexandre Dumas’s historical adventure follows the young Gascon d’Artagnan as he reaches Paris, joins Athos, Porthos, and Aramis, and is drawn into the conflict between Queen Anne, Cardinal Richelieu, Milady de Winter, and the siege of La Rochelle. Friendship turns a series of duels into a shared code, while letters, jewels, disguises, and old crimes make private loyalty politically dangerous.",
-    "coverImageId": "three-musketeers-image-cover",
+    "coverImageId": "three-musketeers-image-generated-cover",
     "theme": "theme-action",
     "readingMode": true,
     "createdAt": 1786579200000,
@@ -150,7 +150,7 @@
       "description": "The south-western province from which d’Artagnan rides north with a family letter, a yellow horse, and an ambition for the King’s Musketeers.",
       "x": 650,
       "y": 190,
-      "imageId": "three-musketeers-image-leloir-10",
+      "imageId": "three-musketeers-image-generated-location-gascony",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -166,7 +166,7 @@
       "description": "The Loire town where a stranger mocks d’Artagnan’s horse, steals his introduction, and turns a provincial arrival into a personal feud.",
       "x": 790,
       "y": 595,
-      "imageId": "three-musketeers-image-leloir-11",
+      "imageId": "three-musketeers-image-generated-location-meung",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -182,7 +182,7 @@
       "description": "The capital of royal court, Cardinal’s guards, convents, taverns, and fragile patronage; its marker opens the city plan.",
       "x": 830,
       "y": 665,
-      "imageId": "three-musketeers-image-leloir-27",
+      "imageId": "three-musketeers-image-generated-location-paris-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -198,7 +198,7 @@
       "description": "The French Channel port from which d’Artagnan crosses to England during the diamond mission.",
       "x": 790,
       "y": 760,
-      "imageId": "three-musketeers-image-calais-location",
+      "imageId": "three-musketeers-image-generated-location-calais",
       "iconType": "port",
       "tags": [],
       "factionId": null
@@ -214,7 +214,7 @@
       "description": "The Protestant Atlantic port besieged by the royal army; its marker opens the siege plan.",
       "x": 620,
       "y": 415,
-      "imageId": "three-musketeers-image-la-rochelle-location",
+      "imageId": "three-musketeers-image-generated-location-la-rochelle-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -230,7 +230,7 @@
       "description": "The town where Porthos is wounded and stays behind.",
       "x": 815,
       "y": 695,
-      "imageId": "three-musketeers-image-leloir-20",
+      "imageId": "three-musketeers-image-generated-location-chantilly",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -246,7 +246,7 @@
       "description": "The Picardy halt where Aramis recovers from the journey and receives the message that restores both his spirits and his equipment.",
       "x": 780,
       "y": 710,
-      "imageId": "three-musketeers-image-leloir-21",
+      "imageId": "three-musketeers-image-generated-location-crevecoeur",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -262,7 +262,7 @@
       "description": "The city where Athos barricades himself in an inn cellar after being separated from the English mission.",
       "x": 790,
       "y": 725,
-      "imageId": "three-musketeers-image-leloir-22",
+      "imageId": "three-musketeers-image-generated-location-amiens",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -278,7 +278,7 @@
       "description": "The northern convent where Constance waits under protection and Milady reaches her before the musketeers.",
       "x": 805,
       "y": 755,
-      "imageId": "three-musketeers-image-leloir-39",
+      "imageId": "three-musketeers-image-generated-location-bethune-convent",
       "iconType": "religious",
       "tags": [],
       "factionId": null
@@ -294,7 +294,7 @@
       "description": "The riverside town north-east of Béthune where the witnesses overtake Milady and conduct the final trial and execution.",
       "x": 825,
       "y": 770,
-      "imageId": "three-musketeers-image-leloir-40",
+      "imageId": "three-musketeers-image-generated-location-armentieres",
       "iconType": "town",
       "tags": [],
       "factionId": null
@@ -310,7 +310,7 @@
       "description": "The English setting for the diamond mission, Buckingham’s household, and Milady’s captivity; its marker opens the British map.",
       "x": 650,
       "y": 815,
-      "imageId": "three-musketeers-image-leloir-28",
+      "imageId": "three-musketeers-image-generated-location-london-gate",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -326,7 +326,7 @@
       "description": "The royal palace where Anne of Austria faces Richelieu’s pressure and trusts Constance with a dangerous errand.",
       "x": 930,
       "y": 276,
-      "imageId": "three-musketeers-image-leloir-32",
+      "imageId": "three-musketeers-image-generated-location-louvre",
       "iconType": "palace",
       "tags": [],
       "factionId": null
@@ -342,7 +342,7 @@
       "description": "The companions’ separate lodgings in the Saint-Germain quarter, represented together as the domestic centre of their compact.",
       "x": 1040,
       "y": 271,
-      "imageId": "three-musketeers-image-leloir-36",
+      "imageId": "three-musketeers-image-generated-location-musketeers-lodging",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -358,7 +358,7 @@
       "description": "The meeting ground near the Luxembourg quarter where three intended duels become a fight against the Cardinal’s guards.",
       "x": 1120,
       "y": 206,
-      "imageId": "three-musketeers-image-leloir-26",
+      "imageId": "three-musketeers-image-generated-location-carmes",
       "iconType": "religious",
       "tags": [],
       "factionId": null
@@ -374,7 +374,7 @@
       "description": "The draper’s house in the rue des Fossoyeurs where Constance is watched, abducted, rescued, and drawn into royal service.",
       "x": 1100,
       "y": 241,
-      "imageId": "three-musketeers-image-leloir-38",
+      "imageId": "three-musketeers-image-generated-location-bonacieux-house",
       "iconType": "home",
       "tags": [],
       "factionId": null
@@ -390,7 +390,7 @@
       "description": "The streets and gardens around the new Luxembourg Palace, used for concealed meetings between court and city.",
       "x": 1220,
       "y": 206,
-      "imageId": "three-musketeers-image-luxembourg-location",
+      "imageId": "three-musketeers-image-generated-location-luxembourg",
       "iconType": "garden",
       "tags": [],
       "factionId": null
@@ -406,7 +406,7 @@
       "description": "Richelieu’s headquarters north of the Louvre, from which guards, agents, and written commissions are directed.",
       "x": 850,
       "y": 526,
-      "imageId": "three-musketeers-image-leloir-41",
+      "imageId": "three-musketeers-image-generated-location-cardinal-palace",
       "iconType": "palace",
       "tags": [],
       "factionId": null
@@ -422,7 +422,7 @@
       "description": "The eastern state fortress threatened whenever a secret, letter, or witness becomes inconvenient to the Cardinal’s network.",
       "x": 1660,
       "y": 646,
-      "imageId": "three-musketeers-image-bastille-location",
+      "imageId": "three-musketeers-image-generated-location-bastille",
       "iconType": "fortress",
       "tags": [],
       "factionId": null
@@ -438,7 +438,7 @@
       "description": "The Duke’s London house, where the missing diamond studs are replaced before d’Artagnan’s return to France.",
       "x": 975,
       "y": 233,
-      "imageId": "three-musketeers-image-buckingham-location",
+      "imageId": "three-musketeers-image-generated-location-buckingham-house",
       "iconType": "palace",
       "tags": [],
       "factionId": null
@@ -454,7 +454,7 @@
       "description": "The south-coast port where Felton assassinates Buckingham as the expedition for La Rochelle prepares to sail.",
       "x": 890,
       "y": 178,
-      "imageId": "three-musketeers-image-leloir-44",
+      "imageId": "three-musketeers-image-generated-location-portsmouth",
       "iconType": "port",
       "tags": [],
       "factionId": null
@@ -470,7 +470,7 @@
       "description": "The guarded English residence near Portsmouth where Milady studies Felton and turns imprisonment into escape.",
       "x": 865,
       "y": 188,
-      "imageId": "three-musketeers-image-leloir-43",
+      "imageId": "three-musketeers-image-generated-location-winter-castle",
       "iconType": "fortress",
       "tags": [],
       "factionId": null
@@ -486,7 +486,7 @@
       "description": "The King’s military headquarters outside the walls, where the musketeers serve and receive orders.",
       "x": 700,
       "y": 1452,
-      "imageId": "three-musketeers-image-watch",
+      "imageId": "three-musketeers-image-generated-location-camp",
       "iconType": "camp",
       "tags": [],
       "factionId": null
@@ -502,7 +502,7 @@
       "description": "The contested water approach whose closure is vital to Richelieu’s siege and the English relief effort.",
       "x": 555,
       "y": 1327,
-      "imageId": "three-musketeers-image-seawall-location",
+      "imageId": "three-musketeers-image-generated-location-seawall",
       "iconType": "fortification",
       "tags": [],
       "factionId": null
@@ -518,7 +518,7 @@
       "description": "An exposed work beyond the royal lines where the four friends breakfast under fire while deciding how to counter Milady.",
       "x": 760,
       "y": 1302,
-      "imageId": "three-musketeers-image-leloir-46",
+      "imageId": "three-musketeers-image-generated-location-bastion",
       "iconType": "fortification",
       "tags": [],
       "factionId": null
@@ -534,7 +534,7 @@
       "description": "An inn near the camp where the musketeers overhear Richelieu and Milady through a stovepipe.",
       "x": 720,
       "y": 1397,
-      "imageId": "three-musketeers-image-leloir-37",
+      "imageId": "three-musketeers-image-generated-location-inn",
       "iconType": "inn",
       "tags": [],
       "factionId": null
@@ -549,7 +549,7 @@
       "name": "d’Artagnan",
       "aliases": [],
       "description": "A quick-tempered young Gascon who comes to Paris seeking a musketeer’s uniform and learns that courage, friendship, and secrecy have a price.",
-      "portraitImageId": "three-musketeers-image-portrait-dartagnan",
+      "portraitImageId": "three-musketeers-image-generated-character-dartagnan",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -563,7 +563,7 @@
       "name": "Athos",
       "aliases": [],
       "description": "The oldest and most guarded of the three musketeers, whose calm authority and concealed history make him both counsellor and judge.",
-      "portraitImageId": "three-musketeers-image-portrait-athos",
+      "portraitImageId": "three-musketeers-image-generated-character-athos",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -577,7 +577,7 @@
       "name": "Porthos",
       "aliases": [],
       "description": "A powerful musketeer who enjoys fine clothes, generous meals, and theatrical confidence, yet remains steadfast when the group is in danger.",
-      "portraitImageId": "three-musketeers-image-portrait-porthos",
+      "portraitImageId": "three-musketeers-image-generated-character-porthos",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -591,7 +591,7 @@
       "name": "Aramis",
       "aliases": [],
       "description": "A graceful musketeer divided between soldiering, letters, courtly intrigue, and an imagined future in the Church.",
-      "portraitImageId": "three-musketeers-image-portrait-aramis",
+      "portraitImageId": "three-musketeers-image-generated-character-aramis",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -605,7 +605,7 @@
       "name": "Constance Bonacieux",
       "aliases": [],
       "description": "The Queen’s confidante and the draper’s neglected wife, whose courage in a court secret draws d’Artagnan into the conflict.",
-      "portraitImageId": "three-musketeers-image-portrait-constance",
+      "portraitImageId": "three-musketeers-image-generated-character-constance",
       "color": "#795443",
       "tags": [],
       "isAlive": false,
@@ -619,7 +619,7 @@
       "name": "Anne of Austria",
       "aliases": [],
       "description": "Queen of France, vulnerable to Richelieu’s political pressure and dependent on a small circle of trusted agents.",
-      "portraitImageId": "three-musketeers-image-portrait-anne",
+      "portraitImageId": "three-musketeers-image-generated-character-anne",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -633,7 +633,7 @@
       "name": "Louis XIII",
       "aliases": [],
       "description": "King of France, jealous of Buckingham, eager for military glory, and often steered by rival influences at court.",
-      "portraitImageId": "three-musketeers-image-portrait-louis",
+      "portraitImageId": "three-musketeers-image-generated-character-louis",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -647,7 +647,7 @@
       "name": "Cardinal Richelieu",
       "aliases": [],
       "description": "The King’s minister, a master of information and state power whose conflict with the Queen becomes personal through Milady.",
-      "portraitImageId": "three-musketeers-image-portrait-richelieu",
+      "portraitImageId": "three-musketeers-image-generated-character-richelieu",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -661,7 +661,7 @@
       "name": "Milady de Winter",
       "aliases": [],
       "description": "An intelligent and ruthless agent whose shifting identities, private grievance, and Cardinal’s commission make her the musketeers’ most dangerous adversary.",
-      "portraitImageId": "three-musketeers-image-portrait-milady",
+      "portraitImageId": "three-musketeers-image-generated-character-milady",
       "color": "#795443",
       "tags": [],
       "isAlive": false,
@@ -675,7 +675,7 @@
       "name": "George Villiers, Duke of Buckingham",
       "aliases": [],
       "description": "The English duke whose devotion to Anne of Austria transforms a courtly token into an international danger.",
-      "portraitImageId": "three-musketeers-image-portrait-buckingham",
+      "portraitImageId": "three-musketeers-image-generated-character-buckingham",
       "color": "#795443",
       "tags": [],
       "isAlive": false,
@@ -689,7 +689,7 @@
       "name": "Monsieur Bonacieux",
       "aliases": [],
       "description": "A Paris draper whose fear and self-interest repeatedly expose the people closest to him.",
-      "portraitImageId": "three-musketeers-image-portrait-bonacieux",
+      "portraitImageId": "three-musketeers-image-generated-character-bonacieux",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -703,7 +703,7 @@
       "name": "Madame Coquenard",
       "aliases": [],
       "description": "A procurator’s wife whose attachment to Porthos becomes entangled with his need for campaign equipment and her hopes for a grander future.",
-      "portraitImageId": "three-musketeers-image-portrait-coquenard",
+      "portraitImageId": "three-musketeers-image-generated-character-coquenard",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -717,7 +717,7 @@
       "name": "Duchesse de Chevreuse",
       "aliases": [],
       "description": "The Queen’s exiled confidante and Aramis’s concealed patron, maintaining political and romantic connections through coded letters.",
-      "portraitImageId": null,
+      "portraitImageId": "three-musketeers-image-generated-character-chevreuse",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -731,7 +731,7 @@
       "name": "Comte de Wardes",
       "aliases": [],
       "description": "An English-connected nobleman whose identity d’Artagnan borrows in his dangerous deception of Milady.",
-      "portraitImageId": "three-musketeers-image-portrait-de-wardes",
+      "portraitImageId": "three-musketeers-image-generated-character-de-wardes",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -745,7 +745,7 @@
       "name": "Monsieur de Tréville",
       "aliases": [],
       "description": "Captain of the King’s Musketeers, who recognizes d’Artagnan’s promise and protects the corps against Richelieu’s hostility.",
-      "portraitImageId": "three-musketeers-image-portrait-treville",
+      "portraitImageId": "three-musketeers-image-generated-character-de-treville",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -759,7 +759,7 @@
       "name": "Comte de Rochefort",
       "aliases": [],
       "description": "The scarred man from Meung and Richelieu’s field agent, pursued by d’Artagnan across the novel.",
-      "portraitImageId": "three-musketeers-image-portrait-rochefort",
+      "portraitImageId": "three-musketeers-image-generated-character-rochefort",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -773,7 +773,7 @@
       "name": "Kitty",
       "aliases": [],
       "description": "Milady’s maid, whose sympathy for d’Artagnan creates a brief opening inside Milady’s household.",
-      "portraitImageId": "three-musketeers-image-portrait-ketty",
+      "portraitImageId": "three-musketeers-image-generated-character-ketty",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -787,7 +787,7 @@
       "name": "John Felton",
       "aliases": [],
       "description": "Buckingham’s severe Puritan officer, manipulated by Milady into believing murder can serve virtue and religion.",
-      "portraitImageId": "three-musketeers-image-portrait-felton",
+      "portraitImageId": "three-musketeers-image-generated-character-felton",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -801,7 +801,7 @@
       "name": "Lord de Winter",
       "aliases": [],
       "description": "Milady’s brother-in-law and former victim, who guards her in England and joins the final pursuit after her escape.",
-      "portraitImageId": "three-musketeers-image-portrait-winter",
+      "portraitImageId": "three-musketeers-image-generated-character-winter",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -815,7 +815,7 @@
       "name": "The Lille Executioner",
       "aliases": [],
       "description": "A man whose sister was destroyed by Milady’s earlier actions and who carries the final sentence into the river.",
-      "portraitImageId": "three-musketeers-image-portrait-executioner",
+      "portraitImageId": "three-musketeers-image-generated-character-executioner",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -829,7 +829,7 @@
       "name": "Jussac",
       "aliases": [],
       "description": "A captain among the Cardinal’s guards, defeated in the early street fight that makes the four friends conspicuous.",
-      "portraitImageId": "three-musketeers-image-portrait-jussac",
+      "portraitImageId": "three-musketeers-image-generated-character-jussac",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -843,7 +843,7 @@
       "name": "Planchet",
       "aliases": [],
       "description": "d’Artagnan’s practical servant, increasingly loyal and resourceful in travel, messages, and danger.",
-      "portraitImageId": "three-musketeers-image-portrait-planchet",
+      "portraitImageId": "three-musketeers-image-generated-character-planchet",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -857,7 +857,7 @@
       "name": "Grimaud",
       "aliases": [],
       "description": "Athos’s laconic servant, trained to notice much and say very little.",
-      "portraitImageId": "three-musketeers-image-portrait-grimaud",
+      "portraitImageId": "three-musketeers-image-generated-character-grimaud",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -871,7 +871,7 @@
       "name": "Mousqueton",
       "aliases": [],
       "description": "Porthos’s exuberant servant, as fond of display as his master but dependable on campaign.",
-      "portraitImageId": "three-musketeers-image-portrait-mousqueton",
+      "portraitImageId": "three-musketeers-image-generated-character-mousqueton",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -885,7 +885,7 @@
       "name": "Bazin",
       "aliases": [],
       "description": "Aramis’s devout servant, constantly hopeful that his master will finally choose the cassock.",
-      "portraitImageId": "three-musketeers-image-portrait-bazin",
+      "portraitImageId": "three-musketeers-image-generated-character-bazin",
       "color": "#795443",
       "tags": [],
       "isAlive": true,
@@ -901,7 +901,7 @@
       "name": "Letter of Introduction",
       "description": "The family letter intended for de Tréville, stolen at Meung and replaced only by d’Artagnan’s earned reputation.",
       "iconType": "document",
-      "imageId": "three-musketeers-image-item-letter",
+      "imageId": "three-musketeers-image-generated-item-letter",
       "tags": []
     },
     {
@@ -912,7 +912,7 @@
       "name": "The Queen’s Diamond Studs",
       "description": "A royal gift to Buckingham whose absence at the ballet would give Richelieu public evidence against the Queen.",
       "iconType": "jewellery",
-      "imageId": "three-musketeers-image-item-diamonds",
+      "imageId": "three-musketeers-image-generated-item-diamond",
       "tags": []
     },
     {
@@ -923,7 +923,7 @@
       "name": "Gascon Sword",
       "description": "D’Artagnan’s sword, first raised in impulsive duels and gradually made part of a disciplined friendship.",
       "iconType": "weapon",
-      "imageId": "three-musketeers-image-item-sword",
+      "imageId": "three-musketeers-image-generated-item-sword",
       "tags": []
     },
     {
@@ -934,7 +934,7 @@
       "name": "Cardinal’s Pass",
       "description": "Richelieu’s unrestricted written authority, given to Milady.",
       "iconType": "document",
-      "imageId": "three-musketeers-image-item-pass",
+      "imageId": "three-musketeers-image-generated-item-pass",
       "tags": []
     },
     {
@@ -945,7 +945,7 @@
       "name": "Fleur-de-Lis Brand",
       "description": "The mark on Milady’s shoulder that reveals the legal past Athos believed buried.",
       "iconType": "evidence",
-      "imageId": "three-musketeers-image-item-brand",
+      "imageId": "three-musketeers-image-generated-item-fleur",
       "tags": []
     },
     {
@@ -956,7 +956,7 @@
       "name": "The Queen’s Diamond Ring",
       "description": "Anne’s private reward to d’Artagnan.",
       "iconType": "jewellery",
-      "imageId": "three-musketeers-image-item-queen-ring",
+      "imageId": "three-musketeers-image-generated-item-queen-ring",
       "tags": []
     },
     {
@@ -967,7 +967,7 @@
       "name": "Milady’s Sapphire Ring",
       "description": "A de Winter family jewel given during the false de Wardes encounter and recognized by Athos as evidence of Milady’s identity.",
       "iconType": "jewellery",
-      "imageId": "three-musketeers-image-item-sapphire-ring",
+      "imageId": "three-musketeers-image-generated-item-sapphire-ring",
       "tags": []
     }
   ],
@@ -11239,13 +11239,6 @@
   ],
   "blobs": [
     {
-      "id": "three-musketeers-image-cover",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dartagnan-musketeers%20-%20Maurice%20Leloir.jpg?width=1200",
-      "createdAt": 1786579200000
-    },
-    {
       "id": "three-musketeers-image-france-map",
       "worldId": "three-musketeers-world",
       "mimeType": "image/jpeg",
@@ -11274,655 +11267,468 @@
       "createdAt": 1786579200000
     },
     {
-      "id": "three-musketeers-image-dartagnan",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-cover",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20musketeer%20D%27Artagnan.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/cover.jpg"
     },
     {
-      "id": "three-musketeers-image-four",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-dartagnan",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dartagnan-musketeers%20-%20Maurice%20Leloir.jpg?width=1000",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/dartagnan.jpg"
     },
     {
-      "id": "three-musketeers-image-aramis",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-athos",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/D%27Artagnan%20meets%20Aramis%20(The%20Three%20Musketeers%2C%201894).jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/athos.jpg"
     },
     {
-      "id": "three-musketeers-image-guards",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-porthos",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Les%20Trois%20Mousquetaires%20-%20Athos%2C%20Porthos%2C%20Aramis%20et%20d%27Artagnan%20contre%20Jussac%20et%20les%20Gardes%20du%20Cardinal.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/porthos.jpg"
     },
     {
-      "id": "three-musketeers-image-watch",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-aramis",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maurice%20Leloir%20-%20Les%20Trois%20Mousquetaires%20-%20D%27Artagnan%20monte%20la%20garde%20en%20compagnie%20de%20Porthos%20et%20Aramis.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/aramis.jpg"
     },
     {
-      "id": "three-musketeers-image-milady",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-constance",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maurice%20Leloir%20-%20Les%20Trois%20Mousquetaires%20-%20D%27Artagnan%20et%20Milady%20de%20Winter.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/constance.jpg"
     },
     {
-      "id": "three-musketeers-image-sword",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-anne",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rapier%20van%20Michiel%20de%20Ruyter%20Rapier%20met%20schede%20van%20M.A.%20de%20Ruyter%2C%20NG-NM-10403.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/anne.jpg"
     },
     {
-      "id": "three-musketeers-image-diamond",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-louis",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Drawing%2C%20Design%20for%20three%20earrings%20with%20diamonds%2C%201860%E2%80%9370%20(CH%2018548171).jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/louis.jpg"
     },
     {
-      "id": "three-musketeers-image-letter",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-richelieu",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lettre%20de%20Louis%20XIII%201%20et%202%20-%20Archives%20Nationales%20-%20AE-II-789.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/richelieu.jpg"
     },
     {
-      "id": "three-musketeers-image-pass",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-milady",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lettre%20de%20cachet%20(1703).jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/milady.jpg"
     },
     {
-      "id": "three-musketeers-image-fleur-de-lis",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-buckingham",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/EB1911%20Fleur-de-lis.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/buckingham.jpg"
     },
     {
-      "id": "three-musketeers-image-ring",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-bonacieux",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Design%20for%20a%20Ring%20with%20a%20Large%20Faceted%20Gemstone%2C%20Plate%2034%20from%20Livre%20d%20Aneaux%20d%20Orfevrerie%20MET%20DP882749.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/bonacieux.jpg"
     },
     {
-      "id": "three-musketeers-image-ship",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-coquenard",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plan%20Of%20The%20Siege%20Of%20La%20Rochelle%20in%201628.jpg?width=1000",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/coquenard.jpg"
     },
     {
-      "id": "three-musketeers-image-convent",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-chevreuse",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/D%27Artagnan%20meets%20Aramis%20(The%20Three%20Musketeers%2C%201894).jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/chevreuse.jpg"
     },
     {
-      "id": "three-musketeers-image-louvre",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-de-wardes",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dartagnan-musketeers%20-%20Maurice%20Leloir.jpg?width=1000",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/de-wardes.jpg"
     },
     {
-      "id": "three-musketeers-image-bastille",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-de-treville",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20musketeer%20D%27Artagnan.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/treville.jpg"
     },
     {
-      "id": "three-musketeers-image-calais-location",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-rochefort",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/O%20the%20Roast%20Beef%20of%20Old%20England--The%20Gate%20of%20Calais%20MET%20DP827047.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/rochefort.jpg"
     },
     {
-      "id": "three-musketeers-image-luxembourg-location",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-ketty",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palais%20du%20Luxembourg%20vu%20du%20c%C3%B4t%C3%A9%20du%20jardin%2C%201855.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/ketty.jpg"
     },
     {
-      "id": "three-musketeers-image-bastille-location",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-felton",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Vue%20de%20la%20Bastille%20pendant%20la%20d%C3%A9molition%20en%20juillet%201789%20-%20dessin%20-%20btv1b10302515q.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/felton.jpg"
     },
     {
-      "id": "three-musketeers-image-buckingham-location",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-winter",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Buckingham%20House%201710.jpeg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/winter.jpg"
     },
     {
-      "id": "three-musketeers-image-la-rochelle-location",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-executioner",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Siege%20of%20La%20Rochelle%20by%20Jacques%20Callot%201630.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/executioner.jpg"
     },
     {
-      "id": "three-musketeers-image-seawall-location",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-jussac",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pompeo%20Targone%20seawall.jpg?width=900",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/jussac.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-9",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-planchet",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-009.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/planchet.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-10",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-grimaud",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-010.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/grimaud.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-11",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-mousqueton",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-011.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/mousqueton.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-12",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-character-bazin",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-012.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/characters/bazin.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-13",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-item-letter",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-013.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/items/letter.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-14",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-item-diamond",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-014.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/items/diamond.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-15",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-item-sword",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-015.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/items/sword.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-16",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-item-pass",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-016.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/items/pass.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-17",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-item-fleur",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-017.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/items/fleur.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-18",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-item-queen-ring",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-018.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/items/queen-ring.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-19",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-item-sapphire-ring",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-019.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/items/sapphire-ring.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-20",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-gascony",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-020.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/gascony.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-21",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-meung",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-021.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/meung.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-22",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-paris-gate",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-022.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/paris-gate.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-23",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-calais",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-023.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/calais.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-24",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-la-rochelle-gate",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-024.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/la-rochelle-gate.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-25",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-chantilly",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-025.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/chantilly.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-26",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-crevecoeur",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-026.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/crevecoeur.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-27",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-amiens",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-027.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/amiens.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-28",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-bethune-convent",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-028.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/bethune-convent.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-29",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-armentieres",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-029.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/armentieres.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-30",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-london-gate",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-030.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/london-gate.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-31",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-louvre",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-031.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/louvre.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-32",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-musketeers-lodging",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-032.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/musketeers-lodging.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-33",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-carmes",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-033.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/carmes.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-34",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-bonacieux-house",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-034.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/bonacieux-house.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-35",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-luxembourg",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-035.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/luxembourg.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-36",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-cardinal-palace",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-036.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/cardinal-palace.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-37",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-bastille",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-037.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/bastille.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-38",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-buckingham-house",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-038.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/buckingham-house.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-39",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-portsmouth",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-039.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/portsmouth.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-40",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-winter-castle",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-040.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/winter-castle.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-41",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-camp",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-041.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/camp.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-42",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-seawall",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-042.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/seawall.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-43",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-bastion",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-043.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/bastion.jpg"
     },
     {
-      "id": "three-musketeers-image-leloir-44",
       "worldId": "three-musketeers-world",
+      "createdAt": 1786579200000,
+      "updatedAt": 1786579200000,
+      "id": "three-musketeers-image-generated-location-inn",
       "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-044.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-leloir-45",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-045.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-leloir-46",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-046.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-leloir-47",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-047.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-leloir-48",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-048.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-dartagnan",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-003.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-athos",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-108.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-porthos",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-098.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-aramis",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-100.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-constance",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-103.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-anne",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-123.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-louis",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-122.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-richelieu",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-043.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-milady",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-111.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-buckingham",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-127.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-bonacieux",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-068.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-coquenard",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-007.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-de-wardes",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-079.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-treville",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-019.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-rochefort",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-012.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-ketty",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-009.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-felton",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-080.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-winter",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-063.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-executioner",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-117.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-jussac",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-025.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-planchet",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-092.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-grimaud",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-048.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-mousqueton",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-035.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-portrait-bazin",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-102.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-item-sword",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-024.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-item-diamonds",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-083.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-item-letter",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-059.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-item-pass",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-046.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-item-brand",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-020.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-item-queen-ring",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/cache/epub/56054/images/imx-067.jpg",
-      "createdAt": 1786579200000
-    },
-    {
-      "id": "three-musketeers-image-item-sapphire-ring",
-      "worldId": "three-musketeers-world",
-      "mimeType": "image/jpeg",
-      "url": "https://www.gutenberg.org/files/58211/58211-h/images/imx-016.jpg",
-      "createdAt": 1786579200000
+      "url": "library/three-musketeers/art/generated/locations/inn.jpg"
     }
   ],
   "travelModes": [],
@@ -12020,9 +11826,9 @@
       "id": "three-musketeers-lore-page-1",
       "categoryId": "three-musketeers-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The structure and manuscript follow the complete public-domain English text of Alexandre Dumas’s 1844 novel in Project Gutenberg eBook 1257. Scene drafts reproduce all sixty-seven chapters, including the concluding epilogue, without omission, duplication, or reordering; Gutenberg front and end matter are excluded. The linked visual record uses historical maps and nineteenth-century illustrations, especially work associated with Maurice Leloir; they are editorial aids rather than claims that every setting has an exact canonical plan.",
+      "body": "The structure and manuscript follow the complete public-domain English text of Alexandre Dumas’s 1844 novel in Project Gutenberg eBook 1257. Scene drafts reproduce all sixty-seven chapters, including the concluding epilogue, without omission, duplication, or reordering; Gutenberg front and end matter are excluded. The linked visual record uses historical maps and nineteenth-century illustrations, especially work associated with Maurice Leloir; they are editorial aids rather than claims that every setting has an exact canonical plan. The cover, all character portraits, all item plates, and all location scenes are original generated illustrations created for the Kathala Library edition in a coherent 1620s historical style. The four linked historical maps remain available as spatial aids. Superseded external non-map illustration records are retained with the edition’s integration documentation.",
       "tags": [],
-      "coverImageId": "three-musketeers-image-cover",
+      "coverImageId": "three-musketeers-image-generated-cover",
       "linkedEntityIds": [
         "three-musketeers-world"
       ],
@@ -12037,7 +11843,7 @@
       "title": "Paris and the Two Guards",
       "body": "The novel’s Paris divides military prestige between the King’s Musketeers and the Cardinal’s guards. Inns, palaces, convents, and private lodgings make that political rivalry immediate and personal.",
       "tags": [],
-      "coverImageId": "three-musketeers-image-four",
+      "coverImageId": "three-musketeers-image-generated-location-carmes",
       "linkedEntityIds": [
         "three-musketeers-map-paris",
         "three-musketeers-faction-musketeers"
@@ -12053,7 +11859,7 @@
       "title": "La Rochelle",
       "body": "The 1627–28 siege of the Protestant port is the historical campaign around which Dumas builds the novel’s invented missions, friendships, and private revenge.",
       "tags": [],
-      "coverImageId": "three-musketeers-image-ship",
+      "coverImageId": "three-musketeers-image-generated-location-la-rochelle-gate",
       "linkedEntityIds": [
         "three-musketeers-map-la-rochelle",
         "three-musketeers-faction-court"
@@ -12069,7 +11875,7 @@
       "title": "Fact and Romance",
       "body": "Dumas draws on historical names and conflicts but reshapes dates, relationships, and causality for romance. The d’Artagnan of the novel is not a biographical account of Charles de Batz de Castelmore.",
       "tags": [],
-      "coverImageId": "three-musketeers-image-dartagnan",
+      "coverImageId": "three-musketeers-image-generated-character-dartagnan",
       "linkedEntityIds": [
         "three-musketeers-char-dartagnan"
       ],
@@ -12084,7 +11890,7 @@
       "title": "Friendship and Performance",
       "body": "Duels, clothing, rank, and public stories repeatedly test whether the four companions will treat honour as display or as care for one another.",
       "tags": [],
-      "coverImageId": "three-musketeers-image-four",
+      "coverImageId": "three-musketeers-image-generated-location-musketeers-lodging",
       "linkedEntityIds": [
         "three-musketeers-char-athos",
         "three-musketeers-char-porthos",
@@ -12101,7 +11907,7 @@
       "title": "Secrets as Political Currency",
       "body": "Letters, jewels, identity, and witnesses become tools of power because a court depends on who may speak, who must remain hidden, and who controls a document.",
       "tags": [],
-      "coverImageId": "three-musketeers-image-letter",
+      "coverImageId": "three-musketeers-image-generated-item-letter",
       "linkedEntityIds": [
         "three-musketeers-world",
         "three-musketeers-world"
