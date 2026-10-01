@@ -640,16 +640,16 @@
       "author": "Alexandre Dumas",
       "blurb": "A young Gascon joins Athos, Porthos, and Aramis as court secrets, English diamonds, Milady de Winter, and the siege of La Rochelle turn friendship into a test of loyalty.",
       "data": "the-three-musketeers.pwk",
-      "dataBytes": 1825436,
+      "dataBytes": 1818826,
       "counts": {
         "characters": 25,
         "chapters": 67,
         "events": 68,
         "locations": 25
       },
-      "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete English narrative from Project Gutenberg eBook 1257; Gutenberg front and end matter are excluded.",
+      "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete English narrative from Project Gutenberg eBook 1257; Gutenberg front and end matter are excluded. Four linked historical maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "three-musketeers-world",
-      "cover": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dartagnan-musketeers%20-%20Maurice%20Leloir.jpg?width=1200",
+      "cover": "library/three-musketeers/art/generated/cover.jpg",
       "hasProse": true
     },
     {
