@@ -14,3 +14,7 @@ The set uses mid-Victorian dress and architecture, muted ivory, ink black, mist 
 4. Run `validate.mjs` to check every image reference, file, content hash, retained map, source archive, and catalogue byte count.
 
 The prompts and generation script are included here. Original PNG masters are worktree review artifacts; JPEGs and contact sheets are committed deliverables.
+
+## Final review
+
+All 52 images were checked in the final contact sheets. The first two Paris scenes showed London landmarks, so both were regenerated with the Seine, Notre-Dame, and the Île de la Cité as explicit geographic anchors. The replacement images were inspected individually and the contact sheets rebuilt. The cover and main characters retain the intended restrained Victorian palette; Anne is depicted as a living woman in white, and documents have no intentional readable wording.
