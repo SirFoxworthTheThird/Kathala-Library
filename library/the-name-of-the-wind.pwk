@@ -6,7 +6,7 @@
     "id": "10000000-0000-4000-a000-000000000000",
     "name": "The Name of the Wind",
     "description": "At the Waystone Inn, an innkeeper known as Kote reveals that he is the legendary Kvothe. Over the first day of his testimony, he recounts his childhood among traveling performers, the murder of his family, years of hardship, and his rise at the University.",
-    "coverImageId": "notw-location-image-worldRoad",
+    "coverImageId": "notw-unique-cover-001",
     "createdAt": 1713200000000,
     "updatedAt": 1788451200000,
     "continuityStaleThreshold": 5,
@@ -115,7 +115,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1785110158542,
-      "imageId": "notw-location-image-worldRoad"
+      "imageId": "notw-unique-location-001"
     },
     {
       "id": "loc-ankers",
@@ -128,7 +128,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-eolian"
+      "imageId": "notw-unique-location-002"
     },
     {
       "id": "loc-archives",
@@ -141,7 +141,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan10"
+      "imageId": "notw-unique-location-003"
     },
     {
       "id": "loc-denner-bluffs",
@@ -154,7 +154,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan16"
+      "imageId": "notw-unique-location-004"
     },
     {
       "id": "loc-devi",
@@ -167,7 +167,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan01"
+      "imageId": "notw-unique-location-005"
     },
     {
       "id": "loc-dockside-tavern",
@@ -180,7 +180,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan06"
+      "imageId": "notw-unique-location-006"
     },
     {
       "id": "loc-edema-road",
@@ -193,7 +193,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1785109751074,
-      "imageId": "notw-location-image-dan02"
+      "imageId": "notw-unique-location-007"
     },
     {
       "id": "loc-eolian",
@@ -206,7 +206,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-eolian"
+      "imageId": "notw-unique-location-008"
     },
     {
       "id": "loc-fishery",
@@ -219,7 +219,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan14"
+      "imageId": "notw-unique-location-009"
     },
     {
       "id": "loc-forest-road",
@@ -232,7 +232,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1785110184091,
-      "imageId": "notw-location-image-dan19"
+      "imageId": "notw-unique-location-010"
     },
     {
       "id": "loc-great-stone-road",
@@ -245,7 +245,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1785110484439,
-      "imageId": "notw-location-image-worldRoad"
+      "imageId": "notw-unique-location-011"
     },
     {
       "id": "loc-greystone-hill",
@@ -258,7 +258,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan08"
+      "imageId": "notw-unique-location-012"
     },
     {
       "id": "loc-hallowfell",
@@ -271,7 +271,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1785109742434,
-      "imageId": "notw-location-image-dan02"
+      "imageId": "notw-unique-location-013"
     },
     {
       "id": "loc-house-of-wind",
@@ -284,7 +284,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-elodinCourt"
+      "imageId": "notw-unique-location-014"
     },
     {
       "id": "loc-imre",
@@ -297,7 +297,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-university"
+      "imageId": "notw-unique-location-015"
     },
     {
       "id": "loc-imre-docks",
@@ -310,7 +310,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-university"
+      "imageId": "notw-unique-location-016"
     },
     {
       "id": "loc-mains",
@@ -323,7 +323,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-university"
+      "imageId": "notw-unique-location-017"
     },
     {
       "id": "loc-massacre",
@@ -336,7 +336,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1785109757154,
-      "imageId": "notw-location-image-dan07"
+      "imageId": "notw-unique-location-018"
     },
     {
       "id": "loc-masters-hall",
@@ -349,7 +349,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan09"
+      "imageId": "notw-unique-location-019"
     },
     {
       "id": "loc-mauthen-farm",
@@ -362,7 +362,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan17"
+      "imageId": "notw-unique-location-020"
     },
     {
       "id": "loc-medica",
@@ -375,7 +375,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan01"
+      "imageId": "notw-unique-location-021"
     },
     {
       "id": "loc-newarre-road",
@@ -388,7 +388,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-worldRoad"
+      "imageId": "notw-unique-location-022"
     },
     {
       "id": "loc-newarre-square",
@@ -401,7 +401,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan01"
+      "imageId": "notw-unique-location-023"
     },
     {
       "id": "loc-rookery",
@@ -414,7 +414,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan11"
+      "imageId": "notw-unique-location-024"
     },
     {
       "id": "loc-scrael-camp",
@@ -427,7 +427,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan01"
+      "imageId": "notw-unique-location-025"
     },
     {
       "id": "loc-stonebridge",
@@ -440,7 +440,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-university"
+      "imageId": "notw-unique-location-026"
     },
     {
       "id": "loc-tarbean-hillside",
@@ -453,7 +453,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-tarbean"
+      "imageId": "notw-unique-location-027"
     },
     {
       "id": "loc-tarbean-rooftops",
@@ -466,7 +466,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan15"
+      "imageId": "notw-unique-location-028"
     },
     {
       "id": "loc-tarbean-root",
@@ -484,7 +484,7 @@
       "tags": [
         "sub-map"
       ],
-      "imageId": "notw-location-image-tarbean"
+      "imageId": "notw-unique-location-029"
     },
     {
       "id": "loc-tarbean-waterside",
@@ -497,7 +497,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan05"
+      "imageId": "notw-unique-location-030"
     },
     {
       "id": "loc-trapis-cellar",
@@ -510,7 +510,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-underthing"
+      "imageId": "notw-unique-location-031"
     },
     {
       "id": "loc-trebon-countryside",
@@ -523,7 +523,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan16"
+      "imageId": "notw-unique-location-032"
     },
     {
       "id": "loc-trebon-hall",
@@ -536,7 +536,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-draccus"
+      "imageId": "notw-unique-location-033"
     },
     {
       "id": "loc-trebon-road",
@@ -549,7 +549,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-worldRoad"
+      "imageId": "notw-unique-location-034"
     },
     {
       "id": "loc-trebon-root",
@@ -567,7 +567,7 @@
       "tags": [
         "sub-map"
       ],
-      "imageId": "notw-location-image-draccus"
+      "imageId": "notw-unique-location-035"
     },
     {
       "id": "loc-trebon-town",
@@ -580,7 +580,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan18"
+      "imageId": "notw-unique-location-036"
     },
     {
       "id": "loc-underthing",
@@ -593,7 +593,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-underthing"
+      "imageId": "notw-unique-location-037"
     },
     {
       "id": "loc-underthing-entrance",
@@ -606,7 +606,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan20"
+      "imageId": "notw-unique-location-038"
     },
     {
       "id": "loc-university-courtyard",
@@ -619,7 +619,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-elodinCourt"
+      "imageId": "notw-unique-location-039"
     },
     {
       "id": "loc-university-root",
@@ -637,7 +637,7 @@
       "tags": [
         "sub-map"
       ],
-      "imageId": "notw-location-image-university"
+      "imageId": "notw-unique-location-040"
     },
     {
       "id": "loc-waystone-inn",
@@ -650,7 +650,7 @@
       "factionId": null,
       "createdAt": 1713200000000,
       "updatedAt": 1788451200000,
-      "imageId": "notw-location-image-dan01"
+      "imageId": "notw-unique-location-041"
     },
     {
       "id": "loc-waystone-root",
@@ -669,7 +669,7 @@
         "sub-map",
         "frame"
       ],
-      "imageId": "notw-location-image-dan01"
+      "imageId": "notw-unique-location-042"
     }
   ],
   "characters": [
@@ -679,7 +679,7 @@
       "name": "Aaron",
       "aliases": [],
       "description": "Young smith's apprentice who hears stories at the Waystone.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-001",
       "color": null,
       "tags": [
         "frame",
@@ -698,7 +698,7 @@
         "Ben"
       ],
       "description": "Traveling arcanist who becomes Kvothe's first teacher.",
-      "portraitImageId": "notw-location-image-dan02",
+      "portraitImageId": "notw-unique-character-002",
       "color": null,
       "tags": [
         "mentor",
@@ -715,7 +715,7 @@
       "name": "Ambrose Jakis",
       "aliases": [],
       "description": "Wealthy, vindictive student whose rivalry with Kvothe repeatedly turns dangerous.",
-      "portraitImageId": "7dQF1340neJ7FACIwc1av",
+      "portraitImageId": "notw-unique-character-003",
       "color": null,
       "tags": [
         "student",
@@ -732,7 +732,7 @@
       "name": "Anker",
       "aliases": [],
       "description": "Innkeeper in Imre, on the far side of the river from the University.",
-      "portraitImageId": "notw-location-image-eolian",
+      "portraitImageId": "notw-unique-character-004",
       "color": null,
       "tags": [
         "innkeeper"
@@ -748,7 +748,7 @@
       "name": "Arliden",
       "aliases": [],
       "description": "Kvothe's father, troupe leader, actor, and songwriter researching the Chandrian.",
-      "portraitImageId": "ssdnnG93jmvorlhMupG12",
+      "portraitImageId": "notw-unique-character-005",
       "color": null,
       "tags": [
         "family",
@@ -765,7 +765,7 @@
       "name": "Master Arwyl",
       "aliases": [],
       "description": "Master Physicker and head of the Medica.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-006",
       "color": null,
       "tags": [
         "master",
@@ -782,7 +782,7 @@
       "name": "Auri",
       "aliases": [],
       "description": "Secretive young woman living in the Underthing who befriends Kvothe.",
-      "portraitImageId": "notw-location-image-underthing",
+      "portraitImageId": "notw-unique-character-007",
       "color": null,
       "tags": [
         "underthing",
@@ -801,7 +801,7 @@
         "Bastas"
       ],
       "description": "Kvothe's devoted Fae student at the Waystone Inn.",
-      "portraitImageId": "UnjGQzV34BB_gbalMtKzx",
+      "portraitImageId": "notw-unique-character-008",
       "color": "#7c3aed",
       "tags": [
         "fae",
@@ -818,7 +818,7 @@
       "name": "Master Brandeur",
       "aliases": [],
       "description": "Master Arithmetician and Hemme's frequent ally.",
-      "portraitImageId": "notw-location-image-dan09",
+      "portraitImageId": "notw-unique-character-009",
       "color": null,
       "tags": [
         "master"
@@ -834,7 +834,7 @@
       "name": "Carter",
       "aliases": [],
       "description": "Newarre farmer injured by a scrael.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-010",
       "color": null,
       "tags": [
         "frame",
@@ -853,7 +853,7 @@
         "Devan Lochees"
       ],
       "description": "Renowned scribe who records Kvothe's account.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-011",
       "color": "#2563eb",
       "tags": [
         "scribe",
@@ -870,7 +870,7 @@
       "name": "Cinder",
       "aliases": [],
       "description": "Cruel pale member of the Chandrian encountered at the ruined troupe camp.",
-      "portraitImageId": "JcctoFBt4_XDV9RpXewso",
+      "portraitImageId": "notw-unique-character-012",
       "color": null,
       "tags": [
         "chandrian",
@@ -891,7 +891,7 @@
         "Dyane"
       ],
       "description": "Elusive singer and Kvothe's recurring love, living under shifting names.",
-      "portraitImageId": "YAqIcVS6aMVCc0OF9jOlU",
+      "portraitImageId": "notw-unique-character-013",
       "color": "#db2777",
       "tags": [
         "musician",
@@ -908,7 +908,7 @@
       "name": "Deoch",
       "aliases": [],
       "description": "Former lover of Denna and doorman at the Eolian.",
-      "portraitImageId": "notw-location-image-eolian",
+      "portraitImageId": "notw-unique-character-014",
       "color": null,
       "tags": [
         "eolian"
@@ -926,7 +926,7 @@
         "Devi the Demon"
       ],
       "description": "Expelled arcanist and formidable moneylender who finances Kvothe.",
-      "portraitImageId": "mbAQhZ7z4lJp8PaDpotLR",
+      "portraitImageId": "notw-unique-character-015",
       "color": null,
       "tags": [
         "moneylender",
@@ -943,7 +943,7 @@
       "name": "Black Draccus",
       "aliases": [],
       "description": "Huge herbivorous reptile driven into a destructive frenzy by denner resin.",
-      "portraitImageId": "notw-location-image-draccus",
+      "portraitImageId": "notw-unique-character-016",
       "color": null,
       "tags": [
         "creature"
@@ -959,7 +959,7 @@
       "name": "Master Elodin",
       "aliases": [],
       "description": "Eccentric Master Namer who recognizes Kvothe's potential.",
-      "portraitImageId": "WvvFOoQQcMw484XV2HvJw",
+      "portraitImageId": "notw-unique-character-017",
       "color": null,
       "tags": [
         "master",
@@ -976,7 +976,7 @@
       "name": "Master Elxa Dal",
       "aliases": [],
       "description": "Master Sympathist who teaches advanced sympathy.",
-      "portraitImageId": "notw-location-image-dan14",
+      "portraitImageId": "notw-unique-character-018",
       "color": null,
       "tags": [
         "master",
@@ -993,7 +993,7 @@
       "name": "Erlus",
       "aliases": [],
       "description": "Tehlin justice who arrests Skarpi for heresy.",
-      "portraitImageId": "notw-location-image-dan09",
+      "portraitImageId": "notw-unique-character-019",
       "color": null,
       "tags": [
         "tehlin"
@@ -1009,7 +1009,7 @@
       "name": "Fela",
       "aliases": [],
       "description": "Scriv and talented student rescued by Kvothe during the Fishery fire.",
-      "portraitImageId": "notw-location-image-university",
+      "portraitImageId": "notw-unique-character-020",
       "color": null,
       "tags": [
         "student",
@@ -1026,7 +1026,7 @@
       "name": "Fenton",
       "aliases": [],
       "description": "University student who participates in sympathy exercises and contests.",
-      "portraitImageId": "notw-location-image-dan14",
+      "portraitImageId": "notw-unique-character-021",
       "color": null,
       "tags": [
         "student",
@@ -1043,7 +1043,7 @@
       "name": "Graham",
       "aliases": [],
       "description": "Newarre carpenter and Waystone regular.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-022",
       "color": null,
       "tags": [
         "frame",
@@ -1062,7 +1062,7 @@
         "Lanre"
       ],
       "description": "Shadow-hamed leader of the Chandrian, once the legendary Lanre.",
-      "portraitImageId": "hHIdW29GKlmKI5hrq8vNi",
+      "portraitImageId": "notw-unique-character-023",
       "color": null,
       "tags": [
         "chandrian",
@@ -1079,7 +1079,7 @@
       "name": "Master Hemme",
       "aliases": [],
       "description": "Hostile rhetoric master humiliated by Kvothe's sympathy demonstration.",
-      "portraitImageId": "notw-location-image-dan09",
+      "portraitImageId": "notw-unique-character-024",
       "color": null,
       "tags": [
         "master",
@@ -1096,7 +1096,7 @@
       "name": "Josn",
       "aliases": [],
       "description": "Caravan musician whose lute awakens Kvothe's buried musical self.",
-      "portraitImageId": "notw-location-image-dan06",
+      "portraitImageId": "notw-unique-character-025",
       "color": null,
       "tags": [
         "musician"
@@ -1112,7 +1112,7 @@
       "name": "Kaerva",
       "aliases": [],
       "description": "Trebon townsman connected to the Mauthen farm inquiry.",
-      "portraitImageId": "notw-location-image-dan19",
+      "portraitImageId": "notw-unique-character-026",
       "color": null,
       "tags": [
         "trebon"
@@ -1128,7 +1128,7 @@
       "name": "Master Kilvin",
       "aliases": [],
       "description": "Master Artificer and Kvothe's mentor in the Fishery.",
-      "portraitImageId": "g05HE-a64WXlhZFCUmfIK",
+      "portraitImageId": "notw-unique-character-027",
       "color": null,
       "tags": [
         "master",
@@ -1148,7 +1148,7 @@
         "Kvothe the Bloodless"
       ],
       "description": "Prodigious Edema Ruh musician and arcanist who recounts his youth while hiding as an innkeeper.",
-      "portraitImageId": "EwQYzAtP8MCzVjM_AVW4n",
+      "portraitImageId": "notw-unique-character-028",
       "color": "#b91c1c",
       "tags": [
         "protagonist",
@@ -1167,7 +1167,7 @@
         "Netalia Lackless"
       ],
       "description": "Kvothe's mother, a gifted performer who left nobility for the Ruh.",
-      "portraitImageId": "daQgF9OIqf_tlMp74HAwU",
+      "portraitImageId": "notw-unique-character-029",
       "color": null,
       "tags": [
         "family",
@@ -1184,7 +1184,7 @@
       "name": "Master Lorren",
       "aliases": [],
       "description": "Master Archivist, austere guardian of the Archives.",
-      "portraitImageId": "notw-location-image-dan10",
+      "portraitImageId": "notw-unique-character-030",
       "color": null,
       "tags": [
         "master",
@@ -1201,7 +1201,7 @@
       "name": "Master Mandrag",
       "aliases": [],
       "description": "Master Alchemist of the University.",
-      "portraitImageId": "notw-location-image-dan14",
+      "portraitImageId": "notw-unique-character-031",
       "color": null,
       "tags": [
         "master",
@@ -1218,7 +1218,7 @@
       "name": "Manet",
       "aliases": [],
       "description": "Longtime University student and experienced guide to its customs.",
-      "portraitImageId": "notw-location-image-university",
+      "portraitImageId": "notw-unique-character-032",
       "color": null,
       "tags": [
         "student"
@@ -1234,7 +1234,7 @@
       "name": "Master Ash",
       "aliases": [],
       "description": "Name Kvothe gives Denna's secret patron, whose identity remains concealed and whose treatment of her is abusive.",
-      "portraitImageId": "notw-location-image-dan19",
+      "portraitImageId": "notw-unique-character-033",
       "color": "#374151",
       "tags": [
         "mystery",
@@ -1251,7 +1251,7 @@
       "name": "Mhenka",
       "aliases": [],
       "description": "University alchemist associated with dangerous compounds including plum bob.",
-      "portraitImageId": "notw-location-image-tarbean",
+      "portraitImageId": "notw-unique-character-034",
       "color": null,
       "tags": [
         "alchemist"
@@ -1267,7 +1267,7 @@
       "name": "Mola",
       "aliases": [],
       "description": "Skilled Medica student who treats Kvothe.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-035",
       "color": null,
       "tags": [
         "student",
@@ -1284,7 +1284,7 @@
       "name": "Nina",
       "aliases": [],
       "description": "Young survivor who saw the painted Mauthen wedding vase.",
-      "portraitImageId": "notw-location-image-dan18",
+      "portraitImageId": "notw-unique-character-036",
       "color": null,
       "tags": [
         "trebon",
@@ -1301,7 +1301,7 @@
       "name": "Old Cob",
       "aliases": [],
       "description": "Newarre storyteller and regular at the Waystone Inn.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-037",
       "color": null,
       "tags": [
         "frame",
@@ -1318,7 +1318,7 @@
       "name": "Pike",
       "aliases": [],
       "description": "Older Tarbean street boy who robs and persecutes Kvothe before their violent confrontation.",
-      "portraitImageId": "notw-location-image-dan15",
+      "portraitImageId": "notw-unique-character-038",
       "color": "#991b1b",
       "tags": [
         "tarbean",
@@ -1335,7 +1335,7 @@
       "name": "Reta",
       "aliases": [],
       "description": "Roent's wife and partner in the caravan.",
-      "portraitImageId": "notw-location-image-dan05",
+      "portraitImageId": "notw-unique-character-039",
       "color": null,
       "tags": [
         "merchant"
@@ -1351,7 +1351,7 @@
       "name": "Roent",
       "aliases": [],
       "description": "Cealdish caravan master who carries Kvothe toward the University.",
-      "portraitImageId": "notw-location-image-worldRoad",
+      "portraitImageId": "notw-unique-character-040",
       "color": null,
       "tags": [
         "merchant"
@@ -1367,7 +1367,7 @@
       "name": "Schiem",
       "aliases": [],
       "description": "Trebon swineherd who gives Kvothe useful local information.",
-      "portraitImageId": "notw-location-image-dan18",
+      "portraitImageId": "notw-unique-character-041",
       "color": null,
       "tags": [
         "trebon"
@@ -1383,7 +1383,7 @@
       "name": "Selitos",
       "aliases": [],
       "description": "Legendary ruler of Myr Tariniel who curses Lanre and founds the Amyr.",
-      "portraitImageId": "notw-location-image-dan08",
+      "portraitImageId": "notw-unique-character-042",
       "color": null,
       "tags": [
         "legend",
@@ -1400,7 +1400,7 @@
       "name": "Shandi",
       "aliases": [],
       "description": "Dancer in Arliden's troupe.",
-      "portraitImageId": "notw-location-image-dan02",
+      "portraitImageId": "notw-unique-character-043",
       "color": null,
       "tags": [
         "edema-ruh"
@@ -1416,7 +1416,7 @@
       "name": "Shep",
       "aliases": [],
       "description": "Newarre farmer killed by the mercenary possessed by a skin dancer.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-044",
       "color": null,
       "tags": [
         "frame",
@@ -1435,7 +1435,7 @@
         "Sim"
       ],
       "description": "Warm-hearted University student and one of Kvothe's closest friends.",
-      "portraitImageId": "Yj6b7jE94RvOH7PcE3vmZ",
+      "portraitImageId": "notw-unique-character-045",
       "color": null,
       "tags": [
         "student",
@@ -1452,7 +1452,7 @@
       "name": "Skarpi",
       "aliases": [],
       "description": "Tarbean storyteller who relates the tragedy of Lanre and Selitos.",
-      "portraitImageId": "KLtifaWmrT_HjK5tqyktk",
+      "portraitImageId": "notw-unique-character-046",
       "color": null,
       "tags": [
         "storyteller"
@@ -1470,7 +1470,7 @@
         "Possessed Mercenary"
       ],
       "description": "Hostile being that possesses a mercenary and attacks the Waystone patrons.",
-      "portraitImageId": "notw-location-image-dan01",
+      "portraitImageId": "notw-unique-character-047",
       "color": null,
       "tags": [
         "creature",
@@ -1487,7 +1487,7 @@
       "name": "Sovoy",
       "aliases": [],
       "description": "Modegan student who socializes with Kvothe, Simmon, and Wilem.",
-      "portraitImageId": "notw-location-image-university",
+      "portraitImageId": "notw-unique-character-048",
       "color": null,
       "tags": [
         "student"
@@ -1503,7 +1503,7 @@
       "name": "Stanchion",
       "aliases": [],
       "description": "Co-owner and master of ceremonies at the Eolian.",
-      "portraitImageId": "notw-location-image-eolian",
+      "portraitImageId": "notw-unique-character-049",
       "color": null,
       "tags": [
         "eolian"
@@ -1519,7 +1519,7 @@
       "name": "Tehlu",
       "aliases": [],
       "description": "Central divine figure of the Tehlin faith and the story Trapis tells.",
-      "portraitImageId": "notw-location-image-dan08",
+      "portraitImageId": "notw-unique-character-050",
       "color": null,
       "tags": [
         "legend",
@@ -1536,7 +1536,7 @@
       "name": "Teren",
       "aliases": [],
       "description": "Sword performer in Arliden's troupe.",
-      "portraitImageId": "notw-location-image-dan02",
+      "portraitImageId": "notw-unique-character-051",
       "color": null,
       "tags": [
         "edema-ruh"
@@ -1552,7 +1552,7 @@
       "name": "Count Threpe",
       "aliases": [],
       "description": "Imre patron who tries to find Kvothe a wealthy sponsor.",
-      "portraitImageId": "notw-location-image-eolian",
+      "portraitImageId": "notw-unique-character-052",
       "color": null,
       "tags": [
         "patron"
@@ -1568,7 +1568,7 @@
       "name": "Trebon Tinker",
       "aliases": [],
       "description": "Tinker whose goods and advice prove unexpectedly useful.",
-      "portraitImageId": "notw-location-image-worldRoad",
+      "portraitImageId": "notw-unique-character-053",
       "color": null,
       "tags": [
         "tinker"
@@ -1584,7 +1584,7 @@
       "name": "Trapis",
       "aliases": [],
       "description": "Gentle caretaker who feeds and shelters Tarbean's street children.",
-      "portraitImageId": "notw-location-image-underthing",
+      "portraitImageId": "notw-unique-character-054",
       "color": null,
       "tags": [
         "tarbean",
@@ -1601,7 +1601,7 @@
       "name": "Trip",
       "aliases": [],
       "description": "Troupe performer with an uncanny knack for rolling sevens.",
-      "portraitImageId": "notw-location-image-dan02",
+      "portraitImageId": "notw-unique-character-055",
       "color": null,
       "tags": [
         "edema-ruh"
@@ -1619,7 +1619,7 @@
         "Wil"
       ],
       "description": "Cealdish University student and one of Kvothe's closest friends.",
-      "portraitImageId": "pBP3qwOo-z_xZ5BVHLnSh",
+      "portraitImageId": "notw-unique-character-056",
       "color": null,
       "tags": [
         "student",
@@ -1638,7 +1638,7 @@
       "name": "Auri's Dress",
       "description": "A clean dress Kvothe gives Auri during their ritual exchange of gifts.",
       "iconType": "clothing",
-      "imageId": "notw-location-image-underthing",
+      "imageId": "notw-unique-item-001",
       "tags": [
         "auri"
       ],
@@ -1651,7 +1651,7 @@
       "name": "Kvothe's Blood Vial",
       "description": "Blood held by Devi as collateral for Kvothe's loan.",
       "iconType": "other",
-      "imageId": "mbAQhZ7z4lJp8PaDpotLR",
+      "imageId": "notw-unique-item-002",
       "tags": [
         "debt",
         "sympathy"
@@ -1665,7 +1665,7 @@
       "name": "Chronicler's Cipher Pages",
       "description": "Pages on which Chronicler takes down what he is told, in a private shorthand.",
       "iconType": "document",
-      "imageId": "notw-location-image-dan01",
+      "imageId": "notw-unique-item-003",
       "tags": [
         "frame",
         "story"
@@ -1679,7 +1679,7 @@
       "name": "Denner Resin",
       "description": "Highly addictive sweet resin eaten by the draccus.",
       "iconType": "other",
-      "imageId": "notw-location-image-dan16",
+      "imageId": "notw-unique-item-004",
       "tags": [
         "drug",
         "trebon"
@@ -1693,7 +1693,7 @@
       "name": "The Mating Habits of the Common Draccus",
       "description": "Natural-history book used to understand the creature near Trebon.",
       "iconType": "document",
-      "imageId": "notw-location-image-draccus",
+      "imageId": "notw-unique-item-005",
       "tags": [
         "book",
         "draccus"
@@ -1707,7 +1707,7 @@
       "name": "Folly",
       "description": "Sword mounted behind the Waystone bar, labeled with the word Folly.",
       "iconType": "weapon",
-      "imageId": "notw-location-image-dan01",
+      "imageId": "notw-unique-item-006",
       "tags": [
         "frame",
         "mystery"
@@ -1721,7 +1721,7 @@
       "name": "Kvothe's Gram",
       "description": "Protective device Kvothe begins constructing after the attack by sympathy.",
       "iconType": "artifact",
-      "imageId": "notw-location-image-dan14",
+      "imageId": "notw-unique-item-007",
       "tags": [
         "artificery",
         "protection"
@@ -1735,7 +1735,7 @@
       "name": "Chronicler's Iron Ring",
       "description": "Iron ring used against Bast.",
       "iconType": "artifact",
-      "imageId": "notw-location-image-dan01",
+      "imageId": "notw-unique-item-008",
       "tags": [
         "iron",
         "fae"
@@ -1749,7 +1749,7 @@
       "name": "Kote's Iron Rod",
       "description": "Iron weapon Kote prepares for the scrael.",
       "iconType": "weapon",
-      "imageId": "notw-location-image-dan01",
+      "imageId": "notw-unique-item-009",
       "tags": [
         "frame"
       ],
@@ -1762,7 +1762,7 @@
       "name": "Loden-Stone",
       "description": "Powerful natural magnet bought from the Trebon tinker.",
       "iconType": "artifact",
-      "imageId": "notw-location-image-dan14",
+      "imageId": "notw-unique-item-010",
       "tags": [
         "trebon"
       ],
@@ -1775,7 +1775,7 @@
       "name": "Kvothe's Lute",
       "description": "His father's lute, and the thing he will not sell.",
       "iconType": "artifact",
-      "imageId": "notw-location-image-eolian",
+      "imageId": "notw-unique-item-011",
       "tags": [
         "music"
       ],
@@ -1788,7 +1788,7 @@
       "name": "Mauthen Wedding Vase",
       "description": "Painted pottery depicting the Chandrian and their signs; destroyed at the wedding.",
       "iconType": "artifact",
-      "imageId": "notw-location-image-dan17",
+      "imageId": "notw-unique-item-012",
       "tags": [
         "chandrian",
         "evidence"
@@ -1802,7 +1802,7 @@
       "name": "Rhetoric and Logic",
       "description": "Book Abenthy leaves to Kvothe, inscribed with advice to defend himself well.",
       "iconType": "document",
-      "imageId": "notw-location-image-dan02",
+      "imageId": "notw-unique-item-013",
       "tags": [
         "book",
         "mentor"
@@ -1816,7 +1816,7 @@
       "name": "Sympathy Lamp",
       "description": "Blue-light lamp Kvothe builds in the Fishery.",
       "iconType": "artifact",
-      "imageId": "notw-location-image-dan14",
+      "imageId": "notw-unique-item-014",
       "tags": [
         "artificery"
       ],
@@ -1829,7 +1829,7 @@
       "name": "Silver Talent Pipes",
       "description": "Eolian mark proving Kvothe's standing as a musician.",
       "iconType": "artifact",
-      "imageId": "notw-location-image-eolian",
+      "imageId": "notw-unique-item-015",
       "tags": [
         "music",
         "reputation"
@@ -16179,190 +16179,6 @@
   ],
   "blobs": [
     {
-      "id": "notw-location-image-worldRoad",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/worldRoad.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-eolian",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/eolian.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan10",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan10.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan16",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan16.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan01",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan01.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan06",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan06.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan02",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan02.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan14",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan14.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan19",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan19.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan08",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan08.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-elodinCourt",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/elodinCourt.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-university",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/university.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan07",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan07.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan09",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan09.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan17",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan17.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan11",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan11.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-tarbean",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/tarbean.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan15",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan15.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan05",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan05.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-underthing",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/underthing.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-draccus",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/draccus.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan18",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan18.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
-      "id": "notw-location-image-dan20",
-      "worldId": "10000000-0000-4000-a000-000000000000",
-      "mimeType": "image/jpeg",
-      "url": "library/the-name-of-the-wind/art/generated/dan20.jpg",
-      "createdAt": 1785974400000,
-      "updatedAt": 1788451200000
-    },
-    {
       "id": "CaVhj4TfAYSEF-YwH8zV5",
       "worldId": "10000000-0000-4000-a000-000000000000",
       "mimeType": "image/png",
@@ -16396,6 +16212,918 @@
       "mimeType": "image/jpeg",
       "url": "https://i.imgur.com/uwkHDDr.jpeg",
       "createdAt": 1785109161377
+    },
+    {
+      "id": "notw-unique-cover-001",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/worldRoad.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-001",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/001-aaron.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-002",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/abenthy.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-003",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/ambrose.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-004",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/004-anker.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-005",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/arliden.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-006",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/006-master-arwyl.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-007",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/auri.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-008",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/bast.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-009",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/009-master-brandeur.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-010",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/010-carter.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-011",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/011-chronicler.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-012",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/cinder.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-013",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/denna.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-014",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/deoch.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-015",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/devi.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-016",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/draccus.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-017",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/017-master-elodin.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-018",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/018-master-elxa-dal.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-019",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/019-erlus.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-020",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/fela.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-021",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/021-fenton.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-022",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/022-graham.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-023",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/haliax.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-024",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/024-master-hemme.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-025",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/025-josn.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-026",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/026-kaerva.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-027",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/027-master-kilvin.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-028",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/kvothe.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-029",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/laurian.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-030",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/030-master-lorren.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-031",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/031-master-mandrag.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-032",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/032-manet.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-033",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/033-master-ash.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-034",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/034-mhenka.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-035",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/mola.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-036",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/036-nina.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-037",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/037-old-cob.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-038",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/038-pike.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-039",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/039-reta.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-040",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/040-roent.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-041",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/041-schiem.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-042",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/042-selitos.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-043",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/043-shandi.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-044",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/044-shep.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-045",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/simmon.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-046",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/skarpi.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-047",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/047-skin-dancer.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-048",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/048-sovoy.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-049",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/stanchion.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-050",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/tehlu.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-051",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/051-teren.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-052",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/052-count-threpe.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-053",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/053-trebon-tinker.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-054",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/054-trapis.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-055",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/character/055-trip.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-character-056",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/wilem.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-001",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/auriScene.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-002",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/002-kvothe-s-blood-vial.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-003",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/003-chronicler-s-cipher-pages.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-004",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/004-denner-resin.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-005",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/005-the-mating-habits-of-the-common-draccus.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-006",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/006-folly.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-007",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/007-kvothe-s-gram.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-008",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/008-chronicler-s-iron-ring.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-009",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/009-kote-s-iron-rod.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-010",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/010-loden-stone.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-011",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/011-kvothe-s-lute.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-012",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/012-mauthen-wedding-vase.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-013",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/013-rhetoric-and-logic.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-014",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/014-sympathy-lamp.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-item-015",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/item/015-silver-talent-pipes.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-001",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/001-anilin.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-002",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/002-anker-s-inn.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-003",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan10.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-004",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan16.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-005",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/005-devi-s-rooms.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-006",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan06.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-007",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan02.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-008",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/eolian.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-009",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan14.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-010",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan19.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-011",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/road.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-012",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan08.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-013",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/013-hallowfell.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-014",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/elodinCourt.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-015",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/015-imre.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-016",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/016-imre-docks.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-017",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/017-the-mains.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-018",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan07.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-019",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan09.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-020",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan17.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-021",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/021-medica.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-022",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/022-road-to-newarre.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-023",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/023-newarre.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-024",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan11.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-025",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/025-scrael-camp.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-026",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/026-stonebridge.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-027",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/027-hillside.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-028",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan15.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-029",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/tarbean.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-030",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan05.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-031",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/031-trapis-s-cellar.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-032",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-wise-man-s-fear/art/generated/trebon.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-033",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/033-trebon-town-hall.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-034",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/034-road-to-trebon.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-035",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/035-trebon.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-036",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan18.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-037",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/underthing.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-038",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan20.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-039",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/039-university-courtyard.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-040",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/university.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-041",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan01.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "notw-unique-location-042",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/unique/location/042-newarre.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     }
   ],
   "travelModes": [],
