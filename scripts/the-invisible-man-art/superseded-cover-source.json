@@ -1,0 +1,14 @@
+{
+  "book": "the-invisible-man",
+  "note": "The original external cover source was replaced. The existing character, item, location and map blobs were preserved.",
+  "blobs": [
+    {
+      "worldId": "invisible-man-world",
+      "createdAt": 1787529600000,
+      "updatedAt": 1787529600000,
+      "id": "invisible-man-image-cover",
+      "mimeType": "image/jpeg",
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wells%20-%20The%20Invisible%20Man%20-%20Pearson%20cover%201897.jpg?width=900"
+    }
+  ]
+}

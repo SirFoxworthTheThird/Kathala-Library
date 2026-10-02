@@ -1,0 +1,22 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..','..');
+const manifest=JSON.parse(fs.readFileSync(path.join(root,'scripts/the-invisible-man-art/manifest.json'),'utf8'));
+const file=path.join(root,'library/the-invisible-man.pwk');
+const world=JSON.parse(fs.readFileSync(file,'utf8'));
+const cover=world.blobs.find(b=>b.id===world.world.coverImageId);
+if(!cover||!/^https?:/.test(cover.url))throw Error('Expected the original external cover blob');
+const job=manifest.jobs[0];
+if(job.entityId!==world.world.id||!fs.existsSync(path.join(root,...job.url.split('/'))))throw Error('Cover job or JPEG missing');
+if(new Set(world.mapLayers.map(m=>m.imageId)).size!==manifest.mapIds.length||manifest.mapIds.some(id=>!world.mapLayers.some(m=>m.imageId===id)))throw Error('Map layers changed');
+const archive={book:'the-invisible-man',note:'The original external cover source was replaced. The existing character, item, location and map blobs were preserved.',blobs:[{...cover}]};
+fs.writeFileSync(path.join(root,'scripts/the-invisible-man-art/superseded-cover-source.json'),`${JSON.stringify(archive,null,2)}\n`);
+cover.url=job.url;
+cover.mimeType='image/jpeg';
+cover.updatedAt=Date.UTC(2026,9,2);
+const sourcePage=world.lorePages.find(page=>page.id==='invisible-man-lore-sources');
+if(sourcePage&&!sourcePage.body.includes('The current cover is an original generated illustration.'))sourcePage.body+=' The current cover is an original generated illustration.';
+fs.writeFileSync(file,`${JSON.stringify(world,null,2)}\n`);
+console.log(`Replaced external cover; retained ${world.characters.length} portraits, ${world.items.length} items, ${world.locationMarkers.length} locations and ${world.mapLayers.length} maps`);
