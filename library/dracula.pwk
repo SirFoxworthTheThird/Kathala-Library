@@ -7,7 +7,7 @@
     "id": "dracula-1897-world",
     "name": "Dracula",
     "description": "Count Dracula arranges, through an English solicitor sent out to his castle in the Carpathians, to buy property in London and move himself there. What follows is assembled afterwards from the journals, letters and records of the people who came to understand what he was.",
-    "coverImageId": "dracula-image-cover",
+    "coverImageId": "dracula-generated-cover-001",
     "theme": "theme-horror",
     "createdAt": 1785499200000,
     "updatedAt": 1785499200000,
@@ -255,7 +255,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-23"
+      "imageId": "dracula-generated-location-001"
     },
     {
       "id": "dracula-loc-munich",
@@ -271,7 +271,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-23"
+      "imageId": "dracula-generated-location-002"
     },
     {
       "id": "dracula-loc-vienna",
@@ -287,7 +287,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-23"
+      "imageId": "dracula-generated-location-003"
     },
     {
       "id": "dracula-loc-budapest",
@@ -303,7 +303,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-14"
+      "imageId": "dracula-generated-location-004"
     },
     {
       "id": "dracula-loc-varnav",
@@ -319,7 +319,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-25"
+      "imageId": "dracula-generated-location-005"
     },
     {
       "id": "dracula-loc-galatz",
@@ -335,7 +335,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-26"
+      "imageId": "dracula-generated-location-006"
     },
     {
       "id": "dracula-loc-exeter",
@@ -351,7 +351,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-14"
+      "imageId": "dracula-generated-location-007"
     },
     {
       "id": "dracula-loc-london-portal",
@@ -367,7 +367,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-17"
+      "imageId": "dracula-generated-location-008"
     },
     {
       "id": "dracula-loc-whitby-portal",
@@ -383,7 +383,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-08"
+      "imageId": "dracula-generated-location-009"
     },
     {
       "id": "dracula-loc-demeter-portal",
@@ -399,7 +399,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-25"
+      "imageId": "dracula-generated-location-010"
     },
     {
       "id": "dracula-loc-transylvania-portal",
@@ -415,7 +415,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-26"
+      "imageId": "dracula-generated-location-011"
     },
     {
       "id": "dracula-loc-bistritz",
@@ -431,7 +431,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-26"
+      "imageId": "dracula-generated-location-012"
     },
     {
       "id": "dracula-loc-borgo",
@@ -447,7 +447,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-01"
+      "imageId": "dracula-generated-location-013"
     },
     {
       "id": "dracula-loc-castle-portal",
@@ -463,7 +463,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-01"
+      "imageId": "dracula-generated-location-014"
     },
     {
       "id": "dracula-loc-veresti",
@@ -479,7 +479,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-26"
+      "imageId": "dracula-generated-location-015"
     },
     {
       "id": "dracula-loc-fundu",
@@ -495,7 +495,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-26"
+      "imageId": "dracula-generated-location-016"
     },
     {
       "id": "dracula-loc-river",
@@ -511,7 +511,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-26"
+      "imageId": "dracula-generated-location-017"
     },
     {
       "id": "dracula-loc-castle-courtyard",
@@ -527,7 +527,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-01"
+      "imageId": "dracula-generated-location-018"
     },
     {
       "id": "dracula-loc-castle-hall",
@@ -543,7 +543,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-02"
+      "imageId": "dracula-generated-location-019"
     },
     {
       "id": "dracula-loc-castle-library",
@@ -559,7 +559,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-04"
+      "imageId": "dracula-generated-location-020"
     },
     {
       "id": "dracula-loc-castle-dining",
@@ -575,7 +575,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-02"
+      "imageId": "dracula-generated-location-021"
     },
     {
       "id": "dracula-loc-castle-guest",
@@ -591,7 +591,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-22"
+      "imageId": "dracula-generated-location-022"
     },
     {
       "id": "dracula-loc-castle-stair",
@@ -607,7 +607,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-04"
+      "imageId": "dracula-generated-location-023"
     },
     {
       "id": "dracula-loc-harker-room",
@@ -623,7 +623,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-22"
+      "imageId": "dracula-generated-location-024"
     },
     {
       "id": "dracula-loc-gallery",
@@ -639,7 +639,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-03"
+      "imageId": "dracula-generated-location-025"
     },
     {
       "id": "dracula-loc-count-room",
@@ -655,7 +655,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-19"
+      "imageId": "dracula-generated-location-026"
     },
     {
       "id": "dracula-loc-battlements",
@@ -671,7 +671,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-04"
+      "imageId": "dracula-generated-location-027"
     },
     {
       "id": "dracula-loc-chapel",
@@ -687,7 +687,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-09"
+      "imageId": "dracula-generated-location-028"
     },
     {
       "id": "dracula-loc-earth-vault",
@@ -703,7 +703,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-19"
+      "imageId": "dracula-generated-location-029"
     },
     {
       "id": "dracula-loc-vampire-tombs",
@@ -719,7 +719,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-27"
+      "imageId": "dracula-generated-location-030"
     },
     {
       "id": "dracula-loc-hillingham",
@@ -735,7 +735,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-10"
+      "imageId": "dracula-generated-location-031"
     },
     {
       "id": "dracula-loc-purfleet",
@@ -751,7 +751,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-09"
+      "imageId": "dracula-generated-location-032"
     },
     {
       "id": "dracula-loc-asylum-portal",
@@ -767,7 +767,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-18"
+      "imageId": "dracula-generated-location-033"
     },
     {
       "id": "dracula-loc-piccadilly",
@@ -783,7 +783,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-20"
+      "imageId": "dracula-generated-location-034"
     },
     {
       "id": "dracula-loc-bermondsey",
@@ -799,7 +799,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-17"
+      "imageId": "dracula-generated-location-035"
     },
     {
       "id": "dracula-loc-mile-end",
@@ -815,7 +815,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-17"
+      "imageId": "dracula-generated-location-036"
     },
     {
       "id": "dracula-loc-chancery",
@@ -831,7 +831,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-14"
+      "imageId": "dracula-generated-location-037"
     },
     {
       "id": "dracula-loc-zoo",
@@ -847,7 +847,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-11"
+      "imageId": "dracula-generated-location-038"
     },
     {
       "id": "dracula-loc-ring",
@@ -863,7 +863,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-05"
+      "imageId": "dracula-generated-location-039"
     },
     {
       "id": "dracula-loc-charing",
@@ -879,7 +879,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-17"
+      "imageId": "dracula-generated-location-040"
     },
     {
       "id": "dracula-loc-carfax-chapel",
@@ -895,7 +895,7 @@
       "factionId": "dracula-faction-undead",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-09"
+      "imageId": "dracula-generated-location-041"
     },
     {
       "id": "dracula-loc-carfax-house",
@@ -911,7 +911,7 @@
       "factionId": "dracula-faction-undead",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-09"
+      "imageId": "dracula-generated-location-042"
     },
     {
       "id": "dracula-loc-carfax-boxes",
@@ -927,7 +927,7 @@
       "factionId": "dracula-faction-undead",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-19"
+      "imageId": "dracula-generated-location-043"
     },
     {
       "id": "dracula-loc-carfax-yard",
@@ -943,7 +943,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-09"
+      "imageId": "dracula-generated-location-044"
     },
     {
       "id": "dracula-loc-seward-study",
@@ -959,7 +959,7 @@
       "factionId": "dracula-faction-asylum",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-18"
+      "imageId": "dracula-generated-location-045"
     },
     {
       "id": "dracula-loc-renfield-cell",
@@ -975,7 +975,7 @@
       "factionId": "dracula-faction-asylum",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-18"
+      "imageId": "dracula-generated-location-046"
     },
     {
       "id": "dracula-loc-mina-room",
@@ -991,7 +991,7 @@
       "factionId": "dracula-faction-asylum",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-21"
+      "imageId": "dracula-generated-location-047"
     },
     {
       "id": "dracula-loc-asylum-grounds",
@@ -1007,7 +1007,7 @@
       "factionId": "dracula-faction-asylum",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-15"
+      "imageId": "dracula-generated-location-048"
     },
     {
       "id": "dracula-loc-whitby-station",
@@ -1023,7 +1023,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-17"
+      "imageId": "dracula-generated-location-049"
     },
     {
       "id": "dracula-loc-crescent",
@@ -1039,7 +1039,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-05"
+      "imageId": "dracula-generated-location-050"
     },
     {
       "id": "dracula-loc-harbour",
@@ -1055,7 +1055,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-07"
+      "imageId": "dracula-generated-location-051"
     },
     {
       "id": "dracula-loc-east-cliff",
@@ -1071,7 +1071,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-06"
+      "imageId": "dracula-generated-location-052"
     },
     {
       "id": "dracula-loc-churchyard",
@@ -1087,7 +1087,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-08"
+      "imageId": "dracula-generated-location-053"
     },
     {
       "id": "dracula-loc-abbey",
@@ -1103,7 +1103,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-08"
+      "imageId": "dracula-generated-location-054"
     },
     {
       "id": "dracula-loc-swales-bench",
@@ -1119,7 +1119,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-06"
+      "imageId": "dracula-generated-location-055"
     },
     {
       "id": "dracula-loc-demeter-deck",
@@ -1135,7 +1135,7 @@
       "factionId": "dracula-faction-demeter",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-25"
+      "imageId": "dracula-generated-location-056"
     },
     {
       "id": "dracula-loc-demeter-helm",
@@ -1151,7 +1151,7 @@
       "factionId": "dracula-faction-demeter",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-07"
+      "imageId": "dracula-generated-location-057"
     },
     {
       "id": "dracula-loc-demeter-cabin",
@@ -1167,7 +1167,7 @@
       "factionId": "dracula-faction-demeter",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-25"
+      "imageId": "dracula-generated-location-058"
     },
     {
       "id": "dracula-loc-demeter-hold",
@@ -1183,7 +1183,7 @@
       "factionId": "dracula-faction-demeter",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-25"
+      "imageId": "dracula-generated-location-059"
     },
     {
       "id": "dracula-loc-galatz-regional",
@@ -1199,7 +1199,7 @@
       "factionId": null,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "imageId": "dracula-location-coulthart-26"
+      "imageId": "dracula-generated-location-060"
     }
   ],
   "characters": [
@@ -1211,7 +1211,7 @@
         "Mr Harker"
       ],
       "description": "A young English solicitor whose journey to Castle Dracula opens the archive.",
-      "portraitImageId": "dracula-char-jonathan-portrait",
+      "portraitImageId": "dracula-generated-character-001",
       "color": "#c8a96b",
       "tags": [
         "hunter",
@@ -1230,7 +1230,7 @@
         "The Count"
       ],
       "description": "A Transylvanian nobleman and vampire who plans a migration to England.",
-      "portraitImageId": "dracula-char-dracula-portrait",
+      "portraitImageId": "dracula-generated-character-002",
       "color": "#8f1d2c",
       "tags": [
         "vampire",
@@ -1250,7 +1250,7 @@
         "Mina Harker"
       ],
       "description": "A schoolmistress, typist, and organizer whose archive makes the hunt possible.",
-      "portraitImageId": "dracula-char-mina-portrait",
+      "portraitImageId": "dracula-generated-character-003",
       "color": "#7d8fb3",
       "tags": [
         "hunter",
@@ -1269,7 +1269,7 @@
         "The Bloofer Lady"
       ],
       "description": "Mina’s closest friend, desired by three suitors and preyed upon by Dracula.",
-      "portraitImageId": "dracula-char-lucy-portrait",
+      "portraitImageId": "dracula-generated-character-004",
       "color": "#d69aa7",
       "tags": [
         "victim",
@@ -1288,7 +1288,7 @@
         "Jack Seward"
       ],
       "description": "Physician, asylum director, and phonograph diarist.",
-      "portraitImageId": "dracula-char-seward-portrait",
+      "portraitImageId": "dracula-generated-character-005",
       "color": "#5f86a0",
       "tags": [
         "hunter",
@@ -1307,7 +1307,7 @@
         "Professor Van Helsing"
       ],
       "description": "Dutch physician and polymath who recognizes the vampire threat.",
-      "portraitImageId": "dracula-char-van-helsing-portrait",
+      "portraitImageId": "dracula-generated-character-006",
       "color": "#b89b62",
       "tags": [
         "hunter",
@@ -1326,7 +1326,7 @@
         "Lord Godalming"
       ],
       "description": "Lucy’s fiancé and heir to Lord Godalming, steady where his friends are clever.",
-      "portraitImageId": "dracula-char-arthur-portrait",
+      "portraitImageId": "dracula-generated-character-007",
       "color": "#8f7aa8",
       "tags": [
         "hunter",
@@ -1345,7 +1345,7 @@
         "Quincey Morris"
       ],
       "description": "An American adventurer, Lucy’s former suitor, and steadfast hunter.",
-      "portraitImageId": "dracula-char-quincey-portrait",
+      "portraitImageId": "dracula-generated-character-008",
       "color": "#a96b4d",
       "tags": [
         "hunter",
@@ -1362,7 +1362,7 @@
       "name": "R. M. Renfield",
       "aliases": [],
       "description": "Seward’s zoöphagous patient, psychically sensitive to Dracula’s movements.",
-      "portraitImageId": "dracula-char-renfield-portrait",
+      "portraitImageId": "dracula-generated-character-009",
       "color": "#758c68",
       "tags": [
         "patient",
@@ -1379,7 +1379,7 @@
       "name": "Mrs Westenra",
       "aliases": [],
       "description": "Lucy’s ailing mother, whose well-meant actions repeatedly defeat the doctors’ safeguards.",
-      "portraitImageId": "dracula-char-mrs-westenra-portrait",
+      "portraitImageId": "dracula-generated-character-010",
       "color": "#9b8080",
       "tags": [
         "family"
@@ -1395,7 +1395,7 @@
       "name": "Mr Peter Hawkins",
       "aliases": [],
       "description": "Jonathan’s employer in Exeter, who sent him to Transylvania in his own place.",
-      "portraitImageId": "dracula-char-hawkins-portrait",
+      "portraitImageId": "dracula-generated-character-011",
       "color": "#817561",
       "tags": [
         "solicitor"
@@ -1411,7 +1411,7 @@
       "name": "Sister Agatha",
       "aliases": [],
       "description": "Nurse at the Budapest hospital who reports Jonathan’s condition to Mina.",
-      "portraitImageId": "dracula-char-sister-agatha-portrait",
+      "portraitImageId": "dracula-generated-character-012",
       "color": "#aaa08d",
       "tags": [
         "nurse"
@@ -1429,7 +1429,7 @@
         "The Weird Sisters"
       ],
       "description": "Three undead women inhabiting Castle Dracula.",
-      "portraitImageId": "dracula-char-three-women-portrait",
+      "portraitImageId": "dracula-generated-character-013",
       "color": "#9c4760",
       "tags": [
         "vampire",
@@ -1446,7 +1446,7 @@
       "name": "Captain of the Demeter",
       "aliases": [],
       "description": "The shipmaster who keeps his post after the crew disappears.",
-      "portraitImageId": "dracula-char-captain-portrait",
+      "portraitImageId": "dracula-generated-character-014",
       "color": "#496b80",
       "tags": [
         "sailor"
@@ -1462,7 +1462,7 @@
       "name": "First Mate of the Demeter",
       "aliases": [],
       "description": "The final crewman to challenge the hidden presence aboard ship.",
-      "portraitImageId": "dracula-char-mate-portrait",
+      "portraitImageId": "dracula-generated-character-015",
       "color": "#5c7180",
       "tags": [
         "sailor"
@@ -1478,7 +1478,7 @@
       "name": "Mr Swales",
       "aliases": [],
       "description": "An elderly Whitby resident whose skepticism gives way to dread.",
-      "portraitImageId": "dracula-char-swales-portrait",
+      "portraitImageId": "dracula-generated-character-016",
       "color": "#7b756c",
       "tags": [
         "whitby"
@@ -1494,7 +1494,7 @@
       "name": "Thomas Bilder",
       "aliases": [],
       "description": "The zookeeper who recounts the escape and return of Bersicker.",
-      "portraitImageId": "dracula-char-bilder-portrait",
+      "portraitImageId": "dracula-generated-character-017",
       "color": "#88734e",
       "tags": [
         "zookeeper"
@@ -1510,7 +1510,7 @@
       "name": "Bersicker",
       "aliases": [],
       "description": "A large zoo wolf used to break Hillingham’s window.",
-      "portraitImageId": "dracula-char-bersicker-portrait",
+      "portraitImageId": "dracula-generated-character-018",
       "color": "#777b80",
       "tags": [
         "animal"
@@ -1526,7 +1526,7 @@
       "name": "Seward’s Attendant",
       "aliases": [],
       "description": "An asylum orderly involved in guarding and restraining Renfield.",
-      "portraitImageId": "dracula-char-nurse-portrait",
+      "portraitImageId": "dracula-generated-character-019",
       "color": "#6c787c",
       "tags": [
         "asylum"
@@ -1542,7 +1542,7 @@
       "name": "Samuel F. Billington",
       "aliases": [],
       "description": "London solicitor who receives instructions for Dracula’s property purchase.",
-      "portraitImageId": "dracula-char-billington-portrait",
+      "portraitImageId": "dracula-generated-character-020",
       "color": "#72614c",
       "tags": [
         "solicitor"
@@ -1558,7 +1558,7 @@
       "name": "Thomas Snelling",
       "aliases": [],
       "description": "Carrier who helps trace the boxes moved from Carfax.",
-      "portraitImageId": "dracula-char-snelling-portrait",
+      "portraitImageId": "dracula-generated-character-021",
       "color": "#786b5d",
       "tags": [
         "carrier"
@@ -1574,7 +1574,7 @@
       "name": "Immanuel Hildesheim",
       "aliases": [],
       "description": "Galatz broker who directs the hunters toward Skinsky.",
-      "portraitImageId": "dracula-char-hildesheim-portrait",
+      "portraitImageId": "dracula-generated-character-022",
       "color": "#766b56",
       "tags": [
         "broker"
@@ -1590,7 +1590,7 @@
       "name": "Petrof Skinsky",
       "aliases": [],
       "description": "Slovak carrier who conveys Dracula’s box inland from Galatz.",
-      "portraitImageId": "dracula-char-skinsky-portrait",
+      "portraitImageId": "dracula-generated-character-023",
       "color": "#6e6252",
       "tags": [
         "carrier"
@@ -1606,7 +1606,7 @@
       "name": "Captain Donelson",
       "aliases": [],
       "description": "Captain of the Czarina Catherine, deceived by Dracula’s fog-driven passage.",
-      "portraitImageId": "dracula-char-czarina-captain-portrait",
+      "portraitImageId": "dracula-generated-character-024",
       "color": "#496b80",
       "tags": [
         "sailor"
@@ -1622,7 +1622,7 @@
       "name": "Szgany Retainers",
       "aliases": [],
       "description": "The armed group racing Dracula’s box back to the castle.",
-      "portraitImageId": "dracula-char-szgany-portrait",
+      "portraitImageId": "dracula-generated-character-025",
       "color": "#7a5538",
       "tags": [
         "collective",
@@ -1641,7 +1641,7 @@
       "name": "Jonathan’s Journal",
       "description": "The shorthand record Jonathan keeps at Castle Dracula, written where his host cannot read it.",
       "iconType": "book",
-      "imageId": "dracula-item-journal-image",
+      "imageId": "dracula-generated-item-001",
       "tags": [
         "document"
       ],
@@ -1654,7 +1654,7 @@
       "name": "Mina’s Journal and Transcripts",
       "description": "The diary and typed archive that unify the group’s evidence.",
       "iconType": "book",
-      "imageId": "dracula-item-mina-diary-image",
+      "imageId": "dracula-generated-item-002",
       "tags": [
         "document"
       ],
@@ -1667,7 +1667,7 @@
       "name": "Seward’s Phonograph Diary",
       "description": "Wax-cylinder case notes and personal record.",
       "iconType": "device",
-      "imageId": "dracula-item-phonograph-image",
+      "imageId": "dracula-generated-item-003",
       "tags": [
         "document",
         "technology"
@@ -1681,7 +1681,7 @@
       "name": "Demeter Log",
       "description": "The captain’s account of disappearances at sea.",
       "iconType": "book",
-      "imageId": "dracula-item-demeter-log-image",
+      "imageId": "dracula-generated-item-004",
       "tags": [
         "document"
       ],
@@ -1694,7 +1694,7 @@
       "name": "Letters and Telegrams",
       "description": "The distributed correspondence that connects the archive.",
       "iconType": "letter",
-      "imageId": "dracula-item-letters-image",
+      "imageId": "dracula-generated-item-005",
       "tags": [
         "document"
       ],
@@ -1707,7 +1707,7 @@
       "name": "Crucifix",
       "description": "A protective gift Jonathan receives before reaching the castle.",
       "iconType": "jewelry",
-      "imageId": "dracula-item-crucifix-image",
+      "imageId": "dracula-generated-item-006",
       "tags": [
         "sacred"
       ],
@@ -1720,7 +1720,7 @@
       "name": "Shaving Mirror",
       "description": "Jonathan’s mirror, destroyed when it reveals Dracula casts no reflection.",
       "iconType": "tool",
-      "imageId": "dracula-item-mirror-image",
+      "imageId": "dracula-generated-item-007",
       "tags": [
         "evidence"
       ],
@@ -1733,7 +1733,7 @@
       "name": "Castle Keys",
       "description": "Keys Jonathan seeks while attempting escape.",
       "iconType": "key",
-      "imageId": "dracula-item-keys-image",
+      "imageId": "dracula-generated-item-008",
       "tags": [
         "escape"
       ],
@@ -1746,7 +1746,7 @@
       "name": "Boxes of Transylvanian Earth",
       "description": "Fifty boxes that provide Dracula with portable refuges.",
       "iconType": "crate",
-      "imageId": "dracula-item-earth-boxes-image",
+      "imageId": "dracula-generated-item-009",
       "tags": [
         "vampire",
         "logistics"
@@ -1760,7 +1760,7 @@
       "name": "Garlic Flowers",
       "description": "Van Helsing’s ward around Lucy and her room.",
       "iconType": "plant",
-      "imageId": "dracula-item-garlic-image",
+      "imageId": "dracula-generated-item-010",
       "tags": [
         "sacred",
         "ward"
@@ -1774,7 +1774,7 @@
       "name": "Consecrated Wafers",
       "description": "Sacred hosts used to seal and sterilize vampire refuges.",
       "iconType": "religious",
-      "imageId": "dracula-item-wafer-image",
+      "imageId": "dracula-generated-item-011",
       "tags": [
         "sacred",
         "weapon"
@@ -1788,7 +1788,7 @@
       "name": "Wooden Stake and Hammer",
       "description": "Tools used to release undead Lucy.",
       "iconType": "weapon",
-      "imageId": "dracula-item-stake-image",
+      "imageId": "dracula-generated-item-012",
       "tags": [
         "vampire",
         "weapon"
@@ -1802,7 +1802,7 @@
       "name": "Transfusion Equipment",
       "description": "Apparatus used in repeated attempts to save Lucy.",
       "iconType": "medical",
-      "imageId": "dracula-item-transfusion-image",
+      "imageId": "dracula-generated-item-013",
       "tags": [
         "medicine"
       ],
@@ -1815,7 +1815,7 @@
       "name": "Maps and Timetables",
       "description": "Routes, schedules, and shipping intelligence used in the pursuit.",
       "iconType": "map",
-      "imageId": "dracula-item-maps-image",
+      "imageId": "dracula-generated-item-014",
       "tags": [
         "technology",
         "hunt"
@@ -1829,7 +1829,7 @@
       "name": "Jonathan’s Kukri Knife",
       "description": "The blade Jonathan uses in the final attack on Dracula’s box.",
       "iconType": "weapon",
-      "imageId": "dracula-item-kukri-image",
+      "imageId": "dracula-generated-item-015",
       "tags": [
         "weapon"
       ],
@@ -1842,7 +1842,7 @@
       "name": "Quincey’s Bowie Knife",
       "description": "The blade Quincey uses in the final attack.",
       "iconType": "weapon",
-      "imageId": "dracula-item-bowie-image",
+      "imageId": "dracula-generated-item-016",
       "tags": [
         "weapon"
       ],
@@ -1855,7 +1855,7 @@
       "name": "Winchester Rifles",
       "description": "Firearms carried during the Transylvanian pursuit.",
       "iconType": "weapon",
-      "imageId": "dracula-item-rifles-image",
+      "imageId": "dracula-generated-item-017",
       "tags": [
         "weapon"
       ],
@@ -12036,13 +12036,6 @@
   ],
   "blobs": [
     {
-      "id": "dracula-image-cover",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dracula1st.jpeg/960px-Dracula1st.jpeg",
-      "createdAt": 1785499200000
-    },
-    {
       "id": "dracula-image-europe",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
@@ -12113,459 +12106,828 @@
       "createdAt": 1785499200000
     },
     {
-      "id": "dracula-char-jonathan-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-jonathan.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-dracula-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-dracula.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-mina-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-mina.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-lucy-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-lucy.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-seward-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-seward.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-van-helsing-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-van-helsing.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-arthur-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-arthur.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-quincey-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-quincey.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-renfield-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-renfield.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-mrs-westenra-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-mrs-westenra.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-hawkins-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-hawkins.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-sister-agatha-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-sister-agatha.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-three-women-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-three-women.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-captain-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-captain.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-mate-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-mate.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-swales-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-swales.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-bilder-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-bilder.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-bersicker-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-bersicker.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-nurse-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-attendant.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-billington-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-billington.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-snelling-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-snelling.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-hildesheim-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-hildesheim.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-skinsky-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-skinsky.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-czarina-captain-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-donelson.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-char-szgany-portrait",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/character-szgany.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-journal-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-journal.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-mina-diary-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-mina-diary.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-phonograph-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-phonograph.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-demeter-log-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-demeter-log.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-letters-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-letters.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-crucifix-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-crucifix.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-mirror-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-mirror.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-keys-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-keys.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-earth-boxes-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-earth-boxes.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-garlic-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-garlic.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-wafer-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-wafer.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-stake-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-stake.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-transfusion-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-transfusion.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-maps-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-maps.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-kukri-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-kukri.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-bowie-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-bowie.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-item-rifles-image",
-      "worldId": "dracula-1897-world",
-      "mimeType": "image/png",
-      "url": "library/dracula/art/item-rifles.png",
-      "createdAt": 1788393600000
-    },
-    {
-      "id": "dracula-location-coulthart-23",
+      "id": "dracula-generated-cover-001",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula23.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/cover/001-dracula.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-14",
+      "id": "dracula-generated-character-001",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula14.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/001-jonathan-harker.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-25",
+      "id": "dracula-generated-character-002",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula25.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/002-count-dracula.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-26",
+      "id": "dracula-generated-character-003",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula26.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/003-wilhelmina-mina-murray.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-17",
+      "id": "dracula-generated-character-004",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula17.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/004-lucy-westenra.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-08",
+      "id": "dracula-generated-character-005",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula08.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/005-dr-john-seward.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-01",
+      "id": "dracula-generated-character-006",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula01.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/006-professor-abraham-van-helsing.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-02",
+      "id": "dracula-generated-character-007",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula02.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/007-arthur-holmwood.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-04",
+      "id": "dracula-generated-character-008",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula04.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/008-quincey-p-morris.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-22",
+      "id": "dracula-generated-character-009",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula22.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/009-r-m-renfield.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-03",
+      "id": "dracula-generated-character-010",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula03.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/010-mrs-westenra.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-19",
+      "id": "dracula-generated-character-011",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula19.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/011-mr-peter-hawkins.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-09",
+      "id": "dracula-generated-character-012",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula09.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/012-sister-agatha.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-27",
+      "id": "dracula-generated-character-013",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula27.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/013-the-three-vampire-women.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-10",
+      "id": "dracula-generated-character-014",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula10.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/014-captain-of-the-demeter.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-18",
+      "id": "dracula-generated-character-015",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula18.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/015-first-mate-of-the-demeter.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-20",
+      "id": "dracula-generated-character-016",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula20.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/016-mr-swales.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-11",
+      "id": "dracula-generated-character-017",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula11.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/017-thomas-bilder.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-05",
+      "id": "dracula-generated-character-018",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula05.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/018-bersicker.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-21",
+      "id": "dracula-generated-character-019",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula21.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/019-seward-s-attendant.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-15",
+      "id": "dracula-generated-character-020",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula15.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/020-samuel-f-billington.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-07",
+      "id": "dracula-generated-character-021",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula07.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/021-thomas-snelling.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     },
     {
-      "id": "dracula-location-coulthart-06",
+      "id": "dracula-generated-character-022",
       "worldId": "dracula-1897-world",
       "mimeType": "image/jpeg",
-      "url": "https://www.johncoulthart.com/images/dracula/dracula06.jpg",
-      "createdAt": 1786147200000
+      "url": "library/dracula/art/generated/character/022-immanuel-hildesheim.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-character-023",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/character/023-petrof-skinsky.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-character-024",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/character/024-captain-donelson.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-character-025",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/character/025-szgany-retainers.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-001",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/001-jonathan-s-journal.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-002",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/002-mina-s-journal-and-transcripts.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-003",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/003-seward-s-phonograph-diary.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-004",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/004-demeter-log.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-005",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/005-letters-and-telegrams.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-006",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/006-crucifix.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-007",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/007-shaving-mirror.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-008",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/008-castle-keys.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-009",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/009-boxes-of-transylvanian-earth.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-010",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/010-garlic-flowers.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-011",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/011-consecrated-wafers.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-012",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/012-wooden-stake-and-hammer.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-013",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/013-transfusion-equipment.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-014",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/014-maps-and-timetables.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-015",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/015-jonathan-s-kukri-knife.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-016",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/016-quincey-s-bowie-knife.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-item-017",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/item/017-winchester-rifles.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-001",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/001-continental-rail-route.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-002",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/002-munich.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-003",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/003-vienna.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-004",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/004-budapest.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-005",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/005-varna.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-006",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/006-galatz.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-007",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/007-exeter.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-008",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/008-london.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-009",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/009-whitby.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-010",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/010-the-demeter-s-route.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-011",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/011-transylvania.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-012",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/012-bistritz.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-013",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/013-borgo-pass.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-014",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/014-castle-dracula.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-015",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/015-veresti.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-016",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/016-fundu.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-017",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/017-river-sereth-route.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-018",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/018-castle-courtyard.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-019",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/019-great-hall.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-020",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/020-library.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-021",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/021-dining-room.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-022",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/022-guest-room.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-023",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/023-stair-hall.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-024",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/024-jonathan-s-locked-room.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-025",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/025-forbidden-gallery.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-026",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/026-the-count-s-chamber.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-027",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/027-battlements.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-028",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/028-ruined-chapel.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-029",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/029-earth-vault.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-030",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/030-vampire-tombs.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-031",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/031-hillingham.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-032",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/032-purfleet.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-033",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/033-seward-s-asylum.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-034",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/034-piccadilly-house.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-035",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/035-bermondsey-house.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-036",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/036-mile-end-house.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-037",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/037-samuel-f-billington-s-office.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-038",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/038-zoological-gardens.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-039",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/039-ring-estate.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-040",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/040-charing-cross-station.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-041",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/041-ruined-chapel.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-042",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/042-great-house.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-043",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/043-earth-box-store.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-044",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/044-carfax-yard.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-045",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/045-seward-s-study.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-046",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/046-renfield-s-cell.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-047",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/047-mina-s-room.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-048",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/048-asylum-grounds.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-049",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/049-whitby-station.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-050",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/050-the-crescent.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-051",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/051-whitby-harbour.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-052",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/052-east-cliff.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-053",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/053-st-mary-s-churchyard.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-054",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/054-whitby-abbey.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-055",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/055-mr-swales-s-bench.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-056",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/056-main-deck.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-057",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/057-wheel-and-helm.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-058",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/058-captain-s-cabin.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-059",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/059-cargo-hold.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
+    },
+    {
+      "id": "dracula-generated-location-060",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "library/dracula/art/generated/location/060-road-from-galatz.jpg",
+      "createdAt": 1790899200000,
+      "updatedAt": 1790899200000
     }
   ],
   "travelModes": [],
