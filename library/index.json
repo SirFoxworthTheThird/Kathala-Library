@@ -785,16 +785,16 @@
       "author": "Wilkie Collins",
       "blurb": "A drawing master, two half-sisters, and a woman escaped from confinement assemble the evidence behind a conspiracy of identity, inheritance, and law.",
       "data": "the-woman-in-white.pwk",
-      "dataBytes": 1782618,
+      "dataBytes": 1783640,
       "counts": {
         "characters": 18,
         "chapters": 62,
         "events": 62,
         "locations": 23
       },
-      "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text from Project Gutenberg eBook #583, divided among all 62 modeled documentary sections; Gutenberg packaging and the contents list are excluded. Structural summaries, event divisions and chronology are editorial. Historical maps and public-domain book illustrations are linked in the file.",
+      "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text from Project Gutenberg eBook #583, divided among all 62 modeled documentary sections; Gutenberg packaging and the contents list are excluded. Structural summaries, event divisions and chronology are editorial. Five historical maps remain linked in the file; superseded public-domain illustration sources are archived. The original generated illustrations and five retained historical maps are documented in Lore.",
       "worldId": "woman-in-white-world",
-      "cover": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_woman_in_white_Cover_1890.jpg",
+      "cover": "library/the-woman-in-white/art/generated/cover.jpg",
       "hasProse": true
     },
     {

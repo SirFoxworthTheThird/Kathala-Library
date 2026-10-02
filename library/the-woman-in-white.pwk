@@ -6,7 +6,7 @@
     "id": "woman-in-white-world",
     "name": "The Woman in White",
     "description": "Wilkie Collins’s mystery follows drawing master Walter Hartright, sisters Laura Fairlie and Marian Halcombe, and the haunting figure of Anne Catherick through a struggle over identity, marriage, confinement, inheritance, and the authority of written evidence.",
-    "coverImageId": "woman-in-white-image-cover",
+    "coverImageId": "woman-in-white-image-generated-cover",
     "theme": "theme-noir",
     "readingMode": true,
     "createdAt": 1786838400000,
@@ -167,7 +167,7 @@
       "description": "The north-western county of lakes, fells, market towns, and a long Irish Sea coast.",
       "x": 690,
       "y": 1774,
-      "imageId": "woman-in-white-image-polo-01",
+      "imageId": "woman-in-white-image-generated-location-cumberland-gate",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -183,7 +183,7 @@
       "description": "Britain’s capital, with dense legal quarters, theatres, institutions, and expanding northern and western suburbs.",
       "x": 1380,
       "y": 759,
-      "imageId": "woman-in-white-image-polo-36",
+      "imageId": "woman-in-white-image-generated-location-london-gate",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -199,7 +199,7 @@
       "description": "The southern county containing Sir Percival’s country estate and the village of Old Welmingham.",
       "x": 1170,
       "y": 619,
-      "imageId": "woman-in-white-image-polo-44",
+      "imageId": "woman-in-white-image-generated-location-hampshire-gate",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -215,7 +215,7 @@
       "description": "The country house where Professor Pesca recommends Walter for the position at Limmeridge.",
       "x": 1230,
       "y": 1504,
-      "imageId": "woman-in-white-image-polo-40",
+      "imageId": "woman-in-white-image-generated-location-polesdean",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -231,7 +231,7 @@
       "description": "The busy western port linking Atlantic voyages with Britain’s railway network.",
       "x": 765,
       "y": 1409,
-      "imageId": "woman-in-white-image-polo-38",
+      "imageId": "woman-in-white-image-generated-location-liverpool",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -247,7 +247,7 @@
       "description": "The Fairlie family seat, an old Cumberland house with quiet galleries, drawing rooms, and grounds near the coast.",
       "x": 285,
       "y": 967,
-      "imageId": "woman-in-white-image-polo-07",
+      "imageId": "woman-in-white-image-generated-location-limmeridge-house",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -263,7 +263,7 @@
       "description": "The parish burial ground beside Limmeridge Church and close to the Fairlie family estate.",
       "x": 295,
       "y": 945,
-      "imageId": "woman-in-white-image-polo-08",
+      "imageId": "woman-in-white-image-generated-location-limmeridge-churchyard",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -279,7 +279,7 @@
       "description": "A small local school associated with Mrs Fairlie’s charitable interest in the village.",
       "x": 275,
       "y": 932,
-      "imageId": "woman-in-white-image-polo-06",
+      "imageId": "woman-in-white-image-generated-location-limmeridge-school",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -295,7 +295,7 @@
       "description": "The exposed coastal country near Limmeridge, with open views across the Irish Sea.",
       "x": 230,
       "y": 987,
-      "imageId": "woman-in-white-image-polo-16",
+      "imageId": "woman-in-white-image-generated-location-cumberland-coast",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -311,7 +311,7 @@
       "description": "The modest home of Walter’s mother and sister, offering a familial refuge at the beginning of the case.",
       "x": 520,
       "y": 745,
-      "imageId": "woman-in-white-image-polo-10",
+      "imageId": "woman-in-white-image-generated-location-hampstead",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -327,7 +327,7 @@
       "description": "The moonlit northern road where Walter meets a distressed woman dressed entirely in white.",
       "x": 545,
       "y": 660,
-      "imageId": "woman-in-white-image-polo-05",
+      "imageId": "woman-in-white-image-generated-location-finchley-road",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -343,7 +343,7 @@
       "description": "Walter’s compact chambers in one of the legal enclaves between the Strand and the Inns of Court.",
       "x": 660,
       "y": 460,
-      "imageId": "woman-in-white-image-polo-34",
+      "imageId": "woman-in-white-image-generated-location-clements-inn",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -359,7 +359,7 @@
       "description": "The solicitors’ Chancery Lane offices serving the Fairlie family and handling its formal settlements.",
       "x": 690,
       "y": 480,
-      "imageId": "woman-in-white-image-polo-35",
+      "imageId": "woman-in-white-image-generated-location-gilmore-kyrle",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -375,7 +375,7 @@
       "description": "A privately run institution on London’s northern outskirts, enclosed from ordinary public scrutiny.",
       "x": 600,
       "y": 640,
-      "imageId": "woman-in-white-image-polo-37",
+      "imageId": "woman-in-white-image-generated-location-asylum",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -391,7 +391,7 @@
       "description": "A substantial suburban residence on the western side of Regent’s Park.",
       "x": 490,
       "y": 580,
-      "imageId": "woman-in-white-image-polo-41",
+      "imageId": "woman-in-white-image-generated-location-st-johns-wood",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -407,7 +407,7 @@
       "description": "Modest lodgings in Fulham, on the north bank of the Thames west of central London.",
       "x": 455,
       "y": 385,
-      "imageId": "woman-in-white-image-polo-29",
+      "imageId": "woman-in-white-image-generated-location-gowers-walk",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -423,7 +423,7 @@
       "description": "A fashionable central London theatre crowded with patrons, boxes, and public promenades.",
       "x": 625,
       "y": 440,
-      "imageId": "woman-in-white-image-polo-39",
+      "imageId": "woman-in-white-image-generated-location-opera",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -439,7 +439,7 @@
       "description": "Sir Percival’s decaying Hampshire seat, surrounded by damp ground and strained domestic formality.",
       "x": 655,
       "y": 1045,
-      "imageId": "woman-in-white-image-polo-13",
+      "imageId": "woman-in-white-image-generated-location-blackwater-house",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -455,7 +455,7 @@
       "description": "The ornamental water and neglected boathouse within the Blackwater Park grounds.",
       "x": 672,
       "y": 1015,
-      "imageId": "woman-in-white-image-polo-24",
+      "imageId": "woman-in-white-image-generated-location-blackwater-lake",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -471,7 +471,7 @@
       "description": "The wooded eastern approach connecting Blackwater Park house with the surrounding roads.",
       "x": 680,
       "y": 1075,
-      "imageId": "woman-in-white-image-polo-22",
+      "imageId": "woman-in-white-image-generated-location-east-drive",
       "iconType": "road",
       "tags": [],
       "factionId": null
@@ -487,7 +487,7 @@
       "description": "An old parish church and vestry where the village’s marriage and baptism records are kept.",
       "x": 750,
       "y": 1120,
-      "imageId": "woman-in-white-image-polo-42",
+      "imageId": "woman-in-white-image-generated-location-old-welmingham",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -503,7 +503,7 @@
       "description": "The river crossing Paris in broad bends between quays, bridges, and densely built neighbourhoods.",
       "x": 745,
       "y": 577,
-      "imageId": "woman-in-white-image-polo-45",
+      "imageId": "woman-in-white-image-generated-location-paris-seine",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -519,7 +519,7 @@
       "description": "The public mortuary beside the Seine on the Île de la Cité, near Notre-Dame.",
       "x": 835,
       "y": 527,
-      "imageId": "woman-in-white-image-polo-46",
+      "imageId": "woman-in-white-image-generated-location-paris-morgue",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -534,7 +534,7 @@
       "name": "Walter Hartright",
       "aliases": [],
       "description": "A young drawing master whose chance meeting with Anne Catherick draws him into the Fairlie family’s secret and makes him the case’s patient investigator.",
-      "portraitImageId": "woman-in-white-image-polo-02",
+      "portraitImageId": "woman-in-white-image-generated-character-walter",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -550,7 +550,7 @@
         "Lady Glyde"
       ],
       "description": "The gentle heiress of Limmeridge, bound by a promise to marry Sir Percival despite loving Walter and relying deeply on Marian.",
-      "portraitImageId": "woman-in-white-image-polo-09",
+      "portraitImageId": "woman-in-white-image-generated-character-laura",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -564,7 +564,7 @@
       "name": "Marian Halcombe",
       "aliases": [],
       "description": "Laura’s intelligent and resolute half-sister, whose diary, courage, and vigilance make her the strongest early opponent of the conspiracy.",
-      "portraitImageId": "woman-in-white-image-polo-20",
+      "portraitImageId": "woman-in-white-image-generated-character-marian",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -580,7 +580,7 @@
         "The Woman in White"
       ],
       "description": "A vulnerable woman whose white clothes, resemblance to Laura, and knowledge of Sir Percival’s secret connect every part of the mystery.",
-      "portraitImageId": "woman-in-white-image-polo-04",
+      "portraitImageId": "woman-in-white-image-generated-character-anne",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -594,7 +594,7 @@
       "name": "Sir Percival Glyde",
       "aliases": [],
       "description": "A baronet under financial pressure whose authority depends on a concealed irregularity and whose marriage to Laura becomes coercive.",
-      "portraitImageId": "woman-in-white-image-polo-23",
+      "portraitImageId": "woman-in-white-image-generated-character-percival",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -608,7 +608,7 @@
       "name": "Count Fosco",
       "aliases": [],
       "description": "A charismatic, observant Italian count whose courtesy, appetites, and mastery of people conceal the conspiracy’s calculating mind.",
-      "portraitImageId": "woman-in-white-image-polo-43",
+      "portraitImageId": "woman-in-white-image-generated-character-fosco",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -624,7 +624,7 @@
         "Eleanor Fosco"
       ],
       "description": "Laura’s aunt, once outspoken but now entirely devoted to her husband’s judgments and instructions.",
-      "portraitImageId": "woman-in-white-image-polo-27",
+      "portraitImageId": "woman-in-white-image-generated-character-madame-fosco",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -638,7 +638,7 @@
       "name": "Frederick Fairlie",
       "aliases": [],
       "description": "Laura’s wealthy, self-absorbed uncle, who avoids noise, conflict, and responsibility while controlling Limmeridge and Laura’s guardianship.",
-      "portraitImageId": "woman-in-white-image-polo-03",
+      "portraitImageId": "woman-in-white-image-generated-character-fairlie",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -652,7 +652,7 @@
       "name": "Professor Pesca",
       "aliases": [],
       "description": "Walter’s exuberant Italian friend, whose gratitude wins him the Limmeridge post.",
-      "portraitImageId": "woman-in-white-image-polo-12",
+      "portraitImageId": "woman-in-white-image-generated-character-pesca",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -666,7 +666,7 @@
       "name": "Vincent Gilmore",
       "aliases": [],
       "description": "The Fairlie family solicitor, a cautious professional who distrusts the proposed settlement and tries to protect Laura’s interests.",
-      "portraitImageId": "woman-in-white-image-polo-28",
+      "portraitImageId": "woman-in-white-image-generated-character-gilmore",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -680,7 +680,7 @@
       "name": "Mrs Catherick",
       "aliases": [],
       "description": "Anne’s proud and socially isolated mother, keeper of the history behind Sir Percival’s secret.",
-      "portraitImageId": "woman-in-white-image-polo-32",
+      "portraitImageId": "woman-in-white-image-generated-character-mrs-catherick",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -694,7 +694,7 @@
       "name": "Mrs Clements",
       "aliases": [],
       "description": "Anne’s loyal companion and protector, who provides Walter with the human history that official records omit.",
-      "portraitImageId": "woman-in-white-image-polo-21",
+      "portraitImageId": "woman-in-white-image-generated-character-mrs-clements",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -708,7 +708,7 @@
       "name": "Eliza Michelson",
       "aliases": [],
       "description": "The Blackwater Park housekeeper, conscientious and observant, whose testimony records the household’s final rearrangement.",
-      "portraitImageId": "woman-in-white-image-polo-18",
+      "portraitImageId": "woman-in-white-image-generated-character-michelson",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -722,7 +722,7 @@
       "name": "Fanny",
       "aliases": [],
       "description": "Laura’s maid, loyal to her mistress and alert enough to carry Marian’s warning when the household becomes dangerous.",
-      "portraitImageId": "woman-in-white-image-polo-14",
+      "portraitImageId": "woman-in-white-image-generated-character-fanny",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -736,7 +736,7 @@
       "name": "Mr Kyrle",
       "aliases": [],
       "description": "Gilmore’s legal partner, who explains why sympathy alone cannot overturn the documentary evidence of Laura’s death.",
-      "portraitImageId": "woman-in-white-image-polo-33",
+      "portraitImageId": "woman-in-white-image-generated-character-kyrle",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -750,7 +750,7 @@
       "name": "Hester Pinhorn",
       "aliases": [],
       "description": "A domestic servant whose brief testimony fixes Anne Catherick’s final illness in the London chronology.",
-      "portraitImageId": "woman-in-white-image-polo-30",
+      "portraitImageId": "woman-in-white-image-generated-character-hester",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -764,7 +764,7 @@
       "name": "Doctor Goodricke",
       "aliases": [],
       "description": "The physician whose record supplies the medical timing of the death attributed to Lady Glyde.",
-      "portraitImageId": "woman-in-white-image-polo-11",
+      "portraitImageId": "woman-in-white-image-generated-character-goodricke",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -778,7 +778,7 @@
       "name": "Jane Gould",
       "aliases": [],
       "description": "A witness connected with the preparation of the body and the chain of evidence used to establish the burial.",
-      "portraitImageId": "woman-in-white-image-polo-26",
+      "portraitImageId": "woman-in-white-image-generated-character-jane",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
@@ -794,7 +794,7 @@
       "name": "Anne’s White Dress",
       "description": "The distinctive plain white clothing associated with Anne and with Walter’s first recognition of her.",
       "iconType": "clothing",
-      "imageId": "woman-in-white-image-macklin-1",
+      "imageId": "woman-in-white-image-generated-item-white-dress",
       "tags": []
     },
     {
@@ -805,7 +805,7 @@
       "name": "Anonymous Warning Letter",
       "description": "A letter sent to Laura before the marriage, warning her against Sir Percival without fully disclosing his secret.",
       "iconType": "document",
-      "imageId": "woman-in-white-image-macklin-2",
+      "imageId": "woman-in-white-image-generated-item-warning-letter",
       "tags": []
     },
     {
@@ -816,7 +816,7 @@
       "name": "Laura’s Marriage Settlement",
       "description": "The legal instrument that places Laura’s fortune at the centre of Gilmore’s objections and Percival’s pressure.",
       "iconType": "document",
-      "imageId": "woman-in-white-image-macklin-3",
+      "imageId": "woman-in-white-image-generated-item-settlement",
       "tags": []
     },
     {
@@ -827,7 +827,7 @@
       "name": "Marian’s Diary",
       "description": "A close record of Blackwater Park that preserves conversations, suspicions, illness, and the conspiracy’s approach.",
       "iconType": "book",
-      "imageId": "woman-in-white-image-marian-writing",
+      "imageId": "woman-in-white-image-generated-item-marian-diary",
       "tags": []
     },
     {
@@ -838,7 +838,7 @@
       "name": "Vestry Key",
       "description": "The key that gives access to the old church register and the documentary proof hidden at Old Welmingham.",
       "iconType": "key",
-      "imageId": "woman-in-white-image-vestry-key-engraving",
+      "imageId": "woman-in-white-image-generated-item-vestry-key",
       "tags": []
     },
     {
@@ -849,7 +849,7 @@
       "name": "Old Welmingham Marriage Register",
       "description": "The parish volume whose altered entry conceals the defect in Sir Percival’s birth and title.",
       "iconType": "book",
-      "imageId": "woman-in-white-image-parish-register-lettering",
+      "imageId": "woman-in-white-image-generated-item-church-register",
       "tags": []
     },
     {
@@ -860,7 +860,7 @@
       "name": "Lady Glyde’s Death Certificate",
       "description": "The official record that makes Laura legally dead before Walter can prove the recorded date impossible.",
       "iconType": "document",
-      "imageId": "woman-in-white-image-macklin-7",
+      "imageId": "woman-in-white-image-generated-item-death-certificate",
       "tags": []
     },
     {
@@ -871,7 +871,7 @@
       "name": "Laura’s Grave Marker",
       "description": "The stone at Limmeridge that gives a public, physical form to the false identity assigned to the dead woman.",
       "iconType": "artifact",
-      "imageId": "woman-in-white-image-polo-31",
+      "imageId": "woman-in-white-image-generated-item-grave-marker",
       "tags": []
     },
     {
@@ -882,7 +882,7 @@
       "name": "Fosco’s Written Confession",
       "description": "A detailed signed account of the identity exchange, obtained as the price of allowing Fosco to leave England.",
       "iconType": "document",
-      "imageId": "woman-in-white-image-confession-document",
+      "imageId": "woman-in-white-image-generated-item-fosco-confession",
       "tags": []
     },
     {
@@ -893,7 +893,7 @@
       "name": "Brotherhood Mark",
       "description": "The sign by which Pesca recognizes Fosco as a condemned member of an Italian political brotherhood.",
       "iconType": "symbol",
-      "imageId": "woman-in-white-image-carbonari-emblem",
+      "imageId": "woman-in-white-image-generated-item-brotherhood-mark",
       "tags": []
     }
   ],
@@ -8823,13 +8823,6 @@
   ],
   "blobs": [
     {
-      "id": "woman-in-white-image-cover",
-      "worldId": "woman-in-white-world",
-      "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_woman_in_white_Cover_1890.jpg",
-      "createdAt": 1786838400000
-    },
-    {
       "id": "woman-in-white-image-england-map",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
@@ -8865,417 +8858,420 @@
       "createdAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-confession-document",
-      "worldId": "woman-in-white-world",
-      "mimeType": "image/png",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Guy_Fawkes_confession.png",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "woman-in-white-image-carbonari-emblem",
-      "worldId": "woman-in-white-world",
-      "mimeType": "image/svg+xml",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Masonic_emblem_of_the_Carboneria.svg",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "woman-in-white-image-marian-writing",
+      "id": "woman-in-white-image-generated-cover",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://victorianweb.org/victorian/art/illustration/mclenan/wiw/8b.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/cover.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-vestry-key-engraving",
+      "id": "woman-in-white-image-generated-character-walter",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Vintage_key_illustration_(39820339253).jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/walter.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-parish-register-lettering",
-      "worldId": "woman-in-white-world",
-      "mimeType": "image/png",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Some_quaint_letters_from_old_parish_registers.png",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "woman-in-white-image-polo-01",
+      "id": "woman-in-white-image-generated-character-laura",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/La_Femme_en_blanc-1875-Polo-01.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/laura.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-02",
+      "id": "woman-in-white-image-generated-character-marian",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/La_Femme_en_blanc-1875-Polo-02.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/marian.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-03",
+      "id": "woman-in-white-image-generated-character-anne",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/La_Femme_en_blanc-1875-Polo-03.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/anne.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-04",
+      "id": "woman-in-white-image-generated-character-percival",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/La_Femme_en_blanc-1875-Polo-04.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/percival.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-05",
+      "id": "woman-in-white-image-generated-character-fosco",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/La_Femme_en_blanc-1875-Polo-05.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/fosco.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-06",
+      "id": "woman-in-white-image-generated-character-madame-fosco",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/La_Femme_en_blanc-1875-Polo-06.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/madame-fosco.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-07",
+      "id": "woman-in-white-image-generated-character-fairlie",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/La_Femme_en_blanc-1875-Polo-07.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/fairlie.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-08",
+      "id": "woman-in-white-image-generated-character-pesca",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/La_Femme_en_blanc-1875-Polo-08.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/pesca.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-09",
+      "id": "woman-in-white-image-generated-character-gilmore",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/La_Femme_en_blanc-1875-Polo-09.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/gilmore.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-10",
+      "id": "woman-in-white-image-generated-character-mrs-catherick",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/La_Femme_en_blanc-1875-Polo-10.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/mrs-catherick.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-11",
+      "id": "woman-in-white-image-generated-character-mrs-clements",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/La_Femme_en_blanc-1875-Polo-11.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/mrs-clements.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-12",
+      "id": "woman-in-white-image-generated-character-michelson",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/La_Femme_en_blanc-1875-Polo-12.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/michelson.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-13",
+      "id": "woman-in-white-image-generated-character-fanny",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/La_Femme_en_blanc-1875-Polo-13.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/fanny.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-14",
+      "id": "woman-in-white-image-generated-character-kyrle",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/La_Femme_en_blanc-1875-Polo-14.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/kyrle.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-15",
+      "id": "woman-in-white-image-generated-character-hester",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/La_Femme_en_blanc-1875-Polo-15.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/hester.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-16",
+      "id": "woman-in-white-image-generated-character-goodricke",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/La_Femme_en_blanc-1875-Polo-16.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/goodricke.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-17",
+      "id": "woman-in-white-image-generated-character-jane",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/La_Femme_en_blanc-1875-Polo-17.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/characters/jane.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-18",
+      "id": "woman-in-white-image-generated-item-white-dress",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/La_Femme_en_blanc-1875-Polo-18.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/white-dress.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-19",
+      "id": "woman-in-white-image-generated-item-warning-letter",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/La_Femme_en_blanc-1875-Polo-19.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/warning-letter.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-20",
+      "id": "woman-in-white-image-generated-item-settlement",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/La_Femme_en_blanc-1875-Polo-20.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/settlement.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-21",
+      "id": "woman-in-white-image-generated-item-marian-diary",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/La_Femme_en_blanc-1875-Polo-21.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/marian-diary.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-22",
+      "id": "woman-in-white-image-generated-item-vestry-key",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/La_Femme_en_blanc-1875-Polo-22.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/vestry-key.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-23",
+      "id": "woman-in-white-image-generated-item-church-register",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/La_Femme_en_blanc-1875-Polo-23.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/church-register.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-24",
+      "id": "woman-in-white-image-generated-item-death-certificate",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/La_Femme_en_blanc-1875-Polo-24.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/death-certificate.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-25",
+      "id": "woman-in-white-image-generated-item-grave-marker",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/La_Femme_en_blanc-1875-Polo-25.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/grave-marker.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-26",
+      "id": "woman-in-white-image-generated-item-fosco-confession",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/La_Femme_en_blanc-1875-Polo-26.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/fosco-confession.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-27",
+      "id": "woman-in-white-image-generated-item-brotherhood-mark",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/La_Femme_en_blanc-1875-Polo-27.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/items/brotherhood-mark.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-28",
+      "id": "woman-in-white-image-generated-location-cumberland-gate",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/La_Femme_en_blanc-1875-Polo-28.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/cumberland-gate.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-29",
+      "id": "woman-in-white-image-generated-location-london-gate",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/La_Femme_en_blanc-1875-Polo-29.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/london-gate.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-30",
+      "id": "woman-in-white-image-generated-location-hampshire-gate",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/La_Femme_en_blanc-1875-Polo-30.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/hampshire-gate.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-31",
+      "id": "woman-in-white-image-generated-location-polesdean",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/La_Femme_en_blanc-1875-Polo-31.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/polesdean.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-32",
+      "id": "woman-in-white-image-generated-location-liverpool",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/La_Femme_en_blanc-1875-Polo-32.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/liverpool.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-33",
+      "id": "woman-in-white-image-generated-location-limmeridge-house",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/La_Femme_en_blanc-1875-Polo-33.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/limmeridge-house.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-34",
+      "id": "woman-in-white-image-generated-location-limmeridge-churchyard",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/La_Femme_en_blanc-1875-Polo-34.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/limmeridge-churchyard.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-35",
+      "id": "woman-in-white-image-generated-location-limmeridge-school",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/La_Femme_en_blanc-1875-Polo-35.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/limmeridge-school.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-36",
+      "id": "woman-in-white-image-generated-location-cumberland-coast",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/La_Femme_en_blanc-1875-Polo-36.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/cumberland-coast.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-37",
+      "id": "woman-in-white-image-generated-location-hampstead",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/La_Femme_en_blanc-1875-Polo-37.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/hampstead.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-38",
+      "id": "woman-in-white-image-generated-location-finchley-road",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/La_Femme_en_blanc-1875-Polo-38.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/finchley-road.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-39",
+      "id": "woman-in-white-image-generated-location-clements-inn",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/La_Femme_en_blanc-1875-Polo-39.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/clements-inn.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-40",
+      "id": "woman-in-white-image-generated-location-gilmore-kyrle",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/La_Femme_en_blanc-1875-Polo-40.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/gilmore-kyrle.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-41",
+      "id": "woman-in-white-image-generated-location-asylum",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/La_Femme_en_blanc-1875-Polo-41.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/asylum.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-42",
+      "id": "woman-in-white-image-generated-location-st-johns-wood",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/La_Femme_en_blanc-1875-Polo-42.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/st-johns-wood.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-43",
+      "id": "woman-in-white-image-generated-location-gowers-walk",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/La_Femme_en_blanc-1875-Polo-43.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/gowers-walk.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-44",
+      "id": "woman-in-white-image-generated-location-opera",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/La_Femme_en_blanc-1875-Polo-44.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/opera.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-45",
+      "id": "woman-in-white-image-generated-location-blackwater-house",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/La_Femme_en_blanc-1875-Polo-45.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/blackwater-house.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-polo-46",
+      "id": "woman-in-white-image-generated-location-blackwater-lake",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/La_Femme_en_blanc-1875-Polo-46.jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/blackwater-lake.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-macklin-1",
+      "id": "woman-in-white-image-generated-location-east-drive",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Illustration_by_Thomas_Eyre_Macklin_for_The_Woman_in_White_(1).jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/east-drive.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-macklin-2",
+      "id": "woman-in-white-image-generated-location-old-welmingham",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Illustration_by_Thomas_Eyre_Macklin_for_The_Woman_in_White_(2).jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/old-welmingham.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-macklin-3",
+      "id": "woman-in-white-image-generated-location-paris-seine",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Illustration_by_Thomas_Eyre_Macklin_for_The_Woman_in_White_(3).jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/paris-seine.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     },
     {
-      "id": "woman-in-white-image-macklin-4",
+      "id": "woman-in-white-image-generated-location-paris-morgue",
       "worldId": "woman-in-white-world",
       "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Illustration_by_Thomas_Eyre_Macklin_for_The_Woman_in_White_(4).jpg",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "woman-in-white-image-macklin-5",
-      "worldId": "woman-in-white-world",
-      "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Illustration_by_Thomas_Eyre_Macklin_for_The_Woman_in_White_(5).jpg",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "woman-in-white-image-macklin-6",
-      "worldId": "woman-in-white-world",
-      "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Illustration_by_Thomas_Eyre_Macklin_for_The_Woman_in_White_(6).jpg",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "woman-in-white-image-macklin-7",
-      "worldId": "woman-in-white-world",
-      "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Illustration_by_Thomas_Eyre_Macklin_for_The_Woman_in_White_(7).jpg",
-      "createdAt": 1786838400000
-    },
-    {
-      "id": "woman-in-white-image-macklin-8",
-      "worldId": "woman-in-white-world",
-      "mimeType": "image/jpeg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Illustration_by_Thomas_Eyre_Macklin_for_The_Woman_in_White_(8).jpg",
-      "createdAt": 1786838400000
+      "url": "library/the-woman-in-white/art/generated/locations/paris-morgue.jpg",
+      "createdAt": 1786838400000,
+      "updatedAt": 1786838400000
     }
   ],
   "travelModes": [
@@ -9405,7 +9401,7 @@
       "title": "A Novel Made of Testimony",
       "body": "The story presents itself as a case assembled from narrators who record only what they witnessed or can document. Changes of voice do not create separate timelines; they add evidence to one chronology.",
       "tags": [],
-      "coverImageId": "woman-in-white-image-polo-05",
+      "coverImageId": "woman-in-white-image-generated-item-marian-diary",
       "linkedEntityIds": [
         "woman-in-white-character-walter",
         "woman-in-white-character-marian",
@@ -9422,7 +9418,7 @@
       "title": "Marriage, Property, and Authority",
       "body": "Laura’s vulnerability is shaped by nineteenth-century marriage and property arrangements. The settlement negotiations make money, guardianship, and legal personhood part of the suspense.",
       "tags": [],
-      "coverImageId": "woman-in-white-image-polo-15",
+      "coverImageId": "woman-in-white-image-generated-item-settlement",
       "linkedEntityIds": [
         "woman-in-white-character-laura",
         "woman-in-white-thread-inheritance"
@@ -9438,7 +9434,7 @@
       "title": "Private Confinement and Identity",
       "body": "The asylum plot depends on institutional records and the credibility granted to male relatives over a distressed woman’s own account.",
       "tags": [],
-      "coverImageId": "woman-in-white-image-polo-22",
+      "coverImageId": "woman-in-white-image-generated-location-asylum",
       "linkedEntityIds": [
         "woman-in-white-location-asylum",
         "woman-in-white-thread-identity"
@@ -9454,7 +9450,7 @@
       "title": "Limmeridge and Family Memory",
       "body": "Limmeridge joins house, village, school, and churchyard into a landscape shaped by Mrs Fairlie’s memory and the unequal childhoods of Laura and Anne.",
       "tags": [],
-      "coverImageId": "woman-in-white-image-polo-29",
+      "coverImageId": "woman-in-white-image-generated-location-limmeridge-house",
       "linkedEntityIds": [
         "woman-in-white-location-cumberland-gate",
         "woman-in-white-character-laura",
@@ -9471,7 +9467,7 @@
       "title": "Blackwater Park",
       "body": "The neglected Hampshire estate reflects financial pressure and domestic control: rooms are closed, servants dismissed, and routes managed as the conspiracy advances.",
       "tags": [],
-      "coverImageId": "woman-in-white-image-polo-38",
+      "coverImageId": "woman-in-white-image-generated-location-blackwater-house",
       "linkedEntityIds": [
         "woman-in-white-location-hampshire-gate",
         "woman-in-white-character-percival"
@@ -9485,9 +9481,9 @@
       "id": "woman-in-white-lore-sources",
       "categoryId": "woman-in-white-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The manuscript contains the complete narrative text of Wilkie Collins’s public-domain novel from Project Gutenberg eBook #583, arranged across its successive witnesses and documentary sections. Gutenberg packaging and the contents list are excluded. Structure and chronology follow the novel and a scholarly chronology. Linked illustrations come from the 1875 Polo edition and Thomas Eyre Macklin; map layers are historical editorial aids, not exact plans of fictional estates. Collins numbered his chapters within each narrative and did not name them, so the chapter names shown here are editorial titles supplied for this edition: they identify the narrator and the place or occasion, and deliberately do not say what happens in the chapter.",
+      "body": "The manuscript contains the complete narrative text of Wilkie Collins’s public-domain novel from Project Gutenberg eBook #583, arranged across its successive witnesses and documentary sections. Gutenberg packaging and the contents list are excluded. Structure and chronology follow the novel and a scholarly chronology. The former linked illustrations from the 1875 Polo edition and Thomas Eyre Macklin are archived in the integration source record; map layers are historical editorial aids, not exact plans of fictional estates. Collins numbered his chapters within each narrative and did not name them, so the chapter names shown here are editorial titles supplied for this edition: they identify the narrator and the place or occasion, and deliberately do not say what happens in the chapter. The cover, all character portraits, item plates, and location scenes in this edition are original generated illustrations in a coherent mid-Victorian visual style. The five linked historical maps remain available for geography. Sixty superseded external non-map illustration source records are archived with the integration documentation.",
       "tags": [],
-      "coverImageId": "woman-in-white-image-polo-46",
+      "coverImageId": "woman-in-white-image-generated-cover",
       "linkedEntityIds": [],
       "visibleFromEventId": "woman-in-white-event-walter-1"
     }
@@ -9501,7 +9497,7 @@
       "name": "The Limmeridge Investigators",
       "description": "Walter, Marian, Laura, and their legal allies work from testimony toward proof that can restore Laura’s identity.",
       "color": "#54717b",
-      "coverImageId": "woman-in-white-image-polo-11",
+      "coverImageId": "woman-in-white-image-generated-character-marian",
       "tags": []
     },
     {
@@ -9512,7 +9508,7 @@
       "name": "The Blackwater Conspiracy",
       "description": "Percival and the Foscos coordinate financial coercion, false identity, confinement, and documentary substitution.",
       "color": "#76545c",
-      "coverImageId": "woman-in-white-image-polo-24",
+      "coverImageId": "woman-in-white-image-generated-character-fosco",
       "tags": []
     },
     {
@@ -9523,7 +9519,7 @@
       "name": "The Italian Brotherhood",
       "description": "A secret political association whose discipline follows Fosco after his betrayal and exile.",
       "color": "#6b5a48",
-      "coverImageId": "woman-in-white-image-polo-35",
+      "coverImageId": "woman-in-white-image-generated-item-brotherhood-mark",
       "tags": []
     }
   ],
