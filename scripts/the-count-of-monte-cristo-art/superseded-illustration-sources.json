@@ -1,0 +1,972 @@
+{
+  "book": "the-count-of-monte-cristo",
+  "note": "Original linked public-domain illustration source URLs retained for edition provenance. Six functional historical map layers remain active in the PWK.",
+  "blobs": [
+    {
+      "id": "count-of-monte-cristo-image-cover",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0009m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0023m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0023m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0025m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0025m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0035m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0035m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0045m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0045m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0051m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0051m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0056m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0056m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0057m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0057m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0065m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0065m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0073m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0073m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0085m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0085m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0097m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0097m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0103m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0103m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0111m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0111m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0119m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0119m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0123m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0123m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0133m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0133m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0141m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0141m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0151m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0151m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0155m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0155m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0173m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0173m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0185m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0185m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0201m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0201m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0213m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0213m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0239m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0239m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0257m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0257m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0263m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0263m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0277m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0277m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0283m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0283m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0295m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0295m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0301m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0301m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0303m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0303m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0311m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0311m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0323m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0323m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0327m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0327m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0341m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0341m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-0351m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/0351m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20023m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20023m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20033m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20033m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20049m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20049m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20061m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20061m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20075m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20075m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20081m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20081m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20099m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20099m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20111m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20111m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20135m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20135m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20147m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20147m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20167m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20167m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20175m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20175m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20183m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20183m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20199m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20199m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20207m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20207m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20227m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20227m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20235m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20235m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20245m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20245m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20261m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20261m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20277m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20277m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20281m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20281m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20291m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20291m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20301m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20301m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20317m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20317m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20333m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20333m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-20347m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/20347m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30023m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30023m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30041m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30041m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30053m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30053m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30065m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30065m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30075m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30075m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30083m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30083m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30107m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30107m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30111m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30111m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30119m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30119m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30133m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30133m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30151m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30151m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30165m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30165m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30175m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30175m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30183m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30183m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30193m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30193m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30207m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30207m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30221m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30221m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30229m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30229m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30239m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30239m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30251m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30251m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30261m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30261m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30277m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30277m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30289m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30289m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30297m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30297m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30309m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30309m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30315m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30315m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30333m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30333m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-30345m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/30345m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40024m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40024m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40036m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40036m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40048m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40048m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40062m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40062m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40074m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40074m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40086m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40086m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40108m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40108m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40120m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40120m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40130m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40130m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40150m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40150m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40168m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40168m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40174m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40174m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40188m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40188m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40194m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40194m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40202m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40202m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40212m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40212m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40219m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40219m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40227m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40227m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40241m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40241m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40252m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40252m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40260m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40260m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40272m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40272m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40284m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40284m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-40298m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/40298m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50025m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50025m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50035m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50035m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50047m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50047m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50063m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50063m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50071m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50071m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50077m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50077m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50083m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50083m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50093m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50093m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50105m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50105m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50117m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50117m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50137m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50137m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50151m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50151m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50165m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50165m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50181m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50181m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50189m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50189m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50201m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50201m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50219m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50219m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50235m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50235m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50249m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50249m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50261m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50261m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50265m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50265m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50275m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50275m.jpg",
+      "createdAt": 1786291200000
+    },
+    {
+      "id": "count-of-monte-cristo-image-art-50282m",
+      "worldId": "count-of-monte-cristo-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.gutenberg.org/files/1184/1184-h/images/50282m.jpg",
+      "createdAt": 1786291200000
+    }
+  ]
+}

@@ -97,16 +97,16 @@
       "author": "Alexandre Dumas",
       "blurb": "Edmond Dantès returns from wrongful imprisonment with a new identity and immense fortune, setting reward and revenge in motion across Marseille, Rome, and Paris.",
       "data": "the-count-of-monte-cristo.pwk",
-      "dataBytes": 3480368,
+      "dataBytes": 3480955,
       "counts": {
         "characters": 41,
         "chapters": 117,
         "events": 149,
         "locations": 50
       },
-      "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1184 across all 117 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
+      "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1184 across all 117 chapters; Gutenberg packaging and front matter are excluded. Original generated illustrations, six retained historical maps, and archived public-domain illustration sources are recorded in Lore.",
       "worldId": "count-of-monte-cristo-world",
-      "cover": "https://www.gutenberg.org/files/1184/1184-h/images/0009m.jpg",
+      "cover": "library/the-count-of-monte-cristo/art/generated/cover/001-the-count-of-monte-cristo.jpg",
       "hasProse": true
     },
     {
