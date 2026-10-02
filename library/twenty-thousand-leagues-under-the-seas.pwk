@@ -6,7 +6,7 @@
     "id": "twenty-thousand-leagues-under-the-seas-world",
     "name": "Twenty Thousand Leagues Under the Seas",
     "description": "Professor Pierre Aronnax, Conseil, and harpooner Ned Land are cast aboard the Nautilus while hunting a supposed sea monster. Under Captain Nemo’s command, captivity becomes a voyage through the world’s oceans, where scientific wonder, technological independence, compassion, and vengeance become impossible to separate.",
-    "coverImageId": "twenty-thousand-leagues-under-the-seas-image-cover",
+    "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-cover",
     "theme": "theme-scifi",
     "readingMode": true,
     "createdAt": 1786147200000,
@@ -185,7 +185,7 @@
       "iconType": "ship",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-nautilus"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-nautilus-entrance"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -201,7 +201,7 @@
       "iconType": "city",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-5"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-new-york"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -217,7 +217,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-10"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-north-pacific-search"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -233,7 +233,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-16"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-capture-site"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -249,7 +249,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-28"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-kuroshio"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -265,7 +265,7 @@
       "iconType": "island",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-37"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-crespo"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -281,7 +281,7 @@
       "iconType": "island",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-48"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-vanikoro"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -297,7 +297,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-52"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-torres"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -313,7 +313,7 @@
       "iconType": "island",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-55"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-gueboroar"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -329,7 +329,7 @@
       "iconType": "reef",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-62"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-coral-cemetery"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -345,7 +345,7 @@
       "iconType": "reef",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-68"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-ceylon"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -361,7 +361,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-75"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-red-sea"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -377,7 +377,7 @@
       "iconType": "cave",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-78"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-arabian-tunnel"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -393,7 +393,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-81"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-crete"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -409,7 +409,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-83"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-mediterranean"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -425,7 +425,7 @@
       "iconType": "wreck",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-86"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-vigo"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -441,7 +441,7 @@
       "iconType": "ruins",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-89"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-atlantis"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -457,7 +457,7 @@
       "iconType": "cave",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-91"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-volcanic-island"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -473,7 +473,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-93"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-sargasso"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -489,7 +489,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-96"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-whale-grounds"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -505,7 +505,7 @@
       "iconType": "ice",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-99"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-ice-barrier"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -521,7 +521,7 @@
       "iconType": "ice",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-south-pole"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-south-pole"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -537,7 +537,7 @@
       "iconType": "ice",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-101"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-ice-prison"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -553,7 +553,7 @@
       "iconType": "cape",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-102"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-cape-horn"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -569,7 +569,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-104"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-amazon"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -585,7 +585,7 @@
       "iconType": "reef",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-squid"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-bahamas"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -601,7 +601,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-110"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-gulf-stream"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -617,7 +617,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-111"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-north-atlantic"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -633,7 +633,7 @@
       "iconType": "whirlpool",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-111"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-maelstrom"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -649,7 +649,7 @@
       "iconType": "building",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-111"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-lofoten"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -665,7 +665,7 @@
       "iconType": "deck",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-27"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-platform"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -681,7 +681,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-18"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-cell"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -697,7 +697,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-20"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-dining-room"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -713,7 +713,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-nautilus-library"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-library"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -729,7 +729,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-nemo-organ"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-salon"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -745,7 +745,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-nemo-room"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-nemo-cabin"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -761,7 +761,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-24"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-aronnax-cabin"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -777,7 +777,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-trio"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-guest-cabin"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -793,7 +793,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-25"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-galley"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -809,7 +809,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-60"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-crew-quarters"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -825,7 +825,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-26"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-engine-room"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -841,7 +841,7 @@
       "iconType": "room",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-35"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-diving-lock"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -857,7 +857,7 @@
       "iconType": "boat",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-29"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-dinghy"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -873,7 +873,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-16"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-encounter"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -889,7 +889,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-28"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-kuroshio"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -905,7 +905,7 @@
       "iconType": "island",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-37"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-crespo"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -921,7 +921,7 @@
       "iconType": "island",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-48"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-vanikoro"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -937,7 +937,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-52"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-torres"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -953,7 +953,7 @@
       "iconType": "island",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-55"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-gueboroar"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -969,7 +969,7 @@
       "iconType": "reef",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-62"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-cemetery"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -985,7 +985,7 @@
       "iconType": "reef",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-68"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-ceylon"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1001,7 +1001,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-75"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-red-sea"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1017,7 +1017,7 @@
       "iconType": "cave",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-78"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-suez"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1033,7 +1033,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-81"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-crete"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1049,7 +1049,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-83"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-mediterranean"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1065,7 +1065,7 @@
       "iconType": "wreck",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-86"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-vigo"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1081,7 +1081,7 @@
       "iconType": "ruins",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-89"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-atlantis"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1097,7 +1097,7 @@
       "iconType": "cave",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-91"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-volcano"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1113,7 +1113,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-93"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-sargasso"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1129,7 +1129,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-96"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-whales"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1145,7 +1145,7 @@
       "iconType": "ice",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-101"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-ice-prison"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1161,7 +1161,7 @@
       "iconType": "ice",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-south-pole"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-pole"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1177,7 +1177,7 @@
       "iconType": "cape",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-102"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-cape-horn"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1193,7 +1193,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-104"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-amazon"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1209,7 +1209,7 @@
       "iconType": "reef",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-squid"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-bahamas"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1225,7 +1225,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-110"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-gulf-stream"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1241,7 +1241,7 @@
       "iconType": "ocean",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-111"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-warship"
     },
     {
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
@@ -1257,7 +1257,7 @@
       "iconType": "whirlpool",
       "tags": [],
       "factionId": null,
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-111"
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-lofoten"
     }
   ],
   "characters": [
@@ -1271,7 +1271,7 @@
         "Professor Aronnax"
       ],
       "description": "A French naturalist and museum professor whose scientific fascination repeatedly conflicts with his duty to seek freedom.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-18",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-aronnax",
       "color": "#4d7180",
       "tags": [],
       "isAlive": true,
@@ -1285,7 +1285,7 @@
       "name": "Conseil",
       "aliases": [],
       "description": "Aronnax’s calm, exact servant, devoted to zoological classification and personally loyal beyond self-preservation.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-36",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-conseil",
       "color": "#687a70",
       "tags": [],
       "isAlive": true,
@@ -1301,7 +1301,7 @@
         "The Canadian"
       ],
       "description": "A celebrated Canadian harpooner whose practical instincts, appetite for liberty, and courage oppose Nemo’s captivity.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-9",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-ned",
       "color": "#9b6442",
       "tags": [],
       "isAlive": true,
@@ -1315,7 +1315,7 @@
       "name": "Captain Nemo",
       "aliases": [],
       "description": "The brilliant and wounded commander of the Nautilus, estranged from nations yet unable to remain apart from human suffering.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-nemo-organ",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-nemo",
       "color": "#344f63",
       "tags": [],
       "isAlive": true,
@@ -1329,7 +1329,7 @@
       "name": "Commander Farragut",
       "aliases": [],
       "description": "The determined captain of the Abraham Lincoln expedition sent to identify and destroy the marine threat.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-7",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-farragut",
       "color": "#596777",
       "tags": [],
       "isAlive": true,
@@ -1343,7 +1343,7 @@
       "name": "Captain of the Scotia",
       "aliases": [],
       "description": "The officer whose damaged steamship provides physical evidence that the mysterious object can pierce iron.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-2",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-scotia-captain",
       "color": "#665c54",
       "tags": [],
       "isAlive": true,
@@ -1357,7 +1357,7 @@
       "name": "Chief Engineer of the Abraham Lincoln",
       "aliases": [],
       "description": "The engineer who reports the frigate’s damaged propeller after the collision with the Nautilus.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-15",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-lincoln-engineer",
       "color": "#655f58",
       "tags": [],
       "isAlive": true,
@@ -1371,7 +1371,7 @@
       "name": "First Officer of the Nautilus",
       "aliases": [],
       "description": "Nemo’s trusted lieutenant, responsible for daily observations and relaying orders in the crew’s unknown language.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-27",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-first-officer",
       "color": "#50656d",
       "tags": [],
       "isAlive": true,
@@ -1385,7 +1385,7 @@
       "name": "Steward of the Nautilus",
       "aliases": [],
       "description": "A silent crewman who serves the captives and maintains Nemo’s deliberate separation from the surface world.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-20",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-steward",
       "color": "#6d6a61",
       "tags": [],
       "isAlive": true,
@@ -1399,7 +1399,7 @@
       "name": "Mortally Injured Nautilus Sailor",
       "aliases": [],
       "description": "A crewman fatally struck during an underwater collision and buried in the coral cemetery.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-60",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-injured-sailor",
       "color": "#6b5653",
       "tags": [],
       "isAlive": false,
@@ -1413,7 +1413,7 @@
       "name": "Papuan Chief",
       "aliases": [],
       "description": "A leader among the islanders who defend Gueboroar’s shore and pursue the intruders to the grounded submarine.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-57",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-papuan-chief",
       "color": "#805a3f",
       "tags": [],
       "isAlive": true,
@@ -1427,7 +1427,7 @@
       "name": "The Ceylon Pearl Diver",
       "aliases": [],
       "description": "A poor diver working before the official season whom Nemo saves from a shark and secretly enriches.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-70",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-pearl-diver",
       "color": "#8b7352",
       "tags": [],
       "isAlive": true,
@@ -1441,7 +1441,7 @@
       "name": "The Cretan Diver",
       "aliases": [],
       "description": "A resistance-linked swimmer who receives gold from Nemo through the salon window.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-81",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-crete-diver",
       "color": "#725b49",
       "tags": [],
       "isAlive": true,
@@ -1455,7 +1455,7 @@
       "name": "Nautilus Sailor Taken by the Squid",
       "aliases": [],
       "description": "A loyal sailor seized from the platform during the battle with the giant squid.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-108",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-squid-sailor",
       "color": "#704c48",
       "tags": [],
       "isAlive": false,
@@ -1469,7 +1469,7 @@
       "name": "Captain of the Pursuing Warship",
       "aliases": [],
       "description": "The unnamed commander who attacks the Nautilus and becomes the target of Nemo’s most deliberate act of vengeance.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-111",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-warship-captain",
       "color": "#5b5961",
       "tags": [],
       "isAlive": false,
@@ -1483,7 +1483,7 @@
       "name": "The Lofoten Fisherman",
       "aliases": [],
       "description": "A Norwegian fisherman who shelters the three survivors after they escape the maelstrom.",
-      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-plate-111",
+      "portraitImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-lofoten-fisherman",
       "color": "#6e6a5b",
       "tags": [],
       "isAlive": true,
@@ -1499,7 +1499,7 @@
       "name": "The Supposed Narwhal’s Horn",
       "description": "The imagined weapon used to explain the clean triangular holes in ships before the monster is identified.",
       "iconType": "specimen",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-3",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-narwhal-tusk",
       "tags": []
     },
     {
@@ -1510,7 +1510,7 @@
       "name": "Ned Land’s Harpoon",
       "description": "The forged harpoon Ned throws at the shining creature, striking metal instead of flesh.",
       "iconType": "weapon",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-16",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-harpoon",
       "tags": []
     },
     {
@@ -1521,7 +1521,7 @@
       "name": "Rouquayrol-Denayrouze Diving Suit",
       "description": "A compressed-air suit adapted by Nemo for long walks on the seabed.",
       "iconType": "equipment",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-35",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-diving-suit",
       "tags": []
     },
     {
@@ -1532,7 +1532,7 @@
       "name": "Electric Rifle",
       "description": "A pneumatic rifle firing charged glass bullets that can kill underwater prey.",
       "iconType": "weapon",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-34",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-electric-rifle",
       "tags": []
     },
     {
@@ -1543,7 +1543,7 @@
       "name": "Plans of the Nautilus",
       "description": "Nemo’s calculations and drawings for a double-hulled electric submarine seventy metres long.",
       "iconType": "document",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-nemo-plans",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-nautilus-plans",
       "tags": []
     },
     {
@@ -1554,7 +1554,7 @@
       "name": "Nautilus Library",
       "description": "Twelve thousand books representing the knowledge Nemo retained when he abandoned society.",
       "iconType": "collection",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-nautilus-library",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-library",
       "tags": []
     },
     {
@@ -1565,7 +1565,7 @@
       "name": "Captain Nemo’s Organ",
       "description": "The salon organ through which Nemo gives private expression to grief and memory.",
       "iconType": "instrument",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-nemo-organ",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-organ",
       "tags": []
     },
     {
@@ -1576,7 +1576,7 @@
       "name": "The Giant Pearl",
       "description": "A pearl of extraordinary size that Nemo leaves growing inside a protected Ceylon oyster.",
       "iconType": "treasure",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-69",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-pearl",
       "tags": []
     },
     {
@@ -1587,7 +1587,7 @@
       "name": "Chest of Vigo Gold",
       "description": "Bullion recovered from Spanish wrecks and directed toward struggles on land.",
       "iconType": "treasure",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-86",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-gold-chest",
       "tags": []
     },
     {
@@ -1598,7 +1598,7 @@
       "name": "Nemo’s Black Flag",
       "description": "A black standard bearing a golden N, raised over the polar land Nemo claims for himself.",
       "iconType": "symbol",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-south-pole",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-nemo-flag",
       "tags": []
     },
     {
@@ -1609,7 +1609,7 @@
       "name": "Ice Picks and Boiling Apparatus",
       "description": "Tools used by divers and crew to cut the Nautilus free while hot water slows the freezing sea.",
       "iconType": "equipment",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-101",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-ice-picks",
       "tags": []
     },
     {
@@ -1620,7 +1620,7 @@
       "name": "Boarding Axe",
       "description": "The hand weapon used against the giant squid when firearms cannot safely pierce its body.",
       "iconType": "weapon",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-squid",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-axe",
       "tags": []
     },
     {
@@ -1631,7 +1631,7 @@
       "name": "Ned Land’s Escape Note",
       "description": "A brief message fixing the hour for the captives to reach the detachable boat.",
       "iconType": "document",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-87",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-escape-note",
       "tags": []
     },
     {
@@ -1642,7 +1642,7 @@
       "name": "Portrait of Nemo’s Family",
       "description": "The private image before which Nemo kneels after sinking the warship.",
       "iconType": "keepsake",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-111",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-nemo-portrait",
       "tags": []
     },
     {
@@ -1653,7 +1653,7 @@
       "name": "Nautilus Dinghy",
       "description": "The detachable craft in which the three captives attempt their final escape.",
       "iconType": "boat",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-111",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-maelstrom-dinghy",
       "tags": []
     },
     {
@@ -1664,7 +1664,7 @@
       "name": "Aronnax’s Voyage Notes",
       "description": "The observations through which Aronnax preserves the submarine journey for the surface world.",
       "iconType": "document",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-24",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-specimen-notes",
       "tags": []
     },
     {
@@ -1675,7 +1675,7 @@
       "name": "Portable Air Reservoir",
       "description": "Compressed-air tanks that sustain divers and become desperately scarce beneath the Antarctic ice.",
       "iconType": "equipment",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-100",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-air-reservoir",
       "tags": []
     },
     {
@@ -1686,7 +1686,7 @@
       "name": "Electric Glass Bullet",
       "description": "A charged projectile whose discharge replaces gunpowder under water.",
       "iconType": "ammunition",
-      "imageId": "twenty-thousand-leagues-under-the-seas-image-plate-34",
+      "imageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-electric-bullet",
       "tags": []
     }
   ],
@@ -11300,13 +11300,6 @@
   ],
   "blobs": [
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-cover",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20title%200a.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
       "id": "twenty-thousand-leagues-under-the-seas-image-map-world",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/png",
@@ -11335,837 +11328,828 @@
       "createdAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-nemo-organ",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-cover",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20Nemo%20organ.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/cover.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-nemo-room",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-aronnax",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20Nautilus%20Nemo%20room.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/aronnax.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-nemo-plans",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-conseil",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20Nemo%20Aronnax%20plans.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/conseil.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-nautilus-library",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-ned",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20Nautilus%20Library.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/ned.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-squid",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-nemo",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Giant%20squid%20twenty%20thousand%20leagues%20under%20the%20sea.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/nemo.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-south-pole",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-farragut",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20Nemo%20South%20Pole%20flag.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/farragut.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-trio",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-scotia-captain",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/20000%20squid%20Nautilus%20viewbay.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/scotia-captain.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-nautilus",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-lincoln-engineer",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nautilus%20Neuville.JPG?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/lincoln-engineer.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-1",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-first-officer",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20001.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/first-officer.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-2",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-steward",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20002.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/steward.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-3",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-injured-sailor",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20003.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/injured-sailor.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-4",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-papuan-chief",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20004.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/papuan-chief.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-5",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-pearl-diver",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20005.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/pearl-diver.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-6",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-crete-diver",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20006.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/crete-diver.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-7",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-squid-sailor",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20007.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/squid-sailor.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-8",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-warship-captain",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20008.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/warship-captain.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-9",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-character-lofoten-fisherman",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20009.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/characters/lofoten-fisherman.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-10",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-narwhal-tusk",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20010.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/narwhal-tusk.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-11",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-harpoon",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20011.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/harpoon.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-12",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-diving-suit",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20012.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/diving-suit.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-13",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-electric-rifle",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20013.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/electric-rifle.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-14",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-nautilus-plans",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20014.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/nautilus-plans.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-15",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-library",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20015.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/library.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-16",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-organ",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20016.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/organ.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-17",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-pearl",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20017.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/pearl.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-18",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-gold-chest",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20018.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/gold-chest.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-19",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-nemo-flag",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20019.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/nemo-flag.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-20",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-ice-picks",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20020.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/ice-picks.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-21",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-axe",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20021.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/axe.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-22",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-escape-note",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20022.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/escape-note.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-23",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-nemo-portrait",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20023.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/nemo-portrait.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-24",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-maelstrom-dinghy",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20024.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/maelstrom-dinghy.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-25",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-specimen-notes",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20025.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/specimen-notes.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-26",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-air-reservoir",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20026.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/air-reservoir.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-27",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-item-electric-bullet",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20027.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/items/electric-bullet.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-28",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-nautilus-entrance",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20028.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/nautilus-entrance.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-29",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-new-york",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20029.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/new-york.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-30",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-north-pacific-search",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20030.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/north-pacific-search.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-31",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-capture-site",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20031.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/capture-site.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-32",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-kuroshio",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20032.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/kuroshio.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-33",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-crespo",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20033.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/crespo.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-34",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-vanikoro",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20034.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/vanikoro.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-35",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-torres",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20035.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/torres.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-36",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-gueboroar",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20036.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/gueboroar.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-37",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-coral-cemetery",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20037.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/coral-cemetery.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-38",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-ceylon",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20038.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/ceylon.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-39",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-red-sea",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20039.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/red-sea.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-40",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-arabian-tunnel",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20040.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/arabian-tunnel.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-41",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-crete",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20041.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/crete.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-42",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-mediterranean",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20042.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/mediterranean.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-43",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-vigo",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20043.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/vigo.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-44",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-atlantis",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20044.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/atlantis.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-45",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-volcanic-island",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20045.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/volcanic-island.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-46",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-sargasso",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20046.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/sargasso.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-47",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-whale-grounds",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20047.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/whale-grounds.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-48",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-ice-barrier",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20048.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/ice-barrier.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-49",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-south-pole",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20049.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/south-pole.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-50",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-ice-prison",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20050.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/ice-prison.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-51",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-cape-horn",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20051.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/cape-horn.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-52",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-amazon",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20052.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/amazon.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-53",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-bahamas",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20053.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/bahamas.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-54",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-gulf-stream",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20054.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/gulf-stream.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-55",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-north-atlantic",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20055.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/north-atlantic.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-56",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-maelstrom",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20056.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/maelstrom.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-57",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-lofoten",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20057.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/lofoten.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-58",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-platform",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20058.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/platform.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-59",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-cell",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20059.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/cell.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-60",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-dining-room",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20060.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/dining-room.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-61",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-library",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20061.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/library.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-62",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-salon",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20062.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/salon.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-63",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-nemo-cabin",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20063.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/nemo-cabin.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-64",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-aronnax-cabin",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20064.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/aronnax-cabin.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-65",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-guest-cabin",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20065.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/guest-cabin.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-66",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-galley",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20066.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/galley.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-67",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-crew-quarters",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20067.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/crew-quarters.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-68",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-engine-room",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20068.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/engine-room.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-69",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-diving-lock",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20069.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/diving-lock.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-70",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-dinghy",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20070.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/dinghy.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-71",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-encounter",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20071.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-one-encounter.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-72",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-kuroshio",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20072.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-one-kuroshio.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-73",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-crespo",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20073.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-one-crespo.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-74",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-vanikoro",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20074.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-one-vanikoro.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-75",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-torres",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20075.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-one-torres.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-76",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-gueboroar",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20076.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-one-gueboroar.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-77",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-one-cemetery",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20077.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-one-cemetery.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-78",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-ceylon",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20078.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-ceylon.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-79",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-red-sea",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20079.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-red-sea.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-80",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-suez",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20080.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-suez.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-81",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-crete",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20081.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-crete.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-82",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-mediterranean",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20082.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-mediterranean.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-83",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-vigo",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20083.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-vigo.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-84",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-atlantis",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20084.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-atlantis.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-85",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-volcano",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20085.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-volcano.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-86",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-sargasso",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20086.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-sargasso.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-87",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-whales",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20087.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-whales.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-88",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-ice-prison",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20088.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-ice-prison.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-89",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-pole",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20089.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-pole.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-90",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-cape-horn",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20090.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-cape-horn.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-91",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-amazon",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20091.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-amazon.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-92",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-bahamas",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20092.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-bahamas.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-93",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-gulf-stream",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20093.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-gulf-stream.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-94",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-warship",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20094.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-warship.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     },
     {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-95",
+      "id": "twenty-thousand-leagues-under-the-seas-image-generated-location-chart-two-lofoten",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20095.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-96",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20096.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-97",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20097.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-98",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20098.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-99",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20099.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-100",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20100.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-101",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20101.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-102",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20102.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-103",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20103.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-104",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20104.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-105",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20105.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-106",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20106.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-107",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20107.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-108",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20108.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-109",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20109.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-110",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20110.jpg?width=960",
-      "createdAt": 1786147200000
-    },
-    {
-      "id": "twenty-thousand-leagues-under-the-seas-image-plate-111",
-      "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Twenty%20Thousand%20Leagues%20Under%20the%20Sea'%20by%20Neuville%20and%20Riou%20111.jpg?width=960",
-      "createdAt": 1786147200000
+      "url": "library/twenty-thousand-leagues-under-the-seas/art/generated/locations/chart-two-lofoten.jpg",
+      "createdAt": 1786147200000,
+      "updatedAt": 1786147200000
     }
   ],
   "travelModes": [],
@@ -12338,9 +12322,9 @@
       "id": "twenty-thousand-leagues-under-the-seas-lore-page-1",
       "categoryId": "twenty-thousand-leagues-under-the-seas-lore-category-sources",
       "title": "Text, Maps, and Illustrations",
-      "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #164, divided across all 46 chapters and modeled events. Gutenberg packaging, contents, part headings, and repeated chapter headings are excluded. Maps and illustrations are documented separately in this page.",
+      "body": "The manuscript contains the complete narrative text of Project Gutenberg eBook #164, divided across all 46 chapters and modeled events. Gutenberg packaging, contents, part headings, and repeated chapter headings are excluded. Maps and illustrations are documented separately in this page. This edition adds 103 original generated illustrations: the cover, every character, every item, and each location except two route-chart markers that retain their historical map images. Four linked editorial maps remain available for route and deck reference. One hundred twenty superseded external non-map illustration source records are archived with the integration documentation.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-cover",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-cover",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-world"
       ],
@@ -12355,7 +12339,7 @@
       "title": "How the Nautilus Is Arranged",
       "body": "Verne gives a seventy-metre double hull. From bow toward the centre lie an air reservoir, Aronnax’s cabin, Nemo’s cabin, the salon, library, and dining room; aft of the central stair are guest space, galley, stores, crew quarters, and the engine room. The linked plan is an interpretive reconstruction based on those measurements.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-nemo-plans",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-nautilus-plans",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-map-nautilus",
         "twenty-thousand-leagues-under-the-seas-item-nautilus-plans"
@@ -12371,7 +12355,7 @@
       "title": "Electricity beneath the Sea",
       "body": "Sodium-based batteries power light, heat, pumps, navigation, rifles, cooking, and propulsion. Verne combines real nineteenth-century electrical experimentation with fictional performance far beyond contemporary machines.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-26",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-engine-room",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-item-electric-rifle"
       ],
@@ -12401,7 +12385,7 @@
       "title": "Classification and Wonder",
       "body": "Aronnax and Conseil repeatedly name orders, genera, and species. The classifications organize the voyage, yet the strongest encounters—Nautilus, Atlantis, polar seas, giant squid—also expose the limits of inherited categories.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-36",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-conseil",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-char-aronnax",
         "twenty-thousand-leagues-under-the-seas-char-conseil"
@@ -12417,7 +12401,7 @@
       "title": "Nemo and Oppressed Peoples",
       "body": "Nemo denies nationality but identifies with people subjected to imperial power. His rescue of the Indian diver, aid to Cretan resistance, treasure transfers, and hatred of a warship show political commitment without fully revealing his past in this novel.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-81",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-nemo",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-char-nemo"
       ],
@@ -12432,7 +12416,7 @@
       "title": "The Coral Cemetery",
       "body": "Nemo’s claim that neither sharks nor men can reach the grave defines the seabed as sanctuary. It also shows that the Nautilus company has a continuing communal life, losses, and rituals beyond what its captives are permitted to see.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-62",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-coral-cemetery",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-faction-nautilus"
       ],
@@ -12447,7 +12431,7 @@
       "title": "Aronnax as an Unreliable Captive",
       "body": "Aronnax reports carefully, but scientific desire repeatedly delays his commitment to escape. Ned’s insistence on liberty exposes how wonder and privilege distort the narrator’s judgement.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-24",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-aronnax",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-char-aronnax",
         "twenty-thousand-leagues-under-the-seas-char-ned"
@@ -12463,7 +12447,7 @@
       "title": "The Novel’s Colonial Frame",
       "body": "The narration uses nineteenth-century European assumptions and outdated language when describing peoples and places. The Gueboroar conflict is best read with attention to whose land is entered, whose food is taken, and whose defence the travellers label as danger.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-57",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-papuan-chief",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-char-papuan-chief"
       ],
@@ -12478,7 +12462,7 @@
       "title": "Vigo Bay and the Spanish Treasure Fleet",
       "body": "Nemo recovers bullion from ships lost during the 1702 Battle of Vigo Bay. The episode turns imperial treasure into a hidden fund for causes opposed to later empires.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-86",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-vigo",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-item-gold-chest"
       ],
@@ -12493,7 +12477,7 @@
       "title": "The Polar Route Is Fictional",
       "body": "The open sea at the South Pole and navigable passage beneath the Antarctic barrier belong to Verne’s speculative geography, not to the confirmed polar conditions of his period or ours.",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-south-pole",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-south-pole",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-map-world"
       ],
@@ -12508,7 +12492,7 @@
       "title": "Nemo’s Ending Remains Open",
       "body": "The narrator escapes without learning whether the Nautilus survives the Lofoten maelstrom. The final question is therefore both physical and moral: what judgement should be made of a liberator, rescuer, jailer, and destroyer?",
       "tags": [],
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-nemo-organ",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-item-organ",
       "linkedEntityIds": [
         "twenty-thousand-leagues-under-the-seas-char-nemo"
       ],
@@ -12524,7 +12508,7 @@
       "name": "The Nautilus Company",
       "description": "Nemo’s disciplined multinational crew, bound by secrecy, technical skill, shared loss, and life beyond national law.",
       "color": "#395c69",
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-nautilus",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-nautilus-entrance",
       "tags": []
     },
     {
@@ -12535,7 +12519,7 @@
       "name": "The Three Captives",
       "description": "Aronnax, Conseil, and Ned Land, united by shipwreck but divided over how long knowledge can justify confinement.",
       "color": "#8a6d4f",
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-trio",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-aronnax",
       "tags": []
     },
     {
@@ -12546,7 +12530,7 @@
       "name": "The Abraham Lincoln Expedition",
       "description": "The United States naval mission assembled to find and destroy the supposed marine animal threatening international shipping.",
       "color": "#596978",
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-7",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-character-farragut",
       "tags": []
     },
     {
@@ -12557,7 +12541,7 @@
       "name": "Surface Powers",
       "description": "The navies, empires, and commercial systems Nemo rejects, resists, or covertly redirects treasure against.",
       "color": "#735451",
-      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-plate-111",
+      "coverImageId": "twenty-thousand-leagues-under-the-seas-image-generated-location-north-atlantic",
       "tags": []
     }
   ],
