@@ -1,0 +1,332 @@
+{
+  "book": "the-name-of-the-wind",
+  "note": "Superseded pre-correction blob metadata. Map blobs remain active; external and embedded non-map bundle blobs were removed.",
+  "pwkBlobs": [
+    {
+      "id": "notw-location-image-worldRoad",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/worldRoad.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-eolian",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/eolian.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan10",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan10.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan16",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan16.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan01",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan01.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan06",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan06.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan02",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan02.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan14",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan14.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan19",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan19.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan08",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan08.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-elodinCourt",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/elodinCourt.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-university",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/university.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan07",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan07.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan09",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan09.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan17",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan17.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan11",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan11.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-tarbean",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/tarbean.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan15",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan15.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan05",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan05.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-underthing",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/underthing.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-draccus",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/draccus.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan18",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan18.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    },
+    {
+      "id": "notw-location-image-dan20",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "library/the-name-of-the-wind/art/generated/dan20.jpg",
+      "createdAt": 1785974400000,
+      "updatedAt": 1788451200000
+    }
+  ],
+  "bundleBlobs": [
+    {
+      "id": "7dQF1340neJ7FACIwc1av",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283687137,
+      "dataSha256": "3913567bf2a88fc6a131f6f52a73a4930e60f32edb292ae53a690e0db01eb3d6"
+    },
+    {
+      "id": "EwQYzAtP8MCzVjM_AVW4n",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776284151428,
+      "dataSha256": "2833a03e83d4c4b6eb075b769dfc1aca2b5120e32be79a7defaea3dd24c5bd01"
+    },
+    {
+      "id": "JcctoFBt4_XDV9RpXewso",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283746336,
+      "dataSha256": "46bf4e3bb39c95b111ef8f27ac5c9fd254453605df8f0302ceb71b20b0f07d84"
+    },
+    {
+      "id": "KJ4_fsU7KYUd0q363J7oA",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776264719955,
+      "dataSha256": "0bb8c7d4925f98e57af3b5ce6ccdd3b9a0897fce88cea7c70908317973d9ae38"
+    },
+    {
+      "id": "KLtifaWmrT_HjK5tqyktk",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283358284,
+      "dataSha256": "90282d680bd2e4213f64588d88bf41d2cf30f61c1526ea0007562c4610cdb472"
+    },
+    {
+      "id": "UnjGQzV34BB_gbalMtKzx",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283531759,
+      "dataSha256": "34125870e72fc85f494c2e2db57928f7e652ff9559608ffb57ba4c4c4594cf2d"
+    },
+    {
+      "id": "Vx9XJWXp2LLUmybYvodq6",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776284025146,
+      "dataSha256": "a93d396fce73461fcd384aa7229300127e48ed5c4eeaba8ba70567bb149ca3bd"
+    },
+    {
+      "id": "WvvFOoQQcMw484XV2HvJw",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283930258,
+      "dataSha256": "9937b565495b412ab195db07cc2a0b536f3fb26906da285d8f7ec29540a8a916"
+    },
+    {
+      "id": "YAqIcVS6aMVCc0OF9jOlU",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283810372,
+      "dataSha256": "ce6d64511e5475adcc3aef8e334ea9f774f8c837d8503249dfeb0f2b27b2782d"
+    },
+    {
+      "id": "Yj6b7jE94RvOH7PcE3vmZ",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776284259506,
+      "dataSha256": "0917f9a36e10b85eae452fe637275a65597b8bbffefdbbaabda0e68dc6efc97a"
+    },
+    {
+      "id": "daQgF9OIqf_tlMp74HAwU",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776284211455,
+      "dataSha256": "7e6a5301459196c6f4d5c1126f70342585dd43662d596627c714a2d4afd57f53"
+    },
+    {
+      "id": "g05HE-a64WXlhZFCUmfIK",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776284080713,
+      "dataSha256": "1071e285dd434b3a206c488a4b4c9126f1f0306aeb5a5a700e1b747cfb7f470f"
+    },
+    {
+      "id": "hHIdW29GKlmKI5hrq8vNi",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283982632,
+      "dataSha256": "94263ebb9fb4f5b8d8acfb26cadc38a8120c1d1082a93bcc1b83ba70af781408"
+    },
+    {
+      "id": "mbAQhZ7z4lJp8PaDpotLR",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283859213,
+      "dataSha256": "68bd8f64802dd3f36efd13eccd30851ab8eb10ab55a8743d17734c26b35bb595"
+    },
+    {
+      "id": "notw-map-image",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "https://i.imgur.com/zKfx4sj.jpeg",
+      "createdAt": 1713200000000
+    },
+    {
+      "id": "pBP3qwOo-z_xZ5BVHLnSh",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776284303143,
+      "dataSha256": "fc43c432620d1012e337e03fcfb8ef11469b2ff9a222e7f626015ac035c6625a"
+    },
+    {
+      "id": "pRCSsPvtl6JfBfqsKUXax",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "url": "https://i.redd.it/map-of-university-arcanum-from-name-of-the-wind-v0-zofnxv7ruijf1.jpg?width=3072&format=pjpg&auto=webp&s=6bd1683ee0c1fdfc379067c01f38f6366eca8b12",
+      "createdAt": 1785111637169
+    },
+    {
+      "id": "rLDKWKJP_RGkR4eIV4xdm",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283421553,
+      "dataSha256": "1b31a62ce67a3040d8e861ce2d2afc6ec05b524031b85a013e1a7654a4225895"
+    },
+    {
+      "id": "ssdnnG93jmvorlhMupG12",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1776283476356,
+      "dataSha256": "4edafc47244abde989baff9a2c0601b9b7a4c89bcfd50d2059f952759f703b70"
+    },
+    {
+      "id": "xTHkubU1jNONYWhBOpaop",
+      "worldId": "10000000-0000-4000-a000-000000000000",
+      "mimeType": "image/jpeg",
+      "createdAt": 1785111008866,
+      "dataSha256": "def7aa4378bdc15057f8eb5c32494887ebd86333ffd534feb3ca5c7e3d418cc2"
+    }
+  ]
+}
