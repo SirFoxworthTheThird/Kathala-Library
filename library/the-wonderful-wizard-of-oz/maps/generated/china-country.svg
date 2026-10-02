@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="559" viewBox="0 0 1024 559" preserveAspectRatio="none">
+<defs><radialGradient id="paper"><stop offset="0" stop-color="#f7efd8"/><stop offset="1" stop-color="#e9d9b6"/></radialGradient><pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="3" cy="5" r="1" fill="#876f4e" opacity=".12"/></pattern></defs>
+<rect width="1024" height="559" fill="url(#paper)"/><rect width="1024" height="559" fill="url(#dots)"/>
+<rect x="11" y="11" width="1002" height="537" rx="12" fill="none" stroke="#7a6145" stroke-width="3"/><rect x="19" y="19" width="986" height="521" rx="7" fill="none" stroke="#b79a70" stroke-width="1"/>
+<style>.title{font:small-caps 27px Georgia,serif;letter-spacing:3px;fill:#55432f}.label{font-family:Georgia,serif;fill:#40392d}.small{font:italic 13px Georgia,serif;fill:#5d5141}</style>
+<text x="512" y="38" text-anchor="middle" class="title">The Dainty China Country</text><path d="M270 46H754" stroke="#8b7352" stroke-width="1"/>
+<path d="M89 150Q511 85 939 150L925 423Q502 497 88 422Z" fill="#e6e9e6" stroke="#8ca7b2" stroke-width="11"/>
+<path d="M104 171Q501 111 920 171L906 406Q511 471 105 406Z" fill="#f4f0e6"/>
+<path d="M110 394Q515 468 916 391M110 154Q515 89 916 156" fill="none" stroke="#d3e2e5" stroke-width="12"/>
+<path d="M502 383L502 420M444 144L444 118" stroke="#8ca7b2" stroke-width="17"/>
+<g transform="translate(400 210)"><path d="M-24 0L0-20L24 0V28H-24Z" fill="#d8e4e8" stroke="#715b45" stroke-width="2"/><path d="M-27 1L0-24L27 1" fill="none" stroke="#715b45" stroke-width="3"/><rect x="-5" y="10" width="10" height="18" fill="#765b42"/></g><g transform="translate(490 316)"><path d="M-24 0L0-20L24 0V28H-24Z" fill="#d8e4e8" stroke="#715b45" stroke-width="2"/><path d="M-27 1L0-24L27 1" fill="none" stroke="#715b45" stroke-width="3"/><rect x="-5" y="10" width="10" height="18" fill="#765b42"/></g><g transform="translate(645 215)"><path d="M-24 0L0-20L24 0V28H-24Z" fill="#ecd9d5" stroke="#715b45" stroke-width="2"/><path d="M-27 1L0-24L27 1" fill="none" stroke="#715b45" stroke-width="3"/><rect x="-5" y="10" width="10" height="18" fill="#765b42"/></g><g transform="translate(548 268)"><path d="M-24 0L0-20L24 0V28H-24Z" fill="#ece2c6" stroke="#715b45" stroke-width="2"/><path d="M-27 1L0-24L27 1" fill="none" stroke="#715b45" stroke-width="3"/><rect x="-5" y="10" width="10" height="18" fill="#765b42"/></g>
+<path d="M250 353C387 321 612 365 764 334" fill="none" stroke="#bdd3d9" stroke-width="13"/>
+<text x="502" y="85" text-anchor="middle" class="label" font-size="20">Dainty China Country</text><text x="373" y="261" text-anchor="middle" class="small">Milkmaid’s Farm</text><text x="667" y="265" text-anchor="middle" class="small">Princess’s Meadow</text><text x="504" y="363" text-anchor="middle" class="small">China Church</text><text x="521" y="460" text-anchor="middle" class="small">High Wall</text><text x="444" y="124" text-anchor="middle" class="small">Low Wall</text>
+<path d="M43 514h60m-30-25v50" stroke="#826948" stroke-width="2"/><text x="73" y="484" text-anchor="middle" class="small">N</text>
+</svg>
