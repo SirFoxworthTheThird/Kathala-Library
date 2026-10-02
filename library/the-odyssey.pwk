@@ -8981,219 +8981,250 @@
     {
       "id": "odyssey-image-art-homecoming",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "library/the-odyssey/art/cover.png",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/cover.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-telemachus",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Schmied%20illustration%20Odyss%C3%A9e-CompBibliophilesAutoClubFrance-1932vol1p035.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/telemachus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-athena",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Schmied%20illustration%20Odyss%C3%A9e-CompBibliophilesAutoClubFrance-1932vol3p031.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/athena.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-storm",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Odysseus%20and%20Ino%20by%20Alessandro%20Allori.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/storm.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-zeus",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/OdysseyZeus.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/zeus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-hermes",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/'Hermes%20Ordering%20Calypso%20to%20Release%20Odysseus'%20by%20Gerard%20de%20Lairesse%2C%20c.%201670.JPG?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/hermes.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-calypso",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Odysseus%20and%20Calypso.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/calypso.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-nausicaa",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Odysseus%20and%20Nausicaa.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/nausicaa.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-phaeacia",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Francesco%20Hayez%20028.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/phaeacia.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-demodocus",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Schmied%20illustration%20Odyss%C3%A9e-CompBibliophilesAutoClubFrance-1932vol2p077.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/demodocus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-nestor",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Telemachus%20bezoekt%20Nestor%20op%20het%20eiland%20Pylon%2C%20RP-P-OB-28.286.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/nestor.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-sparta",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Telemachos%20im%20Palast%20von%20Menelaos.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/sparta.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-cyclops",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plate%206-%20Ulysses%20driving%20a%20burning%20stake%20into%20Polyphemus'%20eye%20Met%20DP885436.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/cyclops.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-aeolus",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Isaac%20Moillon%20-%20%C3%89ole%20donnant%20les%20vents%20%C3%A0%20Ulysse.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/aeolus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-laestrygonians",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/OdysseyAntiphates.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/laestrygonians.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-circe",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Circe%20Offering%20the%20Cup%20to%20Odysseus.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/circe.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-circeCrew",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Woodcut%20illustration%20of%20Circe%20and%20Odysseus%20with%20men%20transformed%20into%20animals%20-%20Penn%20Provenance%20Project.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/circeCrew.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-underworld",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Alessandro%20Allori%20-%20Odysseus%20questions%20the%20seer%20Tiresias.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/underworld.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-anticleia",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anticlea%20in%20the%20Underworld.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/anticleia.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-eumaeus",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sch%C3%BCtzenberger%201886%20Odiseo%20acosado%20por%20los%20perros%20de%20Eumeo.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/eumaeus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-eurycleia",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Odysseus%20and%20Euryclea%20by%20Johann%20Heinrich%20Wilhelm%20Tischbein.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/eurycleia.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-suitors",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/OdysseySuitors.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/suitors.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-laertes",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Odysseus3.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/laertes.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-lotus",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lotus-eaters.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/lotus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-sirens",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Theodoor%20van%20Thulden%20-%20Odysseus%20and%20the%20sirens.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/sirens.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-cattle",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ulysses%20and%20the%20Cattle%20of%20Helios.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/cattle.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-bow",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Schmied%20illustration%20Odyss%C3%A9e-CompBibliophilesAutoClubFrance-1932vol3p147.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/bow.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-alcinous",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Odysseus%20taking%20leave%20of%20Alcinous.JPG?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/alcinous.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-scylla",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/OdysseyScylla.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/scylla.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-loom",
       "worldId": "odyssey-world",
       "mimeType": "image/jpeg",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Angelica%20Kaufmann%20-%20Penelope%20at%20her%20Loom.jpg?width=1200",
-      "createdAt": 1786291200000
+      "url": "library/the-odyssey/art/generated/loom.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     },
     {
       "id": "odyssey-image-art-beggarPenelope",
       "worldId": "odyssey-world",
-      "mimeType": "image/png",
-      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Penelope%20och%20Odysseus%20som%20tiggare%2C%20Nordisk%20familjebok.png?width=1200",
-      "createdAt": 1786291200000
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/generated/beggarPenelope.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     }
   ],
   "loreCategories": [
@@ -9381,7 +9412,7 @@
       "id": "odyssey-lore-11",
       "categoryId": "odyssey-lore-category-epic",
       "title": "Text, Translation, and Book Titles",
-      "body": "Primary source: Homer, The Odyssey, translated into English prose by Samuel Butler, Project Gutenberg eBook 1727 (https://www.gutenberg.org/ebooks/1727), a complete public-domain English edition divided into Books I–XXIV. The scene drafts reproduce Butler’s narrative prose, divided among the modeled events without rewriting, omission, duplication, or reordering; Gutenberg’s front matter, Butler’s per-book prose summaries, footnotes, appendices, and end matter are excluded. Homer’s poem numbers its books rather than naming them, so the descriptive book names and exact calendar values used here are editorial aids. Every Kathala synopsis, title, description, and status note remains original editorial writing. Linked artwork and maps are public-domain images from Wikimedia Commons.",
+      "body": "Primary source: Homer, The Odyssey, translated into English prose by Samuel Butler, Project Gutenberg eBook 1727 (https://www.gutenberg.org/ebooks/1727), a complete public-domain English edition divided into Books I–XXIV. The scene drafts reproduce Butler’s narrative prose, divided among the modeled events without rewriting, omission, duplication, or reordering; Gutenberg’s front matter, Butler’s per-book prose summaries, footnotes, appendices, and end matter are excluded. Homer’s poem numbers its books rather than naming them, so the descriptive book names and exact calendar values used here are editorial aids. Every Kathala synopsis, title, description, and status note remains original editorial writing. The 31 narrative illustrations are original generated artwork. Four linked historical and editorial maps remain for geographic reference; superseded illustration source records are archived with the integration documentation.",
       "tags": [],
       "coverImageId": null,
       "linkedEntityIds": [],
