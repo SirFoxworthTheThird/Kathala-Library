@@ -1,0 +1,468 @@
+{
+  "book": "dracula",
+  "note": "Superseded non-map illustration blobs; ten functional map blobs remain active.",
+  "blobs": [
+    {
+      "id": "dracula-image-cover",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dracula1st.jpeg/960px-Dracula1st.jpeg",
+      "createdAt": 1785499200000
+    },
+    {
+      "id": "dracula-char-jonathan-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-jonathan.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-dracula-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-dracula.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-mina-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-mina.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-lucy-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-lucy.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-seward-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-seward.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-van-helsing-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-van-helsing.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-arthur-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-arthur.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-quincey-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-quincey.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-renfield-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-renfield.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-mrs-westenra-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-mrs-westenra.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-hawkins-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-hawkins.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-sister-agatha-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-sister-agatha.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-three-women-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-three-women.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-captain-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-captain.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-mate-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-mate.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-swales-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-swales.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-bilder-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-bilder.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-bersicker-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-bersicker.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-nurse-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-attendant.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-billington-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-billington.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-snelling-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-snelling.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-hildesheim-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-hildesheim.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-skinsky-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-skinsky.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-czarina-captain-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-donelson.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-char-szgany-portrait",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/character-szgany.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-journal-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-journal.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-mina-diary-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-mina-diary.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-phonograph-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-phonograph.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-demeter-log-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-demeter-log.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-letters-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-letters.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-crucifix-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-crucifix.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-mirror-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-mirror.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-keys-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-keys.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-earth-boxes-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-earth-boxes.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-garlic-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-garlic.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-wafer-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-wafer.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-stake-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-stake.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-transfusion-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-transfusion.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-maps-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-maps.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-kukri-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-kukri.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-bowie-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-bowie.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-item-rifles-image",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/png",
+      "url": "library/dracula/art/item-rifles.png",
+      "createdAt": 1788393600000
+    },
+    {
+      "id": "dracula-location-coulthart-23",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula23.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-14",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula14.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-25",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula25.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-26",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula26.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-17",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula17.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-08",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula08.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-01",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula01.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-02",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula02.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-04",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula04.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-22",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula22.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-03",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula03.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-19",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula19.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-09",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula09.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-27",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula27.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-10",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula10.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-18",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula18.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-20",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula20.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-11",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula11.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-05",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula05.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-21",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula21.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-15",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula15.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-07",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula07.jpg",
+      "createdAt": 1786147200000
+    },
+    {
+      "id": "dracula-location-coulthart-06",
+      "worldId": "dracula-1897-world",
+      "mimeType": "image/jpeg",
+      "url": "https://www.johncoulthart.com/images/dracula/dracula06.jpg",
+      "createdAt": 1786147200000
+    }
+  ]
+}
