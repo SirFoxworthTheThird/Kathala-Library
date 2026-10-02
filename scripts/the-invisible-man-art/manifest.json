@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "note": "The 18 portraits, 10 items and 36 location images were already original artwork in the earlier artwork commit. Only the externally linked cover needs replacement; six functional maps remain.",
+  "mapIds": [
+    "invisible-man-image-map-england",
+    "invisible-man-image-map-iping",
+    "invisible-man-image-map-coach",
+    "invisible-man-image-map-london",
+    "invisible-man-image-map-burdock",
+    "invisible-man-image-map-kemp"
+  ],
+  "jobs": [
+    {
+      "kind": "cover",
+      "index": 0,
+      "entityId": "invisible-man-world",
+      "name": "The Invisible Man",
+      "description": "A bandaged and goggled stranger arrives at the Coach and Horses in a snowy Sussex village.",
+      "url": "library/the-invisible-man/art/generated/cover/001-the-invisible-man.jpg",
+      "prompt": "Original literary cover illustration for H. G. Wells’s The Invisible Man. A lone figure in Griffin’s dark Victorian overcoat, broad hat, white face bandages and dark round goggles approaches the warm doorway of the Coach and Horses inn in snowy 1890s Sussex. His face remains hidden; winter light and footprints imply the unsettling experiment. Match the existing book’s naturalistic ink and watercolor portraits on textured paper: muted charcoal, winter blue-grey, lamp amber and wool brown. Vertical cover composition, dramatic but restrained. No ordinary visible face, no title lettering, readable text, logo, signature, watermark, collage, panels, modern objects or film likenesses."
+    }
+  ]
+}
