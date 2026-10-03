@@ -11,14 +11,14 @@ Work on both books together. Reuse art for the same subject across books, but ne
 ## Inventory and progress
 
 - `manifest.json` lists 217 distinct original illustrations for 389 cover, character, item and location slots: 173 Fellowship and 216 Two Towers. Exactly 172 illustrations are shared across books. Book-specific extras are one Fellowship cover and 44 Two Towers subjects.
-- 184 final images are accepted, registered, and converted to JPEG: assets 001-184. The PNG masters are ignored by Git. 33 assets remain pending.
+- 188 final images are accepted, registered, and converted to JPEG: assets 001-188. The PNG masters are ignored by Git. 29 assets remain pending.
 - `make-contact-sheets.ps1` produces category sheets for visual review; the first cover and character sheets were generated and inspected.
 - The accepted Fellowship cover depicts Tom Bombadil guiding the four hobbits from the Old Forest, a book scene omitted by the films. The accepted Two Towers cover depicts Faramir speaking to Frodo and Sam in Henneth Annûn. Accepted shared art includes a distinctly non-film Aragorn, Arwen, a shadow-and-flame Balrog without film horns or wings, and Barliman Butterbur.
 - An earlier Fellowship cover with a nine-person lineup, an earlier Aragorn that resembled the film actor, a multi-pose Boromir, a blond film-like Legolas, an eye-shaped Sauron, and initial Erestor, Glóin, and Saruman variants with film-like Council or character imagery were rejected and are not part of the registered assets.
 - The `.pwk` files contain 69 and 104 linked image blobs. The companion `.pwb` bundles contain 80 and 66 embedded blobs, including 14 map blobs in each. Many apparent missing references resolve through `.pwb`. The artwork task will replace all linked and embedded non-map art; preserve the functional map bundles. Two map layers in each book reuse a map image for navigation overlays; the no-repeat rule is enforced on cover, character, item and location illustrations.
 - A trial set of schematic SVG maps was discarded after discovering the embedded maps. No map replacements are pending.
 - `import-art.mjs` is prepared but intentionally refuses to run until all 217 approved JPEGs exist. It will import unique image refs per book, keep the map-only PWB, archive old blob metadata, update the catalogue, and correct Fellowship's `Endoras` typo to `Edoras`.
-- `validate.mjs` checks the checkpoint now and will check final art URL/hash uniqueness, map resolution, source removal, and catalogue sizes after import. Current checkpoint validation passes at 184/217.
+- `validate.mjs` checks the checkpoint now and will check final art URL/hash uniqueness, map resolution, source removal, and catalogue sizes after import. Current checkpoint validation passes at 188/217.
 
 ## Next actions
 
