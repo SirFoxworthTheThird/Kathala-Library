@@ -4,10 +4,10 @@ $directory = Join-Path $repo 'library/the-wonderful-wizard-of-oz/maps/generated'
 $browser = 'C:\Program Files\Google\Chrome\Application\chrome.exe'
 if (-not (Test-Path -LiteralPath $browser)) { throw 'Headless Chrome is needed to rasterize the SVG maps.' }
 Add-Type -AssemblyName System.Drawing
-foreach ($name in @('oz','emerald-city','palace','yellow-castle','china-country','glinda-castle')) {
+foreach ($name in @('oz','emerald-city','palace','yellow-castle','china-country','glinda-castle','eastern-road','southern-road')) {
     $svg = Join-Path $directory "$name.svg"
     $png = Join-Path $directory "$name.png"
-    $image = if ($name -eq 'yellow-castle') { '2048,1117' } else { '1024,559' }
+    $image = if ($name -in @('yellow-castle','eastern-road','southern-road')) { '2048,1117' } else { '1024,559' }
     $uri = 'file:///' + ($svg.Replace('\', '/'))
     $process = Start-Process -FilePath $browser -WindowStyle Hidden -PassThru -Wait -ArgumentList @('--headless=new','--no-sandbox','--disable-gpu','--hide-scrollbars',"--screenshot=$png","--window-size=$image",$uri)
     if ($process.ExitCode -ne 0) { throw "Chrome failed rendering $name ($($process.ExitCode))" }

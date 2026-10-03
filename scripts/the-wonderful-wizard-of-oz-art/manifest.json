@@ -1564,6 +1564,24 @@
       "blobId": "oz-image-map-glinda-castle",
       "oldUrl": "library/the-wonderful-wizard-of-oz/maps/glinda-castle.jpg",
       "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/glinda-castle.png"
+    },
+    {
+      "mapId": "oz-map-eastern-road",
+      "name": "The Eastern Road",
+      "width": 2048,
+      "height": 1117,
+      "blobId": "oz-image-map-eastern-road",
+      "oldUrl": null,
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/eastern-road.png"
+    },
+    {
+      "mapId": "oz-map-southern-road",
+      "name": "The Road South to Glinda",
+      "width": 2048,
+      "height": 1117,
+      "blobId": "oz-image-map-southern-road",
+      "oldUrl": null,
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/southern-road.png"
     }
   ],
   "oldBlobCount": 61

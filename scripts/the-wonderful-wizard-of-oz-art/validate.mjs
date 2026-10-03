@@ -34,12 +34,25 @@ for (const map of manifest.maps) {
   if (map.newUrl) {
     assert(blob.mimeType === 'image/png', `Map type mismatch: ${map.name}`);
     assert(fs.existsSync(get(map.newUrl.replace(/\.png$/, '.svg'))), `Missing SVG map source: ${map.name}`);
-    assert(!fs.existsSync(get(map.oldUrl)), `Superseded map still present: ${map.name}`);
+    if (map.oldUrl) assert(!fs.existsSync(get(map.oldUrl)), `Superseded map still present: ${map.name}`);
   }
 }
+const layers = new Map(book.mapLayers.map((layer) => [layer.id, layer]));
+const positions = new Set();
+for (const marker of book.locationMarkers) {
+  const layer = layers.get(marker.mapLayerId);
+  assert(layer, `Unknown map for ${marker.name}`);
+  assert(Number.isFinite(marker.x) && Number.isFinite(marker.y) && marker.x >= 0 && marker.x < layer.imageWidth && marker.y >= 0 && marker.y < layer.imageHeight, `Out-of-bounds marker: ${marker.name}`);
+  const position = `${layer.id}:${marker.x},${marker.y}`;
+  assert(!positions.has(position), `Repeated marker position: ${marker.name}`);
+  positions.add(position);
+  if (marker.linkedMapLayerId) assert(layers.get(marker.linkedMapLayerId)?.parentMapId === layer.id, `Broken map link: ${marker.name}`);
+}
+assert(book.locationMarkers.filter((marker) => marker.mapLayerId === 'oz-map-eastern-road').length === 12, 'Eastern Road stop count changed');
+assert(book.locationMarkers.filter((marker) => marker.mapLayerId === 'oz-map-southern-road').length === 6, 'Southern Road stop count changed');
 const entry = index.entries.find((item) => item.id === 'the-wonderful-wizard-of-oz');
 assert(entry?.cover === manifest.slots[0].path, 'Catalogue cover mismatch');
 assert(entry.dataBytes === fs.statSync(get('library/the-wonderful-wizard-of-oz.pwk')).size, 'Catalogue size mismatch');
-assert(book.blobs.length === 114, `Unexpected blob count: ${book.blobs.length}`);
-assert(book.characters.length === 21 && book.items.length === 12 && book.locationMarkers.length === 55 && book.factions.length === 8 && book.lorePages.length === 10 && book.mapLayers.length === 7, 'Book entity counts changed');
-console.log('Validated 107 unique local illustrations, seven local maps (six redrawn), 114 live blobs, and catalogue references.');
+assert(book.blobs.length === 116, `Unexpected blob count: ${book.blobs.length}`);
+assert(book.characters.length === 21 && book.items.length === 12 && book.locationMarkers.length === 55 && book.factions.length === 8 && book.lorePages.length === 10 && book.mapLayers.length === 9, 'Book entity counts changed');
+console.log('Validated 107 unique local illustrations, nine local maps, 55 placed locations, 116 live blobs, and catalogue references.');
