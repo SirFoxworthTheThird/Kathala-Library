@@ -4,6 +4,6 @@ This edition uses 107 original illustrations generated with Codex's built-in ima
 
 The 54 public-domain W. W. Denslow illustrations used in the previous edition are no longer referenced or shipped. Their Wikimedia Commons citations and the original map provenance are preserved in `scripts/the-wonderful-wizard-of-oz-art/ORIGINAL-SOURCES.md`; the original blob records are preserved in `original-sources.json` beside it.
 
-Six maps were redrawn as SVG and rendered to PNG for this edition. Their geography and labels follow the first book; interior layouts are editorial interpretations, not canonical measured plans. The existing Kansas map (`maps/kansas.png` and `maps/kansas.svg`) remains in use. Baum published no map with the 1900 book.
+Eight maps were drawn as SVG and rendered to PNG for this edition, including detailed maps of the eastern and southern journeys. Their geography and labels follow the first book; interior layouts and exact route positions are editorial interpretations, not canonical measured plans. The existing Kansas map (`maps/kansas.png` and `maps/kansas.svg`) remains in use. All 55 locations are placed on their relevant map layers. Baum published no map with the 1900 book.
 
 Generation, prompts, contact sheets, import and validation are documented in `scripts/the-wonderful-wizard-of-oz-art/`.
