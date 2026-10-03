@@ -1,0 +1,17 @@
+# Painted map prompts and placement
+
+The nine final maps were generated as separate landscape images with the built-in imagegen tool, then converted to 1672 × 941 JPEGs at quality 92. The prompt set asked for original high oblique watercolor and delicate sepia ink maps in the style of richly detailed early twentieth-century storybook illustration. Every prompt excluded text, labels, legends, compass roses, map pins, people, MGM film imagery, green-skinned witches, ruby slippers, and later-book details. Names and interactive pins are supplied by the reader interface. No CLI image fallback was used.
+
+| Map | Final prompt direction | Placement anchors |
+| --- | --- | --- |
+| The Land of Oz | Painted country encircled by the Deadly Desert: blue Munchkin East with Dorothy's house and the yellow brick road; yellow Winkie West and Yellow Castle; red Quadling South and Glinda's castle; muted northern country; Emerald City at the centre. | House, city, western country, Yellow Castle, and the fighting-tree approach. |
+| The Kansas Prairie | Dusty flat Kansas farm with original tiny gray farmhouse, nearby cyclone cellar, barnyard and sheds, open prairie, a separate replacement farmhouse, and distant cyclone. This is a time-composite map of the opening and ending. | Both houses, cellar, barn, open prairie. |
+| The Eastern Road | Right-to-left journey from blue Munchkin farms through the forest, Woodman's cottage, **two open ravines without bridges**, and a broad river without a bridge, ending in poppies, field-mouse meadow, and a green farmhouse. The yellow road stops at one riverbank and resumes at the other. | Twelve journey stops placed on the visible scene. A first variant was rejected because it painted bridges across the obstacles. |
+| The Road South to Glinda | Top-to-bottom journey from green country through the walled porcelain China Country, marshes, deep forest, Hammer-Head hills, and red Quadling farms to Glinda's pale castle. | Six journey stops, with the Quadling farmhouse and Glinda's castle at the southern end. |
+| The Emerald City | One eastern Great Gate, a walkable walled city of green streets and gardens, central palace, and northern balloon launching ground; fine architecture rather than a film skyline. | Gate, guardian's room, streets, palace, launching ground. |
+| The Palace of Oz | Oblique roofless palace cutaway with gates at left, waiting hall, central throne room, lower guest corridor and Dorothy's room, and private wizard chamber at right. | Six named rooms and passages. |
+| The Yellow Castle | Warm yellow limestone cutaway with front door, kitchen, iron-fenced yard, Winkie workshops, cupboard room, and watching door. | Six distinct spaces. |
+| The Dainty China Country | Blue-and-white porcelain landscape enclosed by a low northern entry wall and high southern exit wall, with milkmaid's farm, princess's meadow, porcelain church, and a playful corner. | Both walls and four places inside. |
+| Glinda's Castle | Pale limestone and restrained ruby-red Quadling castle cutaway with left gate, outer court, central empty ruby throne, and upper-right tiring room. | Four castle spaces. |
+
+The paintings are interpretive. The 1900 book provides a sequence of places and broad colour geography, but no measured map or floor plans. `place-map-markers.mjs` holds the final pixel positions and `qa/maps/` contains marker overlays for visual checking. All nine final JPEGs are in `library/the-wonderful-wizard-of-oz/maps/`.
