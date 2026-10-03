@@ -150,7 +150,7 @@
       "description": "The divine council chamber where Athena argues that Odysseus must finally be released.",
       "x": 880,
       "y": 570,
-      "imageId": "odyssey-image-art-athena",
+      "imageId": "odyssey-image-unique-loc-olympus",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -166,7 +166,7 @@
       "description": "The ruined city from which Odysseus and his surviving fleet begin the return voyage.",
       "x": 1045,
       "y": 555,
-      "imageId": "odyssey-image-art-telemachus",
+      "imageId": "odyssey-image-unique-loc-troy",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -182,7 +182,7 @@
       "description": "The Cicones’ coastal city, raided after Troy and defended with costly force.",
       "x": 990,
       "y": 640,
-      "imageId": "odyssey-image-art-telemachus",
+      "imageId": "odyssey-image-unique-loc-ismarus",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -214,7 +214,7 @@
       "description": "The pastoral coast and cave where Polyphemus traps Odysseus’s scouting party.",
       "x": 170,
       "y": 430,
-      "imageId": "odyssey-image-art-cyclops",
+      "imageId": "odyssey-image-unique-loc-cyclopes",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -230,7 +230,7 @@
       "description": "Aeolus’s floating island, where the winds are hosted, restrained, and disastrously released.",
       "x": 230,
       "y": 465,
-      "imageId": "odyssey-image-art-aeolus",
+      "imageId": "odyssey-image-unique-loc-aeolia",
       "iconType": "island",
       "tags": [],
       "factionId": null
@@ -262,7 +262,7 @@
       "description": "Circe’s wooded island, where enchantment gives way to alliance and a year-long delay.",
       "x": 350,
       "y": 445,
-      "imageId": "odyssey-image-art-circe",
+      "imageId": "odyssey-image-unique-loc-aeaea",
       "iconType": "island",
       "tags": [],
       "factionId": null
@@ -278,7 +278,7 @@
       "description": "The boundary shore where Circe directs Odysseus toward the dead.",
       "x": 85,
       "y": 505,
-      "imageId": "odyssey-image-art-underworld",
+      "imageId": "odyssey-image-unique-loc-cimmerian-gate",
       "iconType": "coast",
       "tags": [],
       "factionId": null
@@ -326,7 +326,7 @@
       "description": "The island of Helios’s sacred cattle, where hunger defeats the crew’s oath.",
       "x": 230,
       "y": 365,
-      "imageId": "odyssey-image-art-cattle",
+      "imageId": "odyssey-image-unique-loc-thrinacia",
       "iconType": "island",
       "tags": [],
       "factionId": null
@@ -342,7 +342,7 @@
       "description": "Calypso’s remote island, both refuge and prison during the final years of exile.",
       "x": 290,
       "y": 245,
-      "imageId": "odyssey-image-art-calypso",
+      "imageId": "odyssey-image-unique-loc-ogygia",
       "iconType": "island",
       "tags": [],
       "factionId": null
@@ -358,7 +358,7 @@
       "description": "Entrance to the Phaeacian submap and the final hospitable kingdom before Ithaca.",
       "x": 635,
       "y": 510,
-      "imageId": "odyssey-image-art-nausicaa",
+      "imageId": "odyssey-image-unique-loc-scheria-gate",
       "iconType": "island",
       "tags": [],
       "factionId": null
@@ -374,7 +374,7 @@
       "description": "Entrance to the detailed island submap and the goal of every strand of the poem.",
       "x": 700,
       "y": 445,
-      "imageId": "odyssey-image-art-homecoming",
+      "imageId": "odyssey-image-unique-loc-ithaca-gate",
       "iconType": "island",
       "tags": [],
       "factionId": null
@@ -390,7 +390,7 @@
       "description": "Nestor’s shore and palace, where Telemachus first receives serious news of the war’s aftermath.",
       "x": 740,
       "y": 310,
-      "imageId": "odyssey-image-art-nestor",
+      "imageId": "odyssey-image-unique-loc-pylos",
       "iconType": "city",
       "tags": [],
       "factionId": null
@@ -422,7 +422,7 @@
       "description": "The sheltered bay where the Phaeacians leave Odysseus sleeping beside his treasure.",
       "x": 895,
       "y": 735,
-      "imageId": "odyssey-image-art-alcinous",
+      "imageId": "odyssey-image-unique-loc-ithaca-harbour",
       "iconType": "coast",
       "tags": [],
       "factionId": null
@@ -438,7 +438,7 @@
       "description": "Athena helps hide the Phaeacian gifts here and prepares Odysseus’s disguise.",
       "x": 850,
       "y": 785,
-      "imageId": "odyssey-image-art-athena",
+      "imageId": "odyssey-image-unique-loc-athena-cave",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -454,7 +454,7 @@
       "description": "The loyal swineherd’s remote dwelling, where guest-friendship protects the disguised king.",
       "x": 920,
       "y": 835,
-      "imageId": "odyssey-image-art-eumaeus",
+      "imageId": "odyssey-image-unique-loc-eumaeus-hut",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -470,7 +470,7 @@
       "description": "The suitors’ occupied feasting hall and the arena of the bow contest and reckoning.",
       "x": 745,
       "y": 1065,
-      "imageId": "odyssey-image-art-suitors",
+      "imageId": "odyssey-image-unique-loc-palace-hall",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -486,7 +486,7 @@
       "description": "The threshold and yard crossed by the beggar, servants, livestock, and armed kin.",
       "x": 780,
       "y": 1035,
-      "imageId": "odyssey-image-art-eurycleia",
+      "imageId": "odyssey-image-unique-loc-palace-yard",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -502,7 +502,7 @@
       "description": "The secure chamber from which Telemachus removes weapons before the contest.",
       "x": 720,
       "y": 1015,
-      "imageId": "odyssey-image-art-bow",
+      "imageId": "odyssey-image-unique-loc-storeroom",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -518,7 +518,7 @@
       "description": "The chamber built around a living olive tree whose secret proves Odysseus’s identity.",
       "x": 805,
       "y": 1080,
-      "imageId": "odyssey-image-art-homecoming",
+      "imageId": "odyssey-image-unique-loc-olive-bed",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -534,7 +534,7 @@
       "description": "The orchard retreat where Laertes works his own ground.",
       "x": 800,
       "y": 1190,
-      "imageId": "odyssey-image-art-laertes",
+      "imageId": "odyssey-image-unique-loc-laertes-farm",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -550,7 +550,7 @@
       "description": "The public meeting ground where Telemachus challenges the suitors and peace is finally imposed.",
       "x": 755,
       "y": 1120,
-      "imageId": "odyssey-image-art-athena",
+      "imageId": "odyssey-image-unique-loc-assembly",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -566,7 +566,7 @@
       "description": "The river mouth and shore where Nausicaa discovers the shipwrecked stranger.",
       "x": 145,
       "y": 285,
-      "imageId": "odyssey-image-art-nausicaa",
+      "imageId": "odyssey-image-unique-loc-scheria-beach",
       "iconType": "coast",
       "tags": [],
       "factionId": null
@@ -582,7 +582,7 @@
       "description": "A sacred grove outside the city where Odysseus waits before approaching the palace.",
       "x": 1060,
       "y": 650,
-      "imageId": "odyssey-image-art-nausicaa",
+      "imageId": "odyssey-image-unique-loc-athena-grove",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -614,7 +614,7 @@
       "description": "The shipyard and departure point for the magically swift voyage to Ithaca.",
       "x": 360,
       "y": 365,
-      "imageId": "odyssey-image-art-alcinous",
+      "imageId": "odyssey-image-unique-loc-phaeacian-harbour",
       "iconType": "coast",
       "tags": [],
       "factionId": null
@@ -630,7 +630,7 @@
       "description": "The dark meeting place reached after Ocean, where the prescribed trench is dug.",
       "x": 560,
       "y": 670,
-      "imageId": "odyssey-image-art-underworld",
+      "imageId": "odyssey-image-unique-loc-acheron",
       "iconType": "coast",
       "tags": [],
       "factionId": null
@@ -646,7 +646,7 @@
       "description": "The blood-filled trench that allows the shades to speak with the living.",
       "x": 2600,
       "y": 2010,
-      "imageId": "odyssey-image-art-underworld",
+      "imageId": "odyssey-image-unique-loc-sacrifice-pit",
       "iconType": "landmark",
       "tags": [],
       "factionId": null
@@ -662,7 +662,7 @@
       "description": "The wandering ground of the dead, including heroes diminished by death.",
       "x": 1910,
       "y": 790,
-      "imageId": "odyssey-image-art-anticleia",
+      "imageId": "odyssey-image-unique-loc-asphodel",
       "iconType": "region",
       "tags": [],
       "factionId": null
@@ -678,7 +678,7 @@
       "description": "The deeper realm from which terrible punishments and royal shades are witnessed.",
       "x": 3000,
       "y": 950,
-      "imageId": "odyssey-image-art-underworld",
+      "imageId": "odyssey-image-unique-loc-hades-house",
       "iconType": "building",
       "tags": [],
       "factionId": null
@@ -693,7 +693,7 @@
       "name": "Odysseus",
       "aliases": [],
       "description": "King of Ithaca, strategist, survivor, and teller of the central voyage.",
-      "portraitImageId": "odyssey-image-art-bow",
+      "portraitImageId": "odyssey-image-unique-char-odysseus",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -707,7 +707,7 @@
       "name": "Penelope",
       "aliases": [],
       "description": "Queen of Ithaca, preserving the household through endurance, intelligence, and the loom stratagem.",
-      "portraitImageId": "odyssey-image-art-homecoming",
+      "portraitImageId": "odyssey-image-art-beggarPenelope",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -749,7 +749,7 @@
       "name": "Poseidon",
       "aliases": [],
       "description": "Sea god and relentless opponent angered by the blinding of Polyphemus.",
-      "portraitImageId": "odyssey-image-art-storm",
+      "portraitImageId": "odyssey-image-unique-char-poseidon",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -833,7 +833,7 @@
       "name": "Arete",
       "aliases": [],
       "description": "Phaeacian queen whose judgment and authority secure the stranger’s welcome.",
-      "portraitImageId": "odyssey-image-art-phaeacia",
+      "portraitImageId": "odyssey-image-unique-char-arete",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -875,7 +875,7 @@
       "name": "Menelaus",
       "aliases": [],
       "description": "King of Sparta, survivor of wandering, and source of Proteus’s news.",
-      "portraitImageId": "odyssey-image-art-sparta",
+      "portraitImageId": "odyssey-image-unique-char-menelaus",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -889,7 +889,7 @@
       "name": "Helen",
       "aliases": [],
       "description": "Queen of Sparta, remembering Odysseus’s disguises and the ambiguities of Troy.",
-      "portraitImageId": "odyssey-image-art-sparta",
+      "portraitImageId": "odyssey-image-unique-char-helen",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -931,7 +931,7 @@
       "name": "Antiphates",
       "aliases": [],
       "description": "Laestrygonian king whose people annihilate the trapped fleet.",
-      "portraitImageId": "odyssey-image-art-laestrygonians",
+      "portraitImageId": "odyssey-image-unique-char-antiphates",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -959,7 +959,7 @@
       "name": "Eurylochus",
       "aliases": [],
       "description": "Senior crewman, and the one who argues with Odysseus in front of the others.",
-      "portraitImageId": "odyssey-image-art-circeCrew",
+      "portraitImageId": "odyssey-image-unique-char-eurylochus",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1001,7 +1001,7 @@
       "name": "Elpenor",
       "aliases": [],
       "description": "Unburied crewman who asks Odysseus for the rites owed to the dead.",
-      "portraitImageId": "odyssey-image-art-underworld",
+      "portraitImageId": "odyssey-image-unique-char-elpenor",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1029,7 +1029,7 @@
       "name": "Philoetius",
       "aliases": [],
       "description": "Loyal cowherd who helps seal the palace and fight the suitors.",
-      "portraitImageId": "odyssey-image-art-suitors",
+      "portraitImageId": "odyssey-image-unique-char-philoetius",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1057,7 +1057,7 @@
       "name": "Antinous",
       "aliases": [],
       "description": "The most violent suitor and first target of Odysseus’s revealed bow.",
-      "portraitImageId": "odyssey-image-art-suitors",
+      "portraitImageId": "odyssey-image-unique-char-antinous",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1071,7 +1071,7 @@
       "name": "Eurymachus",
       "aliases": [],
       "description": "A manipulative suitor who attempts negotiation only after Antinous falls.",
-      "portraitImageId": "odyssey-image-art-suitors",
+      "portraitImageId": "odyssey-image-unique-char-eurymachus",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1099,7 +1099,7 @@
       "name": "Argos",
       "aliases": [],
       "description": "Odysseus’s neglected old hunting dog, the first creature in Ithaca to recognize him.",
-      "portraitImageId": "odyssey-image-art-eurycleia",
+      "portraitImageId": "odyssey-image-unique-char-argos",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1113,7 +1113,7 @@
       "name": "Phemius",
       "aliases": [],
       "description": "The Ithacan bard compelled to perform for the suitors.",
-      "portraitImageId": "odyssey-image-art-demodocus",
+      "portraitImageId": "odyssey-image-unique-char-phemius",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1127,7 +1127,7 @@
       "name": "Medon",
       "aliases": [],
       "description": "A herald who warns Penelope and is spared after Telemachus confirms his loyalty.",
-      "portraitImageId": "odyssey-image-art-suitors",
+      "portraitImageId": "odyssey-image-unique-char-medon",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1141,7 +1141,7 @@
       "name": "Melanthius",
       "aliases": [],
       "description": "A disloyal goatherd who arms the suitors against his returning king.",
-      "portraitImageId": "odyssey-image-art-suitors",
+      "portraitImageId": "odyssey-image-unique-char-melanthius",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1155,7 +1155,7 @@
       "name": "Melantho",
       "aliases": [],
       "description": "A palace servant loyal to Eurymachus who repeatedly abuses the disguised Odysseus.",
-      "portraitImageId": "odyssey-image-art-suitors",
+      "portraitImageId": "odyssey-image-unique-char-melantho",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1169,7 +1169,7 @@
       "name": "Amphinomus",
       "aliases": [],
       "description": "The most restrained suitor, warned by Odysseus but unable to leave the doomed company.",
-      "portraitImageId": "odyssey-image-art-suitors",
+      "portraitImageId": "odyssey-image-unique-char-amphinomus",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1183,7 +1183,7 @@
       "name": "Theoclymenus",
       "aliases": [],
       "description": "A fugitive seer sheltered by Telemachus who reads the palace’s approaching darkness.",
-      "portraitImageId": "odyssey-image-art-nestor",
+      "portraitImageId": "odyssey-image-unique-char-theoclymenus",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1197,7 +1197,7 @@
       "name": "Pisistratus",
       "aliases": [],
       "description": "Nestor’s son and Telemachus’s considerate companion on the road to Sparta.",
-      "portraitImageId": "odyssey-image-art-nestor",
+      "portraitImageId": "odyssey-image-unique-char-pisistratus",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1211,7 +1211,7 @@
       "name": "Proteus",
       "aliases": [],
       "description": "The Old Man of the Sea whose compelled prophecy reveals that Odysseus lives.",
-      "portraitImageId": "odyssey-image-art-sparta",
+      "portraitImageId": "odyssey-image-unique-char-proteus",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1225,7 +1225,7 @@
       "name": "Ino",
       "aliases": [],
       "description": "A sea goddess who lends Odysseus the veil that keeps him afloat near Scheria.",
-      "portraitImageId": "odyssey-image-art-storm",
+      "portraitImageId": "odyssey-image-unique-char-ino",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1239,7 +1239,7 @@
       "name": "Helios",
       "aliases": [],
       "description": "Sun god whose untouched cattle are the final condition placed upon the crew.",
-      "portraitImageId": "odyssey-image-art-cattle",
+      "portraitImageId": "odyssey-image-unique-char-helios",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1253,7 +1253,7 @@
       "name": "Scylla",
       "aliases": [],
       "description": "The six-headed cliff monster who takes six sailors as the ship passes her strait.",
-      "portraitImageId": "odyssey-image-art-scylla",
+      "portraitImageId": "odyssey-image-unique-char-scylla",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": true,
@@ -1267,7 +1267,7 @@
       "name": "Agamemnon",
       "aliases": [],
       "description": "A murdered king whose shade warns Odysseus about a disastrous homecoming.",
-      "portraitImageId": "odyssey-image-art-underworld",
+      "portraitImageId": "odyssey-image-unique-char-agamemnon",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1281,7 +1281,7 @@
       "name": "Achilles",
       "aliases": [],
       "description": "The greatest Achaean warrior, now a shade who rejects heroic glory in death.",
-      "portraitImageId": "odyssey-image-art-underworld",
+      "portraitImageId": "odyssey-image-unique-char-achilles",
       "color": "#6f7f91",
       "tags": [],
       "isAlive": false,
@@ -1308,7 +1308,7 @@
       "name": "Boar-Hunt Scar",
       "description": "The old wound by which Eurycleia recognizes the disguised king.",
       "iconType": "shield",
-      "imageId": "odyssey-image-art-eurycleia",
+      "imageId": "odyssey-image-unique-item-scar",
       "tags": []
     },
     {
@@ -1319,7 +1319,7 @@
       "name": "Bag of Winds",
       "description": "Aeolus’s ox-hide bag restraining every wind except the one carrying the fleet home.",
       "iconType": "cloud",
-      "imageId": "odyssey-image-art-aeolus",
+      "imageId": "odyssey-image-unique-item-wind-bag",
       "tags": []
     },
     {
@@ -1330,7 +1330,7 @@
       "name": "Lotus",
       "description": "The sweet plant that removes memory of home and the will to depart.",
       "iconType": "sprout",
-      "imageId": "odyssey-image-art-lotus",
+      "imageId": "odyssey-image-unique-item-lotus",
       "tags": []
     },
     {
@@ -1341,7 +1341,7 @@
       "name": "Maronean Wine",
       "description": "Exceptionally strong wine used to overpower Polyphemus.",
       "iconType": "flask",
-      "imageId": "odyssey-image-art-cyclops",
+      "imageId": "odyssey-image-unique-item-wine",
       "tags": [],
       "isCollective": true
     },
@@ -1353,7 +1353,7 @@
       "name": "Olive-Wood Stake",
       "description": "The green club hardened in fire and driven into the Cyclops’s eye.",
       "iconType": "sword",
-      "imageId": "odyssey-image-art-cyclops",
+      "imageId": "odyssey-image-unique-item-olive-stake",
       "tags": []
     },
     {
@@ -1364,7 +1364,7 @@
       "name": "Moly",
       "description": "Hermes’s protective herb, black-rooted and white-flowered, that defeats Circe’s drug.",
       "iconType": "sprout",
-      "imageId": "odyssey-image-art-circe",
+      "imageId": "odyssey-image-unique-item-moly",
       "tags": []
     },
     {
@@ -1375,7 +1375,7 @@
       "name": "Beeswax",
       "description": "Wax softened and pressed into the sailors’ ears before the Sirens.",
       "iconType": "circle",
-      "imageId": "odyssey-image-art-sirens",
+      "imageId": "odyssey-image-unique-item-wax",
       "tags": []
     },
     {
@@ -1409,7 +1409,7 @@
       "name": "Phaeacian Gifts",
       "description": "Bronze, gold, clothing, and crafted vessels carried safely to Ithaca.",
       "iconType": "gift",
-      "imageId": "odyssey-image-art-alcinous",
+      "imageId": "odyssey-image-unique-item-gifts",
       "tags": []
     },
     {
@@ -1431,7 +1431,7 @@
       "name": "Twelve Axe Heads",
       "description": "The aligned targets through which the successful bowshot must pass.",
       "iconType": "target",
-      "imageId": "odyssey-image-art-bow",
+      "imageId": "odyssey-image-unique-item-axes",
       "tags": []
     },
     {
@@ -1442,7 +1442,7 @@
       "name": "Olive-Wood Bed",
       "description": "The immovable marriage bed built into a living olive tree.",
       "iconType": "bed",
-      "imageId": "odyssey-image-art-homecoming",
+      "imageId": "odyssey-image-unique-item-olive-bed",
       "tags": []
     },
     {
@@ -1453,7 +1453,7 @@
       "name": "Odysseus’s Brooch",
       "description": "A remembered clasp used within Odysseus’s false tale to test Penelope.",
       "iconType": "gem",
-      "imageId": "odyssey-image-art-beggarPenelope",
+      "imageId": "odyssey-image-unique-item-brooch",
       "tags": []
     }
   ],
@@ -9225,6 +9225,630 @@
       "url": "library/the-odyssey/art/generated/beggarPenelope.jpg",
       "createdAt": 1786291200000,
       "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-odysseus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-odysseus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-poseidon",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-poseidon.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-arete",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-arete.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-menelaus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-menelaus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-helen",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-helen.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-antiphates",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-antiphates.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-eurylochus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-eurylochus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-elpenor",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-elpenor.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-philoetius",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-philoetius.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-antinous",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-antinous.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-eurymachus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-eurymachus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-argos",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-argos.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-phemius",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-phemius.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-medon",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-medon.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-melanthius",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-melanthius.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-melantho",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-melantho.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-amphinomus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-amphinomus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-theoclymenus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-theoclymenus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-pisistratus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-pisistratus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-proteus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-proteus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-ino",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-ino.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-helios",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-helios.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-scylla",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-scylla.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-agamemnon",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-agamemnon.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-char-achilles",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/character/char-achilles.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-scar",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-scar.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-wind-bag",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-wind-bag.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-lotus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-lotus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-wine",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-wine.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-olive-stake",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-olive-stake.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-moly",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-moly.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-wax",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-wax.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-gifts",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-gifts.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-axes",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-axes.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-olive-bed",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-olive-bed.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-item-brooch",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/item/item-brooch.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-olympus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-olympus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-troy",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-troy.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-ismarus",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-ismarus.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-cyclopes",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-cyclopes.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-aeolia",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-aeolia.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-aeaea",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-aeaea.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-cimmerian-gate",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-cimmerian-gate.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-thrinacia",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-thrinacia.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-ogygia",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-ogygia.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-scheria-gate",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-scheria-gate.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-ithaca-gate",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-ithaca-gate.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-pylos",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-pylos.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-ithaca-harbour",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-ithaca-harbour.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-athena-cave",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-athena-cave.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-eumaeus-hut",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-eumaeus-hut.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-palace-hall",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-palace-hall.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-palace-yard",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-palace-yard.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-storeroom",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-storeroom.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-olive-bed",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-olive-bed.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-laertes-farm",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-laertes-farm.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-assembly",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-assembly.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-scheria-beach",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-scheria-beach.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-athena-grove",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-athena-grove.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-phaeacian-harbour",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-phaeacian-harbour.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-acheron",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-acheron.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-sacrifice-pit",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-sacrifice-pit.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-asphodel",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-asphodel.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-loc-hades-house",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/location/loc-hades-house.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-1",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-1.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-2",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-2.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-3",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-3.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-4",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-4.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-5",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-5.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-6",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-6.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-7",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-7.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-8",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-8.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-9",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-9.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-lore-10",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/lore/lore-10.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-faction-household",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/faction/faction-household.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-faction-phaeacians",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/faction/faction-phaeacians.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-faction-olympians",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/faction/faction-olympians.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
+    },
+    {
+      "id": "odyssey-image-unique-faction-loyalists",
+      "worldId": "odyssey-world",
+      "mimeType": "image/jpeg",
+      "url": "library/the-odyssey/art/unique/faction/faction-loyalists.jpg",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000
     }
   ],
   "loreCategories": [
@@ -9284,7 +9908,7 @@
       "title": "The Poem’s Two Temporal Layers",
       "body": "Books 1–8 and 13–24 follow the final return; Books 9–12 are Odysseus’s retrospective account at Scheria.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-homecoming",
+      "coverImageId": "odyssey-image-unique-lore-1",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-020"
     },
@@ -9297,7 +9921,7 @@
       "title": "Nostos",
       "body": "Homecoming means more than arrival: identity, household authority, kinship, and civic order must all be restored.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-bow",
+      "coverImageId": "odyssey-image-unique-lore-2",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-001"
     },
@@ -9310,7 +9934,7 @@
       "title": "Athena and Poseidon",
       "body": "The poem balances Athena’s intelligent aid against Poseidon’s elemental obstruction.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-athena",
+      "coverImageId": "odyssey-image-unique-lore-3",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-001"
     },
@@ -9323,7 +9947,7 @@
       "title": "Zeus and Responsibility",
       "body": "Divine decisions frame events, yet the poem repeatedly insists that mortals worsen suffering through their own recklessness.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-zeus",
+      "coverImageId": "odyssey-image-unique-lore-4",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-001"
     },
@@ -9336,7 +9960,7 @@
       "title": "Xenia",
       "body": "Guest-friendship requires welcome, food, inquiry, gifts, and safe departure; its observance or violation organizes the moral geography.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-phaeacia",
+      "coverImageId": "odyssey-image-unique-lore-5",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-002"
     },
@@ -9349,7 +9973,7 @@
       "title": "The Ithacan Household",
       "body": "The palace is an economic, familial, and political institution, not merely a private residence.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-suitors",
+      "coverImageId": "odyssey-image-unique-lore-6",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-003"
     },
@@ -9362,7 +9986,7 @@
       "title": "Phaeacia",
       "body": "Scheria is a liminal ideal of navigation, song, craft, and hospitality that returns Odysseus to ordinary human society.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-alcinous",
+      "coverImageId": "odyssey-image-unique-lore-7",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-014"
     },
@@ -9375,7 +9999,7 @@
       "title": "The Underworld",
       "body": "The dead offer prophecy and memory but also expose the poverty of heroic glory after life.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-underworld",
+      "coverImageId": "odyssey-image-unique-lore-8",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-032"
     },
@@ -9388,7 +10012,7 @@
       "title": "The Bow and the Bed",
       "body": "The bow proves public mastery; the rooted bed proves private identity and marital knowledge.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-bow",
+      "coverImageId": "odyssey-image-unique-lore-9",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-064"
     },
@@ -9401,7 +10025,7 @@
       "title": "Signs of Recognition",
       "body": "The scar, brooch, dog, orchard trees, and bed each authenticate identity for a different relationship.",
       "tags": [],
-      "coverImageId": "odyssey-image-art-eurycleia",
+      "coverImageId": "odyssey-image-unique-lore-10",
       "linkedEntityIds": [],
       "visibleFromEventId": "odyssey-event-066"
     },
@@ -9428,7 +10052,7 @@
       "name": "House of Odysseus",
       "description": "The royal family and servants seeking restoration of the household.",
       "color": "#54745f",
-      "coverImageId": "odyssey-image-art-homecoming",
+      "coverImageId": "odyssey-image-unique-faction-household",
       "tags": []
     },
     {
@@ -9461,7 +10085,7 @@
       "name": "Phaeacians",
       "description": "Seafaring hosts whose final gift is a safe passage home.",
       "color": "#4b7691",
-      "coverImageId": "odyssey-image-art-phaeacia",
+      "coverImageId": "odyssey-image-unique-faction-phaeacians",
       "tags": []
     },
     {
@@ -9472,7 +10096,7 @@
       "name": "Olympian Gods",
       "description": "Divine powers debating, assisting, obstructing, and judging the return.",
       "color": "#9c8445",
-      "coverImageId": "odyssey-image-art-athena",
+      "coverImageId": "odyssey-image-unique-faction-olympians",
       "tags": []
     },
     {
@@ -9483,7 +10107,7 @@
       "name": "Ithacan Loyalists",
       "description": "Servants who preserve loyalty despite twenty years of uncertainty.",
       "color": "#6f8050",
-      "coverImageId": "odyssey-image-art-eumaeus",
+      "coverImageId": "odyssey-image-unique-faction-loyalists",
       "tags": []
     }
   ],
