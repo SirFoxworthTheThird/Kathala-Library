@@ -64,7 +64,7 @@ for (const { id, short } of books) {
   const entry = index.entries.find((item) => item.id === id);
   if (!entry) throw new Error(`${id}: missing catalogue entry`);
   entry.cover = manifest.assets.find((asset) => asset.kind === 'cover' && asset.slots.some((slot) => slot.book === id)).path;
-  entry.notice = 'Unofficial, fan-made reference. Structural notes only; no book text is included. Original book-based illustrations are shared where appropriate across the two volumes, with no repeated illustration within either book. Existing map layers remain available. Not affiliated with or endorsed by the author or publisher.';
+  entry.notice = 'Unofficial, fan-made reference. Structural notes only; no text from the book is included. Original book-based illustrations are shared where appropriate across the two volumes, with no repeated illustration within either book. Existing map layers remain available. Not affiliated with or endorsed by the author or publisher.';
   console.log(`${id}: ${generated.length} unique illustration refs; ${pwb.blobs.length} map blobs retained.`);
 }
 fs.writeFileSync(indexPath, JSON.stringify(index, null, 2) + '\n');

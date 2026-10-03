@@ -104,7 +104,7 @@ describe.each(FILES)('%s map scales', (_name, raw) => {
     // script this pass could not read, and whose stored number was wrong by
     // two to three orders of magnitude under either reading of it.
     const unscaled = all.filter((l) => l.scalePixelsPerUnit == null).map((l) => l.name).sort()
-    expect(unscaled).toEqual(['Endoras', 'Rivendell'])
+    expect(unscaled).toEqual(['Edoras', 'Rivendell'])
   })
 })
 
