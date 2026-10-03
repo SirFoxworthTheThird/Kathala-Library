@@ -133,18 +133,19 @@
       "author": "J.R.R. Tolkien",
       "blurb": "The Ring leaves the Shire. Track the Fellowship across Eriador and Moria, and see who knows what, and when.",
       "data": "the-fellowship-of-the-ring.pwk",
-      "dataBytes": 587364,
+      "dataBytes": 607899,
       "counts": {
         "characters": 45,
         "chapters": 22,
         "events": 91,
         "locations": 109
       },
-      "notice": "Unofficial, fan-made reference. Structural notes only — no text from the book is included. Not affiliated with or endorsed by the author or publisher.",
+      "notice": "Unofficial, fan-made reference. Structural notes only; no text from the book is included. Original book-based illustrations are shared where appropriate across the two volumes, with no repeated illustration within either book. Existing map layers remain available. Not affiliated with or endorsed by the author or publisher.",
       "images": "the-fellowship-of-the-ring.pwb",
-      "imagesBytes": 15352825,
+      "imagesBytes": 7918705,
       "worldId": "aX-7torL9Na4l4UvyLWIP",
-      "hasProse": false
+      "hasProse": false,
+      "cover": "library/lotr-shared-art/generated/covers/001-the-fellowship-of-the-ring.jpg"
     },
     {
       "id": "frankenstein",
@@ -730,18 +731,19 @@
       "author": "J.R.R. Tolkien",
       "blurb": "The Fellowship is broken. Follow three separate journeys as they diverge across Rohan, Fangorn and the Emyn Muil.",
       "data": "the-two-towers.pwk",
-      "dataBytes": 537183,
+      "dataBytes": 559635,
       "counts": {
         "characters": 67,
         "chapters": 21,
         "events": 93,
         "locations": 123
       },
-      "notice": "Unofficial, fan-made reference. Structural notes only — no text from the book is included. Not affiliated with or endorsed by the author or publisher.",
+      "notice": "Unofficial, fan-made reference. Structural notes only; no text from the book is included. Original book-based illustrations are shared where appropriate across the two volumes, with no repeated illustration within either book. Existing map layers remain available. Not affiliated with or endorsed by the author or publisher.",
       "images": "the-two-towers.pwb",
-      "imagesBytes": 11918280,
+      "imagesBytes": 7918693,
       "worldId": "mOlU8GWK_NGtK-STFFtqC",
-      "hasProse": false
+      "hasProse": false,
+      "cover": "library/lotr-shared-art/generated/covers/174-the-two-towers.jpg"
     },
     {
       "id": "the-war-of-the-worlds",

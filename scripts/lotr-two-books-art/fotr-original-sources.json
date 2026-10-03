@@ -1,0 +1,954 @@
+{
+  "book": "the-fellowship-of-the-ring",
+  "note": "Superseded linked and embedded illustration metadata. Embedded bytes remain recoverable from Git history; map blobs remain active in the PWB.",
+  "linkedBlobs": [
+    {
+      "id": "fotr-location-image-moriaApproach",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2020/12/TN-The-Fellowship-Approaches-Moria.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-blackGate",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2017/04/TN-Battle_of_the_Black_Gate.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-barrow",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Under_the_Spell_of_the_Barrow-wight.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-edoras",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2019/03/TN-Approaching_Edoras.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-carrock",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-Eagles_to_the_Carrock.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-mountDoom",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-At_the_Foot_of_Mount_Doom.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-bruinen",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Riders_at_The_Ford.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-rohan",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-The_Riders_of_Rohan.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-rivendell",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Rivendell.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-greenCountry",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Green_Hill_Country.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-minasTirith",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Minas_Tirith_at_Dawn.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-mordor",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Across_Gorgoroth.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-eriadorRoad",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Fifth_Day_After_Weathertop.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-dolAmroth",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2018/05/TN-Dol_Amroth.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-highPass",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-Goblin_Gate.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-prancingPony",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-At_the_Sign_of_the_Prancing_Pony.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-moriaPassword",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Password_Into_Moria.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-balrog",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_Balrog.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-bagEnd",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-The_Unexpected_Party.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-shelob",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-Shelob.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-lorienForest",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Frodo_and_Haldir_in_Lothlorien.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-rivendellValley",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Fair_Valley_of_Rivendell.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-hennethAnnun",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-The_Terrace_at_Henneth_Annun.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-greenMorning",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Green_Hill_Morning.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-citadel",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-At_the_Court_of_the_Fountain.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-cracksDoom",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-At_the_Cracks_of_Doom.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-moriaGate",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2021/02/TN-Moria-Gate-2021.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-wellinghall",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-Wellinghall.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-leavingShire",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Leaving_the_Shire.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-baradDur",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2018/05/TN-Rangers_Scout_the_Ruins_of_Barad-dur.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-woodyEnd",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Elves_in_the_Woody_End.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-fangorn",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-Fangorn_Forest.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-pathsDead",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_King_of_the_Oathbreakers.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-mirkwood",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-Entering_Mirkwood.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-oldForest",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Beyond_the_Old_Forest.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-crossroads",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-At_the_Cross-roads.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-longLake",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-Barrel_Rider.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-rathDinen",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_Domes_of_the_Dead.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-shireArrival",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2024/04/TN-Arrival-in-the-Shire.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-tolBrandir",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Tol_Brandir.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-argonath",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_Argonath.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-willow",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_Willow-man_is_Tamed.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-caras",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2018/05/TN-Arrival_at_Caras_Galadhon.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-dimrill",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2018/08/TN-Durins_Crown_and_the_Mirrormere.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-carasTree",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_Great_Tree_at_Caras_Galadhon.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-anduin",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Farewell_to_Lorien.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-pillars",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_Pillars_of_The_Kings.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-trollshaws",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-A_Song_in_The_Trollshaws.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-rhosgobel",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2019/02/TN-Rhosgobel.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-khazadBridge",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-At_The_Bridge.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-weathertop",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Fire_on_Weathertop.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-caradhras",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Company_Attempts_the_Pass_of_Caradhras.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-isengard",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-The_Wrath_of_the_Ents.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-minasMorgul",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-The_Tower_of_the_Moon.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-dale",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2018/05/TN-Smaug_Atop_Erebor.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-hobbiton",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Last_Sight_of_Hobbiton.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-location-image-marshes",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/08/TN-Through_the_Marshes.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-billFerny",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://hallofbeorn.com/Images/Cards/Murder-at-the-Prancing-Pony/Bill-Ferny.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-deagol",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-Farewell_to_Lorien.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-elendil",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_Ships_of_the_Faithful.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-erestor",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/png",
+      "url": "https://ringsdb.com/bundles/cards/10084.png",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-galdor",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/png",
+      "url": "https://ringsdb.com/bundles/cards/10091.png",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-gilGalad",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/png",
+      "url": "https://ringsdb.com/bundles/cards/08007.png",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-gloin",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/png",
+      "url": "https://ringsdb.com/bundles/cards/01003.png",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-gwaihir",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/png",
+      "url": "https://ringsdb.com/bundles/cards/08059.png",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-harryGoatleaf",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/png",
+      "url": "https://ringsdb.com/bundles/cards/303073.png",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-isildur",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://www.tednasmith.com/wp-content/uploads/2012/07/TN-The_Pillars_of_The_Kings.jpg",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-radagast",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/png",
+      "url": "https://ringsdb.com/bundles/cards/19145.png",
+      "createdAt": 1785974400000
+    },
+    {
+      "id": "fotr-character-art-saruman",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/png",
+      "url": "https://ringsdb.com/bundles/cards/07003.png",
+      "createdAt": 1785974400000
+    }
+  ],
+  "embeddedArt": [
+    {
+      "id": "-8NmjfktBL7DYGDGh09dp",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160958241,
+      "dataSha256": "43416d2053cd5de49c47ed582455216875b0669e314a7d668fa56ce1ff2a6e9f"
+    },
+    {
+      "id": "-eYCHwFOfIY78wr1jyjnN",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775159857129,
+      "dataSha256": "f6cc25bf029372fbef94ebf2970407aae534036d599d40eaac4f735040e649ff"
+    },
+    {
+      "id": "3bgpvOYipJIvS73dDpJpD",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160990904,
+      "dataSha256": "4628a173095a29de15537ec5a397e14c74637d09f166d7ae39cb6d49ef95f302"
+    },
+    {
+      "id": "3eXIjwrujsSsVdj72A4V-",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775102915874,
+      "dataSha256": "e9f6c0d71be3a614e571ae4160e5811cebfcbf131d604ff527fae5f999674fe1"
+    },
+    {
+      "id": "3l_LjtzwVJJ5giIkwsa7-",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160325911,
+      "dataSha256": "f6cc25bf029372fbef94ebf2970407aae534036d599d40eaac4f735040e649ff"
+    },
+    {
+      "id": "4gZO_BJjYPD96-y78gxtc",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775084080338,
+      "dataSha256": "3e0e86549a3c8ffb133f64c7270bff49927ba7c3e2251f3b94e0ee6a56798556"
+    },
+    {
+      "id": "5Bn5zVG_qFWW0kq0mnZxi",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101344604,
+      "dataSha256": "222d64bf35852a29e80d19856f649ebb11e270d5fed6fe29d9658d2539dd8465"
+    },
+    {
+      "id": "5T_e1L_KpOTMBonXNDkaM",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160297343,
+      "dataSha256": "44b2c9b14fa8adb54423f45e0045467874bdcc96d60e9a2ddd70b1bffcdba7a9"
+    },
+    {
+      "id": "60EarnQw0XnS__A1hXKko",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775078096079,
+      "dataSha256": "de677e2f5a9883ebae19df592991e1f0c22cf98d4243a73a9ff695d9c5f33688"
+    },
+    {
+      "id": "7A2vfM5_liTMdrWNCwOsP",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775155213782,
+      "dataSha256": "1091fbae00dc66c1dc7983b02cf9401caa5af06c887e3e0ec203c2cd67a951f0"
+    },
+    {
+      "id": "7TBanZlcWIyttjeGRiAYh",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160925325,
+      "dataSha256": "2ee88c302618600002cd97fcd869155d4d6789ffc3fb303c7946fe3cd3aa2e74"
+    },
+    {
+      "id": "8Y_2hntMIgLZwxTe_HAtb",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101629830,
+      "dataSha256": "194ecfd6eff41a473973371e75ad47db9fe8ee0e987a0765ce6e364aed22dc90"
+    },
+    {
+      "id": "B_tWPUG5Cj0HDyFL2Pp6g",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775156390289,
+      "dataSha256": "3030213ce4fca0fafe842b055ac485dd8978c186aa545c323b79292dde6eef12"
+    },
+    {
+      "id": "D2_v_tiib4flXNFTZnnMr",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775155959378,
+      "dataSha256": "572c8d720cf4bd05427167e1bc8a201a3f64dbb156a6429afacb791c954a3afd"
+    },
+    {
+      "id": "Ew46p2MNYr3PoFMs12_TS",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775159428244,
+      "dataSha256": "e0e53b622851cf600a58ac229be6773d2d7e63376701b95fcfb3add51d4f812d"
+    },
+    {
+      "id": "EyxuDciwrn2YN5CvM7tDQ",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775156540859,
+      "dataSha256": "3030213ce4fca0fafe842b055ac485dd8978c186aa545c323b79292dde6eef12"
+    },
+    {
+      "id": "FLUtlSCAjx0Z7lpooYK5j",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775103106245,
+      "dataSha256": "7e215f1656a8a02ea27682416dc554b743a073128e71a4b42a2cfda1bdf4c89d"
+    },
+    {
+      "id": "FxBnVNlUS72huju8Rruso",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775083637421,
+      "dataSha256": "2779eab746abe76329ac71fd2ac55dfbe75d801f017a86b84cd207b582ed1520"
+    },
+    {
+      "id": "G33BzIk-8NvtJN06X763m",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101467533,
+      "dataSha256": "6b00b404616ade0802f2ec52965277a18bb4e651fedab4415a6ca95d5d0bc810"
+    },
+    {
+      "id": "GtFn_k_8ECJ1xEVirx_wg",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775161037425,
+      "dataSha256": "7f95917a10f11077e17ce1fe7c41d3ce02d3ce25898474356eb1589f2f026ba3"
+    },
+    {
+      "id": "Hkj64xL86XLzGNnuVAoJc",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101423090,
+      "dataSha256": "8479d469010f6e49938c7ac2cd080276e3ce127516907d497fd7b17bce9766b4"
+    },
+    {
+      "id": "JbYUPF6bwaN1lQvGvBIQP",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775157324978,
+      "dataSha256": "d8b40d375647658bf846bc77ea4249b0ed3e43b482f7070dcbdf2838bf547b34"
+    },
+    {
+      "id": "M-_iSxKLPZPAqYHr7IMFL",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775102619842,
+      "dataSha256": "69468ec9817ab6dcee736334a3fa95e3c2e19bace8511911d52a73334a2bac9e"
+    },
+    {
+      "id": "MA4OtrG5WAR_tCXnuqiLU",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775159205387,
+      "dataSha256": "ca61a7b27d28147f6674201a39c8fdf7964fbedc9d0ab59bd91a54194bb0981b"
+    },
+    {
+      "id": "MGjzAaFjW1TbVuL3p5YFF",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775075892525,
+      "dataSha256": "8905cc2729076232fa8ffa243f7fddfa8539045dfc1ea509d3aac60883dc17ca"
+    },
+    {
+      "id": "NORrHsWT70EsQIguUqbVQ",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775158916829,
+      "dataSha256": "ca61a7b27d28147f6674201a39c8fdf7964fbedc9d0ab59bd91a54194bb0981b"
+    },
+    {
+      "id": "P1Rwg9Cgk0IAYxH-jm8PJ",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775161064592,
+      "dataSha256": "1685c177f3f6e91addb4f3be19af23d4987a1ff23f2162ca5c95c6311451a71e"
+    },
+    {
+      "id": "PD-br3dz_zDqUFBBSJpLA",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775102241962,
+      "dataSha256": "cc54a0f42c9fce5461528eb58597fecf3fd2ba5a9aca23d8fbd3388069e3f92a"
+    },
+    {
+      "id": "QPjwejZ87EJjZ0Xes46SX",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775155616125,
+      "dataSha256": "d5ac4388902b201becdc8a8eb7764c39c0ac63d37028b3124eb5033f3852ba9e"
+    },
+    {
+      "id": "RnPVKD2rwyVUHmKx4Hinp",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101846015,
+      "dataSha256": "97bddf64a5cc2f97468fccd674dd7bd199c9e374ee65e28fcac49df456f8c0d3"
+    },
+    {
+      "id": "S-yKbkRnodWpiocnrW1tI",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775156550026,
+      "dataSha256": "294841459260849f546f7ce15c677647525cc019d8b18383008502cfcde51c12"
+    },
+    {
+      "id": "UWaCKGC4KN7VQc8t_FVec",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160487387,
+      "dataSha256": "f8d1db302fe1c8ba3f9e9dc86973ebef7cb34204d85d32c3b813cf07311505d7"
+    },
+    {
+      "id": "Um_gSChkqRXCvjboE21dG",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775102277959,
+      "dataSha256": "a2c329affc8a5dacb58c026c8377fccb652f7733e17d8221dda14b1359372867"
+    },
+    {
+      "id": "WvHckGrBAchJ65_g4ObVA",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775161014592,
+      "dataSha256": "7229464c246b3c69a57a4658f930dd7539ee4b1c2943ae5b221662b0770b7445"
+    },
+    {
+      "id": "YhqWLT0z5cWjashagOxew",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775155682272,
+      "dataSha256": "0438ffec1d2fb6a1867281b3d339b897a50b6d7a63b4e588e17e1b1a73ae701b"
+    },
+    {
+      "id": "aLFUSNvbrK0cun4BwZDsq",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "url": "https://i.guim.co.uk/img/media/80f853cefe7a8ce9e0b72c958d80de466fddbb82/179_957_1903_1141/master/1903.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=24e3529cf336e4ce896b0598a04e1df7",
+      "createdAt": 1784550229996,
+      "dataSha256": null
+    },
+    {
+      "id": "aR0olOyPg1U6YTh3OJ1_I",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775157426778,
+      "dataSha256": "afaa6511fd8dac6a389f7876924b2ac773fdd10280bfcd89441cf42f9c1aeeaa"
+    },
+    {
+      "id": "arSHQp3V3QJzijFkSR5mE",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775123754188,
+      "dataSha256": "7ab54491a14f0f892842cbc0e859c2bc81e0f62c49705c13be1ecf08cbdc5db5"
+    },
+    {
+      "id": "bbHqZSGJ_HIgjWmSN20aK",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160440679,
+      "dataSha256": "de75189114a81a20183b9d9748b91c4142db85bdec11ca696c8edd1f6f816902"
+    },
+    {
+      "id": "bvo1Gbm_DdUbjgMhy6efg",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101230968,
+      "dataSha256": "076f0631c6ff3e66bcaf6565fd7f5b3083ce90c56da8112b80e7b44b5d59c4d3"
+    },
+    {
+      "id": "cDuEFI9kcaURAtrwJmuKl",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101385122,
+      "dataSha256": "ee0b3560c7bbe4347e3ee9a159c2ff9b4d2a84c102c5bdf0c510d3afc0775f26"
+    },
+    {
+      "id": "cw21Qw9ulQAb8YC0NMxdP",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775159832867,
+      "dataSha256": "44b2c9b14fa8adb54423f45e0045467874bdcc96d60e9a2ddd70b1bffcdba7a9"
+    },
+    {
+      "id": "dlesf6BfeTxIyx7_bI1W0",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775156893487,
+      "dataSha256": "d7825b252907f40749c723d968a5c1e16624d990523a05189ef1516fe9c2892a"
+    },
+    {
+      "id": "hFuM2j7UKaXoDupE4HHLq",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775156931484,
+      "dataSha256": "3e50a1d65e34a7bb9a90ccf28a082af2db0d565e0bac453fc203a27c0d4f7365"
+    },
+    {
+      "id": "hekwvimeGXY6nVpbl8eY2",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775123585624,
+      "dataSha256": "7ab54491a14f0f892842cbc0e859c2bc81e0f62c49705c13be1ecf08cbdc5db5"
+    },
+    {
+      "id": "hvE0nPXphaWcNqhKzylr6",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775159493008,
+      "dataSha256": "304303b75e1b0b697d7e3689f496ce6498f80c75d03afa5c4d895744b7728452"
+    },
+    {
+      "id": "k9jHT9xibObv-0jsQR9GV",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775157266525,
+      "dataSha256": "fa0201ce6a56738b0fe837e8c71ab2414883e9d2399c7aab28f8797bece0dc07"
+    },
+    {
+      "id": "lgJRpp9T9aLTQhtp0lR1L",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775156965535,
+      "dataSha256": "6cd517c5b484bfdbf3d44fe30b41259927326c0482b7a5a8c07b792c58422d66"
+    },
+    {
+      "id": "nNGRKFws4VYEPXYIXPsLW",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101303451,
+      "dataSha256": "c7d0de3f8d47f571c4c662b3288dd94cf564fd4b51000099b9b1b9efa1c5785f"
+    },
+    {
+      "id": "nji9vH_8ZE7aURLJWNfU-",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160334293,
+      "dataSha256": "224ca68fa72735b73a8d1075712f6577eb9280119d3aff5444c51a43bd26246e"
+    },
+    {
+      "id": "nscbbpOsj5vA3aZ4nmPIo",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775123903606,
+      "dataSha256": "e50787f9cea75d99bb05e2c9ecd86e0ed03216d0e9a5d5a518a4ed6e8a0ad996"
+    },
+    {
+      "id": "o51cyQAwx23V0ecw_Ewhb",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775156276104,
+      "dataSha256": "294841459260849f546f7ce15c677647525cc019d8b18383008502cfcde51c12"
+    },
+    {
+      "id": "pB1uNWhLOhhTw_hKQb8l9",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775155720590,
+      "dataSha256": "572c8d720cf4bd05427167e1bc8a201a3f64dbb156a6429afacb791c954a3afd"
+    },
+    {
+      "id": "plMi9iOxFgsM2PNGu5wlK",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775083520420,
+      "dataSha256": "754b5a44e676e587b4d9398fb84850ce4598c4eefd68e7c92d83281ea3a46430"
+    },
+    {
+      "id": "po_Qh66bH-nrHPOjcxSy2",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775123812357,
+      "dataSha256": "6451d3c43ebff87cb2d52b4e8bacdb504fbcd32bca6267ddf3f7af75ab714294"
+    },
+    {
+      "id": "rVKYAwXF9I5u0515BweOd",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775155952878,
+      "dataSha256": "0438ffec1d2fb6a1867281b3d339b897a50b6d7a63b4e588e17e1b1a73ae701b"
+    },
+    {
+      "id": "r_2Xi_O3oOYWg7v5ayJzs",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775155945297,
+      "dataSha256": "d5ac4388902b201becdc8a8eb7764c39c0ac63d37028b3124eb5033f3852ba9e"
+    },
+    {
+      "id": "rqqcBH9U3Yc-jGdaRTsCq",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101514143,
+      "dataSha256": "e7ade6afb9ff0c7e26d87217fe39b203364765c8a24e6bfa1a04f48d30df4c4c"
+    },
+    {
+      "id": "utBmPle9EMGDF1MN6BuD2",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775083326497,
+      "dataSha256": "d5ab15566726c8fafd2daee7ee08fe39b088736ff97b6bcba89567adf30917ff"
+    },
+    {
+      "id": "vO5MIN-jOEOoOV2Po7eh4",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775083394512,
+      "dataSha256": "95044e955d312c2c573340eee2b07d1d092d371a544f1c0d2a18e946ee84d017"
+    },
+    {
+      "id": "w9bUT3rKVZ8ItCTeFK5OI",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775101565393,
+      "dataSha256": "1be86d2174930fdc8fe2d537eaf7d4dc45de55099695ab03cd46220acfacf24b"
+    },
+    {
+      "id": "wA5wJpJQ7kWPA2y4GwHDu",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775157373627,
+      "dataSha256": "c7cb7677d17e1f39be24c418045d5b387374f8d735f4fc18e63b2de1d778d832"
+    },
+    {
+      "id": "w_UYl6tvnlxK8CHLXwvp4",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775160889872,
+      "dataSha256": "609cf945645ef97a460e6c81d60a64a8f73a39e9812f22b9740f51e347d638c6"
+    },
+    {
+      "id": "ykuGV8vJZQkmrB1m2_lGQ",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775103081614,
+      "dataSha256": "7d76fafcd3cb5e8475400515ee1fb6743a3647749a52c56c6861e3d76e9a0bef"
+    },
+    {
+      "id": "zcOuPCim2AdgD9SrAm4yy",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775124182629,
+      "dataSha256": "ec1a20941a0d1919037bec764ba4d059d9544744501a21c39ee7a35423099201"
+    },
+    {
+      "id": "zy4EzeCVseCuCO0HfEPKs",
+      "worldId": "aX-7torL9Na4l4UvyLWIP",
+      "mimeType": "image/jpeg",
+      "createdAt": 1775159911789,
+      "dataSha256": "224ca68fa72735b73a8d1075712f6577eb9280119d3aff5444c51a43bd26246e"
+    }
+  ]
+}
