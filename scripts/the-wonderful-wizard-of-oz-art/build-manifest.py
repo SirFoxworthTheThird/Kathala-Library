@@ -54,12 +54,12 @@ for map_layer in data["mapLayers"]:
         "height": map_layer["imageHeight"],
         "blobId": old_id,
         "oldUrl": blobs[old_id]["url"],
-        "newUrl": None if map_layer["id"] == "oz-map-kansas" else f"library/the-wonderful-wizard-of-oz/maps/generated/{map_layer['id'].removeprefix('oz-map-')}.png",
+        "newUrl": ("library/the-wonderful-wizard-of-oz/maps/kansas.jpg" if map_layer["id"] == "oz-map-kansas" else f"library/the-wonderful-wizard-of-oz/maps/generated/{map_layer['id'].removeprefix('oz-map-')}.jpg"),
     })
 
 manifest = {
     "title": data["world"]["name"],
-    "policy": "Original book-faithful art; one distinct image per visible slot; no film character designs, green-skinned witch, or ruby shoes. Replace six owner-supplied maps containing film or later-book material; retain the book-faithful Kansas map.",
+    "policy": "Original book-faithful art; one distinct image per visible slot; no film character designs, green-skinned witch, or ruby shoes. Nine painted literary maps, including Kansas, replace the earlier diagram maps.",
     "slots": slots,
     "maps": maps,
     "oldBlobCount": len(blobs),

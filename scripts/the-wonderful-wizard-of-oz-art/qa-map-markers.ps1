@@ -11,7 +11,7 @@ foreach ($layer in $book.mapLayers) {
     try {
         $graphics = [System.Drawing.Graphics]::FromImage($bitmap)
         try {
-            $scale = if ($layer.imageWidth -gt 1500) { 2 } else { 1 }
+            $scale = 1.25
             $font = [System.Drawing.Font]::new('Arial', 14 * $scale, [System.Drawing.FontStyle]::Bold)
             $fill = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(232, 255, 255, 235))
             $ink = [System.Drawing.SolidBrush]::new([System.Drawing.Color]::FromArgb(145, 25, 20))
@@ -28,7 +28,11 @@ foreach ($layer in $book.mapLayers) {
                 }
             } finally { $font.Dispose(); $fill.Dispose(); $ink.Dispose(); $ring.Dispose() }
         } finally { $graphics.Dispose() }
-        $name = ($layer.id -replace '^oz-map-', '') + '-markers.png'
-        $bitmap.Save((Join-Path $out $name), [System.Drawing.Imaging.ImageFormat]::Png)
+        $name = ($layer.id -replace '^oz-map-', '') + '-markers.jpg'
+        $encoder = [System.Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object MimeType -eq 'image/jpeg'
+        $options = [System.Drawing.Imaging.EncoderParameters]::new(1)
+        $options.Param[0] = [System.Drawing.Imaging.EncoderParameter]::new([System.Drawing.Imaging.Encoder]::Quality, [long]88)
+        try { $bitmap.Save((Join-Path $out $name), $encoder, $options) }
+        finally { $options.Dispose() }
     } finally { $bitmap.Dispose() }
 }

@@ -6,6 +6,6 @@ Common direction: an original turn-of-the-century children’s book illustration
 
 Specific character anchors: the West Witch is an elderly woman with one powerful eye, ordinary human skin and the Yellow Castle; Glinda has long red curls, a white dress, blue eyes and a ruby throne; the North Witch has a starry white gown and white hat. The Silver Shoes item is a close still life of silver shoes with no dark or ruby shoes elsewhere in frame.
 
-Map direction: derive a cartographic interpretation from Baum’s first book, with a desert enclosing Oz, blue Munchkin East, yellow Winkie West, red Quadling South, a neutral northern region, a single Emerald City gate, and no film character vignettes or sequel names. Preserve useful reader navigation without implying canonical distance or floor plans. Map SVGs are built by `build-maps.mjs` and rasterized by `render-maps.ps1`.
+Map direction and the nine painted assets are documented in `MAP-PROMPTS.md`. They use the same built-in imagegen route as the book illustrations, with no CLI fallback. The map pins are positioned on the finished paintings by `place-map-markers.mjs`.
 
 Visual review: contact sheets in `qa/contact-sheets`; all categories reviewed. Replaced the first Silver Shoes result after spotting dark shoes in its background. Final art paths and status are in the manifest. Original Denslow and map sources are recorded in `ORIGINAL-SOURCES.md` and `original-sources.json`.

@@ -1,6 +1,6 @@
 {
   "title": "The Wonderful Wizard of Oz",
-  "policy": "Original book-faithful art; one distinct image per visible slot; no film character designs, green-skinned witch, or ruby shoes. Replace six owner-supplied maps containing film or later-book material; retain the book-faithful Kansas map.",
+  "policy": "Original book-faithful art; one distinct image per visible slot; no film character designs, green-skinned witch, or ruby shoes. Nine painted literary maps, including Kansas, replace the earlier diagram maps.",
   "slots": [
     {
       "number": 1,
@@ -1505,83 +1505,83 @@
     {
       "mapId": "oz-map-oz",
       "name": "The Land of Oz",
-      "width": 1024,
-      "height": 559,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-oz",
       "oldUrl": "library/the-wonderful-wizard-of-oz/maps/land-of-oz.jpg",
-      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/oz.png"
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/oz.jpg"
     },
     {
       "mapId": "oz-map-kansas",
       "name": "The Kansas Prairie",
-      "width": 1300,
-      "height": 900,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-kansas",
       "oldUrl": "library/the-wonderful-wizard-of-oz/maps/kansas.png",
-      "newUrl": null
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/kansas.jpg"
     },
     {
       "mapId": "oz-map-emerald-city",
       "name": "The Emerald City",
-      "width": 1024,
-      "height": 559,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-emerald-city",
       "oldUrl": "library/the-wonderful-wizard-of-oz/maps/emerald-city.jpg",
-      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/emerald-city.png"
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/emerald-city.jpg"
     },
     {
       "mapId": "oz-map-palace",
       "name": "The Palace of Oz",
-      "width": 1024,
-      "height": 559,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-palace",
       "oldUrl": "library/the-wonderful-wizard-of-oz/maps/palace-of-oz.jpg",
-      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/palace.png"
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/palace.jpg"
     },
     {
       "mapId": "oz-map-yellow-castle",
       "name": "The Yellow Castle of the West",
-      "width": 2048,
-      "height": 1117,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-yellow-castle",
       "oldUrl": "library/the-wonderful-wizard-of-oz/maps/yellow-castle.jpg",
-      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/yellow-castle.png"
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/yellow-castle.jpg"
     },
     {
       "mapId": "oz-map-china-country",
       "name": "The Dainty China Country",
-      "width": 1024,
-      "height": 559,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-china-country",
       "oldUrl": "library/the-wonderful-wizard-of-oz/maps/china-country.jpg",
-      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/china-country.png"
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/china-country.jpg"
     },
     {
       "mapId": "oz-map-glinda-castle",
       "name": "Glinda’s Castle",
-      "width": 1024,
-      "height": 559,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-glinda-castle",
       "oldUrl": "library/the-wonderful-wizard-of-oz/maps/glinda-castle.jpg",
-      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/glinda-castle.png"
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/glinda-castle.jpg"
     },
     {
       "mapId": "oz-map-eastern-road",
       "name": "The Eastern Road",
-      "width": 2048,
-      "height": 1117,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-eastern-road",
       "oldUrl": null,
-      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/eastern-road.png"
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/eastern-road.jpg"
     },
     {
       "mapId": "oz-map-southern-road",
       "name": "The Road South to Glinda",
-      "width": 2048,
-      "height": 1117,
+      "width": 1672,
+      "height": 941,
       "blobId": "oz-image-map-southern-road",
       "oldUrl": null,
-      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/southern-road.png"
+      "newUrl": "library/the-wonderful-wizard-of-oz/maps/generated/southern-road.jpg"
     }
   ],
   "oldBlobCount": 61

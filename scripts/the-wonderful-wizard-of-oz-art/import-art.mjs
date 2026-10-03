@@ -28,10 +28,13 @@ for (const map of manifest.maps) {
   const blob = book.blobs.find((entry) => entry.id === map.blobId);
   if (!blob) throw new Error(`Missing map blob: ${map.blobId}`);
   blob.url = map.newUrl;
-  blob.mimeType = 'image/png';
+  blob.mimeType = 'image/jpeg';
   blob.updatedAt = stamp;
+  const layer = book.mapLayers.find((entry) => entry.id === map.mapId);
+  layer.imageWidth = map.width;
+  layer.imageHeight = map.height;
 }
 book.lorePages.find((page) => page.id === 'oz-lore-pictures').body = 'The 107 pictures in this world were generated for this edition from the 1900 book text, then reviewed as a complete set. Each cover, portrait, item, place, faction and lore entry has its own image. Dorothy wears a blue-and-white checked dress and silver shoes; the Wicked Witch of the West has one powerful eye and no stated green skin; Glinda has red hair, a white dress and a ruby throne. The earlier public-domain Denslow illustrations remain documented in the source archive, but are no longer used by this edition.';
-book.lorePages.find((page) => page.id === 'oz-lore-maps').body = 'Baum published no map with the 1900 book, so these seven layers are editorial interpretations of the first story. The six Oz maps were redrawn for this edition from its geography: blue Munchkin East, yellow Winkie West, red Quadling South, one Emerald City gate, and the places Dorothy visits. The Kansas map remains from this world’s earlier edition. Interior layouts and marker coordinates help navigation but are not canonical floor plans or measured distances.';
+book.lorePages.find((page) => page.id === 'oz-lore-maps').body = 'Baum published no measured map with the 1900 book, so these nine painted layers are editorial interpretations. They follow the first story’s broad geography: blue Munchkin East, yellow Winkie West, red Quadling South, one Emerald City gate, Kansas, and the places Dorothy visits on her eastern and southern journeys. The interactive markers sit on visible landmarks. Exact distances and interior layouts are not canonical.';
 fs.writeFileSync(bookPath, JSON.stringify(book) + '\n');
 console.log(`Imported ${manifest.slots.length} distinct illustrations and ${manifest.maps.filter((map) => map.newUrl).length} maps.`);
