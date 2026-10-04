@@ -38,6 +38,24 @@
       "hasProse": true
     },
     {
+      "id": "black-arrow",
+      "title": "The Black Arrow: A Tale of the Two Roses",
+      "author": "Robert Louis Stevenson",
+      "blurb": "A young ward pursues the truth about his father's death as a forest company, a threatened marriage, and the Wars of the Roses draw him from Tunstall to Shoreby.",
+      "data": "black-arrow.pwk",
+      "dataBytes": 1083992,
+      "counts": {
+        "characters": 32,
+        "chapters": 33,
+        "events": 154,
+        "locations": 45
+      },
+      "notice": "Unofficial reading-mode edition of a public-domain novel. It retains the complete narrative, authorial dedication, prologue, five books, and endnotes from Project Gutenberg eBook #848; Gutenberg packaging and licence text are excluded. Editorial scenes, chronology, maps, and artwork provenance are documented in Lore.",
+      "worldId": "black-arrow-world",
+      "cover": "library/black-arrow/art/world.png",
+      "hasProse": true
+    },
+    {
       "id": "call-of-cthulhu",
       "title": "The Call of Cthulhu",
       "author": "H. P. Lovecraft",

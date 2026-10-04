@@ -1,0 +1,2 @@
+# Preserve Project Gutenberg's exact source bytes, including its line endings.
+scripts/black-arrow/source/pg848.txt -text -diff
