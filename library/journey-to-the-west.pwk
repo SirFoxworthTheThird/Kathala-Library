@@ -2561,7 +2561,35 @@
       "color": "#c9803a",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "jw-event-stone-monkey-born",
+          "name": "The Stone Monkey"
+        },
+        {
+          "eventId": "jw-event-waterfall-and-crown",
+          "name": "The Handsome Monkey King"
+        },
+        {
+          "eventId": "jw-event-subhuti-names-him",
+          "name": "Sun Wukong"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "The Handsome Monkey King",
+          "eventId": "jw-event-waterfall-and-crown"
+        },
+        {
+          "alias": "Great Sage Equal to Heaven",
+          "eventId": "jw-event-great-sage-titled"
+        },
+        {
+          "alias": "Pilgrim Sun",
+          "eventId": "jw-event-seal-peeled"
+        }
+      ]
     },
     {
       "worldId": "journey-to-the-west-world",
@@ -2579,7 +2607,35 @@
       "color": "#b8912f",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "jw-event-river-float",
+          "name": "River Float"
+        },
+        {
+          "eventId": "jw-event-mother-found",
+          "name": "Chen Xuanzang"
+        },
+        {
+          "eventId": "jw-event-pinch-of-dust",
+          "name": "Tripitaka"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "River Float",
+          "eventId": "jw-event-river-float"
+        },
+        {
+          "alias": "Chen Xuanzang",
+          "eventId": "jw-event-mother-found"
+        },
+        {
+          "alias": "The Tang Monk",
+          "eventId": "jw-event-pinch-of-dust"
+        }
+      ]
     },
     {
       "worldId": "journey-to-the-west-world",
@@ -2596,7 +2652,17 @@
       "color": "#8f5a4a",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "jw-event-zhu-converted",
+          "name": "Zhu Wuneng"
+        },
+        {
+          "eventId": "jw-event-rake-and-oath",
+          "name": "Zhu Bajie"
+        }
+      ]
     },
     {
       "worldId": "journey-to-the-west-world",
@@ -2613,7 +2679,13 @@
       "color": "#5a6e78",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "Sha Monk",
+          "eventId": "jw-event-gourd-and-skulls"
+        }
+      ]
     },
     {
       "worldId": "journey-to-the-west-world",

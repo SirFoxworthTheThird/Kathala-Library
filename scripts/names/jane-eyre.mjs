@@ -145,4 +145,9 @@ const courtship = [
 ]
 for (const [table, id, was, now] of courtship) w.set(table, id, table === 'chapters' ? 'synopsis' : 'description', was, now)
 
+// Chapter 33's synopsis is on screen from its first scene, one before the cousins.
+w.set('chapters', 'jane-eyre-chapter-33', 'synopsis',
+  'A torn scrap of paper connects Jane Elliott with the heiress sought by Briggs. John Eyre’s fortune belongs to Jane, and the Rivers siblings are revealed as her relatives.',
+  'A torn scrap of paper connects Jane Elliott with the heiress sought by Briggs. John Eyre’s fortune belongs to Jane, and St John has more to tell her.')
+
 w.save()

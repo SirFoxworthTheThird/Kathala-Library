@@ -42,4 +42,9 @@ w.set('lorePages', 'lotr-lore-bree', 'body',
   'Crossroads settlement where hobbits and Men live together and Frodo first meets Aragorn.',
   'Crossroads settlement where hobbits and Men live together and Frodo first meets Strider.')
 
+// Chapter 10's synopsis is on screen from its first scene, one before the letter.
+w.set('chapters', 'chap_10_strider', 'synopsis',
+  'Strider speaks to the Hobbits in their parlor, offering his protection and guidance. Barliman Butterbur remembers to deliver a letter from Gandalf, which confirms Strider\'s true identity as Aragorn. Merry rushes in with news that Black Riders are in Bree. The group decides to accept Strider\'s help and prepares to depart secretly.',
+  'Strider speaks to the Hobbits in their parlor, offering his protection and guidance. Barliman Butterbur remembers to deliver a long-delayed letter from Gandalf, which vouches for Strider. Merry rushes in with news that Black Riders are in Bree. The group decides to accept Strider\'s help and prepares to depart secretly.')
+
 w.save()

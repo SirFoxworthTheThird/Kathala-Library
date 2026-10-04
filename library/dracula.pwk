@@ -1227,7 +1227,8 @@
       "worldId": "dracula-1897-world",
       "name": "Count Dracula",
       "aliases": [
-        "The Count"
+        "The Count",
+        "Count de Ville"
       ],
       "description": "A Transylvanian nobleman and vampire who plans a migration to England.",
       "portraitImageId": "dracula-generated-character-002",
@@ -1239,7 +1240,13 @@
       "isAlive": false,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "Count de Ville",
+          "eventId": "dracula-event-61"
+        }
+      ]
     },
     {
       "id": "dracula-char-mina",
@@ -1259,7 +1266,19 @@
       "isAlive": true,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "dracula-event-26",
+          "name": "Mina Harker"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "Mina Harker",
+          "eventId": "dracula-event-26"
+        }
+      ]
     },
     {
       "id": "dracula-char-lucy",
@@ -1268,7 +1287,7 @@
       "aliases": [
         "The Bloofer Lady"
       ],
-      "description": "Mina’s closest friend, desired by three suitors and preyed upon by Dracula.",
+      "description": "Mina’s closest friend: lovely, merry, and proposed to by three suitors in a single day.",
       "portraitImageId": "dracula-generated-character-004",
       "color": "#d69aa7",
       "tags": [
@@ -1278,7 +1297,13 @@
       "isAlive": false,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "The Bloofer Lady",
+          "eventId": "dracula-event-43"
+        }
+      ]
     },
     {
       "id": "dracula-char-seward",
@@ -1323,7 +1348,8 @@
       "worldId": "dracula-1897-world",
       "name": "Arthur Holmwood",
       "aliases": [
-        "Lord Godalming"
+        "Lord Godalming",
+        "Arthur Holmwood"
       ],
       "description": "Lucy’s fiancé and heir to Lord Godalming, steady where his friends are clever.",
       "portraitImageId": "dracula-generated-character-007",
@@ -1335,7 +1361,19 @@
       "isAlive": true,
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "dracula-event-38",
+          "name": "Lord Godalming"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "Lord Godalming",
+          "eventId": "dracula-event-38"
+        }
+      ]
     },
     {
       "id": "dracula-char-quincey",
@@ -3380,7 +3418,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.000002,
-      "statusNotes": "Recognizes the attacks as evidence of Lucy’s undead activity.",
+      "statusNotes": "Reads the Hampstead story closely, and keeps what he makes of it to himself.",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000
     },
@@ -8128,7 +8166,7 @@
       "label": "Predator and Victim",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Dracula repeatedly feeds on Lucy and turns her into an undead predator.",
+      "description": "Something dark bends over Lucy on the churchyard seat, and from then on her strength fails.",
       "isBidirectional": false,
       "startEventId": "dracula-event-25",
       "createdAt": 1785499200000,
@@ -8233,7 +8271,22 @@
       "updatedAt": 1785499200000
     }
   ],
-  "relationshipSnapshots": [],
+  "relationshipSnapshots": [
+    {
+      "worldId": "dracula-1897-world",
+      "createdAt": 1785499200000,
+      "updatedAt": 1785499200000,
+      "id": "dracula-relationship-9-snapshot-undead",
+      "relationshipId": "dracula-relationship-9",
+      "eventId": "dracula-event-45",
+      "sortKey": 15.000001,
+      "label": "Predator and Victim",
+      "strength": "strong",
+      "sentiment": "negative",
+      "description": "Dracula repeatedly feeds on Lucy and turns her into an undead predator.",
+      "isActive": true
+    }
+  ],
   "timelines": [
     {
       "id": "dracula-timeline-main",
@@ -13688,7 +13741,7 @@
       "title": "Lucy has become undead",
       "description": "The empty tomb and child attacks prove Lucy rises after burial.",
       "tags": [],
-      "readerLearnsAtEventId": "dracula-event-38",
+      "readerLearnsAtEventId": "dracula-event-45",
       "originEventId": "dracula-event-38",
       "createdAt": 1785499200000,
       "updatedAt": 1785499200000

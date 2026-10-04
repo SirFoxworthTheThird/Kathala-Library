@@ -147,7 +147,7 @@
       "mapLayerId": "scarlet-pimpernel-map-channel",
       "linkedMapLayerId": "scarlet-pimpernel-map-london",
       "name": "London",
-      "description": "The English capital where Percy’s fashionable public life conceals the League’s command centre.",
+      "description": "The English capital, where the League’s members move in the best society.",
       "x": 115,
       "y": 1349,
       "imageId": "scarlet-pimpernel-image-generated-location-london-gate",
@@ -291,7 +291,7 @@
       "mapLayerId": "scarlet-pimpernel-map-paris",
       "linkedMapLayerId": null,
       "name": "West Barricade",
-      "description": "A guarded Paris gate where carts are searched before the evening closure and Percy’s first shown rescue succeeds by disguise.",
+      "description": "A guarded Paris gate where carts are searched before the evening closure and the Pimpernel’s first shown rescue succeeds by disguise.",
       "x": 160,
       "y": 332,
       "imageId": "scarlet-pimpernel-image-generated-location-west-barricade",
@@ -387,13 +387,21 @@
       "updatedAt": 1786579200000,
       "id": "scarlet-pimpernel-character-percy",
       "name": "Sir Percy Blakeney",
-      "aliases": [],
-      "description": "A wealthy English baronet whose extravagant clothes, slow drawl, and apparently empty wit make him a fashionable curiosity; his marriage to Marguerite is visibly strained.",
+      "aliases": [
+        "The Scarlet Pimpernel"
+      ],
+      "description": "A wealthy English baronet whose extravagant clothes, slow drawl and inane laugh make him a fashionable curiosity; his marriage to Marguerite is visibly strained.",
       "portraitImageId": "scarlet-pimpernel-image-generated-character-percy",
       "color": "#813b38",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "The Scarlet Pimpernel",
+          "eventId": "scarlet-pimpernel-event-021"
+        }
+      ]
     },
     {
       "worldId": "scarlet-pimpernel-world",
@@ -636,7 +644,7 @@
       "updatedAt": 1786579200000,
       "id": "scarlet-pimpernel-item-market-cart",
       "name": "The Covered Market Cart",
-      "description": "The cart in which the de Tournays pass the Paris barrier beneath Percy’s disguise and a false threat of illness.",
+      "description": "The cart in which the de Tournays pass the Paris barrier beneath the Pimpernel’s disguise and a false threat of illness.",
       "iconType": "vehicle",
       "imageId": "scarlet-pimpernel-image-generated-item-market-cart",
       "tags": []
@@ -1083,7 +1091,7 @@
       "currentMapLayerId": "scarlet-pimpernel-map-channel",
       "inventoryItemIds": [],
       "inventoryNotes": "",
-      "statusNotes": "Deepens the foppish performance that protects his secret identity.",
+      "statusNotes": "Talks of cravats and waistcoats, and laughs his inane laugh.",
       "travelModeId": null
     },
     {
@@ -1259,7 +1267,7 @@
       "currentMapLayerId": "scarlet-pimpernel-map-london",
       "inventoryItemIds": [],
       "inventoryNotes": "",
-      "statusNotes": "Sustains his social mask in the centre of the very search meant to expose him.",
+      "statusNotes": "Moves through the ball as idly as ever, at his wife’s side and at the Prince’s elbow.",
       "travelModeId": null
     },
     {
@@ -1467,7 +1475,7 @@
       "currentMapLayerId": "scarlet-pimpernel-map-london",
       "inventoryItemIds": [],
       "inventoryNotes": "",
-      "statusNotes": "Uses apparent sleep and social insignificance to pass through the surveillance unseen.",
+      "statusNotes": "Lies asleep on a sofa in the supper room as one o’clock strikes.",
       "travelModeId": null
     },
     {
@@ -1547,7 +1555,7 @@
       "currentMapLayerId": "scarlet-pimpernel-map-channel",
       "inventoryItemIds": [],
       "inventoryNotes": "",
-      "statusNotes": "Recognizes her sincerity but still protects the League by withholding his identity.",
+      "statusNotes": "Hears her out in the dawn at Richmond, and answers with a cold bow, though he is moved.",
       "travelModeId": "scarlet-pimpernel-travel-mode-coach"
     },
     {
@@ -1563,7 +1571,7 @@
       "currentMapLayerId": "scarlet-pimpernel-map-channel",
       "inventoryItemIds": [],
       "inventoryNotes": "",
-      "statusNotes": "Commits to the Calais operation despite knowing Chauvelin may be following.",
+      "statusNotes": "Leaves Richmond suddenly, before Marguerite can speak to him again.",
       "travelModeId": null
     },
     {
@@ -3477,7 +3485,7 @@
       "label": "estranged spouses",
       "strength": "bond",
       "sentiment": "complex",
-      "description": "Their marriage carries love, secrecy, wounded pride, and the possibility of renewed trust.",
+      "description": "Married little more than a year and grown cold: she thinks him a fool, and he seems not to care.",
       "isBidirectional": true,
       "startEventId": "scarlet-pimpernel-event-006"
     },
@@ -3701,7 +3709,7 @@
       "label": "fashionable friends",
       "strength": "moderate",
       "sentiment": "positive",
-      "description": "The Prince accepts Percy within the highest social circle, reinforcing the credibility of Percy’s public persona.",
+      "description": "The Prince of Wales counts the most fashionable dandy in London among his friends.",
       "isBidirectional": true,
       "startEventId": "scarlet-pimpernel-event-006"
     },
@@ -4024,7 +4032,7 @@
       "timelineId": "scarlet-pimpernel-timeline-main",
       "number": 14,
       "title": "One O’Clock Precisely!",
-      "synopsis": "Marguerite warns Sir Andrew that Chauvelin knows about the meeting, but the message cannot reach the leader in time. At one o’clock Chauvelin watches for the Pimpernel, while Percy appears to sleep through the danger in the supper room.",
+      "synopsis": "Marguerite warns Sir Andrew that Chauvelin knows about the meeting, but the message cannot reach the leader in time. At one o’clock Chauvelin watches for the Pimpernel, while Percy sleeps through it in the supper room.",
       "notes": "",
       "wordGoal": null
     },
@@ -4048,7 +4056,7 @@
       "timelineId": "scarlet-pimpernel-timeline-main",
       "number": 16,
       "title": "Richmond",
-      "synopsis": "Marguerite appeals to Percy for help with Armand and exposes the pain beneath their polished marriage; Percy listens without revealing his secret.",
+      "synopsis": "Marguerite appeals to Percy for help with Armand and exposes the pain beneath their polished marriage; Percy hears her out, coldly.",
       "notes": "",
       "wordGoal": null
     },
@@ -4060,7 +4068,7 @@
       "timelineId": "scarlet-pimpernel-timeline-main",
       "number": 17,
       "title": "Farewell",
-      "synopsis": "Percy departs on the compromised rescue mission after a restrained farewell that Marguerite does not yet understand.",
+      "synopsis": "Percy leaves Richmond suddenly after a restrained farewell that Marguerite does not yet understand.",
       "notes": "",
       "wordGoal": null
     },
@@ -4461,7 +4469,7 @@
       "chapterId": "scarlet-pimpernel-chapter-06",
       "timelineId": "scarlet-pimpernel-timeline-main",
       "title": "Percy Performs the Exquisite",
-      "description": "Percy’s clothes, drawl, and apparently empty wit convince the company that he is incapable of serious political action.",
+      "description": "Percy’s clothes, drawl and empty wit make him the delight, and the despair, of the company.",
       "locationMarkerId": "scarlet-pimpernel-location-fishermans-rest",
       "involvedCharacterIds": [
         "scarlet-pimpernel-character-percy",
@@ -4785,7 +4793,7 @@
       "chapterId": "scarlet-pimpernel-chapter-14",
       "timelineId": "scarlet-pimpernel-timeline-main",
       "title": "Chauvelin Watches the Supper Room",
-      "description": "At one o’clock Chauvelin watches for the Pimpernel, while Percy appears to sleep through the danger in the supper room.",
+      "description": "At one o’clock Chauvelin watches for the Pimpernel, while Percy sleeps through it in the supper room.",
       "locationMarkerId": "scarlet-pimpernel-location-grenville-ball",
       "involvedCharacterIds": [
         "scarlet-pimpernel-character-chauvelin",
@@ -4853,7 +4861,7 @@
       "chapterId": "scarlet-pimpernel-chapter-16",
       "timelineId": "scarlet-pimpernel-timeline-main",
       "title": "Husband and Wife at Richmond",
-      "description": "Marguerite appeals to Percy for help with Armand and exposes the pain beneath their polished marriage; Percy listens without revealing his secret.",
+      "description": "Marguerite appeals to Percy for help with Armand and exposes the pain beneath their polished marriage; Percy hears her out, coldly.",
       "locationMarkerId": "scarlet-pimpernel-location-richmond",
       "involvedCharacterIds": [
         "scarlet-pimpernel-character-marguerite",
@@ -4887,7 +4895,7 @@
       "chapterId": "scarlet-pimpernel-chapter-17",
       "timelineId": "scarlet-pimpernel-timeline-main",
       "title": "Percy Leaves for France",
-      "description": "Percy departs on the compromised rescue mission after a restrained farewell that Marguerite does not yet understand.",
+      "description": "Percy leaves Richmond suddenly after a restrained farewell that Marguerite does not yet understand.",
       "locationMarkerId": "scarlet-pimpernel-location-richmond",
       "involvedCharacterIds": [
         "scarlet-pimpernel-character-percy",
