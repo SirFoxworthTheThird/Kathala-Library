@@ -209,7 +209,7 @@
       "id": "tale-of-two-cities-loc-evremonde-village",
       "mapLayerId": "tale-of-two-cities-map-route",
       "linkedMapLayerId": null,
-      "name": "Evrémonde Village and Fountain",
+      "name": "The Marquis’s Village and Fountain",
       "description": "A hungry village beneath the marquis’s château, marked by a child’s death and a father’s revenge.",
       "x": 700,
       "y": 364,
@@ -225,7 +225,7 @@
       "id": "tale-of-two-cities-loc-evremonde-chateau",
       "mapLayerId": "tale-of-two-cities-map-route",
       "linkedMapLayerId": null,
-      "name": "Evrémonde Château",
+      "name": "The Marquis’s Château",
       "description": "The stone country seat whose inherited cruelty Darnay renounces.",
       "x": 730,
       "y": 394,
@@ -595,12 +595,18 @@
       "aliases": [
         "Charles Evrémonde"
       ],
-      "description": "A French aristocrat who renounces his family name and estate but cannot escape the obligations and crimes attached to them.",
+      "description": "A young Frenchman tried at the Old Bailey as a spy, who makes his living in England teaching French and keeps his family to himself.",
       "portraitImageId": "tale-of-two-cities-image-generated-character-darnay",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "Charles Evrémonde",
+          "eventId": "tale-of-two-cities-event-036"
+        }
+      ]
     },
     {
       "worldId": "tale-of-two-cities-world",
@@ -755,12 +761,18 @@
       "aliases": [
         "Solomon Pross"
       ],
-      "description": "A professional spy whose concealed identity and access to the prisons make him vulnerable to Carton’s leverage.",
+      "description": "A well-dressed witness against Darnay at the Old Bailey, who turns up wherever there is information to sell.",
       "portraitImageId": "tale-of-two-cities-image-generated-character-barsad",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "Solomon Pross",
+          "eventId": "tale-of-two-cities-event-047"
+        }
+      ]
     },
     {
       "worldId": "tale-of-two-cities-world",
@@ -788,7 +800,17 @@
       "color": "#76554d",
       "tags": [],
       "isAlive": false,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "tale-of-two-cities-event-001",
+          "name": "Monsieur the Marquis"
+        },
+        {
+          "eventId": "tale-of-two-cities-event-036",
+          "name": "Marquis St. Evrémonde"
+        }
+      ]
     },
     {
       "worldId": "tale-of-two-cities-world",
@@ -797,7 +819,7 @@
       "id": "tale-of-two-cities-char-gabelle",
       "name": "Théophile Gabelle",
       "aliases": [],
-      "description": "The Evrémonde estate agent whose endangered appeal draws Darnay back into revolutionary France.",
+      "description": "The Marquis’s estate agent, whose endangered appeal draws Darnay back into revolutionary France.",
       "portraitImageId": "tale-of-two-cities-image-generated-character-gabelle",
       "color": "#76554d",
       "tags": [],
@@ -813,12 +835,28 @@
       "aliases": [
         "The Wood-Sawyer"
       ],
-      "description": "A village witness transformed into a revolutionary enthusiast and observer beneath La Force.",
+      "description": "A mender of roads in a blue cap, from the village below the Marquis’s château, who saw a man clinging beneath the Marquis’s carriage.",
       "portraitImageId": "tale-of-two-cities-image-generated-character-road-mender",
       "color": "#76554d",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "tale-of-two-cities-event-001",
+          "name": "The Road-Mender"
+        },
+        {
+          "eventId": "tale-of-two-cities-event-043",
+          "name": "The Wood-Sawyer"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "The Wood-Sawyer",
+          "eventId": "tale-of-two-cities-event-043"
+        }
+      ]
     },
     {
       "worldId": "tale-of-two-cities-world",
@@ -995,7 +1033,7 @@
       "updatedAt": 1786377600000,
       "id": "tale-of-two-cities-item-darnay-letter",
       "name": "Darnay’s Renunciation Letter",
-      "description": "The private declaration by which Charles tells his uncle he rejects the Evrémonde inheritance.",
+      "description": "The private declaration by which Charles tells his uncle he rejects the family inheritance.",
       "iconType": "scroll",
       "imageId": "tale-of-two-cities-image-generated-item-darnay-letter",
       "tags": []
@@ -1017,7 +1055,7 @@
       "updatedAt": 1786377600000,
       "id": "tale-of-two-cities-item-manette-letter",
       "name": "Manette’s Bastille Letter",
-      "description": "The hidden account of the Evrémonde crime and Manette’s curse upon their descendants.",
+      "description": "A paper hidden in the chimney of One Hundred and Five, North Tower, found when the Bastille falls.",
       "iconType": "scroll",
       "imageId": "tale-of-two-cities-image-generated-item-manette-letter",
       "tags": []
@@ -1082,7 +1120,7 @@
       "createdAt": 1786377600000,
       "updatedAt": 1786377600000,
       "id": "tale-of-two-cities-item-chateau-key",
-      "name": "Evrémonde Château Key",
+      "name": "The Château Key",
       "description": "A symbol of inherited property that cannot unlock moral freedom or protect the estate from fire.",
       "iconType": "key",
       "imageId": "tale-of-two-cities-image-generated-item-chateau-key",
@@ -3971,7 +4009,7 @@
       "label": "son-in-law and inherited wound",
       "strength": 5,
       "sentiment": "mixed",
-      "description": "Manette loves Darnay, and cannot always hear the name Evrémonde without the past coming back.",
+      "description": "Manette gives Darnay his daughter, though Darnay’s true name, told him in private, shakes him to the root.",
       "isBidirectional": true,
       "startEventId": "tale-of-two-cities-event-020"
     },
@@ -4010,10 +4048,10 @@
       "id": "tale-of-two-cities-relationship-madame-defarge-darnay",
       "characterAId": "tale-of-two-cities-char-madame-defarge",
       "characterBId": "tale-of-two-cities-char-darnay",
-      "label": "avenger and inherited enemy",
+      "label": "knitter and marked man",
       "strength": 5,
       "sentiment": "negative",
-      "description": "She makes Darnay answer not only for his name but for crimes against her own family.",
+      "description": "She knits his name into her register the day she hears of his marriage, and does not forget it.",
       "isBidirectional": false,
       "startEventId": "tale-of-two-cities-event-027"
     },
@@ -4172,7 +4210,22 @@
       "startEventId": "tale-of-two-cities-event-032"
     }
   ],
-  "relationshipSnapshots": [],
+  "relationshipSnapshots": [
+    {
+      "worldId": "tale-of-two-cities-world",
+      "createdAt": 1786377600000,
+      "updatedAt": 1786377600000,
+      "id": "tale-of-two-cities-relationship-madame-defarge-darnay-snapshot-family",
+      "relationshipId": "tale-of-two-cities-relationship-madame-defarge-darnay",
+      "eventId": "tale-of-two-cities-event-052",
+      "sortKey": 42.000051,
+      "label": "avenger and inherited enemy",
+      "strength": 5,
+      "sentiment": "negative",
+      "description": "She makes Darnay answer not only for his name but for crimes against her own family.",
+      "isActive": true
+    }
+  ],
   "timelines": [
     {
       "id": "tale-of-two-cities-timeline-main",
@@ -4457,7 +4510,7 @@
       "timelineId": "tale-of-two-cities-timeline-main",
       "number": 23,
       "title": "Book the Second — The Golden Thread: One Night",
-      "synopsis": "On the wedding morning Darnay privately tells Manette that he is an Evrémonde.",
+      "synopsis": "On the wedding morning Darnay privately tells Manette his true name, and Manette comes out deadly pale.",
       "notes": "",
       "wordGoal": null
     },
@@ -4529,7 +4582,7 @@
       "timelineId": "tale-of-two-cities-timeline-main",
       "number": 29,
       "title": "Book the Second — The Golden Thread: Fire Rises",
-      "synopsis": "Four riders ignite the Evrémonde château while the village refuses to save the building or its symbols.",
+      "synopsis": "Four riders ignite the Marquis’s château while the village refuses to save the building or its symbols.",
       "notes": "",
       "wordGoal": null
     },
@@ -5358,7 +5411,7 @@
       "id": "tale-of-two-cities-event-018",
       "chapterId": "tale-of-two-cities-chapter-015",
       "timelineId": "tale-of-two-cities-timeline-main",
-      "title": "Darnay Renounces the Evrémonde Inheritance",
+      "title": "Darnay Renounces His Inheritance",
       "description": "At the château, Darnay tells his uncle he will not continue a system built on fear and suffering.",
       "locationMarkerId": "tale-of-two-cities-loc-evremonde-chateau",
       "involvedCharacterIds": [
@@ -5722,7 +5775,7 @@
       "chapterId": "tale-of-two-cities-chapter-023",
       "timelineId": "tale-of-two-cities-timeline-main",
       "title": "Darnay Reveals His Name",
-      "description": "On the wedding morning Darnay privately tells Manette that he is an Evrémonde.",
+      "description": "On the wedding morning Darnay privately tells Manette his true name, and Manette comes out deadly pale.",
       "locationMarkerId": "tale-of-two-cities-loc-soho-house",
       "involvedCharacterIds": [
         "tale-of-two-cities-char-darnay",
@@ -5991,7 +6044,7 @@
       "chapterId": "tale-of-two-cities-chapter-029",
       "timelineId": "tale-of-two-cities-timeline-main",
       "title": "The Château Burns",
-      "description": "Four riders ignite the Evrémonde château while the village refuses to save the building or its symbols.",
+      "description": "Four riders ignite the Marquis’s château while the village refuses to save the building or its symbols.",
       "locationMarkerId": "tale-of-two-cities-loc-evremonde-chateau",
       "involvedCharacterIds": [
         "tale-of-two-cities-char-road-mender",
@@ -7825,7 +7878,7 @@
       "createdAt": 1786377600000,
       "updatedAt": 1786377600000,
       "id": "tale-of-two-cities-faction-evremonde",
-      "name": "The Evrémonde Estate",
+      "name": "The Marquis’s Estate",
       "description": "An aristocratic household whose stone authority rests on coerced labour and inherited impunity.",
       "color": "#77604b",
       "coverImageId": "tale-of-two-cities-image-barnard-20",
@@ -8213,7 +8266,7 @@
       "createdAt": 1786377600000,
       "updatedAt": 1786377600000,
       "id": "tale-of-two-cities-fact-darnay-name",
-      "title": "Charles Darnay is an Evrémonde",
+      "title": "Charles Darnay is the Marquis’s nephew",
       "description": "Darnay is the nephew and heir who has renounced the family estate.",
       "tags": [],
       "readerLearnsAtEventId": "tale-of-two-cities-event-018",
@@ -8553,7 +8606,7 @@
       "startEventId": "tale-of-two-cities-event-018",
       "endEventId": "tale-of-two-cities-event-036",
       "type": "need",
-      "text": "Live honestly beyond the Evrémonde estate while answering obligations created by its harm."
+      "text": "Live honestly in England by his own work, apart from his uncle’s estate and the harm it does."
     },
     {
       "worldId": "tale-of-two-cities-world",
@@ -8586,7 +8639,7 @@
       "startEventId": "tale-of-two-cities-event-016",
       "endEventId": "tale-of-two-cities-event-055",
       "type": "want",
-      "text": "Record and destroy the Evrémonde line and everyone she regards as its continuation."
+      "text": "Knit into her register every name the Revolution will one day call to account."
     },
     {
       "worldId": "tale-of-two-cities-world",
@@ -9199,9 +9252,9 @@
       "createdAt": 1786377600000,
       "updatedAt": 1786377600000,
       "id": "tale-of-two-cities-thread-evremonde",
-      "name": "The Evrémonde Inheritance",
+      "name": "The Inheritance Darnay Refuses",
       "color": "#765a4d",
-      "description": "Darnay rejects privilege but remains answerable to crimes committed through his family name."
+      "description": "Darnay rejects his uncle’s estate, and the privilege and fear it rests on."
     },
     {
       "worldId": "tale-of-two-cities-world",

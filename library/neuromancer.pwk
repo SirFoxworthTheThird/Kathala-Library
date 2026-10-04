@@ -936,12 +936,18 @@
       "aliases": [
         "Colonel Willis Corto"
       ],
-      "description": "A controlled military persona built over the traumatized survivor of Operation Screaming Fist.",
+      "description": "A hard, expensive-looking man with a soldier’s bearing and a flat, unreadable gaze, who offers Case a new nervous system for a job he will not explain.",
       "portraitImageId": "neuromancer-image-portrait-armitage",
       "color": "#7489f5",
       "tags": [],
       "isAlive": false,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "Colonel Willis Corto",
+          "eventId": "neuromancer-event-corto-files"
+        }
+      ]
     },
     {
       "worldId": "neuromancer-world",

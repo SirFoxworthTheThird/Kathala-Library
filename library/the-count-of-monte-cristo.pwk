@@ -981,13 +981,37 @@
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-char-edmond",
       "name": "Edmond Dantès",
-      "aliases": [],
+      "aliases": [
+        "Edmond Dantès",
+        "Lord Wilmore",
+        "Abbé Busoni"
+      ],
       "description": "A young sailor of the Pharaon, newly given command on his captain's death and about to be married.",
       "portraitImageId": "count-of-monte-cristo-image-generated-002",
       "color": "#725545",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "count-of-monte-cristo-event-040",
+          "name": "Sinbad the Sailor"
+        },
+        {
+          "eventId": "count-of-monte-cristo-event-042",
+          "name": "The Count of Monte Cristo"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "Lord Wilmore",
+          "eventId": "count-of-monte-cristo-event-033"
+        },
+        {
+          "alias": "Abbé Busoni",
+          "eventId": "count-of-monte-cristo-event-034"
+        }
+      ]
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -1001,7 +1025,13 @@
       "color": "#725545",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "count-of-monte-cristo-event-035",
+          "name": "Mercédès, Madame de Morcerf"
+        }
+      ]
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -1009,13 +1039,21 @@
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-char-fernand",
       "name": "Fernand",
-      "aliases": [],
+      "aliases": [
+        "Fernand"
+      ],
       "description": "A Catalan fisherman, cousin to Mercédès and in love with her, who makes no secret of his jealousy of Edmond.",
       "portraitImageId": "count-of-monte-cristo-image-generated-004",
       "color": "#725545",
       "tags": [],
       "isAlive": false,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "count-of-monte-cristo-event-035",
+          "name": "The Count de Morcerf"
+        }
+      ]
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -1029,7 +1067,13 @@
       "color": "#725545",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "count-of-monte-cristo-event-035",
+          "name": "Baron Danglars"
+        }
+      ]
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -1548,6 +1592,24 @@
       "tags": [],
       "isAlive": false,
       "birthDate": null
+    },
+    {
+      "worldId": "count-of-monte-cristo-world",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000,
+      "id": "count-of-monte-cristo-char-andrea-cavalcanti",
+      "name": "Andrea Cavalcanti",
+      "aliases": [],
+      "description": "A handsome, newly dressed young man of about twenty-one, presented at the count’s house as the long-lost son of Major Cavalcanti, and very easy in the part.",
+      "portraitImageId": null,
+      "color": null,
+      "tags": [],
+      "isAlive": true,
+      "birthDate": null,
+      "revealedAs": {
+        "characterId": "count-of-monte-cristo-char-andrea",
+        "eventId": "count-of-monte-cristo-event-078"
+      }
     }
   ],
   "items": [
@@ -4737,7 +4799,7 @@
       "createdAt": 1786291200000,
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-snapshot-071-andrea",
-      "characterId": "count-of-monte-cristo-char-andrea",
+      "characterId": "count-of-monte-cristo-char-andrea-cavalcanti",
       "eventId": "count-of-monte-cristo-event-071",
       "isAlive": true,
       "currentLocationMarkerId": "count-of-monte-cristo-loc-champs-elysees",
@@ -4778,7 +4840,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 56.0007,
-      "statusNotes": "Brings two impostors together and confirms that Bertuccio’s recognition will hold."
+      "statusNotes": "Brings the hired father and the hired son together, and watches them play their parts."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -4794,7 +4856,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 56.0007,
-      "statusNotes": "Recognizes Benedetto beneath fashionable clothes and understands his master planned the encounter."
+      "statusNotes": "Shows the visitors in and attends to his master’s orders."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -9784,7 +9846,7 @@
       "timelineId": "count-of-monte-cristo-timeline-main",
       "number": 56,
       "title": "Andrea Cavalcanti",
-      "synopsis": "Benedetto arrives as Andrea Cavalcanti, recognizes Bertuccio, and performs a reunion with the supposed major.",
+      "synopsis": "Andrea Cavalcanti arrives at the count’s and performs a reunion with the supposed major.",
       "notes": "",
       "wordGoal": null
     },
@@ -13063,10 +13125,10 @@
       "chapterId": "count-of-monte-cristo-chapter-056",
       "timelineId": "count-of-monte-cristo-timeline-main",
       "title": "Andrea Meets His Purchased Father",
-      "description": "Benedetto arrives as Andrea Cavalcanti, recognizes Bertuccio, and performs a reunion with the supposed major.",
+      "description": "Andrea Cavalcanti arrives at the count’s and performs a reunion with the supposed major.",
       "locationMarkerId": "count-of-monte-cristo-loc-champs-elysees",
       "involvedCharacterIds": [
-        "count-of-monte-cristo-char-andrea",
+        "count-of-monte-cristo-char-andrea-cavalcanti",
         "count-of-monte-cristo-char-major-cavalcanti",
         "count-of-monte-cristo-char-edmond",
         "count-of-monte-cristo-char-bertuccio"
@@ -17232,7 +17294,7 @@
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-faction-morcerf-house",
       "name": "House of Morcerf",
-      "description": "The title and fortune built around Fernand’s military career, Mercédès’s memory, and Albert’s inherited honour.",
+      "description": "The house of the Count de Morcerf, peer of France: his military title and fortune, his countess, and their son Albert’s inherited honour.",
       "color": "#6b596a",
       "coverImageId": "count-of-monte-cristo-image-generated-122",
       "tags": []
@@ -19496,7 +19558,7 @@
       "id": "count-of-monte-cristo-thread-benedetto",
       "name": "Benedetto’s Identity",
       "color": "#695064",
-      "description": "The rescued infant becomes criminal, false aristocrat, and the public accuser of his father."
+      "description": "The infant Bertuccio dug from a garden at Auteuil, alive, and what became of him."
     },
     {
       "worldId": "count-of-monte-cristo-world",
