@@ -6,7 +6,7 @@
     "readingMode": true,
     "id": "jekyll-hyde-world",
     "name": "Strange Case of Dr Jekyll and Mr Hyde",
-    "description": "A London lawyer investigates the disturbing connection between his respected friend Dr Henry Jekyll and the violent Edward Hyde. Wills, locked doors, handwriting, chemical experiments, and delayed confessions reveal that the hunted criminal and the endangered doctor are two identities struggling within one body.",
+    "description": "A London lawyer, troubled by a will in which his respected friend Dr Henry Jekyll leaves everything to the violent Edward Hyde, sets out to learn what hold Hyde has over him — through fog, locked doors, letters and sealed testimony.",
     "coverImageId": "jekyll-hyde-image-generated-cover",
     "theme": "theme-horror",
     "createdAt": 1785528000000,
@@ -275,7 +275,7 @@
       "mapLayerId": "jekyll-hyde-map-soho",
       "linkedMapLayerId": null,
       "name": "The Blistered Door",
-      "description": "The neglected door through which Hyde enters Jekyll’s old dissecting rooms.",
+      "description": "A blistered, neglected door in a windowless block on a by-street, with neither bell nor knocker, which the man in Enfield’s story opens with his own key.",
       "x": 565,
       "y": 575,
       "iconType": "door",
@@ -551,7 +551,7 @@
       "id": "jekyll-hyde-char-jekyll",
       "name": "Dr Henry Jekyll",
       "aliases": [],
-      "description": "A respected physician who seeks to divide his moral nature by chemical means.",
+      "description": "A wealthy, well-liked physician of about fifty, known for his kindness and his dinners, whose will leaves everything to Edward Hyde.",
       "portraitImageId": "jekyll-hyde-image-generated-character-jekyll",
       "color": "#8b6f77",
       "tags": [
@@ -570,7 +570,7 @@
       "aliases": [
         "Mr Hyde"
       ],
-      "description": "Jekyll’s liberated secondary identity: smaller, younger, violent, and free of social conscience.",
+      "description": "A small, plainly dressed young man who walks over a child without breaking step, and whom everyone who meets him loathes on sight without being able to say why.",
       "portraitImageId": "jekyll-hyde-image-generated-character-hyde",
       "color": "#4b5845",
       "tags": [
@@ -578,7 +578,11 @@
         "fugitive"
       ],
       "isAlive": false,
-      "birthDate": null
+      "birthDate": null,
+      "revealedAs": {
+        "characterId": "jekyll-hyde-char-jekyll",
+        "eventId": "jekyll-hyde-event-37"
+      }
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -607,7 +611,7 @@
       "aliases": [
         "Dr Lanyon"
       ],
-      "description": "A conventional physician and old friend of Jekyll whose certainty collapses after witnessing the transformation.",
+      "description": "A hearty, red-faced physician and one of Jekyll’s two oldest friends, who has broken with him over what he calls unscientific balderdash.",
       "portraitImageId": "jekyll-hyde-image-generated-character-lanyon",
       "color": "#9c805e",
       "tags": [
@@ -912,7 +916,7 @@
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-item-powders",
       "name": "White Powders",
-      "description": "Measured packets required to prepare the transforming draught.",
+      "description": "Paper packets of a white crystalline salt, measured out and kept in the drawer from Jekyll’s cabinet.",
       "iconType": "chemical",
       "imageId": "jekyll-hyde-image-generated-item-powders",
       "tags": []
@@ -933,8 +937,8 @@
       "createdAt": 1785528000000,
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-item-salt",
-      "name": "The Transforming Salt",
-      "description": "A chemical salt whose original impurity proves essential to the reaction.",
+      "name": "The Missing Salt",
+      "description": "The drug the occupant of the cabinet sends out for again and again, sending back every sample as not the one he wants.",
       "iconType": "chemical",
       "imageId": "jekyll-hyde-image-generated-item-salt",
       "tags": []
@@ -944,8 +948,8 @@
       "createdAt": 1785528000000,
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-item-draught",
-      "name": "The Transforming Draught",
-      "description": "The unstable mixture that changes Jekyll into Hyde and, for a time, back again.",
+      "name": "The Draught",
+      "description": "The mixture Lanyon’s midnight visitor makes from the powders and the tincture, which brightens, darkens and settles to a watery green.",
       "iconType": "chemical",
       "imageId": "jekyll-hyde-image-generated-item-draught",
       "tags": []
@@ -956,7 +960,7 @@
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-item-lanyon-narrative",
       "name": "Dr Lanyon’s Narrative",
-      "description": "Lanyon’s written testimony describing Hyde’s transformation into Jekyll.",
+      "description": "Lanyon’s own written account, left sealed for Utterson to read when the time came.",
       "iconType": "book",
       "imageId": "jekyll-hyde-image-generated-item-lanyon-narrative",
       "tags": []
@@ -967,7 +971,7 @@
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-item-jekyll-statement",
       "name": "Henry Jekyll’s Full Statement",
-      "description": "Jekyll’s confession of the experiment, the double life, and the final chemical failure.",
+      "description": "A thick packet in Jekyll’s hand, left on the cabinet table and addressed to Utterson.",
       "iconType": "book",
       "imageId": "jekyll-hyde-image-generated-item-jekyll-statement",
       "tags": []
@@ -1655,7 +1659,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 19,
-      "statusNotes": "Uses the forged document to separate his public identity from Hyde’s crime."
+      "statusNotes": "Produces a letter signed by Hyde, swears he has done with him, and leaves Utterson to judge whether the police should see it."
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -1927,7 +1931,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 27,
-      "statusNotes": "Feels an involuntary transformation beginning and cuts off the witnesses."
+      "statusNotes": "Breaks off mid-sentence with a look of abject terror, and the window is shut on his friends."
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -2055,7 +2059,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 30,
-      "statusNotes": "Trapped, failing to reverse the transformation, and searching frantically for the original salt."
+      "statusNotes": "Shut in the cabinet, pacing night and day, sending out for a drug that no chemist’s sample matches."
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -2263,7 +2267,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 36,
-      "statusNotes": "Trembling with urgency and relief as he prepares the restoring draught."
+      "statusNotes": "Trembling with impatience, then relief, as he measures the powders into the tincture."
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -3167,9 +3171,9 @@
       "label": "Two identities in one body",
       "strength": "bond",
       "sentiment": "complex",
-      "description": "Hyde is created from Jekyll’s divided desires and progressively overpowers him.",
+      "description": "Lanyon watches Hyde drink the draught and stand up as Henry Jekyll.",
       "isBidirectional": true,
-      "startEventId": null
+      "startEventId": "jekyll-hyde-event-37"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -3443,7 +3447,7 @@
       "timelineId": "jekyll-hyde-timeline-main",
       "number": 9,
       "title": "Dr Lanyon’s Narrative",
-      "synopsis": "Lanyon explains how Hyde collected the drawer and transformed into Jekyll before him.",
+      "synopsis": "Lanyon’s sealed account of Jekyll’s urgent letter, the drawer fetched from the cabinet, and the visitor who comes for it at midnight.",
       "notes": "The chapter is a document read after the cabinet is opened; its events are marked as flashbacks where appropriate.",
       "wordGoal": null
     },
@@ -5789,7 +5793,7 @@
     {
       "id": "jekyll-hyde-lore-category-duality",
       "worldId": "jekyll-hyde-world",
-      "name": "Duality and Identity",
+      "name": "Jekyll and Hyde",
       "color": "#735b68",
       "sortOrder": 1
     },
@@ -5830,11 +5834,11 @@
       "id": "jekyll-hyde-lore-1",
       "categoryId": "jekyll-hyde-lore-category-duality",
       "title": "Jekyll and Hyde Are One Embodied Person",
-      "body": "This world models Jekyll and Hyde as separate character records so snapshots, knowledge, and relationships can show which identity is manifest at an event. The relationship between them records their shared body.",
+      "body": "In Lanyon’s consulting room the midnight visitor drinks the draught and stands up as Henry Jekyll. Stevenson has kept the two apart for eight chapters — two men, two addresses, two hands, and a will that joins them only by money — and they keep a page each here for the same reason: each is the man as the people around him saw him, Hyde in Soho and Jekyll in his square. From this scene on, each page names the other. Jekyll’s own statement, which follows, tells how.",
       "tags": [],
       "coverImageId": "jekyll-hyde-image-generated-character-jekyll",
       "linkedEntityIds": [],
-      "visibleFromEventId": "jekyll-hyde-event-34"
+      "visibleFromEventId": "jekyll-hyde-event-37"
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -5921,7 +5925,7 @@
       "id": "jekyll-hyde-lore-8",
       "categoryId": "jekyll-hyde-lore-category-documents",
       "title": "Handwriting as Evidence",
-      "body": "Guest recognizes that Hyde’s hand and Jekyll’s hand share their structure. The clue approaches the truth while still allowing Utterson to imagine forgery.",
+      "body": "Guest sets Jekyll’s note beside the letter signed by Hyde and finds the two hands alike in everything but slope. Utterson draws the only conclusion open to him: Henry Jekyll has forged a letter for a murderer.",
       "tags": [],
       "coverImageId": "jekyll-hyde-image-generated-item-handwriting-note",
       "linkedEntityIds": [],
@@ -6039,7 +6043,7 @@
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-faction-hyde-world",
       "name": "Hyde’s Hidden Life",
-      "description": "The rooms, financial identity, and permissions created to shelter Hyde.",
+      "description": "The Soho rooms, the bank account and the keys by which Hyde comes and goes.",
       "color": "#4b5845",
       "coverImageId": null,
       "tags": [
@@ -6187,7 +6191,7 @@
       "id": "jekyll-hyde-membership-12",
       "factionId": "jekyll-hyde-faction-hyde-world",
       "characterId": "jekyll-hyde-char-hyde",
-      "role": "Secret identity and lodger",
+      "role": "Lodger",
       "startEventId": null,
       "endEventId": null,
       "notes": ""
@@ -6299,7 +6303,7 @@
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-fact-same",
       "title": "Jekyll and Hyde are identities of one body",
-      "description": "Jekyll created Hyde by chemically separating his divided nature.",
+      "description": "Hyde and Jekyll are not two men in league: they are one man.",
       "tags": [],
       "readerLearnsAtEventId": "jekyll-hyde-event-37",
       "originEventId": "jekyll-hyde-event-41"
@@ -6332,7 +6336,7 @@
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-fact-letter",
       "title": "Jekyll authored Hyde’s farewell letter",
-      "description": "The handwriting comparison reveals Jekyll’s role in constructing Hyde’s documents.",
+      "description": "Guest’s comparison shows the letter signed by Hyde is in Jekyll’s own hand, sloped the other way.",
       "tags": [],
       "readerLearnsAtEventId": "jekyll-hyde-event-20",
       "originEventId": "jekyll-hyde-event-20"
@@ -7099,7 +7103,7 @@
       "id": "jekyll-hyde-motif-handwriting",
       "name": "Handwriting",
       "color": "#8a7355",
-      "description": "A supposedly personal mark becomes evidence of shared identity."
+      "description": "A signature vouches for a person: a cheque, a will or a letter is trusted because of whose hand it is in."
     },
     {
       "worldId": "jekyll-hyde-world",
@@ -7115,9 +7119,9 @@
       "createdAt": 1785528000000,
       "updatedAt": 1785528000000,
       "id": "jekyll-hyde-motif-double",
-      "name": "Doubling and the Mirror Self",
+      "name": "Hidden Faces",
       "color": "#735b68",
-      "description": "Physical transformation makes Jekyll’s moral division visible."
+      "description": "A respectable surface with something kept behind it: the fine square and the blind back door, a good name and an old sin, a man nobody can describe."
     },
     {
       "worldId": "jekyll-hyde-world",
