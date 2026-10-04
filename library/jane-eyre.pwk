@@ -485,7 +485,7 @@
       "mapLayerId": "jane-eyre-map-thornfield",
       "linkedMapLayerId": null,
       "name": "Attic Room",
-      "description": "A locked upper chamber maintained by Grace Poole and hidden from ordinary household life.",
+      "description": "A room on the third storey behind a tapestried wall, with an inner door, where Mason is found bleeding in the night.",
       "x": 1050,
       "y": 1139,
       "imageId": "jane-eyre-image-generated-location-attic",
@@ -676,7 +676,7 @@
       "id": "jane-eyre-char-rochester",
       "name": "Edward Fairfax Rochester",
       "aliases": [],
-      "description": "The master of Thornfield, intellectually restless and emotionally forceful, whose concealed marriage makes honesty the condition of any future with Jane.",
+      "description": "The master of Thornfield: dark, abrupt and changeable, often away, and given to talking to his governess as to an equal.",
       "portraitImageId": "jane-eyre-image-generated-character-rochester",
       "color": "#6c5966",
       "tags": [],
@@ -830,7 +830,7 @@
       "id": "jane-eyre-char-grace",
       "name": "Grace Poole",
       "aliases": [],
-      "description": "A well-paid servant whose guarded work on Thornfield’s third floor provides a plausible name for unexplained sounds.",
+      "description": "A square-built, plain-faced servant who sews in a room on Thornfield’s third storey, and on whom Mrs Fairfax lays the strange laugh Jane hears there.",
       "portraitImageId": "jane-eyre-image-generated-character-grace",
       "color": "#6c5966",
       "tags": [],
@@ -844,12 +844,22 @@
       "id": "jane-eyre-char-bertha",
       "name": "Bertha Antoinetta Mason Rochester",
       "aliases": [],
-      "description": "Rochester’s wife, confined at Thornfield after years of severe illness and presented through a narrative controlled by those who imprison her.",
+      "description": "The unseen attacker in Thornfield’s third-storey room, whom Mason, bleeding, can only call “she”.",
       "portraitImageId": "jane-eyre-image-generated-character-bertha",
       "color": "#6c5966",
       "tags": [],
       "isAlive": false,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "jane-eyre-event-001",
+          "name": "The Woman Upstairs"
+        },
+        {
+          "eventId": "jane-eyre-event-053",
+          "name": "Bertha Mason"
+        }
+      ]
     },
     {
       "worldId": "jane-eyre-world",
@@ -858,7 +868,7 @@
       "id": "jane-eyre-char-blanche",
       "name": "Blanche Ingram",
       "aliases": [],
-      "description": "An accomplished and status-conscious guest whose apparent courtship with Rochester makes Jane confront class and economic inequality.",
+      "description": "A tall, handsome, accomplished guest at Thornfield, whom the whole county expects Rochester to marry.",
       "portraitImageId": "jane-eyre-image-generated-character-blanche",
       "color": "#6c5966",
       "tags": [],
@@ -905,7 +915,17 @@
       "color": "#6c5966",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "jane-eyre-event-001",
+          "name": "St John Rivers"
+        },
+        {
+          "eventId": "jane-eyre-event-068",
+          "name": "St John Eyre Rivers"
+        }
+      ]
     },
     {
       "worldId": "jane-eyre-world",
@@ -962,6 +982,26 @@
       "tags": [],
       "isAlive": true,
       "birthDate": null
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "jane-eyre-char-gypsy",
+      "name": "The Gypsy",
+      "aliases": [
+        "Mother Bunches"
+      ],
+      "description": "An old gypsy woman from the camp on Hay Common, who settles in the library and will not leave until the young ladies have heard their fortunes.",
+      "portraitImageId": null,
+      "color": null,
+      "tags": [],
+      "isAlive": true,
+      "birthDate": null,
+      "revealedAs": {
+        "characterId": "jane-eyre-char-rochester",
+        "eventId": "jane-eyre-event-038"
+      }
     }
   ],
   "items": [
@@ -2271,7 +2311,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 15.0003,
-      "statusNotes": "Is named as the culprit while the actual source remains confined above."
+      "statusNotes": "Is named as the culprit, and goes on sewing as if nothing had happened."
     },
     {
       "worldId": "jane-eyre-world",
@@ -2483,7 +2523,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 18.00035,
-      "statusNotes": "Uses theatrical roles to cultivate the appearance of an approaching match."
+      "statusNotes": "Plays bridegroom to Blanche Ingram in the charades, before the whole company."
     },
     {
       "worldId": "jane-eyre-world",
@@ -2522,7 +2562,7 @@
       "createdAt": 1786464000000,
       "updatedAt": 1786464000000,
       "id": "jane-eyre-snapshot-037-rochester",
-      "characterId": "jane-eyre-char-rochester",
+      "characterId": "jane-eyre-char-gypsy",
       "eventId": "jane-eyre-event-037",
       "isAlive": true,
       "currentLocationMarkerId": "jane-eyre-loc-thornfield-hall",
@@ -2531,7 +2571,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 18.00036,
-      "statusNotes": "Uses disguise to question guests without the constraints of his own identity."
+      "statusNotes": "Sits by the library fire with a book, and sees the ladies one at a time."
     },
     {
       "worldId": "jane-eyre-world",
@@ -2683,7 +2723,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 20.00039,
-      "statusNotes": "Breaks through confinement long enough to wound the brother who entered her room."
+      "statusNotes": "Falls on the man who has gone into the third-storey room, with a knife and with her teeth."
     },
     {
       "worldId": "jane-eyre-world",
@@ -2959,7 +2999,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 23.00046,
-      "statusNotes": "Claims a future with Jane while still concealing the existing marriage that makes the promise impossible."
+      "statusNotes": "Asks Jane to marry him, and will hear of no one’s blessing but hers."
     },
     {
       "worldId": "jane-eyre-world",
@@ -4492,7 +4532,8 @@
       "sentiment": "negative",
       "notes": "A legally binding marriage is transformed by secrecy, illness, coercion, and confinement into catastrophe.",
       "isMutual": false,
-      "createdAtEventId": "jane-eyre-event-030"
+      "createdAtEventId": "jane-eyre-event-030",
+      "startEventId": "jane-eyre-event-052"
     },
     {
       "worldId": "jane-eyre-world",
@@ -4529,7 +4570,7 @@
       "id": "jane-eyre-relationship-11",
       "characterAId": "jane-eyre-char-jane",
       "characterBId": "jane-eyre-char-st-john",
-      "label": "cousins and conflicting partners",
+      "label": "rescuer, employer and suitor",
       "strength": 5,
       "sentiment": "mixed",
       "notes": "Kinship and respect collide with St John’s attempt to make Jane’s vocation and marriage instruments of his mission.",
@@ -4543,7 +4584,7 @@
       "id": "jane-eyre-relationship-12",
       "characterAId": "jane-eyre-char-jane",
       "characterBId": "jane-eyre-char-diana",
-      "label": "cousins and chosen sisters",
+      "label": "rescuers and chosen sisters",
       "strength": 5,
       "sentiment": "positive",
       "notes": "Intellectual companionship precedes the discovery of kinship and becomes a permanent family bond.",
@@ -4557,7 +4598,7 @@
       "id": "jane-eyre-relationship-13",
       "characterAId": "jane-eyre-char-jane",
       "characterBId": "jane-eyre-char-mary",
-      "label": "cousins and chosen sisters",
+      "label": "rescuers and chosen sisters",
       "strength": 5,
       "sentiment": "positive",
       "notes": "Shared study and domestic work make Mary part of the home Jane chooses to preserve.",
@@ -4590,7 +4631,8 @@
       "sentiment": "mixed",
       "notes": "Grace manages the locked third-floor life while the household uses her presence to conceal its meaning.",
       "isMutual": false,
-      "createdAtEventId": "jane-eyre-event-021"
+      "createdAtEventId": "jane-eyre-event-021",
+      "startEventId": "jane-eyre-event-053"
     },
     {
       "worldId": "jane-eyre-world",
@@ -4607,7 +4649,50 @@
       "createdAtEventId": "jane-eyre-event-001"
     }
   ],
-  "relationshipSnapshots": [],
+  "relationshipSnapshots": [
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "jane-eyre-relationship-11-snapshot-cousins",
+      "relationshipId": "jane-eyre-relationship-11",
+      "eventId": "jane-eyre-event-068",
+      "sortKey": 33.000067,
+      "label": "cousins and conflicting partners",
+      "strength": 5,
+      "sentiment": "mixed",
+      "description": "",
+      "isActive": true
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "jane-eyre-relationship-12-snapshot-cousins",
+      "relationshipId": "jane-eyre-relationship-12",
+      "eventId": "jane-eyre-event-068",
+      "sortKey": 33.000067,
+      "label": "cousins and chosen sisters",
+      "strength": 5,
+      "sentiment": "positive",
+      "description": "",
+      "isActive": true
+    },
+    {
+      "worldId": "jane-eyre-world",
+      "createdAt": 1786464000000,
+      "updatedAt": 1786464000000,
+      "id": "jane-eyre-relationship-13-snapshot-cousins",
+      "relationshipId": "jane-eyre-relationship-13",
+      "eventId": "jane-eyre-event-068",
+      "sortKey": 33.000067,
+      "label": "cousins and chosen sisters",
+      "strength": 5,
+      "sentiment": "positive",
+      "description": "",
+      "isActive": true
+    }
+  ],
   "timelines": [
     {
       "id": "jane-eyre-timeline-main",
@@ -4820,7 +4905,7 @@
       "timelineId": "jane-eyre-timeline-main",
       "number": 17,
       "title": "The House Party",
-      "synopsis": "Rochester returns with fashionable guests who fill Thornfield with display and hierarchy. Music and conversation make the apparent courtship public while Jane measures affection against performance.",
+      "synopsis": "Rochester returns with fashionable guests who fill Thornfield with display and hierarchy. Music and conversation make the courtship public while Jane measures affection against performance.",
       "notes": "",
       "wordGoal": null
     },
@@ -4832,7 +4917,7 @@
       "timelineId": "jane-eyre-timeline-main",
       "number": 18,
       "title": "Charades and Watchfulness",
-      "synopsis": "Rochester and Blanche enact courtship, marriage, and captivity before the assembled company. A supposed fortune-teller refuses to leave until the unmarried women hear their futures.",
+      "synopsis": "Rochester and Blanche enact courtship, marriage, and captivity before the assembled company. An old gypsy woman refuses to leave until the unmarried women hear their futures.",
       "notes": "",
       "wordGoal": null
     },
@@ -4880,7 +4965,7 @@
       "timelineId": "jane-eyre-timeline-main",
       "number": 22,
       "title": "Back to Thornfield",
-      "synopsis": "Rochester waits on the road and turns Jane’s homecoming into an intimate welcome. Jane resumes teaching and evening conversation under the apparent deadline of Rochester’s marriage.",
+      "synopsis": "Rochester waits on the road and turns Jane’s homecoming into an intimate welcome. Jane resumes teaching and evening conversation with Rochester’s marriage to Blanche expected any day.",
       "notes": "",
       "wordGoal": null
     },
@@ -6323,7 +6408,7 @@
       "chapterId": "jane-eyre-chapter-17",
       "timelineId": "jane-eyre-timeline-main",
       "title": "Jane Observes Blanche and Rochester",
-      "description": "Music and conversation make the apparent courtship public while Jane measures affection against performance.",
+      "description": "Music and conversation make the courtship public while Jane measures affection against performance.",
       "locationMarkerId": "jane-eyre-loc-thornfield-drawing",
       "involvedCharacterIds": [
         "jane-eyre-char-jane",
@@ -6397,11 +6482,11 @@
       "chapterId": "jane-eyre-chapter-18",
       "timelineId": "jane-eyre-timeline-main",
       "title": "A Gypsy Is Announced",
-      "description": "A supposed fortune-teller refuses to leave until the unmarried women hear their futures.",
+      "description": "An old gypsy woman refuses to leave until the unmarried women hear their futures.",
       "locationMarkerId": "jane-eyre-loc-thornfield-hall",
       "involvedCharacterIds": [
         "jane-eyre-char-jane",
-        "jane-eyre-char-rochester"
+        "jane-eyre-char-gypsy"
       ],
       "mentionedCharacterIds": [],
       "involvedItemIds": [],
@@ -6693,7 +6778,7 @@
       "chapterId": "jane-eyre-chapter-22",
       "timelineId": "jane-eyre-timeline-main",
       "title": "Summer Restores Their Familiarity",
-      "description": "Jane resumes teaching and evening conversation under the apparent deadline of Rochester’s marriage.",
+      "description": "Jane resumes teaching and evening conversation with Rochester’s marriage to Blanche expected any day.",
       "locationMarkerId": "jane-eyre-loc-orchard",
       "involvedCharacterIds": [
         "jane-eyre-char-jane",
@@ -8655,7 +8740,7 @@
       "id": "jane-eyre-lore-page-4",
       "categoryId": "jane-eyre-lore-category-setting",
       "title": "Thornfield’s Divided House",
-      "body": "Public rooms support teaching, hospitality, and courtship; the upper passage supports concealment, paid surveillance, and confinement. The house’s vertical division is moral as well as architectural.",
+      "body": "Public rooms serve teaching, hospitality and courtship; the third storey keeps the house’s past — old furniture, narrow passages of black doors, a stillness Jane likens to a corridor in Bluebeard’s castle. The house’s vertical division is moral as well as architectural.",
       "tags": [],
       "coverImageId": "jane-eyre-image-generated-location-third-floor",
       "linkedEntityIds": [
@@ -8968,7 +9053,7 @@
       "id": "jane-eyre-membership-13",
       "factionId": "jane-eyre-faction-thornfield",
       "characterId": "jane-eyre-char-bertha",
-      "role": "confined wife",
+      "role": "third-storey occupant",
       "startEventId": "jane-eyre-event-030",
       "endEventId": null,
       "notes": ""
@@ -9142,7 +9227,7 @@
       "title": "The Rivers siblings are Jane’s cousins",
       "description": "The Madeira and Eyre family connection makes St John, Diana, and Mary Jane’s living relatives.",
       "tags": [],
-      "readerLearnsAtEventId": "jane-eyre-event-067",
+      "readerLearnsAtEventId": "jane-eyre-event-068",
       "originEventId": "jane-eyre-event-067"
     },
     {
@@ -9321,7 +9406,7 @@
       "updatedAt": 1786464000000,
       "id": "jane-eyre-goal-5",
       "characterId": "jane-eyre-char-rochester",
-      "startEventId": "jane-eyre-event-023",
+      "startEventId": "jane-eyre-event-052",
       "endEventId": "jane-eyre-event-054",
       "type": "want",
       "text": "Secure Jane’s love while escaping the legal and moral consequences of his concealed marriage."
@@ -9376,7 +9461,7 @@
       "updatedAt": 1786464000000,
       "id": "jane-eyre-goal-10",
       "characterId": "jane-eyre-char-bertha",
-      "startEventId": "jane-eyre-event-030",
+      "startEventId": "jane-eyre-event-053",
       "endEventId": "jane-eyre-event-073",
       "type": "want",
       "text": "Break through the confinement and concealment imposed on the third floor."
@@ -10148,7 +10233,7 @@
       "updatedAt": 1786464000000,
       "id": "jane-eyre-thread-secret",
       "name": "The Secret at Thornfield",
-      "description": "Unexplained sounds, fire, wounds, and legal testimony disclose the life confined above the household.",
+      "description": "A laugh in the third-storey passage, low and joyless, which Mrs Fairfax puts down to Grace Poole.",
       "color": "#4e4b54",
       "status": "active",
       "tags": []
