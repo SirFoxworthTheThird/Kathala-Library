@@ -19,7 +19,8 @@ const urls = new Set();
 const hashes = new Set();
 
 if (manifest.slots.length !== 126 || world.blobs.length !== 132 || archive.blobs.length !== 138) failures.push('Image inventory count changed');
-if (world.characters.length !== 41 || world.items.length !== 17 || world.locationMarkers.length !== 50 || world.lorePages.length !== 10 || world.factions.length !== 7 || world.chapters.length !== 117) failures.push('Book content count changed');
+// 42 since Andrea Cavalcanti became his own character, revealed to be Benedetto (scripts/names/the-count-of-monte-cristo.mjs).
+if (world.characters.length !== 42 || world.items.length !== 17 || world.locationMarkers.length !== 50 || world.lorePages.length !== 10 || world.factions.length !== 7 || world.chapters.length !== 117) failures.push('Book content count changed');
 for (const slot of manifest.slots) {
   const entity = slot.kind === 'cover' ? world.world : world[collections[slot.kind]]?.find(x => x.id === slot.objectId);
   const blob = blobs.get(slot.newBlobId);

@@ -805,7 +805,7 @@
       "mapLayerId": "count-of-monte-cristo-map-paris",
       "linkedMapLayerId": null,
       "name": "Villefort Residence",
-      "description": "The divided household of prosecutor, poisoner, grandfather, lovers, and endangered heirs.",
+      "description": "The divided household of the crown prosecutor, his wife and son, his silent father, and his daughter.",
       "x": 555,
       "y": 786,
       "imageId": "count-of-monte-cristo-image-generated-099",
@@ -981,13 +981,37 @@
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-char-edmond",
       "name": "Edmond Dantès",
-      "aliases": [],
+      "aliases": [
+        "Edmond Dantès",
+        "Lord Wilmore",
+        "Abbé Busoni"
+      ],
       "description": "A young sailor of the Pharaon, newly given command on his captain's death and about to be married.",
       "portraitImageId": "count-of-monte-cristo-image-generated-002",
       "color": "#725545",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "count-of-monte-cristo-event-040",
+          "name": "Sinbad the Sailor"
+        },
+        {
+          "eventId": "count-of-monte-cristo-event-042",
+          "name": "The Count of Monte Cristo"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "Lord Wilmore",
+          "eventId": "count-of-monte-cristo-event-033"
+        },
+        {
+          "alias": "Abbé Busoni",
+          "eventId": "count-of-monte-cristo-event-034"
+        }
+      ]
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -1001,7 +1025,13 @@
       "color": "#725545",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "count-of-monte-cristo-event-035",
+          "name": "Mercédès, Madame de Morcerf"
+        }
+      ]
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -1009,13 +1039,21 @@
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-char-fernand",
       "name": "Fernand",
-      "aliases": [],
+      "aliases": [
+        "Fernand"
+      ],
       "description": "A Catalan fisherman, cousin to Mercédès and in love with her, who makes no secret of his jealousy of Edmond.",
       "portraitImageId": "count-of-monte-cristo-image-generated-004",
       "color": "#725545",
       "tags": [],
       "isAlive": false,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "count-of-monte-cristo-event-035",
+          "name": "The Count de Morcerf"
+        }
+      ]
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -1029,7 +1067,13 @@
       "color": "#725545",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "count-of-monte-cristo-event-035",
+          "name": "Baron Danglars"
+        }
+      ]
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -1262,7 +1306,7 @@
       "id": "count-of-monte-cristo-char-valentine",
       "name": "Valentine de Villefort",
       "aliases": [],
-      "description": "Villefort’s gentle daughter, protected by Noirtier and loved by Maximilien amid a lethal inheritance struggle.",
+      "description": "Villefort’s gentle daughter, protected by Noirtier and loved by Maximilien, and heir to her mother’s family fortune.",
       "portraitImageId": "count-of-monte-cristo-image-generated-022",
       "color": "#725545",
       "tags": [],
@@ -1290,7 +1334,7 @@
       "id": "count-of-monte-cristo-char-edouard",
       "name": "Édouard de Villefort",
       "aliases": [],
-      "description": "The young son whom Héloïse seeks to enrich and whose fate exposes the cost of indiscriminate vengeance.",
+      "description": "The spoiled young son of Villefort’s second marriage, on whom his mother dotes.",
       "portraitImageId": "count-of-monte-cristo-image-generated-024",
       "color": "#725545",
       "tags": [],
@@ -1430,7 +1474,7 @@
       "id": "count-of-monte-cristo-char-barrois",
       "name": "Barrois",
       "aliases": [],
-      "description": "Noirtier’s devoted servant and the accidental victim of poison intended for his master.",
+      "description": "Noirtier’s devoted old servant, who reads his master’s eyes almost as well as Valentine does.",
       "portraitImageId": "count-of-monte-cristo-image-generated-034",
       "color": "#725545",
       "tags": [],
@@ -1444,7 +1488,7 @@
       "id": "count-of-monte-cristo-char-avrigny",
       "name": "Doctor d’Avrigny",
       "aliases": [],
-      "description": "The Villefort family physician who recognizes a pattern of poisoning before the household will face it.",
+      "description": "The Villefort family physician, an old friend of the prosecutor’s and a careful observer.",
       "portraitImageId": "count-of-monte-cristo-image-generated-035",
       "color": "#725545",
       "tags": [],
@@ -1548,6 +1592,24 @@
       "tags": [],
       "isAlive": false,
       "birthDate": null
+    },
+    {
+      "worldId": "count-of-monte-cristo-world",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000,
+      "id": "count-of-monte-cristo-char-andrea-cavalcanti",
+      "name": "Andrea Cavalcanti",
+      "aliases": [],
+      "description": "A handsome, newly dressed young man of about twenty-one, presented at the count’s house as the long-lost son of Major Cavalcanti, and very easy in the part.",
+      "portraitImageId": null,
+      "color": null,
+      "tags": [],
+      "isAlive": true,
+      "birthDate": null,
+      "revealedAs": {
+        "characterId": "count-of-monte-cristo-char-andrea",
+        "eventId": "count-of-monte-cristo-event-078"
+      }
     }
   ],
   "items": [
@@ -1634,7 +1696,7 @@
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-item-brucine",
       "name": "Brucine Mixture",
-      "description": "A carefully measured poison and antidotal regimen at the heart of the Villefort household danger.",
+      "description": "A carefully measured mixture of brucine: a medicine in small doses, a poison in large ones.",
       "iconType": "flask",
       "imageId": "count-of-monte-cristo-image-generated-050",
       "tags": []
@@ -4490,7 +4552,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 52.00065,
-      "statusNotes": "Displays exact toxicological knowledge and observes how eagerly Héloïse applies it to inheritance."
+      "statusNotes": "Displays exact toxicological knowledge and notes how closely Héloïse listens."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -4522,7 +4584,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 52.00065,
-      "statusNotes": "Remains the beneficiary around whom his mother’s calculations turn."
+      "statusNotes": "Remains the indulged centre of his mother’s attention."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -4538,7 +4600,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 52.00066,
-      "statusNotes": "Places a dangerous principle before Héloïse without issuing an explicit instruction."
+      "statusNotes": "Answers every question Héloïse asks about doses and tolerance."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -4554,7 +4616,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 52.00066,
-      "statusNotes": "Recognizes a method that could protect one intended heir while eliminating others."
+      "statusNotes": "Listens to the count’s account of tolerance with more than polite attention."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -4737,7 +4799,7 @@
       "createdAt": 1786291200000,
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-snapshot-071-andrea",
-      "characterId": "count-of-monte-cristo-char-andrea",
+      "characterId": "count-of-monte-cristo-char-andrea-cavalcanti",
       "eventId": "count-of-monte-cristo-event-071",
       "isAlive": true,
       "currentLocationMarkerId": "count-of-monte-cristo-loc-champs-elysees",
@@ -4778,7 +4840,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 56.0007,
-      "statusNotes": "Brings two impostors together and confirms that Bertuccio’s recognition will hold."
+      "statusNotes": "Brings the hired father and the hired son together, and watches them play their parts."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -4794,7 +4856,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 56.0007,
-      "statusNotes": "Recognizes Benedetto beneath fashionable clothes and understands his master planned the encounter."
+      "statusNotes": "Shows the visitors in and attends to his master’s orders."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -5338,7 +5400,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 68.00084,
-      "statusNotes": "Receives guests with the confidence of a household whose inheritances she intends to control."
+      "statusNotes": "Receives guests with the composure of the prosecutor’s wife."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -5450,7 +5512,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 70.00086,
-      "statusNotes": "Watches the next obstacle to Édouard’s inheritance weaken."
+      "statusNotes": "Attends the household in its trouble with perfect propriety."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -6074,7 +6136,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 80.00101,
-      "statusNotes": "Lets circumstantial logic point toward his daughter because the alternative implicates his wife."
+      "statusNotes": "Lets circumstantial logic point toward his own daughter."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -6842,7 +6904,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 93.00117,
-      "statusNotes": "Moves toward the final heir standing between Édouard and the Saint-Méran fortune."
+      "statusNotes": "Attends to Valentine in her illness."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -6890,7 +6952,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 95.00119,
-      "statusNotes": "Pushes Villefort toward recognition without yet exposing Héloïse himself."
+      "statusNotes": "Pushes Villefort toward seeing what is happening in his own house."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -6906,7 +6968,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 95.00119,
-      "statusNotes": "Understands the likely poisoner but still tries to preserve the family name from public prosecution."
+      "statusNotes": "Hears the warning and holds to private justice, wanting no public prosecution of his own house."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -8944,7 +9006,7 @@
       "label": "secret lovers",
       "strength": 5,
       "sentiment": "positive",
-      "description": "Their garden courtship survives family commands, poison, simulated death, and a final trial of patience.",
+      "description": "They meet in secret across the garden gate, against the marriage her family has arranged.",
       "isBidirectional": true,
       "startEventId": "count-of-monte-cristo-event-065"
     },
@@ -9103,7 +9165,22 @@
       "startEventId": "count-of-monte-cristo-event-099"
     }
   ],
-  "relationshipSnapshots": [],
+  "relationshipSnapshots": [
+    {
+      "worldId": "count-of-monte-cristo-world",
+      "createdAt": 1786291200000,
+      "updatedAt": 1786291200000,
+      "id": "count-of-monte-cristo-relationship-snapshot-valentine-maximilien-wait",
+      "relationshipId": "count-of-monte-cristo-relationship-valentine-maximilien",
+      "eventId": "count-of-monte-cristo-event-149",
+      "sortKey": 117.000001,
+      "label": "secret lovers",
+      "strength": 5,
+      "sentiment": "positive",
+      "description": "Their garden courtship survives family commands, poison, simulated death, and a final trial of patience.",
+      "isActive": true
+    }
+  ],
   "timelines": [
     {
       "id": "count-of-monte-cristo-timeline-main",
@@ -9784,7 +9861,7 @@
       "timelineId": "count-of-monte-cristo-timeline-main",
       "number": 56,
       "title": "Andrea Cavalcanti",
-      "synopsis": "Benedetto arrives as Andrea Cavalcanti, recognizes Bertuccio, and performs a reunion with the supposed major.",
+      "synopsis": "Andrea Cavalcanti arrives at the count’s and performs a reunion with the supposed major.",
       "notes": "",
       "wordGoal": null
     },
@@ -13063,10 +13140,10 @@
       "chapterId": "count-of-monte-cristo-chapter-056",
       "timelineId": "count-of-monte-cristo-timeline-main",
       "title": "Andrea Meets His Purchased Father",
-      "description": "Benedetto arrives as Andrea Cavalcanti, recognizes Bertuccio, and performs a reunion with the supposed major.",
+      "description": "Andrea Cavalcanti arrives at the count’s and performs a reunion with the supposed major.",
       "locationMarkerId": "count-of-monte-cristo-loc-champs-elysees",
       "involvedCharacterIds": [
-        "count-of-monte-cristo-char-andrea",
+        "count-of-monte-cristo-char-andrea-cavalcanti",
         "count-of-monte-cristo-char-major-cavalcanti",
         "count-of-monte-cristo-char-edmond",
         "count-of-monte-cristo-char-bertuccio"
@@ -17154,7 +17231,7 @@
         "count-of-monte-cristo-item-brucine",
         "count-of-monte-cristo-item-sleeping-draught"
       ],
-      "visibleFromEventId": "count-of-monte-cristo-event-066"
+      "visibleFromEventId": "count-of-monte-cristo-event-128"
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -17232,7 +17309,7 @@
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-faction-morcerf-house",
       "name": "House of Morcerf",
-      "description": "The title and fortune built around Fernand’s military career, Mercédès’s memory, and Albert’s inherited honour.",
+      "description": "A count’s house in Paris, peer of France: his military title and fortune, his countess, and their son Albert’s inherited honour.",
       "color": "#6b596a",
       "coverImageId": "count-of-monte-cristo-image-generated-122",
       "tags": []
@@ -17254,7 +17331,7 @@
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-faction-villefort-house",
       "name": "Villefort Household",
-      "description": "A prosecutor’s family divided by politics, inheritance, hidden paternity, forbidden love, and poison.",
+      "description": "A crown prosecutor’s household: his second wife and their son, his paralysed father, and his daughter by his first marriage, with inheritances between them.",
       "color": "#625b68",
       "coverImageId": "count-of-monte-cristo-image-generated-124",
       "tags": []
@@ -18037,7 +18114,7 @@
       "startEventId": "count-of-monte-cristo-event-065",
       "endEventId": "count-of-monte-cristo-event-128",
       "type": "want",
-      "text": "Remain loyal to Noirtier while escaping a forced marriage and surviving the household poisoner."
+      "text": "Remain loyal to Noirtier while escaping the marriage her family has arranged."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -19494,9 +19571,9 @@
       "createdAt": 1786291200000,
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-thread-benedetto",
-      "name": "Benedetto’s Identity",
+      "name": "Bertuccio’s Secret",
       "color": "#695064",
-      "description": "The rescued infant becomes criminal, false aristocrat, and the public accuser of his father."
+      "description": "Something happened at the count’s new country house that Bertuccio cannot bear to remember."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -19505,16 +19582,16 @@
       "id": "count-of-monte-cristo-thread-valentine",
       "name": "Valentine and Maximilien",
       "color": "#8a6573",
-      "description": "A hidden courtship survives arranged marriage, inheritance conflict, poison, apparent death, and waiting."
+      "description": "A courtship kept secret across a garden gate, against the marriage Valentine’s family has arranged for her."
     },
     {
       "worldId": "count-of-monte-cristo-world",
       "createdAt": 1786291200000,
       "updatedAt": 1786291200000,
       "id": "count-of-monte-cristo-thread-poison",
-      "name": "The Villefort Poisonings",
+      "name": "Toxicology",
       "color": "#596b57",
-      "description": "Inheritance and toxicology turn the prosecutor’s household into a sequence of concealed murders."
+      "description": "Madame de Villefort takes a close interest in the count’s medicines, and in what a dose can do."
     },
     {
       "worldId": "count-of-monte-cristo-world",
@@ -19541,7 +19618,7 @@
       "id": "count-of-monte-cristo-thread-redemption",
       "name": "The Limits of Providence",
       "color": "#8a774d",
-      "description": "Édouard’s death forces the Count to abandon divine certainty and choose pardon, patience, and love."
+      "description": "The count believes himself the agent of Providence, rewarding and punishing; the question is how far that right extends."
     }
   ],
   "motifs": [
@@ -19588,7 +19665,7 @@
       "id": "count-of-monte-cristo-motif-poison",
       "name": "Poison and Dosage",
       "color": "#667556",
-      "description": "The same knowledge can immunize, heal, simulate death, or murder according to measure and intent."
+      "description": "The same knowledge can immunize, heal, or kill according to measure and intent."
     },
     {
       "worldId": "count-of-monte-cristo-world",

@@ -2561,7 +2561,35 @@
       "color": "#c9803a",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "jw-event-stone-monkey-born",
+          "name": "The Stone Monkey"
+        },
+        {
+          "eventId": "jw-event-waterfall-and-crown",
+          "name": "The Handsome Monkey King"
+        },
+        {
+          "eventId": "jw-event-subhuti-names-him",
+          "name": "Sun Wukong"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "The Handsome Monkey King",
+          "eventId": "jw-event-waterfall-and-crown"
+        },
+        {
+          "alias": "Great Sage Equal to Heaven",
+          "eventId": "jw-event-great-sage-titled"
+        },
+        {
+          "alias": "Pilgrim Sun",
+          "eventId": "jw-event-seal-peeled"
+        }
+      ]
     },
     {
       "worldId": "journey-to-the-west-world",
@@ -2579,7 +2607,35 @@
       "color": "#b8912f",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "jw-event-river-float",
+          "name": "River Float"
+        },
+        {
+          "eventId": "jw-event-mother-found",
+          "name": "Chen Xuanzang"
+        },
+        {
+          "eventId": "jw-event-pinch-of-dust",
+          "name": "Tripitaka"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "River Float",
+          "eventId": "jw-event-river-float"
+        },
+        {
+          "alias": "Chen Xuanzang",
+          "eventId": "jw-event-mother-found"
+        },
+        {
+          "alias": "The Tang Monk",
+          "eventId": "jw-event-pinch-of-dust"
+        }
+      ]
     },
     {
       "worldId": "journey-to-the-west-world",
@@ -2596,7 +2652,17 @@
       "color": "#8f5a4a",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "jw-event-zhu-converted",
+          "name": "Zhu Wuneng"
+        },
+        {
+          "eventId": "jw-event-rake-and-oath",
+          "name": "Zhu Bajie"
+        }
+      ]
     },
     {
       "worldId": "journey-to-the-west-world",
@@ -2613,7 +2679,13 @@
       "color": "#5a6e78",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "Sha Monk",
+          "eventId": "jw-event-gourd-and-skulls"
+        }
+      ]
     },
     {
       "worldId": "journey-to-the-west-world",
@@ -38779,7 +38851,7 @@
       "id": "jw-lore-text-source",
       "categoryId": "jw-lore-category-sources",
       "title": "The Text Behind This World",
-      "body": "Chapters, chapter titles, characters, places and events follow the complete hundred-chapter Chinese text at Chinese Wikisource (西遊記), read chapter by chapter. Every summary, description and status note in this world is original structural writing about the book — none of the novel’s prose is reproduced here, in Chinese or in translation. Names are given in the forms an English-language reader is most likely to meet: Tripitaka rather than Xuanzang for the pilgrim, Sun Wukong rather than the Monkey King where both are used.",
+      "body": "Chapters, chapter titles, characters, places and events follow the complete hundred-chapter Chinese text at Chinese Wikisource (西遊記), read chapter by chapter. Every summary, description and status note in this world is original structural writing about the book — none of the novel’s prose is reproduced here, in Chinese or in translation. Names are given in the forms an English-language reader is most likely to meet, and change where the book changes them.",
       "tags": [],
       "coverImageId": null,
       "linkedEntityIds": [],
@@ -38792,7 +38864,7 @@
       "id": "jw-lore-pictures",
       "categoryId": "jw-lore-category-sources",
       "title": "The Pictures in This World",
-      "body": "The maps and original illustrated plates were supplied by this world’s author as their own AI-generated work. Additional entity illustrations were generated with OpenAI image generation at the author’s request, using the supplied artwork as style references, and visually reviewed before assignment. These are modern interpretations, not historical illustrations from an edition of the novel. The cover is different: a leaf of the public-domain 1592 Shidetang Hall imprint, showing Sun Wukong with the cudgel outside the Plantain Cave.",
+      "body": "The maps and original illustrated plates were supplied by this world’s author as their own AI-generated work. Additional entity illustrations were generated with OpenAI image generation at the author’s request, using the supplied artwork as style references, and visually reviewed before assignment. These are modern interpretations, not historical illustrations from an edition of the novel. The cover is different: a leaf of the public-domain 1592 Shidetang Hall imprint, showing the monkey with his cudgel outside the Plantain Cave.",
       "tags": [],
       "coverImageId": null,
       "linkedEntityIds": [],
