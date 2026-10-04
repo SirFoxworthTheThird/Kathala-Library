@@ -47,4 +47,21 @@ w.set('chapters', 'chap_10_strider', 'synopsis',
   'Strider speaks to the Hobbits in their parlor, offering his protection and guidance. Barliman Butterbur remembers to deliver a letter from Gandalf, which confirms Strider\'s true identity as Aragorn. Merry rushes in with news that Black Riders are in Bree. The group decides to accept Strider\'s help and prepares to depart secretly.',
   'Strider speaks to the Hobbits in their parlor, offering his protection and guidance. Barliman Butterbur remembers to deliver a long-delayed letter from Gandalf, which vouches for Strider. Merry rushes in with news that Black Riders are in Bree. The group decides to accept Strider\'s help and prepares to depart secretly.')
 
+// The Nazgûl page is set to open with the first Black Rider (ch. 3) but named the Witch-king, who is
+// not met until Weathertop — and because it linked him, the app held the whole page back until then.
+// Without him it opens where it was meant to; the Witch-king's own record says who leads them.
+w.set('lorePages', 'lotr-lore-nazgul', 'body',
+  'Nine enslaved Ringwraiths serve Sauron, led by the Witch-king, and hunt the Ring through fear and the unseen world.',
+  'Nine enslaved Ringwraiths serve Sauron and hunt the Ring through fear and the unseen world.')
+w.set('lorePages', 'lotr-lore-nazgul', 'linkedEntityIds', ['char_black_rider_1', 'char_witch_king'], ['char_black_rider_1'])
+// On screen from the first page, when no rider has come to Hobbiton.
+w.set('lorePages', 'lotr-lore-shire', 'body',
+  'Protected homeland of the hobbits, largely ignorant of the wider war until the Ringwraiths cross its borders.',
+  'Protected homeland of the hobbits, largely ignorant of the wider world beyond its borders.')
+
+// The thread opens at the Council; what Boromir tries at Parth Galen is chapter 22's.
+w.set('plotThreads', 'lotr-thread-boromir', 'description',
+  'Boromir\'s duty to Gondor becomes fixation and attempted seizure of the Ring.',
+  'Boromir would use the Ring for Gondor, which stands alone against Mordor, and does not let the thought go.')
+
 w.save()

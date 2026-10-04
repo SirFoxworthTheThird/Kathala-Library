@@ -88,4 +88,83 @@ for (const [table, id, field] of [['chapters', 'count-of-monte-cristo-chapter-05
     'Andrea Cavalcanti arrives at the count’s and performs a reunion with the supposed major.')
 }
 
+// The poisoner. The world's own scenes keep her hidden until "The Poisoner Enters" (ch. 101), with
+// d'Avrigny naming poison in the house at ch. 75 and Barrois dying at ch. 79; the household's
+// faction, threads, place, motif and her own snapshots said it from the Dappled Grays on.
+const APPEARS_TO_DIE = w.scene('count-of-monte-cristo-event-128', 'Valentine Appears to Die')
+const WAIT_AND_HOPE = w.scene('count-of-monte-cristo-event-149', 'Wait and Hope')
+w.set('factions', 'count-of-monte-cristo-faction-villefort-house', 'description',
+  'A prosecutor’s family divided by politics, inheritance, hidden paternity, forbidden love, and poison.',
+  'A crown prosecutor’s household: his second wife and their son, his paralysed father, and his daughter by his first marriage, with inheritances between them.')
+w.set('plotThreads', 'count-of-monte-cristo-thread-poison', 'name', 'The Villefort Poisonings', 'Toxicology')
+w.set('plotThreads', 'count-of-monte-cristo-thread-poison', 'description',
+  'Inheritance and toxicology turn the prosecutor’s household into a sequence of concealed murders.',
+  'Madame de Villefort takes a close interest in the count’s medicines, and in what a dose can do.')
+w.set('plotThreads', 'count-of-monte-cristo-thread-redemption', 'description',
+  'Édouard’s death forces the Count to abandon divine certainty and choose pardon, patience, and love.',
+  'The count believes himself the agent of Providence, rewarding and punishing; the question is how far that right extends.')
+w.set('plotThreads', 'count-of-monte-cristo-thread-valentine', 'description',
+  'A hidden courtship survives arranged marriage, inheritance conflict, poison, apparent death, and waiting.',
+  'A courtship kept secret across a garden gate, against the marriage Valentine’s family has arranged for her.')
+const lovers = w.record('relationships', 'count-of-monte-cristo-relationship-valentine-maximilien')
+w.set('relationships', lovers.id, 'description',
+  'Their garden courtship survives family commands, poison, simulated death, and a final trial of patience.',
+  'They meet in secret across the garden gate, against the marriage her family has arranged.')
+// What it survives, said where it has survived it.
+w.add('relationshipSnapshots', {
+  worldId: lovers.worldId, createdAt: lovers.createdAt, updatedAt: lovers.createdAt,
+  id: 'count-of-monte-cristo-relationship-snapshot-valentine-maximilien-wait', relationshipId: lovers.id,
+  eventId: WAIT_AND_HOPE, sortKey: 117 + 1 / 1_000_000,
+  label: lovers.label, strength: lovers.strength, sentiment: lovers.sentiment,
+  description: 'Their garden courtship survives family commands, poison, simulated death, and a final trial of patience.', isActive: true,
+})
+w.set('characterGoals', 'count-of-monte-cristo-goal-12', 'text',
+  'Remain loyal to Noirtier while escaping a forced marriage and surviving the household poisoner.',
+  'Remain loyal to Noirtier while escaping the marriage her family has arranged.')
+w.set('items', 'count-of-monte-cristo-item-brucine', 'description',
+  'A carefully measured poison and antidotal regimen at the heart of the Villefort household danger.',
+  'A carefully measured mixture of brucine: a medicine in small doses, a poison in large ones.')
+w.set('locationMarkers', 'count-of-monte-cristo-loc-villefort-house', 'description',
+  'The divided household of prosecutor, poisoner, grandfather, lovers, and endangered heirs.',
+  'The divided household of the crown prosecutor, his wife and son, his silent father, and his daughter.')
+w.set('motifs', 'count-of-monte-cristo-motif-poison', 'description',
+  'The same knowledge can immunize, heal, simulate death, or murder according to measure and intent.',
+  'The same knowledge can immunize, heal, or kill according to measure and intent.')
+// The lore page sums up all three uses, the last of them in chapter 102.
+w.set('lorePages', 'count-of-monte-cristo-lore-page-7', 'visibleFromEventId', 'count-of-monte-cristo-event-066', APPEARS_TO_DIE)
+w.set('characters', 'count-of-monte-cristo-char-valentine', 'description',
+  'Villefort’s gentle daughter, protected by Noirtier and loved by Maximilien amid a lethal inheritance struggle.',
+  'Villefort’s gentle daughter, protected by Noirtier and loved by Maximilien, and heir to her mother’s family fortune.')
+w.set('characters', 'count-of-monte-cristo-char-edouard', 'description',
+  'The young son whom Héloïse seeks to enrich and whose fate exposes the cost of indiscriminate vengeance.',
+  'The spoiled young son of Villefort’s second marriage, on whom his mother dotes.')
+w.set('characters', 'count-of-monte-cristo-char-barrois', 'description',
+  'Noirtier’s devoted servant and the accidental victim of poison intended for his master.',
+  'Noirtier’s devoted old servant, who reads his master’s eyes almost as well as Valentine does.')
+w.set('characters', 'count-of-monte-cristo-char-avrigny', 'description',
+  'The Villefort family physician who recognizes a pattern of poisoning before the household will face it.',
+  'The Villefort family physician, an old friend of the prosecutor’s and a careful observer.')
+for (const [id, from, to] of [
+  ['066-edmond', 'Displays exact toxicological knowledge and observes how eagerly Héloïse applies it to inheritance.',
+    'Displays exact toxicological knowledge and notes how closely Héloïse listens.'],
+  ['066-edouard', 'Remains the beneficiary around whom his mother’s calculations turn.',
+    'Remains the indulged centre of his mother’s attention.'],
+  ['067-edmond', 'Places a dangerous principle before Héloïse without issuing an explicit instruction.',
+    'Answers every question Héloïse asks about doses and tolerance.'],
+  ['067-heloise', 'Recognizes a method that could protect one intended heir while eliminating others.',
+    'Listens to the count’s account of tolerance with more than polite attention.'],
+  ['085-heloise', 'Receives guests with the confidence of a household whose inheritances she intends to control.',
+    'Receives guests with the composure of the prosecutor’s wife.'],
+  ['087-heloise', 'Watches the next obstacle to Édouard’s inheritance weaken.',
+    'Attends the household in its trouble with perfect propriety.'],
+  ['102-villefort', 'Lets circumstantial logic point toward his daughter because the alternative implicates his wife.',
+    'Lets circumstantial logic point toward his own daughter.'],
+  ['118-heloise', 'Moves toward the final heir standing between Édouard and the Saint-Méran fortune.',
+    'Attends to Valentine in her illness.'],
+  ['120-edmond', 'Pushes Villefort toward recognition without yet exposing Héloïse himself.',
+    'Pushes Villefort toward seeing what is happening in his own house.'],
+  ['120-villefort', 'Understands the likely poisoner but still tries to preserve the family name from public prosecution.',
+    'Hears the warning and holds to private justice, wanting no public prosecution of his own house.'],
+]) w.set('characterSnapshots', `count-of-monte-cristo-snapshot-${id}`, 'statusNotes', from, to)
+
 w.save()
