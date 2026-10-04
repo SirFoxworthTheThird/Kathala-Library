@@ -150,4 +150,7 @@ w.set('chapters', 'jane-eyre-chapter-33', 'synopsis',
   'A torn scrap of paper connects Jane Elliott with the heiress sought by Briggs. John Eyre’s fortune belongs to Jane, and the Rivers siblings are revealed as her relatives.',
   'A torn scrap of paper connects Jane Elliott with the heiress sought by Briggs. John Eyre’s fortune belongs to Jane, and St John has more to tell her.')
 
+// The wedding is stopped one scene before Bertha is named.
+w.set('knowledgeFacts', 'jane-eyre-fact-bertha-wife', 'title', 'Bertha Mason is Rochester’s living wife', 'Rochester has a living wife')
+
 w.save()

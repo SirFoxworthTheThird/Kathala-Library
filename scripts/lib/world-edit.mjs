@@ -13,8 +13,8 @@
     w.set('characters', 'jane-eyre-char-bertha', 'name', 'Bertha …', 'The Woman in the Attic')
     w.save()
 
-  `save` serialises exactly as the shelf does — two-space JSON and a final
-  newline — so an untouched world round-trips byte for byte. Run
+  `save` writes the world back in the format it was read in, so an untouched
+  world round-trips byte for byte. Run
   `npm run catalogue` afterwards: the catalogue records each world's size.
 */
 import fs from 'node:fs'
@@ -26,7 +26,20 @@ const same = (a, b) => JSON.stringify(a) === JSON.stringify(b)
 
 export function openWorld(slug) {
   const file = path.join(root, 'library', `${slug}.pwk`)
-  const world = JSON.parse(fs.readFileSync(file, 'utf8'))
+  const original = fs.readFileSync(file, 'utf8')
+  const world = JSON.parse(original)
+  /*
+    Each world keeps the shape it was written in — most are two-space JSON with a
+    final newline, a few are compact, some without the newline. Writing them all
+    one way would turn a five-field edit into a whole-file diff and change the
+    size the catalogue records. So the format is found by reproducing the file,
+    and an unrecognised one is refused rather than guessed.
+  */
+  const format = [
+    (x) => `${JSON.stringify(x, null, 2)}\n`, (x) => JSON.stringify(x, null, 2),
+    (x) => `${JSON.stringify(x)}\n`, (x) => JSON.stringify(x),
+  ].find((f) => f(world) === original)
+  if (!format) throw new Error(`${slug}: the file's own format could not be reproduced, so it will not be rewritten`)
   let changed = 0
 
   const record = (table, id) => {
@@ -78,7 +91,7 @@ export function openWorld(slug) {
       return id
     },
     save() {
-      fs.writeFileSync(file, `${JSON.stringify(world, null, 2)}\n`)
+      fs.writeFileSync(file, format(world))
       console.log(`${slug}: ${changed} change${changed === 1 ? '' : 's'}`)
     },
   }

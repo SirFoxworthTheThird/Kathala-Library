@@ -64,4 +64,10 @@ w.set('characters', 'jw-character-zhu-bajie', 'nameChanges', undefined, [
 
 w.set('characters', 'jw-character-sha-wujing', 'aliasesFrom', undefined, [{ alias: 'Sha Monk', eventId: SHA_MONK }])
 
+// Two colophon pages are open from the first scene, and named the pilgrims before the book does.
+w.replace('lorePages', 'jw-lore-text-source', 'body',
+  /Names are given in the forms an English-language reader is most likely to meet: Tripitaka rather than Xuanzang for the pilgrim, Sun Wukong rather than the Monkey King where both are used\./,
+  'Names are given in the forms an English-language reader is most likely to meet, and change where the book changes them.')
+w.replace('lorePages', 'jw-lore-pictures', 'body', /showing Sun Wukong with the cudgel/, 'showing the monkey with his cudgel')
+
 w.save()

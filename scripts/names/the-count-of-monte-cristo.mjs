@@ -51,9 +51,10 @@ w.set('characters', 'count-of-monte-cristo-char-fernand', 'nameChanges', undefin
 w.set('characters', 'count-of-monte-cristo-char-fernand', 'aliases', [], ['Fernand'])
 w.set('characters', 'count-of-monte-cristo-char-mercedes', 'nameChanges', undefined, [{ eventId: GUILTY, name: 'Mercédès, Madame de Morcerf' }])
 w.set('characters', 'count-of-monte-cristo-char-danglars', 'nameChanges', undefined, [{ eventId: GUILTY, name: 'Baron Danglars' }])
+// Listed from the start, so it names the house and not the man until Caderousse does.
 w.set('factions', 'count-of-monte-cristo-faction-morcerf-house', 'description',
   'The title and fortune built around Fernand’s military career, Mercédès’s memory, and Albert’s inherited honour.',
-  'The house of the Count de Morcerf, peer of France: his military title and fortune, his countess, and their son Albert’s inherited honour.')
+  'A count’s house in Paris, peer of France: his military title and fortune, his countess, and their son Albert’s inherited honour.')
 
 // Andrea Cavalcanti, as Paris meets him, revealed to be Benedetto.
 w.add('characters', {
@@ -76,10 +77,11 @@ w.set('characterSnapshots', 'count-of-monte-cristo-snapshot-071-bertuccio', 'sta
   'Recognizes Benedetto beneath fashionable clothes and understands his master planned the encounter.',
   'Shows the visitors in and attends to his master’s orders.')
 
-// The thread opens on Bertuccio's story in chapter 43, and the chapter and scene where Andrea arrives.
+// The thread opens in chapter 43, a chapter before Bertuccio tells his story, and the chapter and scene where Andrea arrives.
+w.set('plotThreads', 'count-of-monte-cristo-thread-benedetto', 'name', 'Benedetto’s Identity', 'Bertuccio’s Secret')
 w.set('plotThreads', 'count-of-monte-cristo-thread-benedetto', 'description',
   'The rescued infant becomes criminal, false aristocrat, and the public accuser of his father.',
-  'The infant Bertuccio dug from a garden at Auteuil, alive, and what became of him.')
+  'Something happened at the count’s new country house that Bertuccio cannot bear to remember.')
 for (const [table, id, field] of [['chapters', 'count-of-monte-cristo-chapter-056', 'synopsis'], ['events', PURCHASED, 'description']]) {
   w.set(table, id, field,
     'Benedetto arrives as Andrea Cavalcanti, recognizes Bertuccio, and performs a reunion with the supposed major.',

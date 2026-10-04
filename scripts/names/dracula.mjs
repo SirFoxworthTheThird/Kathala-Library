@@ -54,4 +54,9 @@ w.add('relationshipSnapshots', {
   description: 'Dracula repeatedly feeds on Lucy and turns her into an undead predator.', isActive: true,
 })
 
+// "Lord Godalming" is his father until chapter 13.
+w.set('characters', 'dracula-char-arthur', 'description',
+  'Lucy’s fiancé and heir to Lord Godalming, steady where his friends are clever.',
+  'Lucy’s fiancé, only son of an ailing lord, steady where his friends are clever.')
+
 w.save()
