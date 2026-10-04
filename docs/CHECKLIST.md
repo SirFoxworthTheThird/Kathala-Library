@@ -3,7 +3,7 @@
 > [!CAUTION]
 > This checklist is a release gate. Complete it for every new or substantially revised example. An unchecked applicable item means the example is not finished and must not be merged.
 
-Read and follow the [mandatory example-authoring rules](EXAMPLE_AUTHORING_RULES.md) before starting. Rule IDs below refer to that document. Mark an item “N/A” only with a written reason in the generator, pull request, or review notes.
+Read and follow the [mandatory authoring rules](AUTHORING.md) before starting. Rule IDs below refer to that document. Start a book-specific copy of this checklist before enrichment. Mark an item “N/A” only with a written reason in the generator, pull request, or review notes.
 
 ## Source and structure
 
@@ -12,6 +12,8 @@ Read and follow the [mandatory example-authoring rules](EXAMPLE_AUTHORING_RULES.
 - [ ] Timeline count and chronology are justified. (`EX-004`)
 - [ ] Tension, elapsed time, and calendar values are valid and editorial assumptions are documented. (`EX-005`–`EX-006`)
 - [ ] Copyrighted prose is not reproduced. Any public-domain prose in scene drafts has a verified edition, translator where applicable, public-domain status, and source documented in Lore and the catalogue notice; its passage order and coverage were validated. Structural summaries and metadata remain original writing. (`EX-007`)
+- [ ] The edition, publication and rights evidence, retained source boundaries, and every excluded packaging block are recorded. The complete retained narrative was copied before enrichment and reconstructs exactly under a documented normalization, with word count checked. (`EX-011`)
+- [ ] Every scene cut was reviewed at its adjacent paragraphs for event change, location, cast, knowledge, and item hand-offs. (`EX-012`)
 
 ## Characters and continuity
 
@@ -19,6 +21,7 @@ Read and follow the [mandatory example-authoring rules](EXAMPLE_AUTHORING_RULES.
 - [ ] Every event has exactly one snapshot per present character and none for absent characters. (`EX-102`)
 - [ ] Every snapshot has a unique, event-specific state and correct location/map. (`EX-103`–`EX-105`)
 - [ ] Deaths, injuries, knowledge, goals, inventory, relationships, and affiliations respect chronology. (`EX-106`)
+- [ ] Offstage state changes appear when reported, without an absent-character snapshot; reading mode was checked immediately before and after the report. (`EX-108`)
 
 ## Maps and locations
 
@@ -49,14 +52,15 @@ Read and follow the [mandatory example-authoring rules](EXAMPLE_AUTHORING_RULES.
 
 ## Packaging and validation
 
-- [ ] `example/` and `public/library/` copies are synchronized. (`EX-501`)
+- [ ] The single downloadable `.pwk` is in `library/`; retired duplicate export trees were not recreated. (`EX-501`)
 - [ ] `.pwb` usage is necessary and correct, or no `.pwb` is included. (`EX-502`)
-- [ ] `public/library/index.json` has exact metadata, counts, filenames, world ID, and UTF-8 byte size. (`EX-503`)
-- [ ] The committed generator reproduces the shipped files and metadata. (`EX-504`)
+- [ ] `library/index.json` has exact metadata, counts, filenames, world ID, and UTF-8 byte size. (`EX-503`)
+- [ ] The committed generator reproduces the shipped file, artwork references, and metadata byte for byte. (`EX-504`)
 - [ ] `npm test -- --run libraryCatalogue exampleQuality exampleCompat` passes. (`EX-505`)
 - [ ] The Library download was opened in reading mode and every application page was visited. (`EX-506`)
 - [ ] No broken images, infinite loaders, unresolved references, or relevant console errors remain. (`EX-507`)
 - [ ] The handoff or pull request records counts and validation evidence. (`EX-508`)
+- [ ] The book-specific checklist records completed and remaining work and any known test failures accurately; a completion claim is made only when every applicable gate has evidence.
 
 ## Required completion statement
 

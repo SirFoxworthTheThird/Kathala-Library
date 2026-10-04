@@ -51,7 +51,10 @@ There is one copy now. Do not add a second.
 ## Authoring
 
 `docs/AUTHORING.md` is the contract, and the tests enforce what can be enforced.
-Read it before adding or substantially revising a book. Two things it is worth
+Read it before adding or substantially revising a book. Start a book-specific
+copy of `docs/CHECKLIST.md`, finish the source reconstruction and scene-boundary
+audit before enrichment, and keep the checklist and progress reports current.
+Two things it is worth
 knowing before you start:
 
 - **A book without prose is a legitimate book.** Six of the worlds are in

@@ -24,6 +24,9 @@ If a rule genuinely does not apply, record the reason in the generator, pull req
 
   **And the word for a shipped world is “world”, never “example”.** These rules call them examples among ourselves — EX-001 and EX-401 both do — and that word used to reach the reader: *The Iliad* said its artwork was *“created for this Kathala example”*, and twenty-eight of Tolkien's map layers read *“geographic layer for the Fellowship example”*. It is honest provenance that also tells somebody they are holding a demo rather than a book. Sixteen phrasings across fourteen books were changed, and the shelf notice with them. The ordinary sense of the word is untouched and must stay: Miss Temple *“provides the stable example under which Jane's intellectual life develops”*, and Moby-Dick's harpoon crotch is *“another example of the boat's dangerous precision”*. `tests/libraryLoreVoice.test.ts` tells the two apart by requiring *this* or *the* immediately before the word, which caught all sixteen and none of the seven survivors.
 
+- **EX-011 — Audit the source before enrichment.** For a prose edition, first copy the complete retained narrative into chapter and scene drafts in source order. Record the exact edition, source file or URL, publication and public-domain evidence, extraction boundaries, and every excluded block. Compare the reconstructed manuscript with the retained source byte-for-byte or by an explicitly documented normalization, and verify the word count before adding worldbuilding data or artwork. Fix missing or repeated passages before proceeding.
+- **EX-012 — Review every scene boundary against the prose.** Record each cut at a paragraph boundary and why the event changes there. Check the opening and closing paragraphs, event location, present cast, knowledge and item hand-offs on both sides of every cut. A source word-count match alone cannot prove that an event begins or ends at the right moment.
+
 ## 2. Characters and event state
 
 - **EX-101 — Include the necessary cast.** Add every character needed to understand the complete story and omit background names that never affect the modeled narrative.
@@ -33,6 +36,8 @@ If a rule genuinely does not apply, record the reason in the generator, pull req
 - **EX-105 — Place every present character.** Each snapshot must reference the correct event location and map layer. Location and icon movement must follow map and floor changes during playback.
 - **EX-106 — Respect chronology.** Alive/dead state, injuries, affiliations, knowledge, goals, relationships, inventory, and location must be correct for the event—not copied backward from the ending or forward from a later chapter.
 - **EX-107 — Model meaningful relationships.** Define the relationships needed to understand the story and add snapshots when their label, strength, sentiment, or active state materially changes.
+
+- **EX-108 — Handle offstage changes at their report.** When a death or other state change happens away from the modeled scene, reveal it when the narrative reports it. Do not create a presence snapshot for an absent character to force the change. Use a gated fact or other supported mechanism, verify the character state immediately before and after the report in reading mode, and document any required application behavior.
 
 ## 3. Maps and locations
 
@@ -75,10 +80,10 @@ If a rule genuinely does not apply, record the reason in the generator, pull req
 
 ## 6. Packaging and release
 
-- **EX-501 — Synchronize both copies.** The editable `.pwk` in `example/` and downloadable `.pwk` in `public/library/` must be byte-for-byte synchronized when both are shipped.
+- **EX-501 — Ship one current copy.** The downloadable `.pwk` belongs in `library/`. Do not recreate the retired `example/` or `public/library/` export trees. If an older checkout genuinely ships multiple copies, prove they are byte-for-byte synchronized.
 - **EX-502 — Use `.pwb` only when needed.** Include one only for uploaded image blobs. A linked-image example must not carry an empty or obsolete `.pwb`.
 - **EX-503 — Update the catalogue exactly.** `library/index.json` must contain the correct ID, title, author, blurb, notice, cover, data filename, world ID, entity counts, and exact UTF-8 byte size.
-- **EX-504 — Keep generation reproducible.** When a generator is used, commit it and make regeneration preserve both shipped copies and catalogue metadata.
+- **EX-504 — Keep generation reproducible.** When a generator is used, commit it and make regeneration preserve the shipped `.pwk`, artwork references, and catalogue metadata.
 - **EX-505 — Run automated validation.** At minimum run `npm test -- --run libraryCatalogue exampleQuality exampleCompat`. Any failure blocks release. Run the full suite when shared code or validation logic changes.
 - **EX-506 — Complete the application pass.** Load the downloadable copy through Library in reading mode. Visit Timeline, Calendar, Characters, Arc, Relationships, Items, Maps, Lore, Factions, and Knowledge; then disable reading mode and repeat checks requiring the complete dataset.
 - **EX-507 — Check runtime health.** There must be no broken image, infinite loader, unresolved reference, or relevant console error during the application pass.
@@ -86,7 +91,7 @@ If a rule genuinely does not apply, record the reason in the generator, pull req
 
 ## Enforcement
 
-The suite in `src/lib/__tests__/exampleQuality.test.ts` enforces rules that can be determined from exported data. Manual rules remain equally mandatory when a test cannot detect them.
+The suite in `tests/exampleQuality.test.ts` enforces rules that can be determined from exported data. Manual rules remain equally mandatory when a test cannot detect them.
 
 A reviewer must reject or return an example when:
 
@@ -94,7 +99,11 @@ A reviewer must reject or return an example when:
 - the checklist contains an unchecked item without an explained non-applicability decision;
 - visual validation is claimed without opening every map and submap in Kathala;
 - images were assigned from URLs or filenames without visual inspection;
-- only one of the editable and downloadable copies was updated;
+- the downloadable `library/` copy or its catalogue entry is stale;
 - completion is reported without validation evidence.
 
 When a recurring failure is machine-detectable, add or strengthen an automated guardrail so the same mistake cannot silently return.
+
+## Authoring sequence and progress evidence
+
+Create a book-specific checklist at the start and keep it current as work proceeds. Record source boundaries, manuscript reconstruction, scene-boundary review, world data, art review, automated checks, and application inspection as separate gates. Finish and verify each gate before claiming the whole book is complete. A handoff must distinguish completed work, remaining work, and known test failures with their scope; progress updates during a long build should state the same plainly.
