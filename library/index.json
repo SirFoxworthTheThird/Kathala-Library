@@ -600,6 +600,24 @@
       "hasProse": true
     },
     {
+      "id": "sign-of-the-four",
+      "title": "The Sign of the Four",
+      "author": "Arthur Conan Doyle",
+      "blurb": "Mary Morstan’s missing father and anonymous pearls lead Holmes and Watson through a Norwood murder to an iron chest, the Agra treasure, and a pursuit on the Thames.",
+      "data": "sign-of-the-four.pwk",
+      "dataBytes": 652986,
+      "counts": {
+        "characters": 25,
+        "chapters": 12,
+        "events": 87,
+        "locations": 26
+      },
+      "notice": "Unofficial reading-mode edition of a public-domain novel. Manuscript scenes reproduce the complete twelve-chapter narrative from Project Gutenberg eBook #2097, updated 6 April 2026; Gutenberg header, title/byline, contents list, end marker and licence are excluded. Structural divisions, chronology, six map layers and state notes are editorial. All 67 artwork and map assets were generated separately for this edition and documented in Lore and the artwork manifest.",
+      "worldId": "sign-of-the-four-world",
+      "cover": "library/sign-of-the-four/art/world.png",
+      "hasProse": true
+    },
+    {
       "id": "strange-case-of-dr-jekyll-and-mr-hyde",
       "title": "Strange Case of Dr Jekyll and Mr Hyde",
       "author": "Robert Louis Stevenson",
