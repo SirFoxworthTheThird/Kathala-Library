@@ -633,13 +633,26 @@
       "updatedAt": 1785585600000,
       "id": "hound-char-stapleton",
       "name": "Jack Stapleton",
-      "aliases": [],
-      "description": "A naturalist of the moor, secretly Roger Baskerville and architect of the murders.",
+      "aliases": [
+        "Vandeleur",
+        "Rodger Baskerville"
+      ],
+      "description": "A slim, clean-shaven naturalist with a butterfly net, settled at Merripit House, who knows the moor and the Grimpen Mire better than anyone.",
       "portraitImageId": "hound-image-generated-character-stapleton",
       "color": "#6f8155",
       "tags": [],
       "isAlive": false,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "Vandeleur",
+          "eventId": "hound-event-55"
+        },
+        {
+          "alias": "Rodger Baskerville",
+          "eventId": "hound-event-64"
+        }
+      ]
     },
     {
       "worldId": "hound-world",
@@ -647,13 +660,26 @@
       "updatedAt": 1785585600000,
       "id": "hound-char-beryl",
       "name": "Beryl Stapleton",
-      "aliases": [],
-      "description": "Stapleton’s wife, forced to pose as his sister and struggling to warn Sir Henry.",
+      "aliases": [
+        "Mrs Vandeleur",
+        "Beryl Garcia"
+      ],
+      "description": "Stapleton’s sister: tall, dark and strikingly beautiful, nothing like her brother, who urges a stranger on the moor to go straight back to London.",
       "portraitImageId": "hound-image-generated-character-beryl",
       "color": "#8f6b76",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "aliasesFrom": [
+        {
+          "alias": "Mrs Vandeleur",
+          "eventId": "hound-event-55"
+        },
+        {
+          "alias": "Beryl Garcia",
+          "eventId": "hound-event-64"
+        }
+      ]
     },
     {
       "worldId": "hound-world",
@@ -822,6 +848,24 @@
       "tags": [],
       "isAlive": false,
       "birthDate": null
+    },
+    {
+      "worldId": "hound-world",
+      "createdAt": 1785585600000,
+      "updatedAt": 1785585600000,
+      "id": "hound-char-bearded-man",
+      "name": "The Bearded Man in the Cab",
+      "aliases": [],
+      "description": "A man with a bushy black beard who watches Sir Henry from a hansom cab in Regent Street, and is driven off at speed the moment he is seen.",
+      "portraitImageId": null,
+      "color": null,
+      "tags": [],
+      "isAlive": true,
+      "birthDate": null,
+      "revealedAs": {
+        "characterId": "hound-char-stapleton",
+        "eventId": "hound-event-49"
+      }
     }
   ],
   "items": [
@@ -1734,7 +1778,7 @@
       "createdAt": 1785585600000,
       "updatedAt": 1785585600000,
       "id": "hound-snapshot-15-stapleton",
-      "characterId": "hound-char-stapleton",
+      "characterId": "hound-char-bearded-man",
       "eventId": "hound-event-15",
       "isAlive": true,
       "currentLocationMarkerId": "hound-loc-charing-cross",
@@ -1743,7 +1787,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 403,
-      "statusNotes": "Escaping in a cab behind a false beard after confirming Sir Henry’s movements."
+      "statusNotes": "Watching Sir Henry from a hansom cab, and driving off the moment he is seen."
     },
     {
       "worldId": "hound-world",
@@ -1759,7 +1803,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 403,
-      "statusNotes": "Driving a disguised passenger without knowing his identity or purpose."
+      "statusNotes": "Driving a bearded passenger who has paid him to follow Sir Henry."
     },
     {
       "worldId": "hound-world",
@@ -2495,7 +2539,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 292,
-      "statusNotes": "Rejoining them while monitoring Beryl and maintaining the fiction that she is his sister."
+      "statusNotes": "Rejoins them, and watches his sister closely as she takes back what she said."
     },
     {
       "worldId": "hound-world",
@@ -2527,7 +2571,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 310,
-      "statusNotes": "Warning Sir Henry that the supposed sibling relationship makes the courtship dangerous."
+      "statusNotes": "Noticing, uneasily, how quickly Sir Henry is taken with Miss Stapleton."
     },
     {
       "worldId": "hound-world",
@@ -2623,7 +2667,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 341,
-      "statusNotes": "Responding under the pressure of affection, deception, and fear of her husband."
+      "statusNotes": "Torn between Sir Henry’s attention and her brother’s displeasure."
     },
     {
       "worldId": "hound-world",
@@ -2671,7 +2715,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 351,
-      "statusNotes": "Caught between Sir Henry’s courtship and her husband’s possessive rage."
+      "statusNotes": "Caught between Sir Henry’s courtship and her brother’s sudden fury."
     },
     {
       "worldId": "hound-world",
@@ -4706,7 +4750,7 @@
       "label": "Courtship under threat",
       "strength": "strong",
       "sentiment": "positive",
-      "description": "Their attraction becomes dangerous because Stapleton presents Beryl as his sister.",
+      "description": "Sir Henry is drawn to Miss Stapleton from their first meeting, and her brother is strangely set against it.",
       "isBidirectional": true,
       "startEventId": null
     },
@@ -4720,7 +4764,7 @@
       "label": "Naturalist and his sister",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Stapleton presents Beryl as his sister, and she does not contradict him.",
+      "description": "Brother and sister at Merripit House; she keeps house for the naturalist.",
       "isBidirectional": true,
       "startEventId": null
     },
@@ -4734,9 +4778,9 @@
       "label": "Hidden rival heirs",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Stapleton must kill Sir Henry to clear his path to the Baskerville estate.",
+      "description": "Hugo Baskerville’s portrait shows Stapleton’s face: a Baskerville, with designs upon the succession, and Sir Henry stands in the way.",
       "isBidirectional": true,
-      "startEventId": null
+      "startEventId": "hound-event-53"
     },
     {
       "worldId": "hound-world",
@@ -4764,7 +4808,7 @@
       "sentiment": "negative",
       "description": "Stapleton promises marriage and manipulates Laura into writing the fatal letter.",
       "isBidirectional": true,
-      "startEventId": null
+      "startEventId": "hound-event-55"
     },
     {
       "worldId": "hound-world",
@@ -4848,7 +4892,7 @@
       "sentiment": "negative",
       "description": "Each hides his movements while testing the other’s knowledge.",
       "isBidirectional": true,
-      "startEventId": null
+      "startEventId": "hound-event-49"
     },
     {
       "worldId": "hound-world",
@@ -4865,7 +4909,22 @@
       "startEventId": null
     }
   ],
-  "relationshipSnapshots": [],
+  "relationshipSnapshots": [
+    {
+      "worldId": "hound-world",
+      "createdAt": 1785585600000,
+      "updatedAt": 1785585600000,
+      "id": "hound-relationship-snapshot-5-named",
+      "relationshipId": "hound-relationship-5",
+      "eventId": "hound-event-49",
+      "sortKey": 12,
+      "label": "Husband and wife",
+      "strength": "strong",
+      "sentiment": "negative",
+      "description": "The lady who has passed as Miss Stapleton is in reality his wife.",
+      "isActive": true
+    }
+  ],
   "timelines": [
     {
       "id": "hound-timeline-main",
@@ -5606,7 +5665,7 @@
         "hound-char-watson",
         "hound-char-sir-henry",
         "hound-char-mortimer",
-        "hound-char-stapleton",
+        "hound-char-bearded-man",
         "hound-char-clayton"
       ],
       "mentionedCharacterIds": [],
@@ -8452,7 +8511,7 @@
       "updatedAt": 1785585600000,
       "id": "hound-faction-merripit",
       "name": "The Merripit Household",
-      "description": "Stapleton’s false domestic arrangement with Beryl and the hidden hound.",
+      "description": "Merripit House, the Stapletons’ grey farmhouse at the edge of the Grimpen Mire, and the two who live there.",
       "color": "#68764f",
       "coverImageId": null,
       "tags": []
@@ -8596,7 +8655,7 @@
       "id": "hound-membership-10",
       "factionId": "hound-faction-merripit",
       "characterId": "hound-char-stapleton",
-      "role": "Master of the conspiracy",
+      "role": "Master of the house",
       "startEventId": null,
       "endEventId": null,
       "notes": ""
@@ -8608,7 +8667,7 @@
       "id": "hound-membership-11",
       "factionId": "hound-faction-merripit",
       "characterId": "hound-char-beryl",
-      "role": "Coerced wife",
+      "role": "Mistress of the house",
       "startEventId": null,
       "endEventId": null,
       "notes": ""
@@ -9906,7 +9965,7 @@
       "id": "hound-motif-disguise",
       "name": "Names and Disguises",
       "color": "#765f72",
-      "description": "False kinship, false names, a beard, and hidden observation destabilise identity."
+      "description": "A beard glimpsed through a cab window, a name that may not be the speaker’s own: people seen without being known."
     },
     {
       "worldId": "hound-world",

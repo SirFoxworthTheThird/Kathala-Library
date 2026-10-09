@@ -5,7 +5,7 @@
   "world": {
     "id": "invisible-man-world",
     "name": "The Invisible Man",
-    "description": "H. G. Wells’s grotesque scientific romance follows Griffin, a physicist who makes his body invisible and discovers that freedom from sight does not mean freedom from hunger, cold, injury, suspicion, or consequence. His search for privacy and reversal in Iping becomes coercion, flight, confession, and a public hunt across southern England.",
+    "description": "H. G. Wells’s grotesque scientific romance follows a man who has made his body invisible and discovers that freedom from sight does not mean freedom from hunger, cold, injury, suspicion, or consequence. His search for privacy in the village of Iping becomes coercion, flight, confession, and a public hunt across southern England.",
     "coverImageId": "invisible-man-image-cover",
     "theme": "theme-mystery",
     "readingMode": true,
@@ -181,7 +181,7 @@
       "mapLayerId": "invisible-man-map-england",
       "linkedMapLayerId": "invisible-man-map-london",
       "name": "London",
-      "description": "The metropolis offers Griffin laboratories, crowds, shops, and anonymity, but winter weather makes invisibility physically punishing.",
+      "description": "The metropolis offers the Invisible Man laboratories, crowds, shops, and anonymity, but winter weather makes invisibility physically punishing.",
       "x": 1190,
       "y": 484,
       "imageId": "invisible-man-image-locations-london-gate",
@@ -197,7 +197,7 @@
       "mapLayerId": "invisible-man-map-england",
       "linkedMapLayerId": null,
       "name": "Bramblehurst Railway Station",
-      "description": "A rural station from which Griffin walks through snow toward Iping carrying a black portmanteau.",
+      "description": "A rural station from which the stranger walks through snow toward Iping carrying a black portmanteau.",
       "x": 1015,
       "y": 359,
       "imageId": "invisible-man-image-locations-bramblehurst",
@@ -245,7 +245,7 @@
       "mapLayerId": "invisible-man-map-england",
       "linkedMapLayerId": "invisible-man-map-burdock",
       "name": "Port Burdock",
-      "description": "A fictional Channel town where Marvel reaches police protection and Griffin turns to his former university acquaintance.",
+      "description": "A fictional Channel town where Marvel reaches police protection and the Invisible Man turns to his former university acquaintance.",
       "x": 1080,
       "y": 259,
       "imageId": "invisible-man-image-locations-burdock-gate",
@@ -277,7 +277,7 @@
       "mapLayerId": "invisible-man-map-iping",
       "linkedMapLayerId": "invisible-man-map-coach",
       "name": "The Coach and Horses",
-      "description": "Mrs Hall’s inn provides Griffin a private room, food, and a temporary laboratory until unpaid bills and village suspicion close in.",
+      "description": "Mrs Hall’s inn provides the Invisible Man a private room, food, and a temporary laboratory until unpaid bills and village suspicion close in.",
       "x": 740,
       "y": 595,
       "imageId": "invisible-man-image-locations-coach-gate",
@@ -341,7 +341,7 @@
       "mapLayerId": "invisible-man-map-iping",
       "linkedMapLayerId": null,
       "name": "Huxter’s General Shop",
-      "description": "A shop facing the inn lets Huxter watch Marvel leave with Griffin’s books and clothing.",
+      "description": "A shop facing the inn lets Huxter watch Marvel leave with the Invisible Man’s books and clothing.",
       "x": 780,
       "y": 475,
       "imageId": "invisible-man-image-locations-huxter-shop",
@@ -405,7 +405,7 @@
       "mapLayerId": "invisible-man-map-coach",
       "linkedMapLayerId": null,
       "name": "Guest Parlour",
-      "description": "A firelit private room where Griffin eats alone, keeps his face covered, and rebuffs Mrs Hall’s conversation.",
+      "description": "A firelit private room where the stranger eats alone, keeps his face covered, and rebuffs Mrs Hall’s conversation.",
       "x": 720,
       "y": 620,
       "imageId": "invisible-man-image-locations-parlour",
@@ -420,7 +420,7 @@
       "id": "invisible-man-location-griffin-room",
       "mapLayerId": "invisible-man-map-coach",
       "linkedMapLayerId": null,
-      "name": "Griffin’s Bedroom and Laboratory",
+      "name": "The Stranger’s Room and Laboratory",
       "description": "The stranger’s room fills with bottles, notebooks, apparatus, stains, and the concealed labour of reversing invisibility.",
       "x": 1120,
       "y": 280,
@@ -549,7 +549,7 @@
       "mapLayerId": "invisible-man-map-burdock",
       "linkedMapLayerId": null,
       "name": "Port Burdock Railway Station",
-      "description": "Marvel runs from the railway with Griffin’s books and stolen money, shouting for protection.",
+      "description": "Marvel runs from the railway with the Invisible Man’s books and stolen money, shouting for protection.",
       "x": 255,
       "y": 705,
       "imageId": "invisible-man-image-locations-station-burdock",
@@ -581,7 +581,7 @@
       "mapLayerId": "invisible-man-map-burdock",
       "linkedMapLayerId": null,
       "name": "Port Burdock High Street",
-      "description": "The main commercial road carries Marvel’s flight, Griffin’s pursuit, and the alarm spreading toward the police.",
+      "description": "The main commercial road carries Marvel’s flight, the Invisible Man’s pursuit, and the alarm spreading toward the police.",
       "x": 810,
       "y": 520,
       "imageId": "invisible-man-image-locations-burdock-street",
@@ -661,7 +661,7 @@
       "mapLayerId": "invisible-man-map-kemp",
       "linkedMapLayerId": null,
       "name": "Kemp’s Study",
-      "description": "Books, newspapers, and scientific training let Kemp test Griffin’s account against public evidence.",
+      "description": "Books, newspapers, and scientific training let Kemp test the Invisible Man’s account against public evidence.",
       "x": 680,
       "y": 630,
       "imageId": "invisible-man-image-locations-study",
@@ -760,12 +760,32 @@
       "aliases": [
         "The Invisible Man"
       ],
-      "description": "A gifted but embittered physicist whose successful invisibility experiment leaves him cold, hungry, isolated, and increasingly committed to coercion.",
+      "description": "A stranger who walks into Iping out of a February snowstorm, wrapped from head to foot, his face hidden behind bandages and blue goggles, and pays in advance for privacy.",
       "portraitImageId": "invisible-man-image-characters-griffin",
       "color": "#9aa2a8",
       "tags": [],
       "isAlive": false,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "invisible-man-event-arrival",
+          "name": "The Stranger"
+        },
+        {
+          "eventId": "invisible-man-event-unveiling",
+          "name": "The Invisible Man"
+        },
+        {
+          "eventId": "invisible-man-event-griffin-arrives",
+          "name": "Griffin"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "The Invisible Man",
+          "eventId": "invisible-man-event-unveiling"
+        }
+      ]
     },
     {
       "worldId": "invisible-man-world",
@@ -774,7 +794,7 @@
       "id": "invisible-man-character-kemp",
       "name": "Dr Kemp",
       "aliases": [],
-      "description": "A physician and former university acquaintance of Griffin who listens scientifically, then chooses public safety over private loyalty.",
+      "description": "A Port Burdock physician with scientific ambitions, who listens to the impossible as a scientist would and then chooses public safety over private loyalty.",
       "portraitImageId": "invisible-man-image-characters-kemp",
       "color": "#6d7f8f",
       "tags": [],
@@ -790,7 +810,7 @@
       "aliases": [
         "Mr Marvel"
       ],
-      "description": "A wary tramp pressed into service as Griffin’s visible hands.",
+      "description": "A wary tramp pressed into service as the Invisible Man’s visible hands.",
       "portraitImageId": "invisible-man-image-characters-marvel",
       "color": "#8a7558",
       "tags": [],
@@ -846,7 +866,7 @@
       "id": "invisible-man-character-fearenside",
       "name": "Fearenside",
       "aliases": [],
-      "description": "The carrier who brings Griffin’s luggage and interprets the stranger through the bite delivered by his dog.",
+      "description": "The carrier who brings the stranger’s luggage and interprets the stranger through the bite delivered by his dog.",
       "portraitImageId": "invisible-man-image-characters-fearenside",
       "color": "#79684f",
       "tags": [],
@@ -860,7 +880,7 @@
       "id": "invisible-man-character-cuss",
       "name": "Dr Cuss",
       "aliases": [],
-      "description": "Iping’s general practitioner, professionally fascinated by Griffin’s covered face and unnerved by an apparently empty sleeve.",
+      "description": "Iping’s general practitioner, professionally fascinated by the stranger’s covered face and unnerved by an apparently empty sleeve.",
       "portraitImageId": "invisible-man-image-characters-cuss",
       "color": "#65727b",
       "tags": [],
@@ -874,7 +894,7 @@
       "id": "invisible-man-character-bunting",
       "name": "Reverend Bunting",
       "aliases": [],
-      "description": "The village vicar whose household is burgled and whose learning makes Griffin’s notebooks tempting but unreadable.",
+      "description": "The village vicar whose household is burgled and whose learning makes the stranger’s notebooks tempting but unreadable.",
       "portraitImageId": "invisible-man-image-characters-bunting",
       "color": "#756d66",
       "tags": [],
@@ -1026,7 +1046,7 @@
       "updatedAt": 1787529600000,
       "id": "invisible-man-item-bottles",
       "name": "Chemical Bottles",
-      "description": "Scores of labelled and unlabelled bottles crowd Griffin’s inn room as he works toward reversing the experiment.",
+      "description": "Scores of labelled and unlabelled bottles crowd the stranger’s inn room as he works toward reversing the experiment.",
       "type": "equipment",
       "imageId": "invisible-man-image-items-bottles",
       "tags": []
@@ -1048,7 +1068,7 @@
       "updatedAt": 1787529600000,
       "id": "invisible-man-item-goggles",
       "name": "Dark Goggles",
-      "description": "Large blue lenses conceal the empty sockets of Griffin’s disguise and intensify the village’s curiosity.",
+      "description": "Large blue lenses conceal the empty sockets of the stranger’s disguise and intensify the village’s curiosity.",
       "type": "clothing",
       "imageId": "invisible-man-image-items-goggles",
       "tags": []
@@ -1114,7 +1134,7 @@
       "updatedAt": 1787529600000,
       "id": "invisible-man-item-clothes",
       "name": "Costume-Shop Clothes",
-      "description": "Coat, trousers, shoes, hat, wig, glasses, and theatrical fittings restore Griffin’s visible public outline.",
+      "description": "Coat, trousers, shoes, hat, wig, glasses, and theatrical fittings restore the stranger’s visible public outline.",
       "type": "clothing",
       "imageId": "invisible-man-image-items-clothes",
       "tags": []
@@ -1678,7 +1698,7 @@
       "currentMapLayerId": "invisible-man-map-iping",
       "inventoryItemIds": [],
       "inventoryNotes": "",
-      "statusNotes": "Attempts to look harmless while following Griffin’s instructions toward the inn.",
+      "statusNotes": "Attempts to look harmless while following the Invisible Man’s instructions toward the inn.",
       "travelModeId": null
     },
     {
@@ -4072,7 +4092,7 @@
       "eventId": "invisible-man-event-arrest",
       "sortKey": 2,
       "status": "scene of failed arrest",
-      "notes": "The public rooms and yard fill with witnesses as Griffin escapes."
+      "notes": "The public rooms and yard fill with witnesses as the Invisible Man escapes."
     },
     {
       "worldId": "invisible-man-world",
@@ -4111,7 +4131,7 @@
       "label": "coercer and unwilling assistant",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Griffin controls Marvel through unseen violence; Marvel’s escape makes him the object of pursuit.",
+      "description": "The Invisible Man controls Marvel through unseen violence; Marvel’s escape makes him the object of pursuit.",
       "isBidirectional": true,
       "startEventId": "invisible-man-event-marvel-recruited"
     },
@@ -4125,7 +4145,7 @@
       "label": "wife and husband",
       "strength": "bond",
       "sentiment": "positive",
-      "description": "They run the inn together, with Jenny taking the lead when Griffin threatens the household.",
+      "description": "They run the inn together, with Jenny taking the lead when the stranger threatens the household.",
       "isBidirectional": true,
       "startEventId": "invisible-man-event-arrival"
     },
@@ -4195,7 +4215,7 @@
       "label": "landlady and hostile guest",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Payment initially buys Griffin privacy, but evasion and intimidation destroy the arrangement.",
+      "description": "Payment initially buys the stranger privacy, but evasion and intimidation destroy the arrangement.",
       "isBidirectional": true,
       "startEventId": "invisible-man-event-arrival"
     },
@@ -4240,7 +4260,7 @@
       "label": "coercer and unwilling assistant",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Griffin controls Marvel through unseen violence; Marvel’s escape makes him the object of pursuit.",
+      "description": "The Invisible Man controls Marvel through unseen violence; Marvel’s escape makes him the object of pursuit.",
       "isActive": true
     },
     {
@@ -4254,7 +4274,7 @@
       "label": "wife and husband",
       "strength": "bond",
       "sentiment": "positive",
-      "description": "They run the inn together, with Jenny taking the lead when Griffin threatens the household.",
+      "description": "They run the inn together, with Jenny taking the lead when the stranger threatens the household.",
       "isActive": true
     },
     {
@@ -4324,7 +4344,7 @@
       "label": "landlady and hostile guest",
       "strength": "strong",
       "sentiment": "negative",
-      "description": "Payment initially buys Griffin privacy, but evasion and intimidation destroy the arrangement.",
+      "description": "Payment initially buys the stranger privacy, but evasion and intimidation destroy the arrangement.",
       "isActive": true
     },
     {
@@ -4712,7 +4732,7 @@
       "chapterId": "invisible-man-chapter-01",
       "timelineId": "invisible-man-timeline-main",
       "title": "A Stranger in the Snow",
-      "description": "Griffin walks from Bramblehurst and purchases privacy, fire, and a room at the inn.",
+      "description": "The stranger walks from Bramblehurst and purchases privacy, fire, and a room at the inn.",
       "locationMarkerId": "invisible-man-location-parlour",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -4857,7 +4877,7 @@
       "chapterId": "invisible-man-chapter-03",
       "timelineId": "invisible-man-timeline-main",
       "title": "A Room Full of Glass",
-      "description": "Griffin unpacks bottles and begins sustained chemical work behind a locked door.",
+      "description": "The stranger unpacks bottles and begins sustained chemical work behind a locked door.",
       "locationMarkerId": "invisible-man-location-griffin-room",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -4893,7 +4913,7 @@
       "chapterId": "invisible-man-chapter-04",
       "timelineId": "invisible-man-timeline-main",
       "title": "The Empty Sleeve",
-      "description": "Cuss questions Griffin and encounters movement inside a sleeve that contains no visible arm.",
+      "description": "Cuss questions the stranger and encounters movement inside a sleeve that contains no visible arm.",
       "locationMarkerId": "invisible-man-location-griffin-room",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -4963,7 +4983,7 @@
       "chapterId": "invisible-man-chapter-06",
       "timelineId": "invisible-man-timeline-main",
       "title": "The Guest Is Missing",
-      "description": "Mrs Hall enters Griffin’s room and finds the bed empty, the clothes discarded, and the door mysteriously unlocked.",
+      "description": "Mrs Hall enters the stranger’s room and finds the bed empty, the clothes discarded, and the door mysteriously unlocked.",
       "locationMarkerId": "invisible-man-location-griffin-room",
       "involvedCharacterIds": [
         "invisible-man-character-mrs-hall",
@@ -5034,7 +5054,7 @@
       "chapterId": "invisible-man-chapter-07",
       "timelineId": "invisible-man-timeline-main",
       "title": "No Face at All",
-      "description": "Pressed for rent and explanations, Griffin tears away the bandages and false face before the bar crowd.",
+      "description": "Pressed for rent and explanations, the stranger tears away the bandages and false face before the bar crowd.",
       "locationMarkerId": "invisible-man-location-bar",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -5075,7 +5095,7 @@
       "chapterId": "invisible-man-chapter-07",
       "timelineId": "invisible-man-timeline-main",
       "title": "Jaffers Attempts the Arrest",
-      "description": "Jaffers persists as Griffin strips away the rest of the visible disguise and fights free.",
+      "description": "Jaffers persists as the Invisible Man strips away the rest of the visible disguise and fights free.",
       "locationMarkerId": "invisible-man-location-bar",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -5145,7 +5165,7 @@
       "chapterId": "invisible-man-chapter-09",
       "timelineId": "invisible-man-timeline-main",
       "title": "The Voice beside Marvel",
-      "description": "Griffin proves his presence with stones and compels Marvel to become his visible agent.",
+      "description": "The Invisible Man proves his presence with stones and compels Marvel to become his visible agent.",
       "locationMarkerId": "invisible-man-location-southern-downs",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -5214,7 +5234,7 @@
       "chapterId": "invisible-man-chapter-10",
       "timelineId": "invisible-man-timeline-main",
       "title": "Huxter Gives Chase",
-      "description": "Marvel runs with the notebooks and bundle; Huxter pursues and is struck down by Griffin.",
+      "description": "Marvel runs with the notebooks and bundle; Huxter pursues and is struck down by the Invisible Man.",
       "locationMarkerId": "invisible-man-location-huxter-shop",
       "involvedCharacterIds": [
         "invisible-man-character-marvel",
@@ -5252,7 +5272,7 @@
       "chapterId": "invisible-man-chapter-11",
       "timelineId": "invisible-man-timeline-main",
       "title": "Cuss and Bunting Read the Cipher",
-      "description": "The doctor and vicar examine Griffin’s notebooks in the parlour but cannot interpret the notation.",
+      "description": "The doctor and vicar examine the Invisible Man’s notebooks in the parlour but cannot interpret the notation.",
       "locationMarkerId": "invisible-man-location-parlour",
       "involvedCharacterIds": [
         "invisible-man-character-cuss",
@@ -5289,7 +5309,7 @@
       "chapterId": "invisible-man-chapter-11",
       "timelineId": "invisible-man-timeline-main",
       "title": "The Invisible Robber Reclaims His Work",
-      "description": "Griffin forces Cuss and Bunting to surrender clothing and information while Marvel removes the books.",
+      "description": "The Invisible Man forces Cuss and Bunting to surrender clothing and information while Marvel removes the books.",
       "locationMarkerId": "invisible-man-location-parlour",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -5327,7 +5347,7 @@
       "chapterId": "invisible-man-chapter-12",
       "timelineId": "invisible-man-timeline-main",
       "title": "The Village Is Scattered",
-      "description": "Griffin lashes out through the green, striking pursuers and clearing a path away from Iping.",
+      "description": "The Invisible Man lashes out through the green, striking pursuers and clearing a path away from Iping.",
       "locationMarkerId": "invisible-man-location-village-green",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -5434,7 +5454,7 @@
       "chapterId": "invisible-man-chapter-14",
       "timelineId": "invisible-man-timeline-main",
       "title": "The Voice Ends the Conversation",
-      "description": "Griffin interrupts Marvel’s attempted disclosure, forces him away from the mariner, and continues driving him onward with the notebooks.",
+      "description": "The Invisible Man interrupts Marvel’s attempted disclosure, forces him away from the mariner, and continues driving him onward with the notebooks.",
       "locationMarkerId": "invisible-man-location-port-stowe",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -5538,7 +5558,7 @@
       "chapterId": "invisible-man-chapter-16",
       "timelineId": "invisible-man-timeline-main",
       "title": "A Shot through the Dark",
-      "description": "Griffin breaks a window to reach Marvel and is wounded by a revolver shot.",
+      "description": "The Invisible Man breaks a window to reach Marvel and is wounded by a revolver shot.",
       "locationMarkerId": "invisible-man-location-jolly-cricketers",
       "involvedCharacterIds": [
         "invisible-man-character-griffin",
@@ -7059,7 +7079,7 @@
       "id": "invisible-man-lore-whitsun",
       "categoryId": "invisible-man-lore-category-society",
       "title": "Whit Monday at Iping",
-      "body": "A holiday crowd and village celebration concentrate witnesses in Iping on the day Griffin’s disguise finally fails.",
+      "body": "A holiday crowd and village celebration concentrate witnesses in Iping on the day the stranger’s disguise finally fails.",
       "tags": [],
       "coverImageId": null,
       "linkedEntityIds": [],
@@ -7123,7 +7143,7 @@
       "updatedAt": 1787529600000,
       "id": "invisible-man-faction-manhunt",
       "name": "Port Burdock Manhunt",
-      "description": "Police, officials, workers, and warned civilians coordinate around Griffin’s need for food, rest, and unobstructed roads.",
+      "description": "Police, officials, workers, and warned civilians coordinate around the Invisible Man’s need for food, rest, and unobstructed roads.",
       "color": "#5e7080",
       "coverImageId": null,
       "tags": []
@@ -7280,7 +7300,7 @@
       "createdAt": 1787529600000,
       "updatedAt": 1787529600000,
       "id": "invisible-man-fact-invisible-body",
-      "title": "Griffin’s entire body is invisible",
+      "title": "The Invisible Man’s entire body is invisible",
       "description": "The arrest fails after every item of visible clothing is removed.",
       "tags": [],
       "readerLearnsAtEventId": "invisible-man-event-arrest",
@@ -7485,7 +7505,7 @@
       "id": "invisible-man-goal-marvel-escape",
       "characterId": "invisible-man-character-marvel",
       "type": "want",
-      "text": "Reach visible witnesses who can protect him from Griffin.",
+      "text": "Reach visible witnesses who can protect him from the Invisible Man.",
       "startEventId": "invisible-man-event-marvel-recruited",
       "endEventId": "invisible-man-event-pub-barricade"
     },
@@ -7945,7 +7965,7 @@
       "id": "invisible-man-thread-identity",
       "name": "The Visible Disguise",
       "color": "#8d745f",
-      "description": "Bandages and clothing let Griffin enter society while making every interaction a performance."
+      "description": "Bandages and clothing let the stranger enter society while making every interaction a performance."
     },
     {
       "worldId": "invisible-man-world",
@@ -7970,7 +7990,7 @@
       "createdAt": 1787529600000,
       "updatedAt": 1787529600000,
       "id": "invisible-man-thread-hunt",
-      "name": "The Hunt for Griffin",
+      "name": "The Hunt for the Invisible Man",
       "color": "#7d4f4f",
       "description": "Village suspicion grows into a regional police and civilian manhunt."
     },

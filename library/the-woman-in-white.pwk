@@ -5,7 +5,7 @@
   "world": {
     "id": "woman-in-white-world",
     "name": "The Woman in White",
-    "description": "Wilkie Collins’s mystery follows drawing master Walter Hartright, sisters Laura Fairlie and Marian Halcombe, and the haunting figure of Anne Catherick through a struggle over identity, marriage, confinement, inheritance, and the authority of written evidence.",
+    "description": "Wilkie Collins’s mystery follows drawing master Walter Hartright, sisters Laura Fairlie and Marian Halcombe, and the haunting figure of a woman in white through a struggle over identity, marriage, confinement, inheritance, and the authority of written evidence.",
     "coverImageId": "woman-in-white-image-generated-cover",
     "theme": "theme-noir",
     "readingMode": true,
@@ -533,7 +533,7 @@
       "id": "woman-in-white-character-walter",
       "name": "Walter Hartright",
       "aliases": [],
-      "description": "A young drawing master whose chance meeting with Anne Catherick draws him into the Fairlie family’s secret and makes him the case’s patient investigator.",
+      "description": "A young drawing master whose chance meeting with the woman in white draws him into the Fairlie family’s secret and makes him the case’s patient investigator.",
       "portraitImageId": "woman-in-white-image-generated-character-walter",
       "color": "#596b72",
       "tags": [],
@@ -547,14 +547,27 @@
       "id": "woman-in-white-character-laura",
       "name": "Laura Fairlie",
       "aliases": [
-        "Lady Glyde"
+        "Lady Glyde",
+        "Laura Fairlie"
       ],
-      "description": "The gentle heiress of Limmeridge, bound by a promise to marry Sir Percival despite loving Walter and relying deeply on Marian.",
+      "description": "The gentle, fair-haired heiress of Limmeridge, Marian’s half-sister and Walter’s pupil, whose face reminds him of someone he cannot place.",
       "portraitImageId": "woman-in-white-image-generated-character-laura",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "woman-in-white-event-marian-2",
+          "name": "Lady Glyde"
+        }
+      ],
+      "aliasesFrom": [
+        {
+          "alias": "Lady Glyde",
+          "eventId": "woman-in-white-event-marian-2"
+        }
+      ]
     },
     {
       "worldId": "woman-in-white-world",
@@ -579,12 +592,22 @@
       "aliases": [
         "The Woman in White"
       ],
-      "description": "A vulnerable woman whose white clothes, resemblance to Laura, and knowledge of Sir Percival’s secret connect every part of the mystery.",
+      "description": "A woman dressed all in white, alone on the London road at midnight, who asks Walter the way, speaks of Limmeridge, and fears a baronet she will not name.",
       "portraitImageId": "woman-in-white-image-generated-character-anne",
       "color": "#596b72",
       "tags": [],
       "isAlive": true,
-      "birthDate": null
+      "birthDate": null,
+      "nameChanges": [
+        {
+          "eventId": "woman-in-white-event-walter-1",
+          "name": "The Woman in White"
+        },
+        {
+          "eventId": "woman-in-white-event-walter-8",
+          "name": "Anne Catherick"
+        }
+      ]
     },
     {
       "worldId": "woman-in-white-world",
@@ -791,8 +814,8 @@
       "createdAt": 1786838400000,
       "updatedAt": 1786838400000,
       "id": "woman-in-white-item-white-dress",
-      "name": "Anne’s White Dress",
-      "description": "The distinctive plain white clothing associated with Anne and with Walter’s first recognition of her.",
+      "name": "The White Dress",
+      "description": "The distinctive plain white clothing associated with the woman in white and with Walter’s first recognition of her.",
       "iconType": "clothing",
       "imageId": "woman-in-white-image-generated-item-white-dress",
       "tags": []
@@ -9673,7 +9696,7 @@
       "createdAt": 1786838400000,
       "updatedAt": 1786838400000,
       "id": "woman-in-white-fact-anne-escaped",
-      "title": "Anne escaped from a private asylum",
+      "title": "The woman in white escaped from a private asylum",
       "description": "The woman Walter met was being pursued after leaving institutional confinement.",
       "tags": [],
       "readerLearnsAtEventId": "woman-in-white-event-walter-5",
@@ -10618,9 +10641,9 @@
       "createdAt": 1786838400000,
       "updatedAt": 1786838400000,
       "id": "woman-in-white-thread-secret",
-      "name": "Sir Percival’s Secret",
+      "name": "The Baronet’s Secret",
       "color": "#695b4f",
-      "description": "Anne Catherick warns against a baronet she will not name, and will not say what she knows about him."
+      "description": "The woman in white warns against a baronet she will not name, and will not say what she knows about him."
     },
     {
       "worldId": "woman-in-white-world",
@@ -10667,7 +10690,7 @@
       "id": "woman-in-white-motif-white",
       "name": "White Clothing and Apparitions",
       "color": "#d5d2c7",
-      "description": "White clothing makes Anne memorable, links her visually to Laura, and gives the story its haunting first impression."
+      "description": "White clothing makes the woman in white memorable, links her visually to Laura, and gives the story its haunting first impression."
     },
     {
       "worldId": "woman-in-white-world",

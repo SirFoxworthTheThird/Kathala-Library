@@ -7674,12 +7674,16 @@
       "id": "black-arrow-char-jack-matcham",
       "name": "Jack Matcham",
       "aliases": [],
-      "description": "A slight young ward travelling in fear of Sir Daniel and asking Dick for help through the fen.",
+      "description": "A slight young traveller in fear of Sir Daniel, who asks Dick for help through the fen.",
       "color": "#6d604a",
       "portraitImageId": "black-arrow-image-library-black-arrow-art-characters-jack-matcham-png",
       "isAlive": true,
       "birthDate": null,
-      "tags": []
+      "tags": [],
+      "revealedAs": {
+        "characterId": "black-arrow-char-joanna-sedley",
+        "eventId": "black-arrow-event-11-5"
+      }
     },
     {
       "worldId": "black-arrow-world",

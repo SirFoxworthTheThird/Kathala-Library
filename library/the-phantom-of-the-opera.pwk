@@ -792,11 +792,9 @@
       "id": "phantom-char-erik",
       "name": "Erik",
       "aliases": [
-        "The Opera Ghost",
-        "O.G.",
         "The Angel of Music"
       ],
-      "description": "A brilliant architect, composer, ventriloquist, illusionist, and trap-door expert who hides beneath the Opera.",
+      "description": "The unseen voice that has taught Christine to sing through her dressing-room wall: the Angel of Music, she believes, that her dying father promised to send her.",
       "portraitImageId": "phantom-image-character-erik",
       "color": "#c9b06b",
       "tags": [],
@@ -1060,6 +1058,26 @@
       "tags": [],
       "isAlive": true,
       "birthDate": null
+    },
+    {
+      "worldId": "phantom-opera-world",
+      "createdAt": 1789387200000,
+      "updatedAt": 1789387200000,
+      "id": "phantom-char-opera-ghost",
+      "name": "The Opera Ghost",
+      "aliases": [
+        "O.G."
+      ],
+      "description": "The ghost the whole Opera talks of: he writes to the managers in red ink and signs himself O.G., keeps Box Five for his own, and is said to have a death’s head for a face.",
+      "portraitImageId": null,
+      "color": null,
+      "tags": [],
+      "isAlive": true,
+      "birthDate": null,
+      "revealedAs": {
+        "characterId": "phantom-char-erik",
+        "eventId": "phantom-event-13-2"
+      }
     }
   ],
   "items": [
@@ -1069,7 +1087,7 @@
       "updatedAt": 1789387200000,
       "id": "phantom-item-persian-papers",
       "name": "The Persian’s Papers",
-      "description": "Documents and testimony that preserve the hidden history of Erik and the Opera.",
+      "description": "Documents and testimony that preserve the hidden history of the Opera ghost.",
       "iconType": "book",
       "imageId": "phantom-image-item-persian-papers",
       "tags": []
@@ -2334,7 +2352,7 @@
       "createdAt": 1789387200000,
       "updatedAt": 1789387200000,
       "id": "phantom-snapshot-10-2-erik",
-      "characterId": "phantom-char-erik",
+      "characterId": "phantom-char-opera-ghost",
       "eventId": "phantom-event-10-2",
       "isAlive": true,
       "currentLocationMarkerId": "phantom-loc-grand-staircase",
@@ -2343,7 +2361,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 0,
-      "statusNotes": "Enters the masquerade as the Red Death to display his power over Christine and the Opera."
+      "statusNotes": "Crosses the grand staircase as the Red Death, telling the guests that death walks among them."
     },
     {
       "worldId": "phantom-opera-world",
@@ -2471,7 +2489,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 0,
-      "statusNotes": "Names Erik at last and distinguishes the genius she heard from the jailer she came to fear."
+      "statusNotes": "Refuses Raoul’s protection, and will not promise to stay."
     },
     {
       "worldId": "phantom-opera-world",
@@ -4968,10 +4986,10 @@
       "id": "phantom-relationship-erik-christine",
       "characterAId": "phantom-char-erik",
       "characterBId": "phantom-char-christine",
-      "label": "Teacher, captor, and beloved",
+      "label": "Teacher and pupil",
       "strength": 9,
       "sentiment": "mixed",
-      "description": "Erik teaches Christine through the walls, then tries to compel the love he cannot command.",
+      "description": "The voice teaches Christine through her dressing-room wall, and she sings as she has never sung before.",
       "isBidirectional": true,
       "startEventId": "phantom-event-10-2"
     },
@@ -5065,7 +5083,7 @@
       "updatedAt": 1789387200000,
       "id": "phantom-relationship-mme-giry-erik",
       "characterAId": "phantom-char-mme-giry",
-      "characterBId": "phantom-char-erik",
+      "characterBId": "phantom-char-opera-ghost",
       "label": "Messenger and unseen patron",
       "strength": 5,
       "sentiment": "mixed",
@@ -5151,8 +5169,8 @@
       "updatedAt": 1789387200000,
       "id": "phantom-relationship-snapshot-2",
       "relationshipId": "phantom-relationship-erik-christine",
-      "eventId": "phantom-event-01-1",
-      "sortKey": 100,
+      "eventId": "phantom-event-13-3",
+      "sortKey": 13.000037,
       "label": "Captor and horrified captive",
       "strength": 3,
       "sentiment": "negative",
@@ -5372,7 +5390,7 @@
       "timelineId": "phantom-main-timeline",
       "number": 10,
       "title": "At the Masked Ball",
-      "synopsis": "At the masked ball, Erik appears as the Red Death and Christine’s engagement ring disappears.",
+      "synopsis": "At the masked ball a figure comes as the Red Death, and afterwards Christine’s engagement ring is gone.",
       "notes": "Chapter IX  At the Masked Ball",
       "wordGoal": 3237
     },
@@ -5408,7 +5426,7 @@
       "timelineId": "phantom-main-timeline",
       "number": 13,
       "title": "Apollo's Lyre",
-      "synopsis": "On the roof, Christine recounts Erik’s underground house and his unmasked face.",
+      "synopsis": "On the roof, beneath Apollo’s lyre, Christine tells Raoul where the voice took her.",
       "notes": "Chapter XII  Apollo's Lyre",
       "wordGoal": 7204
     },
@@ -6522,7 +6540,7 @@
       "description": "A scarlet figure with a skull mask crosses the grand staircase declaring that death walks among the guests.",
       "locationMarkerId": "phantom-loc-grand-staircase",
       "involvedCharacterIds": [
-        "phantom-char-erik",
+        "phantom-char-opera-ghost",
         "phantom-char-christine",
         "phantom-char-raoul"
       ],
@@ -6626,7 +6644,7 @@
       "chapterId": "phantom-chapter-11",
       "timelineId": "phantom-main-timeline",
       "title": "The Man Behind the Angel",
-      "description": "Christine admits that the Angel of Music is a man named Erik who carried her below the Opera.",
+      "description": "Raoul warns Christine and Mamma Valerius of a danger worse than any ghost, and Christine refuses to promise him anything.",
       "locationMarkerId": "phantom-loc-christine-room",
       "involvedCharacterIds": [
         "phantom-char-christine",
@@ -9438,7 +9456,7 @@
       "title": "A House Stands Beyond the Lake",
       "description": "Erik has built a furnished home beyond the underground water.",
       "tags": [],
-      "readerLearnsAtEventId": "phantom-event-03-1",
+      "readerLearnsAtEventId": "phantom-event-13-2",
       "originEventId": "phantom-event-03-1"
     },
     {
@@ -9460,7 +9478,7 @@
       "title": "The Opera Is Wired to Gunpowder",
       "description": "The final mechanism can ignite barrels beneath the chamber.",
       "tags": [],
-      "readerLearnsAtEventId": "phantom-event-03-1",
+      "readerLearnsAtEventId": "phantom-event-25-3",
       "originEventId": "phantom-event-03-1"
     }
   ],

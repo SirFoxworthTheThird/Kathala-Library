@@ -823,13 +823,21 @@
       "updatedAt": 1789948800000,
       "id": "kid-char-alan",
       "name": "Alan Breck Stewart",
-      "aliases": [],
+      "aliases": [
+        "Mr Thomson"
+      ],
       "description": "A poised Highland Jacobite carrying French gold and travelling under danger from the law.",
       "color": "#79533e",
       "portraitImageId": "kid-image-characters-alan",
       "isAlive": true,
       "birthDate": null,
-      "tags": []
+      "tags": [],
+      "aliasesFrom": [
+        {
+          "alias": "Mr Thomson",
+          "eventId": "kid-event-27-3"
+        }
+      ]
     },
     {
       "worldId": "kidnapped-world",
