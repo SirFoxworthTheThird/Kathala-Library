@@ -10,7 +10,7 @@
 - UI: the downloadable PWK was opened from the Library card in the latest development app checkout. Dashboard, Book Narrative/Chronological/Cards/Read, Characters, Maps, Calendar, Items, Relations, Arc, Lore, Factions, Knowledge, and Settings were inspected. The current Book views provide the former Timeline, Manuscript, Structure, and Corkboard functions. `qa-ui.mjs` and screenshots under `qa/` record the result; no broken images or console/page errors remained.
 - Images: 67 distinct generated assets were inspected; all paths exist, hashes are unique, map artwork is separate from ordinary location artwork, and `ARTWORK_MANIFEST.md` records the prompts or edit briefs and corrections. The 26 place markers were reviewed across all maps, including the one intentionally unrevealed invented room in editor mode.
 - Packaging: one PWK in the current `library/` layout. EX-502 is N/A: no PWB is included or needed. `library/index.json` records the exact UTF-8 byte length. The book-specific generator is reproducible and no obsolete duplicate export directory was created.
-- Validation: `node scripts/sign-of-the-four/validate.mjs --release`, `npm run catalogue:check`, `npm test` (821 passed), `npm run gate` (821 tests, 0 failures), and `git diff --check` passed. The app checkout passed `npx tsc -b --pretty false`; its gateway zoom fix was exercised by the browser QA.
+- Validation: `node scripts/sign-of-the-four/validate.mjs --release`, `npm run catalogue:check`, `npm test` (828 passed after integration with current main), `npm run gate` (828 tests, 0 failures), and `git diff --check` passed. The app checkout passed `npx tsc -b --pretty false`; its gateway zoom fix was exercised by the browser QA.
 
 > [!CAUTION]
 > This checklist is a release gate. Complete it for every new or substantially revised example. An unchecked applicable item means the example is not finished and must not be merged.
@@ -82,7 +82,7 @@ Use this statement in the pull request or handoff and replace every bracketed va
 Example rules review: COMPLETE
 Source edition: Arthur Conan Doyle, The Sign of the Four (1890), Project Gutenberg #2097 English UTF-8 text; https://www.gutenberg.org/ebooks/2097
 Counts: 12 chapters, 87 events and scenes, 43,002 words, 25 characters, 281 character snapshots, 26 locations, 6 map layers
-Automated validation: book validator 0 errors; catalogue:check passed; npm test 821/821; gate 821 tests, 0 failures; git diff --check passed; application TypeScript build passed
+Automated validation: book validator 0 errors; catalogue:check passed; npm test 828/828; gate 828 tests, 0 failures; git diff --check passed; application TypeScript build passed
 Visual validation: Library download, all named application views, six map layers including three aligned Lodge levels, three parent gateways, playback across Thames/London/Baker, before/after name reveals, final manuscript scene, and all place markers
 Image validation: 67 checked, broken links 0, duplicate hashes 0, intentional shared images 0
 Exceptions: EX-502 N/A because this edition contains no PWB; current Book views subsume the former separate Timeline, Manuscript, Structure, and Corkboard screens
