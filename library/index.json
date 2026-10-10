@@ -420,6 +420,24 @@
       "hasProse": true
     },
     {
+      "id": "os-lusiadas",
+      "title": "Os Lusíadas",
+      "author": "Luís de Camões",
+      "blurb": "A voyage to India unfolds through storms, courts, remembered Portuguese history, and the competing powers of the epic gods.",
+      "data": "os-lusiadas.pwk",
+      "dataBytes": 1380657,
+      "counts": {
+        "characters": 78,
+        "chapters": 10,
+        "events": 367,
+        "locations": 68
+      },
+      "notice": "Unofficial reading-mode edition of the complete public-domain Portuguese poem from Project Gutenberg eBook #27236, a transcription of the 1572 text. All ten cantos and every retained stanza and verse line are preserved in order; Project Gutenberg packaging and documented editorial headings are excluded. Scene divisions, chronology, descriptions, geographic charts, and generated illustrations are editorial; source and artwork provenance are documented with the edition.",
+      "worldId": "os-lusiadas-world",
+      "cover": "library/os-lusiadas/art/world.png",
+      "hasProse": true
+    },
+    {
       "id": "os-maias",
       "title": "Os Maias",
       "author": "Eça de Queirós",

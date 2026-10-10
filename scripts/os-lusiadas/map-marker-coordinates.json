@@ -1,0 +1,266 @@
+{
+  "ocean": {
+    "Lisbon": {
+      "x": 384,
+      "y": 1090
+    },
+    "Cape Verde": {
+      "x": 147,
+      "y": 796
+    },
+    "St Helena Bay": {
+      "x": 828,
+      "y": 202
+    },
+    "Cape of Good Hope": {
+      "x": 836,
+      "y": 182
+    },
+    "Mozambique": {
+      "x": 1200,
+      "y": 422
+    },
+    "Mombasa": {
+      "x": 1182,
+      "y": 559
+    },
+    "Melinde": {
+      "x": 1190,
+      "y": 569
+    },
+    "Indian Ocean crossing": {
+      "x": 1449,
+      "y": 634
+    },
+    "Atlantic passage": {
+      "x": 222,
+      "y": 559
+    },
+    "Calicut": {
+      "x": 1773,
+      "y": 749
+    },
+    "Southern trade shore": {
+      "x": 896,
+      "y": 185
+    },
+    "Southern coast": {
+      "x": 1024,
+      "y": 249
+    },
+    "Suez": {
+      "x": 1066,
+      "y": 981
+    },
+    "Jeddah": {
+      "x": 1174,
+      "y": 876
+    }
+  },
+  "iberia": {
+    "Lisbon / Bel\u00e9m": {
+      "x": 463,
+      "y": 578
+    },
+    "Coimbra": {
+      "x": 545,
+      "y": 744
+    },
+    "Ourique": {
+      "x": 568,
+      "y": 464
+    },
+    "Aljubarrota": {
+      "x": 492,
+      "y": 674
+    },
+    "Badajoz": {
+      "x": 703,
+      "y": 599
+    },
+    "Ceuta": {
+      "x": 880,
+      "y": 271
+    },
+    "Porto": {
+      "x": 526,
+      "y": 847
+    },
+    "Guimar\u00e3es": {
+      "x": 559,
+      "y": 879
+    },
+    "Salado": {
+      "x": 848,
+      "y": 294
+    },
+    "Portuguese heartland": {
+      "x": 581,
+      "y": 655
+    },
+    "\u00c9vora": {
+      "x": 601,
+      "y": 565
+    },
+    "Beja": {
+      "x": 607,
+      "y": 504
+    },
+    "Santar\u00e9m": {
+      "x": 518,
+      "y": 638
+    },
+    "Silves": {
+      "x": 544,
+      "y": 413
+    }
+  },
+  "east-africa": {
+    "Sofala": {
+      "x": 486,
+      "y": 362
+    },
+    "Mozambique": {
+      "x": 932,
+      "y": 563
+    },
+    "Kilwa": {
+      "x": 839,
+      "y": 800
+    },
+    "Mombasa": {
+      "x": 851,
+      "y": 993
+    },
+    "Melinde": {
+      "x": 885,
+      "y": 1025
+    },
+    "River of good signs": {
+      "x": 639,
+      "y": 451
+    }
+  },
+  "malabar": {
+    "Calicut": {
+      "x": 881,
+      "y": 603
+    },
+    "Cannanore": {
+      "x": 838,
+      "y": 655
+    },
+    "Cochin": {
+      "x": 932,
+      "y": 491
+    }
+  },
+  "england": {
+    "English court": {
+      "x": 929,
+      "y": 465
+    },
+    "Channel crossing": {
+      "x": 859,
+      "y": 210
+    },
+    "Flanders": {
+      "x": 1296,
+      "y": 379
+    }
+  },
+  "divine": {
+    "Olympus": {
+      "x": 450,
+      "y": 1090
+    },
+    "Council hall": {
+      "x": 600,
+      "y": 1050
+    },
+    "High air": {
+      "x": 850,
+      "y": 900
+    },
+    "Night sky": {
+      "x": 700,
+      "y": 650
+    },
+    "Wind quarter": {
+      "x": 300,
+      "y": 420
+    },
+    "Sea surface": {
+      "x": 900,
+      "y": 640
+    },
+    "Undersea hall": {
+      "x": 1130,
+      "y": 410
+    }
+  },
+  "calicut-city": {
+    "Fleet roadstead": {
+      "x": 260,
+      "y": 640
+    },
+    "Landing beach": {
+      "x": 500,
+      "y": 570
+    },
+    "Fishing harbor": {
+      "x": 480,
+      "y": 300
+    },
+    "Shrine": {
+      "x": 790,
+      "y": 930
+    },
+    "Official\u2019s lodging": {
+      "x": 920,
+      "y": 680
+    },
+    "Royal court": {
+      "x": 1190,
+      "y": 860
+    },
+    "Merchant quarter": {
+      "x": 940,
+      "y": 425
+    },
+    "Warehouse": {
+      "x": 1140,
+      "y": 300
+    },
+    "Mon\u00e7aide\u2019s house": {
+      "x": 730,
+      "y": 400
+    },
+    "City route": {
+      "x": 900,
+      "y": 780
+    }
+  },
+  "island": {
+    "Arrival beach": {
+      "x": 420,
+      "y": 500
+    },
+    "Wooded grove": {
+      "x": 650,
+      "y": 600
+    },
+    "Southern path": {
+      "x": 800,
+      "y": 390
+    },
+    "Open terrace": {
+      "x": 1040,
+      "y": 660
+    },
+    "Island height": {
+      "x": 1190,
+      "y": 1060
+    }
+  }
+}
