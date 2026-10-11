@@ -16148,7 +16148,7 @@
       "linkedMapLayerId": null,
       "name": "Fishing harbor",
       "description": "The working waterfront used by local fishing boats.",
-      "x": 480,
+      "x": 410,
       "y": 300,
       "imageId": "os-lusiadas-image-place-fishing-harbor",
       "iconType": "landmark",
@@ -29594,45 +29594,7 @@
       "text": "Judge the foreign embassy while preserving order in his port."
     }
   ],
-  "mapRoutes": [
-    {
-      "worldId": "os-lusiadas-world",
-      "createdAt": 1791504000000,
-      "updatedAt": 1791504000000,
-      "id": "os-lusiadas-route-outward",
-      "mapLayerId": "os-lusiadas-map-ocean",
-      "name": "Outward passage",
-      "routeType": "sea_route",
-      "waypoints": [
-        "os-lusiadas-loc-lisbon-sea",
-        "os-lusiadas-loc-cape-verde",
-        "os-lusiadas-loc-st-helena",
-        "os-lusiadas-loc-cape",
-        "os-lusiadas-loc-mozambique-sea",
-        "os-lusiadas-loc-mombasa-sea",
-        "os-lusiadas-loc-melinde-sea",
-        "os-lusiadas-loc-calicut-sea"
-      ],
-      "color": "#aa7b40",
-      "notes": "Historical maritime outline, using ports and headlands given by the poem or the voyage journal; intervening sea is schematic."
-    },
-    {
-      "worldId": "os-lusiadas-world",
-      "createdAt": 1791504000000,
-      "updatedAt": 1791504000000,
-      "id": "os-lusiadas-route-homeward",
-      "mapLayerId": "os-lusiadas-map-ocean",
-      "name": "Homeward sea road",
-      "routeType": "sea_route",
-      "waypoints": [
-        "os-lusiadas-loc-calicut-sea",
-        "os-lusiadas-loc-cape",
-        "os-lusiadas-loc-lisbon-sea"
-      ],
-      "color": "#aa7b40",
-      "notes": "Broad westward return only; the poem gives no full harbor-by-harbor homeward log."
-    }
-  ],
+  "mapRoutes": [],
   "loreCategories": [
     {
       "worldId": "os-lusiadas-world",

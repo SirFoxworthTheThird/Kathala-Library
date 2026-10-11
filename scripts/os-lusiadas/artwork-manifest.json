@@ -122,70 +122,6 @@
       "sha256": "593c347ae428a0067c8ee6cb8cbd87bb12ffea276c32220ea00b55638943dff3"
     },
     {
-      "path": "library/os-lusiadas/maps/ocean.png",
-      "entity": "ocean navigable map",
-      "source": "Natural Earth 1:110m public-domain land polygons rendered by render-maps.py, with original editorial route and labels.",
-      "prompt": "Cartographic brief: Atlantic and Indian Ocean route with true coastlines, Lisbon, Cape Verde, the Cape, East African ports and Calicut. Mature navy, parchment and gold chart design; legible markers and no decorative illustration substituted for a map.",
-      "review": "Checked land shapes, port dots, departure-to-India route, Cape rounding and bottom-edge coordinates; later names were removed from fixed labels for reading-mode gating.",
-      "sha256": "01192b1168e2a1e5aab1c3a224f5598d2b9dd5bce67244b6f7ad2feaeaa1dfe9"
-    },
-    {
-      "path": "library/os-lusiadas/maps/iberia.png",
-      "entity": "iberia navigable map",
-      "source": "Natural Earth 1:110m public-domain land polygons rendered by render-maps.py, with original editorial route and labels.",
-      "prompt": "Cartographic brief: Portugal and neighboring coast with departure and sites in the remembered monarchy. Mature navy, parchment and gold chart design; legible markers and no decorative illustration substituted for a map.",
-      "review": "Checked Lisbon/Belém, Coimbra, Ourique, Aljubarrota, Badajoz, Porto and Ceuta dots against the peninsula and strait; only the early Lisbon name is fixed on the image.",
-      "sha256": "86535541f94958ca50c1aa7b687d842da2c2853cff874d62932ff9e39acd64de"
-    },
-    {
-      "path": "library/os-lusiadas/maps/east-africa.png",
-      "entity": "east-africa navigable map",
-      "source": "Natural Earth 1:110m public-domain land polygons rendered by render-maps.py, with original editorial route and labels.",
-      "prompt": "Cartographic brief: East African coast from Sofala to Melinde, with the poem’s ports at a useful regional scale. Mature navy, parchment and gold chart design; legible markers and no decorative illustration substituted for a map.",
-      "review": "Checked coastline and Mozambique, Kilwa, Mombasa and Melinde dot order; later port names are provided by gated markers.",
-      "sha256": "b6f4147b166f6ed26d5599bc900991d0790802ba85abae92b73afb213a391a5d"
-    },
-    {
-      "path": "library/os-lusiadas/maps/malabar.png",
-      "entity": "malabar navigable map",
-      "source": "Natural Earth 1:110m public-domain land polygons rendered by render-maps.py, with original editorial route and labels.",
-      "prompt": "Cartographic brief: West Indian coast approaching Calicut and nearby Mount Eli, Kappad, Cannanore and Cochin. Mature navy, parchment and gold chart design; legible markers and no decorative illustration substituted for a map.",
-      "review": "Checked Arabian Sea approach, Malabar coastline and close port dots; labels are supplied by gated markers.",
-      "sha256": "ff4b34dea7a5d1fed1a3c9e8441f608e49bbaa0f569cf368fc40baedc9f0c57a"
-    },
-    {
-      "path": "library/os-lusiadas/maps/england.png",
-      "entity": "england navigable map",
-      "source": "Natural Earth 1:110m public-domain land polygons rendered by render-maps.py, with original editorial route and labels.",
-      "prompt": "Cartographic brief: England and Channel chart for Veloso’s embedded tale. Mature navy, parchment and gold chart design; legible markers and no decorative illustration substituted for a map.",
-      "review": "Checked island and Channel shapes; English court and crossing markers are illustrative, not a claimed tournament site.",
-      "sha256": "f33e10164119d74c59b49ab0c3ab022dd81bdfe0aa105d44b73b4ec033699aac"
-    },
-    {
-      "path": "library/os-lusiadas/maps/calicut-city.png",
-      "entity": "calicut-city navigable map",
-      "source": "Original deterministic Pillow cartography in render-maps.py; poem-based schematic.",
-      "prompt": "Cartographic brief: Schematic coastal plan of the poem’s Calicut roadstead, landing, shrine, lodging, royal audience and trading quarter. Mature navy, parchment and gold chart design; legible markers and no decorative illustration substituted for a map.",
-      "review": "Checked all eight plotted site labels and routes; caption explicitly says the relative layout is not surveyed.",
-      "sha256": "4cbe0a2b14a952762fa5bbad58e74ea88eeebb179f6f945345c7dcd1ada9344c"
-    },
-    {
-      "path": "library/os-lusiadas/maps/island.png",
-      "entity": "island navigable map",
-      "source": "Original deterministic Pillow cartography in render-maps.py; poem-based schematic.",
-      "prompt": "Cartographic brief: Schematic island coastline with landing beach, grove, Leonardo’s path, feast and Tethys’s height. Mature navy, parchment and gold chart design; legible markers and no decorative illustration substituted for a map.",
-      "review": "Checked five distinct locations and their route; caption identifies allegorical terrain with no earthly coordinates.",
-      "sha256": "aa1fc128cd37f888701256ccff66d9aac52d8d5bf0634f2efb888f9633d8e56b"
-    },
-    {
-      "path": "library/os-lusiadas/maps/divine.png",
-      "entity": "divine navigable map",
-      "source": "Natural Earth 1:110m public-domain land polygons rendered by render-maps.py, with original editorial route and labels.",
-      "prompt": "Cartographic brief: Conceptual chart of Olympus, high air, winds and sea in the poem’s mythic plane. Mature navy, parchment and gold chart design; legible markers and no decorative illustration substituted for a map.",
-      "review": "Checked seven distinct domains and joining paths; caption identifies the symbolic, non-geographic layout.",
-      "sha256": "e1a924c5c046fb2d59580659353a6346cf11889daed1cb2a07551717e604fae1"
-    },
-    {
       "path": "library/os-lusiadas/art/characters/mercury.png",
       "entity": "Mercury character portrait",
       "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
@@ -1344,6 +1280,70 @@
       "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: high ground overlooking the allegorical island and sea, Thetis showing a celestial globe to Vasco da Gama, both fully clothed adults. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
       "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
       "sha256": "c25571463bedd66cbfd02967e5b8f741b4fc5c8babf33ada4c9fbe7be542458a"
+    },
+    {
+      "path": "library/os-lusiadas/maps/ocean.png",
+      "entity": "ocean navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: Atlantic and Indian Ocean route with true coastlines, Lisbon, Cape Verde, the Cape, East African ports and Calicut. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked land shapes, port dots, departure-to-India route, Cape rounding and bottom-edge coordinates; later names were removed from fixed labels for reading-mode gating.",
+      "sha256": "2dd43ca90cb9e1631246b63ea0bb8618266d2d83d6a2b61246345b5d1e9de09b"
+    },
+    {
+      "path": "library/os-lusiadas/maps/iberia.png",
+      "entity": "iberia navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: Portugal and neighboring coast with departure and sites in the remembered monarchy. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked Lisbon/Belém, Coimbra, Ourique, Aljubarrota, Badajoz, Porto and Ceuta dots against the peninsula and strait; only the early Lisbon name is fixed on the image.",
+      "sha256": "d83f03e4d2c3102b683594d4929668feced91c20b5dad075f1ffaf004c3ec006"
+    },
+    {
+      "path": "library/os-lusiadas/maps/east-africa.png",
+      "entity": "east-africa navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: East African coast from Sofala to Melinde, with the poem’s ports at a useful regional scale. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked coastline and Mozambique, Kilwa, Mombasa and Melinde dot order; later port names are provided by gated markers.",
+      "sha256": "7bfd4cfa1c06c33db8555bdfc6568e12ad391b992de4b86dcb160c6b2a0a0e45"
+    },
+    {
+      "path": "library/os-lusiadas/maps/malabar.png",
+      "entity": "malabar navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: West Indian coast approaching Calicut, with Cannanore and Cochin as regional reference pins. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked Arabian Sea approach, Malabar coastline, ship track remaining at sea and port dots; labels are supplied by gated markers.",
+      "sha256": "73c1f80f8fef4c03cd9d08713b103bb124e0565fd09bb6e60bb3e4801bc9abdb"
+    },
+    {
+      "path": "library/os-lusiadas/maps/england.png",
+      "entity": "england navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: England and Channel chart for Veloso’s embedded tale. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked island and Channel shapes; English court and crossing markers are illustrative, not a claimed tournament site.",
+      "sha256": "1f24b6313b584481d91768f59c385ef2ba039223f52a06ee828153bc0405d6fc"
+    },
+    {
+      "path": "library/os-lusiadas/maps/calicut-city.png",
+      "entity": "calicut-city navigable map",
+      "source": "Original deterministic Pillow relief and contours in render-maps.py; explicitly interpretive, poem-based terrain.",
+      "prompt": "Topographic chart brief: Interpretive coastal relief of the poem’s Calicut roadstead, landing, shrine, lodging, royal audience and trading quarter. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked ten plotted site pins and paths; caption explicitly says the relative layout is not surveyed.",
+      "sha256": "4f72bf9ffa4bd0052bb1949af2528389bea6cc3de52e6fa6b8c37941f1a5c9fd"
+    },
+    {
+      "path": "library/os-lusiadas/maps/island.png",
+      "entity": "island navigable map",
+      "source": "Original deterministic Pillow relief and contours in render-maps.py; explicitly interpretive, poem-based terrain.",
+      "prompt": "Topographic chart brief: Fictional topographic island coastline with landing beach, grove, path, terrace and height. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked five distinct locations, shore, contours and paths; caption identifies allegorical terrain with no earthly coordinates.",
+      "sha256": "9c568ba8853897299e68194b845cef1c096f53d682d02c018221bff70b4a0ced"
+    },
+    {
+      "path": "library/os-lusiadas/maps/divine.png",
+      "entity": "divine navigable map",
+      "source": "Original deterministic Pillow relief and contours in render-maps.py; explicitly interpretive, poem-based terrain.",
+      "prompt": "Topographic chart brief: Interpretive topographic shore rising to Olympus, with sea and other mythic domains. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked seven distinct domain pins and relief; caption identifies symbolic positions with no surveyed coordinates.",
+      "sha256": "ae23c62f0d83291dfa0a2b368b301a0861211706b259599e6a4decd79f70b09e"
     }
   ]
 }

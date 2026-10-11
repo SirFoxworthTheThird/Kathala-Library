@@ -325,14 +325,10 @@ const goalDefs=[
 data.characterGoals=goalDefs.map(([code,sc,ss,ec,es,type,text],index)=>({...stamp,id:`os-lusiadas-goal-${index+1}`,
   characterId:charId(code),startEventId:eventId(sc,ss),endEventId:eventId(ec,es),type,text}))
 
-const route=(key,map,name,waypoints,notes)=>({...stamp,id:`os-lusiadas-route-${key}`,mapLayerId:mapId(map),name,
-  routeType:'sea_route',waypoints:waypoints.map(locId),color:'#aa7b40',notes})
-data.mapRoutes=[
-  route('outward','ocean','Outward passage',['lisbon-sea','cape-verde','st-helena','cape','mozambique-sea','mombasa-sea','melinde-sea','calicut-sea'],
-    'Historical maritime outline, using ports and headlands given by the poem or the voyage journal; intervening sea is schematic.'),
-  route('homeward','ocean','Homeward sea road',['calicut-sea','cape','lisbon-sea'],
-    'Broad westward return only; the poem gives no full harbor-by-harbor homeward log.'),
-]
+// The surveyed coastline and editorial sea track are drawn in ocean.png.
+// Kathala's mapRoutes joins marker centres with straight lines, which would
+// falsely send the ships over Africa between the Cape and East African ports.
+data.mapRoutes=[]
 
 const itemDefs=[
   ['padrao','Stone padrão','A carved stone marker raised at the East African river to mark the voyage’s passage.','landmark',false,[[5,78]],'good-signs-river'],
