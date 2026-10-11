@@ -438,6 +438,24 @@
       "hasProse": true
     },
     {
+      "id": "os-lusiadas-pt",
+      "title": "Os Lusíadas — edição em português",
+      "author": "Luís de Camões",
+      "blurb": "A viagem à Índia entre tempestades, cortes, a história de Portugal e a intervenção dos deuses clássicos.",
+      "data": "os-lusiadas-pt.pwk",
+      "dataBytes": 1417918,
+      "counts": {
+        "characters": 78,
+        "chapters": 10,
+        "events": 367,
+        "locations": 68
+      },
+      "notice": "Edição não oficial para leitura, em português europeu, do poema integral em domínio público transcrito no eBook n.º 27236 do Project Gutenberg, a partir da edição de 1572. Os dez cantos e todos os versos conservados seguem a ordem original. As divisões em cenas, a cronologia, as descrições e os mapas são editoriais; a fonte e a proveniência das imagens estão documentadas na edição. As ilustrações são partilhadas com a outra entrada de Os Lusíadas.",
+      "worldId": "os-lusiadas-pt-world",
+      "cover": "library/os-lusiadas/art/world.png",
+      "hasProse": true
+    },
+    {
       "id": "os-maias",
       "title": "Os Maias",
       "author": "Eça de Queirós",

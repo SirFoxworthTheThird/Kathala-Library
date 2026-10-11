@@ -103,7 +103,7 @@ describe('the published library catalogue', () => {
 
       it('names the author and carries an attribution notice', () => {
         expect(entry.author.trim()).not.toBe('')
-        expect(entry.notice).toMatch(/unofficial/i)
+        expect(entry.notice).toMatch(/unofficial|não oficial/i)
       })
 
       it('says where its prose came from, or says it has none', () => {
