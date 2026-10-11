@@ -1,0 +1,5 @@
+# Map source and geographic conventions
+
+The Prince Edward Island outline is extracted from DataHub’s `geo-ne-admin1` GeoJSON resource, downloaded from `https://datahub.io/core/geo-ne-admin1/_r/-/data/admin1.geojson`. The resource is derived from Natural Earth Admin 1 and is offered under the Open Data Commons Public Domain Dedication and License 1.0; Natural Earth’s original map data is public domain. The retained `map-source/pei-natural-earth.geojson` contains only the `CA-PE` feature and has SHA-256 `5008699fc6eacf834e6f0a3d3a88162092b8e2bdea4f4823bb919bda02a7d228`.
+
+Charlottetown is placed at its approximate real position. Avonlea, Bright River, and White Sands are fictional communities; their island markers express the novel’s relative travel relationships and are labelled interpretive. The Avonlea and Green Gables layers are topographic reading maps reconstructed from directions, distances, adjacency, and routes in the novel. They do not claim survey accuracy. Every map uses bottom-origin marker coordinates as required by Kathala.
