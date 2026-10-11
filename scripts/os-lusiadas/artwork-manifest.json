@@ -1,0 +1,1349 @@
+{
+  "edition": "Os Lusíadas — 1572 Portuguese transcription",
+  "assets": [
+    {
+      "path": "library/os-lusiadas/art/world.png",
+      "entity": "world cover",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Use case: historical-scene. Asset type: cover illustration for a reading edition of Luís de Camões's Os Lusíadas. An austere, mature painterly composition of three late fifteenth-century Portuguese ocean-going sailing ships rounding the Cape of Good Hope, seen from a high dark Atlantic swell; accurate square and lateen rigging and wooden hulls, no modern vessels. The coast is a remote dark silhouette and the sky opens toward dawn. Understated Renaissance maritime engraving and oil-painting sensibility, umber, indigo, muted gold. Strong visual hierarchy with space for an app title overlaid separately. No text, no letters, no labels, no heraldry, no watermark, no map.",
+      "review": "Opened the 1024 × 1536 output. Three distinct wooden sailing ships with square and lateen rig, heavy sea and dark cape; no modern vessel, text, map, or watermark. Suitable as cover; does not assert an exact ship portrait.",
+      "sha256": "544c089c6e7f48a3779e539056e5ca14d66071b56bd37f341ef3ec93558cc685"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/vasco-da-gama.png",
+      "entity": "Vasco da Gama character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square historical portrait of Vasco da Gama, an adult Portuguese navigator aboard a wooden ship in the late fifteenth century, against the Indian Ocean; restrained Renaissance oil-painting and engraving influence, practical dark sailing clothes, no modern equipment, typography, border, or watermark.",
+      "review": "Opened the image. One weathered adult navigator with dark maritime clothing on a rigged wooden vessel; no modern equipment or text. This is interpretive character art, not a claimed contemporary likeness.",
+      "sha256": "aac8d3826c737d07f36514e6165d55b93d1ec3d9bbf98c81abc0359fa7a9086a"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/venus.png",
+      "entity": "Venus character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square allegorical illustration of Venus in fully covering blue and ivory ceremonial robes on a marble terrace above the sea; sober Renaissance history-painting style, purposeful expression, muted indigo and gold, no text or border.",
+      "review": "Opened the image. Distinct fully clothed allegorical goddess above a seaward harbor, mature palette and no text. An earlier attempt was blocked by the image tool; the revised prompt generated this accepted asset.",
+      "sha256": "6de461f43fbda7d5943161df0bee7165c1dd7ca8eab6bae45c75e42d7aba0a69"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/jupiter.png",
+      "entity": "Jupiter character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature Renaissance portrait of Jupiter, an older bearded god in deep blue and bronze robes seated in an Olympian council, holding a staff; muted navy, stone, and gold, no nudity, text, border, or watermark.",
+      "review": "Opened the image. The older central god is clearly distinguished by staff and throne amid a council; painterly and mature, with no modern objects or text.",
+      "sha256": "ab05eb1684a943c28ec263fa6206facaadceb0bfd3f2f6cf4e53946b7d89f977"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/bacchus.png",
+      "entity": "Bacchus character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square portrait of Bacchus in deep wine-colored and dark olive robes, apart in an Olympian council, troubled by rivalry, with subtle vine detail; restrained Renaissance oil-painting and engraving style, no drinking scene, nudity, text, or watermark.",
+      "review": "Opened the image. Distinct central figure in burgundy robes with vine wreath and grave expression at a council; no text or modern elements.",
+      "sha256": "d2447d9ca6dcd139a11ae21c4c604c182f3e8d01186aa1be6c0071591b68a973"
+    },
+    {
+      "path": "library/os-lusiadas/art/items/padrao.png",
+      "entity": "stone padrão item",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Single weathered carved limestone Portuguese navigation marker raised on an East African riverbank beside fifteenth-century ships; mature Renaissance oil painting; no readable inscription, modern construction, map, or text.",
+      "review": "Opened the image. A large stone cross marker is being raised by sailors near a river or bay; the monument is central and no text is legible.",
+      "sha256": "c411dadefe5d812a9b471d1ea5637d0bb8a611b8a9f68b2e581c7e08b5fbb7a0"
+    },
+    {
+      "path": "library/os-lusiadas/art/items/banners.png",
+      "entity": "painted ship banners item",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Several richly woven fabric panels with small painted medieval deeds hang from a late fifteenth-century Portuguese flagship rail, a visitor lifting one edge; mature Renaissance oil painting, no readable text or modern flags.",
+      "review": "Opened the image. Three distinct hanging painted banners dominate a wooden shipboard view; painted battles and rulers are visible without naming unrevealed figures.",
+      "sha256": "1ce1a27b7a7cf6775d563d18556feaa2d96e7b3418f585113fbebe132d190bb2"
+    },
+    {
+      "path": "library/os-lusiadas/art/items/goods.png",
+      "entity": "Portuguese trade goods item",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Object-centered historical illustration of wooden chests, folded dyed cloth, and other Portuguese merchandise carried from a boat onto a late fifteenth-century Malabar landing; mature Renaissance oil painting, no labels or modern objects.",
+      "review": "Opened the image. Cargo chests and folded cloth are handed ashore in a harbor scene. They are visually distinct from the spice sacks item.",
+      "sha256": "c7e04918f877827f0ff0f7dac432d02010aec9c45911f11889a8df70ae56ad6b"
+    },
+    {
+      "path": "library/os-lusiadas/art/items/spices.png",
+      "entity": "spices for the return item",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Still life of peppercorns, cinnamon bark, cloves, nutmeg, and mace in separate cloth sacks aboard a late fifteenth-century wooden ocean ship, with cargo as the central subject; restrained Renaissance oil painting, no labels.",
+      "review": "Opened the image. Distinct sacks show pepper, cinnamon, cloves, nutmeg, and mace on a wooden deck; no text.",
+      "sha256": "a65907f6f353d7db0895181d3bb02482d57c9311b2589ec987b3548db70fddea"
+    },
+    {
+      "path": "library/os-lusiadas/art/items/bow.png",
+      "entity": "Cupid’s bow item",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Ivory bow and small quiver of gold-tipped arrows on blue silk and pale stone, high clouds and distant sea; object-centered classical allegory, restrained oil painting, no person or text.",
+      "review": "Opened the image. One curved ivory bow and gold-tipped arrows are central; no person, modern equipment, or text.",
+      "sha256": "5061fa1e2e795b1ecb7954d403b193beaeb36c0cd6fa26bd70a6902e684d1a66"
+    },
+    {
+      "path": "library/os-lusiadas/art/items/globe.png",
+      "entity": "transparent world globe item",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "A transparent luminous sphere floating above an empty island terrace, with concentric crystalline celestial spheres sharing a stationary Earth as their center, sixteenth-century geocentric cosmology, mature astronomical engraving and oil painting, no modern solar system diagram or text.",
+      "review": "Opened and rejected a first result because modern planetary orbit and Saturn-ring imagery misrepresented the poem. Opened the corrected result: a central Earth surrounded by nested crystalline spheres and fixed stars, no modern orbital diagram or text.",
+      "sha256": "7bb12a7e18de4b3369fab48b1c390debd5457b5148ccb2485621c394cf777afd"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/mars.png",
+      "entity": "Mars character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Mars fully clothed in dark bronze Roman armor and red mantle, arguing in the Olympian council; mature Renaissance history painting without modern fantasy armor or text.",
+      "review": "Opened image. Armored central Mars gestures in a stone council, clearly distinct from Jupiter and Bacchus; no text or modern objects.",
+      "sha256": "227ad71dba1860a525d66e845f82886ea6babd521f4929724d04034ab057ee2b"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/ruler-of-mozambique.png",
+      "entity": "ruler of Mozambique character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "East African Swahili coastal leader in dignified cotton robes and turban, seated for a late fifteenth-century harbor audience with Indian Ocean vessels behind; historical, mature oil-painting texture, no text.",
+      "review": "Opened image. Seated coastal ruler with harbor ships and attendants; dignified, period-appropriate and visually separate from the pilot.",
+      "sha256": "7c22870551eeeef039896cd365b350a0b32fa670850c63099a2240b75e09571d"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/the-false-pilot.png",
+      "entity": "false pilot character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Swahili Indian Ocean navigator in practical late fifteenth-century coastal garments aboard a wooden vessel, guarded expression, Mozambique harbor behind; distinct from a ruler portrait, mature historical painting, no text.",
+      "review": "Opened image. A single adult navigator aboard a vessel with working harbor behind, simpler attire than the ruler and no modern features or text.",
+      "sha256": "4d1c44308282c5fcf6a415c2042dece27129806995b3997de78a7078c77d521d"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/triton.png",
+      "entity": "Triton character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Fully clothed classical sea messenger in dark teal drapery on a rocky sea ledge, holding a shell trumpet, sober Renaissance painting with stormy ocean, no text.",
+      "review": "Opened image. A distinct sea messenger with shell trumpet stands on rock over active water; fully clothed and free of text.",
+      "sha256": "593c347ae428a0067c8ee6cb8cbd87bb12ffea276c32220ea00b55638943dff3"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/mercury.png",
+      "entity": "Mercury character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature Renaissance allegorical portrait of Mercury as a divine messenger in Os Lusíadas. Fully clothed in a short pale traveling cloak over dark blue tunic, holding a caduceus beside a night sky over the ocean as he prepares a message for the Portuguese captain. Classical, sober oil-painting and engraving style, no nudity, no modern fantasy armor, no text or watermark.",
+      "review": "Opened image. A distinct fully clothed messenger carries a caduceus above the nocturnal sea; no text or modern equipment.",
+      "sha256": "f4d0424371ab2f2d23fed29089b3292660c0acfd2c6971ca8e2f918080515a2e"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/ruler-of-melinde.png",
+      "entity": "ruler of Melinde character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historical portrait of the late fifteenth-century ruler of Melinde in Os Lusíadas. East African Swahili coastal king in layered ivory and indigo cotton robes and a dignified cap, welcoming seafarers at a sunlit Indian Ocean harbor court. Different face and costume from the ruler of Mozambique, historically plausible, Renaissance oil-painting texture, no text or watermark.",
+      "review": "Opened image. A welcoming East African ruler in indigo and ivory at a harbor court, visually distinct from Mozambique's seated ruler; no text.",
+      "sha256": "f43f706aeb63dcd214327cb3f2d73deb2c80d20b2387b19f91b488279837dcdb"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/afonso-of-leon.png",
+      "entity": "Afonso of León character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historical portrait of Afonso of León in the early medieval Iberian history recounted in Os Lusíadas. A twelfth-century Iberian ruler in practical mail and a dark red mantle, standing by a stone frontier fort with mounted knights far behind, composed expression. Historically grounded Renaissance history-painting style, no modern armor, no readable heraldry, no text or watermark.",
+      "review": "Opened image. Crowned twelfth-century ruler in mail and red mantle beside a fort; no text or modern equipment.",
+      "sha256": "246752bd87f1adccbcddbbd86111052369c7943c2943dc2bb808532881d9d7ce"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/count-henrique.png",
+      "entity": "Count Henrique character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historical portrait of Count Henrique in the Portuguese dynastic history of Os Lusíadas. An early twelfth-century nobleman in mail beneath a plain tawny mantle, standing beside a stone Portuguese hill fort with a folded charter held in one hand. Distinct face and palette from Afonso of León, restrained Renaissance history painting, no modern objects, readable text, or watermark.",
+      "review": "Opened image. An uncrowned nobleman in tawny cloak and mail holds a charter against a hill fort, distinct from the Leonese king; no text.",
+      "sha256": "88d4c877382b074579028f8e9ba0a9added8c8a619f5773454d4755f9a508751"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/teresa.png",
+      "entity": "Teresa character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historical portrait of Teresa, Countess of Portugal, in the dynastic narrative of Camões's Os Lusíadas. Early twelfth-century Iberian noblewoman in a deep green wool mantle with a simple circlet, standing before a Romanesque court arch, a sealed charter in hand. Strong individual face, restrained Renaissance history-painting texture, historically plausible, no modern objects, no text or watermark.",
+      "review": "Opened image. Green mantle, circlet, sealed charter and court arch; no text or modern objects.",
+      "sha256": "dca1de430da14057de55e971c0e9b06b3f9b4376d236b730548f587dafcbb18f"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/afonso-henriques.png",
+      "entity": "Afonso Henriques character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historical portrait of Afonso Henriques from Camões's Os Lusíadas. Twelfth-century first Portuguese king in practical chain mail and a weathered cream surcoat, standing on a rocky Portuguese ridge after battle, helm held under one arm, determined and youthful but adult. Distinct from other Iberian rulers, restrained Renaissance history painting, no readable heraldry, no modern armor, no text or watermark.",
+      "review": "Opened image. Adult armored king on ridge with helmet and battle aftermath; no text or modern objects.",
+      "sha256": "8a9a700d335be5324d86f7356342e8f370a9ae57be4ff572a4da6c4f2da86a1b"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/egas-moniz.png",
+      "entity": "Egas Moniz character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historical portrait of Egas Moniz in the early Portuguese history of Camões's Os Lusíadas. Twelfth-century noble guardian in plain dark blue wool mantle and mail, solemnly walking toward a stone Leonese court with a loop of rope in his hands as a pledge of honor. Adult, dignified, historically plausible Renaissance history painting, no text or watermark.",
+      "review": "Opened image. Solemn nobleman with rope before court; background banners are decorative, no readable text.",
+      "sha256": "d105a91b8fdb5cb169730505e9c412e91172e9994dc2a39e39c36bb8f50f134a"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/egas-s-wife.png",
+      "entity": "Egas Moniz's wife character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historical portrait of Egas Moniz's wife in the Portuguese history of Camões's Os Lusíadas. Twelfth-century Portuguese noblewoman in a modest russet gown and linen veil, accompanying her husband toward a distant stone royal court with grave courage, individual face and restrained gesture. Historically plausible Renaissance history-painting texture, no sensationalism, no text or watermark.",
+      "review": "Opened image. Veiled woman in russet gown walks beside Egas toward a court; no text or modern objects.",
+      "sha256": "8fd05878dac5b76a86f5d4b7126c30bf3d2ff54e7acc3ef342ed9f5f9df0d3b7"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/castilian-ruler-in-egas-s-account.png",
+      "entity": "Castilian ruler in Egas’s account character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Castilian ruler in Egas’s account in the narrated history of Camões's Os Lusíadas. twelfth-century Leonese-Castilian monarch on a stone court dais hearing Egas Moniz's oath, deep burgundy mantle and simple crown, distinct from Afonso of León portrait. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. A crowned monarch hears Egas in stone court; no modern objects or readable text.",
+      "sha256": "ba9a687b826829beda624970740618fb9164661d86ac2dbf945e3eb7fb241325"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/ismar.png",
+      "entity": "Ismar character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Ismar in the narrated history of Camões's Os Lusíadas. medieval Muslim field commander in the early Portuguese historical narration, mounted near a rocky Iberian battlefield, practical mail and dark turban, no caricature. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Dignified mounted commander in mail and dark turban at Iberian fort; no caricature or text.",
+      "sha256": "05ad66f7de405f7d2a2f7ac2e0d8a1193c16b327d4c6808b7bb2c76c02ecd4be"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/christ-in-afonso-s-vision.png",
+      "entity": "Christ in Afonso’s vision character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Christ in Afonso’s vision in the narrated history of Camões's Os Lusíadas. restrained sacred Renaissance vision of Christ appearing in luminous sky above the battlefield to Afonso Henriques, respectful fully clothed figure, not a literal historical portrait. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Fully clothed sacred apparition appears above the kneeling king; no text.",
+      "sha256": "df3d89322708b1a7d6cb4a080b82a3efad9a0c73f6bec3fb59b81123c4ed2667"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/giraldo.png",
+      "entity": "Giraldo character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Giraldo in the narrated history of Camões's Os Lusíadas. twelfth-century Portuguese border fighter Giraldo Sem Pavor at a moonlit stone wall of Évora, practical rough cloak and rope ladder, alert adult face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Fighter climbs a moonlit city wall with rope ladder; no text.",
+      "sha256": "eacaa82b50848c8d08b9574faed26754f5e18897aabde641fc9d3eb12aabe83e"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/ruler-of-badajoz.png",
+      "entity": "Ruler of Badajoz character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Ruler of Badajoz in the narrated history of Camões's Os Lusíadas. twelfth-century Muslim ruler of Badajoz in a restrained Andalusi court, linen and indigo robes, architectural tilework, dignified individual face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Dignified seated ruler in indigo and linen before Andalusi tiles; no text.",
+      "sha256": "2541c3522db3e6836fea128b1b8d3072f1a981fdb918e2606650394ac9c3f9cb"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/sancho-i.png",
+      "entity": "Sancho I character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Sancho I in the narrated history of Camões's Os Lusíadas. late twelfth-century Portuguese king in dark red mantle and mail beside a fortified town, mature adult face, simple circlet, distinct from Afonso Henriques. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Mature king in red mantle and mail with town behind him; no text.",
+      "sha256": "d615e5627541b520dd5417c1737291904501ba83c9d6090c76620ded6df8eadf"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/afonso-ii.png",
+      "entity": "Afonso II character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Afonso II in the narrated history of Camões's Os Lusíadas. early thirteenth-century Portuguese king seated with legal charters in a Romanesque hall, ochre mantle, distinct individual face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Seated king with charters and ochre mantle; no text.",
+      "sha256": "9eeb9b76d4c39d6dae76f246424b0cf3e24b9fdda360789f69c92abea73a561a"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/sancho-ii.png",
+      "entity": "Sancho II character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Sancho II in the narrated history of Camões's Os Lusíadas. thirteenth-century Portuguese king amid a troubled court, practical mail and muted blue mantle, uneasy individual face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Uneasy king in blue mantle with arguing court; no text.",
+      "sha256": "ba1269ab6486832831190629182de120617c11bfb365c827001e29a497b77c54"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/afonso-iii.png",
+      "entity": "Afonso III character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Afonso III in the narrated Portuguese history of Camões's Os Lusíadas. thirteenth-century Portuguese monarch after dynastic crisis, green mantle and modest crown, standing beside fortified Algarve town. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. King in green mantle before fortified coastal town; no text.",
+      "sha256": "4d5369f4d0d8f981bc4ade63342c4af3377f9095eb65a76e3f2d9772a09423e0"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/dinis.png",
+      "entity": "Dinis character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Dinis in the narrated Portuguese history of Camões's Os Lusíadas. late thirteenth-century Portuguese king and poet, sober deep blue mantle with manuscript and pine sapling near a monastery garden. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Blue-mantled king holds manuscript near a young pine and monastery; no readable text.",
+      "sha256": "4876e4efcbfeca47fd48ec428a4110cef8d5fb864bbf3292dc97ccaf323eada3"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/afonso-iv.png",
+      "entity": "Afonso IV character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Afonso IV in the narrated Portuguese history of Camões's Os Lusíadas. fourteenth-century Portuguese king in dark iron mail and purple cloak before a council chamber, stern elderly face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Stern older king in mail and purple cloak before council; no readable text.",
+      "sha256": "b6cf95c52e314ea19db65df124a0d03af81d5d301877754cf971d2ab9d032127"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/maria-of-portugal.png",
+      "entity": "Maria of Portugal character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Maria of Portugal in the narrated Portuguese history of Camões's Os Lusíadas. fourteenth-century Portuguese princess and Castilian queen, dignified woman in pearl-grey gown and veil carrying a diplomatic letter at the Salado court. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Veiled queen in pearl gown presents a sealed letter at court; no readable text.",
+      "sha256": "c0dfb50856be2b0dd23ebf65779800057d24711254019cf58c6327700576b3bf"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/castilian-king-at-the-salado.png",
+      "entity": "Castilian king at the Salado character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Castilian king at the Salado in the narrated Portuguese history of Camões's Os Lusíadas. fourteenth-century Castilian monarch preparing the battle of Río Salado, dark scarlet surcoat and mail beside a campaign tent, distinct from earlier kings. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Scarlet-surcoated king at campaign tent with river plain beyond; no readable text.",
+      "sha256": "1bebd8848b571a9efb3f7aaa8eaf74db3013b32d6a35f31efdd5dfef7ceb4a6a"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/ines-de-castro.png",
+      "entity": "Inês de Castro character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Inês de Castro in the narrated Portuguese history of Camões's Os Lusíadas. fourteenth-century Portuguese noblewoman beside a Coimbra garden fountain, calm direct gaze, blue gown and white veil, historically grounded and nonviolent. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Calm blue-gowned noblewoman beside garden fountain; no violence or text.",
+      "sha256": "e66faf909dc2920200420e5d4f5f19f5d0b897d7140b8f3232f258c0d51afb2d"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/pedro-i.png",
+      "entity": "Pedro I character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Pedro I in the narrated Portuguese history of Camões's Os Lusíadas. fourteenth-century Portuguese ruler after Inês's death, black mourning mantle over mail in a stone hall, haunted but composed adult face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Mourning king in black and mail in stone hall; no text.",
+      "sha256": "47da2df5d2ad92b0c7a068f25ea36100bbbd28d0dd9f97dfc95501eb4d0133b6"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/fernando-i.png",
+      "entity": "Fernando I character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Fernando I in the narrated Portuguese history of Camões's Os Lusíadas. late fourteenth-century Portuguese king in a muted crimson court cloak beside Lisbon's riverfront, worried mature face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Concerned king in crimson above Lisbon riverfront; no text.",
+      "sha256": "236eeecaaa36408f4f6577654638f66032e1d496602c5a85414bf8a25f1f2ed8"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/john-i.png",
+      "entity": "John I character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for John I in Camões's Os Lusíadas. late fourteenth-century Portuguese king after Aljubarrota, dark blue mantle and practical mail in a field command tent. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Blue-mantled king in field tent with soldiers; no text.",
+      "sha256": "c631197f4ba058097951f91d5380ae4cf39a60638e061bef4bc9050640ecfdde"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/nuno-alvares-pereira.png",
+      "entity": "Nuno Álvares Pereira character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Nuno Álvares Pereira in Camões's Os Lusíadas. Portuguese constable at Aljubarrota, weathered mail and muted ochre cloak, directing troops across a dry ridge. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Constable in mail directs field troops; no text.",
+      "sha256": "4f39682f1b3c6604a8eada4c58d29f88d8b1698788ec0cd8ca6ea45bb131625f"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/duarte-i.png",
+      "entity": "Duarte I character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Duarte I in Camões's Os Lusíadas. fifteenth-century Portuguese king at a sober council desk with sea charts, dark green mantle and thoughtful individual face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Thoughtful green-mantled king at chart table; no readable text.",
+      "sha256": "f0e59ead6f8171b42ef0455dec97355c7e2b77aa658613e46d373be895c3db07"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/fernando-the-captive-prince.png",
+      "entity": "Fernando the captive prince character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Fernando the captive prince in Camões's Os Lusíadas. fifteenth-century Portuguese infante in a plain robe at a North African stone chamber, dignified restrained expression, no chains or sensationalism. Distinct composition and palette, no modern objects, no text or watermark.",
+      "correctionPrompt": "Edit this existing Fernando the captive prince image. Remove the tiny signature-like mark at the bottom edge entirely, reconstructing the surrounding paint texture. Preserve the rest of the historical painting, figure, clothing, composition, lighting, and palette exactly. No lettering, signature, or watermark anywhere.",
+      "review": "Original rejected for signature-like mark. Edited output opened; dignified captive in plain robe, mark removed.",
+      "sha256": "49e393cab259f46a7d76cefae0cca244437ce13453e6bd5e8eb229044fe43ec2"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/afonso-v.png",
+      "entity": "Afonso V character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Afonso V in Camões's Os Lusíadas. fifteenth-century Portuguese king in dark red mantle at a Moroccan coastal fort, adult face distinct from other rulers. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Red-mantled king at coastal fort; no text.",
+      "sha256": "6f52c720ca702c5003bfe111db78c5f4a32255b350736cde34811449f1ee7e41"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/john-ii.png",
+      "entity": "John II character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for John II in Camões's Os Lusíadas. late fifteenth-century Portuguese king in black velvet and plain gold chain at a Lisbon navigation council with sea chart. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. King in black at navigation council, charts visible; no readable text.",
+      "sha256": "adc642efe23b1a63abeb21c80e72af47255e4ccc887985aa6462cc16f2f7fb0e"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/ferdinand-of-aragon.png",
+      "entity": "Ferdinand of Aragon character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Ferdinand of Aragon in Camões's Os Lusíadas. late fifteenth-century Spanish monarch in restrained burgundy court robes with diplomatic envoys, distinct from Portuguese kings. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Seated Spanish monarch in burgundy receiving envoys; no text.",
+      "sha256": "00c02225a3243c0bc63005292232bd7fbc5baa3a642abb0b3bc7fae01476179d"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/manuel-i.png",
+      "entity": "Manuel I character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Manuel I in Camões's Os Lusíadas. late fifteenth-century Portuguese monarch in cream brocade and sea-blue mantle at a Lisbon quay, watching departing ships. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Cream-and-blue monarch watching ships from Lisbon quay; no text.",
+      "sha256": "67fbd3cd5bafeb38fff379a505371eb864fa5ce7971fc9e726b731c316dbf900"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/first-river-figure.png",
+      "entity": "First river figure character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for First river figure in Camões's Os Lusíadas. allegorical ancient river god rising from a shaded riverside in Camões's epic, fully clothed in moss-green drapery, classical and dignified. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Older allegorical river figure in green drapery with stream and reeds; no text.",
+      "sha256": "714896612289082c9823fd9b9be57fc6d81a4140894ae2449c148b9dda93d1d2"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/second-river-figure.png",
+      "entity": "Second river figure character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Second river figure in Camões's Os Lusíadas. distinct allegorical ancient river god beside a second stream in Camões's epic, fully clothed in slate-blue drapery, silver reeds and weathered face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "correctionPrompt": "Edit this existing Second river figure image. Remove the tiny signature-like mark at the bottom edge entirely, reconstructing the surrounding paint texture. Preserve the rest of the historical painting, figure, clothing, composition, lighting, and palette exactly. No lettering, signature, or watermark anywhere.",
+      "review": "Original rejected for signature-like mark. Edited output opened; blue-draped second river figure, mark removed.",
+      "sha256": "8afff33b6379b39a2493791fb78e0b5cd05ad2026005d2ec7c41fdebc14482c0"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/paulo-da-gama.png",
+      "entity": "Paulo da Gama character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Paulo da Gama in Camões's Os Lusíadas. late fifteenth-century Portuguese sailor and Vasco da Gama's brother on a wooden ship, practical blue sea cloak and navigation papers. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Blue-cloaked navigator aboard wooden ship with chart; no readable text.",
+      "sha256": "d7267599b6e8abdaac190c0a665e4db3f6b7a249adf2c6d8b53e295cb9fd1237"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/nicolau-coelho.png",
+      "entity": "Nicolau Coelho character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature historically grounded Renaissance history-painting portrait for Nicolau Coelho in Camões's Os Lusíadas. late fifteenth-century Portuguese captain aboard a caravel, salt-worn tawny doublet and helm, alert individual face. Distinct composition and palette, no modern objects, no text or watermark.",
+      "review": "Opened image. Tawny-clad captain with metal helm aboard wooden ship; no text.",
+      "sha256": "7249ab001cd2485b415692ebeba1b7fd5003352cde5ec21c0f90a1cac621731a"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/old-man-at-restelo.png",
+      "entity": "Old man at Restelo character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Old man at Restelo in Camões's Os Lusíadas. elderly Portuguese man in a plain brown cloak standing on the Lisbon riverbank, warning departing sailors, ships behind. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Old man at Restelo depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "d62a062f807d4207769ffb4052473f8dd1e0985df9e0de0d4237e00d9d1b5ab0"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/fernao-veloso.png",
+      "entity": "Fernão Veloso character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Fernão Veloso in Camões's Os Lusíadas. late fifteenth-century Portuguese sailor in a weathered sea cloak on a rocky southern African shore, wary and energetic. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Fernão Veloso depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "6a629ffb15a48e2250136be776532b931f04fcdf31c88e72285faf738fe65e81"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/giant-at-the-southern-headland.png",
+      "entity": "Giant at the southern headland character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Giant at the southern headland in Camões's Os Lusíadas. the vast allegorical Adamastor rising as a storm-dark stone and cloud figure beside the Cape, terrifying but fully draped in vapour. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "correctionPrompt": "Edit this existing image of Adamastor at the Cape. Remove the small signature-like mark near the lower left edge and reconstruct the surrounding rock and sea texture. Preserve the giant of storm-cloud and stone, ships, coastline, lighting, and composition. No lettering, signature, or watermark.",
+      "review": "Opened image. Giant at the southern headland depicted in the requested historical or mythic setting; no visible text or watermark. Original signature-like mark removed in inspected edit.",
+      "sha256": "450728ac1325276f95b78a03a535d726895baeb31bb2a4eacca9662bb61a5f9c"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/doris.png",
+      "entity": "Doris character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Doris in Camões's Os Lusíadas. classical sea nymph Doris in a fully clothed sea-green robe at the surf, dignified mature face, no nudity. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Doris depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "cb982dafd457a71e622be00b6c35dac1ca69e92f68742b10fded2d003cda9f23"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/thetis.png",
+      "entity": "Thetis character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Thetis in Camões's Os Lusíadas. classical sea deity Thetis fully clothed in a deep blue and ivory robe at the mythical island shore, dignified individual face. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Thetis depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "fd8ff5ec33f1b3462c9b8329704f2959afcdea2c58a65d23941ee6bc0582ce65"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/fernao-martins.png",
+      "entity": "Fernão Martins character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Fernão Martins in Camões's Os Lusíadas. Portuguese interpreter in a plain sea-worn doublet speaking with East African visitors aboard a fifteenth-century ship. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Fernão Martins depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "0caaca034146ef3c6380b19aa86187d284789a6255eb7edd87dd8da97d932b1c"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/neptune.png",
+      "entity": "Neptune character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Neptune in Camões's Os Lusíadas. classical sea god Neptune fully clothed in dark ocean-blue drapery, sea court of stone and coral, trident. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Neptune depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "4d7465be04b91ecc7cd125c3e490f9f62f256b33f97a135933bb1341d2cd94d1"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/proteus.png",
+      "entity": "Proteus character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Proteus in Camões's Os Lusíadas. shape-changing classical sea figure Proteus fully clothed in green-grey drapery on wet rocks with shifting light, older face. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Proteus depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "a56b2af2d4536b1584ecb962c50658ed2f3fe2653e1de7408910a6714968cc0c"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/neptune-s-consort.png",
+      "entity": "Neptune’s consort character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square Renaissance mythological painting of Amphitrite, a mature sea goddess in Camões's Os Lusíadas. She sits in a stone-and-coral sea court, wearing a layered opaque ivory robe and deep indigo cloak. Sea light, dignified individual face, fully clothed, no text, signature, or watermark.",
+      "review": "Opened image. Neptune’s consort depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "70d95b3525d1e7a2e839acc13fa3c09c0e84eca8b824dec9598e00e2583b46bc"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/aeolus.png",
+      "entity": "Aeolus character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Aeolus in Camões's Os Lusíadas. classical keeper of winds Aeolus fully clothed in slate robe at a cave of storm winds, stern older face. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Aeolus depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "0b12aa72707c257fce61c8ab048d582da5ece4b9cb5887fe1e509a6332231134"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/leonardo.png",
+      "entity": "Leonardo character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Leonardo in Camões's Os Lusíadas. late fifteenth-century Portuguese sailor Leonardo in a practical rust-red doublet on a lush allegorical island, adult face. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Leonardo depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "9e66b6d9e8d0b39fe59fa0c6c7fb8231399912eff85808c5bd2dfe2bf0fd09c1"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/duke-of-lancaster.png",
+      "entity": "Duke of Lancaster character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Duke of Lancaster in Camões's Os Lusíadas. fourteenth-century English noble duke in dark burgundy robes at a timbered hall, mail collar, distinct from Portuguese kings. Renaissance history-painting and engraving texture, distinct composition and palette, historically or mythologically grounded as appropriate, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image. Duke of Lancaster depicted in the requested historical or mythic setting; no visible text or watermark.",
+      "sha256": "c0f282514c3c8f5a83ad6b0b483ad4122bdffeabb12eed56df3cb3438e14aeda"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/magrico.png",
+      "entity": "Magriço character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Magriço in Camões's Os Lusíadas. fifteenth-century Portuguese knight in modest mail and deep green cloak before an English tournament field, adult face, no heraldic text. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Magriço depicted in the specified setting; no visible text or watermark.",
+      "sha256": "021802ee8cf93bee1c02b9dbb11d2ae36d86219d46ef33b506ff5c397555a317"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/magrico-s-assigned-lady.png",
+      "entity": "Magriço’s assigned lady character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Magriço’s assigned lady in Camões's Os Lusíadas. fifteenth-century English noblewoman in a dark plum gown and cream veil watching a tournament from a timber gallery, poised individual face. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Magriço’s assigned lady depicted in the specified setting; no visible text or watermark.",
+      "sha256": "f8e279649308fed1aa522c97f8ce6d86e61c15a9f0d0d4ac5299139766c7ea1f"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/english-king-in-veloso-s-tale.png",
+      "entity": "English king in Veloso’s tale character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for English king in Veloso’s tale in Camões's Os Lusíadas. medieval English monarch in a fur-lined blue mantle in a timbered English great hall, mature face. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. English king in Veloso’s tale depicted in the specified setting; no visible text or watermark.",
+      "sha256": "00ca7488067d6930a6cd472f39ea5de26cb5ab75cffe4dde2083ccab4f4fbd70"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/ship-s-master.png",
+      "entity": "Ship’s master character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Ship’s master in Camões's Os Lusíadas. late fifteenth-century Portuguese shipmaster in brown sea coat beside a wooden helm during a storm, salt-weathered face. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Ship’s master depicted in the specified setting; no visible text or watermark.",
+      "sha256": "29882708973b39e6aac620ef9b746ce247550d6194a3fc1ac5a1b256abe21b45"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/boreas.png",
+      "entity": "Boreas character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Boreas in Camões's Os Lusíadas. allegorical north wind as a stern fully clothed older male figure in grey-blue drapery in a cloudbank above rough water. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Boreas depicted in the specified setting; no visible text or watermark.",
+      "sha256": "44c508ad10c8b58189f146fa47116baedaa3483e64da68a78c91b15461c24e99"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/orithyia.png",
+      "entity": "Orithyia character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Orithyia in Camões's Os Lusíadas. allegorical wind-consort as a fully clothed mature woman in silver-blue robe in a cold cloudscape, distinct from sea goddesses. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Orithyia depicted in the specified setting; no visible text or watermark.",
+      "sha256": "f0768f2b8d3a3d12c38d053bbc5923834e29184d69f77fa1032b06f6a8b42ad3"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/notus.png",
+      "entity": "Notus character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Notus in Camões's Os Lusíadas. allegorical south wind as a fully clothed older male figure in warm umber drapery bringing rain clouds above the sea. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Notus depicted in the specified setting; no visible text or watermark.",
+      "sha256": "5e102acd903568f1e5ddbc803d70613b28f1bd596ee6eb9c7d70f5d52e55e216"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/galatea.png",
+      "entity": "Galatea character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Galatea in Camões's Os Lusíadas. classical sea nymph in opaque pearl-green robes on a rocky shore with waves, individual mature face. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Galatea depicted in the specified setting; no visible text or watermark.",
+      "sha256": "a5c469e11fbafe2d6e492b9c356f55c992b4ec1c88f220876d8e2433c47cf708"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/pilot-from-melinde.png",
+      "entity": "Pilot from Melinde character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Pilot from Melinde in Camões's Os Lusíadas. East African Swahili navigator aboard a fifteenth-century Portuguese ship, indigo cotton robe and chart, dignified and practical. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Pilot from Melinde depicted in the specified setting; no visible text or watermark.",
+      "sha256": "dbeb70922bb51ec5af591fef290d63606061fa485d5394fb488346a5863b819e"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/portuguese-messenger-at-calicut.png",
+      "entity": "Portuguese messenger at Calicut character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Portuguese messenger at Calicut in Camões's Os Lusíadas. late fifteenth-century Portuguese envoy in a plain cream doublet carrying a sealed letter through a Malabar port street. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Portuguese messenger at Calicut depicted in the specified setting; no visible text or watermark.",
+      "sha256": "b71431ab97e3a70ae4a0840dfd8365668e45ca414aed3226080f18d457c55400"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/resident-from-berberia.png",
+      "entity": "Resident from Berberia character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Resident from Berberia in Camões's Os Lusíadas. North African resident and interpreter in late fifteenth-century Calicut, layered ochre cotton robes in a busy market court, dignified face. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Resident from Berberia depicted in the specified setting; no visible text or watermark.",
+      "sha256": "b59ca9061d9c07aa9817c9437e1a99ec31c1bf3520c3021da27c3d39cc6b47e3"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/catual.png",
+      "entity": "Catual character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature illustrated character portrait for Catual in Camões's Os Lusíadas. late fifteenth-century Malabar court official in layered white cotton and gold-edged shawl within a Calicut audience hall, dignified South Indian face. Painterly Renaissance history and epic allegory, distinct composition and palette, historically grounded where applicable, fully clothed, no modern objects, no text, signature or watermark.",
+      "review": "Opened image. Catual depicted in the specified setting; no visible text or watermark.",
+      "sha256": "1e4152b6aead7887b0758f810b3e4629258e175e9d0ee31c8e547feacc17ed73"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/ruler-of-calicut.png",
+      "entity": "Ruler of Calicut character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Ruler of Calicut in Camões's Os Lusíadas. late fifteenth-century Zamorin of Calicut in layered white cotton and restrained gold adornment, seated in a Kerala court with timber columns. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "7a7fa45cc361bde68a2c3801cab5fd34b321ba0063f15a6ab790ead373011061"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/calicut-diviner.png",
+      "entity": "Calicut diviner character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Calicut diviner in Camões's Os Lusíadas. late fifteenth-century South Indian astrologer in plain white cotton at a Calicut court, palm-leaf manuscripts and brass instruments, dignified face. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "ab830271d0ad2b6153124d9b0a8275aadb66d3d3abb0b4d451b1d98bd724e124"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/local-muslim-cleric.png",
+      "entity": "Local Muslim cleric character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Local Muslim cleric in Camões's Os Lusíadas. late fifteenth-century Muslim religious scholar in Calicut wearing modest cream robes and cap, speaking in a shaded port courtyard, dignified South Asian face. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "ad214c5433a8c1131e3e0a98fb83ac124cfd7d2da94836b7d7fad61f2da7ef57"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/alvaro-the-factor.png",
+      "entity": "Álvaro the factor character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Álvaro the factor in Camões's Os Lusíadas. Portuguese trading factor in a weathered dark blue doublet at a late fifteenth-century Calicut warehouse, account ledger and bales. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "dfa6da0ca79a58d90aa1b2063000eb35842e23d80c679f335f4770febdfcc4ad"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/diogo-the-factor.png",
+      "entity": "Diogo the factor character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Diogo the factor in Camões's Os Lusíadas. distinct Portuguese trading factor in a russet doublet at a late fifteenth-century Indian Ocean quay, weighing goods with a brass scale. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "af518537c20d714484fb468b58464dd2c64b128d241570f28a68c2fefe24bf65"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/cupid.png",
+      "entity": "Cupid character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Cupid in Camões's Os Lusíadas. classical Cupid as a fully clothed young adult archer in red and gold tunic on a cloudbank above an island, Renaissance allegory, no childlike figure. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "7abb1c3e7972374ef19ab0352d7f8692b29dcf57def7ed2863132d6d72b08694"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/fame.png",
+      "entity": "Fame character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Fame in Camões's Os Lusíadas. allegorical Fame as a fully clothed mature woman in ivory and muted gold robes holding a herald's trumpet above the sea, dignified. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "6f30087e2a8962996f4b9cf1af3c88caed703deb0209f72f1f71193aaec0ce87"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/efire.png",
+      "entity": "Efire character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Efire in Camões's Os Lusíadas. classical island nymph Efire in an opaque coral-and-green robe at a lush island spring, individual adult face, dignified. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "e680941967ff685738cdd9fe57f62e76d72b4125126ff03b3f09e375fdfe7b51"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/island-queen.png",
+      "entity": "Island queen character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Island queen in Camões's Os Lusíadas. fully clothed queen of the allegorical island in a deep turquoise and ivory robe under a flowering bower, commanding mature presence. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "b3505f02bc7a295cf8bb2d9ea9d30bf0b2f315c8a6c665521e347f4de0e04aef"
+    },
+    {
+      "path": "library/os-lusiadas/art/characters/feast-singer.png",
+      "entity": "Feast singer character portrait",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly character portrait for Feast singer in Camões's Os Lusíadas. adult singer at the island's epic feast in a fully clothed dark indigo robe, holding a small lyre amid lamplight, individual face. Historically grounded for mortals and classical Renaissance allegory for mythic figures. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Distinct period or allegorical portrait with no visible text, signature, or watermark.",
+      "sha256": "c1a7d865c2b9eb970d02cf713933bebf64849e89141272efcccd2457d5e2707b"
+    },
+    {
+      "path": "library/os-lusiadas/art/factions/fleet.png",
+      "entity": "Portuguese fleet faction cover",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly faction artwork for Portuguese fleet in Camões's Os Lusíadas. A late fifteenth-century Portuguese carrack and two smaller ships at sea, crew at work, visible rigging and worn sails, human scale. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Setting and group are distinct; no visible text, signature, or watermark.",
+      "sha256": "01c7f35ec144523dd7f78793a12eec403b76ce66686b8d1883eaf1146a4f6d3d"
+    },
+    {
+      "path": "library/os-lusiadas/art/factions/olympus.png",
+      "entity": "Olympian council faction cover",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly faction artwork for Olympian council in Camões's Os Lusíadas. Renaissance allegorical council of classical deities in a vast marble hall above cloud, mature fully clothed figures, solemn debate. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Setting and group are distinct; no visible text, signature, or watermark.",
+      "sha256": "93f619032bd2c48a4f1dbfdb578ee15c0f3b0b22fd15233b1ac20fbbe1939749"
+    },
+    {
+      "path": "library/os-lusiadas/art/factions/melinde.png",
+      "entity": "Court of Melinde faction cover",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly faction artwork for Court of Melinde in Camões's Os Lusíadas. Late fifteenth-century Swahili coastal ruler's audience in Melinde, carved wooden architecture, East African dignitaries and Portuguese visitors, respectful historical setting. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Setting and group are distinct; no visible text, signature, or watermark.",
+      "sha256": "afb8a2629129977203b51708de71169e2076c86ac3880b1897660cdbebec8d93"
+    },
+    {
+      "path": "library/os-lusiadas/art/factions/calicut.png",
+      "entity": "Court of Calicut faction cover",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly faction artwork for Court of Calicut in Camões's Os Lusíadas. Late fifteenth-century Zamorin court in Kerala, timber pillared audience hall, South Indian attendants and Portuguese envoys, historically grounded clothing. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Setting and group are distinct; no visible text, signature, or watermark.",
+      "sha256": "22c94d45a786953b370b5066293f87a65d3e9ff5465a6fbc3f0e77ee5723b55f"
+    },
+    {
+      "path": "library/os-lusiadas/art/factions/island.png",
+      "entity": "Island nymphs faction cover",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly faction artwork for Island nymphs in Camões's Os Lusíadas. Renaissance allegorical company of fully clothed adult women in an island grove beside the sea, distinct faces, dignified and lyrical. Distinct composition and palette, no modern objects, no nudity, no text, signature, or watermark.",
+      "review": "Opened image at full size. Setting and group are distinct; no visible text, signature, or watermark.",
+      "sha256": "3be7450b9dcb807d4a48c759793a1fd0f90436cb25f3fb33c52be98d2498ffdb"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/lisbon-sea.png",
+      "entity": "lisbon-sea place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Tagus estuary seen from the water near Belém, late fifteenth-century Portuguese sailing ships departing under pale morning light. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the stone Belém Tower and ornate later waterfront buildings. Show the Tagus shore as it could appear in 1497: low quays, modest late-medieval buildings and a small chapel. Keep the three departing ships and painterly style. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Original geographic or cultural error removed; no visible text, signature, or watermark.",
+      "sha256": "cffb47c4c27504ac27f850648f3b3e32024cfe6a2631216ec09fd4acd52fde62"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/east-african-coast.png",
+      "entity": "east-african-coast place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: approach from the sea to a low East African island coast before landfall, late fifteenth-century dhow in the distance. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Setting is geographically and historically plausible; no visible text, signature, or watermark.",
+      "sha256": "c31d81c35f8c4016673abc5fba1a519738e8ac547e073f8b842830d0eef7886a"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/atlantic-passage.png",
+      "entity": "atlantic-passage place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: open South Atlantic rollers and a solitary late fifteenth-century carrack rounding the broad western turn toward Africa. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the visible coastline and mountains entirely. This is the open South Atlantic with no land in sight; keep one distant fifteenth-century Portuguese ship, change composition to stress empty sea and westward turn. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Original geographic or cultural error removed; no visible text, signature, or watermark.",
+      "sha256": "b6e96c2ccf40adb7537c17ee6ebdfe2627594a387cb05f5bf331658aa41a8026"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/ocean-crossing.png",
+      "entity": "ocean-crossing place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: vast Indian Ocean crossing, late fifteenth-century Portuguese ships tiny beneath a monsoon sky. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove all visible coastline and mountains. The Portuguese ships must be in the open Indian Ocean with no land in sight beneath a monsoon sky. Keep the painting mature and geographically plausible. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Original geographic or cultural error removed; no visible text, signature, or watermark.",
+      "sha256": "21e4d87119b2f96d37ac2b964f575bddeb28827b11528edeccf5712eacf226d6"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/cape-verde.png",
+      "entity": "cape-verde place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Cape Verde waters with volcanic islands at a distance and a late fifteenth-century sailing ship passing offshore. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Setting is geographically and historically plausible; no visible text, signature, or watermark.",
+      "sha256": "0ce8e4b9b1b372bc18d1d5deba57ae201f03879636288533e93f43503ff4f37e"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/st-helena.png",
+      "entity": "st-helena place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: sheltered St Helena Bay on southern Africa's west coast, dunes and scrub with a small late fifteenth-century anchored ship. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Setting is geographically and historically plausible; no visible text, signature, or watermark.",
+      "sha256": "63c7e5006aa104e95effc6412037c11b71fe7ea1c0c85c90d3e3bd98b15776c2"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/southern-bay.png",
+      "entity": "southern-bay place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: southern African bay where Portuguese sailors land with an astrolabe and measure the sun, rugged shore, late fifteenth century. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Setting is geographically and historically plausible; no visible text, signature, or watermark.",
+      "sha256": "4fe493c4e7008974bc9cc48b7c295fdfc9dded9ff58efd643aa3679f6dd75886"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/cape.png",
+      "entity": "cape place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Cape of Good Hope headland from rough water, sea spray and rock, late fifteenth-century ship approaching. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Setting is geographically and historically plausible; no visible text, signature, or watermark.",
+      "sha256": "fa3789f149b3297dd9e9eff05c96e1af80ae80cf131a73b5b7a8096aca6981d4"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/southern-cape-approach.png",
+      "entity": "southern-cape-approach place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: dark southern headland beneath a storm bank before the mariners know its name, fifteenth-century ship offshore. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Setting is geographically and historically plausible; no visible text, signature, or watermark.",
+      "sha256": "58b58938e411f35faa1ac2f25a37d47a555da2407051a2e4fb080a71bd4047a8"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/southern-trade-shore.png",
+      "entity": "southern-trade-shore place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: southern African shoreline where local people welcome a Portuguese boat with music and trade, respectful late fifteenth-century scene. Site-specific composition; historically grounded geography and material culture, no fantasy unless described, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Retain a respectful late fifteenth-century meeting on a southern African shore, but remove the leopard-print costume, ivory tusks and excessive trade props. Depict locally appropriate plain woven or skin garments without caricature, small beads and food exchange, with music present. Keep distinct individual faces. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Original geographic or cultural error removed; no visible text, signature, or watermark.",
+      "sha256": "fe8b06abaf371390e8edef5889a3d419508dcb1618003080e9f0192fd827dc0e"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/southern-coast.png",
+      "entity": "southern-coast place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: long southern African coast east of the cape, rocky shore and current against a late fifteenth-century Portuguese carrack. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "abf02bd2d4f015c91b967112d7ebd5ffb617105b2e992c7ead314839b68f2ee3"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/suez.png",
+      "entity": "suez place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: head of the Red Sea at Suez as a late fifteenth-century trading port, arid shore, small sail vessels, merchants in modest period dress. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "015de663a27d01f8d1cfb1749fde2db3772ce08e6900c8b416658ddb17a90580"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/jeddah.png",
+      "entity": "jeddah place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Jeddah waterfront on the Red Sea, coral-stone houses and dhows loading Indian Ocean trade goods. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "c6e9725d634a0d87765850c749e95cb4bc3d554fbc78544fa1e6d09ed1e35d47"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/mozambique-sea.png",
+      "entity": "mozambique-sea place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Mozambique Island and channel seen from the sea in the late fifteenth century, low coral-stone waterfront and dhows, no later fort. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "1251dd0402ea28086a8337d4d91d36a7d84aeddece8fbc9be6e109daa2280da6"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/mombasa-sea.png",
+      "entity": "mombasa-sea place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: approach to late fifteenth-century Mombasa from the water, coral-stone Swahili town on its island with dhows offshore, no colonial fort. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "c87352a4aeca4cc40f282424ab185bd1946e22e7516b1b8326c4301a5b911675"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/melinde-sea.png",
+      "entity": "melinde-sea place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Melinde roadstead, East African coast and low Swahili town seen beyond anchored Portuguese carracks. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "a3c519c82b75740c96fe3669ae72623af519fa567d20c4ab86cb447ad48d7414"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/calicut-sea.png",
+      "entity": "calicut-sea place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Malabar landfall off Calicut, Kerala coast with palms and late fifteenth-century fishing craft, Portuguese fleet approaching. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "4883cbbd3dd55cd5ca9c6ebb9fc69dbfaf35559661d51d5c1403834d22a5f2c6"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/lisbon.png",
+      "entity": "lisbon place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Belém shore on the Tagus in 1497, sailors preparing a fleet and families gathering by a modest chapel and low quay, no later tower. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the dark signature-like mark at the lower left completely and restore natural stone texture. Preserve the 1497 Belém departure composition and all other details. No text, initials, signature, or watermark.",
+      "review": "Opened corrected image at full size. Period or signature concern removed; no visible text, signature, or watermark.",
+      "sha256": "d85e8cffa0fc710b5e4b2c9bf017347028050ed31dfe635d7ecbd1530e80bed2"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/coimbra.png",
+      "entity": "coimbra place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late medieval Coimbra above the Mondego River, stone university and royal precinct visible through a soft Portuguese dawn. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Reimagine this as fourteenth-century Coimbra, not the later monumental university and modern riverside. Show a compact walled medieval town and royal precinct above the Mondego, a modest stone bridge, low houses and river craft. Painterly dawn, no text, signature, or watermark.",
+      "review": "Opened corrected image at full size. Period or signature concern removed; no visible text, signature, or watermark.",
+      "sha256": "e06bb214fa27b7c4068a051792900fad11e4164205b963fdaf9a5a2cf45cd7d4"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/ourique.png",
+      "entity": "ourique place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: dry Alentejo plain near Ourique in the twelfth century, battle ground after troops have departed, low hills and distant standard. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "9ebe6e437f702ee1e0f3cb8907c141fc79f4ee2edd73e76c8856bce682117c47"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/aljubarrota.png",
+      "entity": "aljubarrota place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: 1385 Aljubarrota battlefield near Batalha, Portuguese defensive earthworks and sparse oak terrain before armies meet, no later monastery. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "25526aa1eb836392ae74563ccf08100032e9decb00a6c2ce1a34009a8505a6f6"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/badajoz.png",
+      "entity": "badajoz place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: medieval Badajoz as a fortified Iberian border city above the Guadiana, twelfth-century stone walls and bridge. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "e3a9ac76209b877c1212f1c766f73c07aefa9f5e03d22e3b49d53bd84be09c48"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/ceuta.png",
+      "entity": "ceuta place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Ceuta on the North African strait in 1415, fortified waterfront seen from Portuguese ships, no later colonial architecture. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "fc42dd84458d8ff9b03c9206a4af83f41920fee3d641f68bb7729697580d3b86"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/porto.png",
+      "entity": "porto place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late medieval Porto on the Douro, steep clustered houses, cathedral hill and trading boats at the riverside. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the high arched bridge in the left distance; that bridge is later than the medieval setting. Show open Douro water and the opposite low shore there instead. Preserve the steep medieval town and riverside trade. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Anachronistic or distracting prop removed; no visible text, signature, or watermark.",
+      "sha256": "aa0cf21c365b91f32e81809bfc51f3808e9ae54990676ca3261d07566a5af5bf"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/guimaraes.png",
+      "entity": "guimaraes place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: twelfth-century Guimarães castle and compact northern Portuguese settlement amid green hills, siege preparations. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "de0e8dd657af3fd659fd9cbf4249f1d5f66f64ad7b56b54a27d4c74c4d9a43de"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/salado.png",
+      "entity": "salado place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: fourteenth-century Salado battlefield in southern Iberia, broad plain and distant mixed medieval armies beneath a hazy sky. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "16e1363e5baef18b7f97ab02a28039115514345ccb6cc08d341361116d1809a0"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/portugal-heartland.png",
+      "entity": "portugal-heartland place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: central Portugal in the medieval kingdom, rolling hills, olive groves, a stone road and distant fortified town. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "5cc9f7c7e65dfb74b7c1b6149e14b6917c1b9fc3849887ff5ca62150d66f6cfb"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/evora.png",
+      "entity": "evora place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: medieval Évora in Alentejo, walled stone city and narrow gates under a warm inland dusk. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "92bf06f5e687495ce5f132dc9899549c5914eef49c9cab6e06655206f83c49ac"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/beja.png",
+      "entity": "beja place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: medieval Beja after a twelfth-century assault, austere southern Portuguese walls and quiet aftermath, no gore. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "614662aedf656a7272d6dd6df7880961998bb6210918dd2f6d2e6f254e116d6a"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/santarem.png",
+      "entity": "santarem place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: twelfth-century Santarém above the Tagus, defended walled town on a hill with distant approaching riders. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "a0667223f56704b495551bc16a64f56e589fd983b7e2c453226c44509127c601"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/silves.png",
+      "entity": "silves place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: medieval Silves in Algarve above the Arade, red sandstone castle and river beneath siege-era skies. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Period setting and site-specific composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "d133076c10b0f0f6b0111ea77117f938d908ea68e186a8a3553c1a0177baf31b"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/sofala.png",
+      "entity": "sofala place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Sofala on the East African coast, low Swahili trading settlement by a tidal inlet and wooden boats, no Portuguese fort. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the prominent elephant ivory tusks from the foreground and replace them with baskets of grains, cloth, and everyday port goods. Preserve the fifteenth-century tidal harbor, Swahili merchants and boats. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Anachronistic or distracting prop removed; no visible text, signature, or watermark.",
+      "sha256": "c47e8c796395a418ebcfcfc9de5ce304861eefe113b29337e615632d08096316"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/mozambique.png",
+      "entity": "mozambique place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Mozambique Island harbor, coral-stone Swahili trading houses and anchored dhows at low tide, no Portuguese fort. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Site-specific composition and route context reviewed; no visible text, signature, or watermark.",
+      "sha256": "3a7d9fc85f23841acd03c6695eb6e317404e14c6e0fff22a1ea9a3c68dfcc51c"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/mozambique-shore.png",
+      "entity": "mozambique-shore place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: watering shore beside Mozambique Island anchorage in 1498, shallow boats, palms and a small Portuguese landing party. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the large walled fort and monumental mosque from the distant island. Show a low late fifteenth-century Swahili waterfront of coral-stone houses and palms behind the landing, before later Portuguese fortifications. Keep the small boat and people. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Incorrect route or later architecture removed; no visible text, signature, or watermark.",
+      "sha256": "b980c3ae8601e7c307e268eccc16235beb7662525f0ef835e12bb127f8ee7a1f"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/kilwa.png",
+      "entity": "kilwa place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Kilwa island city, coral-stone Great Mosque and waterfront ruins, dhows in a sheltered channel. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Site-specific composition and route context reviewed; no visible text, signature, or watermark.",
+      "sha256": "507ba7455ae3f7fc2b715d1e19fb635a800ae381e2231ea3ec564a50c28b78bb"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/mombasa.png",
+      "entity": "mombasa place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Mombasa harbor mouth, coral-stone Swahili city and dhows with a Portuguese ship approaching cautiously. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Site-specific composition and route context reviewed; no visible text, signature, or watermark.",
+      "sha256": "199671434ffd3abc61fabda76bce1c9a7f0b9a087ee07ff1939b654afceed85f"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/mombasa-shore.png",
+      "entity": "mombasa-shore place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Mombasa city shore facing an anchorage, late fifteenth-century stone landing steps, local boats and market porters. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Site-specific composition and route context reviewed; no visible text, signature, or watermark.",
+      "sha256": "002e67203a3ca6991c3eeffd071d8f6ff8a8eef45f83517c3c84cdb5dd293013"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/melinde.png",
+      "entity": "melinde place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Melinde roadstead with three Portuguese carracks at anchor and Swahili boats crossing the sunlit water. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Site-specific composition and route context reviewed; no visible text, signature, or watermark.",
+      "sha256": "13c5dcbc542c27fde108c33e867b5463d94b9fc80423c5fd4c4a918d4d9e949d"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/melinde-shore.png",
+      "entity": "melinde-shore place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Melinde landing place and open-air royal gathering beside the roadstead, East African dignitaries and Portuguese visitors in 1498. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Site-specific composition and route context reviewed; no visible text, signature, or watermark.",
+      "sha256": "c6abd2c7b133bc58fbda9f71ce57d0ca7ea3614968dda67c7712eeb7be6f0e15"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/good-signs-river.png",
+      "entity": "good-signs-river place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: East African river mouth in 1498 where Portuguese sailors meet Arabic-speaking local traders and set a stone marker, precise river unidentified. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the walled city and minaret on the right, and remove the ivory tusks in the foreground. This river's identity is uncertain: show only a low wooded East African river mouth, boats, the Portuguese stone marker and a respectful conversation with local traders. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Incorrect route or later architecture removed; no visible text, signature, or watermark.",
+      "sha256": "3ba0317c262ef5021c0f93f4f37d728b63ff396502b7989330e6a9f934f1d25c"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/calicut.png",
+      "entity": "calicut place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Calicut trading waterfront on Kerala's Malabar coast, coconut palms, timber warehouses and fishing boats. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Site-specific composition and route context reviewed; no visible text, signature, or watermark.",
+      "sha256": "6f875f4eccb5a4babd726a5c333f8a300ee5c4d72b939211019fca5adde088a6"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/cannanore.png",
+      "entity": "cannanore place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Cannanore harbor north of Calicut, Malabar fishing craft, palm shore and coastal trading sheds. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the large Portuguese carracks and flags entirely. This is a separately named Malabar port, not a voyage landfall: preserve local fishing boats, timber trade sheds, palm shore and working waterfront. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Incorrect route or later architecture removed; no visible text, signature, or watermark.",
+      "sha256": "29b6304771e081eec1b71ef9c2230066a5384c156ef5601e17c82737f93fc870"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/cochin.png",
+      "entity": "cochin place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Cochin port farther south on the Malabar coast, tidal backwaters, Chinese fishing nets and timber boats. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Remove the Portuguese carracks and church-like European building. This is a separately mentioned late fifteenth-century Malabar port, not a voyage landing: preserve Kerala backwaters, local boats, fishing nets and timber waterfront. No text, signature or watermark.",
+      "review": "Opened corrected image at full size. Incorrect route or later architecture removed; no visible text, signature, or watermark.",
+      "sha256": "e23a6e5713206c57df0d4c4db592c3fda7702efecaae62629f37ac69d2b8d73d"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/roadstead.png",
+      "entity": "roadstead place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Portuguese carracks at anchor in the open Calicut roadstead in 1498, Kerala shoreline visible far beyond, boat crossing. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Site-specific composition and route context reviewed; no visible text, signature, or watermark.",
+      "sha256": "26d0240a68b3d3016ed2b75d315bd5e5a91e4d43a8ec8fa368a4abe36a06f60a"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/landing.png",
+      "entity": "landing place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: sandy Calicut landing beach in 1498 with a small Portuguese boat drawn up among local fishing craft, Kerala palms beyond. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "78b1eed8047759405e49a76aebf43ab85a78c6795e5e473091c59eaaf3716219"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/fishing-harbor.png",
+      "entity": "fishing-harbor place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: working Calicut fishing harbor in the late fifteenth century, local fishermen mending nets beside narrow wooden boats, no Portuguese fleet. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "3875febea5ddc849c0fc039b6e540eaad74c105b8b9ef3a23f0529608a7b4ec5"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/shrine.png",
+      "entity": "shrine place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Kerala Hindu shrine on the inland route through Calicut, stone lamps and carved entrance, Portuguese travelers observing respectfully. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "817341f4c12be73838692dc4ff9c07ad2f487e4ab73c8fb2c905c64c4bd87e5b"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/official-lodging.png",
+      "entity": "official-lodging place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: courtyard of a late fifteenth-century Calicut court official's house, timber pillars, shaded veranda and attendants. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "1ea01eeb5eff197be77cdd9f17d53743a83ef35fd76f2055659bd0c911c268ab"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/royal-court.png",
+      "entity": "royal-court place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: audience hall of the Zamorin of Calicut in 1498, Kerala timber columns, floor mats, South Indian courtiers and Portuguese envoys. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "a965fb600815dc0e1ac92b4a3c0a97139d1f5bc9226638337c2ab4e9b1cd3f46"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/merchant-quarter.png",
+      "entity": "merchant-quarter place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: late fifteenth-century Calicut merchant quarter, spice dealers beneath timber awnings with Indian Ocean traders of several backgrounds. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "a86ded4ce1f176d0cd9b8822699060002d66f73a1823dcd154c6f6bde8260eac"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/warehouse.png",
+      "entity": "warehouse place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: shore warehouse at Calicut in 1498, pepper sacks, weighing scale, timber beams and trading factors. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "f04fd9b3c339bae660577242f1dd5df0b6e34a26a0368b1222817eb4c0cfc0ea"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/moncaide-house.png",
+      "entity": "moncaide-house place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: modest residence of a Muslim merchant in late fifteenth-century Calicut, a shaded meal offered to a Portuguese visitor. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "a5d7a6e992a6def9b2ae8b6c5827d6803206cc733b606d0254455ba26bae5272"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/city-route.png",
+      "entity": "city-route place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: streets and gardens between Calicut landing and royal court in 1498, Portuguese envoys led by local guides through a Kerala neighborhood. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "8656a19962fe9cae72bd5aa282ded3f0932482783c4fd00e2ad046496cd874fa"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/england-court.png",
+      "entity": "england-court place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: fourteenth-century English royal court hall where Portuguese knights receive a challenge, Gothic timber roof and courtly assembly. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "d731befa0b693a5ada06987070643adeafe47af2996f40e22bc6c83b665c45ac"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/channel.png",
+      "entity": "channel place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: fourteenth-century sea crossing between continental Europe and England in Veloso's tale, small medieval sailing vessel beneath a grey Channel sky. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "967a48bf6753747812c4653c7b5cdb701f2f21f416bb4f8975dacb9669d359dd"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/flanders.png",
+      "entity": "flanders place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: fourteenth-century Flanders town where the knight Magriço pauses, brick guildhouses along a canal and damp northern light. Site-specific composition; historically grounded geography and material culture, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct scene, setting, and narrative-frame context reviewed; no visible text, signature, or watermark.",
+      "sha256": "43c9279a49ad44ad39d75a7821e3f035b54ca0547ac4f8c57d4d47045aeb6f8f"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/olympus.png",
+      "entity": "olympus place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: allegorical Olympus above clouds, classical mountain terraces and distant luminous halls, Renaissance epic painting, no mortals. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "42c1a67946e89720112d20db0ba1447a384815f70c35a941e7836c09f4d60b59"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/divine-council.png",
+      "entity": "divine-council place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly illustration of an empty marble council chamber on mythic Olympus: high classical columns, a circle of carved seats, storm-lit clouds beyond. Renaissance epic atmosphere. No people, text, labels, signature, or watermark.",
+      "review": "Opened revised image at full size. Place and visual framing corrected; no visible text, signature, or watermark.",
+      "sha256": "16c45a4e8afc22b9e335bd259bf4758d17bd28577796bf8e7bf47637b49f9ea1"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/high-air.png",
+      "entity": "high-air place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: mythic high air above the sea, cloud terraces and a distant winged divine messenger in a Renaissance allegory. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "dc73f87db873206ce16b87c5f097298fc25f2250d34cb73bcfdef6252c065fc2"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/night-sky.png",
+      "entity": "night-sky place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation and edit, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: deep night sky above sleeping late fifteenth-century Portuguese ships, moonlit clouds and a faint allegorical divine presence. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "correctionPrompt": "Correct this scene to a moonlit open-sea anchorage: remove the shore, castle, sleeping men on land and all visible landforms. Show only late fifteenth-century Portuguese ships under a deep starry sky with a subtle luminous cloud. Keep it dignified and allegorical. No text, labels, signature, or watermark.",
+      "review": "Opened revised image at full size. Place and visual framing corrected; no visible text, signature, or watermark.",
+      "sha256": "83b4c636d3682e4394848ac04f60b4efbbd1f2a300121d219a9ab26fad290866"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/wind-quarter.png",
+      "entity": "wind-quarter place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly landscape of Aeolus's mythic wind quarter: a rocky cavern opens into a swirling sky over the sea, visible ribbons of cloud and gusts, no figures. Renaissance epic atmosphere. No text, labels, signature, or watermark.",
+      "review": "Opened revised image at full size. Place and visual framing corrected; no visible text, signature, or watermark.",
+      "sha256": "f555270dc07df763b226e51dff8f459d4e92b646dc15b87bcf3c4e58d793e3e3"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/sea-surface.png",
+      "entity": "sea-surface place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: mythic sea surface with fully clothed adult sea nymphs guiding small Portuguese ships through a bright swell, Renaissance allegory. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "d8fa6f983fc74b7f16f0aa68763246c8d75adb333ffaf9894760e356d75fb580"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/undersea.png",
+      "entity": "undersea place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: Neptune's vaulted undersea council hall with marine columns, blue-green light and fully clothed classical sea gods, Renaissance allegory. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "e8a765624f19a8c993007c6245abe29a9fdca85c247fa73f461645fe257d0acc"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/island-beach.png",
+      "entity": "island-beach place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly landscape of an allegorical island landing beach: a sheltered cove, flowering trees, a small empty late fifteenth-century Portuguese boat drawn onto pale sand. Renaissance lyric atmosphere. No figures, text, labels, signature, or watermark.",
+      "review": "Opened revised image at full size. Place and visual framing corrected; no visible text, signature, or watermark.",
+      "sha256": "48dc1e2e1a5f6044bf8676c1674aba4fbae4c969d83c7eb59b429c2a4cb7d69c"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/island-grove.png",
+      "entity": "island-grove place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: wooded grove on an allegorical island, winding path under flowering trees and distant fully clothed adult nymphs, Renaissance lyric painting. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "1d2af8a345717ed4192c1389e25c1eecab526430471b9cda27f5045258ec5fff"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/island-path.png",
+      "entity": "island-path place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: low winding path through the allegorical island's southern greenery, Portuguese sailors glimpsed among flowering hedges. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "683d5052788eecacdcea22b743e3cac999198cbb14371ee0358d67cc90c50f2d"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/island-terrace.png",
+      "entity": "island-terrace place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: open island terrace where sailors and fully clothed adult nymphs gather for an epic feast beneath a sunset sky, Renaissance allegory. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "9159726e9fbe3cb7fe973f8c5f4162c5290bfd7eccaa79dc8419573a4f26c8bf"
+    },
+    {
+      "path": "library/os-lusiadas/art/places/island-height.png",
+      "entity": "island-height place illustration",
+      "source": "OpenAI imagegen built-in tool, original generation, 2026-10-10",
+      "prompt": "Square mature painterly place illustration for Camões's Os Lusíadas: high ground overlooking the allegorical island and sea, Thetis showing a celestial globe to Vasco da Gama, both fully clothed adults. Distinct site-specific composition; this setting is explicitly mythic or allegorical, no text, labels, signature, or watermark.",
+      "review": "Opened image at full size. Distinct allegorical setting and composition reviewed; no visible text, signature, or watermark.",
+      "sha256": "c25571463bedd66cbfd02967e5b8f741b4fc5c8babf33ada4c9fbe7be542458a"
+    },
+    {
+      "path": "library/os-lusiadas/maps/ocean.png",
+      "entity": "ocean navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: Atlantic and Indian Ocean route with true coastlines, Lisbon, Cape Verde, the Cape, East African ports and Calicut. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked land shapes, port dots, departure-to-India route, Cape rounding and bottom-edge coordinates; later names were removed from fixed labels for reading-mode gating.",
+      "sha256": "2dd43ca90cb9e1631246b63ea0bb8618266d2d83d6a2b61246345b5d1e9de09b"
+    },
+    {
+      "path": "library/os-lusiadas/maps/iberia.png",
+      "entity": "iberia navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: Portugal and neighboring coast with departure and sites in the remembered monarchy. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked Lisbon/Belém, Coimbra, Ourique, Aljubarrota, Badajoz, Porto and Ceuta dots against the peninsula and strait; only the early Lisbon name is fixed on the image.",
+      "sha256": "d83f03e4d2c3102b683594d4929668feced91c20b5dad075f1ffaf004c3ec006"
+    },
+    {
+      "path": "library/os-lusiadas/maps/east-africa.png",
+      "entity": "east-africa navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: East African coast from Sofala to Melinde, with the poem’s ports at a useful regional scale. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked coastline and Mozambique, Kilwa, Mombasa and Melinde dot order; later port names are provided by gated markers.",
+      "sha256": "7bfd4cfa1c06c33db8555bdfc6568e12ad391b992de4b86dcb160c6b2a0a0e45"
+    },
+    {
+      "path": "library/os-lusiadas/maps/malabar.png",
+      "entity": "malabar navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: West Indian coast approaching Calicut, with Cannanore and Cochin as regional reference pins. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked Arabian Sea approach, Malabar coastline, ship track remaining at sea and port dots; labels are supplied by gated markers.",
+      "sha256": "73c1f80f8fef4c03cd9d08713b103bb124e0565fd09bb6e60bb3e4801bc9abdb"
+    },
+    {
+      "path": "library/os-lusiadas/maps/england.png",
+      "entity": "england navigable map",
+      "source": "Natural Earth 1:10m public-domain land polygons and shaded relief rendered by render-maps.py, with original editorial route and labels.",
+      "prompt": "Topographic chart brief: England and Channel chart for Veloso’s embedded tale. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked island and Channel shapes; English court and crossing markers are illustrative, not a claimed tournament site.",
+      "sha256": "1f24b6313b584481d91768f59c385ef2ba039223f52a06ee828153bc0405d6fc"
+    },
+    {
+      "path": "library/os-lusiadas/maps/calicut-city.png",
+      "entity": "calicut-city navigable map",
+      "source": "Original deterministic Pillow relief and contours in render-maps.py; explicitly interpretive, poem-based terrain.",
+      "prompt": "Topographic chart brief: Interpretive coastal relief of the poem’s Calicut roadstead, landing, shrine, lodging, royal audience and trading quarter. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked ten plotted site pins and paths; caption explicitly says the relative layout is not surveyed.",
+      "sha256": "4f72bf9ffa4bd0052bb1949af2528389bea6cc3de52e6fa6b8c37941f1a5c9fd"
+    },
+    {
+      "path": "library/os-lusiadas/maps/island.png",
+      "entity": "island navigable map",
+      "source": "Original deterministic Pillow relief and contours in render-maps.py; explicitly interpretive, poem-based terrain.",
+      "prompt": "Topographic chart brief: Fictional topographic island coastline with landing beach, grove, path, terrace and height. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked five distinct locations, shore, contours and paths; caption identifies allegorical terrain with no earthly coordinates.",
+      "sha256": "9c568ba8853897299e68194b845cef1c096f53d682d02c018221bff70b4a0ced"
+    },
+    {
+      "path": "library/os-lusiadas/maps/divine.png",
+      "entity": "divine navigable map",
+      "source": "Original deterministic Pillow relief and contours in render-maps.py; explicitly interpretive, poem-based terrain.",
+      "prompt": "Topographic chart brief: Interpretive topographic shore rising to Olympus, with sea and other mythic domains. Legible graticule, coast, relief, route and spoiler-safe pins in a restrained atlas style; no scene illustration or claimed historical surveying.",
+      "review": "Checked seven distinct domain pins and relief; caption identifies symbolic positions with no surveyed coordinates.",
+      "sha256": "ae23c62f0d83291dfa0a2b368b301a0861211706b259599e6a4decd79f70b09e"
+    }
+  ]
+}
