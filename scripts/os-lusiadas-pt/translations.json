@@ -52,43 +52,43 @@
     "pt": "O endereço do poeta"
   },
   "chapters/os-lusiadas-canto-1/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-2/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-3/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-4/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-5/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-6/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-7/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-8/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-9/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "chapters/os-lusiadas-canto-10/notes": {
-    "source": "Original canto heading; 1572 spelling retained.",
+    "source": "English translation by Richard Francis Burton (1880); source stanza order retained.",
     "pt": "Título do canto original; Grafia de 1572 mantida."
   },
   "events/os-lusiadas-event-01-001/description": {
@@ -8552,11 +8552,11 @@
     "pt": "Lendo o poema"
   },
   "lorePages/os-lusiadas-lore-edition/body": {
-    "source": "This edition follows the 1572 Portuguese text transcribed in Project Gutenberg eBook 27236. Historical spelling, long s, abbreviations, punctuation, and line order are retained. The first decorated-initial stanza of each canto is joined into eight verse lines. Gutenberg packaging is excluded. The poem is public domain.",
+    "source": "The reading text is Richard Francis Burton’s complete English verse translation, edited by Isabel Burton and published in London in 1880. Project Gutenberg eBooks 77660 and 77661 transcribe the two volumes. Stanza numbering, numeric note calls, one ornamental divider in Canto I, and one in Canto X are excluded. An unnumbered interpolation after X.40 is omitted so the 1,102 numbered stanzas align with Camões’s 1572 poem. Burton’s historical English spelling and punctuation remain. The original Portuguese is available in the companion entry. See the source audit for exact boundaries and normalization. Both poem and translation are public domain.",
     "pt": "Esta edição segue o texto português de 1572 transcrito no eBook 27236 do Project Gutenberg. A ortografia histórica, os s longos, as abreviaturas, a pontuação e a ordem das linhas são mantidas. A primeira estrofe inicial decorada de cada canto está unida em oito versos. A embalagem Gutenberg está excluída. O poema é do domínio público."
   },
   "lorePages/os-lusiadas-lore-edition/title": {
-    "source": "Text and spelling",
+    "source": "Translation and spelling",
     "pt": "Texto e ortografia"
   },
   "lorePages/os-lusiadas-lore-frames/body": {
@@ -8592,7 +8592,7 @@
     "pt": "A ilha e as cartas divinas"
   },
   "lorePages/os-lusiadas-lore-artwork/body": {
-    "source": "The cover, portraits, object studies, place views, and faction illustrations were generated for this edition with OpenAI imagegen in October 2026. They are interpretive images, not historical portraits or photographs. The five geographic charts use public-domain Natural Earth 1:110m land geometry; their voyage routes and three allegorical plans are editorial.",
+    "source": "The cover, portraits, object studies, place views, and faction illustrations were generated for this edition with OpenAI imagegen in October 2026. They are interpretive images, not historical portraits or photographs. The five geographic charts use public-domain Natural Earth 1:10m land geometry and shaded relief; their voyage routes and three allegorical plans are editorial.",
     "pt": "A capa, os retratos, os estudos de objetos, as vistas de lugares e as ilustrações das fações foram gerados para esta edição com o OpenAI imagegen em outubro de 2026. São imagens interpretativas, não retratos históricos ou fotografias. As cinco cartas geográficas utilizam a geometria terrestre Natural Earth 1:110m de domínio público; as suas rotas de viagem e três planos alegóricos são editoriais."
   },
   "lorePages/os-lusiadas-lore-artwork/title": {

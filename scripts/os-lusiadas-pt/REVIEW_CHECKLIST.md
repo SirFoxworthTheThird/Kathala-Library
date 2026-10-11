@@ -1,6 +1,6 @@
 # Portuguese entry release review — 11 October 2026
 
-This entry inherits the source-first authoring, scene boundaries, cast and snapshot ledger, chronology, factions, knowledge, map geometry, gateways, and 158 non-map artworks from the complete `os-lusiadas` entry. See its `REVIEW_CHECKLIST.md` for the detailed EX-001–EX-507 evidence. The Portuguese validator proves structural equality after restoring only documented locale fields and IDs.
+This entry inherits the source-first authoring, scene boundaries, cast and snapshot ledger, chronology, factions, knowledge, map geometry, gateways, and 158 non-map artworks from the complete `os-lusiadas` entry. See its `REVIEW_CHECKLIST.md` for the earlier EX-001–EX-507 structural evidence. The Portuguese validator checks the original 1572 verse separately and proves structural equality after restoring documented locale fields, IDs, and the English entry's verse passages.
 
 - [x] Source and structure (EX-001–EX-012): exact 1572 Portuguese verse passages retained; 10 cantos, 1,102 stanzas, 8,816 lines, 55,283 words, 367 reviewed scenes. Source and cut audits inherited and revalidated.
 - [x] Characters and continuity (EX-101–EX-108): 78 records and 563 present-character snapshots, with the same gates and separate narrative clocks; deep structural equality checked.

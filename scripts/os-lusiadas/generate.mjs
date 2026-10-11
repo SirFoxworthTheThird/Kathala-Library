@@ -6,7 +6,7 @@ import { cuts } from './scene-cuts.mjs'
 import { mapDefs, places } from './map-model.mjs'
 import { actorNames, sceneState } from './scene-state.mjs'
 import { snapshotNotes } from './snapshot-ledger.mjs'
-import { wordCount } from './source-text.mjs'
+import { cantos as englishCantos, wordCount as englishWordCount } from '../os-lusiadas-en/source-text.mjs'
 
 const here=path.dirname(fileURLToPath(import.meta.url))
 const repo=path.resolve(here,'../..')
@@ -367,14 +367,32 @@ data.loreCategories=[{...stamp,id:'os-lusiadas-lore-reading',name:'Reading the p
 const lore=(slug,title,body,at)=>({...stamp,id:`os-lusiadas-lore-${slug}`,categoryId:'os-lusiadas-lore-reading',title,body,
   tags:[],coverImageId:null,linkedEntityIds:[],visibleFromEventId:at?eventId(...at):null})
 data.lorePages=[
-  lore('edition','Text and spelling','This edition follows the 1572 Portuguese text transcribed in Project Gutenberg eBook 27236. Historical spelling, long s, abbreviations, punctuation, and line order are retained. The first decorated-initial stanza of each canto is joined into eight verse lines. Gutenberg packaging is excluded. The poem is public domain.',[1,1]),
+  lore('edition','Translation and spelling','The reading text is Richard Francis Burton’s complete English verse translation, edited by Isabel Burton and published in London in 1880. Project Gutenberg eBooks 77660 and 77661 transcribe the two volumes. Stanza numbering, numeric note calls, one ornamental divider in Canto I, and one in Canto X are excluded. An unnumbered interpolation after X.40 is omitted so the 1,102 numbered stanzas align with Camões’s 1572 poem. Burton’s historical English spelling and punctuation remain. The original Portuguese is available in the companion entry. See the source audit for exact boundaries and normalization. Both poem and translation are public domain.',[1,1]),
   lore('frames','Voyage, memory, and gods','The cantos follow the order of Camões’s telling. Gama begins already at sea, then recounts earlier Portuguese history and the voyage outward. The gods act in a parallel epic plane; the poet also speaks directly to his king.',[1,19]),
   lore('calendar','Editorial dates','Dates on the calendar are reading aids. Named voyage milestones follow a surviving voyage journal; events between them are interpolated. Older history uses approximate years, the Twelve of England an undated tale position, and divine action its own clock. The poem does not supply a day for every scene.',[3,1]),
   lore('maps','Charts and places','The ocean and coastal charts use geographic coastlines. The gold sea road follows the voyage in broad strokes; exact open-sea positions are editorial.',[1,19]),
   lore('allegory-map','The island and the divine charts','The island and divine diagrams are schematic because the poem gives no survey coordinates for those settings.',[9,21]),
-  lore('artwork','Illustrations and chart sources','The cover, portraits, object studies, place views, and faction illustrations were generated for this edition with OpenAI imagegen in October 2026. They are interpretive images, not historical portraits or photographs. The five geographic charts use public-domain Natural Earth 1:110m land geometry; their voyage routes and three allegorical plans are editorial.',[1,1]),
+  lore('artwork','Illustrations and chart sources','The cover, portraits, object studies, place views, and faction illustrations were generated for this edition with OpenAI imagegen in October 2026. They are interpretive images, not historical portraits or photographs. The five geographic charts use public-domain Natural Earth 1:10m land geometry and shaded relief; their voyage routes and three allegorical plans are editorial.',[1,1]),
 ]
+
+data.world.name = 'The Lusiads — Burton translation'
+let englishScene = 0
+for (let cantoIndex = 0; cantoIndex < englishCantos.length; cantoIndex++) {
+  const canto = englishCantos[cantoIndex]
+  const chapter = data.chapters[cantoIndex]
+  chapter.title = canto.title
+  chapter.notes = 'English translation by Richard Francis Burton (1880); source stanza order retained.'
+  chapter.wordGoal = englishWordCount(canto.stanzas.map(stanza => stanza.text).join('\n\n'))
+  for (let index = 0; index < cuts[cantoIndex].length; index++) {
+    const start = cuts[cantoIndex][index][0]
+    const end = (cuts[cantoIndex][index + 1]?.[0] ?? canto.stanzas.length + 1) - 1
+    const scene = data.sceneTexts[englishScene++]
+    scene.text = canto.stanzas.slice(start - 1, end).map(stanza => stanza.text).join('\n\n')
+    scene.wordCount = englishWordCount(scene.text)
+  }
+}
+if (englishScene !== data.sceneTexts.length) throw Error('English scene alignment drift')
 
 const out=path.join(repo,'library/os-lusiadas.pwk')
 fs.writeFileSync(out,JSON.stringify(data,null,2)+'\n')
-console.log(`Generated ${path.relative(repo,out)}: ${data.chapters.length} cantos, ${data.events.length} scenes, ${data.characters.length} characters, ${data.characterSnapshots.length} snapshots, ${data.locationMarkers.length} locations, ${data.mapLayers.length} maps, ${wordCount(data.sceneTexts.map(s=>s.text).join('\n\n'))} verse words`)
+console.log(`Generated ${path.relative(repo,out)}: ${data.chapters.length} cantos, ${data.events.length} scenes, ${data.characters.length} characters, ${data.characterSnapshots.length} snapshots, ${data.locationMarkers.length} locations, ${data.mapLayers.length} maps, ${englishWordCount(data.sceneTexts.map(s=>s.text).join('\n\n'))} English verse words`)

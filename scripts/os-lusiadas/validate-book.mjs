@@ -2,7 +2,7 @@ import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { cantos, retainedText, stanzaCount, verseLineCount, wordCount } from './source-text.mjs'
+import { cantos, retainedText, stanzaCount, verseLineCount, wordCount } from '../os-lusiadas-en/source-text.mjs'
 import { cuts } from './scene-cuts.mjs'
 import { sceneState } from './scene-state.mjs'
 import { snapshotNotes } from './snapshot-ledger.mjs'
@@ -39,6 +39,7 @@ const reconstructed=[]
 for(let cantoIndex=0;cantoIndex<10;cantoIndex++) {
   const canto=cantos[cantoIndex],entries=cuts[cantoIndex]
   assert.equal(book.chapters[cantoIndex].number,canto.number)
+  assert.equal(book.chapters[cantoIndex].title,canto.title)
   for(let index=0;index<entries.length;index++) {
     const start=entries[index][0],end=(entries[index+1]?.[0]??canto.stanzas.length+1)-1
     const event=book.events[sceneOffset],scene=book.sceneTexts[sceneOffset]
@@ -83,7 +84,7 @@ for(let cantoIndex=0;cantoIndex<10;cantoIndex++) {
 assert.equal(reconstructed.join('\n\n'),retainedText,'Complete retained poem in order with no omission or duplication')
 assert.equal(stanzaCount,1102)
 assert.equal(verseLineCount,8816)
-assert.equal(wordCount(retainedText),55283)
+assert.equal(wordCount(retainedText),65812)
 for(const layer of book.mapLayers) {
   has('mapLayers',layer.parentMapId,layer.id)
   has('blobs',layer.imageId,layer.id)

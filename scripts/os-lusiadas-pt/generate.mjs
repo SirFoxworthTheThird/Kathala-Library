@@ -1,6 +1,8 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { cantos as portugueseCantos, wordCount as portugueseWordCount } from '../os-lusiadas/source-text.mjs'
+import { cuts } from '../os-lusiadas/scene-cuts.mjs'
 
 const here = path.dirname(fileURLToPath(import.meta.url))
 const repo = path.resolve(here, '../..')
@@ -73,5 +75,21 @@ result.world.calendar.months.forEach((month, index) => {
 for (const blob of result.blobs) {
   if (blob.url.startsWith('library/os-lusiadas/maps/')) blob.url = blob.url.replace('library/os-lusiadas/maps/', 'library/os-lusiadas-pt/maps/')
 }
+let portugueseScene = 0
+for (let cantoIndex = 0; cantoIndex < portugueseCantos.length; cantoIndex++) {
+  const canto = portugueseCantos[cantoIndex]
+  const chapter = result.chapters[cantoIndex]
+  chapter.title = canto.sourceHeading.replace('\n', ' ')
+  chapter.notes = 'Título original do canto; grafia de 1572 conservada.'
+  chapter.wordGoal = portugueseWordCount(canto.stanzas.map(stanza => stanza.text).join('\n\n'))
+  for (let index = 0; index < cuts[cantoIndex].length; index++) {
+    const start = cuts[cantoIndex][index][0]
+    const end = (cuts[cantoIndex][index + 1]?.[0] ?? canto.stanzas.length + 1) - 1
+    const scene = result.sceneTexts[portugueseScene++]
+    scene.text = canto.stanzas.slice(start - 1, end).map(stanza => stanza.text).join('\n\n')
+    scene.wordCount = portugueseWordCount(scene.text)
+  }
+}
+if (portugueseScene !== result.sceneTexts.length) throw Error('Portuguese scene alignment drift')
 fs.writeFileSync(outputPath, JSON.stringify(result, null, 2) + '\n')
 console.log(`Generated ${path.relative(repo, outputPath)}: ${result.chapters.length} cantos, ${result.events.length} scenes, ${result.sceneTexts.length} verse passages`)
