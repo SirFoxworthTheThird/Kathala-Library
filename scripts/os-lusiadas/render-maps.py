@@ -11,12 +11,39 @@ import json
 import math
 import io
 import zipfile
+import sys
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
 DATA = HERE / 'map-source' / 'ne_10m_land.geojson'
-OUT = ROOT / 'library' / 'os-lusiadas' / 'maps'
+PT = '--pt' in sys.argv
+OUT = ROOT / 'library' / ('os-lusiadas-pt' if PT else 'os-lusiadas') / 'maps'
 OUT.mkdir(parents=True, exist_ok=True)
+MAP_TEXT_PT = {
+ 'THE OCEAN ROAD TO INDIA':'A ROTA MARÍTIMA PARA A ÍNDIA',
+ 'Atlantic and Indian Ocean · voyage of 1497–1499':'Atlântico e Índico · viagem de 1497–1499',
+ 'PORTUGAL AND THE TAGUS':'PORTUGAL E O TEJO',
+ 'Departure and remembered kingdoms · approximate historical sites':'Partida e reinos evocados · locais históricos aproximados',
+ 'THE EAST AFRICAN COAST':'A COSTA ORIENTAL AFRICANA',
+ 'Ports on the passage toward India':'Portos na passagem para a Índia',
+ 'THE MALABAR APPROACH':'A APROXIMAÇÃO AO MALABAR',
+ 'First Indian landfall and Calicut roadstead':'Primeira chegada à Índia e ancoradouro de Calecute',
+ 'ENGLAND AND FLANDERS':'INGLATERRA E FLANDRES',
+ 'Veloso’s tale during the Indian Ocean crossing':'Relato de Veloso durante a travessia do Índico',
+ 'DIVINE SETTINGS':'CENÁRIOS DIVINOS',
+ 'Mythic domains in the poem · a conceptual chart':'Domínios míticos do poema · carta conceptual',
+ 'CALICUT IN THE POEM':'CALECUTE NO POEMA',
+ 'Narrated places · relative layout, not a surveyed city plan':'Lugares narrados · disposição relativa, sem levantamento urbano',
+ 'THE ISLAND OF LOVE':'A ILHA DOS AMORES',
+ 'Allegorical terrain from the poem · no earthly coordinates':'Terreno alegórico do poema · sem coordenadas terrestres',
+ 'Lisbon':'Lisboa','Lisbon / Belém':'Lisboa / Belém','Mozambique':'Moçambique',
+ 'English court':'Corte inglesa','Olympus':'Olimpo','Fleet roadstead':'Ancoradouro da armada',
+ 'Landing beach':'Praia do desembarque','Fishing harbor':'Porto de pesca',
+ 'Arrival beach':'Praia da chegada','Wooded grove':'Bosque','Southern path':'Caminho do sul',
+ 'Open terrace':'Terraço aberto','Island height':'Elevação da ilha',
+}
+def text_pt(source):
+    return MAP_TEXT_PT.get(source, source) if PT else source
 FEATURES = json.loads(DATA.read_text(encoding='utf-8'))['features']
 Image.MAX_IMAGE_PIXELS = 140_000_000  # audited 16,200 × 8,100 official raster
 with zipfile.ZipFile(HERE / 'map-source' / 'SR_LR.zip') as relief_archive:
@@ -178,19 +205,20 @@ def draw_chart(name,spec):
         x,y=project(lon,lat,extent,size)
         d.ellipse((x-10,y-10,x+10,y+10),fill=GOLD,outline=CREAM,width=4)
         if label not in STATIC_LABELS[name]: continue
-        bbox=d.textbbox((0,0),label,font=label_font)
+        shown=text_pt(label)
+        bbox=d.textbbox((0,0),shown,font=label_font)
         tw=bbox[2]-bbox[0]
         override=LABEL_OFFSETS.get(name,{}).get(label)
         tx=x+override[0] if override else (x+15 if side=='right' else x-15-tw)
         ty=y+override[1] if override else y-32
         d.rounded_rectangle((tx-7,ty-4,tx+tw+7,ty+31),radius=5,fill=CREAM,outline=(141,156,149),width=1)
-        d.text((tx,ty),label,fill=INK,font=label_font)
+        d.text((tx,ty),shown,fill=INK,font=label_font)
     d.rectangle((23,68,w-24,h-68),outline=(151,171,170),width=2)
     d.rectangle((0,0,w,66),fill=NAVY)
-    d.text((68,14),spec['title'],fill=CREAM,font=font(FONT_SERIF,36))
+    d.text((68,14),text_pt(spec['title']),fill=CREAM,font=font(FONT_SERIF,36))
     d.rectangle((0,h-64,w,h),fill=CREAM)
     d.line((0,h-64,w,h-64),fill=(151,171,170),width=2)
-    d.text((68,h-48),spec['subtitle'],fill=INK,font=font(FONT_SANS,24))
+    d.text((68,h-48),text_pt(spec['subtitle']),fill=INK,font=font(FONT_SANS,24))
     out=OUT/(name+'.png');im.save(out,optimize=True)
     print(f'{name}: {w} × {h} -> {out}')
     return {label:{'x':round(project(lon,lat,extent,size)[0]),'y':round(h-project(lon,lat,extent,size)[1])} for label,lon,lat,_ in spec['places']}
@@ -239,16 +267,17 @@ def draw_schematic(name,title,subtitle,coast,roads,places,visible_labels=None):
     for label,x,y,dx,dy in places:
         d.ellipse((x-9,y-9,x+9,y+9),fill=GOLD,outline=CREAM,width=2)
         if visible_labels is not None and label not in visible_labels: continue
-        tw=d.textbbox((0,0),label,font=marker_font)[2]
+        shown=text_pt(label)
+        tw=d.textbbox((0,0),shown,font=marker_font)[2]
         tx=x+dx;ty=y+dy
         d.line((x,y,tx+(0 if dx>0 else tw),ty+15),fill=INK,width=3)
         d.rounded_rectangle((tx-8,ty-4,tx+tw+8,ty+34),radius=5,fill=CREAM,outline=(141,156,149),width=1)
-        d.text((tx,ty),label,fill=INK,font=marker_font)
+        d.text((tx,ty),shown,fill=INK,font=marker_font)
     d.rectangle((0,0,w,66),fill=NAVY)
-    d.text((68,12),title,fill=CREAM,font=font(FONT_SERIF,37))
+    d.text((68,12),text_pt(title),fill=CREAM,font=font(FONT_SERIF,37))
     d.rectangle((0,h-64,w,h),fill=CREAM)
     d.line((0,h-64,w,h-64),fill=(151,171,170),width=2)
-    d.text((68,h-48),subtitle,fill=INK,font=font(FONT_SANS,24))
+    d.text((68,h-48),text_pt(subtitle),fill=INK,font=font(FONT_SANS,24))
     out=OUT/(name+'.png');im.save(out,optimize=True)
     print(f'{name}: {w} × {h} -> {out}')
     return {label:{'x':x,'y':h-y} for label,x,y,_,_ in places}
@@ -292,4 +321,7 @@ if __name__=='__main__':
       [('Arrival beach',420,900,-250,42),('Wooded grove',650,800,-210,-86),
        ('Southern path',800,1010,-190,35),('Open terrace',1040,740,35,-40),
        ('Island height',1190,340,-115,-90)])
-    (HERE/'map-marker-coordinates.json').write_bytes((json.dumps(marker_coords,indent=2)+'\n').encode('utf-8'))
+    if not PT:
+        (HERE/'map-marker-coordinates.json').write_bytes((json.dumps(marker_coords,indent=2)+'\n').encode('utf-8'))
+    elif marker_coords != json.loads((HERE/'map-marker-coordinates.json').read_text(encoding='utf-8')):
+        raise AssertionError('Portuguese map marker coordinates drifted from the source edition')

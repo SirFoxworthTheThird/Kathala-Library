@@ -24,4 +24,4 @@ The source uses physical line wraps around the decorative opening of each canto.
 | X | 156 | 1,248 | 7,941 |
 | **Total** | **1,102** | **8,816** | **55,283** |
 
-The first retained verse is `As armas, & os barões aſsinalados,` after reflow; the last is `Sem aa dita de Achiles ter enueja.` The `manuscript-draft.pwk` preserves the source-import milestone at 367 reviewed stanza-boundary scenes. The generated `library/os-lusiadas.pwk` reconstructs that text and adds scene state and complete local artwork. The supporting views and live application inspection are recorded in `REVIEW_CHECKLIST.md` and `MAP_REVIEW.md`.
+The first retained verse is `As armas, & os barões aſsinalados,` after reflow; the last is `Sem aa dita de Achiles ter enueja.` The `manuscript-draft.pwk` preserves the source-import milestone at 367 reviewed stanza-boundary scenes. The companion `library/os-lusiadas-pt.pwk` reconstructs this Portuguese text; `library/os-lusiadas.pwk` now presents Burton's English translation on the same stanza-aligned scene ledger. The English source and extraction audit is in `scripts/os-lusiadas-en/SOURCE.md`.
