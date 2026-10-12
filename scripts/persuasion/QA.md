@@ -12,10 +12,10 @@ Validated 12 October 2026.
 | Factions / goals / facts / routes | 2 / 4 / 5 / 4 |
 | Threads / motifs / Lore pages | 4 / 4 / 4 |
 | Artwork | 64 distinct hashes: cover, 23 portraits, 28 places, 6 items, 2 factions, and 4 maps |
-| PWK UTF-8 bytes | 1,000,028 |
-| PWK SHA-256 | `5463b62b3e453fd6b31f9b448afbf3a85b6f11a761a4053c4ff457b7cc5ea08b` |
+| PWK UTF-8 bytes | 1,000,023 |
+| PWK SHA-256 | `447e63f8e49b9374db5000da930acc5df8543cfbdbefbac3624314fce2d74546` |
 
-The southwest England, Lyme, and Bath maps use archived OpenTopoMap and OpenStreetMap tiles with visible attribution. Their pins use the same projection and bottom-origin grid. Kellynch and Uppercross are fictional and use an explicitly interpretive topographic plan. Full artwork and map sheets are in `qa/`; exact generation requests are in `art-prompts.json`; `ARTWORK_MANIFEST.json` binds all final files to SHA-256 hashes.
+All four maps use distinct, purpose-made illustrated topographic bases at the same visual standard as the edition art. OpenTopoMap and OpenStreetMap references anchor the real geography; labels, routes, markers, borders, and compass roses are deterministic overlays on the bottom-origin grid. Kellynch and Uppercross remain explicitly interpretive because they are fictional. Full artwork and map sheets are in `qa/`; exact generation requests are in `art-prompts.json` and `map-art-prompts.json`; `ARTWORK_MANIFEST.json` binds all final files to SHA-256 hashes.
 
 The development UI pass used Kathala commit `be946e60e1f451c7b0100d961ca29fcf38ae8d65` and the real Library Download action. It verified opening reading mode, the Chapter IV past-engagement reveal, all 115 scenes, Page/Read/Cards, Dashboard, Manuscript, Structure, ten supporting views, all four map layers, all three gateways, timed cross-layer playback, loaded artwork, the final sentence, and zero console or page errors. Evidence is in `qa/ui-results.json` and screenshots. No application code was modified.
 

@@ -1,5 +1,5 @@
 from pathlib import Path
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 import hashlib, json, math
 
 ROOT=Path(__file__).resolve().parents[2]
@@ -63,12 +63,47 @@ save_map('bath','Bath','Georgian streets used by the winter narrative',[[ (300,2
 exec((Path(__file__).with_name('render-topographic-maps.py')).read_text(encoding='utf-8'))
 OUT=ROOT/'library'/'persuasion'
 
+# The published maps use purpose-made illustrated topographic bases. Precise
+# locations and routes are overlaid deterministically from the reviewed grid.
+geo=json.loads((Path(__file__).with_name('map-coordinates.json')).read_text(encoding='utf-8'))
+# Calibrate real coordinates to recognizable features on the illustrated base.
+# The source WGS84 positions remain documented in render-topographic-maps.py.
+geo['lyme']={'Lyme Cobb':{'x':1250,'y':350},'Lyme inn':{'x':805,'y':565},'Harville lodgings':{'x':1040,'y':505}}
+(Path(__file__).with_name('map-coordinates.json')).write_text(json.dumps(geo,indent=2)+'\n',encoding='utf-8',newline='\n')
+map_points={
+ 'southwest-england':geo['england'],
+ 'lyme':geo['lyme'],
+ 'bath':geo['bath'],
+ 'somerset':{'Kellynch Hall':{'x':420,'y':650},'Uppercross Cottage':{'x':965,'y':455},'Uppercross Great House':{'x':1090,'y':535},'Winthrop':{'x':1270,'y':390}},
+}
+map_titles={'southwest-england':('Southwest England','Somerset, Dorset, Bath and the naval south coast'),'somerset':('Kellynch and Uppercross','Interpretive topography from the novel’s relative routes'),'lyme':('Lyme Regis','The town, Cobb and harbor'),'bath':('Bath','Georgian streets used by the winter narrative')}
+map_routes={
+ 'southwest-england':[['Kellynch district','Lyme Regis','Bath','Portsmouth harbour']],
+ 'somerset':[['Kellynch Hall','Uppercross Cottage','Uppercross Great House','Winthrop']],
+ 'lyme':[['Lyme Cobb','Lyme inn','Harville lodgings']],
+ 'bath':[['Camden Place','Milsom Street','White Hart Inn','Westgate Buildings','Gravel walk']],
+}
+for key,points in map_points.items():
+ base=ImageOps.fit(Image.open(Path(__file__).with_name('map-art-source')/f'{key}.png').convert('RGB'),(1600,1000),method=Image.Resampling.LANCZOS)
+ wash=Image.new('RGBA',base.size,(238,229,199,18));base=Image.alpha_composite(base.convert('RGBA'),wash);d=ImageDraw.Draw(base,'RGBA')
+ d.rounded_rectangle((24,22,1576,976),radius=14,outline=(51,42,30,210),width=5)
+ d.rounded_rectangle((50,45,700,145),radius=12,fill=(239,228,195,220),outline=(70,55,37,180),width=2)
+ title,subtitle=map_titles[key];d.text((75,58),title,font=font(40,True),fill=(42,36,27,255));d.text((76,108),subtitle,font=font(18),fill=(67,57,43,255))
+ for route in map_routes[key]:
+  pts=[(points[n]['x'],1000-points[n]['y']) for n in route if n in points]
+  if len(pts)>1:d.line(pts,fill=(246,229,178,210),width=12,joint='curve');d.line(pts,fill=(135,62,43,245),width=5,joint='curve')
+ for name,p in points.items():
+  x,y=p['x'],1000-p['y'];d.ellipse((x-10,y-10,x+10,y+10),fill=(132,43,34,255),outline=(255,244,210,255),width=3)
+  box=d.textbbox((0,0),name,font=font(18,True),stroke_width=1);tw=box[2]-box[0];tx=min(1560-tw,max(35,x+15));ty=max(158,min(940,y-15));d.rounded_rectangle((tx-5,ty-3,tx+tw+6,ty+25),radius=5,fill=(244,234,204,220));d.text((tx,ty),name,font=font(18,True),fill=(44,37,28,255))
+ d.ellipse((1462,55,1540,133),fill=(240,230,199,205),outline=(60,50,34,220),width=2);d.line((1501,69,1501,120),fill=(60,50,34,255),width=3);d.polygon([(1501,61),(1493,82),(1509,82)],fill=(60,50,34,255));d.text((1493,38),'N',font=font(18,True),fill=(45,38,28,255))
+ base.convert('RGB').save(MAPS/f'{key}.png',optimize=True)
+
 # Additional place cards are unique close cartographic studies, retaining the
 # same bottom-origin geography as their parent layers.
 place_cards={'kellynch-district':('southwest-england',650,410),'lyme-regis':('southwest-england',705,610),'bath':('southwest-england',845,350),'portsmouth-harbour':('southwest-england',1190,670),'uppercross':('somerset',1020,510),'winthrop':('somerset',1270,610),'winthrop-fields':('somerset',1180,570),'road-from-lyme':('southwest-england',685,535),'road-to-bath':('southwest-england',760,410),'rivers-street':('bath',600,240),'bath-streets':('bath',790,510),'bath-assembly-rooms':('bath',690,210)}
 pc=GEN/'places';pc.mkdir(exist_ok=True)
 for name,(key,x,y) in place_cards.items():
- im=Image.open(MAPS/f'{key}.png').convert('RGB'); left=max(0,min(1088,x-256)); top=max(0,min(488,y-256))
+ im=Image.open(MAPS/f'{key}.png').convert('RGB'); left=max(0,min(1088,x-256)); top=max(0,min(488,1000-y-256))
  tile=im.crop((left,top,left+512,top+512)).resize((768,768),Image.Resampling.LANCZOS)
  d=ImageDraw.Draw(tile);d.rectangle((18,680,750,750),fill=(230,219,188),outline=(79,64,42),width=3);d.text((36,696),name.replace('-',' ').title(),font=font(25,True),fill=(55,48,38))
  tile.save(pc/f'{name}.jpg',quality=91,optimize=True)
@@ -76,6 +111,6 @@ for name,(key,x,y) in place_cards.items():
 assets=[]
 for p in sorted(OUT.rglob('*')):
  if p.suffix.lower() in ('.jpg','.png'):
-  im=Image.open(p); assets.append({'path':p.relative_to(ROOT).as_posix(),'width':im.width,'height':im.height,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'source':'OpenAI ImageGen' if 'generated' in p.parts else 'Original editorial cartography rendered with Pillow'})
+  im=Image.open(p); source='OpenAI ImageGen' if 'generated' in p.parts else ('OpenAI ImageGen topographic base with deterministic editorial overlays' if 'maps' in p.parts else 'Original editorial cartography rendered with Pillow');assets.append({'path':p.relative_to(ROOT).as_posix(),'width':im.width,'height':im.height,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'source':source})
 (OUT/'ARTWORK_MANIFEST.json').write_text(json.dumps({'assets':assets},indent=2)+'\n',encoding='utf-8',newline='\n')
 print(f'Rendered {len(assets)} assets')

@@ -340,113 +340,113 @@
       "path": "library/persuasion/art/generated/places/bath-assembly-rooms.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "3a51be47edb4c94813035cb45f094f552d6723d259371d06dea2e650928d8e93",
+      "sha256": "57d979c574318489b18ae1248c2f1a8c576c34950b637d41cde05c9890dc61ef",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/bath-streets.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "88e77103c901a3e24aef0961ef0ce26220c91c5ea8d184ecaf986f8169e0d235",
+      "sha256": "8be4fbdf914dbac6d3b1e309647c0bb6d4f7e5dbf48ed2e5838804b7b5237940",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/bath.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "6e673898fd2385545308e4dea33c8c633c81fb836cfbd6d17c5fcfae494c31c6",
+      "sha256": "893a80312f3c495bc96d31e34cb48828846229e0603b21163e89741c12a1fe3d",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/kellynch-district.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "914966729d3f0f248b7c0ad047de01a6e48db3bad7f23a76f5a3651697a4cf83",
+      "sha256": "b168d1f11c61e9ac4e57bd8de74d25393a62195798ef26baf518278fdf52914c",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/lyme-regis.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "a2a99fcfc59649c2cabb23d9020d41cdeb7543c8c597477d98a8e7d197e06ec1",
+      "sha256": "bca9853b94f393c95dc584b4a612454bde41ea9d92d4c8120fa9cd6508af5404",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/portsmouth-harbour.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "6511b06ea64cc64dadb9d24ca6af699d4195e7463fe1df29d6958d58d882f869",
+      "sha256": "74ef8ae250b0caad4fa097f84609750248c442b3fa74f460faa437e43be29f77",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/rivers-street.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "f4906a0badcd23139482eefe72fa5158419b696e6312bfcab6c4817b4fb3c803",
+      "sha256": "ceb9f56c629a23d150a562a82c0dbef7be4dfe1428733824d4808a7f7528081e",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/road-from-lyme.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "b31d5f821bccb4d1cd1425b0819e3a1af789a1f373c51e371c8c15abd3263cc2",
+      "sha256": "049e48d1774555d3596ac8ee65aa8b12b05f8675c093bd490ce817a06e5d6de1",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/road-to-bath.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "bf2dee6de049c3e3a4e787ac15ecf5aba46c7de09d744d2edd20accaf6414432",
+      "sha256": "eb51a51e12612a511ad40f81651a4f1adac8f6e98bcfe87a999b71e4ccbb7132",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/uppercross.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "fa502c8a7904fd075ec90d87399a5ca53f55b553eb00ea86e5e017cf1eade9ed",
+      "sha256": "b64d6b24d2e4464bb16d169ed9473c1cf03e125b3ae6f8546b00fa3d960327e7",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/winthrop-fields.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "112c2fe5c7f5d8716a455375ffe5924ad9a3894fa540b3f8831397cf9932a06c",
+      "sha256": "3d662b8d4742631a64aa4a02223fe4f4dd1f241c515eb056f7d41c6b39d0fa7a",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/art/generated/places/winthrop.jpg",
       "width": 768,
       "height": 768,
-      "sha256": "cf3484845863cb23dea7abde8f955aaf3cb7530174a26ff06134274a03b31915",
+      "sha256": "9dd8e65995b301266c8ef74a5ccfb73864879936b6b8216ea439511491f567ae",
       "source": "OpenAI ImageGen"
     },
     {
       "path": "library/persuasion/maps/bath.png",
       "width": 1600,
       "height": 1000,
-      "sha256": "42a52525b2c0f44469855a2e84a7fbd2f3e4e6ebf65f58347e7bfa47f048d04f",
-      "source": "Original editorial cartography rendered with Pillow"
+      "sha256": "941ad6e8f53ee527c630dff9a7ba7b2775918e898ce593e8548051c8763fc488",
+      "source": "OpenAI ImageGen topographic base with deterministic editorial overlays"
     },
     {
       "path": "library/persuasion/maps/lyme.png",
       "width": 1600,
       "height": 1000,
-      "sha256": "09fe46ad946a8fbf7f69653b9cb862a047bc131d5f5e30fb964e58550f6f406f",
-      "source": "Original editorial cartography rendered with Pillow"
+      "sha256": "c96925c18b6d7bb2f63ca2606981b5b90318735995fdf2b40518ad825ec18b00",
+      "source": "OpenAI ImageGen topographic base with deterministic editorial overlays"
     },
     {
       "path": "library/persuasion/maps/somerset.png",
       "width": 1600,
       "height": 1000,
-      "sha256": "3cbf4e5e78d63e3137baa67876ed07806be38610ebac3af9edb7c8d6b964589c",
-      "source": "Original editorial cartography rendered with Pillow"
+      "sha256": "360ed1a229e179d95ce2987924315e4edf72fca646c879427960a025d4d2542a",
+      "source": "OpenAI ImageGen topographic base with deterministic editorial overlays"
     },
     {
       "path": "library/persuasion/maps/southwest-england.png",
       "width": 1600,
       "height": 1000,
-      "sha256": "b2e135188e1118389491ac9a793f8237a9155c44548c07286a2fb0cab5efe353",
-      "source": "Original editorial cartography rendered with Pillow"
+      "sha256": "8ad01beccb339ab838b94773ec6de8879906bf39ddcb272f2c440a729c049713",
+      "source": "OpenAI ImageGen topographic base with deterministic editorial overlays"
     }
   ]
 }

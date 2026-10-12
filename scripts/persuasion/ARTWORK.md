@@ -1,6 +1,6 @@
 # Artwork provenance and review
 
-The cover and three 4 × 4 source atlases were generated with the built-in OpenAI ImageGen tool on 2026-10-12. `render-assets.py` reproducibly copies the cover, crops used atlas cells into single-copy final JPEGs, renders the fictional local map, rebuilds three real geographic maps from archived tiles, and hashes every final asset into `library/persuasion/ARTWORK_MANIFEST.json`.
+The cover, three 4 × 4 source atlases, and four illustrated topographic map bases were generated with the built-in OpenAI ImageGen tool on 2026-10-12. `render-assets.py` reproducibly copies and crops the selected art, overlays reviewed map data, and hashes every final asset into `library/persuasion/ARTWORK_MANIFEST.json`.
 
 ## Prompt record
 
@@ -8,7 +8,7 @@ The cover and three 4 × 4 source atlases were generated with the built-in OpenA
 - Character atlas: sixteen specified characters in a strict 4 × 4 grid; distinct natural faces, historically accurate 1814 clothing, soft window light, museum-quality Regency portrait miniatures.
 - Character/place atlas: Harville, Mrs Harville, Benwick, Mrs Smith, Hayter, the two Musgrove children, the Baronetage, Kellynch, Uppercross, Lyme, Camden Place, and the White Hart in a strict 4 × 4 grid.
 - Place/object atlas: Kellynch interiors and garden, Lyme inn, Bath locations, six plot objects, the naval circle, and the Uppercross family in a strict 4 × 4 grid.
-- Maps: the real southwest England, Lyme, and Bath layers use archived OpenTopoMap and OpenStreetMap tiles, with visible attribution and projected WGS84 pins. The fictional Kellynch and Uppercross layer is a deterministic 1600 × 1000 topographic plan. All PWK coordinates are measured from the bottom edge.
+- Maps: four distinct adult topographic illustrations with period survey styling. Archived OpenTopoMap and OpenStreetMap references anchor the real geography; deterministic overlays add accurate story markers, routes, labels, frames, and compass roses. Exact map prompts are in `map-art-prompts.json`.
 
 ## Visual review
 
