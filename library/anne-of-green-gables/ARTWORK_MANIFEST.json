@@ -3,8 +3,10 @@
   "styleDirection": "Mature late nineteenth-century realism rooted in Prince Edward Island; distinct subject-specific compositions.",
   "provenance": "Raster illustrations generated with OpenAI ImageGen in this authoring session and copied once into the Library single-copy layout. Maps are deterministically rendered by scripts/anne-of-green-gables/render-maps.py.",
   "corrections": [
-    "Rejected the first Green Gables floor-grid and Charlottetown generic-grid maps; replaced both with contextual topographic/cartographic compositions.",
-    "Corrected the Prince Edward Island overview so fictional roads do not cross water and real coastline geometry controls marker placement."
+    "Rebuilt all map layers after the independent audit found offshore markers and water-crossing roads. The coastline, pins and island routes now use one latitude-corrected projection; every route segment is sampled against its land mask.",
+    "Moved the farmyard outside the house footprint, added Marilla’s room, and separated upper rooms from the ground-floor plan.",
+    "Added independently generated portraits and location illustrations for the source-grounded scene corrections.",
+    "Replaced the unsupported sealed scholarship envelope with the posted examination-results sheet."
   ],
   "assets": [
     {
@@ -16,8 +18,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of anne shirley for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Portrait illustration of Anne Shirley at age eleven, thin freckled face, vivid red hair in two long braids, large intelligent gray-green eyes, plain brown 1890s orphan dress, straw sailor hat held at her side, determined hopeful expression, apple blossom and red-earth Prince Edward Island lane softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical waist-up portrait, single character, face and period clothing clearly readable\nLighting/mood: natural window or island daylight, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, duplicate composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e52e524ba6a44b80bb8c29b37c8fac3e"
     },
     {
       "id": "characters:charlie-sloane",
@@ -28,8 +31,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of charlie sloane for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Charlie Sloane, Avonlea schoolboy about fifteen, earnest slightly awkward expression, tidy 1890s jacket and books, standing on a red dirt school lane.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, single character, distinct pose and setting\nLighting/mood: natural island daylight, humane realism\nConstraints: historically accurate Prince Edward Island circa 1890; adolescent age accurate; no text, logo, watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_X4wvrn4buhrFVdArMHeLZzEs"
     },
     {
       "id": "characters:diana-barry",
@@ -40,8 +44,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of diana barry for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Portrait illustration of Diana Barry at age eleven, sturdy pretty child with glossy black hair and warm dark eyes, neat fashionable 1890s dress, affectionate lively expression, Orchard Slope garden and pond softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical waist-up portrait, single character, face and period clothing clearly readable\nLighting/mood: natural window or island daylight, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, duplicate composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e52e524ba6a44b80bb8c29b37c8fac3e"
     },
     {
       "id": "characters:gilbert-blythe",
@@ -52,8 +57,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of gilbert blythe for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Gilbert Blythe at about fourteen, handsome Prince Edward Island schoolboy with wavy brown hair and confident intelligent eyes, 1890s jacket and collar, restrained teasing smile, one-room Avonlea school softly behind him.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, single character, face and period setting clearly readable\nLighting/mood: natural soft daylight, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, duplicate composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_0fd9fb550d0242e8a0e5ab515bdd35d5"
     },
     {
       "id": "characters:jane-andrews",
@@ -64,8 +70,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of jane andrews for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Jane Andrews at about fourteen, practical steady Avonlea schoolgirl, brown hair neatly arranged, sensible 1890s dress, books held against her side, rural school lane softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct pose and setting\nLighting/mood: natural island or period interior light, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; adolescent subjects look age fourteen; no text, logo, watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_i75wflxL49fzAcfhPZwyanRW"
     },
     {
       "id": "characters:jerry-buote",
@@ -76,8 +83,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of jerry buote for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Jerry Buote, a French Canadian hired farm boy about fifteen, lean and capable, dark hair, suspenders and rolled-sleeve 1890s work clothes, carrying a hay fork beside the Green Gables barn; respectful historical realism.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, single character, distinct pose and setting\nLighting/mood: natural island daylight, humane realism\nConstraints: historically accurate Prince Edward Island circa 1890; adolescent age accurate; no text, logo, watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_X4wvrn4buhrFVdArMHeLZzEs"
     },
     {
       "id": "characters:josephine-barry",
@@ -88,8 +96,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of josephine barry for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Josephine Barry, wealthy sharp-witted elderly unmarried woman around seventy, silver hair, expressive amused eyes, refined black 1890s dress, seated in a richly furnished Charlottetown parlour at Beechwood.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct pose and setting\nLighting/mood: natural island or period interior light, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; adolescent subjects look age fourteen; no text, logo, watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_i75wflxL49fzAcfhPZwyanRW"
     },
     {
       "id": "characters:josie-pye",
@@ -100,8 +109,22 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of josie pye for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Josie Pye at about fourteen, attractive confident Avonlea schoolgirl with a skeptical competitive expression, carefully fashionable 1890s dress, schoolyard softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct pose and setting\nLighting/mood: natural island or period interior light, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; adolescent subjects look age fourteen; no text, logo, watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_i75wflxL49fzAcfhPZwyanRW"
+    },
+    {
+      "id": "characters:lucilla-harris",
+      "category": "characters",
+      "subject": "lucilla harris",
+      "path": "library/anne-of-green-gables/art/generated/characters/lucilla-harris.png",
+      "sha256": "51b67cd9b791f591d224896d0103370b76bff75de14e7893ab65816b75b3e2c7",
+      "width": 1024,
+      "height": 1536,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: Lucilla Harris, a brisk young woman clerk at a rural general store in Carmody, 1890 Prince Edward Island, pinned brown hair, modest pale blouse and dark skirt, tasteful simple bangles, standing beside a sugar barrel and shop counter, alert composed expression. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Vertical portrait, one distinct individual.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "characters:marilla-cuthbert",
@@ -112,8 +135,22 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of marilla cuthbert for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Portrait illustration of Marilla Cuthbert, tall angular unmarried farm woman around fifty, dark hair streaked gray in a severe knot, practical dark late-Victorian dress, restrained watchful expression with quiet warmth, immaculate Green Gables kitchen softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical waist-up portrait, single character, face and period clothing clearly readable\nLighting/mood: natural window or island daylight, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, duplicate composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e52e524ba6a44b80bb8c29b37c8fac3e"
+    },
+    {
+      "id": "characters:martin",
+      "category": "characters",
+      "subject": "martin",
+      "path": "library/anne-of-green-gables/art/generated/characters/martin.png",
+      "sha256": "d14563c95e5a88149d2c6c0985e8fcd46f051565cc720efa4526ba2ecff0a1ae",
+      "width": 1024,
+      "height": 1536,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: Martin, the adult hired man at Green Gables late in the novel, capable young adult farm laborer in rolled-sleeve linen shirt, dark suspenders and trousers, weathered earnest face, near a red-earth barnyard and sorrel mare, 1890s Canadian farm setting. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Vertical portrait, one distinct individual.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "characters:matthew-cuthbert",
@@ -124,8 +161,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of matthew cuthbert for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Portrait illustration of Matthew Cuthbert, shy weathered Prince Edward Island farmer around sixty, stooped shoulders, grizzled hair and beard, well-worn 1890s work clothes, gentle uncertain eyes, barn and sorrel mare softly behind him.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical waist-up portrait, single character, face and period clothing clearly readable\nLighting/mood: natural window or island daylight, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, duplicate composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e52e524ba6a44b80bb8c29b37c8fac3e"
     },
     {
       "id": "characters:minnie-may-barry",
@@ -136,8 +174,22 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of minnie may barry for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Minnie May Barry, a small dark-haired preschool girl recovering from illness, tucked under a patchwork quilt in an 1890s farmhouse bedroom, awake and calm, caring domestic atmosphere.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, single character, face and period setting clearly readable\nLighting/mood: natural soft daylight, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, duplicate composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_0fd9fb550d0242e8a0e5ab515bdd35d5"
+    },
+    {
+      "id": "characters:miss-rogerson",
+      "category": "characters",
+      "subject": "miss rogerson",
+      "path": "library/anne-of-green-gables/art/generated/characters/miss-rogerson.png",
+      "sha256": "146792b720738b399676e2458ec854fe2fb53b167239fc34f8a4d638eec52635",
+      "width": 1024,
+      "height": 1536,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Portrait illustration for Anne of Green Gables: Miss Rogerson, a middle-aged rural Prince Edward Island Sunday-school teacher around 1890, plain high-neck charcoal dress, pinned dark hair with a little grey, earnest formal expression, seated beside a wooden classroom desk with a worn catechism. Mature restrained oil-and-gouache realism, period clothing, subdued natural light, distinct character portrait, vertical composition, no letters, text, logos, caricature or modern objects.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_96400a9e34934afc947fd8f561b87b0d"
     },
     {
       "id": "characters:miss-stacy",
@@ -148,8 +200,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of miss stacy for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Miss Stacy, an energetic progressive young schoolteacher in her late twenties, intelligent kind face, modest tailored 1890s blouse and dark skirt, standing beside a blackboard and books in a Prince Edward Island one-room school.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical waist-up portrait, one clearly defined character, varied pose and setting\nLighting/mood: natural period interior light, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_2d6f6aee2af04d6c94df32c1e1f595e5"
     },
     {
       "id": "characters:moody-spurgeon-macpherson",
@@ -160,8 +213,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of moody spurgeon macpherson for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Moody Spurgeon MacPherson, serious studious Avonlea schoolboy about fifteen, narrow thoughtful face, modest 1890s suit, holding Latin books near the schoolhouse stove.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, single character, distinct pose and setting\nLighting/mood: natural island daylight, humane realism\nConstraints: historically accurate Prince Edward Island circa 1890; adolescent age accurate; no text, logo, watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_X4wvrn4buhrFVdArMHeLZzEs"
     },
     {
       "id": "characters:mr-allan",
@@ -172,8 +226,22 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of mr allan for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Mr. Allan, a young Presbyterian minister with thoughtful gentle bearing, dark clerical suit of the 1890s, standing in a simple island church with wooden pews.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical waist-up portrait, one clearly defined character, varied pose and setting\nLighting/mood: natural period interior light, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_2d6f6aee2af04d6c94df32c1e1f595e5"
+    },
+    {
+      "id": "characters:mr-barry",
+      "category": "characters",
+      "subject": "mr barry",
+      "path": "library/anne-of-green-gables/art/generated/characters/mr-barry.png",
+      "sha256": "d1ea3114a9df36bd480048bb54f3727bed961f986e4a1a78ccc597d0936bbf57",
+      "width": 1024,
+      "height": 1536,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: Mr. Barry, a sturdy middle-aged Prince Edward Island farmer and Diana's father, broad weathered face, trimmed brown beard, 1890 wool waistcoat, holding buggy reins beside his farm gate, practical kind demeanor. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Vertical portrait, one distinct individual.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "characters:mr-phillips",
@@ -184,8 +252,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of mr phillips for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Mr. Phillips, a young rural schoolmaster with neatly combed dark hair and a slightly self-important manner, late-Victorian suit and high collar, seated at a wooden teacher’s desk in the Avonlea school.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical waist-up portrait, one clearly defined character, varied pose and setting\nLighting/mood: natural period interior light, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_2d6f6aee2af04d6c94df32c1e1f595e5"
     },
     {
       "id": "characters:mrs-allan",
@@ -196,8 +265,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of mrs allan for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Mrs. Allan, a warm young Presbyterian minister’s wife in her late twenties, open sympathetic expression, tasteful modest 1890s dress, flowers and a tea table in the Avonlea manse.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical waist-up portrait, one clearly defined character, varied pose and setting\nLighting/mood: natural period interior light, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_2d6f6aee2af04d6c94df32c1e1f595e5"
     },
     {
       "id": "characters:mrs-barry",
@@ -208,8 +278,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of mrs barry for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Mrs. Barry, respectable protective Prince Edward Island mother in her thirties, composed serious face, well-kept dark late-Victorian day dress, Orchard Slope parlour softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, single character, face and period setting clearly readable\nLighting/mood: natural soft daylight, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, duplicate composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_0fd9fb550d0242e8a0e5ab515bdd35d5"
     },
     {
       "id": "characters:mrs-blewett",
@@ -220,8 +291,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of mrs blewett for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Mrs. Blewett of White Sands, thin careworn mother with a severe appraising expression, plain worn 1890s house dress, infant cradle and crowded farmhouse kitchen softly behind her; dignified, not caricatured.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct period setting and pose\nLighting/mood: natural island daylight or warm interior light, humane realism\nConstraints: historically accurate Prince Edward Island circa 1890; no text, logo, watermark; avoid caricature\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_25466e681382444aa6ce01951ff4b62e"
     },
     {
       "id": "characters:mrs-hammond",
@@ -232,8 +304,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of mrs hammond for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Mrs. Hammond as Anne remembers her, an exhausted rural mother in an 1880s Nova Scotia sawmill household, plain worn dress, practical serious expression, simple cradle and timber cabin interior softly behind her; dignified, no caricature.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct domestic setting\nLighting/mood: subdued natural interior light, humane historical realism\nConstraints: historically accurate Maritime Canada circa 1880; no text, logo, watermark; avoid caricature and sentimentality\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_5d90444681cc44c3a1c37ee2003fbf9c"
     },
     {
       "id": "characters:mrs-spencer",
@@ -244,8 +317,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of mrs spencer for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Mrs. Spencer, brisk kindly middle-aged island woman who escorts orphans from Nova Scotia, travel bonnet and practical 1890s dress, carpet valise and railway platform softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct period setting and pose\nLighting/mood: natural island daylight or warm interior light, humane realism\nConstraints: historically accurate Prince Edward Island circa 1890; no text, logo, watermark; avoid caricature\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_25466e681382444aa6ce01951ff4b62e"
     },
     {
       "id": "characters:mrs-thomas",
@@ -256,8 +330,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of mrs thomas for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Mrs. Thomas as Anne remembers her, a poor careworn working-class woman in an earlier 1880s Nova Scotia household, tired but human face, plain patched dress, crowded kitchen with small children softly behind her; dignified, no caricature.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct domestic setting\nLighting/mood: subdued natural interior light, humane historical realism\nConstraints: historically accurate Maritime Canada circa 1880; no text, logo, watermark; avoid caricature and sentimentality\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_5d90444681cc44c3a1c37ee2003fbf9c"
     },
     {
       "id": "characters:prissy-andrews",
@@ -268,8 +343,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of prissy andrews for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Prissy Andrews, an older Avonlea pupil around sixteen, shy and earnest, dark hair neatly pinned, modest 1890s school dress, standing near the one-room school doorway with books.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct period setting and pose\nLighting/mood: natural island daylight or warm interior light, humane realism\nConstraints: historically accurate Prince Edward Island circa 1890; no text, logo, watermark; avoid caricature\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_25466e681382444aa6ce01951ff4b62e"
     },
     {
       "id": "characters:rachel-lynde",
@@ -280,8 +356,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of rachel lynde for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Rachel Lynde, robust capable middle-aged Prince Edward Island farm woman, alert shrewd face, tidy dark 1890s dress and practical bonnet, knitting in hand, roadside parlour and window softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, single character, face and period setting clearly readable\nLighting/mood: natural soft daylight, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; no text, no logo, no watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, duplicate composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_0fd9fb550d0242e8a0e5ab515bdd35d5"
     },
     {
       "id": "characters:ruby-gillis",
@@ -292,8 +369,35 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of ruby gillis for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Ruby Gillis at about fourteen, pretty romantic Avonlea schoolgirl with fair hair and an animated dreamy expression, decorative but age-appropriate 1890s dress, wildflowers and orchard softly behind her.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct pose and setting\nLighting/mood: natural island or period interior light, psychologically attentive\nConstraints: historically accurate Prince Edward Island circa 1890; adolescent subjects look age fourteen; no text, logo, watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_i75wflxL49fzAcfhPZwyanRW"
+    },
+    {
+      "id": "characters:the-doctor-at-green-gables",
+      "category": "characters",
+      "subject": "the doctor at green gables",
+      "path": "library/anne-of-green-gables/art/generated/characters/the-doctor-at-green-gables.png",
+      "sha256": "13792bab013f7926dc4405669701ab3ecd11e506683b8fdae39610c5e4b077ec",
+      "width": 1024,
+      "height": 1536,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Distinct portrait for Anne of Green Gables: the unnamed local doctor who attends Matthew's sudden collapse at Green Gables, a sober clean-shaven man around fifty with thinning dark hair, black wool 1890s frock coat, wire-rim spectacles and a small leather medical case, standing in a plain Prince Edward Island farmhouse doorway, serious compassionate expression. Mature oil and gouache book realism, natural window light, restrained charcoal and earth palette. Vertical portrait of one individual, no text, watermark, logos, modern objects, cartoon or photography. Visually different from a moustached country doctor at frosty dawn.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
+    },
+    {
+      "id": "characters:the-doctor",
+      "category": "characters",
+      "subject": "the doctor",
+      "path": "library/anne-of-green-gables/art/generated/characters/the-doctor.png",
+      "sha256": "348be46ba8ed65df9e3dee9716bc4876b217d90f4169f35e63e10f66b80171e7",
+      "width": 1024,
+      "height": 1536,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: A rural Prince Edward Island doctor around 1890, middle-aged man with a grey moustache, sober wool suit and pocket watch, holding a small worn leather medical bag outside a farmhouse at frosty dawn, thoughtful tired humane expression. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Vertical portrait, one distinct individual.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "characters:the-stationmaster",
@@ -304,8 +408,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of the stationmaster for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: The Bright River stationmaster, brisk middle-aged railway official with mustache, dark 1890s uniform and cap, keys in hand beside a small rural wooden station platform.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, one character, distinct period setting and pose\nLighting/mood: natural island daylight or warm interior light, humane realism\nConstraints: historically accurate Prince Edward Island circa 1890; no text, logo, watermark; avoid caricature\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_25466e681382444aa6ce01951ff4b62e"
     },
     {
       "id": "characters:tillie-boulter",
@@ -316,8 +421,22 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of tillie boulter for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: distinct character portrait for a literary reading edition\nPrimary request: Tillie Boulter, lively Avonlea schoolgirl about fourteen, dark braided hair, plain 1890s dress, notebook in hand in a small woodland playhouse used by the Story Club.\nStyle/medium: mature painterly late nineteenth-century book illustration, realistic gouache and oil texture\nComposition/framing: vertical portrait, single character, distinct pose and setting\nLighting/mood: natural island daylight, humane realism\nConstraints: historically accurate Prince Edward Island circa 1890; adolescent age accurate; no text, logo, watermark\nAvoid: photography, cartoon, anime, glamour styling, modern objects, repeated composition",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_X4wvrn4buhrFVdArMHeLZzEs"
+    },
+    {
+      "id": "characters:young-mary-joe",
+      "category": "characters",
+      "subject": "young mary joe",
+      "path": "library/anne-of-green-gables/art/generated/characters/young-mary-joe.png",
+      "sha256": "cf1cf26c07ab345c34e597c2508468c3d7489a5a63ccc686b96f64e418bd27e3",
+      "width": 1024,
+      "height": 1536,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: Young Mary Joe, a young teenage domestic helper in the Barry household around 1890, plain dress and apron, anxious but attentive expression, standing beside a kitchen washbasin and folded cloths, natural red-soil Island domestic setting. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Vertical portrait, one distinct individual.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "world:cover",
@@ -328,8 +447,9 @@
       "width": 1024,
       "height": 1536,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of cover for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Use case: historical-scene\nAsset type: world cover illustration for a literary reading edition\nPrimary request: Anne of Green Gables, Prince Edward Island around 1890, an eleven-year-old thin red-haired orphan in a plain brown dress and straw sailor hat stands at the edge of a red dirt lane looking toward a white farmhouse with green gables, apple orchard in blossom, Gulf island fields and distant sea\nStyle/medium: mature painterly book illustration, late nineteenth-century realism, textured gouache and oil, dignified and emotionally warm\nComposition/framing: portrait-oriented central landscape composition, Anne seen three-quarter from behind, house and road clearly readable, generous sky, no decorative border\nLighting/mood: luminous early June evening, hope mixed with uncertainty\nColor palette: red earth, spruce green, weathered white, blossom pink, soft blue\nConstraints: historically accurate clothing and farm details; Anne is eleven, slender, freckled, red hair in two braids; no text, no logo, no watermark\nAvoid: modern objects, photography, cartoon style, anime, childish proportions, typography",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_971b2f49cb244deabc3d75092f7e1609"
     },
     {
       "id": "factions:household",
@@ -340,8 +460,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of household for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, no logo, no watermark, landscape composition. Symbolic still life for the Green Gables household: three well-worn chairs gathered around a warm farmhouse hearth, knitting basket, farmer’s hat and a red braid ribbon, no people.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_d9b80378ba4f447b8a032828dc104643"
     },
     {
       "id": "factions:queens",
@@ -352,8 +473,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of queens for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, no logo, no watermark, landscape composition. Symbolic still life for the Queen’s class: shared study table with slates, geometry instruments, inkstands and stacked schoolbooks beneath a bright academy window, no people and no writing.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_d9b80378ba4f447b8a032828dc104643"
     },
     {
       "id": "factions:story",
@@ -364,8 +486,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of story for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, no logo, no watermark, landscape composition. Symbolic still life for the Story Club: handwritten pages turned face down, quills, wildflowers, candle and four simple chairs in a woodland playhouse, no people and no readable writing.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_d9b80378ba4f447b8a032828dc104643"
     },
     {
       "id": "items:brooch",
@@ -376,8 +499,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of brooch for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. An oval amethyst brooch pinned to a folded severe black wool shawl on a plain pine dressing table, subtle violet glint.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_742245261cbc4678b92130aff19c8333"
     },
     {
       "id": "items:carpetbag",
@@ -388,8 +512,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of carpetbag for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. A worn old-fashioned carpetbag with faded floral tapestry, brass clasp and leather handle resting on a wooden railway station bench, quiet morning light.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_742245261cbc4678b92130aff19c8333"
     },
     {
       "id": "items:cordial",
@@ -400,8 +525,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of cordial for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. A dark glass bottle of homemade currant wine beside a delicate cordial glass on a farmhouse pantry shelf, red currant sprig nearby, absolutely no label or writing.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_742245261cbc4678b92130aff19c8333"
     },
     {
       "id": "items:dress",
@@ -412,8 +538,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of dress for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. A finely made brown Christmas dress with dramatically puffed sleeves laid across a white counterpane, modest Victorian tailoring, winter sunlight.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_10fe3bfb73104f029c9c68e998bef9d0"
     },
     {
       "id": "items:dye",
@@ -424,8 +551,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of dye for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. A late nineteenth-century hair dye bottle beside a folded cloth stained an unmistakable green, washstand and basin, absolutely no readable label or writing.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_10fe3bfb73104f029c9c68e998bef9d0"
     },
     {
       "id": "items:flat",
@@ -436,8 +564,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of flat for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. A low leaking wooden flat or raft pulled against a pond bank, white lily and small pillow aboard, reeds and still reflective water, romantic yet materially believable.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_10fe3bfb73104f029c9c68e998bef9d0"
     },
     {
       "id": "items:liniment",
@@ -448,8 +577,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of liniment for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. A small brown apothecary bottle of anodyne liniment beside an uncorked vanilla bottle and a farmhouse cake mixing bowl, pantry worktable, absolutely no labels or writing.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_10fe3bfb73104f029c9c68e998bef9d0"
     },
     {
       "id": "items:medal",
@@ -460,20 +590,22 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of medal for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. A Queen’s Academy gold academic medal resting open in a dark velvet presentation case beside a quill, no inscription or readable marks.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_a6513eac32dc4b629fb0ea38a68a4eda"
     },
     {
       "id": "items:scholarship",
       "category": "items",
       "subject": "scholarship",
       "path": "library/anne-of-green-gables/art/generated/items/scholarship.png",
-      "sha256": "966c803e879dcf02829a769f1e6880a2d90c9aebb762be2a194370dcded6f4bf",
+      "sha256": "434880216613f6040dbb931bc24edf5a05e4df9f95effe802de30c2c4510c573",
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of scholarship for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Original item illustration for Anne of Green Gables: the posted Queen's Academy examination-results and scholarship notice, an unsealed cream sheet pinned flat with brass tacks to a dark wooden institutional bulletin board around 1890, simple ruled rows suggesting an examination list but absolutely no readable words, adjacent edge of another ordinary paper notice, soft hallway window light. The pinned results sheet is unmistakably central. Mature restrained oil and gouache book realism, historically plausible Victorian school materials, landscape composition, no sealed envelope, wax seal, modern objects, logos or watermark.",
+      "inspection": "Accepted replacement after full-size inspection: posted results sheet with brass tacks; no unsupported sealed award envelope or readable invented text.",
+      "requestEvidence": "Exact replacement request recorded on 12 October 2026; inspected pinned notice, replacing unsupported sealed envelope."
     },
     {
       "id": "items:slate",
@@ -484,8 +616,22 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of slate for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. A small school slate cracked cleanly in two beside a slate pencil on a scarred rural school desk, chalk dust and window light.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_742245261cbc4678b92130aff19c8333"
+    },
+    {
+      "id": "locations:anne-s-charlottetown-lodging",
+      "category": "locations",
+      "subject": "anne s charlottetown lodging",
+      "path": "library/anne-of-green-gables/art/generated/locations/anne-s-charlottetown-lodging.png",
+      "sha256": "4c06910821abe56161989980fe8acf246b570f7055661c347adc45cd1ccec5e1",
+      "width": 1536,
+      "height": 1024,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: Anne's small rented hall bedroom in Charlottetown around 1890, narrow iron bed, worn writing table with books, small washbasin, plain clean wallpaper and a west-facing twilight window, modest and lonely yet humane period interior. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Landscape composition, place is the central subject.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "locations:avonlea-church",
@@ -496,8 +642,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of avonlea church for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Small rural Avonlea Presbyterian church, white timber walls, modest steeple, horse sheds and graveyard beside fields, Sunday light.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e446751ec0e74086b19a4f7a7e816d90"
     },
     {
       "id": "locations:avonlea-district",
@@ -508,8 +655,22 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of avonlea district for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Avonlea district imagined as a north shore farming community: red dirt road, rolling fields, scattered white farmhouses, spruce woods and distant blue gulf.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_f9f822baa62c4b77ac5e678db3a01f94"
+    },
+    {
+      "id": "locations:avonlea-graveyard",
+      "category": "locations",
+      "subject": "avonlea graveyard",
+      "path": "library/anne-of-green-gables/art/generated/locations/avonlea-graveyard.png",
+      "sha256": "35a261379506670909b90d1b0bbfdd624aaaa8a9a3eb39224e1cff496fd1bfaa",
+      "width": 1536,
+      "height": 1024,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: Small rural Avonlea graveyard on Prince Edward Island around 1890, low irregular headstones with no readable inscriptions, poplar trees, whispering grass, small blooming Scotch rosebush beside one grave, peaceful summer dusk, no people. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Landscape composition, place is the central subject.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "locations:avonlea-manse",
@@ -520,8 +681,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of avonlea manse for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Avonlea manse, welcoming white wooden minister’s house with garden path, roses, tea table visible through an open veranda, summer.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e446751ec0e74086b19a4f7a7e816d90"
     },
     {
       "id": "locations:avonlea-school",
@@ -532,8 +694,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of avonlea school for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Avonlea one-room schoolhouse, weathered white clapboard, red dirt yard, woodpile, tall windows and simple desks visible within, autumn morning.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e446751ec0e74086b19a4f7a7e816d90"
     },
     {
       "id": "locations:barry-pond-bridge",
@@ -544,8 +707,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of barry pond bridge for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Barry pond bridge, simple wooden road bridge spanning a quiet pond with reeds, reflected clouds and a low flat caught near the pilings.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_c361325edd8142caa11738b2c0f190af"
     },
     {
       "id": "locations:beechwood",
@@ -556,8 +720,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of beechwood for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, no logo, no watermark, landscape composition. Beechwood, an elegant but lived-in Charlottetown home circa 1890, brick and timber with shaded veranda, beech trees, carriage drive and warm lamplit windows, no people.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_d9b80378ba4f447b8a032828dc104643"
     },
     {
       "id": "locations:bright-river",
@@ -568,8 +733,22 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of bright river for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Bright River rural railway station at twilight, modest wooden depot, platform, tracks curving through fields, an empty bench and old lantern.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_f9f822baa62c4b77ac5e678db3a01f94"
+    },
+    {
+      "id": "locations:carmody",
+      "category": "locations",
+      "subject": "carmody",
+      "path": "library/anne-of-green-gables/art/generated/locations/carmody.png",
+      "sha256": "f9b68fa71c36c579fa0b3ef12a8e83feab358587b3305f81ec16857c274f2b08",
+      "width": 1536,
+      "height": 1024,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: Carmody village general store around 1890 on Prince Edward Island, red-earth roadside, modest timber shopfront with unreadable blank sign, inside view through open door of wooden counter, rake and sugar barrel, evening lamplight, no people central. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Landscape composition, place is the central subject.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "locations:charlottetown-exhibition",
@@ -580,8 +759,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of charlottetown exhibition for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Charlottetown agricultural Exhibition fairgrounds circa 1890, timber exhibit halls, livestock pens, colorful bunting, wagons and distant crowd suggested without distinct figures.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e9e8b63f02e8474ab9f0ce71db7d33ca"
     },
     {
       "id": "locations:charlottetown",
@@ -592,8 +772,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of charlottetown for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. Charlottetown circa 1890 viewed from a gentle rise, wooden and brick streets, church spires, horse traffic and harbour beyond, no close figures.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_a6513eac32dc4b629fb0ea38a68a4eda"
     },
     {
       "id": "locations:diana-s-playhouse",
@@ -604,8 +785,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of diana s playhouse for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Diana’s playhouse near Orchard Slope, small rustic child’s retreat under apple trees with a rough bench, shelves of shells and flowers, no dolls or figures.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_c361325edd8142caa11738b2c0f190af"
     },
     {
       "id": "locations:east-gable",
@@ -616,8 +798,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of east gable for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. East gable bedroom, small spare upstairs room under a sloping roof, narrow bed, washstand, patchwork quilt and window opening toward orchard blossom.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_b344053434924046a217bafa8d6f0491"
     },
     {
       "id": "locations:green-gables-kitchen",
@@ -628,8 +811,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of green gables kitchen for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Green Gables kitchen, immaculate warm farmhouse room with black iron stove, pine table, pantry jars, braided rug and afternoon light through geranium windows.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_b344053434924046a217bafa8d6f0491"
     },
     {
       "id": "locations:green-gables-orchard",
@@ -640,8 +824,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of green gables orchard for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Green Gables orchard in full spring bloom, old apple trees beside the white gabled farmhouse, petals over red earth and moonlit grass.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_b344053434924046a217bafa8d6f0491"
     },
     {
       "id": "locations:green-gables-parlour",
@@ -652,8 +837,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of green gables parlour for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Green Gables parlour, restrained Victorian farmhouse room with horsehair sofa, family Bible, oil lamp, patterned wallpaper and formal stillness.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_b344053434924046a217bafa8d6f0491"
     },
     {
       "id": "locations:green-gables-yard",
@@ -664,8 +850,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of green gables yard for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Green Gables farmyard, red earth swept clean between white farmhouse and weathered barn, pump, woodpile, henhouse and lane under autumn maples.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e9e8b63f02e8474ab9f0ce71db7d33ca"
     },
     {
       "id": "locations:green-gables",
@@ -676,8 +863,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of green gables for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Green Gables farmstead, white clapboard house with green trim beneath trees, red earth lane, barn, orchard and quiet fields, summer afternoon.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_f9f822baa62c4b77ac5e678db3a01f94"
     },
     {
       "id": "locations:haunted-wood",
@@ -688,8 +876,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of haunted wood for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Haunted Wood, dense old spruce forest at blue dusk, twisted roots, ferns, mist and a narrow path, eerie through imagination yet natural and believable.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e446751ec0e74086b19a4f7a7e816d90"
     },
     {
       "id": "locations:idlewild",
@@ -700,8 +889,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of idlewild for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Idlewild, a secluded woodland playhouse made from branches and moss beneath birches, tiny improvised table with wildflower cups, afternoon light.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_c361325edd8142caa11738b2c0f190af"
     },
     {
       "id": "locations:lake-of-shining-waters",
@@ -712,8 +902,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of lake of shining waters for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Lake of Shining Waters, a tranquil tree-ringed pond catching silver evening light, reeds, lily pads, distant farm fields reflected in the surface.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_ErrMT0gJjyrXWF9jW2WSj5mc"
     },
     {
       "id": "locations:lover-s-lane",
@@ -724,8 +915,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of lover s lane for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Lover’s Lane, a shaded farm lane beneath arching birch and maple, ferns, wildflowers and glimpses of red field beyond, intimate summer green.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_c361325edd8142caa11738b2c0f190af"
     },
     {
       "id": "locations:lynde-s-hollow",
@@ -736,8 +928,22 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of lynde s hollow for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Lynde’s Hollow, a tidy white farmhouse beside a rushing brook below a wooded red earth lane, geraniums in the windows and quilting frame glimpsed within.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_ErrMT0gJjyrXWF9jW2WSj5mc"
+    },
+    {
+      "id": "locations:marilla-s-bedroom",
+      "category": "locations",
+      "subject": "marilla s bedroom",
+      "path": "library/anne-of-green-gables/art/generated/locations/marilla-s-bedroom.png",
+      "sha256": "22afb25ef2d0d93609c4a6bda0ac5834c45323247adac4e03a9997661ad0b050",
+      "width": 1536,
+      "height": 1024,
+      "generator": "OpenAI ImageGen",
+      "prompt": "Original illustration for Anne of Green Gables. Subject: Marilla's plain tidy farmhouse bedroom in Green Gables around 1890: dark wooden bureau, folded black lace shawl with a violet amethyst brooch caught at one edge, trunk, simple bed, sunlight filtered through climbing vines, restrained quiet detail. Mature late nineteenth-century book realism, restrained oil and gouache texture, natural muted palette, historically plausible Maritime Canada, distinct carefully observed composition, no modern objects, photography, cartoon, watermark, logos or readable text. Landscape composition, place is the central subject.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "Exact tool request recorded at generation on 12 October 2026."
     },
     {
       "id": "locations:orchard-slope",
@@ -748,8 +954,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of orchard slope for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Orchard Slope, prosperous Barry farmhouse beyond an apple orchard, pond in foreground, clipped grounds and white fences in late summer.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_ErrMT0gJjyrXWF9jW2WSj5mc"
     },
     {
       "id": "locations:prince-edward-island",
@@ -760,8 +967,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of prince edward island for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no people, no text, no letters, no logo, no watermark, landscape composition. Wide coastal view of Prince Edward Island, red sandstone cliffs, green patchwork farms, spruce woods and blue Gulf of Saint Lawrence under luminous clouds.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_a6513eac32dc4b629fb0ea38a68a4eda"
     },
     {
       "id": "locations:queen-s-academy",
@@ -772,8 +980,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of queen s academy for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. Queen’s Academy in Charlottetown circa 1890, dignified brick educational building, tall sash windows, stone steps, bare classroom visible within.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e9e8b63f02e8474ab9f0ce71db7d33ca"
     },
     {
       "id": "locations:white-sands-hotel",
@@ -784,8 +993,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of white sands hotel for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. White Sands Hotel concert venue, grand wooden seaside hotel with broad verandas and glowing ballroom windows above the gulf at evening.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_e9e8b63f02e8474ab9f0ce71db7d33ca"
     },
     {
       "id": "locations:white-sands",
@@ -796,8 +1006,9 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of white sands for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. White Sands coastal settlement, wind-shaped fields above pale sand and red cliff edges, small wooden homes and a road beside the gulf.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_f9f822baa62c4b77ac5e678db3a01f94"
     },
     {
       "id": "locations:white-way-of-delight",
@@ -808,56 +1019,58 @@
       "width": 1536,
       "height": 1024,
       "generator": "OpenAI ImageGen",
-      "prompt": "Mature painterly late nineteenth-century realism with restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no text, logo, watermark, or modern objects. Distinct study of white way of delight for Anne of Green Gables.",
-      "inspection": "Accepted after visual inspection: distinct composition, period-plausible details, no readable text or visible modern object."
+      "prompt": "Mature painterly late nineteenth-century realism, restrained gouache and oil texture, historically accurate Prince Edward Island circa 1890, natural muted palette, museum illustration quality, no visible people, no text, no logo, no watermark, landscape composition. White Way of Delight, a narrow red road passing beneath a high cathedral arch of flowering apple trees, white petals and luminous spring sky.",
+      "inspection": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering.",
+      "requestEvidence": "call_ErrMT0gJjyrXWF9jW2WSj5mc"
     },
     {
       "id": "map:avonlea",
       "category": "maps",
       "subject": "avonlea",
       "path": "library/anne-of-green-gables/maps/avonlea.png",
-      "sha256": "7f750d993cbbe3a6337c8d80ab8a0678bb4649b91d0c24ec00536454262d090c",
+      "sha256": "2e4fb25f92b16144331c3a3e00182b9a8c812535c797b9421aa249d8a1e5688f",
       "width": 1600,
       "height": 1000,
       "generator": "Pillow via render-maps.py",
       "prompt": "Reproducible topographic cartography using the documented geographic or interpretive source and the novel’s relative geography.",
-      "inspection": "Accepted after visual inspection; labels, coastline or inferred contours, routes, and bottom-origin marker alignment reviewed."
+      "inspection": "Accepted after opening full map: legible labels, populated layer, roads and marker alignment reviewed. Real coastline for island; explicitly interpretive local geography."
     },
     {
       "id": "map:charlottetown",
       "category": "maps",
       "subject": "charlottetown",
       "path": "library/anne-of-green-gables/maps/charlottetown.png",
-      "sha256": "2682beaecef745649e7ddaf89aaa0e1d9d60f8c754cefe8b0f37f38dfcc33154",
+      "sha256": "e4e375ea61db1df60203dd501dcaee64e36371c95caea76c1e42a5fe76440453",
       "width": 1600,
       "height": 1000,
       "generator": "Pillow via render-maps.py",
       "prompt": "Reproducible topographic cartography using the documented geographic or interpretive source and the novel’s relative geography.",
-      "inspection": "Accepted after visual inspection; labels, coastline or inferred contours, routes, and bottom-origin marker alignment reviewed."
+      "inspection": "Accepted after opening full map: legible labels, populated layer, roads and marker alignment reviewed. Real coastline for island; explicitly interpretive local geography."
     },
     {
       "id": "map:green-gables",
       "category": "maps",
       "subject": "green gables",
       "path": "library/anne-of-green-gables/maps/green-gables.png",
-      "sha256": "f2f5e528f0dbed1a25c246b1787069a4ce1f61115b436b1682649c8e8683ef1c",
+      "sha256": "f5f26dc427a512219e390c1a5f72ac6582f202772d93f3df0ee8e6f922131965",
       "width": 1600,
       "height": 1000,
       "generator": "Pillow via render-maps.py",
       "prompt": "Reproducible topographic cartography using the documented geographic or interpretive source and the novel’s relative geography.",
-      "inspection": "Accepted after visual inspection; labels, coastline or inferred contours, routes, and bottom-origin marker alignment reviewed."
+      "inspection": "Accepted after opening full map: legible labels, populated layer, roads and marker alignment reviewed. Real coastline for island; explicitly interpretive local geography."
     },
     {
       "id": "map:prince-edward-island",
       "category": "maps",
       "subject": "prince edward island",
       "path": "library/anne-of-green-gables/maps/prince-edward-island.png",
-      "sha256": "884080a8483311ad4e34c7f5a0f3be6edad4a03788b372cabd8075232bf1c876",
+      "sha256": "2d51416c484cba589a29bdd77e403b7608befb4ae73707f6da27577e492268ed",
       "width": 1600,
       "height": 1000,
       "generator": "Pillow via render-maps.py",
       "prompt": "Reproducible topographic cartography using the documented geographic or interpretive source and the novel’s relative geography.",
-      "inspection": "Accepted after visual inspection; labels, coastline or inferred contours, routes, and bottom-origin marker alignment reviewed."
+      "inspection": "Accepted after opening full map: legible labels, populated layer, roads and marker alignment reviewed. Real coastline for island; explicitly interpretive local geography."
     }
-  ]
+  ],
+  "promptEvidence": "Every illustration prompt is the exact generation request, recovered from the authoring log or recorded during the correction pass. Map briefs describe deterministic cartography, not an ImageGen request."
 }

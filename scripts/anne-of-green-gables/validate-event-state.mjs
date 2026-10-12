@@ -1,4 +1,6 @@
 import assert from 'node:assert/strict'
+import fs from 'node:fs'
+import { validateModel } from './validate-model.mjs'
 import { eventTitles } from './event-titles.mjs'
 import { chapterState } from './event-state.mjs'
 import { characters, locations } from './world-ledger.mjs'
@@ -14,4 +16,5 @@ for(const [chapter,titles] of eventTitles){
     for(const name of cast) assert.ok(characterNames.has(name),`Unknown character ${chapter}.${i+1}: ${name}`)
   }
 }
+validateModel(JSON.parse(fs.readFileSync(new URL('../../library/anne-of-green-gables.pwk',import.meta.url),'utf8')))
 console.log(`PASS: ${[...chapterState.values()].flat().length} events have explicit locations and unique physical-presence casts.`)

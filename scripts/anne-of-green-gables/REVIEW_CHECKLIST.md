@@ -1,4 +1,6 @@
-# Anne of Green Gables release checklist — 2026-10-11
+# Anne of Green Gables release checklist — 2026-10-12
+
+**The seven revalidation findings are resolved.** These checks apply to the corrected 203-scene export. See `QA.md`, `SCENE_AUDIT.md`, `CHRONOLOGY.md`, and `qa/ui-results.json` for current evidence.
 
 This book-specific checklist tracks `docs/CHECKLIST.md`. An unchecked item keeps the edition out of release.
 
@@ -30,7 +32,7 @@ This book-specific checklist tracks `docs/CHECKLIST.md`. An unchecked item keeps
 ## Worldbuilding and reading mode
 
 - [x] Threads, motifs, lore, factions, knowledge, goals, items, routes, and relationships are complete where meaningful and never padded.
-- [x] A blind reading-mode spoiler sweep has checked all standing descriptions and reveal transitions; the repository EX-405 sweep reports A0/B0/C0 for this book.
+- [x] A blind reading-mode spoiler sweep has checked all standing descriptions and reveal transitions; the repository EX-405 sweep reports A2/B0/C0, with both source-supported early mentions of Mrs. Spencer manually reviewed in `QA.md`.
 - [x] Dashboard, Book Cards/Page/Read, Characters, Maps, Calendar, Items, Relationships, Character Arc, Lore, Factions, Knowledge, Settings, Manuscript, and Structure have been visited in the latest development UI.
 
 ## Packaging and validation
