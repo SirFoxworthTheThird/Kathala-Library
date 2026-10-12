@@ -120,6 +120,13 @@
       "source": "OpenAI ImageGen"
     },
     {
+      "path": "library/persuasion/art/generated/items/benwick-miniature.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "9c5aef84f6ef5bb803d55b65e12e95fca73d4abc95873824cb24325e1f9a7ab9",
+      "source": "OpenAI ImageGen"
+    },
+    {
       "path": "library/persuasion/art/generated/mixed/camden-place.jpg",
       "width": 768,
       "height": 768,
@@ -281,20 +288,6 @@
       "source": "OpenAI ImageGen"
     },
     {
-      "path": "library/persuasion/art/generated/mixed2/naval-sword.jpg",
-      "width": 768,
-      "height": 768,
-      "sha256": "47c823117c8aa743e965c2c808e8b9b42c98ae4c2448c6fbb7dd57e52511ac11",
-      "source": "OpenAI ImageGen"
-    },
-    {
-      "path": "library/persuasion/art/generated/mixed2/portrait-locket.jpg",
-      "width": 768,
-      "height": 768,
-      "sha256": "b6eaa9c05ff9c1efc3e658d013b8321f4ddbea61dc37861e592883eefa6084e0",
-      "source": "OpenAI ImageGen"
-    },
-    {
       "path": "library/persuasion/art/generated/mixed2/royal-navy.jpg",
       "width": 768,
       "height": 768,
@@ -302,24 +295,10 @@
       "source": "OpenAI ImageGen"
     },
     {
-      "path": "library/persuasion/art/generated/mixed2/travel-trunk.jpg",
-      "width": 768,
-      "height": 768,
-      "sha256": "998f36a897952e483ab8e7df40065ad5b655952a93276c60315f1114ad55e16c",
-      "source": "OpenAI ImageGen"
-    },
-    {
       "path": "library/persuasion/art/generated/mixed2/uppercross-family.jpg",
       "width": 768,
       "height": 768,
       "sha256": "82d3a1c1f028d59e9b148443c1d8fb94e01d9a4338044afdbfd325a2d363d137",
-      "source": "OpenAI ImageGen"
-    },
-    {
-      "path": "library/persuasion/art/generated/mixed2/vinaigrette.jpg",
-      "width": 768,
-      "height": 768,
-      "sha256": "28ffbac746044c8983219431ca4d160147d1f8c6af15c3ae7859ac551f0a9e98",
       "source": "OpenAI ImageGen"
     },
     {
@@ -362,6 +341,13 @@
       "width": 768,
       "height": 768,
       "sha256": "b168d1f11c61e9ac4e57bd8de74d25393a62195798ef26baf518278fdf52914c",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/kellynch-lodge.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "590564486ba7ded1d9f77b7c5b5481f87979c8845abb28d3a6dac7dcd9a00741",
       "source": "OpenAI ImageGen"
     },
     {

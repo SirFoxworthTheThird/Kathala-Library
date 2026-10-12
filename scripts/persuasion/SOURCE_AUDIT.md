@@ -9,6 +9,6 @@
 | Retained narrative paragraphs | 1,010 |
 | Retained narrative words | 83,232 |
 | Retained normalized SHA-256 | `04eaac15b4f9bd37ab560b1a63020995103369b8da3f45d2040aff8ce2ddf41f` |
-| Final scenes | 115 |
+| Working scenes after location corrections | 130 |
 
 Extraction starts at the narrative `CHAPTER I.` following the contents list and ends before standalone `Finis`. Only Project Gutenberg packaging, display matter, duplicated contents headings, `Finis`, and the end marker are excluded. LF normalization is documented in `SOURCE.md`; the archived source remains byte exact with CRLF. `source-text.mjs` reconstructs every heading and body, and `validate-book.mjs` reconstructs the same retained text from final scenes.

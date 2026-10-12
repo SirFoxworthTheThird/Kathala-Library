@@ -1,6 +1,44 @@
 # Persuasion release evidence
 
-Validated 12 October 2026.
+> Final local review, 12 October 2026. The historical evidence below describes
+> a superseded PWK and is not release evidence for this revision. The corrected
+> edition uses an explicit source-presence ledger, individual snapshot notes,
+> and the boundary review in `BOUNDARY_AUDIT.json` and `SCENE_AUDIT.md`.
+
+Final local evidence: the source reconstructs to 24 chapters, 1,010 paragraphs,
+and 83,232 words. The edition has 130 scenes and 524 individual snapshots
+across 29 locations; its PWK is 1,053,938 bytes, SHA-256
+`bd9dc47b58b9f669558c2d6b996f1f63fba0dd580783c71933098c7a6be74f5e`.
+The dedicated validators, catalogue check, 903 tests, gate, and diff check pass.
+The fresh UI smoke run on this hash passed Library download, reading reveal,
+layouts, supporting views, maps, gateways, one timed transition, final text,
+image loading, and zero captured console errors. The app dev server emitted
+React Flow node/edge type warnings. The UI smoke run samples reader flows; the
+complete scene-boundary, source-presence, and location evidence is in the
+source audit and dedicated validator.
+
+The revised cuts address location or company changes in Chapters V–IX,
+XI–XIII, XVIII–XX, and XXIII. The boundary audit now records each scene’s
+narrative change, adjacent paragraphs, location and cast transitions, modeled
+knowledge reveals, and material item hand-offs. Source review further corrected
+the Crofts’ Chapter VI cottage visit, the naval conversation in Chapter VIII,
+the visitors entering the Chapter IX cottage, the cast in Chapters XV, XVI,
+and XVIII, and the Harville miniature cut in Chapter XXIII. The item layer contains three objects shown
+in the source: the Baronetage, Wentworth’s letter, and Benwick’s miniature;
+four previously placed objects without passage support were removed.
+
+The opening world and character descriptions no longer disclose the Chapter IV
+engagement, Louisa’s later match, or Mr Elliot’s hidden motive. His motive goal
+begins where Mrs Smith explains it in Chapter XXI.
+
+Current item evidence: Sir Walter handles the Baronetage in Chapter I,
+Harville shows Anne Benwick’s miniature in Chapter XXIII (paragraphs 13–15),
+and Wentworth leaves his letter in Chapter XXIII (paragraphs 39–44). The
+working art manifest contains 62 distinct asset hashes.
+
+## Historical evidence for the superseded PWK
+
+Validated 12 October 2026 before the source-presence revalidation.
 
 | Measure | Result |
 | --- | --- |

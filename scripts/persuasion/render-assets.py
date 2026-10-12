@@ -25,7 +25,10 @@ def crop_grid(src,names,folder):
 
 crop_grid(sources['people'],['anne-elliot','frederick-wentworth','sir-walter-elliot','elizabeth-elliot','lady-russell','mary-musgrove','charles-musgrove','mr-musgrove','mrs-musgrove','louisa-musgrove','henrietta-musgrove','admiral-croft','sophia-croft','william-elliot','mrs-clay','mr-shepherd'],'characters')
 crop_grid(sources['mixed'],['captain-harville','mrs-harville','captain-benwick','mrs-smith','charles-hayter','little-charles-musgrove','walter-musgrove',None,'kellynch-hall','uppercross-great-house','uppercross-cottage','uppercross-lanes','lyme-cobb','harville-lodgings','camden-place','white-hart-inn'],'mixed')
-crop_grid(sources['places'],['kellynch-hall-library','kellynch-hall-drawing-room','kellynch-hall-garden','lyme-inn','westgate-buildings','milsom-street','bath-concert-rooms','gravel-walk','baronetage','wentworth-letter','vinaigrette','naval-sword','portrait-locket','travel-trunk','royal-navy','uppercross-family'],'mixed2')
+crop_grid(sources['places'],['kellynch-hall-library','kellynch-hall-drawing-room','kellynch-hall-garden','lyme-inn','westgate-buildings','milsom-street','bath-concert-rooms','gravel-walk','baronetage','wentworth-letter',None,None,None,None,'royal-navy','uppercross-family'],'mixed2')
+Image.open(Path(r'F:/CodexData/.codex/generated_images/01a12fa0-3040-7b71-b5d8-0defd5dc7dc9/exec-52243310-febf-47ce-95cc-a13c470a6436.png')).convert('RGB').resize((768,768),Image.Resampling.LANCZOS).save(GEN/'places'/'kellynch-lodge.jpg',quality=91,optimize=True)
+im=Image.open(Path(r'F:/CodexData/.codex/generated_images/01a12fa0-3040-7b71-b5d8-0defd5dc7dc9/exec-03dd70ee-fa1a-4c3e-97ff-5e0dc4d93b13.png')).convert('RGB').resize((768,768),Image.Resampling.LANCZOS)
+(GEN/'items').mkdir(exist_ok=True);im.save(GEN/'items'/'benwick-miniature.jpg',quality=91,optimize=True)
 
 FONT='C:/Windows/Fonts/georgia.ttf'; BOLD='C:/Windows/Fonts/georgiab.ttf'
 def font(size,bold=False): return ImageFont.truetype(BOLD if bold else FONT,size)
