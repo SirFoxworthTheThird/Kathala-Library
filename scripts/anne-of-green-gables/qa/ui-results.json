@@ -1,0 +1,78 @@
+{
+  "applicationCommit": "4e5a53cec142b2a398f0916cf2d523714dbaa42d",
+  "pwkSha256": "d486a50337adda6f37c74979129d25f6c9d6ca31bc61f0987da41a2e9abcce87",
+  "download": true,
+  "openingMetCharacters": 2,
+  "finalMetCharacters": 30,
+  "hiddenMentionedCharacters": 3,
+  "layouts": [
+    "cards",
+    "page",
+    "read"
+  ],
+  "supportingViews": 10,
+  "maps": 4,
+  "gateways": 3,
+  "playbackTransitions": [
+    {
+      "before": "The Road Past Lynde’s Hollow",
+      "after": "News at Green Gables",
+      "from": "anne-map-avonlea",
+      "to": "anne-map-green-gables"
+    },
+    {
+      "before": "Rachel Gives Her Warning",
+      "after": "The Road to Bright River",
+      "from": "anne-map-green-gables",
+      "to": "anne-map-island"
+    },
+    {
+      "before": "The Girl at the Station",
+      "after": "The Girl Talks of Possibilities",
+      "from": "anne-map-island",
+      "to": "anne-map-avonlea"
+    },
+    {
+      "before": "Marilla Chooses",
+      "after": "The Decision at Home",
+      "from": "anne-map-island",
+      "to": "anne-map-green-gables"
+    },
+    {
+      "before": "Anne Consents to Apologize",
+      "after": "The Apology at Lynde’s Hollow",
+      "from": "anne-map-green-gables",
+      "to": "anne-map-avonlea"
+    },
+    {
+      "before": "An Invitation to Charlottetown",
+      "after": "The Journey to Town",
+      "from": "anne-map-avonlea",
+      "to": "anne-map-charlottetown"
+    },
+    {
+      "before": "Coming Home",
+      "after": "The Best Part of the Visit",
+      "from": "anne-map-charlottetown",
+      "to": "anne-map-green-gables"
+    },
+    {
+      "before": "Departure for Queen’s",
+      "after": "The First Day at Queen’s",
+      "from": "anne-map-green-gables",
+      "to": "anne-map-charlottetown"
+    },
+    {
+      "before": "Josie Finds Anne",
+      "after": "Weekends at Home",
+      "from": "anne-map-charlottetown",
+      "to": "anne-map-avonlea"
+    }
+  ],
+  "revealTransitions": [
+    "Anne’s name",
+    "Matthew’s death",
+    "Gilbert’s reported school offer"
+  ],
+  "consoleErrors": []
+}

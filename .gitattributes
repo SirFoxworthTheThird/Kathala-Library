@@ -1,3 +1,4 @@
 # Preserve Project Gutenberg's exact source bytes, including its line endings.
 scripts/black-arrow/source/pg848.txt -text -diff
 scripts/sign-of-the-four/source/pg2097.txt -text -diff
+scripts/anne-of-green-gables/source/pg45.txt -text -diff
