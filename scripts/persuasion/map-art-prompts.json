@@ -1,0 +1,23 @@
+{
+  "tool": "OpenAI built-in ImageGen",
+  "generatedOn": "2026-10-12",
+  "sharedDirection": "Hand-painted early nineteenth-century survey map blended with mature watercolor relief and engraved hachures; landscape 16:10; true overhead view; no text, labels, symbols, compass, border, watermark, characters, or childlike fantasy styling.",
+  "maps": [
+    {
+      "id": "southwest-england",
+      "prompt": "A richly detailed, geographically recognizable top-down relief map of southwest England for Jane Austen's Persuasion, covering Somerset and Bath in the north, Lyme Regis on the Dorset coast, and Portsmouth on the southeast coast; real coastline, rolling hills, river valleys, forests, farmland, historic road corridors, and the English Channel; muted moss, sage, ochre, parchment, and slate blue."
+    },
+    {
+      "id": "somerset",
+      "prompt": "A detailed top-down relief map of a fictional Somerset estate district for Jane Austen's Persuasion; Kellynch Hall on wooded higher ground in the west, Uppercross village and two neighboring country houses to the east, Winthrop farm farther southeast, winding lanes, hedgerows, orchards, streams, fields, copses, and gentle limestone hills; autumn olive, russet, parchment, and subdued blue-green water."
+    },
+    {
+      "id": "bath",
+      "prompt": "A detailed true-overhead relief plan of Regency Bath around 1814; compact Georgian city in the Avon valley, terraced crescents climbing northern slopes, River Avon and bridges, dense central streets, gardens, and surrounding green hills; warm Bath stone, moss, sage, parchment, subdued blue river, and charcoal streets."
+    },
+    {
+      "id": "lyme",
+      "prompt": "A detailed true-overhead relief map of Lyme Regis around 1814; steep green hills descending to the compact town, curving shoreline, beaches, harbor basin, and long stone Cobb; plausible historic lanes, clustered roofs, fields, cliffs, streams, and coastal contours; deep slate and teal sea, weathered limestone, moss, muted ochre, and parchment."
+    }
+  ]
+}

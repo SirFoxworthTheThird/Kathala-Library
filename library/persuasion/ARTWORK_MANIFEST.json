@@ -1,0 +1,438 @@
+{
+  "assets": [
+    {
+      "path": "library/persuasion/art/generated/characters/admiral-croft.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "079dff5c3a73631da95e86c432aacbe1dd457bd6dd6a91fb9bf93cf4d37de424",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/anne-elliot.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "258d71e68a031f97ef5252e69e555b72b0dcbbd5d1363f873cb688c44cec0c75",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/charles-musgrove.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "5c3ca80c3b739f76bc5d78db76170de407ef55cd96c8b4b7350adebaf19a50f8",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/elizabeth-elliot.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "4cf5787c88258bbb9e6d47497f28380dc2baca824568b2cb21e1abb3d6f38e1a",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/frederick-wentworth.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "52ac59df777f8c37c37cec9309ab7e4bdc80867967c842e04835768a6dc79b37",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/henrietta-musgrove.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "c6dfb680019e038ec54e596c22c73ed8957440e8fa685f69345c1ce5db92ab56",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/lady-russell.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "b23f0f7dd1dfeba56d34af38d9a6634200c97a15974782d6b8820db41148e413",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/louisa-musgrove.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "e84eb8ecd54e6898b55026efe066e89f64ff69f3bd32c5d6622e52b4ba339986",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/mary-musgrove.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "e69470b1ae57883536f5ea6ba9ba6e0cf9ffb8b00b7b058dd7ab1abbb0f07066",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/mr-musgrove.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "ecd92243cb1dc6a6a4730fa423cd0d4fb548f95cd2897a78be993340b6ea878b",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/mr-shepherd.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "41e6ae66d954815df29b5df443e68d6bb79806d9a9c0beb67ae822216b935219",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/mrs-clay.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "cd643fe73526efd3cc20c485bba12f5a909a0001543baa5a360d351441e80d1d",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/mrs-musgrove.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "f6b8cd0c29207c11e4eb43ae30334a23f7341b2cdcd4ce85724a860e88f98d43",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/sir-walter-elliot.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "2346411665a787ea9fe5022a0069ad435ca08a16280d1348aefa65fee7244637",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/sophia-croft.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "0adfeacf122de207b272bac0252d298666039a8c67b4a51be9e5a2c25c7f7e1d",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/characters/william-elliot.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "ab3581b6049500f848deb70758f0d662af9b2a0eea1f10ec001906d8a5931963",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/cover.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "9353e1faff3cf465c0604d109dfe17d172ba0768b427f47274203e02c390a28a",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/items/benwick-miniature.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "9c5aef84f6ef5bb803d55b65e12e95fca73d4abc95873824cb24325e1f9a7ab9",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/camden-place.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "a7c62152040f33e0cfd6919d512239eaddca06b2fba6f8b4896ddc4a244c6a08",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/captain-benwick.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "d08b81a1d1f02dc50c27e9152b9ccb69ccc96d39dfcf907d719568f69c939597",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/captain-harville.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "1f283c92be44c7b0a67841f4f9b096413229ad4bf91969a40b9fbb5139b60604",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/charles-hayter.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "c95df9923df82bcbff698a3d6a8270d681ab8de1a390a74b12291e0eb2a90055",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/harville-lodgings.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "f32e2d0dba4d1e96a78404864182cc53f77a42afe95376d51d3c91b5b2d84ab9",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/kellynch-hall.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "7a947e00999e85e33609dcfa6aa791cecf90f0f42566a04faf7720fe2514edef",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/little-charles-musgrove.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "233edfa43c83a0352df49bf07f7ef2f3051fe4a39072251063cca20e680dfa72",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/lyme-cobb.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "dd63149b8a0f6ca531415f6d5214f1000605c97926dbf8b469f28da52cd36382",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/mrs-harville.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "60b093ef0a08c6bdaf426445c7c8c227446ef7547c9c7ffff3f900ababc8ee36",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/mrs-smith.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "4b964a9cf198fae619a340229fc6e34a2a224ea82d2d3a9a65e67101fa220152",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/uppercross-cottage.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "bfcd316852debf0fc22079782b76dc70905a09f9a01e10b08c6e0bbdf57fa371",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/uppercross-great-house.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "02635938bad79ff40b6c7ead0fbbaee7a45d264cc48e35ef073db7cede315cc6",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/uppercross-lanes.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "0c63ac040fd368b5dbfaa9a0452f7e5019e6ad8ee76d91f54e80010c72825137",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/walter-musgrove.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "0f7587fa92e08dc869aa640b37cab503675cc4eb23298d0fb20efe4ebdae56bd",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed/white-hart-inn.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "ccbbce8307ee6e98f0da060fe7a2785042e3fa893764d6f3dde5aa5d6a58b99b",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/baronetage.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "29e54f8d13cb6ce51e6416421a2efb83d065fce107e5ef661f335beadc50cca6",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/bath-concert-rooms.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "9a15d098909aa7702c49fbc70013e5eca9e78579c547bd4723e6c05c4f1465e1",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/gravel-walk.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "e83104b5437c9c538ff2ef80301956088889fd2cf023acf765c2f2ff8be00b90",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/kellynch-hall-drawing-room.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "ea6407f0bd742b73ea2ef6c827e751a90c0e0ab54afdc5939dd4a18b243137bd",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/kellynch-hall-garden.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "4e95fca8dcf0cda1e8681c64e4730e186af3e2c12c110148505599a44778d51f",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/kellynch-hall-library.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "629811ce81376f664e66e25adfc1ad108ed8a0fc39a9520caf4dddd7ab8a238b",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/lyme-inn.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "3f4fcb10c72bfe15c9d22c9c0966f4d78552d9b39cffb87f68b8ab028c90ba11",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/milsom-street.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "44a666e3d51f377ef58e6f47aa3c754a7a90c60ec5d038455ab8c1e0e81d88d8",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/royal-navy.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "9b81c6d375d47cc80eebef9fd75c5d0bf254ce5f3f70d6ef78db1cf5a3365505",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/uppercross-family.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "82d3a1c1f028d59e9b148443c1d8fb94e01d9a4338044afdbfd325a2d363d137",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/wentworth-letter.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "cf75b14830eaf114af98c92c72b0b4ac497ace0420c3bb8d9716cafe5cfdb4f7",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/mixed2/westgate-buildings.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "1a1002777ed35078870e19f2e9374725d6fe668b51810042e003261630b8d552",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/bath-assembly-rooms.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "57d979c574318489b18ae1248c2f1a8c576c34950b637d41cde05c9890dc61ef",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/bath-streets.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "8be4fbdf914dbac6d3b1e309647c0bb6d4f7e5dbf48ed2e5838804b7b5237940",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/bath.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "893a80312f3c495bc96d31e34cb48828846229e0603b21163e89741c12a1fe3d",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/kellynch-district.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "b168d1f11c61e9ac4e57bd8de74d25393a62195798ef26baf518278fdf52914c",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/kellynch-lodge.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "590564486ba7ded1d9f77b7c5b5481f87979c8845abb28d3a6dac7dcd9a00741",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/lyme-regis.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "bca9853b94f393c95dc584b4a612454bde41ea9d92d4c8120fa9cd6508af5404",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/portsmouth-harbour.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "74ef8ae250b0caad4fa097f84609750248c442b3fa74f460faa437e43be29f77",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/rivers-street.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "ceb9f56c629a23d150a562a82c0dbef7be4dfe1428733824d4808a7f7528081e",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/road-from-lyme.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "049e48d1774555d3596ac8ee65aa8b12b05f8675c093bd490ce817a06e5d6de1",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/road-to-bath.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "eb51a51e12612a511ad40f81651a4f1adac8f6e98bcfe87a999b71e4ccbb7132",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/uppercross.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "b64d6b24d2e4464bb16d169ed9473c1cf03e125b3ae6f8546b00fa3d960327e7",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/winthrop-fields.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "3d662b8d4742631a64aa4a02223fe4f4dd1f241c515eb056f7d41c6b39d0fa7a",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/art/generated/places/winthrop.jpg",
+      "width": 768,
+      "height": 768,
+      "sha256": "9dd8e65995b301266c8ef74a5ccfb73864879936b6b8216ea439511491f567ae",
+      "source": "OpenAI ImageGen"
+    },
+    {
+      "path": "library/persuasion/maps/bath.png",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "941ad6e8f53ee527c630dff9a7ba7b2775918e898ce593e8548051c8763fc488",
+      "source": "OpenAI ImageGen topographic base with deterministic editorial overlays"
+    },
+    {
+      "path": "library/persuasion/maps/lyme.png",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "c96925c18b6d7bb2f63ca2606981b5b90318735995fdf2b40518ad825ec18b00",
+      "source": "OpenAI ImageGen topographic base with deterministic editorial overlays"
+    },
+    {
+      "path": "library/persuasion/maps/somerset.png",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "360ed1a229e179d95ce2987924315e4edf72fca646c879427960a025d4d2542a",
+      "source": "OpenAI ImageGen topographic base with deterministic editorial overlays"
+    },
+    {
+      "path": "library/persuasion/maps/southwest-england.png",
+      "width": 1600,
+      "height": 1000,
+      "sha256": "8ad01beccb339ab838b94773ec6de8879906bf39ddcb272f2c440a729c049713",
+      "source": "OpenAI ImageGen topographic base with deterministic editorial overlays"
+    }
+  ]
+}

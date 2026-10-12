@@ -1,0 +1,7 @@
+import fs from 'node:fs'
+const p='library/index.json',index=JSON.parse(fs.readFileSync(p,'utf8'))
+if(!index.entries.some(e=>e.id==='persuasion'))index.entries.push({id:'persuasion',title:'Persuasion',author:'Jane Austen',blurb:'Anne Elliot moves from Kellynch toward a wider society, where rank, family pressure, and naval friendship test her judgment.',data:'persuasion.pwk',dataBytes:0,counts:{characters:0,chapters:0,events:0,locations:0},notice:'Unofficial reading-mode edition of a public-domain novel. It includes the complete English narrative from Project Gutenberg eBook #105; Gutenberg packaging, the duplicated contents list, and the terminal Finis line are excluded. Editorial scene divisions, chronology, maps, and 62 distinct artwork assets are documented in the included Lore and authoring audits.',worldId:'persuasion-world',cover:'library/persuasion/art/generated/cover.jpg',hasProse:true})
+const persuasion=index.entries.find(e=>e.id==='persuasion')
+persuasion.blurb='Anne Elliot moves from Kellynch toward a wider society, where rank, family pressure, and naval friendship test her judgment.'
+persuasion.notice=persuasion.notice.replace(/\d+ distinct artwork assets/,'62 distinct artwork assets')
+fs.writeFileSync(p,JSON.stringify(index,null,2)+'\n')
