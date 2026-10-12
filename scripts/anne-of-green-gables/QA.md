@@ -30,11 +30,11 @@ The collapse note gives no death outcome. Martin’s summons is at Orchard Slope
 
 Coastline, six island markers and three island roads use one latitude-corrected projection. Independent land-mask checks pass for all pins and route segments, and reject the original offshore pins. The local maps are explicitly interpretive: no surveyed elevations, exact addresses or historical road alignments are claimed. There are 15 Avonlea markers, six house/grounds markers and four city markers. The farmyard is outside the house; upstairs rooms have a labelled inset.
 
-All final illustrations and full-size maps were inspected. Contact sheets and rendered map screenshots are in `qa/`. `art-review.json` binds acceptance to the inspected image SHA-256; changing image bytes invalidates acceptance. `art-prompts.json` records 78 exact generation prompts, recovered from frozen request records or captured during this correction. The four maps record deterministic cartographic briefs separately. Reader-facing Lore and the catalogue identify generated art and map sources. There are no duplicate asset hashes.
+All final illustrations and full-size maps were inspected. Contact sheets, before/after comparisons, and rendered Kathala map screenshots are in `qa/`. `art-review.json` binds acceptance to the inspected image SHA-256; changing image bytes invalidates acceptance. `art-prompts.json` records 78 exact entity-art generation prompts. `map-art-prompts.json` records the four exact ImageGen topographic-base requests, output identities, corrections, and inspections; untouched bases are archived under `map-art-source/`. `render-maps.py` deterministically adds verified geography, routes, labels, frame, compass, and notes. Reader-facing Lore and the catalogue identify generated art and map sources. There are no duplicate asset hashes.
 
 ## Development UI
 
-Application: remote `development` commit `4e5a53cec142b2a398f0916cf2d523714dbaa42d`, fetched for this review; a separate QA checkout runs at port 5175. No application code was modified. The automated browser uses an isolated Chrome profile and serves this branch's Library files through a request interceptor, then uses the application's actual Library Download flow. It does not alter the user's existing imported world.
+Application: remote `development` commit `0c756cd5e0904519d56e402f42fd37dcea93de87`, fetched for this map review; a separate QA checkout runs at port 5175. No application code was modified. The automated browser uses an isolated Chrome profile and serves this branch's Library files through a request interceptor, then uses the application's actual Library Download flow. It does not alter the user's existing imported world.
 
 `qa-ui.mjs` verifies:
 
@@ -50,9 +50,9 @@ Application: remote `development` commit `4e5a53cec142b2a398f0916cf2d523714dbaa4
 ## Release gates
 
 - Exact manuscript, complete boundary audit, state validator and dedicated book validator pass.
-- `npm run catalogue:check`: all 51 worlds match, including exact Anne UTF-8 size.
-- `npm test`: 14 files, 883 tests pass.
-- `npm run gate`: 883 tests, zero failures; baseline unchanged.
+- `npm run catalogue:check`: all 52 worlds match, including exact Anne UTF-8 size.
+- `npm test`: 15 files, 903 tests pass.
+- `npm run gate`: 903 tests, zero failures; baseline unchanged.
 - `git diff --check`: clean.
 - Two generator runs produce identical PWK bytes and SHA-256.
 - EX-405 candidate sweep: A2/B0/C0. Both A candidates are Mrs. Spencer's name in early snapshot notes. The original text names her in Chapters 1 and 2 before her physical entrance in Chapter 6; those references are source-supported mentions, with no early presence snapshot. This manual disposition replaces the earlier incorrect A0 claim.
