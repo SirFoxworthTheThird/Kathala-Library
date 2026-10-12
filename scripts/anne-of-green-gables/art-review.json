@@ -390,23 +390,19 @@
     "notes": "Accepted after visual review of current image and category contact sheet: distinct subject, period clothing or materials, mature composition, no modern object or readable generated lettering."
   },
   "library/anne-of-green-gables/maps/avonlea.png": {
-    "sha256": "2e4fb25f92b16144331c3a3e00182b9a8c812535c797b9421aa249d8a1e5688f",
-    "reviewedOn": "2026-10-12",
-    "notes": "Accepted after opening full map: legible labels, populated layer, roads and marker alignment reviewed. Real coastline for island; explicitly interpretive local geography."
+    "sha256": "c1272fc55b2e20b9f08cc87fb25abae1187f6e47bb64253ec0fa10a100b23aaa",
+    "notes": "Accepted after visual review. The district reads as mature rural topography; deterministic red-earth routes and all fifteen labels remain legible over the base, including the sole marked pond crossing."
   },
   "library/anne-of-green-gables/maps/charlottetown.png": {
-    "sha256": "e4e375ea61db1df60203dd501dcaee64e36371c95caea76c1e42a5fe76440453",
-    "reviewedOn": "2026-10-12",
-    "notes": "Accepted after opening full map: legible labels, populated layer, roads and marker alignment reviewed. Real coastline for island; explicitly interpretive local geography."
+    "sha256": "759ea27c40c31d554de09bd173bfa2770731ce5fd362745ec318eb0d08f9b6ae",
+    "notes": "Accepted after visual review. The harbor, wharves, street grid, gardens, civic grounds and exhibition field form a coherent period city map; all four story-site overlays are legible."
   },
   "library/anne-of-green-gables/maps/green-gables.png": {
-    "sha256": "f5f26dc427a512219e390c1a5f72ac6582f202772d93f3df0ee8e6f922131965",
-    "reviewedOn": "2026-10-12",
-    "notes": "Accepted after opening full map: legible labels, populated layer, roads and marker alignment reviewed. Real coastline for island; explicitly interpretive local geography."
+    "sha256": "194ddf80e2dcd47db6ac58eeb67a411753b0f07d2e97fc201ce72f3ac6d6b14d",
+    "notes": "Accepted after correction and visual review. The illustrated estate has clear orchard, farmyard, brook, house and barn; a translucent deterministic inset preserves the four room markers without erasing the terrain."
   },
   "library/anne-of-green-gables/maps/prince-edward-island.png": {
-    "sha256": "2d51416c484cba589a29bdd77e403b7608befb4ae73707f6da27577e492268ed",
-    "reviewedOn": "2026-10-12",
-    "notes": "Accepted after opening full map: legible labels, populated layer, roads and marker alignment reviewed. Real coastline for island; explicitly interpretive local geography."
+    "sha256": "f36e9fca3dc15a5baee06f0a25e7699d1e6a46652a7d5103b56831ce73ba2821",
+    "notes": "Accepted after visual review. Rich island terrain is clipped to the verified Natural Earth coastline; open-water texture is sampled separately so generated shoreline drift cannot alter geography."
   }
 }

@@ -16,4 +16,10 @@ Approximate fictional sites are near Cavendish (Avonlea), west of it (Bright Riv
 - **Green Gables:** inferred estate plan with a clearly marked upper-room inset. Kitchen and parlour are downstairs; the east gable and Marilla's room are upstairs. The yard is outside the house footprint.
 - **Charlottetown:** interpretive nineteenth-century harbour-city blocks and wharves. Queen's, Beechwood, student lodging and Exhibition are representative placements; no exact addresses are claimed. The White Sands concert hotel is on the island sheet, not in Charlottetown.
 
-Context references: [PEI Archives streetscapes](https://www.archives.pe.ca/atom/index.php/streetscapes) and [PEI Museum Meacham's Atlas](https://www.peimuseum.ca/collections/meachams-atlas). These support the historical city form; no atlas image was reproduced. Maps are deterministic cartography, separately attributed from the OpenAI ImageGen entity illustrations.
+Context references: [PEI Archives streetscapes](https://www.archives.pe.ca/atom/index.php/streetscapes) and [PEI Museum Meacham's Atlas](https://www.peimuseum.ca/collections/meachams-atlas). These support the historical city form; no atlas image was reproduced.
+
+## Illustrated topographic edition
+
+Each layer now combines a distinct OpenAI ImageGen topographic base with deterministic Pillow overlays. The exact requests and output identities are in `map-art-prompts.json`; the untouched bases are archived in `map-art-source/`. `render-maps.py` adds the title bands, labels, routes, compass, frame, verified island mask, and disclosure footer. The published images remain in the Library's single-copy `library/anne-of-green-gables/maps/` layout.
+
+The generated Prince Edward Island shoreline is never used as geographic evidence. The renderer samples its terrain and water textures, then clips the land to the retained Natural Earth `CA-PE` feature. Existing projected marker and route coordinates remain unchanged. On local sheets the novel's reviewed relative coordinates remain authoritative; the illustrated bases supply period texture and terrain rather than surveyed claims.

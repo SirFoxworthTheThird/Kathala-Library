@@ -26,6 +26,7 @@ This book-specific checklist tracks `docs/CHECKLIST.md`. An unchecked item keeps
 ## Artwork
 
 - [x] Distinct, mature, historically grounded world, character, item, and place illustrations are recorded with prompts and provenance.
+- [x] All four navigable layers use distinct mature topographic illustrations; exact prompts, untouched bases, corrections, visual inspection, and deterministic overlays are recorded in `map-art-prompts.json` and `MAP_ART_REVIEW.md`.
 - [x] Every final image has been opened and checked at useful size; hashes, references, dimensions, and broken links validate.
 - [x] Maps are used only as maps and no unintended image bytes are duplicated.
 
