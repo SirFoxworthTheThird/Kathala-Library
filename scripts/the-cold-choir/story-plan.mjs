@@ -22,7 +22,9 @@ export const splits={
   {end:16,title:'Hollin at the Hatch',loc:'deck-nine',cast:['ilse','hollin'],description:'Hollin admits Ilse to the secured cold rows under guard, revealing that command has taken control of the Deck Nine hatch.',tension:3},
   {title:'The Clamp Audit',loc:'deck-nine',cast:['ilse','hollin'],description:'Below the cold rows, Ilse finds engineers testing whether the sleeper drum can be cut loose and refuses to surrender the Key.',tension:4}],
  15:[
-  {end:15,title:'Investiture',loc:'hall',cast:['neve','warden'],description:'Neve watches the Warden complete the old vigil with the Key resting on the sealed Muster Roll.',tension:3},
+  {end:13,title:'Investiture',loc:'hall',cast:['neve','warden'],description:'Neve watches the Warden keep the old vigil and recognizes the Key as a working tool marked by earlier hands.',tension:3},
+  {end:14,title:'Rhee at the Vigil',loc:'hall',cast:['neve','warden','rhee'],description:'Captain Rhee quietly enters the Hall, studies the Key for a quarter of an hour, and leaves without speaking.',tension:3},
+  {end:15,title:'The Vigil Ends',loc:'hall',cast:['neve','warden'],description:'At lamp rise, the Warden takes back the Key and the watching families file out of the Hall.',tension:3},
   {title:'The Warden’s Question',loc:'hall',cast:['neve','warden'],description:'After the families leave, the Warden presses Neve to finish the Roll for Landfall Day while she studies the tool on his chain.',tension:3}],
  21:[
   {end:19,title:'Shaft Twelve',loc:'shaft-twelve',cast:['rhee','ansel'],description:'Rhee leads the Obedient’s marines to the miners’ barricade, where an unauthorized shot kills a foreman and a child.',tension:5},
@@ -40,14 +42,28 @@ export const splits={
   {end:6,title:'Deck Nine Falls',loc:'deck-nine',cast:['ilse','hollin'],description:'Hollin turns from the hatch and lets Ilse pass, choosing Bram’s memory over the order to stop her.',tension:5},
   {end:18,title:'The Fourth Release',loc:'deck-nine',cast:['ilse'],description:'Alone in the Drop Bay, Ilse forces the final release bolt, leaves the Key for whoever comes, and straps into the pilot cell.',tension:5},
   {title:'Ninefold Descent',loc:'cold-cell',cast:['ilse'],description:'Ilse pilots the detached sleeper drum onto Ninefold, hears the compressors survive the impact, and begins her final letter.',tension:5}],
+ 33:[
+  {end:32,title:'Arrest',loc:'ring-b',cast:['neve','jory','calloway'],description:'In Mother Calloway’s front room, Neve entrusts Jory with the notebook before the Watch enters and takes him under an emergency order.',tension:4},
+  {title:'After They Take Him',loc:'ring-b',cast:['neve','calloway'],description:'After Jory and the Watch leave, Neve and Mother Calloway sit with the warning that someone close to the archive betrayed the discovery.',tension:4}],
+ 39:[
+  {end:1,title:'The Key Returned',loc:'bridge',cast:['hollin'],description:'At the first watch of Landfall Day, Hollin lays the Key on the captain’s chair and leaves the bridge without speaking.',tension:4},
+  {end:13,title:'The Warden',loc:'bridge',cast:['tamsin','kesh'],description:'Alone on the bridge, Kesh makes Tamsin Warden and coerces her silence about the sleepers beneath Ninefold.',tension:5},
+  {title:'The First Hidden Line',loc:'tamsin-cabin',cast:['tamsin'],description:'In her dark cabin, Tamsin opens Bram’s Ledger, prepares iron gall ink, and begins the record that authority forbids her to speak.',tension:4}],
+ 41:[
+  {end:11,title:'The Broadcast',loc:'hall',cast:['neve','warden','calloway'],description:'During the Tricentennial ceremony, Neve replaces the official Roll feed with Tamsin’s hidden testimony while Mother Calloway watches from among the Kin.',tension:5},
+  {end:20,title:'The Hatch Opens',era:'quiet',loc:'recovery-hatch',cast:['osh','kit'],description:'Seven centuries later beneath Ninefold, Osh turns the Key and opens the recovery hatch onto forty living rows.',tension:5},
+  {title:'The Hall Answers',loc:'hall',cast:['neve','warden','calloway'],description:'Back in the Hall, the Watch seizes Neve as Mother Calloway and the Kin sing, then Calloway takes the rescued Roll pages into safekeeping.',tension:5}],
+ 42:[
+  {title:"Rhee's Choice",loc:'obedient',cast:['rhee','ansel'],description:'Rhee and Ansel sound the ice, confirm four thousand living sleepers, disobey the destruction order, and file a false firing report.',tension:5}],
  43:[
-  {end:36,title:'Shaft',loc:'shaft',cast:['osh','kit','fane'],description:'Inside the sleeper hold, Kit stops Fane from cutting a cold unit; his guard abandons him after his death exposes the true cargo.',tension:5},
-  {end:43,title:'The First Berth',loc:'shaft',cast:['osh','kit'],description:'Osh confirms Johanna Aalto’s berth survived untouched and Kit asks where the missing pilot cell lies.',tension:4},
-  {title:'Toward the Pilot Cell',loc:'shaft',cast:['osh','kit'],description:'Osh and Kit cross all forty rows and descend the frozen maintenance well toward the pilot’s sealed compartment.',tension:4}],
+  {end:4,title:'Shaft',loc:'shaft',cast:['osh','kit','fane'],description:'At the shaft head and ladder, Osh, Kit, and Fane descend through the buried entrance toward the cold rows.',tension:5},
+  {end:36,title:'Fane in the Cold Rows',loc:'sleeper-hold',cast:['osh','kit','fane'],description:'Inside the sleeper hold, Kit stops Fane from cutting a cold unit; his guard abandons him after his death exposes the true cargo.',tension:5},
+  {end:43,title:'The First Berth',loc:'sleeper-hold',cast:['osh','kit'],description:'Osh confirms Johanna Aalto’s berth survived untouched and Kit asks where the missing pilot cell lies.',tension:4},
+  {title:'Toward the Pilot Cell',loc:'sleeper-hold',cast:['osh','kit'],description:'Osh and Kit cross all forty rows and descend the frozen maintenance well toward the pilot’s sealed compartment.',tension:4}],
  44:[
   {end:17,title:'Waking',loc:'cold-cell',cast:['osh','kit'],description:'Osh opens the pilot cell, finds Ilse Varga and reads the letter that transfers custody of the sleeping colony.',tension:5},
-  {end:25,title:'Row Thirty-One',loc:'deck-nine',cast:['osh','kit'],description:'Back among the berths, Kit finds Ama Okafor’s plate and asks Osh to wake the child named in Bram’s ledger.',tension:5},
-  {title:'Berth Twelve',loc:'deck-nine',cast:['osh','kit','ama'],description:'Ama wakes after seven centuries, hears that her father left a letter, and faces the remaining green lights with Osh and Kit.',tension:5}]
+  {end:25,title:'Row Thirty-One',loc:'row-thirty-one',cast:['osh','kit'],description:'Back among the buried berths, Kit finds Ama Okafor’s plate and asks Osh to wake the child named in Bram’s ledger.',tension:5},
+  {title:'Berth Twelve',loc:'row-thirty-one',cast:['osh','kit','ama'],description:'Ama wakes after seven centuries, hears that her father left a letter, and faces the remaining green lights with Osh and Kit.',tension:5}]
 }
 
 export const plans=[
@@ -69,7 +85,7 @@ export const plans=[
  ['compact','ring-b',['neve','calloway'],'Mother Calloway gives Neve the old Kin song and its insistence that the count must continue.',2],
  ['quiet','wreck',['osh','kit','saba','corso'],'The salvage crew enters dangerous wreckage to recover equipment for Fane’s expedition.',4],
  ['quiet','wreck',['osh','kit','saba'],'A surviving recorder changes what the crew believes about the history they have been hired to disturb.',4],
- ['mercy','store',['ilse','bram'],'Ilse finds the strongbox evidence Bram has preserved and chooses to hear the argument he has been forbidden to make openly.',3],
+ ['mercy','store',['ilse','bram','tamsin'],'Ilse and Tamsin read the strongbox charter Bram has preserved and confront the ownership motive hidden inside the landfall arithmetic.',3],
  ['mercy','observation',['ilse','kesh'],'Kesh meets Ilse beneath the growing planet and reveals how command intends to spend the sleepers’ lives.',4],
  ['compact','shaft-twelve',['neve','jory'],'At the scene of the miners’ deaths, the official account and the surviving traces refuse to agree.',4],
  ['compact','archive-stair',['neve'],'Hidden orders expose the origin of an old prohibition and the purpose of the institution Neve serves.',4],
@@ -83,16 +99,16 @@ export const plans=[
  ['quiet','interdict-field',['osh','kit','saba','corso'],'The expedition crosses the ice to the prohibited field while Fane’s observer watches them begin drilling.',4],
  ['mercy','archive-locker',['ilse'],'Old drawings reveal that the ship’s founding plan anticipated the same impossible choice now presented as necessity.',4],
  ['mercy','ducts',['ilse','tamsin'],'Tamsin calculates the narrow path that can preserve the sleepers if the crew accepts the cost of a single attempt.',4],
- ['compact','watch-house',['neve'],'The Watch arrests Neve while the chain of omissions around the Roll closes around her.',4],
+ ['compact','ring-b',['neve','jory','calloway'],'The Watch arrests Jory in Mother Calloway’s front room while the chain of omissions around the Roll closes around Neve.',4],
  ['compact','conservation',['neve','hal'],'Hal confesses his part in preserving the silence and leaves Neve with the Roll, the card, and her decision.',5],
  ['quiet','interdict-field',['osh','kit','saba','fane','corso'],'The crew seizes the Key as Fane’s claim collapses into violence at the buried entrance.',5],
  ['quiet','crawler',['osh','kit','saba'],'While Saba sleeps wounded, Kit reads the Names and the surviving crew prepares to descend at first light.',3],
  ['mercy','bridge',['tamsin','kesh','lund'],'During the final burn, Tamsin holds to the secret descent plan while Kesh and Lund watch the sleeper drum break free toward Ninefold.',5],
  ['mercy','deck-nine',['ilse','hollin'],'Ilse seals forty rows, loses the deck to pressure and fire, and continues the warden’s record while the ship falls.',5],
- ['mercy','bridge',['hollin','tamsin'],'Hollin returns the Key to the bridge and a new warden begins the account that later centuries will inherit.',4],
+ ['mercy','bridge',['hollin','tamsin','kesh'],'Hollin returns the Key, Kesh forces the Wardenry on Tamsin, and she begins the hidden account in her cabin.',4],
  ['compact','hall',['neve'],'On the eve of the tricentennial, Neve prepares the Roll and herself for a public breach of custody.',4],
- ['compact','hall',['neve','warden','jory','rhee'],'Neve broadcasts the omitted record as the Kin song and the crowd’s movement turn ceremony into revolt.',5],
- ['compact','obedient',['rhee'],'Captain Rhee rejects the sealed order to destroy the evidence and chooses to leave the sleepers for whoever comes.',4],
+ ['compact','hall',['neve','warden','calloway'],'Neve broadcasts the omitted record while the narrative opens the same hatch seven centuries later and returns to the Kin song in the Hall.',5],
+ ['compact','obedient',['rhee','ansel'],'Captain Rhee and Lieutenant Ansel reject the sealed order to destroy the evidence and leave the sleepers for whoever comes.',5],
  ['quiet','shaft',['osh','kit','saba'],'The surviving crew descends the engineered shaft beneath the ice with the Key and the Names.',5],
  ['quiet','cold-cell',['osh','kit','ama'],'Osh and Kit wake Ama Okafor, confirm the remaining lights, and begin reading the letter left across seven centuries.',5]
 ]
@@ -129,6 +145,7 @@ export const locations={
  observation:['mercy','Observation blister','A glass blister faces Hesper and gives private decisions the scale of the approaching world.'],
  ducts:['mercy','Forward service ducts','Narrow maintenance passages bypass watched corridors and carry people and records through the ship.'],
  bridge:['mercy','Mercy bridge','Navigation and command converge here during burn and landfall.'],
+ 'tamsin-cabin':['mercy','Tamsin’s cabin','A dark private cabin where Tamsin keeps Bram’s Ledger and writes the first hidden line in iron gall.'],
  'archive-locker':['mercy','Archive locker','Old ship drawings preserve plans that official memory no longer explains.'],
  hall:['compact','Hall of Muster','The Roll stands in a nave-like public archive used for marriage, schooling, investiture, and Landfall ritual.'],
  spine:['compact','The Spine','The old axial shaft has become the Compact’s bright main street and news corridor.'],
@@ -149,6 +166,9 @@ export const locations={
  gallows:['reach','Gallows Town','A Ninefold mining settlement stands beside Calloway’s Rift and the memory of the old ban.'],
  'interdict-field':['reach','Interdict Field','An empty reach of ice east of Gallows Town conceals a sealed shaft.'],
  crawler:['reach','Ice crawler','The expedition’s heated vehicle becomes shelter after violence at the field.'],
- shaft:['reach','Buried shaft','An engineered descent beneath Ninefold’s ice leads toward the preserved cold cell.'],
- 'cold-cell':['reach','Cold cell','A tiny frosted chamber holds one waking station and access to the remaining sleepers.']
+ shaft:['reach','Buried shaft','An engineered descent beneath Ninefold’s ice leads toward the preserved sleeper drum.'],
+ 'recovery-hatch':['hold','Recovery hatch','The keyed hatch and ladder open from the bore into the blue-lit sleeper drum.'],
+ 'sleeper-hold':['hold','The cold rows','Forty radial aisles hold four thousand intact berths around the buried drum’s central gangway.'],
+ 'row-thirty-one':['hold','Row Thirty-One','Ama Okafor’s berth lies among one hundred green-lit cold units in the thirty-first radial row.'],
+ 'cold-cell':['hold','Pilot cell','A maintenance well at the rim descends to Ilse Varga’s isolated waking station.']
 }

@@ -12,8 +12,8 @@ describe('The Cold Choir reading edition',()=>{
  })
  it('preserves the complete manuscript across reviewed paragraph cuts',()=>{
   expect(d.chapters).toHaveLength(21)
-  expect(d.events).toHaveLength(62)
-  expect(d.sceneTexts).toHaveLength(62)
+  expect(d.events).toHaveLength(70)
+  expect(d.sceneTexts).toHaveLength(70)
   expect(d.sceneTexts.reduce((n:number,s:any)=>n+s.wordCount,0)).toBe(48573)
   expect(d.sceneTexts.at(-1).text.replace(/_/g,'').trimEnd().endsWith('"Row Thirty-One, berth twelve—"')).toBe(true)
  })
@@ -24,6 +24,12 @@ describe('The Cold Choir reading edition',()=>{
    expect(new Set(snapshots(e.title).map((s:any)=>s.characterId))).toEqual(new Set(e.involvedCharacterIds))
    expect(e.involvedCharacterIds.some((id:string)=>e.mentionedCharacterIds.includes(id))).toBe(false)
   }
+  expect(event('Strongbox').involvedCharacterIds).toContain('cold-choir-char-tamsin')
+  expect(new Set(event('Arrest').involvedCharacterIds)).toEqual(new Set(['cold-choir-char-neve','cold-choir-char-jory','cold-choir-char-calloway']))
+  expect(new Set(event('The Warden').involvedCharacterIds)).toEqual(new Set(['cold-choir-char-tamsin','cold-choir-char-kesh']))
+  expect(event("Rhee's Choice").involvedCharacterIds).toContain('cold-choir-char-ansel')
+  expect(event('Rhee at the Vigil').involvedCharacterIds).toContain('cold-choir-char-rhee')
+  expect(event('The Broadcast').involvedCharacterIds).toContain('cold-choir-char-calloway')
  })
  it('gates Ama physical presence to the final scene',()=>{
   const ama='cold-choir-char-ama'
@@ -38,5 +44,16 @@ describe('The Cold Choir reading edition',()=>{
  })
  it('uses bottom-origin map coordinates inside every plate',()=>{
   for(const marker of d.locationMarkers){const map=d.mapLayers.find((m:any)=>m.id===marker.mapLayerId);expect(marker.x).toBeGreaterThanOrEqual(0);expect(marker.x).toBeLessThanOrEqual(map.imageWidth);expect(marker.y).toBeGreaterThanOrEqual(0);expect(marker.y).toBeLessThanOrEqual(map.imageHeight)}
+  const hold=d.mapLayers.find((m:any)=>m.id==='cold-choir-map-hold')
+  expect(hold.parentMapId).toBe('cold-choir-map-reach')
+  expect(d.locationMarkers.filter((m:any)=>m.linkedMapLayerId===hold.id).map((m:any)=>m.id)).toEqual(['cold-choir-loc-shaft'])
+  expect(event('Row Thirty-One').locationMarkerId).toBe('cold-choir-loc-row-thirty-one')
+ })
+ it('uses source-relative elapsed time and keeps the embedded future action in the Quiet',()=>{
+  expect(event('The Hatch Opens').timelineId).toBe('cold-choir-timeline-quiet')
+  for(const timeline of d.timelines){
+   const events=d.events.filter((e:any)=>e.timelineId===timeline.id)
+   for(let i=0;i<events.length;i++)expect(events[i].travelDays).toBe(i===0?0:events[i].inWorldTime-events[i-1].inWorldTime)
+  }
  })
 })

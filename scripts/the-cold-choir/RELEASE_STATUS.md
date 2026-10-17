@@ -1,28 +1,60 @@
 # The Cold Choir — local release evidence
 
-The complete authorized reading-mode edition is ready for review on branch `feature/the-cold-choir-reading-edition`. Remote publication remains intentionally untouched.
+Status: complete locally on `feature/the-cold-choir-reading-edition`. No push,
+pull request, or merge has been performed.
 
 ## Package
 
-- Source: creator-supplied original English manuscript by Solomon Darko, copyright 2026, authorized for this edition.
-- Source archive: 259,445 bytes; SHA-256 `22c091779484a001a52c8cea193028efa8f941abd61f708ca50b8236137366a8`.
-- Retained text: 21 chapters, 44 authorial sections, 62 reviewed scenes, 48,573 words.
-- World model: 3 separated timelines, 21 characters, 143 character snapshots, 29 locations, 3 maps, 9 items.
-- Artwork: 69 single-copy PNG assets: 1 world, 21 character, 9 item, 29 location, 6 faction, and 3 map images.
-- PWK: 504,030 bytes; SHA-256 `921f8ece45a80d277a2088720489a7ee62e98637f2c2709f2bb9b10a01dbce12`.
+- Source: creator-supplied original English manuscript by Solomon Darko,
+  copyright 2026, authorized for this edition.
+- Source archive: 259,445 bytes; SHA-256
+  `22c091779484a001a52c8cea193028efa8f941abd61f708ca50b8236137366a8`.
+- Retained text: 21 chapters, 44 authorial sections, 70 reviewed scenes,
+  48,573 words.
+- World model: 3 separated timelines, 21 characters, 163 character snapshots,
+  33 locations, 4 maps, and 9 items.
+- Artwork: 74 single-copy PNG assets: 1 world, 21 character, 9 item,
+  33 location, 6 faction, and 4 map images.
+- PWK: 522,778 bytes; SHA-256
+  `fe50eb724f2182c8a9f6aa08ea0bd20dbeeaaf39e6c538bbf94884563b236275`.
+
+## Corrective review
+
+The repeat validation findings in `REVALIDATION.md` are resolved in the source
+model and protected by the dedicated validator and Vitest regression checks.
+The correction adds Tamsin to Strongbox; restores Jory and Mother Calloway to
+Arrest; separates Hollin, Kesh, and Tamsin at the Warden handoff; adds Rhee to
+the vigil and Ansel to Rhee's decision; separates the Quiet interlude inside
+The Broadcast; and moves the final cold rows to a nested Ninefold sleeper-hold
+map. Snapshot notes now come from reviewed event descriptions rather than
+sentences selected from the manuscript.
+
+Chronology uses source-relative days within each of the three strands. It
+records explicit anchors including the nine-day council interval, the
+eighteen-hour store-fire interval, the forty-day landfall approach,
+Investiture eighteen days before the Tricentennial, the arrest conversation
+four days before it, and the first day of 311 AL. Hundredths of a day preserve
+the order of immediate paragraph cuts.
 
 ## Validation
 
-- Exact normalized reconstruction matches the archived manuscript, including the final line.
-- The book validator passes and rejects a deliberate prose mutation.
-- Two consecutive generator runs produced the same PWK SHA-256.
-- Catalogue: 54 worlds, exact byte count.
-- Tests: 17 files and 946 tests passed.
-- Gate: 946 tests, 0 failing, 0 expected failures.
+- Exact normalized reconstruction matches the archived manuscript, including
+  the final line; the mutation test is rejected.
+- Two consecutive final generator runs produced the same byte count and SHA.
+- Catalogue: 54 worlds with the exact 522,778-byte PWK size.
+- Tests: 17 files and 947 tests passed.
+- Gate: 947 tests, 0 failing, 0 expected failures.
 - `git diff --check`: passed.
 
 ## Application review
 
-Automated browser QA used the latest local development app commit `37aa07e881d853e650e9c1d63da6a70d0c7485ec` and the final PWK hash above. It passed download/import, opening and sequential reading reveals, all three timeline manuscripts in Draft and Reading views, ten supporting views, 29 location markers, all three map images, four representative cross-era playback transitions, all visible artwork, the final line, and a clean console. Nested gateways are not applicable because the maps are separate era-scale views rather than parent and child geography.
+Fresh automated browser QA used Kathala development commit
+`e920677e47ad79ea110c37855f0e0e05749e52e2` and the PWK hash above. It passed
+download/import, the reading-mode opening and sequential reveal, all three
+timeline manuscripts in Cards and Read views, ten supporting views, 33
+locations, four map images, the Reach-to-sleeper-hold gateway, eight distinct
+map transitions in playback, all visible artwork, the final line, and a clean
+browser console.
 
-See `qa/ui-results.json` and the retained screenshots for machine-readable and visual evidence.
+See `qa/ui-results.json` and the retained screenshots for machine-readable and
+visual evidence.

@@ -13,15 +13,17 @@ const worldImage=png('world','cover','art/world.png')
 const mapDefs={
  mercy:['The Mercy Before Landfall','A longitudinal cutaway of the generation ship during deceleration and landfall.'],
  compact:['Tolland Station, 310 AL','The Compact’s rings, Spine, institutions and docks built through and around the old Mercy.'],
- reach:['The Reach, 742 AL','An orbital navigator’s chart linking Hesper, Ninefold, the Hulk, the Scree and the Interdict Field.']
+ reach:['The Reach, 742 AL','An orbital navigator’s chart linking Hesper, Ninefold, the Hulk, the Scree and the Interdict Field.'],
+ hold:['The Cold Rows beneath Ninefold','A topographic cutaway of the circular sleeper drum buried beneath 284 metres of ice.']
 }
-const mapLayers=Object.entries(mapDefs).map(([key,[name,description]],i)=>{const a=png('map',key,`maps/${key}.png`);if(!a)throw Error(`Missing map ${key}`);return{...stamp,id:id('map',key),name,description,parentMapId:null,imageId:a.id,imageWidth:a.width,imageHeight:a.height,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:null,levelIndex:i,levelLabel:null}})
+const mapLayers=Object.entries(mapDefs).map(([key,[name,description]],i)=>{const a=png('map',key,`maps/${key}.png`);if(!a)throw Error(`Missing map ${key}`);return{...stamp,id:id('map',key),name,description,parentMapId:key==='hold'?id('map','reach'):null,imageId:a.id,imageWidth:a.width,imageHeight:a.height,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:key==='hold'?id('map','reach'):null,levelIndex:key==='hold'?1:i,levelLabel:key==='hold'?'284 m below Ninefold ice':null}})
 const coords={
- mercy:{'deck-nine':[980,520],medbay:[285,650],'forward-hold':[515,700],store:[480,390],observation:[120,510],ducts:[680,770],bridge:[150,520],'archive-locker':[420,700]},
+ mercy:{'deck-nine':[980,520],medbay:[285,650],'forward-hold':[515,700],store:[480,390],observation:[120,510],ducts:[680,770],bridge:[150,520],'archive-locker':[420,700],'tamsin-cabin':[760,420]},
  compact:{hall:[185,520],spine:[760,510],conservation:[310,650],'warden-residence':[250,400],'ring-b':[720,760],'shaft-twelve':[1340,700],'archive-stair':[390,360],'hal-rooms':[610,690],'watch-house':[970,660],obedient:[1380,530]},
- reach:{pelican:[1180,230],'counting-house':[300,270],'pelican-galley':[1160,270],'hulk-spine':[260,290],wreck:[1090,190],chapel:[320,330],gallows:[1330,680],'interdict-field':[1430,790],crawler:[1370,740],shaft:[1450,820],'cold-cell':[1460,850]}
+ reach:{pelican:[1180,230],'counting-house':[300,270],'pelican-galley':[1160,270],'hulk-spine':[260,290],wreck:[1090,190],chapel:[320,330],gallows:[1330,680],'interdict-field':[1430,790],crawler:[1370,740],shaft:[1450,820]},
+ hold:{'recovery-hatch':[770,920],'sleeper-hold':[770,560],'row-thirty-one':[1120,360],'cold-cell':[770,512]}
 }
-const locationMarkers=Object.entries(locDefs).map(([key,[map,name,description]])=>({...stamp,id:id('loc',key),name,description,mapLayerId:id('map',map),linkedMapLayerId:null,x:coords[map][key][0],y:coords[map][key][1],iconType:'landmark',imageId:png('location',key,`art/locations/${key}.png`)?.id??null,tags:[],factionId:null}))
+const locationMarkers=Object.entries(locDefs).map(([key,[map,name,description]])=>({...stamp,id:id('loc',key),name,description,mapLayerId:id('map',map),linkedMapLayerId:key==='shaft'?id('map','hold'):null,x:coords[map][key][0],y:coords[map][key][1],iconType:'landmark',imageId:png('location',key,`art/locations/${key}.png`)?.id??null,tags:[],factionId:null}))
 
 const colors=['#7289a1','#a97665','#8b8478','#688278','#a88d58','#69788d','#7d6e85','#8d725e','#7b8b69','#746b91','#8a6f72','#9a825f','#6f8790','#8b6e55','#6d8172','#856f65','#777b86','#87735d','#8795a2','#8f7868','#667b87']
 const characters=Object.entries(charDefs).map(([key,[name,description]],i)=>({...stamp,id:id('char',key),name,aliases:[],description,color:colors[i%colors.length],portraitImageId:png('character',key,`art/characters/${key}.png`)?.id??null,isAlive:true,birthDate:null,tags:[],nameChanges:[]}))
@@ -46,28 +48,28 @@ const itemByEvent={
  'The Store Burns':['ledger'],'Tamsin Takes the Book':['ledger'],'The First Line':['roll','notebook'],Hal:['notebook','card'],
  'Old Drawings':['drawings'],'The Navigator':['drawings'],Arrest:['notebook'],"Hal's Confession":['roll','notebook','card'],
  Thieves:['key'],'The Decision to Steal':['key'],'The Key Taken':['key'],'Kit Reads':['key','names'],'The Fourth Release':['ledger'],
- 'Ninefold Descent':['ledger'],'The Warden':['key','ledger'],'The Last Rows':['roll','notebook'],'The Broadcast':['roll','notebook','names'],
- "Rhee's Choice":['recorder'],Shaft:['key','names'],'The First Berth':['key','names'],'Toward the Pilot Cell':['key','names'],
+ 'Ninefold Descent':['ledger'],'The Key Returned':['key'],'The Warden':['key'],'The First Hidden Line':['key','ledger'],'The Last Rows':['roll','notebook'],'The Broadcast':['roll','notebook'],'The Hatch Opens':['key','names'],'The Hall Answers':['roll','notebook'],
+ "Rhee's Choice":['recorder'],Shaft:['key','names'],'Fane in the Cold Rows':['key','names'],'The First Berth':['key','names'],'Toward the Pilot Cell':['key','names'],
  Waking:['key','names','letter'],'Row Thirty-One':['names','letter'],'Berth Twelve':['names','letter']
 }
 
 const timelineDefs={
- mercy:['The Mercy · 1 BL','The final deceleration and landfall aboard the generation ship, preserved as its own chronology. Numeric positions are source-order indices; no unstated elapsed days are invented.','#59758c',-365],
- compact:['The Compact · 310–311 AL','The station’s tricentennial crisis and Neve Castellan’s archival investigation. Numeric positions are source-order indices; no unstated elapsed days are invented.','#776f86',310*365],
- quiet:['The Quiet · 742 AL','Osh Teague’s salvage voyage from the Hulk to Ninefold and the buried cold rows. Numeric positions are source-order indices; no unstated elapsed days are invented.','#8b694f',742*365]
+ mercy:['The Mercy · 1 BL','Source-relative days from the opening cold-row inspection through Landfall Day. Anchors include nine days to the council, eighteen hours after the store fire, forty days to the final burn, and the first day of Landfall.','#59758c',-365],
+ compact:['The Compact · 310–311 AL','Source-relative days leading to the Tricentennial: Investiture is eighteen days before it, the arrest conversation says four days remain, and the broadcast begins on the first day of 311 AL.','#776f86',310*365],
+ quiet:['The Quiet · 742 AL','Source-relative expedition days from the opening salvage through the Ninefold descent. Same-day fractions preserve explicitly immediate transitions without inventing calendar dates.','#8b694f',742*365]
 }
 const timelines=Object.entries(timelineDefs).map(([key,[name,description,color,dayOffset]])=>({...stamp,id:id('timeline',key),name,description,color,dayOffset}))
 const mentionMatchers={ilse:/\bIlse\b/g,tamsin:/\bTamsin\b/g,oyelaran:/\b(?:Oyelaran|Ines)\b/g,kesh:/\bKesh\b/g,bram:/\bBram\b/g,hollin:/\bHollin\b/g,neve:/\bNeve\b/g,hal:/\bHal\b/g,jory:/\bJory\b/g,rhee:/\bRhee\b/g,warden:/\bWarden-General\b/g,calloway:/\bMother Calloway\b/g,osh:/\bOsh\b/g,kit:/\bKit\b/g,saba:/\bSaba\b/g,fane:/\bFane\b/g,corso:/\bCorso\b/g,lio:/\bBrother Lio\b/g,lund:/\b(?:Sefa|Lund)\b/g,ansel:/\bAnsel\b/g,ama:/\bAma\b/g}
-function snapshotNote(key,sceneText){
- const matcher=new RegExp(mentionMatchers[key].source,'i')
- const sentences=sceneText.replace(/\n+/g,' ').split(/(?<=[.!?])\s+/)
- const candidates=sentences.filter(sentence=>matcher.test(sentence)).sort((a,b)=>b.length-a.length)
- const found=candidates[0]??sentences[0]
- const excerpt=found.replace(/[_*]/g,'').replace(/\s+/g,' ').trim()
- return `${charDefs[key][0]} — ${excerpt.length>220?excerpt.slice(0,217).replace(/\s+\S*$/,'')+'…':excerpt}`
+function snapshotNote(key,segment,loc){
+ return `${charDefs[key][0]} at ${loc.name}: ${segment.description}`
+}
+const sectionDays={
+ mercy:{1:0,2:1,7:10,8:11,13:15,14:16,19:18,20:19,25:20,26:20.75,31:25,32:26,37:40,38:40.5,39:41},
+ compact:{3:0,4:1,9:2,10:3,15:6,16:7,21:12,22:13,27:14,28:15,33:20,34:21,40:23,41:24,42:24.25},
+ quiet:{5:0,6:1,11:2,12:3,17:4,18:4.25,23:5,24:6,29:7,30:8,35:11,36:11.25,41:12,43:12.25,44:12.5}
 }
 const chapters=[],events=[],sceneTexts=[],characterSnapshots=[],itemPlacements=[]
-const eraOrder={mercy:0,compact:0,quiet:0};let planIndex=0,sortOrder=0
+const previousTime={mercy:null,compact:null,quiet:null};let planIndex=0,sortOrder=0
 for(let ci=0;ci<sourceChapters.length;ci++){
  const c=sourceChapters[ci], chapterPlans=plans.slice(planIndex,planIndex+c.sections.length);if(chapterPlans.some(p=>p[0]!==chapterPlans[0][0]))throw Error(`Mixed era in chapter ${ci+1}`)
  const era=chapterPlans[0][0],chapterId=id('chapter',ci+1)
@@ -80,12 +82,17 @@ for(let ci=0;ci<sourceChapters.length;ci++){
   const segment=segmentDefs[gi],segmentStart=paragraphStart,paragraphEnd=segment.end??paragraphs.length
   if(paragraphEnd<=paragraphStart||paragraphEnd>paragraphs.length)throw Error(`Invalid split in section ${planIndex+1}`)
   const sceneText=paragraphs.slice(paragraphStart,paragraphEnd).join('\n\n');paragraphStart=paragraphEnd
-  const sceneTitle=segment.title,eventId=id('event',`${ci+1}-${si+1}-${gi+1}`),loc=locationMarkers.find(x=>x.id===id('loc',segment.loc)),inWorldTime=eraOrder[era]++,used=itemByEvent[sceneTitle]??[]
-  const threadKeys=[era, /Roll|Names|Ledger|Line|Drawings|Recorder|Broadcast|Waking/i.test(section.title)?'count':'',/Key|Investiture|Warden|Thieves/i.test(section.title)?'key':''].filter(Boolean)
+  const sceneEra=segment.era??era,baseDay=sectionDays[sceneEra][planIndex+1]
+  if(baseDay===undefined)throw Error(`Missing chronology for ${sceneEra} section ${planIndex+1}`)
+  const sceneTitle=segment.title,eventId=id('event',`${ci+1}-${si+1}-${gi+1}`),loc=locationMarkers.find(x=>x.id===id('loc',segment.loc)),inWorldTime=baseDay+gi/100,used=itemByEvent[sceneTitle]??[]
+  const travelDays=previousTime[sceneEra]===null?0:inWorldTime-previousTime[sceneEra]
+  if(travelDays<0)throw Error(`Negative chronology at ${sceneTitle}`)
+  previousTime[sceneEra]=inWorldTime
+  const threadKeys=[sceneEra, /Roll|Names|Ledger|Line|Drawings|Recorder|Broadcast|Waking/i.test(section.title)?'count':'',/Key|Investiture|Warden|Thieves/i.test(section.title)?'key':''].filter(Boolean)
   const mentioned=Object.entries(mentionMatchers).filter(([key,re])=>!segment.cast.includes(key)&&new RegExp(re.source,re.flags.replace('g','')).test(sceneText)).map(([key])=>id('char',key))
-  events.push({...stamp,id:eventId,chapterId,timelineId:id('timeline',era),title:sceneTitle,description:segment.description,locationMarkerId:loc.id,involvedCharacterIds:segment.cast.map(x=>id('char',x)),mentionedCharacterIds:mentioned,involvedItemIds:used.map(x=>id('item',x)),threadIds:threadKeys.map(x=>id('thread',x)),motifIds:[id('motif','breath'),id('motif','names')],sortOrder:sortOrder++,travelDays:0,inWorldTime,tension:segment.tension,tags:[`Authorial section: ${section.title}`,`Paragraphs ${segmentStart+1}-${paragraphEnd}`,'Calendar position: ordinal within this era; elapsed days unstated'],structureBeat:null,status:'final',povCharacterId:id('char',segment.cast[0]),isFlashback:false})
+  events.push({...stamp,id:eventId,chapterId,timelineId:id('timeline',sceneEra),title:sceneTitle,description:segment.description,locationMarkerId:loc.id,involvedCharacterIds:segment.cast.map(x=>id('char',x)),mentionedCharacterIds:mentioned,involvedItemIds:used.map(x=>id('item',x)),threadIds:threadKeys.map(x=>id('thread',x)),motifIds:[id('motif','breath'),id('motif','names')],sortOrder:sortOrder++,travelDays,inWorldTime,tension:segment.tension,tags:[`Authorial section: ${section.title}`,`Paragraphs ${segmentStart+1}-${paragraphEnd}`,`Source-relative day ${inWorldTime}`],structureBeat:null,status:'final',povCharacterId:id('char',segment.cast[0]),isFlashback:false})
   sceneTexts.push({...stamp,id:id('scene',`${ci+1}-${si+1}-${gi+1}`),eventId,text:sceneText,wordCount:countWords(sceneText)})
-  segment.cast.forEach((key,n)=>characterSnapshots.push({...stamp,id:id('snapshot',`${ci+1}-${si+1}-${gi+1}-${key}`),characterId:id('char',key),eventId,isAlive:!(section.title==='The Store Burns'&&key==='bram'),currentLocationMarkerId:loc.id,currentMapLayerId:loc.mapLayerId,inventoryItemIds:[],inventoryNotes:'',travelModeId:null,sortKey:sortOrder+n/100,statusNotes:snapshotNote(key,sceneText)}))
+  segment.cast.forEach((key,n)=>characterSnapshots.push({...stamp,id:id('snapshot',`${ci+1}-${si+1}-${gi+1}-${key}`),characterId:id('char',key),eventId,isAlive:!(section.title==='The Store Burns'&&key==='bram'),currentLocationMarkerId:loc.id,currentMapLayerId:loc.mapLayerId,inventoryItemIds:[],inventoryNotes:'',travelModeId:null,sortKey:sortOrder+n/100,statusNotes:snapshotNote(key,segment,loc)}))
   used.forEach((key,n)=>itemPlacements.push({...stamp,id:id('placement',`${ci+1}-${si+1}-${gi+1}-${key}`),itemId:id('item',key),eventId,locationMarkerId:loc.id,sortKey:n,notes:`The item is directly present during “${sceneTitle}”.`}))
   }
  }
@@ -104,7 +111,8 @@ const loreCategories=[['edition','Edition'],['history','Eras and institutions'],
 const lorePages=[
  ['source','edition','Text and rights',`This reading edition preserves the complete creator-supplied manuscript of The Cold Choir by Solomon Darko: twenty-one chapters, forty-four authorial sections, and ${countWords(narrativeText).toLocaleString()} narrative words. Copyright © 2026 Solomon Darko. All rights reserved.`,'The Cold Rows'],
  ['eras','history','Three separated eras','The novel alternates among the Mercy in 1 Before Landfall, the Compact in 310–311 After Landfall, and the Quiet in 742 After Landfall. The timelines remain separate; objects, records and testimony connect them.','The Cold Rows'],
- ['maps','edition','Maps and illustrations','The three navigational plates and the world, character, place and object illustrations are original OpenAI ImageGen artwork. The maps are interpretive reading aids grounded in the manuscript’s ship, station and system geography.','The Cold Rows'],
+ ['maps','edition','Maps and illustrations','Four original OpenAI ImageGen plates map the Mercy, Tolland Station, the Reach, and the buried sleeper drum. The nested Ninefold map is reached through the buried-shaft gateway; marker positions use image coordinates measured from the bottom edge.','The Cold Rows'],
+ ['chronology','edition','Chronology method','Each strand uses source-relative days rather than pretending to a single universal calendar. Explicit anchors fix the Mercy council nine days after the captain’s death, the eighteen-hour store-fire interval, the forty-day landfall approach, Investiture eighteen days before the Tricentennial, the arrest conversation four days before it, and the first day of 311 AL. Immediate scene cuts use hundredths of a day only to preserve order.','The Cold Rows'],
  ['landfall','history','Before and After Landfall','Dates use the settlement’s own era. Before Landfall belongs to the approaching generation ship; After Landfall measures the societies that inherit it.','The Cold Rows'],
  ['mercy','science','The Mercy of Tolland','The generation ship carries four thousand specialists and children in cold berths while a living crew maintains the vessel across the voyage.','The Cold Rows']
 ].map(([key,cat,title,body,visible])=>({...stamp,id:id('lore',key),categoryId:id('lore-category',cat),title,body,visibleFromEventId:first(visible),tags:[],coverImageId:null,linkedEntityIds:[]}))

@@ -1,18 +1,23 @@
 {
-  "applicationCommit": "37aa07e881d853e650e9c1d63da6a70d0c7485ec",
-  "pwkSha256": "921f8ece45a80d277a2088720489a7ee62e98637f2c2709f2bb9b10a01dbce12",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "pwkSha256": "fe50eb724f2182c8a9f6aa08ea0bd20dbeeaaf39e6c538bbf94884563b236275",
   "download": true,
   "readingModeOpening": true,
   "readingModeSequentialReveal": true,
   "manuscriptTimelines": 3,
   "layouts": [
-    "draft",
-    "reading"
+    "cards",
+    "read"
   ],
   "supportingViews": 10,
-  "maps": 3,
-  "mapPins": 29,
-  "gateways": "not applicable: independent era maps have no nested geography",
+  "maps": 4,
+  "mapPins": 33,
+  "gateways": {
+    "count": 1,
+    "from": "cold-choir-loc-shaft",
+    "to": "cold-choir-map-hold",
+    "activated": true
+  },
   "playbackTransitions": [
     {
       "before": "After the Bell",
@@ -36,7 +41,31 @@
       "before": "The Fourth Release",
       "after": "Ninefold Descent",
       "from": "cold-choir-map-mercy",
-      "to": "cold-choir-map-reach"
+      "to": "cold-choir-map-hold"
+    },
+    {
+      "before": "Ninefold Descent",
+      "after": "The Key Returned",
+      "from": "cold-choir-map-hold",
+      "to": "cold-choir-map-mercy"
+    },
+    {
+      "before": "The Broadcast",
+      "after": "The Hatch Opens",
+      "from": "cold-choir-map-compact",
+      "to": "cold-choir-map-hold"
+    },
+    {
+      "before": "The Hatch Opens",
+      "after": "The Hall Answers",
+      "from": "cold-choir-map-hold",
+      "to": "cold-choir-map-compact"
+    },
+    {
+      "before": "Shaft",
+      "after": "Fane in the Cold Rows",
+      "from": "cold-choir-map-reach",
+      "to": "cold-choir-map-hold"
     }
   ],
   "finalLine": true,
