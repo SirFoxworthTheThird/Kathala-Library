@@ -1,0 +1,2755 @@
+# Ch. 1 — Deceleration
+
+## The Cold Rows
+
+_The Mercy · 1 BL_
+
+The cold rows did not sing. People who had never worked Deck Nine said they did, because the old hands told them so, and the old hands told them so because it was easier than explaining what the sound actually was: four thousand compressors cycling out of step, a long sigh that went up and down the hold like breath going in and out of a sleeping animal the size of a town.
+
+Ilse Varga had listened to it for twenty-two years. She could hear a bad bearing in Row Thirty from the hatch at Row One. She could hear when a seal was tired. She could hear, she sometimes thought, when one of them was dreaming, though that was the kind of thing you said to yourself at the end of a double shift and not out loud.
+
+"You're doing it again," said Tamsin.
+
+"Doing what."
+
+"Stopping. Listening. Like a dog at a door."
+
+Ilse started walking again. Her boots rang on the grating. Below the grating was a three-metre drop to the coolant trays, and below the coolant trays was the outer hull, and below the outer hull was a hundred and ninety years of nothing, which was the direction they had come from.
+
+The Mercy of Tolland was turning her back on the dark. For two months the great engines had been burning against their own momentum, and the whole ship hung from them now the way a body hangs from a rope, everything heavier than it had been in living memory. Old men complained about their knees. Children who had never known more than a quarter-gee fell over in corridors and cried with outrage. Up in the crew rings they had stopped the spin to save the bearings, and now down was simply aft, towards the engine deck, and the long axis of the ship had become a tower a kilometre tall that people had to learn to climb.
+
+Deck Nine was the bottom floor of that tower, except for the engines. It lay across the ship's spine like a vast flat drum, forty rows of berths spoked out from the central gangway, a hundred berths to a row. The rows had been built level under thrust, which nobody had thought about for a century and a half because there had been no thrust. Now the berths hung the right way up for the first time since the yard, and Ilse found she could not stop looking at them, as if the whole hold had sat up in bed.
+
+"Row Twelve, berth forty," she said. "Read me the plate."
+
+Tamsin crouched at the foot of the pod. She was nineteen and still moved like a person in quarter-gee, as if she expected the deck to give. Her hair was cropped close in the navigation-school way, and she had her mother's habit of narrowing her eyes at instruments as though they were trying to lie to her.
+
+"Teodor Alesund. Hydrologist. Embarked age thirty-four." She wiped frost from the plate with her sleeve. "Core temperature nominal. Seal pressure nominal. Dream index—" she frowned— "what's a dream index?"
+
+"Nothing. A number the yard put on so the investors would feel the sleepers were having a nice time."
+
+"Is it nominal?"
+
+"It's always nominal. It's a light on a wire. It isn't connected to anything."
+
+Tamsin looked at her to see if this was a joke. It was not. Ilse had traced that wire herself, in her second year, out of the same curiosity, and found it ended in a neat little coil behind the panel, wrapped round itself, going nowhere. She had left it like that. It had seemed rude to tell anyone.
+
+They went on. Tamsin read the plates and Ilse listened. A dozen berths down Row Twelve she put up a hand, and they both stopped, and she knelt at the coolant junction and laid her palm flat on the housing.
+
+"There," she said.
+
+"I don't hear anything."
+
+"You don't hear it. You feel it. Put your hand there."
+
+Tamsin did. Her face went still with concentration and then, slowly, surprised.
+
+"It's—stuttering."
+
+"Pump on the junction's going. It's been going since we started the burn. The yard never meant it to run under weight. The impeller's walking on its shaft." Ilse unhooked the key from her belt.
+
+It was the only thing on the Mercy that had come out of the yard with a name. Every other tool on the ship was a tool. The key was the Key. It was a torque wrench as long as her forearm, its head machined to fit the manual lock-bolts that held every system in the hold—berths, junctions, the great pressure doors at the end of each row—so that when the computers failed, as the yard had assumed they eventually would, a human being with a strong arm could still open and close the cold rows by hand. Its handle was wrapped in some pale composite that the first warden had called bone, as a joke, and that every warden since had called bone because the first warden had. Ilse had scratched her initials into the collar the day it was handed to her, as the wardens before her had, and the collar was crowded with them now: twelve sets of letters, the oldest worn almost smooth.
+
+She fitted it to the junction bolt and leaned. The bolt gave with a sound like a knuckle cracking.
+
+"Your hand," Ilse said, and Tamsin, after a moment, put her hand on the key beside Ilse's, and together they backed the bolt out and drew the impeller housing and Ilse showed her the scoring on the shaft, a bright crescent worn into the steel.
+
+"You can feel that before it fails," Ilse said. "You can always feel it before it fails. The trick is listening for it while it's still a stutter and not a scream."
+
+"Is that a metaphor?"
+
+"No. It's a pump."
+
+Tamsin laughed. It was the first time Ilse had heard her laugh since the captain had gone into medbay, and both of them heard it, and the laugh went out of the air like something that had wandered into the wrong room.
+
+They replaced the impeller from the cart. It took forty minutes. The hold breathed around them. When they were done Tamsin sat back on her heels and looked down Row Twelve, the frosted pods going away into the blue work-light like gravestones in a snowfield, and said, "Do you ever think about who they are?"
+
+"I know who they are. I've read every plate on this deck a thousand times."
+
+"No, I mean—who they are. What they'll be. When we wake them." Tamsin rubbed the frost off the next plate without being asked. "Teodor Alesund, hydrologist. He's going to wake up and look out a window at a planet. That's what he signed up for. His whole life, the one he had before, it's just going to—pick up again. And everything we did up here. Everything my mother did. Your whole life. It's going to be, what, the bit where he was asleep."
+
+"That's the job."
+
+"I know it's the job."
+
+"It's a good job," said Ilse. "Better than most. Nobody shoots at you. Nobody asks you to be clever."
+
+Tamsin was quiet. Then she said, "Mum asked for you. Lund told me. She's been asking for you since yesterday."
+
+Ilse put the key back on her belt. She took longer over it than it needed.
+
+"Then I'd better go up," she said.
+
+## Captain's Bell
+
+The climb from Deck Nine to medbay was four hundred metres of ladder and lift, and under a third of a gee it was a punishment. Ilse took the lift as far as the forward hold and walked the rest along the spine, past crates lashed down for the burn, past a work-crew of children painting arrows on the walls to tell people which way was down now. One of them had painted a small, cheerful sun at the end of his arrow. Somebody had painted over the sun.
+
+Medbay smelled of disinfectant and of a body that had been ill for a long time. Captain Ines Oyelaran lay propped against the bulkhead that was now a floor, in a bed the orderlies had re-rigged for thrust, and she had become so small inside it that for a moment Ilse thought she had come too late.
+
+Then the captain opened her eyes and said, "You took your time."
+
+"Pump on Twelve."
+
+"Of course it was." The captain's voice had gone thin and dry, like paper. "Is the girl with you?"
+
+"Outside."
+
+"Good. Keep her outside a minute." Oyelaran lifted a hand an inch off the blanket and let it fall. "Lund says I'm not going to see it. The planet. The moon. The—" a cough took her, long and wet, and Ilse waited it out, standing with her hands behind her back the way they had stood as cadets. "Whatever we're calling it this week."
+
+"Ninefold," said Ilse. "The navigators took a vote."
+
+"Ninefold." The captain tasted it. "Because of the ice."
+
+"Because of the cracks. It looks like something folded up and opened out again. Nine times, the navigators said. Tamsin counted twelve."
+
+"She would." Something like a smile. "Listen to me, Ilse. I haven't got the breath for this twice." She turned her head, and Ilse saw that there was someone else in the room after all: Aurel Kesh, the First Officer, standing very still in the corner by the medicine locker, the way he stood on the bridge, so that you only noticed him when he wanted to be noticed. He nodded to her. She nodded back. They had been cadets together too, once, a long time ago, in a different weight.
+
+"Aurel has the ship," said the captain. "He's had it for a month, near enough, and the logs will say so. That isn't what I want to talk to you about." She drew a breath that rattled. "You'll have the cold rows until Landfall. After Landfall you'll have them until we've woken every last one. That's your oath and I'm not going to insult you by asking you to say it again."
+
+"No, Captain."
+
+"But I want you to promise me something else."
+
+Ilse waited.
+
+"Whatever the numbers say," said Ines Oyelaran, and her eyes went past Ilse to the corner, to Kesh, and came back. "Whatever they tell you up there. You remember who this ship belongs to."
+
+There was a silence in medbay into which the ship's noises came: the hum of the burn through the bulkheads, a monitor's patient chirp, somebody laughing in the corridor outside and being hushed.
+
+"I don't understand," said Ilse.
+
+"You will." The captain closed her eyes. "Send her in now. I want to see my girl."
+
+Ilse went out. Tamsin was sitting on the floor with her back against the wall, which under thrust was the sensible place to sit, and she looked up with an expression that tried very hard to be nothing and failed. Ilse put a hand on her shoulder. Tamsin went in.
+
+Ilse stood in the corridor. After a little while Kesh came out and stood beside her. He was a tall man, lean in the way of people who had grown up in a quarter-gee and never quite filled out, and he had a face that people trusted without being able to say why. He had grey in his beard now. She hadn't noticed it arrive.
+
+"What was that about?" she said.
+
+"She's been saying things like that for a week," said Kesh. "Lund thinks it's the fever. Who the ship belongs to." He shook his head. "She asked me who I thought it belonged to. I said the Tolland Company. She laughed at me. You know how she laughs."
+
+"I know how she laughs."
+
+"She said I'd find out." He rubbed his face. "Ilse. When this is over—when she's—there's going to be a council. Lund's been running the consumables numbers. They're not what we wanted them to be."
+
+"They never are."
+
+"No." He looked at her sidelong. "I'd like you on the council. For the deck. Somebody has to speak for the rows."
+
+"The rows don't need speaking for. They need a pump on Twelve and somebody to keep the frost off the plates."
+
+"Humour me."
+
+Ilse shrugged. "All right."
+
+Dr Sefa Lund came down the corridor at a half-run, a slate in her hand, her braids tied up in a surgical cap, and went past them into medbay without a word, and the door sighed shut behind her. Through it, after a moment, they heard Tamsin say _Mum_, once, in a voice that was not a question.
+
+Then the bell.
+
+It was an old thing, the captain's bell, older than anything else on the ship except perhaps the key: a brass bell from some ocean-going hull on Earth, which the Tolland Company had put aboard the Mercy for the same reason it had put a dream index on the berths. It hung on the bridge. It was rung for a launch, for a landfall, and for the death of a captain. In a hundred and ninety years it had been rung for the launch and for four captains. Somebody on the bridge must have been watching the medbay feed, because it began almost at once—three strokes, a pause, three strokes—and the sound came down the spine of the ship, through the crew rings and the forward hold and the long ladder-shafts, through Deck Nine where four thousand people slept and did not hear it, all the way to the engines, which went on burning.
+
+Kesh straightened his jacket. He did it without thinking, the way you put a hand out when you stumble. Ilse watched him do it and something cold moved in her stomach, and she did not know what it was, and she let it go.
+
+"Captain," she said to him, because someone had to be first.
+
+He looked at her as if she had hit him. Then he nodded, and went in to the girl.
+
+
+# Ch. 2 — The Hall of Muster
+
+## The Muster Roll
+
+_The Compact · 310 AL_
+
+They brought the Roll out of its case at the end of the third shift, when the Hall of Muster was empty of everyone but the cleaners and the dead.
+
+Neve Castellan had worked in the Hall for six years and had never seen the case opened. Nobody had, in her lifetime. It stood at the far end of the nave on a plinth of black Ashgrave stone, under a lid of armoured glass that had been fogged on the inside for as long as anyone could remember, so that the book within was only a pale shape, like a face behind a frosted window. Schoolchildren were brought to look at it. Couples were married in front of it. Every Landfall Day the Warden-General stood beside it and read the first and the last name aloud—_Aalto, Johanna, agronomist; Zwane, Pieter, child_—and the whole station fell silent for the count of four thousand heartbeats, which took a little over an hour, and which most people spent thinking about lunch.
+
+The glass came up on a hydraulic arm with a sigh. The air that came out smelled of nothing at all. Neve found she was holding her breath.
+
+"Gloves," said Hal Oduya.
+
+"I have gloves."
+
+"Second pair. Over the first."
+
+She put on the second pair. Archivist Prime Oduya had taught her nearly everything she knew, and the most important of it was that the old man was always right about gloves. He was a small, stooped, careful person with a voice like a page being turned, and when he lifted the Muster Roll out of its cradle he did it the way a midwife lifts something newborn: with both hands, with his whole attention, and with an expression of faint terror.
+
+He set it on the conservation table under the cold lamps. Neve looked at it.
+
+It was smaller than she had imagined. She had grown up with its picture—it was on the three-mark note, it was on the wall of every schoolroom, it was stitched into the banners that would hang the length of the Spine for the Tricentennial—and in all the pictures it seemed enormous, a book the size of a door. It was the size of a ledger. That was all it was. A quartermaster's ledger, bound in some grey cloth that had gone the colour of ash, with a brass corner-piece missing and the spine split along half its length and mended, a long time ago, with a strip of what looked like surgical tape.
+
+"Three hundred years," said Hal softly. "Near enough. Be gentle with it."
+
+"I'm always gentle."
+
+"Be gentler."
+
+She opened it.
+
+The paper was a heavy stock, made for a ship's stores, meant to last. It had lasted. The ink had not, entirely. The first pages were a careful inventory hand, square and upright, the hand of somebody who had learned to write on forms: _DECK NINE — SLEEPER HOLD — MUSTER — ROW ONE._ Then the names. Berth by berth, a hundred to a row, a page and a half to a row, every name followed by an age and a trade and a number she did not recognise and a small tick.
+
+_Aalto, Johanna. 31. Agronomist. 0001. ✓_
+
+"The ticks," Neve said.
+
+"Checked aboard. The first quartermaster walked every row at the launch and looked at every face. That's the tradition." Hal leaned over her shoulder. "That's Sato's hand, the launch quartermaster. Every quartermaster after him walked the rows once a year and signed the foot of each one—you'll see the hands change, page by page, for a hundred and ninety years. The last of them is Okafor. Look how hard he presses. Some people think it's tiredness. I think he was angry."
+
+"At what?"
+
+"Who knows. Being the man who had to count them." Hal straightened, and pressed a hand to the small of his back. "Your brief from the Warden's office is a full conservation survey before the Tricentennial. Every page photographed, every tear stabilised, every word legible on the display slates for the procession. They want to put the whole Roll up on the Spine screens, name by name, on the day. Four thousand names scrolling past for an hour while the Warden-General stands in front of it looking stern." He made a small noise that might have been a laugh. "Twenty-four days. Do you think you can do it?"
+
+"I think I can do it in twenty."
+
+"Do it in twenty-four. Nobody ever got a medal for rushing a book."
+
+She turned pages. Row Four. Row Nine. A water stain, old, that had lifted the ink on half a page and left the names as pale ghosts. Row Seventeen. A burn mark—a small one, a scorched crescent in the bottom corner of five pages, as if the book had been close to something very hot and been snatched away.
+
+"Is that from the Breach?"
+
+"Probably. The Roll was in the quartermaster's store and the store burned. Everyone agrees on that much." Hal's voice had gone careful in the way it went careful whenever anyone said _the Breach_ in the Hall, which was not very often, because it was not the kind of word you said in the Hall. In the Hall you said _Landfall_, and _the Four Thousand_, and _those who were not woken_. You did not say how. Everyone knew how. There was a picture of that too, in every schoolroom—the great rupture in the Mercy's hull, the vapour streaming into the dark, the brave crew at their stations—and under it the word the schoolchildren learned before they learned their letters, the word that meant _the one who did this_, the name that was not a name.
+
+The Opener.
+
+Neve turned to Row Thirty-One. Halfway down the second page, between _Ofori, Kwame. 44. Surveyor_ and _Okeke, Nnamdi. 29. Electrician_, there was an entry in a different hand. Smaller. Pressed harder into the paper.
+
+_Okafor, Ama. 7. Child. 3112. ✓_
+
+Above it a line had been struck through, neatly, with a ruler: _Okonkwo, Emeka. 52. Mason. 3112._ And down the margin beside the new name ran a column of tiny ticks, one under another, more than thirty of them, each in the same heavy hand.
+
+"Hal," she said. "Look at this."
+
+He looked. For a long moment he did not say anything.
+
+"His daughter," he said finally. "Okafor's. It's in the commentaries. A settler died in his berth, partway through the voyage—it happened, now and then, a pod would fail—and the captain of the day gave the empty berth to a crew child. To Okafor's girl. So she'd wake at Landfall with the settlers, and he'd be old by then, but she'd have a whole planet. He ticked her off every year he was quartermaster. Every year." He touched the page—not the paper, the air above the paper, the way you would touch the glass in front of a sleeping baby. "And then the Breach."
+
+The cold lamps hummed. Somewhere out in the nave a cleaning drone bumped against a pew and backed off and bumped again.
+
+"I didn't know that," Neve said.
+
+"It isn't on the three-mark note." Hal turned away from the table. "Twenty-four days, Neve. Photograph everything. And if you find anything—anything at all you don't understand—you bring it to me first. Not to the Warden's office. To me."
+
+She looked up at him. He was already walking away, a small grey man going down the long aisle under the banners, his footsteps very quiet, and he did not look back.
+
+## News from Ninefold
+
+The Spine at shift-change was the loudest place in the Reach. It ran the length of the old ship, bow to stern, a kilometre of corridor that had been a ladder-shaft once, when the Mercy was a ship and down was aft; now Tolland Station spun around it and the Spine was a long bright street with a curving floor, lined with stalls and tea-counters and recruitment booths and the doors of the great households, roofed with screens. Everybody in the Compact walked it at least once a day. Most people walked it twice, going to work and coming home, and on the way they looked up at the screens, because that was where the news was, and the news was the strike.
+
+Tonight it was the Warden-General.
+
+He filled every screen down the length of the Spine, so that walking under him was like walking under a sky made of one face. Isidor Kesh-Amaury was handsome in the way of old families—a long jaw, deep-set eyes, a stillness that was a kind of authority on its own—and he wore the plain grey of the Wardenry with no ornament but the one, the thing on the chain at his throat, which was in every portrait of every Warden-General for three hundred years and which Neve had never once seen close enough to make out. A key. A great dark key with a pale handle, lying against his chest like a sword in a tomb.
+
+"—forty-one days," he was saying. "Forty-one days in which the ice works of Ninefold have produced nothing. In which not one tonne of water has come up the well to the people of this station. Our reserves are good. Our reserves will see us through. But I will not pretend to you that forty-one days is nothing, and I will not pretend to you that the men and women who have done this to us are acting in good faith."
+
+Neve had stopped walking without meaning to. So had a lot of people. They stood in the bright street with their faces turned up, and their faces were the faces of people who had been rationed for six weeks and were tired of being told that their reserves were good.
+
+"Tomorrow," said the Warden-General, "a delegation of the so-called Ninefold Ice Union will come up the well under my guarantee of safe conduct. I have agreed to hear them. I have agreed to hear them because in twenty-four days we will celebrate three hundred years since the Charter of Survivors, three hundred years since the crew of the Mercy of Tolland—having lost everything, having lost the Four Thousand they had carried across the dark—chose to bind themselves together into one people and one Compact. I do not intend to celebrate that day divided. The strike will end before the Tricentennial." The deep eyes looked down the Spine, at everyone and no one. "One way or another."
+
+The screens went to the Compact sigil, the Mercy's silhouette on a field of grey, and then to an advertisement for water purifiers.
+
+"Well," said someone close to Neve, a big man with a voice like gravel being poured. "That's us told."
+
+She looked round. The delegation—because it had to be the delegation, there was nobody else on the station dressed like that—had come up the Spine from the docks behind a pair of Compact Watch in grey, and stopped where everyone else had stopped. There were six of them. They wore ice-gear, padded and stained, with the Union's red hand stitched on the shoulder, and they looked around themselves at the stalls and the tea-counters and the great doors with the specific blankness of people who had heard all their lives that a place was rich and were now finding out exactly how rich.
+
+The one who had spoken was the tallest. His hands were scarred across the backs in the white lattice pattern that ice-burn left, and he had a cough—Neve heard it, a small dry cough held behind his teeth—that she knew from her own street, from Ring B, from the men who came back from the Ninefold shafts after their contracts with their lungs full of frost.
+
+"You're early," said one of the Watch. "Safe conduct's from tomorrow."
+
+"Then we're safe tomorrow," said the big man pleasantly. "Today we're just early."
+
+The Watchman put a hand on his shoulder. Not hard. Just to say that he could. The big man looked at the hand, and then at the Watchman, and then he did something Neve did not expect at all: he began, quite loudly and quite badly, to sing.
+
+It was a Ninefold song. She half knew it—the Kin sang it in Ring B on the Quiet Days, the old women in the laundry rooms—something about cold and a long fall and somebody waiting. He did not know all the words and he could not hold a note to save his life. But the other five joined in, and then, unbelievably, a woman at a tea-counter joined in, and then somebody behind Neve, and for about the space of a verse a ragged chorus of Ring B voices went up the Spine under the water-purifier advertisement while the Watch stood there with their hands on their sticks and their faces going red.
+
+Then it stopped, the way such things stop, all at once and a little embarrassed.
+
+The big man's pack had slipped off his shoulder in the singing. It had split at the seam. Papers were all over the floor of the Spine—union minutes, ration cards, a child's drawing of a drill rig in purple crayon—and people were stepping on them. Neve crouched without thinking and started picking them up.
+
+He crouched opposite her. Up close he was younger than she had thought, and more tired.
+
+"Thanks," he said. Then he saw the badge on her collar. The Hall of Muster badge, the Mercy's silhouette over an open book. His face did something complicated.
+
+"Archivist," he said.
+
+"Junior."
+
+"You're the ones who keep the names."
+
+"We keep the Roll," Neve said. "Yes."
+
+He took the papers from her. He held the child's drawing a moment longer than the rest, and then put it inside his coat, against his chest.
+
+"Jory Mbeki," he said. "Ninefold Ice Union, delegate, singer, very bad. My grandmother was Kin. She used to say the Roll wasn't finished." He stood up, and coughed his small dry cough, and looked down the Spine towards the bow, towards the Hall of Muster and the Warden's residence and the whole great weight of the Compact sitting on top of the old ship like a crown. "Said the people up here stopped counting too early."
+
+The Watch moved him on before she could ask him what that meant.
+
+
+# Ch. 3 — Salvage Rights
+
+## Pelican's Debt
+
+_The Quiet · 742 AL_
+
+The freighter had been dead for two hundred years and it was still trying to kill them.
+
+"Pressure in the forward bay," said Kit over the suit channel. "There's still air in there. Osh. There's air."
+
+"Old air." Osh Teague hung in the dark beside the freighter's flank with one boot hooked through a handhold and the cutting arm of the Pelican's Debt swinging slowly round above her like a crane over a grave. "Stale as a Warden's sermon. Don't touch the seal."
+
+"I'm not touching the seal."
+
+"You're thinking about touching it. I can hear you thinking."
+
+Kit made a noise that on the open channel came out as a crackle. She was seventeen and had been crewing for Osh for two years, which in the Scree was long enough to be good and not long enough to be careful. Osh could see her down at the freighter's waist, a small bright figure in a patched orange suit, crouched over a hatch with her helmet lamp making a hard white circle on the hull. Beyond her the freighter went on for three hundred metres, ribs showing where its plating had been peeled away by somebody in some earlier century, and beyond the freighter was the Scree itself—a slow, enormous drift of rock and ice and dead machinery, turning in the red light of Cauld like dust in the beam from a door.
+
+Osh had worked the Scree for twenty-six years. Her mother had worked it before her. There were people on the Hulk who said there had been salvage crews in the Scree since the Unraveling, picking at the ships that had died in it, and that there would be salvage crews in it until the last of those ships had been picked to nothing and the last salvager had died in debt, and then the Scree would be just rocks again, the way it had been before people came. Osh thought that was probably right. She thought it would take a while.
+
+"Copper," she said. "We came for copper. The main bus runs aft from that hatch along the keel. Cut me the cable runs and leave the air where it is."
+
+"Copper's worth nothing."
+
+"Copper's worth eleven marks a kilo at the Counting House, which is eleven marks more than air."
+
+"I'm just saying. If there's air there might be—"
+
+"There might be anything," said Osh. "There's always might be. Might be is how people die out here. Cut the cable."
+
+Kit cut the cable.
+
+It took them six hours. The Pelican's arms did the heavy work, peeling back the hull plates along the keel like the lid of a tin, and Osh and Kit went in after them with hand-cutters and pry bars and stripped the cable runs out of the freighter's spine in long dull-gleaming coils that Kit fed back into the Pelican's hold. It was dull work and dangerous in the dull way—a snapped cable, a shifting plate, a moment's inattention and your tether wrapped round something that was still moving—and they did it the way they always did it, mostly in silence, with Kit humming under her breath on the open channel until Osh told her to stop and then, a minute later, starting again.
+
+What she hummed was always the same. One of the old Kin tunes from Ninefold, a slow up-and-down thing with no proper ending, that seemed to go round and round on itself like a song somebody was trying to remember. Osh had stopped asking her about it in the first month. It was a Kin thing. Kit had been born in Gallows Town, in the last years when there had still been people there, and the Kin had their songs and their stories and their book, and if you were not Kin you did not ask about them, because they would tell you, at length, and then you would know.
+
+When the hold was full they climbed back aboard and stripped out of their suits in the lock and stood in the galley drinking tea that tasted of solder, because everything on the Pelican tasted of solder, and looked at the readout on the wall.
+
+"Four hundred kilos," said Kit. "And some."
+
+"Four thousand four hundred marks."
+
+"Minus fuel."
+
+"Minus fuel," said Osh. "Minus the berth fee at the Hulk, minus the Counting House's cut for weighing it, minus the interest." She did the arithmetic in her head; she had been doing this arithmetic for nine years and she was very good at it. "Leaves about nine hundred."
+
+"Against what?"
+
+Osh looked at the readout. She did not answer.
+
+Kit knew the answer anyway. Everyone on the Pelican's Debt knew the answer; it was in the ship's name. Nine years ago Osh's mother had died in the Scree with her own tug, and Osh had needed a ship, and there was only one person in the Reach who lent money for ships, and Osh had gone to him. She had been thirty-seven and grieving and stupid. She had signed what he put in front of her. She had named the tug for it, as a joke, the day she took delivery. It had not stayed funny.
+
+"Against forty-one thousand," Osh said.
+
+The galley's air-scrubber ticked over. Out of the porthole, past Kit's shoulder, the Scree turned and turned in the red light; and beyond it, very small and very far, catching Cauld's light on its flank like a coin at the bottom of a well, was the Hulk.
+
+From out here you could still see what it had been. Everybody said so. A long dark shape with a wheel round its middle, and the great flat drum of the stern section, and the bow coming to a point like a finger raised. Tolland Station. The Mercy of Tolland before that, if you believed the Kesh Faith, which Osh did not, particularly. Seven hundred years ago people had come across the dark in that hull. Four hundred years ago it had been the capital of a whole system, of the Compact, ten thousand ships and a navy and laws. Now it was the Hulk: a wreck in a parking orbit over Hesper, with its lights going out section by section as the people inside it ran out of parts, and a few thousand of them still living in it anyway, because there was nowhere else to live.
+
+"Nine hundred," Kit said. "That's a good run."
+
+"It's a good run."
+
+"So why do you look like that?"
+
+Osh drank her tea. "Because Fane's sent for me," she said. "He's sent for me before we've even docked. And Fane doesn't send for anybody to tell them it was a good run."
+
+## The Counting House
+
+The way to the Counting House was up the old Spine of the Hulk, and then forward, and then up again, into the bow, where the light was best.
+
+Marrow Fane kept his ledgers in what everybody called the old bridge. Osh had heard a scholar at a dock bar say once that the real bridge, the Mercy's bridge, was the compartment next door, the one Fane kept locked; that this had been the captain's day room, or a chart room, or a chapel. Nobody cared. It was the old bridge because it had a window. A great curved sheet of glass, scarred and pitted and glazed over in a dozen places with clear patching compound, that looked out over Hesper's banded face and the scatter of its moons. Fane's desk stood in front of it. When you came in you saw him against the planet, a small soft dark shape against all that storm, and you had to walk the length of the room to reach him, and he did not get up.
+
+The walls were the other thing. The walls were relics. Everybody who owed Marrow Fane money—which was everybody on the Hulk—knew the walls, because when you could not pay him in money you paid him in things, and the things went on the walls. Ship's plates. Navy insignia. A flag of the old Compact, grey, with the Mercy's silhouette on it, gone pink with age. A rack of hand weapons from the Unraveling. Portraits of Wardens nobody remembered. And behind the desk, alone on its own iron peg where the light from the window fell across it, a long dark tool with a pale handle, which Osh had looked at every time she came here, because there was something about it that made you look.
+
+It was a wrench. That was all. A big old torque wrench, a forearm long. But it had hung on a chain, once—you could see the fitting where the chain had been, a ring welded to the collar—and the collar was crowded with tiny scratched letters, and the pale handle had been worn smooth by a great many hands.
+
+"The Warden's Key," said Fane, without turning round. "You always look at it. Everybody does. I have been offered six thousand marks for it by a collector in the Scree who believes it can open any door in the Reach, and I have told him no, because I enjoy having it, and because a man who believes a thing can open any door is not a man who should be given one." He turned his chair. "Sit down, Captain Teague."
+
+She sat. Fane was a plump, mild, beautifully dressed man of no particular age, with very clean hands and a voice that never rose. Osh had seen him take a man's ship, his daughter's indenture and the teeth out of his head in the same soft voice, on three successive visits, and thank him each time for his business.
+
+"You've had a good run," he said. "Four hundred and twelve kilos of copper. I've had the weights from the dock."
+
+"Then you know what it's worth."
+
+"I know exactly what it's worth. It is worth nine hundred and six marks against your account, after the usual deductions, which leaves you owing me forty thousand, one hundred and eighty-four." He smiled. "I didn't call you up here to talk about copper, Osh. I could talk to anyone about copper."
+
+He took something from his desk drawer and laid it in front of her. It was a scrap of grey flimsy, the kind the old Compact had used for printouts, soft with age. Somebody had written on it in a shaking hand, in Kin script, which Osh could not read.
+
+"An old woman died in the Kin warrens on Ring B last month," said Fane. "She owed me a great deal of money. Her family paid me in kind. Among the things they brought me, which were mostly rubbish, was a box of her papers, and among her papers was that. It is a map. Or a sort of map. Of a place on Ninefold, in the Gallows quadrant, in the old Interdict Field." He tapped the scrap with one clean finger. "Do you know what the Interdict Field was?"
+
+"No drilling," said Osh. "Old Compact law. Some piece of ice they didn't want touched."
+
+"For seven hundred years. Since before there was a Compact. The first order the first Warden ever signed, if you believe the old histories." Fane's eyes were bright. "Nobody interdicts a piece of ice for seven hundred years because there is nothing under it, Captain Teague. The Kin have a word for what is under it. They have a song about it. They call it the Choir."
+
+Osh looked at the scrap. At the shaking line of Kin script, the crude circle, the cross.
+
+"Kin stories," she said.
+
+"Kin stories don't get interdicted." Fane leaned back. Behind him Hesper's storms moved slowly, enormous, silent. "I want you to find it. You have a tug with a drill head and a girl from Gallows Town who can read that. Find me what the old Compact buried under the Interdict Field, and bring me the coordinates, and I will write off your account. Forty thousand, one hundred and eighty-four marks. All of it. The Pelican will be yours."
+
+"And if there's nothing there?"
+
+"Then you'll have wasted fuel." He said it kindly. "And I will take the Pelican in thirty days, as is my right under our agreement, because your last three payments were short and you know they were short. Thirty days, Osh. The fourth of Ballast. I've written it down." He smiled again. "I always write things down."
+
+She sat in front of him with the scrap of flimsy under her hand and the Warden's Key hanging on its peg behind his shoulder, and Hesper's light coming in through the scarred glass, and she thought about her mother, and about the Scree, and about forty thousand marks.
+
+"I'll need fuel up front," she said.
+
+"Of course you will," said Marrow Fane, and wrote it down.
+
+
+# Ch. 4 — The Air Budget
+
+## Lund's Arithmetic
+
+_The Mercy · 1 BL_
+
+They buried Ines Oyelaran the way the Mercy buried everyone, which was to say they did not bury her at all. They wrapped her in a sheet and carried her aft to the reclamation plant, and Kesh read the words, and the plant took her, and in a month or two some small part of her would be in the water and the air and the soil of the hydroponic racks, and in that way she would go on doing what she had always done, which was keeping the ship alive. It was the oldest rite they had. Ilse had always found it comforting. This time she found she could not stop thinking about the arithmetic of it—how many grams of carbon, how many of nitrogen, how much of a woman went back into the system and how much was simply lost—and when she noticed herself doing it she went to the Observation Blister by herself and sat there for an hour looking at nothing.
+
+Nine days later Kesh called the council.
+
+They met in the forward hold because it was the only space big enough with the spin stopped, and because Kesh, Ilse thought, wanted them to feel the weight of the ship around them. The hold had been emptied for the burn. Its cargo was lashed against the aft bulkhead, which was now the floor, and the council sat on crates in a ring under work-lights, nine of them, with the great dark volume of the hold going up above them into shadow like the inside of a church. Ilse had the deck. Bram Okafor had the stores. Tamsin was there for navigation, sitting very straight, her mother's jacket on over her own. Corporal Hollin stood by the hatch in his grey watch-coat with his hands behind his back, which was where Hollin always stood, as if hatches were a thing that might get away.
+
+Sefa Lund had a slate on her knees and had not looked up from it since she sat down.
+
+"Sefa," said Kesh. "Tell them what you told me."
+
+The doctor looked up. She was a small, fierce woman with grey in her braids and a scar through one eyebrow from a coolant fire twenty years before, and she had kept the Mercy's consumables model since Ilse was a cadet—air, water, food, power, reaction mass, all of it, every input and every draw, a vast intricate sum that Lund carried in her head and on her slate and that she had once described to Ilse, late at night, as _the only honest thing on this ship_.
+
+"We're short," she said.
+
+Nobody said anything. Ilse had known it was coming. They had all known. You did not stop the spin and run the drive for two months and call a council without knowing.
+
+"How short?" said Bram.
+
+"Reaction mass first." Lund turned the slate so the ring could see it, although the figures on it would mean nothing to most of them. "Captain Oyelaran ordered the turnaround nine weeks late. You all know that. She had her reasons; I'm not going to argue them now; she's dead. Nine weeks late means we're coming in faster than the plan, and every day we're faster we need more burn to slow down, and the burn eats reaction mass. On the numbers I ran this morning we reach Hesper with about seventy per cent of what we need to make orbit."
+
+"And the other thirty?" said Tamsin.
+
+"We don't make orbit. We go past. We make a very close approach to Hesper at about forty kilometres a second, and then we keep going, out the far side of the system, into the dark, with no reaction mass at all." Lund's voice did not change. "Nobody comes back from that. We'd have air for perhaps eleven years."
+
+Somebody laughed—a short shocked bark of a laugh, the noise people make at the scale of a thing. It was one of the hydroponics women. She covered her mouth.
+
+"There are two ways to fix a mass budget," Lund said. "Find more reaction mass, which we can't, there isn't any between here and Hesper. Or get lighter. Thirty per cent lighter, near enough. That's three million tonnes." She swiped the slate. A diagram of the ship came up, the long body of it, every section shaded. "This is where the mass is."
+
+Ilse looked at the diagram. She did not need to. She had known what it would show from the moment Lund said _three million tonnes_.
+
+The shading was darkest in one place. A great flat drum across the ship's spine, a third of the way from the stern. Shielding, so that cosmic rays would not cook four thousand sleeping brains over a hundred and ninety years. Coolant. Pumps. Pods. Four thousand pods.
+
+"No," said Ilse.
+
+"I haven't said anything," said Lund.
+
+"You don't need to."
+
+"Then I'll tell you the other half, since you're ahead of me." Lund swiped again. "Air. Water. Food. When we make orbit—_if_ we make orbit—we've got a raw system. No habitats. An ice moon we can mine, a gas giant we can skim, a lot of rock. The plan was always that we'd build for ten years with the waking crew before we woke the settlers. Three hundred and forty of us. The Company's own model, that I've been running for twenty years, says we can sustain three hundred and forty people in Hesper orbit on what we'll have. It says we can sustain perhaps five hundred if we're lucky and careful. It does not say we can sustain four thousand three hundred and forty, and it never did. They were never meant to be awake until there was somewhere to wake them."
+
+"So they stay asleep," said Ilse. "They've been asleep for a hundred and ninety years. Ten more is nothing."
+
+"They stay asleep in that." Lund pointed at the drum. "And that is three million tonnes we can't carry."
+
+The hold was very quiet. The work-lights hummed. Up in the dark over their heads something ticked as it cooled, a long way off, like a clock.
+
+Kesh had not spoken. He sat on his crate with his elbows on his knees and his hands loosely folded, looking at the floor between his boots, the way he had sat in the cadet barracks a lifetime ago when one of them had done something stupid and he was deciding whether to cover for them. Ilse watched him. She thought: _he knew. He knew before she said it. He's known for days._
+
+"Options," said Kesh at last. He looked up and around the ring. "I want options. Not now. I want every section head to go back and think about mass, about what we can strip, what we can dump, what we can cut. Every kilo. Sefa's numbers are numbers; they're not a verdict. We have sixty days before the Landfall burn." His eyes came to rest on Ilse. "We'll find another way."
+
+"We'd better," Ilse said.
+
+"We will."
+
+He held her eyes a moment longer. Then he stood, and the council stood with him, and it was over, and they went out of the hold in ones and twos, nobody talking much.
+
+Ilse waited by the hatch for Bram, but Hollin was there first, standing close to the quartermaster and talking low. She heard only the end of it as she came up.
+
+"—by tomorrow, the Captain says. Full tonnage. Everything aft of frame six hundred."
+
+"I heard you the first time," said Bram, and walked away from him without another word.
+
+## Bram's Ledger
+
+The quartermaster's store smelled of machine oil and rope and, faintly, of the illegal still Bram kept behind the spare scrubber-cores, which everybody on the Mercy knew about and nobody reported, because everybody on the Mercy at one time or another had needed a drink.
+
+He poured two. They sat on the floor between the shelving, which under thrust had become a kind of canyon of steel racks going up into the gloom, and drank the stuff, which tasted of nothing and burned like a cutting torch.
+
+"Tonnage," said Ilse.
+
+"You heard."
+
+"I heard Hollin."
+
+"Everything aft of frame six hundred." Bram turned his cup in his big hands. He was the largest man on the ship, broad and slow and soft-voiced, with a face like a kind boulder; children followed him round the crew rings in a little procession whenever he went anywhere, because he always had something in his pockets. "Frame six hundred's your forward bulkhead. He wants the mass inventory of Deck Nine. The whole drum. Shielding, coolant, pumps, pods." He drank. "Not the people. He didn't ask for the people. The tonnage."
+
+"The people are in the tonnage."
+
+"Seventy-eight kilos average," said Bram. "Embarked. I worked it out once for something to do. Comes to about three hundred and twelve tonnes of people, in a drum that weighs three million. You could throw every one of them out of an airlock and not change the mass budget by the width of a hair." He laughed, not pleasantly. "It isn't the people he's weighing. That's the thing. It's everything they're lying in."
+
+Ilse said nothing. She looked at her cup.
+
+"You know what he's going to do," said Bram.
+
+"I know what Sefa's numbers say. That's not the same thing."
+
+"Ilse."
+
+"He said we'd find another way."
+
+"He said it to you," said Bram. "He was looking at you when he said it. Did you notice that? He didn't say it to the hold, he said it to you. Because you're the one who has to be kept quiet." He put the cup down. "I've known Aurel Kesh for thirty years. He's not a bad man. He's a man who can do sums, and he's done this one, and he's not going to un-do it because you look at him like he's still nineteen and sharing your bunk."
+
+That landed. She let it land. It had been a long time ago and it had not lasted and it had not mattered, and she had not known Bram knew. Of course Bram knew. Bram knew everything that happened on the Mercy, because sooner or later everything that happened on the Mercy needed something from stores.
+
+"What do you want me to say?" she said.
+
+He did not answer. Instead he got up, heavily, and went to the back of the store, to the steel cabinet where he kept the things that were not stores, and unlocked it, and came back with a book.
+
+She knew it. Everybody knew it. Bram's Ledger, the crew called it, although the Company had called it the Muster Roll, and it was the last piece of paper on the Mercy that anybody still wrote in. A thick grey book with brass corners. When the Mercy launched, a hundred and ninety years ago, Quartermaster Sato had walked every row of Deck Nine and looked at every sleeping face and written every name by hand, because the Company's lawyers had insisted on a paper record that no power failure could wipe; and every quartermaster since had walked the rows once a year and signed the foot of each one. Bram had done it twenty-two times. He did it with a pen he kept for nothing else.
+
+He opened it on the floor between them and turned the pages without looking, the way you turn the pages of a book you know by heart, to Row Thirty-One.
+
+"There," he said.
+
+She knew that too. She had known it for twenty-two years, as long as she had known him. But she looked anyway, because he wanted her to.
+
+_Okafor, Ama. 7. Child. 3112._
+
+His own hand, smaller and heavier than Sato's careful print, under a line ruled neatly through a dead man's name. And the ticks beside it—thirty-three of them now, in a little column down the margin, one for every year since he had stood at berth twelve and watched the frost close over his daughter's face.
+
+"Her mother died of the lung rot," Bram said. "You remember. The year the scrubbers went bad on Ring A. Ama was seven. And there was a berth empty on Thirty-One—Okonkwo, the mason, his pod had failed in his sleep the year before, poor bastard—and Captain Adeyemi gave it to me. Crew dependant. It was in the Company contract, nobody had ever used it. An empty berth could go to a crew child, so the child would wake at Landfall with the settlers. I was twenty-eight. I thought—" He stopped. "I thought she'd wake up at Landfall and I'd be an old man, and I'd be there, and she'd have a whole world. I thought it was the best thing I ever did for her."
+
+"It was."
+
+"She's still seven." He touched the page. "I'm sixty-one. She's still seven. She doesn't know any of it. She doesn't know I'm old. She went to sleep holding my hand and when she wakes up the first thing she's going to see—" He stopped again, and this time he did not go on.
+
+Ilse put her hand over his on the page. His hand was enormous and very warm and it was shaking.
+
+"Nobody is touching Deck Nine," she said. "Do you hear me? Nobody. I have the key. Nothing in that hold opens or closes or moves without the key, and I am not giving it to anyone. Not to Kesh. Not to anyone."
+
+Bram looked at her for a long time.
+
+"Then they'll come for the key," he said.
+
+"Let them come."
+
+He closed the Ledger. He did it gently. Then he picked up his cup again and found it empty and looked at it as if it had let him down.
+
+"There's something else," he said. "Something the Captain told me. Before she went into medbay. About who the ship belongs to." He shook his head. "Not tonight. I need to look at it again. I need to be sure."
+
+"Bram—"
+
+"Not tonight, Ilse." He got up. "Go and look at your pumps. Go and listen to them breathe. I'll come and find you."
+
+
+# Ch. 5 — Margins
+
+## Iron Gall
+
+_The Compact · 310 AL_
+
+She found the dots on the fourth night, because she was tired, and because she had stopped trusting her eyes.
+
+The conservation survey was a slow, dull, beautiful job, and Neve loved it in the way she loved all slow dull beautiful jobs, with a kind of grim devotion. Every page of the Roll went under the copy-stand in turn. Every page was photographed four times: once in white light for the display slates, once in infrared to bring up the faded ink, once in ultraviolet to show the old repairs, and once in raking light, with a single lamp held low and to the side so that every crease and pinhole and scrape on the surface of the paper threw a shadow and stood up like a mountain range seen from orbit. Raking light was for condition. It told you where the paper was weak. Nobody used it for reading.
+
+She was on Row Six, page two, raking light, at the end of a fourteen-hour shift, and she saw the mountains, and then she saw that some of them were in the wrong place.
+
+At first she thought it was damage. Old books were full of small holes. Bookworm, if you were on a planet; on a ship, more often a fleck of grit in the paper that had worked loose, or the point of a pen gone through. She bent closer. The holes were very small—smaller than a pinhead—and they were not in the blank margins where grit would have fallen. They were in the names. Here, under the second letter of _Eriksen_. Here, under the fourth of _Haddad_. Here, in _Ibarra_, under the _b_. Each one was a tiny round puncture, pricked clean through the page from the front, and in each one, when she put the loupe on it and turned the lamp, there was a glint of something dark and bluish that was not the ink of the names.
+
+Iron gall.
+
+She sat back. Her heart was going hard and stupid and she told it to stop. Iron gall was an old ink—very old, older than the Mercy, older than space travel—made from oak galls and iron salts, that bit into paper and went dark with age. The Roll had not been written in it. The Roll had been written in the Company's own archival ink, a carbon black that had faded to brown. Somebody had come to this book afterwards—days afterwards, years afterwards, she could not tell—with a needle and a pot of a different ink, and gone through the names of the dead, and made marks.
+
+She checked Row Five. They were there too, once she knew what she was looking for. Row Four. Row One. Every page. Not many to a page—six, ten, a dozen—but every page, all the way through, so many that she stopped counting on Row Nine and simply photographed them, page after page, in raking light, at an angle no archivist would ever have photographed a book at for any reason, until the shift bell rang and she realised she had been doing it for three hours.
+
+Then she sat in the empty conservation room with the Roll open in front of her and tried to read them.
+
+It was not hard to see what they were. A hole under a letter meant _this letter_. You read the pricked letters in order, page by page, and you got—
+
+_R S I O H E T E N U L W I A E K D_
+
+Nothing. A string of letters. She tried it backwards. She tried every other letter. She tried the second page and the first page together. She tried it until her eyes ached and the letters swam in the lamp-glare, and every time it was nothing, nonsense, a jumble, the kind of thing a child makes when it plays at secret writing.
+
+But a child had not made it. A child did not prick holes through a book like this one, with a needle as fine as a hair, in iron gall that had bitten clean through to the back of the leaf. A child did not do it four thousand times.
+
+It was a cipher. She was sure of it the way she was sure of a forged signature, in her hands before her head. Somebody had wanted to say something, very badly, in a book that would be kept for ever, and had not dared to say it in words.
+
+She closed the Roll. Then she opened it again, to the very back, to the inside of the rear board, where the endpaper had lifted a little at one corner. She had noted it in her condition log on the first night. Now she put the lamp low and turned it across the board, and in the raking light, under the lifted corner of the endpaper, where nobody would ever have looked unless they were taking the book apart, she saw a line of writing, very small, pricked into the pasteboard with the same needle.
+
+_FOR WHOEVER COUNTS THEM NEXT._
+
+No name. Only, after the last word, a tiny drawing in pinpricks, a shape like a long-handled wrench.
+
+Neve sat in the conservation room until the next shift came on. She did not take her notes to Hal. She did not take them to anyone. She told herself it was because she was not sure yet, and that was a little true.
+
+## The Delegation
+
+The talks were held in the Warden-General's own residence, in the bow, in the room that had been the Mercy's bridge.
+
+Neve had never been inside. Almost nobody had. You saw it in pictures—the long curved room with the instruments long since gone and the great window filled with Hesper, the brass bell hanging from its bracket by the old captain's chair—but the pictures did not tell you how cold it was, or how quiet. The Wardens had kept it as a kind of shrine. There were no screens. The floor was the Mercy's own decking, scuffed and worn by three centuries of feet, and the walls were bare metal painted grey, and the only furniture was a long table of black Ashgrave stone that had been brought in for the occasion and set down the middle of the room like an altar.
+
+The archivists of the Hall of Muster had kept the record of every treaty, charter and settlement made in the Compact since 11 AL. It was a duty older than the Wardenry. Hal had sent her because, he said, his hands shook too much now for shorthand; and because, he said, looking at her over his spectacles, she would see things, and it would do her good. She sat at a small table by the bulkhead with a slate and a stylus and the oath of record on her tongue, and watched them come in.
+
+The Warden-General first, in grey, alone, the key on its chain against his chest. Then the Navy—three officers in black, of whom only one sat down at the stone table, a narrow, upright woman with close-cropped grey hair and a captain's bar on her collar, whom the Warden introduced as Captain Rhee Salvador of the cutter Obedient. _Security_, he called her. She did not look like security. She looked like a person who had been told to sit in a room and remember everything, which was what Neve was, and when their eyes met across the room each of them knew it of the other, and looked away.
+
+Then the Union. Six of them in their padded ice-gear, the red hand on the shoulder. Jory Mbeki last, ducking his head under the hatch. He saw Neve at her little table, and something went across his face—surprise, and then something warmer—and he nodded to her, very slightly, before he sat down.
+
+It went the way such things went. Neve took it down. The Union read its demands into the record: a wage floor, indexed to the station price of water; safety inspections by miners' own delegates; compensation for the families of the nineteen killed in the collapse of Shaft Twelve on the twentieth of Ashfall, which had begun all of it. The Warden-General answered each one in turn in his deep, reasonable voice. Some of it he would give. Some of it he would think about. None of it surprised anyone. Twice the youngest of the Union delegates lost his temper and twice Jory put a hand on his arm, and the boy subsided, and the Warden went on as if nothing had happened.
+
+Then Jory said: "And the Field."
+
+The room changed. Neve felt it in her shoulders before she could have said what it was.
+
+"I don't believe," said the Warden-General, "that the Interdict is on your list."
+
+"It's on our list." Jory had a sheet of flimsy in front of him; he did not look at it. "You know the numbers as well as we do, Warden. The Gallows quadrant's worked out. The shallow ice is gone. We're going three hundred metres down for water that comes up full of salt, and that's why the shafts collapse, and that's why Shaft Twelve came down on nineteen of my people. There's a field forty kilometres east of the town where the survey says the ice is clean to a thousand metres. Clean, cold, solid. A hundred years of water. And it's been under Interdict since the year One." He spread his scarred hands on the black stone. "Lift it. Let us drill the Field and we'll go back down the well tomorrow, and you'll have water before the Tricentennial."
+
+"No," said Isidor Kesh-Amaury.
+
+The word cost him more than his face showed. That morning his household steward had put a ration notice beside his breakfast: three days of reduced water, beginning at midnight. His youngest granddaughter had fainted in school the week before. He had signed the notice anyway. He knew what the Union was asking for. He knew what clean ice would mean to the people below. That was why his hand had gone to the Key: not to invoke the law, but to keep himself from reaching across the table and saying yes.
+
+That was all. He did not raise his voice. He did not explain. He said it the way a door says it when you push it and it is locked.
+
+"No?" said Jory. "Just—no?"
+
+"The Interdict is not a matter for negotiation. It was established by the First Warden at the Father's own instruction, in the first year after Landfall, and it has been upheld by every Warden-General since. It will be upheld by me." He folded his hands. "Next item."
+
+"Then tell us why." It was the boy, the young delegate, half out of his chair. "Tell us what's under it. You'll let men die in salt shafts sooner than let us touch one piece of ice—tell us _why_."
+
+Neve saw it, because she was watching for things, as Hal had told her to. The Warden-General did not move his face at all. But his right hand left the table and went to his chest, and closed, lightly, around the pale handle of the key on its chain, and held it there.
+
+And across the table, Captain Rhee Salvador saw it too. Neve watched her eyes go to the Warden's hand and stay there a moment and come away again, and nothing in her face changed either.
+
+"Because it is the law," said the Warden-General. "Next item."
+
+They broke at the fourth hour. Neve stayed at her table to finish the record, and the room emptied around her, and when she came out into the corridor with her slate under her arm Jory Mbeki was there, leaning against the wall with his arms folded, as if he had been waiting, which he had.
+
+"Archivist," he said.
+
+"Delegate."
+
+"You took all that down?"
+
+"Every word. That's the oath."
+
+"Including the no?"
+
+"Especially the no."
+
+He pushed himself off the wall and fell in beside her. They walked aft, down the long grey corridor towards the Spine, and the Watch at the residence door watched them go.
+
+"Here's what I don't understand," Jory said after a while. "And maybe you can tell me, because you're the ones who keep the old books. That man's got a station on water rations. He's got a strike he says he'll end by the Tricentennial one way or another, and I know what _another_ means, and so does that Navy captain. And I just offered him water. A hundred years of it. All he had to do was say yes to a piece of ice." He coughed, his small dry cough. "Why would a man give up water for a law about ice?"
+
+Neve thought about a book full of holes. About iron gall, and the shape of a key pricked into pasteboard, and an old man walking away down an aisle without looking back.
+
+"I don't know," she said. "But I think I'd like to."
+
+
+# Ch. 6 — The Names
+
+## Kit's Prayers
+
+_The Quiet · 742 AL_
+
+"It's a song," said Kit. "Not a tune. A thing you carry in your mouth so the cold can't take it."
+
+"It's a map."
+
+"It's a song that's a map. That's how the Kin did maps. You can lose a piece of paper." Kit held the scrap of flimsy up to the galley lamp, turning it so the light came through it. The Kin script was a looping, spiky hand that always looked to Osh like barbed wire somebody had tried to write a letter with. "You can't lose a song. Not if enough people know it."
+
+They were two days out of the Hulk, running the long curve round Hesper towards nothing in particular while Osh thought. The Pelican's Debt was fuelled on Fane's account and her hold was empty and her captain did not have the faintest idea where she was going. It was the kind of feeling Osh had trained herself out of a long time ago and it had come back with all its old strength, a hollow at the bottom of the stomach, like hunger.
+
+"So sing it," she said.
+
+Kit gave her a look.
+
+"Please," said Osh.
+
+Kit sang it. She had a thin, true voice that did not carry, a voice for small rooms. It was the tune she was always humming—the slow, round-and-round tune with no ending—and now there were words to it, Kin words, which Osh did not understand, and then Kit sang it again in Common, frowning, translating as she went.
+
+_Forty from the Gallows where the Rift runs dry,_
+_where the ice is clean and the Warden's eye_
+_says go no further, go no nearer, go no deeper down—_
+_there the long cold lies and the voices drown,_
+_there the choir is singing and it never stops,_
+_and we keep the count till the long night drops._
+
+She stopped. The scrubber ticked.
+
+"Cheerful," said Osh.
+
+"It's a lullaby."
+
+"Of course it is." Osh rubbed her face. "Forty what? Forty kilometres? Forty days?"
+
+"Kilometres, I think. Gallows is the town. The Rift's Calloway's Rift, it runs north-south right past the town and peters out in the east. Where it runs dry." Kit touched the cross on the scrap, the crude circle. "Forty kilometres east of Gallows Town, more or less, where the Rift stops. That's the Interdict Field. Everybody in Gallows knew that. You didn't go out there. Not because of the law—the law was long gone by the time I was born. Because of the song." She put the scrap down. "It's a big field, Osh. Forty kilometres east isn't a place. It's a direction."
+
+"Then we need better than a direction." Osh looked at the scrap. The circle. The cross. "And the choir. Whose choir?"
+
+"Nobody knows. It's just in the song." Kit shrugged, too quickly. "Old songs have words in them nobody knows any more."
+
+That was a lie, or half of one, and they both knew it, and Osh let it go, because Kit was Kin and there were things the Kin did not tell.
+
+Later—the ship's night, the lamps down to red—Osh came forward from the engine bay to check the plot and found Kit sitting cross-legged on the galley floor in the red light with her book open on her knees.
+
+Osh had seen the book before, though never close. Every Kin household had one. They were made of everything: printed flimsy, old screen-slates with their power long dead and the text scratched into the casing, plastic sheets, sheets of hammered foil. Kit's was older than most. It was a thin sheaf of heavy, greyish paper—real paper, which nobody in the Reach had made for centuries—sewn into a new binding of red Union cloth, with its edges worn soft as felt and its corners gone. Kit read from it every night. She had done it since the day she came aboard, and Osh, who had grown up on the Hulk among the dregs of the Kesh Faith, with its candles and its saints and its endless dreary sermons about the Father, had at first found it embarrassing, and then had stopped noticing, and now, sometimes, found she was listening.
+
+Kit read the Names. That was all it was. A list of names, and after each name an age, and a trade, and a number. She read them in a low voice, not quite singing, steady, one after another, the way you would read the names of the dead at a burial.
+
+"_Nakamura, Hiro. 38. Welder. 2804. Nakashima, Ren. 12. Child. 2805. Nascimento, Lúcia. 61. Teacher. 2806._"
+
+Osh stood in the hatch and listened. She did not mean to. Kit went on through a page and turned it, carefully, holding the paper by its very edge, and went on.
+
+"Who were they?" Osh said at last.
+
+Kit looked up. She did not seem surprised to find Osh there.
+
+"The Names," she said.
+
+"I know that. Who were they?"
+
+"Nobody knows that either. They're old. Older than the Compact. They came down the well to the Kin a long time ago, in a bad year, and the Kin have been saying them ever since." Kit looked down at the page. "There used to be more. Every family had a few pages. When Gallows died, the pages went everywhere—half of them went to the Hulk with the families that went up, half got buried, half got burned for heat in the cold winter. This is what my grandmother had."
+
+"That's three halves."
+
+"It was a bad winter."
+
+Osh came in and sat on the edge of the galley bench. "Why do you say them?"
+
+Kit thought about it. She thought about it for long enough that Osh wondered if she was going to answer.
+
+"Because somebody has to," she said finally. "That's what my grandmother said. Somebody has to keep counting. If everybody stops, they're—" she searched for it— "they're just gone. Like they never were. But if somebody's still counting, then they're still on the list." She turned the page back. "It's stupid. I know it's stupid."
+
+"It's not stupid."
+
+"It is a bit."
+
+"It's a bit," Osh agreed. "Go on, then. Don't let me stop you."
+
+Kit looked at her. Then she bent her head over the grey paper again, in the red light of the galley, and went on reading the Names, and Osh sat and listened until she was finished.
+
+## Saba
+
+The Spine of the Hulk at night was a long dark street with a few lights in it, like the last houses in a village where everybody else had left.
+
+Most of it was shut. Seven hundred years ago, Brother Lio liked to say, it had been the busiest street in the Reach, a kilometre of shops and tea-counters under a roof of screens; now the screens were dead and the shops were stripped to the walls and half the light-panels had been pulled out for their copper, and the people who still lived on the Hulk kept to the few hundred metres round the docks where there was still heat. Osh had grown up in those few hundred metres. She knew every bar in them. She found Saba Nkemelu in the third one she tried, which was the one she had known she would find her in, and had tried two others first out of pride.
+
+"Teague," said Saba, without looking up from her drink.
+
+"Nkemelu."
+
+"You look terrible."
+
+"I came to see if you'd got any better looking. I see you haven't."
+
+Saba smiled into her glass. She was a tall, rangy, dark-skinned woman a few years older than Osh, with grey coming in at her temples in two neat streaks like a captain's bars and a scar across her chin that she had got on the first job they ever did together, twenty years ago, when they were both very young and very stupid and in love. They had been partners for eight years. They had not spoken for four. Osh still could not have said, honestly, whose fault that had been, though she had a long list of reasons why it was Saba's.
+
+Kit hung back by the door. Osh had told her to stay on the ship. Kit had not.
+
+"This is Kit," said Osh. "My rigger."
+
+"I know who she is. Gallows girl. Good hands, they say." Saba looked Kit over and nodded to her, one professional to another, and Kit went pink. "Sit down, both of you. You're making the barman nervous. Nobody comes in here standing up."
+
+They sat. Saba bought them drinks without asking what they wanted, which was another thing Osh had forgotten that she remembered at once.
+
+"So," said Saba. "Fane's sent you out."
+
+Osh put her glass down.
+
+"Don't look like that. Everyone knows. You were in the Counting House for half an hour and you came out with a fuel chit for a full load. Fane doesn't give out fuel chits. Fane takes ships." Saba leaned back. "What does he want?"
+
+"Something on Ninefold."
+
+"Ninefold." Saba's eyebrows went up. "There's nothing on Ninefold. There's ice and the old town and the wind. I took a tourist party down there once—a family of Faith pilgrims, they wanted to see where the Breach-children came from. They cried the whole time and then they were sick on my deck."
+
+"The Interdict Field."
+
+Saba was quiet a moment.
+
+"Well," she said. "That's different."
+
+"You know it?"
+
+"I know of it. Everybody who's ever looked at an old Compact chart knows of it. It's marked on all of them, a red square forty kilometres east of the town. No landing, no drilling, no overflight below ten thousand metres. Navy patrols, back when there was a navy." Saba turned her glass slowly on the bar. "But a red square on a chart is forty kilometres on a side. If you want to drill, you want better than that. You want the point. You want what the Navy was guarding."
+
+"Which is in a Navy log," said Osh, "somewhere at the bottom of the Navy, which doesn't exist."
+
+"Which is in a Navy log," Saba agreed. "And as it happens I know where one is."
+
+Osh waited. Kit had stopped breathing.
+
+"The cutter Obedient," said Saba. "Compact Navy, the old long-hull class, the ones that did the Ninefold patrol. She went into the Scree in the Unraveling with all her crew and she's been tumbling in the Grind ever since. I found her six years ago. I went aboard as far as the wardroom and then my air got low and I had to get out, and I've never been back, because she's in the deep Grind where the rocks are thick, and it took me four days to get in and five to get out and I nearly lost the Sixpence twice." She drank. "Her flight recorder's still in her. I saw the housing. Armoured. Never been opened. If anything on this side of Hesper knows where the Navy was looking on Ninefold, it's that."
+
+"Why haven't you been back for it?"
+
+"Because nobody's ever offered me forty thousand marks for a Navy flight recorder." Saba smiled. "Until now."
+
+Osh looked at her. Saba looked back. The barman, who had heard everything, polished a glass with great concentration.
+
+"Half," said Saba.
+
+"A third."
+
+"Half, Osh. I know the way in. You don't. And when Fane finds out you've got a partner he'll try to cut me out and I'll need something to have been worth it."
+
+"He won't find out."
+
+"He always finds out." Saba stood up. She was as tall as Osh remembered and as easy in her body, and Osh found she had to look away. "The Sixpence leaves at the start of second shift tomorrow. Follow me in. Don't fall behind in the Grind. If you fall behind in the Grind I'm not coming back for you."
+
+"You'd come back."
+
+"I wouldn't." Saba put a coin on the bar. "I didn't, last time."
+
+She went out. Kit let out her breath, all at once, like a punctured suit.
+
+"She's—" Kit began.
+
+"Yes," said Osh.
+
+"And you two were—"
+
+"Yes," said Osh. "Drink your drink."
+
+
+# Ch. 7 — Ninth Deck Order
+
+## Hollin at the Hatch
+
+_The Mercy · 1 BL_
+
+There were four of them at the hatch when she came down, and they had guns.
+
+Not real guns. The Mercy had never carried real guns; the Company had considered them a liability on a sealed ship and had been right. What the watch carried were stun-batons and a pair of the long-nosed tranquilliser pistols from the medical locker that had been meant for animals, back when there had been animals, a hundred and fifty years ago, before the last of the goats died. But they wore them on their belts where you could see them. And they stood in front of the great round pressure hatch to Deck Nine in a little half-circle, in their grey watch-coats, under the work-light, the way people stand in front of something they have been told to keep other people away from.
+
+Ilse stopped at the bottom of the ladder. She had come down four hundred metres of it under a third of a gee at the end of a double shift and her knees were telling her about it. She looked at the four of them, and at the hatch, and back.
+
+"Corporal," she said.
+
+Dace Hollin stepped forward. He was a compact, sandy, unremarkable man with a soft voice and very steady hands, and Ilse had always liked him, a little, in the way you like a well-made tool. He had been on the watch for fifteen years. He had pulled her out of a coolant fire on Row Twenty once and never mentioned it afterwards.
+
+"Warden Varga," he said. "I'm sorry. I've got orders."
+
+"What orders?"
+
+"Deck Nine's secured for the mass audit. Captain's instruction. Nobody goes in or out without his authorisation or mine."
+
+"I'm the warden of Deck Nine."
+
+"Yes, ma'am."
+
+"I've got pumps on Twelve and Twenty-Six that need looking at every eight hours. I've got a seal on Thirty-Three that's been weeping since the burn started. If I don't go in there, people die."
+
+"Yes, ma'am. I know. That's why I'm going to take you in myself." He said it gently, the way he did everything. "You can go anywhere you like and do anything you need to. I'll just be with you. Captain's orders."
+
+She looked at him. He looked back at her steadily with his mild grey eyes, and she understood that there was no use in shouting at him, that he would let her shout as long as she liked and then take her in himself, with his hand near his belt, and that was all there was to it.
+
+"Fine," she said.
+
+He opened the hatch for her. That was the first thing she noticed: that he had the code. Nobody had the code for the Deck Nine hatch but the warden and the captain. Then she went through, and stood at the head of the central gangway with the cold rows going away from her on every side into the blue light and the long breath of four thousand compressors filling the hold like the sea, and she heard something else under it. Voices. Tools. The scream of a cutting wheel, a long way off, aft and below, towards the Drop Bay.
+
+She went towards it without thinking. Hollin went with her.
+
+The Drop Bay was the oldest part of the hold that nobody ever went to. It was a long low gallery under the floor of Deck Nine, running round the outer rim of the drum, where the great clamps were—the eight huge yellow-painted jaws, four on each side, that held the whole sleeper hold to the ship's spine. Ilse had been down there perhaps three times in twenty-two years. There was nothing to maintain. The clamps had been locked at the yard and had never been opened; their release stations, one at each corner, were sealed under steel plates bolted with the same heavy lock-bolts that the key was cut to fit, and the plates were painted over with the Company's warning in four languages, which had faded in a hundred and ninety years to a kind of rust-coloured ghost.
+
+There were six people down there now. Engineers from the drive section, in their stained overalls. They had a portable light-rig set up and a scaffold against the forward clamp, and one of them was up the scaffold with a cutting wheel taking a sample from the clamp's mounting, and another was below with a slate taking measurements. They stopped when they saw her. They looked at Hollin. Hollin nodded and they went on.
+
+"What are they doing?" said Ilse.
+
+"Mass audit, ma'am."
+
+"You don't audit mass with a cutting wheel."
+
+"I wouldn't know, ma'am. I'm watch."
+
+She walked up to the scaffold. The man with the slate was Ferro, from the drive, a cheerful man she had played cards with for ten years. He did not look at her.
+
+"Ferro," she said. "What are you measuring?"
+
+"Shear," said Ferro, to the slate. "Mounting tolerances. Whether they'll—" he stopped.
+
+"Whether they'll what?"
+
+"Whether they'll part clean." He made a mark. "Under thrust. If somebody opened the release stations under thrust. Whether the drum would come away clean or whether it would hang up on the forward pair and tear the spine." He looked at her, finally. He looked sick. "I just do the numbers, Ilse."
+
+Behind her Hollin said, quite softly, "That's enough, Ferro."
+
+Ilse stood under the great yellow jaw of the clamp, with the scaffold over her head and the sample-cut shining raw and bright in the old paint, and the release station's steel cover at her shoulder, with its four bolts and its faded warning, and she felt the key on her belt as if it had suddenly grown hot.
+
+"Warden," said Hollin. "I've got one more thing, and then we'll go and see to your pumps." He did not step closer. He did not have to. "The Captain asks would you give the key into my keeping. For the duration of the audit. For safety. It'll come straight back to you after."
+
+She turned round and looked at him.
+
+"No," she said.
+
+Hollin looked at her for a long moment. Then he nodded, as if it was the answer he had expected and he had only been asked to ask.
+
+"Yes, ma'am," he said. "Pumps on Twelve and Twenty-Six. Let's go."
+
+## What Tamsin Heard
+
+Tamsin found her in the Observation Blister a little after midnight, which was where Ilse had known Tamsin would find her, because it was where Ilse had gone the night of the captain's funeral and there was nowhere else on the Mercy to go.
+
+The Blister was a dome of thick glass on the bow, just aft of the bridge. It was the only real window on the ship. The Company had put it there for the officers, so the brochures said, so that they could look upon the destination; and for a hundred and ninety years there had been no destination to look upon, only the slow-turning stars, and the Blister had become the place you went to be alone, or not alone, or to cry, or to say a thing that you did not want the logs to hear. Now the ship's bow was turned back towards the way they had come for the burn, and the Blister looked aft along the ship's own length, and if you lay on the floor of it and looked up and back you could see past the engines' glare to a small pale crescent with a thin bright line beside it.
+
+Hesper. And Ninefold, a hard white fleck at the planet's shoulder. Getting bigger every day.
+
+Tamsin did not lie down. She sat with her back against the rim of the dome and her knees pulled up and her mother's jacket wrapped round her, and she was shaking. Ilse sat beside her and waited.
+
+"I was on the bridge," Tamsin said at last. "Night watch. Navigation's always got somebody on the bridge in the burn, and it was me. Nobody else was there. Just me at the nav station and the Captain in the—in the chair. Mum's chair. And then Lund came in."
+
+Ilse said nothing.
+
+"They didn't—I don't think they thought about me. I was just there. I was the navigator. You don't think about the navigator." Tamsin's hands were clenched in the jacket's cuffs. "Lund said she'd run it again. She said it was the same. She said, _three million tonnes, Aurel, you know it's the only thing big enough_. And he said he knew. And she said, _how_. And he said—" Tamsin's voice went thin. "He said, _at the Landfall burn. Fifth Quiet Day. We vent the hold and then we open the clamps and we let it go into Hesper_. He said that way it'd be quick. He said the venting first, so they wouldn't—so they'd be gone before the drum hit the atmosphere. He said they wouldn't feel anything. They wouldn't wake up."
+
+The stars turned slowly overhead.
+
+"And Lund said, _and the crew?_ And he said, _the crew will be told there was a breach. A failure in the hold. We were lucky to cut it loose in time. The crew will grieve, and then they'll live, and in fifty years they'll have a world_. And Lund didn't say anything for a long time. And then she said, _and Varga?_"
+
+Tamsin turned her head and looked at Ilse for the first time.
+
+"And he said, _Varga has the key_," Tamsin said. "_And Varga will see sense or she won't. Either way the clamps open on the fifth._"
+
+Ilse closed her eyes.
+
+She had known. That was the worst of it. She had known since the council, since before the council, since a cold thing had moved in her stomach in a medbay corridor while a man straightened his jacket at the sound of a bell. She had known and she had told Bram _nobody is touching Deck Nine_, as if saying a thing made it so, and she had gone back down the ladder to her pumps every day and listened to them breathe and not let herself think it, because she had shared a bunk with Aurel Kesh at nineteen and she had stood beside him at the captain's death and called him _Captain_ first, because someone had to be first.
+
+"Ilse," said Tamsin. "He can't. Can he? He can't just—four thousand people. They paid. They're the _settlers_. The whole point of us, the whole point of the ship, the whole point of my mother's whole _life_—"
+
+"I know."
+
+"Then what do we _do_?"
+
+Ilse opened her eyes. Out beyond the glass, past the long dark body of the Mercy and the white glare of her engines, Hesper hung in the dark like a lamp somebody had left on in an empty house. Its little white moon sat at its shoulder.
+
+"Did your mother ever say anything to you," Ilse said slowly, "about who the ship belongs to?"
+
+Tamsin stared at her. "No. What? No. Why?"
+
+"Because she said it to me. The day she died. She said, _whatever the numbers say, remember who this ship belongs to_. And Bram knows something about it. He said he had to look at it again, he had to be sure." Ilse got to her feet. Her knees hurt. Everything hurt. "Go to bed, Tamsin. Go back on watch tomorrow like nothing happened. Don't let him see you know. Can you do that?"
+
+"Yes. I don't know. Yes."
+
+"Good. Then do it." Ilse unhooked the key from her belt and looked at it—the long dark shaft, the bone handle, the twelve sets of initials on the collar, the last of them hers—and hooked it back. "I'm going to go and talk to Bram."
+
+
+# Ch. 8 — The Key of Office
+
+## Investiture
+
+_The Compact · 310 AL_
+
+Eighteen days before the Tricentennial, according to a custom so old nobody remembered who had begun it, the Warden-General came to the Hall of Muster at night and laid the Key of Office on the case of the Roll, and stood vigil beside it until the lamps came up.
+
+It was called the Investiture, although nobody was invested with anything. Hal said it had been a real investiture once, in the first years, when each new Warden took the Key from the hands of the last in front of the Roll; then the Wardenry had become hereditary in the Kesh line and there was nobody to take it from, and the ceremony had worn down to this—a man in grey standing in an empty nave all night, with a key on a glass case, and a dozen of the great families in the pews to watch him do it, and a junior archivist on duty by the plinth in case anything happened to the glass.
+
+Neve was the junior archivist. She stood by the plinth in her best grey with her hands folded and tried not to look at the Roll. It was back in its case for the night, for the ceremony, though the lid had not been resealed; tomorrow it would come out again and she would go back to her raking light and her holes. She had photographed eleven rows now. She had four hundred and twelve pricked letters written in a notebook that she kept inside her shirt, and every one of them was nonsense.
+
+The Warden-General came down the aisle at the first bell of the third watch. The families stood. He walked slowly, alone, his footsteps loud on the stone, and when he reached the plinth he lifted the chain from his neck in both hands and laid the Key down on the fogged glass above the Roll, and stepped back, and stood.
+
+He was two metres from her. It was the closest Neve had ever been to the Key of Office. She had seen it all her life—in every portrait, on every screen, in the sigil at the top of every Compact document—and she had never seen it at all, she realised, because she had never been close enough to see that it was a tool.
+
+It was a wrench. A torque wrench, the long-handled kind, with a socket head machined to a strange hexagonal-and-notched profile she did not recognise. The shaft was dark steel, pitted with age. The handle was some pale, smooth, bone-coloured composite, worn down near the end where hands had held it. The collar where the shaft met the handle had been fitted, long ago, with a welded ring for the chain. And the collar was covered in writing.
+
+Not writing. Letters. Tiny scratched initials, set by set, round and round the collar, a dozen sets of them, the oldest worn almost to nothing. Neve put her head on one side as if she was looking at the Roll beneath it and let her eyes move over them.
+
+_K.T._ _A.M._ _J.S.-B._ _R.O._ Some she could not read at all. They went round the collar in a spiral, the way you might write on a thing you meant to hand on. And the last of them—the newest, the one nearest the handle, the cleanest-cut—had been scratched by a hand that knew the tool intimately. The marks were too small and worn for her to make out.
+
+She looked at it until her eyes watered.
+
+She knew every Warden-General of the Compact. Every schoolchild did; you learned them in a chant, Kesh to Kesh-Amaury, twenty-three names in three hundred years. None of them had cut their initials into the Key of Office at all, as far as she knew; it would have been like scratching your name into the Roll. These letters were older than the Wardenry. They were the marks of people who had owned this tool before it was the Key of anything, who had used it, and carried it, and scratched their names on it the way engineers did, so that it would know whose it had been.
+
+And the shape of it. A long shaft. A heavy head. A handle at the end like a bone.
+
+She had seen that shape four nights ago, pricked in iron gall into the pasteboard of the Roll, under a line that said _for whoever counts them next_.
+
+She stood there all night. The families dozed in their pews. The Warden-General did not move. Once, near the end of the second watch, the door at the back of the nave opened and somebody came in quietly and stood at the back, and Neve turned her head a fraction and saw it was the Navy captain from the talks, Rhee Salvador, in her black, alone, standing very straight with her hands behind her back, looking at the Key. She stayed perhaps a quarter of an hour. Then she went out again as quietly as she had come.
+
+When the lamps came up the Warden-General stepped forward and took the Key from the glass and put the chain over his head, and the families stood, and it was over. They filed out. Neve began to reseal the case.
+
+"Archivist."
+
+She turned. He was still there. Up close he was older than he looked on the screens, and more tired; there were deep lines at the corners of his eyes, and he smelled faintly of some expensive soap and of the long night.
+
+"Castellan," he said. "Isn't it? Oduya's girl. He tells me you're the best he has."
+
+"He's very kind, Warden-General."
+
+"He's very rarely kind. That's why I believe him." He looked down at the Roll, through the fogged glass. "How is it?"
+
+"Fragile. Sound. Some water damage, in the middle rows. Some old burns. Nothing that won't hold for another three hundred years."
+
+"Nothing else?"
+
+She did not let herself stop. "Nothing else, Warden-General."
+
+He looked at her for a moment with his deep, tired eyes. Then he nodded.
+
+"Be thorough," he said. "But be quick. I want it on the screens on Landfall Day, every name. The whole station needs to see it. We need to remember what we are." His hand went up, almost absently, to the Key on his chest. "What we came from."
+
+"Yes, Warden-General."
+
+He went. She finished sealing the case. Her hands, she noticed, were perfectly steady; it was the rest of her that was shaking.
+
+## Mother Calloway's Song
+
+Ring B had been the poor ring for as long as there had been a Compact, and it smelled the way poor places smelled, of boiled grain and laundry and too many people breathing the same air. Neve had grown up two corridors from the Kin Quarter. She had not been back in six years.
+
+"You know your way," said Jory.
+
+"I used to."
+
+"Then you lead."
+
+She led. Down off the Spine through the old crew-ring access, into the long curving corridors where the ring's spin made the floor rise ahead of you and behind you like the inside of a wheel. Laundry lines across the passages, strung between the old pipe-brackets. Children everywhere. A tea-shop with three tables, full. Somebody's radio playing a Ninefold drilling song. The Kin Quarter proper began where the walls were painted—the Kin painted everything, in looping white script over the station's grey, prayers and names and the dates of deaths and births, so that walking down a Kin corridor was like walking through the pages of a book.
+
+Mother Calloway lived at the end of one of them, in two rooms that had been a crew cabin when the Mercy was a ship. She was the oldest person Neve had ever seen. She sat in a chair by the heating-vent wrapped in three shawls, a tiny brown woman with eyes like chips of black glass and hands so twisted with age that she held her tea-bowl between her wrists, and she looked at Neve as she came through the door and said, at once, "Archivist."
+
+"How does everybody know that?"
+
+"You stand like one," said Mother Calloway. "Like you're afraid of breaking the floor. Sit down. Jory, give her tea. Not that tea. The good tea. She's a guest."
+
+Jory gave her the good tea. It tasted of smoke and something sweet. Mother Calloway watched her drink it.
+
+"Jory tells me you keep the Roll," she said.
+
+"I'm restoring it. For the Tricentennial."
+
+"I know the Roll. I cleaned the Hall of Muster for forty years. Every night, on my knees, with a brush, before your Hal Oduya was born." The black eyes glittered. "I used to sit by the case on the night shift, when the floor was done, and look at it through the glass. It was clearer then. You could read it, if you knew how. They opened it once, when I was a girl, for the Bicentennial, and I was on the floor that night and I saw it open." She drank from her bowl, between her wrists. "Do you know what I saw?"
+
+Neve shook her head.
+
+"Lines," said Mother Calloway. "Through names. Here and there, one in a hundred, one in two hundred. A name struck through with a ruler, neat, and the date of the death beside it. A settler who died in the cold, in the long voyage, when a pod failed. They struck them through. That was how the Roll kept the dead. And then I looked for the Four Thousand." She put the bowl down. "And there was nothing. No line. No date. Not one of the Four Thousand was ever struck through. Three hundred years, and every Warden-General standing beside that case saying _those who were not woken_, and not one of them ever took a ruler to that book and drew a line through a single name."
+
+The heating-vent ticked. Jory was very still.
+
+"Maybe they didn't think of it," Neve said. "Maybe it was—too many. Four thousand lines."
+
+"Maybe," said Mother Calloway. "Or maybe somebody wouldn't."
+
+She turned her head to the wall beside her chair. There was writing on it, in the white Kin script, old, written over, written over again. She ran one twisted hand across it.
+
+"You know what the Kin are, Archivist?"
+
+"Miners' families. From Ninefold."
+
+"Now. Not then. Then we were the first. The first ones down on the ice, in the forties, when the Compact needed water and nobody else would go. Forty families. They built Gallows Town with their hands. And in the first winter they found the ice was singing." She said it simply, as if she was telling Neve the price of grain. "Out east. Forty kilometres, past where the Rift runs out. You'd put your ear to the ice and you'd hear it. Not loud. Steady. Like a hum. Like a lot of voices a long way off, all holding the same note. The old ones said it was the Choir. Nobody knew whose."
+
+"Machinery," said Neve. "Something under the ice. Geological."
+
+"Maybe." Mother Calloway's mouth moved in what might have been a smile. "The Compact thought so too. They sent the Navy. The Navy put a red square on the map and moved the families back to the town and told them never to go east of the Rift again on pain of their contracts. And the Kin did what they were told, because the Kin always do what they're told, Archivist, until they don't." She looked at Jory. "And they made a song."
+
+"Mother," said Jory.
+
+"Hush. She's a guest. She should hear it." The old woman closed her eyes. And then, in a voice that was nothing at all—a thread, a whisper, a voice that had worn away to the shape of a voice—she sang.
+
+It was the song Jory had sung on the Spine. Neve knew it the moment it began, the slow up-and-down of it, the round-and-round with no proper ending. But Jory had not known the words, and Mother Calloway knew all of them, and she sang them in the Kin language first and then in Common, the way the old ones did, so that strangers could understand.
+
+_There's a choir in the ice and it never stops,_
+_it's been singing since the long night drops,_
+_and the Warden's eye says go no nearer,_
+_but the song gets clearer and the song gets clearer—_
+_so we keep the count, we keep the count,_
+_till the long night's over._
+
+She stopped. The last line hung in the room.
+
+"_Keep the count_," said Neve. "Count what?"
+
+"It's a song," said Mother Calloway, and opened her eyes, and picked up her tea-bowl again between her wrists. "Songs say all kinds of things."
+
+
+# Ch. 9 — The Obedient
+
+## Into the Grind
+
+_The Quiet · 742 AL_
+
+The Grind was where the Scree went to die.
+
+Everywhere else in the belt the rocks kept a decent distance from one another. You could fly the outer Scree for a week and never come within a kilometre of anything bigger than your fist; the danger there was the slow kind, the kind that came from getting bored. But at the belt's heart, where some ancient collision had smashed a moon into gravel and left it all tumbling in one great knot, the rocks were close. They were close and they were moving, grinding against each other in slow motion, a river of stone the size of a continent that never stopped flowing and never got anywhere, and the only way through it was to go slow, and watch everything, and trust the ship in front.
+
+The Sixpence went in first. Osh followed her at four hundred metres, which was too close, because any further and she lost her in the dust.
+
+"Rock at your two-high," said Saba over the channel. Her voice was flat and calm, the voice of someone who had done this before and did not much enjoy it. "Spinning. Give it room."
+
+"I see it."
+
+"You don't. The one behind it."
+
+Osh saw it. She gave it room. The Pelican's Debt groaned through the turn, all ninety metres of her complaining in every joint; she was a tug, built to haul, and she had the agility of a bathtub. A slab of grey stone the size of the Hulk's Counting House slid past the forward port close enough that Osh could see the scars on it, old impact craters, glinting with frost.
+
+Behind her in the cockpit's second seat Kit sat with her hands clenched on her knees and said nothing at all. She had said nothing for six hours. Osh had stopped telling her to breathe.
+
+"How much further?" Osh said.
+
+"Two hours. Maybe three. She's moved since I was last in." A pause, crackling. "Everything moves in here, Osh. That's the trouble with it. You never come back to the same place twice."
+
+"Philosophical."
+
+"Practical. Drop to two hundred. There's a bad bit coming."
+
+The bad bit lasted forty minutes. Afterwards Osh could remember very little of it, only that at one point the Sixpence vanished entirely into a cloud of dust kicked up by two rocks grinding together and for a long, long ninety seconds there was nothing on the channel but static and nothing on the scope but noise, and Osh flew straight on into the dust at a hundred metres a second because there was nothing else to do. Then the Sixpence came out of it ahead of her, a small battered shape lit red by Cauld, and Saba's voice said, quite conversationally, "Still there?" and Osh discovered she had bitten through the inside of her cheek.
+
+"Still here."
+
+"Good. Look at your one-low."
+
+Osh looked.
+
+She was lying among the rocks like something that had crawled there to die. A long hull, long and narrow and black, the old Navy long-hull pattern with the sensor array forward like a lance and the drive section aft in a great swollen bulb; tumbling slowly end over end, so slowly you could hardly see it move, with a slab of rock the size of a town pressed against her dorsal side like a hand holding her down. Her running lights were dead. Her hull was scorched along a third of its length in a pattern Osh knew from a hundred wrecks—not the long smear of atmosphere, but the brief, specific bloom of a weapon. Somebody had shot her, a long time ago. And then she had come in here, into the Grind, as if to hide.
+
+On her flank, between two scorch marks, half-scoured away by four centuries of dust, there were letters. Compact grey on Navy black.
+
+_OBEDIENT._
+
+"There she is," said Saba softly. "Isn't she pretty."
+
+Kit made a small sound in the second seat. Osh looked at her. The girl was staring at the dead ship with her face gone very still and very white.
+
+"You all right?"
+
+"There are people in there," said Kit.
+
+"There were. A long time ago."
+
+"There _are_." Kit swallowed. "Nobody ever came for them. They're still in there."
+
+Osh looked back at the wreck. The long black hull turning over, and over, and over in the red light, slow as breath.
+
+"Then I suppose we'll be the first," she said. "Suit up."
+
+## Flight Recorder
+
+They went in through a hole in the hull where something had punched through the wardroom and kept going.
+
+It was dark inside, and very cold, and absolutely still in the way of places that have had no air for a long time; nothing moved but the dust their boots kicked up, which hung in their helmet-lamps like snow that had forgotten how to fall. The Obedient had been a fighting ship and she was laid out like one: narrow corridors, low ceilings, everything painted a grey that the lamps turned the colour of old bone. There were handholds everywhere. There were stencilled signs on the walls in the old Compact script, which Osh could half read—_FIRE CONTROL_, _DAMAGE STATION 3_, _ALL HANDS ALL HANDS_—and there were the crew.
+
+Osh had seen dead people before. Everybody in the Scree had. You found them in wrecks, in suits that had given out, in lifeboats that had never been picked up. You learned not to look at them much and to say something short for them if you could think of anything, and to take what you came for and get out. These were not like that. The cold and the vacuum had kept them. They were at their stations, most of them—a young man strapped into a seat at a damage-control board with his hands still on the controls; two women in the corridor outside fire control, holding each other, their faces turned in to each other's shoulders—and they were whole, and their uniforms were whole, and they looked, in the white glare of the lamps, as if they had only just stopped. As if, if you made a noise, they would turn round.
+
+Kit made a noise. A small one. Osh put a hand on her shoulder and kept it there.
+
+"Bridge is forward," said Saba. Her voice was rough. "The recorder's housed under the captain's station. Don't touch anyone. Some of them come apart."
+
+They went forward.
+
+The bridge was small, a cramped round room with six seats facing inwards round a dead holo-table, and only one of the seats was empty. The captain's. Whoever had sat in it at the end had got up, and gone somewhere, and not come back; the straps hung loose. The other five were full. Osh did not look at their faces. She knelt at the base of the captain's station and found the armoured housing, a squat black box with the Navy sigil on it and the word _RECORDER_ stencilled under the sigil, and got out her cutters.
+
+It took forty minutes to get it out. The housing had been built to survive the ship and it had. When it came free at last it was heavier than it looked, a dense dark slab the size of a ration case, and Osh held it in both hands in the lamp-light and felt the weight of it, and thought: _forty thousand marks_. And then thought, because she could not help it: _and how many people in this room_.
+
+Kit had not come to help. Kit was standing by the empty captain's chair with her lamp pointed at the deck, where something lay against the base of the seat as if it had been dropped there. She bent and picked it up. Osh saw her turn it over in her gloved hands.
+
+"What is it?"
+
+"A cap." Kit held it up. It was a Navy officer's cap, black, with a captain's bar on the band, crusted with frost. "Just a cap."
+
+"Leave it."
+
+Kit did not leave it. She put it, very carefully, on the seat of the captain's chair, square, the way you might put it if you were expecting the captain to come back for it. Then she stood back.
+
+"Ready?" said Saba from the hatch.
+
+"Ready," said Osh.
+
+They took the recorder back to the Pelican, and Osh rigged it to the galley console with an adaptor Saba had brought, and it took the rest of that day and half the night to coax anything out of it. The memory was four hundred years old and it had been cold for every one of them, and the first thing it gave them was garbage, and the second thing was more garbage, and Saba sat at the galley table eating Osh's rations and offering advice and Osh told her what she could do with her advice, and it was, for a few hours, almost like the old days. Then, at about the second bell of the night watch, the screen flickered and filled with text.
+
+Patrol logs. Hundreds of them. Thousands. Day after day, year after year, the Obedient's little routine set down in the Navy's flat clipped language: departed Tolland Station, proceeded Ninefold station-keeping, maintained position, observed no activity, returned. And every one of them, every single day, gave the same position for the station-keeping. A string of numbers. Coordinates on the surface of Ninefold, in the Navy's grid.
+
+"There," said Saba, very quietly. "That's your point."
+
+Osh copied it down. Her hand was not steady. It was a point. Not a red square forty kilometres on a side; a point, a single spot on the ice, that the Compact Navy had sent a cutter to sit above every day for years, for no reason anybody had ever written down.
+
+"Forty-one kilometres east-north-east of Gallows Town," said Kit, reading over her shoulder. "Where the Rift runs dry."
+
+"Your song was right," said Saba.
+
+"It's not my song."
+
+Osh scrolled on. The dates went by. 290 AL. 300 AL. 305, 308, 310. Every day the same: proceeded Ninefold station-keeping, maintained position, observed no activity. Longdark of 310. The Quiet Days of 310. And then the first day of Firstwatch, 311 AL, and the entry for that day was not a patrol log at all, but a single line of code, a file reference, flagged _FIRE CONTROL — SEALED — CAPTAIN'S AUTHORITY_, and when Osh tried to open it the recorder thought about it for a long time and then gave her nothing. Corrupted. Unreadable.
+
+And after that there were no more patrol logs. None. Not that year, not the next. The Obedient had gone on flying, the recorder said—there were other entries, convoy work, a refit, a long tour out to Ashgrave—but she had never gone back to Ninefold station-keeping again. Nobody had. On the first of Firstwatch, 311 AL, the Compact Navy had stopped guarding the point on the ice, and never said why.
+
+"What happened?" said Kit. "On the first of Firstwatch. What happened?"
+
+"Landfall Day," said Saba. "Some anniversary or other. They had parades for it, in the old days." She shrugged. "Who knows. Maybe there was nothing there to guard any more."
+
+Osh sat looking at the dead line on the screen. _Fire control. Sealed. Captain's authority._
+
+"Or maybe," she said, "there was."
+
+
+# Ch. 10 — The Charter
+
+## Strongbox
+
+_The Mercy · 1 BL_
+
+The strongbox had been in the back of the quartermaster's store for a hundred and ninety years, and in all that time it had been opened twice.
+
+"Once at the launch," said Bram, "to put it in. Once eleven weeks ago, when the Captain came down here on her own two feet for the last time and gave me the code and told me to read it. I read it. I put it back. I've been sitting on it ever since like a hen on a bad egg." He knelt in front of the box. It was a squat steel cube the size of a man's chest, bolted through the deck, painted the same flaking Company green as everything else that had come out of the yard, with a dial lock on its face and a small brass plate that said _TOLLAND COLONIAL COMPANY — INSTRUMENTS OF TITLE — NOT TO BE OPENED BEFORE LANDFALL EXCEPT BY ORDER OF THE MASTER_. "She was the Master. So I suppose it was by order."
+
+He spun the dial. Ilse and Tamsin stood behind him between the racks and watched. The store was dim—Bram had turned down the lights, as if that would help—and the only sounds were the dial clicking and, very far off, the endless hum of the burn.
+
+The door swung open. Inside was a single object: a flat case of some dark oiled wood, very old, with brass hinges. Bram lifted it out and set it on an upturned crate and opened it.
+
+Paper. A thick fold of heavy cream paper, the kind of paper nobody had made for two centuries, sealed with a ribbon and a disc of red wax gone brown and brittle with age. Bram had already broken the seal, eleven weeks ago. He unfolded it now, gently, the way he turned the pages of the Ledger.
+
+"Read it," he said. "Not all of it. It's forty pages and most of it's lawyers. Read where I've marked."
+
+Tamsin read it aloud, because Ilse found, when she looked at the page, that the old formal print swam in front of her eyes.
+
+"_Article the First. The Colony of Tolland, together with the vessel_ Mercy of Tolland _and all its fittings, stores, cargo and appurtenances, and all lands, waters, minerals and rights howsoever acquired in the destination system, shall be held in common by the Members of the Colony, being those persons enrolled and embarked in cold passage according to the Muster._" Tamsin stopped. "The Muster. That's the Ledger."
+
+"Go on."
+
+"_Article the Second. The officers and crew of the vessel, and their issue born in passage, shall serve the Members as bonded servants of the Colony for the duration of the passage and for a term of ten years following Landfall, after which term each shall be released from bond and admitted to Membership, with such share as the Members in assembly shall determine._" She looked up. "Bonded servants."
+
+"Read the next one," said Bram. "The one I've marked twice."
+
+Tamsin read it. Her voice changed halfway through.
+
+"_Article the Ninth. Should the Members be lost entire in passage or at Landfall, by accident, sickness or misadventure, so that none survive to assemble, then the title vested in them by Article the First shall pass entire and without encumbrance to the surviving complement of the vessel, who shall be released forthwith from bond and shall hold the Colony in common in their stead._"
+
+The store was very quiet.
+
+"There it is," said Bram. "Who the ship belongs to." He laid one big hand flat on the paper. "Them. The four thousand. Every bolt of it, every drop of water, every rock in this system we haven't even seen yet. It's theirs. We're the help. We've been the help for a hundred and ninety years, our parents and their parents, and when they wake up we get to go on being the help for another ten, and then if they're feeling generous they let us join." He turned his hand over, palm up, empty. "Unless they're dead."
+
+"He doesn't know about this," said Tamsin. "He can't. He'd never—it's not about that. It's the mass. It's Lund's numbers. It's three million tonnes."
+
+"It's three million tonnes," Bram agreed. "Every word of that's true. The numbers are real and Lund's not lying. That's what makes it so easy." He looked at Ilse. "But he knows. Of course he knows. He's First Officer. He sat the same Company exams as the Captain did. Article the Ninth's on the exam. Every officer that ever crewed this ship knew what was in this box, and every one of them knew what Article the Ninth meant, and every one of them kept their mouths shut about it for a hundred and ninety years, because what would be the point." He closed the paper. "Your mother knew," he said to Tamsin. "And she knew he knew. And she was frightened, at the end, that when the numbers came out he'd do the sums both ways and find they came out the same. That's why she said it to Ilse. _Remember who this ship belongs to._"
+
+Tamsin had gone white. She looked at Ilse.
+
+Ilse was looking at the paper. At the brown broken wax, and the ribbon, and the old print that said _bonded servants_, and _lost entire_, and _in their stead_. She found she was thinking about Kesh at nineteen, in the cadet barracks, explaining to her very seriously why he was going to be a captain one day: because somebody had to be, and he would be fair. He had believed it. She had believed him. She thought he probably still believed it now.
+
+"Put it back in the box," she said. "Lock it. Don't tell anyone else it's open."
+
+"And then what?"
+
+"And then I'm going to go and see him," said Ilse. "He's asked me to. He wants to talk. Somewhere private." She touched the key at her belt. "I think it's about time we did."
+
+## Kesh in the Observation Blister
+
+He was already there when she came in, lying on his back on the floor of the Blister with his hands behind his head, looking up through the glass at Hesper. The planet was bigger than a thumbnail now. You could see bands on it, faint gold and brown. You could see Ninefold at its shoulder as a real disc, white, cracked across its face with faint dark lines, like an eggshell somebody had dropped and glued.
+
+"Lie down," said Kesh. "You can't see it properly sitting up."
+
+She lay down beside him. Not close. The glass curved above them. It was very quiet; the Blister was the one place on the Mercy where you could not hear the burn.
+
+"Do you remember," said Kesh, "the first time we came up here?"
+
+"Cadet year. You'd stolen a bottle from Okafor's predecessor."
+
+"Lindqvist. Terrible man. Terrible still." He smiled at the glass. "And we lay here and looked at the stars and you told me you were going to be the first warden of Deck Nine to see a sky. A real one, with weather in it. You said you'd walk them out of the cold one at a time and hand them each a coat."
+
+"I remember."
+
+"I've been thinking about that a lot." He was quiet for a while. "Ilse. I'm not going to insult you. You know what Lund's numbers say. You know what Hollin's people have been doing in the Drop Bay. You're not a fool and I'm not going to treat you like one."
+
+He reached into his jacket and took out a small square of folded cloth. It was a child's coat, or had once been one, cut down from an adult uniform and repaired at the elbows. He had been carrying it so long that the fabric had gone soft.
+
+"I went to Row Thirty-One last night," he said. "I took this with me. I don't know why. Ama's berth is twelve. I stood there and put my hand on the frost and said her name." He looked at the little coat in his palm. "Then I came back up here and signed the order. You can call me a monster if you like. I have called myself worse. But I am still responsible for the people who are awake."
+
+"Then don't."
+
+"I've been over it a thousand times. Every system on this ship. Every tonne." He rubbed both hands over his face. The skin under his eyes was grey. He had lost weight since the captain died; his collar stood away from his neck, and the same ration bar had been sitting unopened beside the blister's hatch for three days. "We could strip the crew rings to the frames, dump every crate in the forward hold, cut the hydroponics back to nothing and starve for a year, and we'd be eight hundred thousand tonnes lighter, and it wouldn't be enough. Nothing's enough but the drum."
+
+He laughed once, without amusement, and then pressed the heel of his hand to his mouth. For a moment Ilse thought he was going to be sick. He swallowed it down.
+
+"I've tried to find another way," he said. "I swear to you I have. I have slept in the captain's chair because every time I close my eyes I see the mass diagram. I wake up counting. I eat when Lund puts food in my hand. There isn't another way."
+
+"There's always a way through," said Ilse. "You find the failed part and change it."
+
+"That's a thing people say. It isn't a thing that's true."
+
+"And Article the Ninth?" said Ilse.
+
+He went quite still. She watched it happen, a man she had known for thirty years holding his face exactly where it was while everything behind it moved.
+
+"Okafor," he said at last.
+
+"The Captain. Before she died. She gave Bram the code to the strongbox."
+
+"Of course she did." He looked back up at the glass. "Ines always did like to have the last word." He breathed out, a long slow breath. "Yes. Article the Ninth. If they die, we own it. All of it. We stop being servants. Three hundred and forty of us, and our children, and nobody's ever going to wake up out of a box and tell us what we're worth." He was quiet a moment. "Do you think that's why?"
+
+"I think you've done the sums both ways."
+
+"I've done the sums both ways," Kesh said. "And they come out the same. That's not my fault, Ilse. That's not something I did. That's just how the sums came out. If Article the Ninth said the opposite—if it said that if the Members died we'd all be shot—the numbers would still say three million tonnes and I'd still be lying here asking you for the key." He turned on his side to face her. In the dim light from Hesper his face was very tired and very gentle, and she could see, under the grey and the lines, the boy who had stolen Lindqvist's bottle. "Give me the key," he said, and the words came out almost soundless. "Please, Ilse."
+
+"No."
+
+"If I don't have it, Hollin cuts the release plates with torches. It'll take days. Ferro says there's a chance it doesn't part clean. There's a chance it tears the spine and kills everybody on the ship. That's the choice you're making, if you say no. Not them or us. Them, or them and us." His fingers closed hard on the edge of the blanket. "I know what it sounds like. I know exactly what it is. I have written their names down. I have walked Row One. I know Ama Okafor is seven. I know what I'm asking you to do."
+
+"Then you'd better not cut," said Ilse. "You'd better not."
+
+He looked at her for a long moment. Then he lay back down and looked up at the planet, at its little white moon, and folded his hands on his chest like a man laid out for burial.
+
+"I'm sorry," he said. "I'm sorry it's you. I wish it was anybody else."
+
+She got up. She did not say anything. There was nothing to say that would not have come out wrong. She went to the hatch and turned the wheel and went out into the corridor, and stood there, breathing, with her back against the cold steel of the hatch, until she could trust her legs.
+
+When she straightened up and started aft she saw them, at the far end of the corridor, where it met the Spine. Hollin, and five of the watch, in their grey coats, with their batons and their animal-pistols on their belts. Not coming towards her. Going the other way. Going down the Spine, fast and quiet, in a little tight group, towards the forward hold and the medbay and the quartermaster's store.
+
+She ran.
+
+
+# Ch. 11 — Interdict
+
+## Shaft Twelve
+
+_The Compact · 310 AL_
+
+The order came down at the end of the first watch, signed with the Warden-General's own seal, and it said _secure the shafts_.
+
+Rhee Salvador had been in the Navy for twenty-six years. She knew what _secure_ meant. She had secured convoys, and dockyards, and once, as a junior lieutenant, a prison barge off Ashgrave where the inmates had taken the mess hall and were cooking the guards' rations on an open fire. She had read _secure_ in a hundred orders and every time it had meant the same thing, which was: _make it so that the thing we want to happen happens, and do not make us write down how_.
+
+She put the Obedient down on the black-sprayed ice of the Gallows Town landing field at the start of the second watch, with sixty marines in the hold and the town lights coming up around her through the blowing frost like a fleet of small ships. Then she walked across the ice to Shaft Twelve, at the head of her people, because a captain who sent sixty marines to do a thing and did not walk with them was the kind of captain Rhee had spent twenty-six years trying not to be.
+
+Shaft Twelve was eight kilometres south of the town, a great black square in the ice with a drill gantry over it like a gallows—which was where the town got its name, the Kin said, though the Kin said a great many things—and a ring of blocky prefab sheds round its lip. The sheds were dark. The gantry was dark. Across the road that led to it, in the grey half-light of Hesper-rise, somebody had built a wall.
+
+Not a real wall. A line of things. Ice-crawlers parked nose to tail. Cargo sleds tipped on their sides. Drill casings. Furniture, God help them; a kitchen table, three chairs, a child's cot. And behind it, on top of it, around it, perhaps three hundred people in padded ice-gear with the red hand on their shoulders, standing in the cold with their breath going up in clouds, and the wind tearing at a banner somebody had strung from two drill-rods that said, in letters a metre high, _19_.
+
+The nineteen killed when the shaft came down. Rhee had read the report. Salt intrusion in the lower galleries; the Compact's own engineers had flagged it in Brine and nobody had done anything about it, and on the twentieth of Ashfall the walls had given way. Nineteen. Eleven of them were still down there. You could not dig them out without reopening the shaft, and you could not reopen the shaft without the Union, and the Union would not reopen the shaft.
+
+"Captain," said her lieutenant, a sharp-faced boy called Ansel who had been at the Academy eighteen months ago and still believed in it. "Orders?"
+
+Rhee looked at the wall. Three hundred people. Old men. Women her own age. Children—there were children on top of the ice-crawlers, a boy of ten or so in a red hat, waving at the marines as if they had come for a parade.
+
+"Hold position," she said. "Safeties on. No advance, no weapons unshipped. I am going to speak with the steward."
+
+"Captain, the order says—"
+
+"I've read the order, Lieutenant." She took off her helmet, so they could see her face, and clipped it to her belt, and walked out alone across the hundred metres of grey ice between her marines and the wall.
+
+Afterwards the inquiry asked her a great many questions about the next eleven minutes and she answered them all, accurately and completely, under oath. Yes, she had approached the barricade alone. Yes, she had spoken to a woman who identified herself as the Union steward for Shaft Twelve, one Imani Achterberg. Yes, she had offered safe conduct for the Union's people back to the town, and an assurance in her own name that the shaft would not be reopened by force until the delegation on the station had concluded. Yes, Steward Achterberg had said she would put it to the others. Yes, it had been going well. Yes, she believed—she still believed—that in another quarter of an hour the people on the barricade would have climbed down and gone home.
+
+And no, she did not know who fired first.
+
+She heard it. A flat crack behind her, like ice splitting. She turned and saw one of her marines, at the end of the line, a big young man whose name she later learned was Pettigrew, standing with his rifle at his shoulder and a look on his face of absolute bewilderment, as if the rifle had done it by itself. Maybe it had. Somebody on the barricade had thrown something—a chunk of ice, the inquiry concluded, though some witnesses said a bottle—and it had struck the marine beside him, and he had been frightened, and nineteen years old, and his finger had been on the trigger guard where it was not supposed to be.
+
+Then the crack of the other rifles, three or four of them, the way it goes once one goes.
+
+Then nothing. Then screaming.
+
+She did not remember running back. She remembered being in the middle of her own line with her hand round Ansel's wrist, forcing his weapon down, shouting _cease fire, weapons down_ in a voice she did not recognise as hers. She remembered the silence afterwards, enormous, and the wind, and the banner with the _19_ on it tearing loose from one of its drill-rods and flapping away across the ice like a bird.
+
+Two dead. A man of sixty, a drill-foreman. And the boy in the red hat, who had been standing on the ice-crawler waving at the parade.
+
+She sent her marines back to the ship. She stayed. She helped carry the boy back to the town herself, with three miners who did not look at her and did not tell her to go away, and when they reached the Union Hall she laid him down on a table in the long red room among the union banners and stood there in her black Navy coat, with his blood on her gloves, and said to no one in particular, "I'm sorry," and nobody answered her.
+
+That night, alone in her cabin on the Obedient, she wrote her report. She wrote it exactly. She wrote _Marine Pettigrew discharged his weapon without order_; she wrote _I accept full responsibility as commanding officer_; she wrote the boy's name, which she had asked for, and the foreman's. Then she sat for a long time looking at the last line of her orders, which she had not read until now, because she had not needed to.
+
+_The Interdict Field is to be held inviolate against any incursion whatever. The commanding officer is authorised to use all necessary force._
+
+All necessary force. Against people who wanted to drill a piece of ice.
+
+She thought of a man in grey standing all night in an empty hall, with his hand on a key. She thought of the boy in the red hat. And she thought, for the first time in twenty-six years, about what exactly it was she had been guarding.
+
+## The Old Ban
+
+The news from Gallows Town reached the station at the start of the next day, and by the end of it the Spine was full of Watch in grey, and the Kin Quarter was full of mourning paint, and the Union delegation was confined to its lodgings by order of the Warden-General for its own protection.
+
+Neve went down into the stacks.
+
+The Hall of Muster's archive lay under the nave, in what had been the bilges of the Mercy's forward hold: twelve long low vaults, refrigerated, lined floor to ceiling with grey steel cases, holding every document the Compact had ever thought worth keeping. Most of it was ordinary. Ration orders. Census rolls. Three hundred years of shipping manifests. The early material was in the deepest vault, the twelfth, which was always the coldest, because the first archivists had believed the first years were the most important, and kept them nearest the hull.
+
+She was not supposed to be there. Junior archivists did not go into the twelfth vault without the Archivist Prime. But Hal had not been in the Hall all day—he had sent word that he was unwell—and the vault was not locked, because nobody ever went into it, because there was nothing in it anybody wanted. Neve went in with a hand-lamp and her second pair of gloves and her notebook inside her shirt, and began with the year One.
+
+It took her four hours to find it.
+
+It was not hidden. It was not even hard to find, once she understood that she had been looking for the wrong thing. She had been looking for a law. There was no law. The Interdict Field had never been a law; it had been an order, a single sheet in a grey folder of orders from the year One, filed between a requisition for drill bits and a roster for the hydroponics watch, as if it were nothing at all.
+
+_ORDER THE FIRST OF THE WARDENRY. That area of the surface of the moon Ninefold lying within forty kilometres of the point here described is closed to all persons in perpetuity, and no person shall land, drill, survey or dwell within it, on pain of death. Given under my hand at the instruction of the Captain. — Warden._
+
+No name. Only _Warden_. And below it, pressed into the paper with a seal of black wax, a small dark shape: a long shaft, a heavy head, a handle at the end like a bone.
+
+She sat with it in the circle of her lamp for a long time. Then, because she was there, and because she had already done the thing she was not supposed to do, she went on into the next folder. And the next. Until she found the other one.
+
+She had known it must exist. Every child knew there had been an inquiry, after the Breach. Every child knew its conclusion; it was in every schoolroom, under the picture of the hull tearing open. But nobody, as far as she knew, had read it in a century. It was a thin report, twelve pages, typed on a ship's terminal and printed on the Mercy's last stock of flimsy, and signed at the bottom in a strong, square, upright hand by Aurel Kesh, Captain, Father of the Compact.
+
+_—that on the Fifth Quiet Day, at the commencement of the Landfall burn, the four thousand Members of the Colony embarked in Deck Nine were entered as lost; that the loss was occasioned by an unauthorized act within the sleeper hold and attributed to one person alone, ———_
+
+The name had been cut out.
+
+Not crossed through. Cut. Somebody had taken a blade, a very fine one, and removed the name from the page, a neat little window of nothing two words wide. She turned the pages. Everywhere the name had appeared, it was gone. Eleven windows, in twelve pages. _The said ———. The person ———, being apprehended, did not survive._ A whole woman, cut out of the record so cleanly that you could put your finger through the places where she had been.
+
+_The Opener._ Not a name. A hole in a page where a name had been.
+
+But they had left one fact intact: the only tool on the Mercy, she would have bet her life, that could open those locks by hand—
+
+Neve put the report down very carefully on the steel case beside her. Her hands were shaking now. She pressed them flat on her knees.
+
+The Key of Office. The thing on the chain round the Warden-General's neck, which he had laid on the Roll's case, which every Warden had worn for three hundred years. It had a dozen sets of initials on its collar, scratched by the engineers who had owned it. The newest mark was still clean enough to catch the light. Perhaps it was the Opener's key. Perhaps the Wardens had simply made an old tool carry an old accusation.
+
+
+The Compact's highest office was worn on a chain made for the tool that had killed the Four Thousand. Every portrait. Every screen. Every Landfall Day, a man in grey standing beside the names of the dead with the murder weapon on his chest.
+
+_Why?_ she thought. And then, slowly, a worse thought: _who would choose that? Who would choose to wear it, every day, for three hundred years?_
+
+Unless it was not a trophy.
+
+Unless it was a key.
+
+Above her, through the cold steel ceiling of the twelfth vault and the stone floor of the nave and the glass of the case, the Roll lay in its cradle with four thousand names in it, not one of them struck through, and four thousand tiny holes pricked in iron gall in its margins, and a line in the back board that said _for whoever counts them next_.
+
+Neve picked up her lamp. She put the Order back in its folder and the report back in its folder, exactly as she had found them. Then she climbed back up the long cold stair to the conservation room, and sat down at the table, and opened the Roll, and began again.
+
+
+# Ch. 12 — Fane's Terms
+
+## Surety
+
+_The Quiet · 742 AL_
+
+He knew, of course. Saba had said he would, and he did.
+
+They had been docked at the Hulk for four hours when the summons came—not to Osh alone this time, but to _Captain Teague, Captain Nkemelu, and the young person from Gallows_—and when they came up the long dark Spine into the bow and through the door of the Counting House, Fane was waiting for them at his desk against the window with Hesper behind him and a pot of real tea on a tray, with four cups.
+
+"Sit," he said. "Please. I've been looking forward to this."
+
+They sat. Kit sat on the very edge of her chair, as if it might bite. Fane poured. His clean soft hands did not spill a drop.
+
+"The Obedient," he said, to Saba. "I'm impressed. I had men looking for her for years. You understand I'd have paid you very well to take them in? You never asked."
+
+"Nobody ever told me you wanted her."
+
+"Nobody ever tells anybody anything. That's why I have to write it all down." He sipped his tea. "You have her recorder. You have, I'm told, a point. A single point on the surface of Ninefold where the Compact Navy kept a cutter on station every day for decades." He set the cup down. "May I see it?"
+
+Osh did not move. "We had a deal. I bring you coordinates, you clear my account."
+
+"We had a deal," Fane agreed pleasantly. "And then you took on a partner I didn't know about and flew into the Grind with my fuel, and now I find I don't entirely trust you, Osh, and I'm very sad about it. So we're going to have a new deal." He folded his hands. "The coordinates are no use to me on their own. The thing under them is two or three hundred metres down. It has to be drilled to, and it has to be opened, and it has to be brought up, and I don't have a ship that can do that. You do. The Pelican has the only heavy drill-head on this side of Hesper, because your mother was a sentimental woman who never sold anything. So you'll go down to Ninefold, and you'll drill, and you'll take my drill-master with you, and two of my people. And when you reach it, you'll call me, and I'll come down, and we'll open it together."
+
+"And the Sixpence?" said Saba.
+
+"The Sixpence stays here." Fane smiled at her. "As surety. Docked in my berth, with my locks on her. You can have her back when I've seen what's in the ice. If you'd like to go with Captain Teague, you're very welcome; if you'd rather sit in a bar on the Spine and wait, that's welcome too."
+
+Saba's face did not change. Only her hand on the arm of the chair went white at the knuckles.
+
+"What do you think is down there?" said Osh. "You've never said. All this—the ship, the Sixpence, your drill-master. You've never said what you think it is."
+
+Fane looked at her for a long moment. Then he got up—it was the first time Osh had ever seen him get up—and went to the wall behind his desk, to the iron peg where the Warden's Key hung in the light from the window, and stood in front of it with his back to them.
+
+"The Mercy of Tolland," he said, "according to the Company manifest, which I own a copy of, carried twelve spare reactor cores in cold storage. Fusion-grade. Company work. Each one could run this whole station for a hundred years. They were never found. Not one. They weren't in the hull when the Compact was built, and they weren't in any inventory the Compact ever made. Twelve cold cores, the biggest single fortune ever brought into this system, and they vanished at Landfall." He turned round. "And the first thing the first Warden did, in the year One, was put a piece of ice under guard and threaten death to anyone who touched it. For three hundred years. And the Kin heard something singing under it. Something that hummed. A cold core, Captain Teague, in standby, hums."
+
+Osh thought of Kit's song. _There the choir is singing and it never stops._
+
+"I think the Father hid them," said Fane. "I think he put them under the ice where nobody else could get at them, and meant to come back for them, and died first. I think his family kept the secret, the way families do, and guarded the ice, and never quite dared. And I think that when the Compact fell, the secret fell with it." He sat down again. "That's what I think. And if I'm right, then the account you owe me is a rounding error, Osh. I'll be the richest man in the Reach. And I'll be generous. I'm always generous to the people who make me rich."
+
+For a moment the smile failed. His thumb pressed hard into the ledger's edge. Osh had heard, years ago, that Fane's father had died in a salvage berth with three creditors waiting outside it, and that the boy had been made to choose which debt to pay with the ship's last oxygen canister. She had never believed the story. Looking at him now, she wondered whether it had been true, or whether he had simply spent his life making certain that no one could ever again stand outside a door and decide whether he was allowed to breathe.
+
+"And if you're wrong?"
+
+"Then I'll have the Sixpence," said Fane, "and the Pelican, and you'll both be crewing for me until you die. Which is what would have happened anyway." He held out a clean soft hand, palm up. "The recorder, please."
+
+Saba looked at Osh. Osh looked at Kit. Kit was looking at the Key on the wall behind Fane's head, the long dark shaft and the pale handle and the crowded collar, with a strange expression on her face, as if she was trying to remember where she had seen it before.
+
+Osh put the recorder on the desk.
+
+"Thank you," said Marrow Fane, and wrote it down.
+
+## Brother Lio
+
+The Chapel of the Father was a side-room off what had once been a medbay, with eleven candles burning on a shelf in front of a cracked plaster statue of a tall man with a beard, and it smelled of tallow and old incense and the gin Brother Lio kept in the font.
+
+Osh had not been inside it for twenty years. She had been brought here as a child, every Landfall Day, by an aunt who believed; she had stood in the back row and listened to the old priest before Lio chant the Litany of the Crossing while the candles guttered, and she had thought, even then, that it was very sad, a religion for a dead empire whose god had been a ship's officer. The aunt was dead now. The old priest was dead. Lio was the last. He was sitting on the steps of the little altar in a stained cassock, with a bottle, and he looked up as she came in with the bright, ruined friendliness of a man who has not had a visitor for a long time.
+
+"Teague," he said. "The salvager. Your aunt was Mariam. She used to sit there." He pointed with the bottle. "Come for absolution?"
+
+"Come for a story."
+
+"Ah." Lio patted the step beside him. "That I can do. Sit. Have a drink. It's terrible."
+
+She sat. She had a drink. It was terrible.
+
+"The Key," she said. "In Fane's Counting House. The Warden's Key. Tell me what the old people meant by it."
+
+Lio's face changed. Not much. A drunk man's face does not change much. But something in it went careful.
+
+"Why?"
+
+"Because I'm going to Ninefold for Fane, and everything about this job comes back to that key, and I want to know why."
+
+"Ninefold." Lio looked at the candles. "Well." He drank. "You know the Litany. You stood there and heard it. _And the Father brought them across the dark._"
+
+"_Out of the old world into the new_," said Osh. It came back to her whole, the way childhood things do. "_And at the Landfall there was a breach_—"
+
+"_—and the Opener opened the locks of the Ninth Deck_," said Lio, "_and gave the Four Thousand to the dark. And the Father wept, and took the Key from the Opener's hand, and put it on his own breast, that his children should never forget to watch._" He breathed out. "That's the key. That's what it was. The Key of Office. Every Warden-General wore it for three hundred years. When the Compact fell somebody stripped it off the last one's neck and sold it, and it went from hand to hand, and now it hangs in Fane's Counting House with the Navy flags and the dead men's medals." He shook his head. "The holiest object in the Faith. On a peg. Beside a ledger."
+
+"The Opener," said Osh. "Who was she?"
+
+"Nobody knows." Lio said it quietly, as if somebody might overhear. "The Warden-Engineer of the Ninth Deck. For three hundred years the Compact wouldn't say her name. Cut it out of every book. You weren't allowed to say it in a church, in a court, anywhere. _The Opener_, that was all. And then in the last years, before the end—" he waved the bottle vaguely— "people began guessing. Every family had a different name for her. You'll still hear the old women curse with the title on the Spine. And that's the story. She opened the locks and the Four Thousand died and the Father took her key."
+
+"And the Interdict? The Field on Ninefold?"
+
+"Holy ground," said Lio. "The Faith teaches that the Father forbade it in the year One because it was holy. Nobody ever said why. Some say it's where the Opener was buried. Some say it's where the Father prayed after the Breach. Some say it's nothing, it was always nothing, just a piece of ice a sad old man didn't want people digging in." He shrugged. "Theology."
+
+Osh sat and looked at the candles. Eleven of them, guttering. The cracked statue of a tall bearded man with his hand on his chest, holding something that the plaster had long since crumbled away from.
+
+"You don't believe it," she said.
+
+Lio was quiet for a long time.
+
+"There was another teaching," he said at last. "A long time ago. Before my time. Before my teacher's time. The Faith burned it, and burned the man who wrote it, and I was told about it once by an old priest who was very drunk, much drunker than I am, and who made me swear never to repeat it." He turned the bottle in his hands. "It said that the Opener was the only one who kept faith. That's all. Just that. _The Opener was the only one who kept faith._ And nobody ever knew what it meant, and the Faith burned it anyway, to be safe."
+
+"What do you think it meant?"
+
+"I think," said Brother Lio, "that I'm a drunk old man in a dead church, and you should go to Ninefold and do what Fane tells you and come home alive." He held out the bottle. "Another?"
+
+Osh shook her head and stood up. At the chapel door she looked back. He was sitting on the altar steps in the candlelight, under the plaster Father with his crumbled hand on his chest, drinking, and his lips were moving. Saying something. A prayer, perhaps. Or just a name.
+
+
+# Ch. 13 — Quartermaster
+
+## The Store Burns
+
+_The Mercy · 1 BL_
+
+She heard it before she saw it: Bram's voice, raised, which in twenty-two years she had never heard.
+
+The store's main hatch was open and the corridor outside it was full of grey coats. Four of the watch, crowded at the hatch, and Hollin in the middle of them with one hand up, palm out, the way you hold your hand out to a dog you are not sure of. Beyond them, in the dim canyon between the racks, Bram stood with his back to the strongbox and a pry-bar in his big hands. He was not holding it like a weapon. He was holding it the way he held everything, loosely, patiently, as if it were something he had been asked to look after for a while.
+
+"—not the Captain's," Bram was saying. "It was never the Captain's. It's in a box with a brass plate on it that says _instruments of title_. You know what that means, Dace? It means it's theirs. It's not yours, and it's not his, and it's not mine. I'm just the man who keeps it."
+
+"Bram," said Hollin. "Please. I've got orders."
+
+"Then go and get different ones."
+
+Ilse came down the corridor at a run and the nearest of the watch turned and saw her and said "Corporal—" and Hollin looked round, and in that moment Bram did something Ilse would remember for the rest of her life, which was not very long. He smiled at her. Over all their heads, across the store, a great slow smile, like a man seeing a friend come into a bar.
+
+"Ilse," he said. "Good. Catch."
+
+He threw the Ledger.
+
+She did not know he had it until it was in the air. It must have been on the rack behind him; it must have been there all along. The heavy grey book with its brass corners came spinning over the heads of the watch in the low gravity, end over end, slow, absurd, and she put up her hands and caught it against her chest and staggered back a step.
+
+Then everything happened at once.
+
+Two of the watch went for Bram. One went for Ilse. Hollin shouted something. Bram swung the pry-bar—not at anyone; at the shelf beside him, the one with the spare scrubber-cores on it, and behind the scrubber-cores the still, the illegal still that everybody on the Mercy knew about, a copper pot and twenty litres of something that burned like a cutting torch—and the shelf came down, and the pot split, and the spirit went across the deck in a shining wave. Somebody had a hand-lamp. Somebody had a stun-baton, which threw a spark when you thumbed it on. Ilse never knew which.
+
+The fire went up the racks like something alive.
+
+It was blue first, almost invisible, and then orange, and then everything in the store that could burn was burning—rope, packing, a century of paper invoices, the wooden case of the Charter that Hollin's man had just snatched out of the open strongbox—and the smoke came down from the ceiling in a black rolling wall and the ship's alarms began to scream. Somebody was beating at their coat. Somebody was shouting _out, out, get out_. Ilse was on her knees in the corridor with the Ledger clutched against her and her eyes streaming, and the corner of the book was hot against her arm, actually hot, the brass corner-piece glowing, and she slapped at it, and the brass came away in her hand.
+
+Through the smoke she saw Bram. He was at the back of the store, at the inner hatch that led to the ducts behind the racks, the old crawlspace that only the quartermaster and the engineers knew about, and he had it open, and he was looking at her.
+
+"Ilse!" he roared. "This way! _Now!_"
+
+She went. She did not decide to. She went the way you go when somebody you trust shouts at you in a fire. Across the burning floor, bent double, the Ledger under her coat, through a gap between two racks that were already coming down. Bram caught her by the collar and swung her through the hatch like a sack of grain, into the dark, into the cool air of the duct, and she fell on her shoulder on the grating and rolled and came up on her knees, and turned round.
+
+He was still in the doorway. Framed in it, in the orange light. Huge and black against the fire.
+
+"Bram—"
+
+"Somebody's got to shut it," he said. "From this side. Or the smoke'll follow you. You know that." He coughed. "Go on. Go and listen to them breathe."
+
+"_Bram!_"
+
+He shut the hatch. She heard the dogs turn on the far side, one, two, three, four. Then nothing but the roar of the fire through the steel, and the screaming of the alarms, and, after a long time, the deep thump of the store's fire-doors sealing and the hiss of the suppression system venting the compartment to vacuum to starve the flames.
+
+She sat in the dark of the duct with her back against the hatch and the Ledger in her arms and she did not cry, because there was not enough air, and because if she started she did not think she would stop.
+
+On the far side of the steel, in the vacuum, the quartermaster's store was quite quiet now. And Bram Okafor, who had kept the Mercy's stores for twenty-two years and walked her cold rows once a year with a pen he kept for nothing else, and ticked off his daughter's name thirty-three times, was not breathing at all.
+
+## Tamsin Takes the Book
+
+Tamsin found her in the ducts eighteen hours later, by the same route Ilse had shown her in her first month on Deck Nine, when she was fifteen and had wanted to know where all the pipes went.
+
+The crawlspaces of the Mercy ran everywhere. They had been built for maintenance robots that the Company had never sent, and so they were too low to stand in and too narrow to turn round in and nobody used them, and they went from one end of the ship to the other alongside the Spine, behind the walls, a hidden ship inside the ship. Ilse had spent the night working her way aft through them a metre at a time, on her elbows, with the Ledger strapped against her back inside her coat. She had stopped in a junction under the forward hold where four ducts met and there was room to sit up, and there was a grille in the floor that looked down into the Spine, and she had sat there in the dark and watched people go by underneath her feet.
+
+Tamsin came along the forward duct on her stomach with a hand-lamp in her teeth and a bag on her back, and when she saw Ilse she stopped dead and took the lamp out of her mouth and said nothing at all for a long time.
+
+"Is he—" Tamsin said finally.
+
+"Yes."
+
+"I heard. I didn't—I hoped." Tamsin crawled the last metre into the junction and sat up and pulled the bag off her back. There was water in it, and ration bars, and a medical kit, and a clean shirt. She held them out in a bundle without looking at them, the way a child holds out a present it is not sure is good enough. Ilse took the water and drank half of it in one go.
+
+"They're saying you did it," said Tamsin.
+
+Ilse lowered the bottle.
+
+"The Captain went on the address this morning. The whole ship. He said there'd been a fire in the stores and Quartermaster Okafor was dead, and that you were—" Tamsin's mouth twisted. "He said you'd been relieved of duty for interfering with the mass audit, and that when the watch went to the stores to secure the Company's documents you were there, and there was a struggle, and the fire. He said it was a tragedy. He said he didn't believe you meant it. He said that was why he was asking you, as an old friend, to give yourself up." She looked at Ilse. "He said you were very tired and you weren't well, and he wanted you to know nobody would hurt you."
+
+Below them, through the grille, somebody walked by on the Spine. Two people. Talking in low voices. Ilse heard her own name, and then Bram's.
+
+"And Hollin?"
+
+"Hollin didn't say anything. Hollin stood next to him." Tamsin wiped her face with the back of her hand. "He's got the watch on the Deck Nine hatch, double. Nobody goes near it. They've got a cutting crew in the Drop Bay all the time now, Ferro and four others. They're taking the cover plates off the release stations with torches. Lund told me it'd take ten days to do all four. Maybe twelve." Her voice shook. "They'll be ready long before the fifth. They'll be ready with weeks to spare."
+
+Ilse closed her eyes. Opened them.
+
+"Tamsin," she said. "Listen to me. I need you to do something and I need you to not argue."
+
+"What?"
+
+Ilse reached behind her, under her coat, and unbuckled the strap, and brought out the Ledger.
+
+It had come through the fire better than either of them. The cloth of the back board was singed. The brass corner-piece was gone. Five pages near the middle were scorched in the bottom corner in a dark crescent, where it had lain against her arm and the hot brass. But it was whole. Every row. Every name. Ilse held it out.
+
+Tamsin stared at it.
+
+"He threw it to me," Ilse said. "Bram. Before. He knew they were coming for the Charter, and he knew they'd burn it, and he couldn't save that, so he saved this. Because this is the list. This is who they are. If the Charter's gone, this is the only thing left on this ship that says the four thousand were ever anybody at all." She pushed it into Tamsin's hands. "Take it. Hide it. Keep it safe. Whatever happens. Whatever they say about me, whatever they say about any of it—you keep them counted. Do you understand? Somebody has to keep counting."
+
+"Why me? Why not you?"
+
+"Because they're looking for me," Ilse said. "And because nobody ever thinks about the navigator."
+
+Tamsin held the book against her chest. She was crying now, silently, the tears running down and dripping off her chin onto the singed grey cloth, and she did not wipe them.
+
+"What are you going to do?" she said.
+
+Ilse looked down through the grille at the bright street of the Spine, where people were walking aft towards the hydroponics and forward towards the bridge, going about their day, as if nothing had happened. As if in forty days' time nothing was going to happen.
+
+"I don't know yet," she said. "But I've got the key. And I've got forty days. And I know every duct on this ship." She put her hand on Tamsin's shoulder. "Go back. Go on watch. Be the navigator. Don't let him see you know."
+
+"I can't."
+
+"You can. Your mother could. Go."
+
+Tamsin went. Ilse listened to her crawl away down the forward duct, the scrape of her knees on the grating getting fainter and fainter, until it was gone, and there was only the hum of the ship and the voices of the people on the Spine underneath her, and the long, slow breath of the burn.
+
+
+# Ch. 14 — Plaintext
+
+## The First Line
+
+_The Compact · 310 AL_
+
+It was the ticks that gave it to her, in the end. Not cleverness. Ticks.
+
+She had spent two nights on the cipher after the twelfth vault and got nowhere. She had tried it as a simple substitution—every _A_ an _R_, every _B_ a _Q_—and the letters would not fall into any pattern a substitution would make. She had tried it as a transposition, the right letters in the wrong order, and spent most of one night shuffling them on scraps of flimsy across the conservation table like a fortune-teller with a deck of cards, and got nothing but a headache and one obscene word, by accident, which she had laughed at for a long time in the empty room, too long, the way you laugh when you are very tired and very frightened. By the third night she had decided it was a keyed cipher. The old kind. The kind Hal had shown her once in a Company manual from the Mercy's library, where you took a word, any word, and wrote it over and over above your message, and shifted every letter of the message along the alphabet by the letter of the word above it. Simple. Old. Impossible to break unless you knew the word.
+
+_For whoever counts them next._
+
+She had tried _COUNT_. She had tried _MUSTER_, and _ROLL_, and _FOURTHOUSAND_. She had tried _MERCY_ and _TOLLAND_ and _LANDFALL_ and _OPENER_. She had tried _KESH_, God help her, at three in the morning, with her hands shaking. Nothing.
+
+And then at the end of the third night, with her eyes burning, she had turned the Roll's pages back to Row Thirty-One for no reason at all except that it was the page she always turned back to, and looked at the name in the different hand, smaller, pressed hard into the paper, under the dead mason's line—_Okafor, Ama. 7. Child. 3112_—and at the column of ticks beside it, thirty-three of them, one under another. A name somebody had counted every year. Counted more than any other name in the book.
+
+_For whoever counts them next._
+
+She wrote _OKAFORAMA_ across the top of a clean sheet. She wrote the first row's pricked letters beneath it. She worked the first letter. The second. By the fifth her hand was shaking so badly that she had to put the stylus down and hold it with the other hand.
+
+_I A M T H E W A R D E N_
+
+She did not stop for four hours.
+
+The message did not come easily. The iron gall had faded in places, and the holes had closed in others, and twice she had to go back and re-photograph a page in raking light at a steeper angle to find a puncture she had missed. But it came. Row by row. A slow, blunt, careful voice, writing in capitals without punctuation, as if every letter had cost something to put down.
+
+_I AM THE WARDEN. I WRITE THIS IN THE MUSTER BECAUSE I MAY NOT WRITE IT ANYWHERE ELSE AND I MAY NOT SAY IT ALOUD. THEY HAVE MADE ME WARDEN SO THAT I WILL KEEP STILL. I WILL KEEP STILL. BUT I WILL NOT LIE IN THIS BOOK._
+
+_THE OPENER KEPT FAITH._
+
+_SHE WAS THE ONLY ONE OF US WHO DID. THE CAPTAIN KNOWS WHERE_
+
+And there it stopped. Not because the message ended. Because Row Seventeen began, and on Row Seventeen, and the four pages after it, there was the burn—the dark scorched crescent in the bottom corner of every leaf, where the paper had been close to something very hot three hundred years ago and been snatched away. The paper there was brittle and brown, and the holes, if there had been holes, had charred and closed and crumbled. She went over it with every lamp she had. She found three letters she was sure of, and two she thought might be letters, and the rest was nothing. Five pages. Perhaps two hundred letters. Gone.
+
+_THE CAPTAIN KNOWS WHERE._
+
+Where what?
+
+She sat back in her chair. Outside the conservation room the Hall was dark, and the cleaning drone was bumping against a pew, and somewhere far off down the Spine the Tricentennial work-crews were hanging banners on the night shift, and she could hear them singing, a Compact song, the one about the crossing.
+
+_The Opener kept faith._
+
+Every schoolchild in the Compact knew the word _Opener_ before they knew their letters. It was the worst word in the language. It was the name for the person who had done the worst thing anyone had ever done. And three hundred years ago, the First Warden—the first person ever to hold the office that Isidor Kesh-Amaury held now, the first person ever to wear that key—had sat in this hall with a needle and a pot of iron gall and pricked, four thousand times, into the margins of the names of the dead, that the official story was not the whole story.
+
+Neve looked down at the notebook in front of her. At the plain blunt capitals in her own hand.
+
+She thought: _I can burn this. Tonight. Nobody knows. I can burn this and go home and finish the conservation survey and put the Roll on the screens on Landfall Day and never think about it again._
+
+She closed the notebook. She put it back inside her shirt, against her skin. Then she went to find Hal.
+
+## Hal
+
+Hal Oduya lived alone in two small rooms on Ring A, in a corridor of retired officers' widows and minor Wardenry clerks, and Neve had been there exactly once before, on the night of her apprenticeship, when he had given her a glass of something sweet and told her that the first rule of the Hall of Muster was gloves and the second rule was never to be in a hurry.
+
+He opened the door in a dressing-gown. He did not look unwell. He looked like a man who had not slept for several days, which was not the same thing.
+
+"Neve," he said. "It's the middle of the night."
+
+"I know."
+
+He looked at her face. Whatever he saw there, it made him step back from the door without another word.
+
+His rooms were full of books. Real ones, salvaged, printed; she had not known he had so many. They were stacked on every surface and along the walls in towers, and there was a narrow path between them to a chair by the heating vent, and he waved her to it and sat on a stack of Company manuals opposite and waited.
+
+She gave him the notebook.
+
+He read it. He read it twice. She watched his face while he did it and she saw that he was not surprised. He was frightened—deeply, physically frightened, his hands trembling on the pages—but he was not surprised. He read it the way you read the confirmation of a diagnosis you have suspected for a long time.
+
+"You knew," she said.
+
+"I didn't know." He closed the notebook. "I suspected. That's different. I've spent forty years making sure it stayed different."
+
+"Hal—"
+
+"Let me tell it. Please. I've never told it." He put the notebook on his knee and his hands on top of it, as if to keep it from getting away. "I was twenty-two. A junior. Like you. It was the Bicentennial, and they opened the case, and I was on the conservation team—there were six of us then—and I saw the holes. I didn't know what they were. I thought they were interesting. I told my Prime, old Archivist Teodora Ruiz. I was very proud of myself." He smiled, terribly. "She went white. She took my notes. She told me never to mention it again, to anyone, as long as I lived. And three days after the Bicentennial she went to the Warden-General's office—it was Kesh-Lowell then, the old one—and I suppose she told him. I suppose she thought it was her duty. She was a very dutiful woman."
+
+"What happened to her?"
+
+"She retired." Hal looked at the heating vent. "To Ashgrave. For her health. She was fifty-one and as healthy as I've ever seen anyone. She died there the next year. And when they made me Archivist Prime, twenty years later, the Warden-General of the day called me in and gave me the Key to hold, the way they do, for the photograph. And he said—quite pleasantly, while the man was setting up the camera—_Oduya. You were on the Bicentennial team, weren't you. With poor Ruiz._ And I said yes. And he said, _I hope you've never found anything in that old book that you didn't understand_. And I said no, Warden-General. And he said _good_, and they took the photograph." He looked back at her. "I've been not understanding that book for forty years, Neve. It's kept me alive."
+
+"He asked me," Neve said. "Kesh-Amaury. At the Investiture. If I'd found anything else."
+
+"He asked me too. Two days ago. He asked me twice." Hal's voice cracked. "He knows, Neve. Not what you've found. But he knows there's something to find, because every Warden-General knows, it's handed down to them like the key, and every one of them has spent their life waiting for some fool archivist to find it. And now there's a strike, and a Tricentennial, and a Navy captain who killed a child on Ninefold, and the Union shouting about the Interdict in the Warden's own residence—" He stopped. He held the notebook out to her. "Burn it."
+
+She did not take it.
+
+"Burn it. Tonight. Please. Finish the survey and put the names on the screens and go home and get married and grow old. I'm begging you. I've buried one Prime because of this book and I won't bury you."
+
+"Who was the First Warden, Hal?"
+
+He stared at her.
+
+"The commentaries never say. The lists start with the Father. _The Father appointed a Warden_. That's all. No name. Every Warden-General after has a name, and the first one doesn't." She leaned forward. "Who was she? Who was it that wrote this?"
+
+"I don't know."
+
+"Hal."
+
+"I don't _know_. Nobody knows. The name's gone, like—" he stopped.
+
+"Like the Opener's," Neve said. "Cut out."
+
+They sat in the small hot room among the towers of books and looked at each other.
+
+"Eleven days," Neve said at last. "Eleven days to the Tricentennial. Rows Eighteen to Forty. I haven't done them yet. There's more, Hal. _The Captain knows where_—there's more after the burn. Whatever she wanted to say, she hadn't finished saying it. She wanted somebody to count them. She wrote _for whoever counts them next_." She took the notebook from his hands. "That's me. I'm the one counting."
+
+Hal Oduya sat on his stack of Company manuals for a long time. Then he put his face in his hands.
+
+"Then for God's sake be quick," he said through his fingers. "And don't tell me any more. Don't tell me anything. If they ask me, I want to be able to say I don't know."
+
+
+# Ch. 15 — Ninefold
+
+## Gallows Town
+
+_The Quiet · 742 AL_
+
+The Pelican's Debt came down on the Gallows Town landing field in a storm of her own making, her belly-jets blasting four centuries of drifted frost off the old black-sprayed ice so that for a moment, through the forward port, Osh could see the pad as it must have been—a great dark circle graded flat, with faded yellow guide-lines running out from it like the spokes of a wheel. Then the frost came down again, and the wind took it, and they were sitting on a white plain under a black sky with Hesper filling a third of it, and there was nobody to see them land.
+
+Fane's people came forward from the hold as the engines spooled down. There were three of them. A drill-master called Corso, a lean grey man with a scarred scalp and no conversation, who had spent the four-day crossing in the Pelican's drill bay taking her drill-head apart and putting it back together and muttering at it. And two others whose names Osh had not bothered to learn, a man and a woman in good suits with Counting House flashes on the shoulder, who had spent the crossing in the galley playing cards and watching everybody. They did not carry weapons openly. They did not have to. They had Fane.
+
+"Drill site's forty kilometres east," said Corso. "Why are we here?"
+
+"Because the Pelican's not built for an ice landing in the open," said Osh, "and the pad's the last flat ground before the Field. We'll run out tomorrow at first light on the crawlers." It was true, as far as it went. It was not the reason. The reason was standing beside her at the port, with her helmet in her hands, looking out at a scatter of dark low shapes half-buried in the drifts a kilometre to the west.
+
+"Go on," Osh said to Kit. "Two hours. Take Saba."
+
+"I don't need taking."
+
+"Take her anyway."
+
+Gallows Town had been dead for eleven years. Osh had heard the story the way everybody on the Hulk had heard it, in pieces, in bars. The last of the ice-works had closed when the last pump failed and nobody in the Reach could make another; the town had held on for a decade after that, scraping the shallow ice by hand, and then one winter the heating plant had gone, and the families who could get up the well to the Hulk had gone, and the ones who could not had stayed. Kit's grandmother had stayed. Kit had been six, and her mother had put her on the last shuttle up with a bag of clothes and a book of names in red Union cloth, and gone back for the grandmother, and the shuttle had not come down again.
+
+They went on foot. It was not far. The town was a scatter of prefab blocks, low and square and grey, half-drifted over, their windows blank with frost. There were streets between them, or the shapes of streets. Drill gantries stood over the old shafts at the edge of town like the frames of great empty doorways. The wind did not stop. It came across the plain from the east in a long steady push that you leaned into without noticing, and it carried a thin hiss of frost that rattled on their helmets like sand.
+
+Kit walked ahead. She knew where she was going. She did not hurry and she did not slow down. She went down what must have been a main street, and turned left at a corner where a sign on a pole still said, in faded Compact script, _ASSAY OFFICE_, and stopped at the door of a long low building painted dark red.
+
+The paint was mostly gone. You could see where it had been. There was a hand on the wall beside the door, a great red hand with its fingers spread, a metre high, peeled and scoured by the wind until it looked like a hand pressed into the ice from underneath.
+
+"Union Hall," said Kit.
+
+They went in. The door was not locked. Nothing in Gallows Town was locked. Inside it was a long room, very cold, with a high ceiling and long benches, and frost on everything like fur. At the far end, above a low platform, a banner hung on the wall. It was old, older than the town's dying. Its cloth had faded from red to a dull rust pink and its edges were frayed to threads. It had one thing on it, a number, painted a metre high in black.
+
+_19._
+
+And below the banner, on the wall, fixed with bolts, a plaque. Steel, engraved. Somebody had polished it, not very long ago. A list of names. Nineteen of them, under the words _SHAFT TWELVE — 20 ASHFALL 310_. And under those, set apart, two more.
+
+_DAVID KORHONEN, 60, FOREMAN._
+_TOMAS ACHTERBERG, 10._
+_21 YIELD 310. KILLED BY THE NAVY OF THE COMPACT AT THE SHAFT TWELVE BARRICADE._
+_WE KEEP THE COUNT._
+
+Kit stood in front of the plaque for a long time. Saba stood a little behind her and did not say anything, which Osh would hear about later and be grateful for.
+
+"My grandmother polished this," Kit said at last. "Every month. Even at the end. Even when there was nobody else." She reached out her glove and touched the boy's name. "Ten," she said.
+
+"It was a long time ago," said Saba.
+
+"It doesn't matter how long ago it was." Kit took her hand back. "That's the point. That's the whole point of the count. It doesn't stop mattering because it was a long time ago." She turned round. Her face behind the visor was wet. "Can we go back now. Please."
+
+They went back. On the way, at the edge of town, they passed a wall where somebody had written in white Kin script, over and over, a single line, the paint flaking, half buried in drift.
+
+"What does it say?" said Saba.
+
+Kit did not stop walking.
+
+"Keep the count," she said. "It always says that."
+
+## The Field
+
+They ran out to the Field on the Pelican's two ice-crawlers at first light, with the drill-head slung between them on a sled, and it took six hours, and nobody talked much.
+
+The Rift ran with them for the first thirty kilometres—a long dark trench in the ice on their right, sometimes a few metres deep and sometimes a hundred, refrozen at the bottom into a black glassy floor—and then it began to shallow, and narrow, and turn, and at last it simply stopped, the way Kit's song said, petering out into a faint dark line on the white like a crack in a cup. _Where the Rift runs dry._ Beyond it was the Field.
+
+It did not look like anything. That was what Osh would remember. She had expected—she did not know what she had expected. Fences. Signs. Something. There was nothing. The same white plain, the same black sky, the same wind. Once, a kilometre into it, they passed a post sticking up out of the ice at an angle, a steel post with a faded red plate on it that might once have said something in Compact script and now said nothing at all. That was the Interdict. One post, leaning.
+
+Osh drove by the numbers from the Obedient's log. Forty-one kilometres east-north-east of Gallows Town. When the crawler's nav said they were there she stopped, and Corso stopped the other crawler beside her, and they all got out and stood on the ice in the wind and looked around them at nothing.
+
+"Here?" said one of Fane's people.
+
+"Here," said Osh.
+
+Corso was already unshipping the sounding gear. He worked fast, without talking, the way men work who have done a thing a thousand times—spike down, cable out, the transducer pressed flat to the ice and the readout slate on his knee. He sent the first pulse down. He frowned at the slate. He sent another.
+
+"Huh," he said.
+
+Osh went and looked over his shoulder.
+
+The ice went down for a long way, clean and dark and solid, the readout's blue shading getting deeper and deeper. And then, at two hundred and eighty-four metres, it stopped. Not gradually. A hard bright line, straight as a ruler, running across the screen from edge to edge.
+
+"Metal," said Corso. "Big. Flat top." He moved the transducer a few metres and pulsed again. The line was still there, straight, at the same depth. He moved it again. Still there. "Very big."
+
+"How big?"
+
+"Can't tell from one station. Hundreds of metres." Corso looked up at her, and for the first time on the whole crossing there was something in his face besides the drill. "That's not geology, Teague. That's made. Somebody made that."
+
+Behind them, Kit had walked a little way off from the crawlers on her own, out onto the open ice. Osh saw her stop. Then, slowly, as if she were doing something she had seen done many times and never done herself, she knelt, and then lay down full length on the ice, on her side, and pressed the side of her helmet flat against the frozen surface.
+
+She lay there for a long time.
+
+"Kit?" said Osh on the suit channel.
+
+"Shh."
+
+Osh went over. She knelt. After a moment, feeling foolish, she did the same: lay down, and turned her head, and put the side of her helmet against the ice.
+
+At first there was only the wind, and her own breath, loud in the helmet. Then, under it—so faint that she thought she was imagining it, and then knew she was not—a sound. Not loud. Steady. A low continuous hum, almost below hearing, like a great many voices a very long way off, all holding the same note.
+
+It did not stop. It did not change. It went on, under the ice, under the wind, under everything, and it had been going on, Osh understood, lying there on the frozen plain with her face against the moon, for longer than anyone had been alive to hear it.
+
+"The Choir," said Kit. Her voice was perfectly steady. "There it is."
+
+Behind them, by the crawlers, Fane's woman had gone a little way off with her back to them and was talking low into a hand-set. Osh's suit radio was on the open channel, and Kit's was on the open channel, and Fane's woman's was not; but the Pelican's crawlers carried a relay, and Kit had wired the relay herself, and Kit had wired it the way she wired everything on the Pelican, which was to listen to everything.
+
+"—at two eight four," the woman was saying. "Corso says it's big. Metal. Yes. Yes, sir. Three days to drill down. Yes, sir, I'll tell him." A pause. "And the others? Yes, sir. After the drilling. Understood. No, sir, they won't be a problem."
+
+The channel clicked off.
+
+Osh lay on the ice with her helmet pressed to it and the Choir humming up through it into her skull and did not move. Beside her she felt Kit go very still.
+
+"Osh," said Kit, very quietly, on their private band.
+
+"I heard."
+
+"_After the drilling._"
+
+"I heard, Kit." Osh got up, slowly, brushing the frost off her suit, and turned round, and smiled at Fane's woman across the ice, who smiled back. "Let's drill."
+
+
+# Ch. 16 — The Drop Bay
+
+## Old Drawings
+
+_The Mercy · 1 BL_
+
+She had been in the ducts for fifteen days when she found the drawings, and by then she had stopped expecting to find anything at all.
+
+She lived like a rat. She slept in junctions where the ducts met, curled on the grating with her coat over her face. She drank from condensate traps and ate what Tamsin brought her every second night, and on the nights between she went down through the inspection hatches into the dark galleries of the lower decks and took what she needed from the ship—a ration bar from a hydroponics locker, a clean shirt from a laundry bin, a hand-lamp, a set of hex keys—and went back up into the walls before anyone saw her. The Captain had spoken on the address twice more. Each time he was a little sadder and a little more patient. Each time he asked her to come home. The second time he said _Bram would have wanted you to_, and she had lain in the duct over the Spine with her teeth sunk in the back of her own hand until she tasted blood.
+
+She did not have a plan. That was the truth of it. She had a key, and a list of things she could do with a key—lock the hold's vent valves shut by hand, so that whoever was on the bridge could not empty Deck Nine into the dark; jam the release stations, so that the drum could not be let go—and every one of those things, she knew, only made it worse. If the drum did not go, the ship did not make orbit, and everybody died: the four thousand slowly, in the dark, and the three hundred and forty with them. Kesh was right. That was what she could not get past. The arithmetic was right. Lund's numbers did not lie. _Three million tonnes, Aurel, you know it's the only thing big enough._
+
+So she had come down into the Drop Bay because there was nowhere else left to go.
+
+Ferro's people had finished the release stations three days ago. She had watched them from a grille in the gallery roof. All four steel cover plates were off now, propped against the gallery wall, their faded four-language warnings turned to the deck; and in each of the four stations, behind a little door of thick glass, there was a single huge hex-headed bolt painted red, and a lever painted yellow, and a dial. The bolts were cut to the key. Ferro had tried his biggest wrench on one, Ilse had seen, and it had not fitted, and he had sworn and gone away, and Hollin had posted a watchman at the gallery hatch with orders to let nobody in. The watchman was on the far side of the hatch. Ilse was on the near side. She had come in through the wall.
+
+She went along the gallery under the great yellow jaws of the clamps, under the floor of Deck Nine, with the sound of four thousand compressors coming down through the steel above her head like rain on a roof. And at the aft end, behind the last release station, where the gallery curved round the drum's rim, she found the door.
+
+She had seen it before. Three times in twenty-two years. A small steel hatch set into the hull of the drum itself, at the bottom, with a Company stencil on it so faded that she had never bothered to read it. A maintenance space, she had always assumed. Pumps. Valves. She had never opened it because it had never needed opening. It was locked with a single lock-bolt, cut to the key.
+
+She opened it.
+
+It was not a maintenance space. It was a room. A tiny round cell, two metres across, with a padded seat in the middle of it facing a panel of instruments so old that half of them were dials with needles, and a heavy restraint harness hanging from the seat, and a small thick viewport, no bigger than her hand, set low in the forward bulkhead just above the floor, angled slightly upward through a protected lip above the ablative keel. Everything was covered in a fine grey dust. Nobody had been in here since the yard.
+
+On a clip on the wall beside the seat, in a waterproof sleeve gone yellow and stiff with age, was a roll of drawings.
+
+She sat down in the dusty seat and unrolled them on her knees with her hand-lamp in her teeth.
+
+_YARD DRAWING 7/C. SLEEPER HOLD (DECK NINE). SEPARABLE CONFIGURATION._
+
+It took her a long time to understand what she was looking at. Not because it was difficult. Because she did not want to believe it, in case it was not true.
+
+The drum was a lander.
+
+It had always been a lander. The Company's engineers had built it that way at the yard, a hundred and ninety years ago, and then the Company's accountants had decided they would never need it, and taken it out of the manuals, and painted over the stencils, and forgotten. _Contingency configuration_, the drawing said, in a draughtsman's neat small hand. _In the event of loss or disablement of the vessel at or near destination, the hold may be separated from the vessel and landed under its own power on any solid body of suitable gravity, there to maintain the Members in cold passage pending recovery._ There were retro-packs. Eight of them, in the Drop Bay gallery itself, the great squat cylinders she had always taken for coolant reservoirs, painted the same green as everything else. There was an ablative keel, a thick curved shield under the drum's floor, which she had walked over on the gallery decking for twenty-two years without knowing it was there. And there was a reactor. A small one. A standby core, sealed, buried in the drum's heart under Row Twenty, that she had always been told was an auxiliary for the coolant pumps. _Rated for one thousand years at standby load_, said the drawing. _Sufficient to maintain the hold indefinitely on the surface of a cold body, pending recovery._
+
+And the seat she was sitting in. _PILOT CELL. MANUAL DESCENT ONLY. ONE CREW._
+
+She sat in the dust for a long time with the drawings on her knees.
+
+Then she took the stub of grease pencil out of her breast pocket, and turned to the last sheet, where there was a blank space under the title block, and began to work it out.
+
+The drum's mass. The packs' thrust. The ship's velocity at the Landfall burn, which Tamsin could give her to four places. Hesper was no use; you could not land on a gas giant. But Hesper had a moon. A small hard white moon with clean ice on it, sitting just off the Mercy's approach path, close enough that a drum let go at the right moment, with eight retro-packs and somebody in the seat who knew what she was doing, could kill its speed and fall into Ninefold's little gravity well instead of Hesper's great one, and come down on the ice, and lie there. Cold. Silent. Humming on its standby core. For as long as it took.
+
+_Pending recovery._
+
+She wrote the numbers down. She checked them. She checked them again. In the space under the title block, under the draughtsman's neat small hand, she wrote in her own: _REV. I. VARGA — 9 YIELD. DESCENT TO NINEFOLD FEASIBLE. MARGINS POOR. PILOT CELL NOT RATED FOR SURFACE IMPACT._
+
+She looked at the last line for a while. Then she rolled up the drawings, put them back in their sleeve, and went to find Tamsin.
+
+## The Navigator
+
+"You can't," said Tamsin.
+
+They were in the junction above the Spine, where four ducts met and there was room to sit. It was the middle of the night watch. Below them, through the grille, the Spine was empty except for a single cleaner pushing a mop along the deck very slowly, as if he had all the time in the world.
+
+"I can. I've checked it three times. You'll check it again. You'll check it better than me, you're the navigator."
+
+"That's not what I mean and you know it's not what I mean." Tamsin had the drawings unrolled across her knees, the last sheet, the one with Ilse's grease-pencil numbers in the margin. Her finger was on the last line. "_Not rated for surface impact._ You wrote that. You wrote it yourself."
+
+"It's a yard drawing. They didn't rate anything for anything. They didn't think anybody would ever use it."
+
+"Ilse."
+
+"The drum's rated. The drum has a keel. It's built to come down on ice and stay down. The cell's just—a seat. A seat in a box at the bottom of the drum. It wasn't meant to be comfortable." Ilse took the drawings back, gently, and rolled them up. "It'll be a hard landing. That's all it means."
+
+"That's not all it means."
+
+"No," Ilse agreed. "But it's what we're going to say it means. Aren't we."
+
+Tamsin stared at her. In the dim light of the hand-lamp she looked very young, younger than nineteen, and very like her mother, and Ilse thought, not for the first time, that it was a terrible thing to ask a girl to do the arithmetic of somebody's death. Then she thought, as she had been thinking for six days: _there's nobody else_.
+
+"I need four things," she said. "I need the burn plan. The real one, the one on the bridge, to the second. When does Kesh start the Landfall burn, what's the ship's velocity at every point of it, where's Ninefold. I need you to find me the window—the moment when, if the drum comes off, it can make the moon. I need you to give me the packs' burn, how long and which way, so I don't have to work it out in the seat with my hands shaking. And I need you on the bridge when it happens."
+
+"Why?"
+
+"Because he's going to try to vent it." Ilse tapped the drawings. "That's his plan. Vent the hold first, so they're dead before it goes, and then let it go. If he vents, it doesn't matter what I do. So I'm going to lock the vents. By hand, with the key, the night before. And when he gives the order and nothing happens, he's going to want to know why, and he's going to look round the bridge for somebody to ask." She held Tamsin's eyes. "And I need it to be you he asks. Because you're going to tell him it's a fault. You're going to tell him the valves are frozen. You're going to stand there and lie to his face for ninety seconds while I get the clamps open. Can you do that?"
+
+Tamsin was silent for a long time.
+
+"And then what?" she said. "After. When you've gone. When he knows. What do I do then?"
+
+"Then you live," said Ilse. "You live a long time. You keep the book. You keep them counted. And one day, when it's safe—when he's dead, when it doesn't matter, when somebody can go down there with a drill and a crew and wake them up—you tell somebody where they are."
+
+"And if it's never safe?"
+
+Ilse thought about it.
+
+"Then you tell the book," she said. "And let the book tell somebody."
+
+Tamsin looked down at the rolled drawings in Ilse's hands. Then she wiped her face with the heel of her hand, hard, the way she had done it in this same junction twenty days ago, and reached out and took the roll.
+
+"I'll have the burn window in forty-eight hours," she said. "To the second."
+
+"Thank you."
+
+"Don't." Tamsin put the drawings inside her jacket. "Don't thank me. Just—" she stopped. "When you're in the seat. When you're coming down. I'll be watching the scope. On the bridge. I'll be the only one watching for the right thing."
+
+"I know."
+
+"So don't miss," said Tamsin, and crawled away down the forward duct into the dark.
+
+
+# Ch. 17 — The Informer
+
+## Arrest
+
+_The Compact · 310 AL_
+
+She told Jory because she had to tell somebody, and because he was the only person on the station who would not tell her to burn it.
+
+They were in Mother Calloway's front room, on the floor by the heating vent, with the old woman asleep in her chair under her three shawls and the Kin Quarter going on outside the door—children, a radio, somebody's argument—as if the world were ordinary. It was the thirteenth day of the Union's confinement. The Watch had let the delegation out of its lodgings for two hours a day, under escort, to visit the Kin, as a gesture; Jory's escort was sitting on a crate in the corridor outside with a bowl of Mother Calloway's grain, being given a great deal of advice about his posture by four small girls.
+
+Neve gave Jory the notebook. He read it on his knees, slowly, his lips moving. He was not a quick reader. He had told her so the second time they talked, without shame, the way he told her everything—he'd left school at eleven for the shafts and learned to read properly at twenty from the Union's night classes, out of a book of old Compact labour law, which he said was why he wrote like a lawyer and spelt like a drill-hand. He read every word. When he got to the end he went back to the beginning and read it again.
+
+"_The Opener kept faith_," he said at last.
+
+"Yes."
+
+"And then the burn. And you can't read the burn."
+
+"No. Not a letter. But it continues after the damaged leaves. Rows Eighteen to Forty. I've completed Eighteen through Twenty-Two and it's—" She shook her head. "Lists. Names and numbers. Row and berth. I don't know their function yet. She's counting something. I think she's counting them again—the Four Thousand. I think she's—I don't know. I need the remaining rows. Whatever she wanted to say, she put it at the end."
+
+"How long until the catalogue is complete?"
+
+"Four days. Five. If nothing else goes wrong."
+
+"You've got five," said Jory. "Tricentennial's in four."
+
+"I know."
+
+He closed the notebook and held it a moment between his scarred hands, the way he had held the child's drawing on the Spine the day they met. Then he gave it back to her.
+
+"My grandmother used to say," he said, "that the Roll wasn't finished. I told you that. I didn't know what she meant. I thought it was just one of those things the Kin say." He looked at the old woman asleep in the chair. "Now I think she meant exactly what she said."
+
+Neve looked down at the notebook in her lap. She found that her hand had found its way into his, and that his hand was very warm, and that neither of them had decided it.
+
+"Jory," she said.
+
+"I know."
+
+"No, I mean—when this is over. Whatever happens. On the Tricentennial."
+
+"I know what you mean," he said. "Ask me again when it's over."
+
+The door opened.
+
+It was not the escort. The escort was on his feet in the corridor behind them, bowl in hand, looking startled. It was the Watch—six of them, in grey, with batons, and an officer in a Wardenry coat with a slate in his hand—and they came into Mother Calloway's front room among the towers of Kin bedding and the tea-things as if it were a dock, and the officer looked down at the slate and then at Jory and said, "Jory Mbeki."
+
+Jory got up. Slowly. He put himself, Neve noticed, between the officer and her.
+
+"That's me."
+
+"You are detained under the Warden-General's emergency order of the twenty-first of Yield, on information received, on the charge of inciting the riot at the Shaft Twelve barricade, and of conspiring with persons unknown to obtain restricted materials of the Hall of Muster for seditious purposes." The officer did not look up from the slate. "You'll come with us now."
+
+"Restricted materials," said Jory. "What restricted materials?"
+
+The officer looked up from the slate then. Not at Jory. Past him, at Neve, on the floor by the heating vent with the notebook in her lap. It was a quick look, half a second, and then it went away again. But she saw it. And Jory saw her see it.
+
+"On information received," Jory said slowly. "Whose information?"
+
+"You'll come with us now," said the officer.
+
+Mother Calloway was awake. She sat very straight in her chair, her black glass eyes going from the officer to Jory and back. She did not say anything. The Kin always did what they were told, she had said, until they did not.
+
+Jory turned round. He looked down at Neve. His face was quite calm and quite kind and absolutely furious, all at once, in a way she had not known a face could be.
+
+"Finish it," he said. "Whatever it says. Keep counting."
+
+They took him. The escort went with them, still holding his bowl of grain. The door shut. Out in the corridor Neve heard the four little girls begin, high and ragged and out of tune, to sing—the song about the choir in the ice that never stops—and heard it follow Jory and the Watch all the way down the curving corridor, getting fainter, until the ring's spin took it out of hearing. The last syllables trembled in the metal after the feet had gone, a slow pulse under the station's machinery.
+
+"_On information received_," said Mother Calloway into the silence.
+
+Neve sat on the floor with the notebook in her lap.
+
+There were four people on the station who knew she had found something in the Roll. One was the woman who had written it, three hundred years dead. One was Jory, who had just been taken. One was Neve herself.
+
+The fourth had told her not to tell him anything, so that if they asked, he could say he did not know.
+
+## Hal's Confession
+
+He was waiting for her in the conservation room when she came in that night, sitting at the table under the cold lamps with the Roll closed in front of him and his hands folded on top of it, and he did not try to pretend.
+
+"Yes," he said, before she could say anything. "It was me."
+
+Neve stood in the door. She found she had nothing to say at all. She had come down the long aisle of the nave under the banners rehearsing what she would say to him, and it had all gone.
+
+"Sit down," said Hal. "Please. I won't keep you long. You have work to do."
+
+She did not sit down.
+
+"He called me in," Hal said. "This morning. The Warden-General. Not to his office—to the bridge. The old bridge, with the bell. He likes to see people there. He had a report from the Watch on his desk about the Union delegation, and he read me a piece of it. Where they'd gone, who they'd seen. The Union man had been seen with an archivist of the Hall of Muster. In Ring B. Several times. _A Miss Castellan._" Hal's hands tightened on the cover of the Roll. "And he asked me what my junior archivist was doing with a Union agitator four days before the Tricentennial. Very pleasantly. The way they always ask. And I knew—I knew, Neve, if I said _I don't know_, he would have you in a cell by tonight, and the book with you, and the next thing anybody heard you'd have retired to Ashgrave for your health."
+
+"So you gave him Jory."
+
+"I gave him a story." Hal's voice was steady and his face was not. "I said the Union had been trying to get at the Roll. To use it. Make some kind of protest at the Tricentennial—the names of the Four Thousand, the names of the nineteen at Shaft Twelve, the Union's dead beside the Compact's. Propaganda. I said Mbeki had been working on you. Using you. That you were young and soft-hearted and didn't see it. I said you'd come to me about it, troubled, and I'd told you to stay away from him." He looked up at her. "He believed me. He was pleased with me. He said I'd done well. He said he'd always known I was a man who understood what the Hall was for."
+
+The cold lamps hummed. Neve found that she had come into the room after all, and was standing at the table, and her hands were flat on it, on either side of the Roll.
+
+"They'll send him to Ashgrave," she said.
+
+"Yes."
+
+"He'll die there. Like Ruiz."
+
+"Probably." Hal did not look away. "And you'll be alive. And the book will be in your hands, and not in a furnace in the Warden's residence. That's the arithmetic. I'm not going to pretend it isn't. I did the sums and I chose." His mouth twisted. "I've been doing the sums for forty years. I'm good at them."
+
+She thought about Jory standing up slowly in Mother Calloway's front room and putting himself between the officer and her. _Finish it. Keep counting._
+
+"Why are you telling me?" she said. "You could have let me think it was somebody else."
+
+"Because I'm a coward," said Hal Oduya, "and I've been one my whole life, and I'm sixty-four years old, and I find I'm tired of it." He took his hands off the Roll. He reached into his coat and brought out two things and put them on the table in front of her.
+
+The first was a slate card. Grey, Hall-issue, with the Archivist Prime's sigil on it in silver.
+
+"For the Tricentennial," he said, "the names of the Four Thousand will be shown on every screen on the Spine, name by name, while the Warden-General stands in front of the case and the whole station watches. That was his idea. He's very proud of it. Do you know who controls the feed?" He touched the card. "We do. The Hall. It's the Roll; it's ours; it has always been ours. The display terminal is in this room. That card is the Prime's authority. With it you can put anything on those screens you like, for as long as it takes them to break the door down."
+
+Neve stared at the card.
+
+"The second thing," said Hal, "is a name." He pushed a scrap of old flimsy across the table, folded small. "Teodora Ruiz gave it to me the night before they took her to Ashgrave. I think she meant me to do something with it. I never did. I've kept it in the back of a book for forty years. I think it's time somebody did."
+
+Neve unfolded it. Three words, in an old woman's shaky hand.
+
+_The First Warden — the witness._
+
+"The witness at Landfall," said Hal. "That's all she knew. That's all anybody knew. Whoever it was, they were there when the Breach happened, and the Father made them Warden afterwards, and gave them the key, and their name was cut out of every book the same as the Opener's." He stood. He was very small and grey in the lamp-light. "I don't know what it means. I don't want to know. You'll know, when you've counted to the end."
+
+"Hal. What are you going to do?"
+
+"Tomorrow morning," he said, "I'm going to go back to the bridge and tell the Warden-General that I lied to him. That the Union never came near the Roll. That I made it up because I wanted the boy out of the way, for reasons of my own—jealousy, let's say, an old man's jealousy, he'll like that, it's the kind of thing he believes about people. It won't save Mbeki. It's too late for that. But it'll keep the Warden-General's eyes on me for a day or two, and away from you. I'm the Archivist Prime. I have to answer for the Hall." He smiled, very faintly. "I should have said that forty years ago."
+
+He went to the door. He stopped there, with his hand on the frame, and looked back at the Roll on the table under the lamps.
+
+"Four days," he said. "Be quick, Neve. For once in your life. Be quick."
+
+He closed the door. Neve stood alone with the Roll, the notebook, and the Prime's card beneath the cold lamps. They hummed above her in a thin, tireless note. She listened to it until the sound filled the room, until it seemed to be coming from the metal in the walls and the floor beneath her feet, and then she went back to work.
+
+
+# Ch. 18 — The Key
+
+## Thieves
+
+_The Quiet · 742 AL_
+
+The drill went through on the third day, an hour before Hesper-set, with a sound Osh felt in her teeth.
+
+Corso had driven the shaft straight down two hundred and eighty-four metres through clean ice, a black bore a metre and a half across with the drill cable hanging in it like a spider's thread, and for three days the Pelican's old drill-head had chewed its way down without complaint, and the ice had come up in the spoil-buckets as clear as glass. Then, at the bottom, it stopped chewing. The cable went slack. Corso swore, and pulled the head up, and they sent the camera down on its own line, and stood round the slate in the wind and watched it go down and down through the dark, its lamp making a small travelling circle on the glassy walls, until the circle widened and flattened and lit up a floor.
+
+Metal. Grey-green, scaled with frost. Curved very slightly, as if it was the top of something enormous. And set into it, at the bottom of the shaft, as if the drill had been aimed at it—which, Osh thought, it had, by a Navy cutter four hundred years ago—a hatch.
+
+It was round, a metre across, flush with the hull. There was a stencil on it in faded Company green that the camera could not resolve. And in its centre, painted a red that had gone brown with age, a single lock-bolt: a fat hexagonal head with a strange notched profile cut into each face, like a key-blank nobody had finished.
+
+"Can you cut it?" said Fane's woman.
+
+Corso studied the image. "Not that. That's armour plate. Look at the curve. Might take a week with what we've got. Might never." He touched the bolt on the slate. "That wants opening, not cutting. That wants a key."
+
+Behind him Kit had gone perfectly still. Osh did not look at her. She did not have to. She had seen that profile too. On the head of a long dark wrench hanging on an iron peg behind Marrow Fane's desk, with the light from the window on it.
+
+_Can open any door in the Reach,_ Fane had said, laughing at the collector who believed it.
+
+Fane came down that night.
+
+He came in his own cutter, a sleek white thing called the Tithe that had been a Compact courier once and had been fitted out with more comfort than any ship Osh had ever been aboard. It landed on the ice two hundred metres from the drill-head in a blaze of floodlights, and six of his people came down the ramp in good suits with good rifles, and set up a pressure-dome beside it, and then Fane came down himself, in a pale grey suit with his helmet under his arm until the dome sealed, and walked across to the shaft-head, and stood at the lip of the bore looking down into the dark for a long time.
+
+He had a case with him. A long narrow case of dark leather, carried by one of his people. Osh knew what was in it before he opened it. He opened it anyway, there at the shaft-head under the floodlights, so they could all see: the Warden's Key, lying in a bed of black velvet, its pale handle gleaming.
+
+"I did say I'd bring the right tools," said Fane. "I always bring the right tools." He closed the case. "We'll go down at first light. I like to open things in good light. Captain Teague, you've done beautifully. Get some sleep."
+
+They did not get any sleep.
+
+"He's going to kill us," said Saba, low, in the cab of the Pelican's number-two crawler, with the engine off and the heaters off so that the Tithe's people would think they were asleep. "You heard his woman. _After the drilling._ The drilling's done. Tomorrow he opens his box, and if it's his cores he doesn't need us, and if it isn't he's angry, and either way we're under the ice with the rest of them."
+
+"I know."
+
+"So what do we do?"
+
+Osh looked out through the frosted window at the Tithe's floodlights, and the pressure-dome glowing like a lantern on the ice, and the two guards on the dome's airlock, stamping their feet.
+
+"We take the key," she said. "And we make sure he can't use it."
+
+Kit did the lights. She had spent three days wiring the drill-head's power through the crawlers' relay and she knew where every cable on the site ran, and at the third bell of the night watch she crawled out under the number-one crawler with a pair of cutters and opened a junction box and did something to it, and every floodlight on the site went out at once, the Tithe's and the dome's and the drill-head's, and the dark came down on the Interdict Field like a hand closing.
+
+Osh and Saba were already moving. They had forty seconds, Kit had said, before the Tithe's backup came on. They went across the ice on foot, fast and low, by the light of Hesper—which was enough, which on Ninefold was always enough, a great banded half-disc filling a third of the sky—and came to the back of the dome where Saba had seen, that afternoon, a service flap left unsealed for a cable.
+
+Inside it was warm and dim and full of Fane's luggage. He travelled well. There were rugs. There was a folding bed, with Fane in it, asleep on his back with his mouth a little open and his clean soft hands folded on his chest. And there was the long leather case, on a stand beside the bed, where he could see it when he woke.
+
+Saba took it. Osh watched the bed. Fane did not stir.
+
+They were outside again, the case under Saba's arm, ten metres from the dome and running, when the backup lights came on.
+
+Somebody shouted. Osh did not stop. She heard the crack of a rifle behind her and the whine of the round going past, high, a warning, and then another, lower, and Saba stumbled beside her and caught herself and kept running, and they reached the crawler and Kit had the hatch open and they fell in on top of each other in a tangle of suits and the case and Kit slammed the hatch.
+
+"You're hit," said Osh.
+
+"I'm not," said Saba. "It's the suit. It's just the suit." Then she looked down at her side, where the outer layer of her suit had been laid open in a long tear and the inner layer under it was going dark, and said, in quite a different voice, "Oh."
+
+Out on the ice somebody was shouting through a loudhailer. It was Fane. He did not sound soft any more.
+
+"_Teague! I know you can hear me. Bring it back. Bring it back by first light and I'll forget this. I'll forget all of it. You have my word._"
+
+"He's never forgotten anything," said Saba through her teeth, while Kit cut the suit away from the wound. "Not one thing. Not in his whole life."
+
+"I know," said Osh.
+
+She opened the case. The Key lay in its velvet in the dim red light of the crawler cab, long and dark and heavy, and she lifted it out, and it was heavier than she had expected, much heavier, as if it were made of something denser than steel. The handle fitted her hand. It had been worn to the shape of a hand.
+
+She turned the collar to the light. The tiny scratched initials went round it in a spiral, a dozen sets, the oldest almost smooth. And the last—the newest, the cleanest-cut—was too small to read in the crawler's red light.
+
+_The Opener_, Brother Lio had whispered, in the candlelight, as if somebody might overhear. _The Warden-Engineer. The one who opened the locks._
+
+The Key shifted in Osh's gloves. Its weight seemed to increase, or perhaps her hands had simply lost the strength to hold it. The pale handle, smooth as old bone, pressed into her palm with an intimacy that made her stomach turn. She could smell the oil in the leather case, the cold iron of the tool, and beneath both the faint copper stink of Saba's blood. Four thousand names. Four thousand people. The thing in her hands had been called the weapon that killed them, and now it lay across her knees as quietly as a sleeping animal.
+
+She nearly put it back. Instead she tightened her grip, then loosened it at once, frightened by how warm the handle felt through the glove.
+
+"It was the Key," Osh said.
+
+## Kit Reads
+
+Saba slept, in the end, packed into the crawler's narrow bunk with the wound closed and dressed and enough of the medical kit's painkiller in her that she had stopped arguing. Osh sat on the floor of the cab with the Key across her knees. Kit sat opposite her, with her back against the dead heater, and after a long while, because there was nothing else to do in the hours before first light, she took the book of Names out of her suit's thigh pocket and opened it and began, very quietly, to read.
+
+"_Obi, Chinwe. 22. Seamstress. 3101. Obiora, Daniel. 47. Engineer. 3102._"
+
+Osh listened. The red light. The wind outside. The low hum, coming up through the crawler's treads and the frame and the floor and into her bones—the Choir, under the ice, holding its one note, as it had held it all through the drilling, all through the night.
+
+"_Ofori, Kwame. 44. Surveyor. 3111._"
+
+Kit stopped.
+
+It was not a long stop. She stopped the way she always stopped on that line; Osh had heard her do it every night for two years without noticing, a small catch, like a breath taken before a step. Then she went on, in the same low steady voice, but softer.
+
+"_Okafor, Ama. 7. Child. 3112._"
+
+"Wait," said Osh.
+
+Kit looked up.
+
+"Show me that."
+
+Kit hesitated. Then she turned the book round, carefully, holding the old grey page by its edge, and held it out under the red lamp.
+
+Osh had looked at Kit's book perhaps a hundred times without looking at it at all. She looked now. The heavy grey paper. The careful upright print of the names, page after page, in a faded brown ink. And here, halfway down the page, a line ruled neatly through with a ruler—_Okonkwo, Emeka. 52. Mason. 3112_—and under it, in a different hand, smaller and heavier, pressed hard into the paper, a new line. _Okafor, Ama. 7. Child._ And in the margin beside it, running down the page, a column of tiny ticks, one under another. She counted them without meaning to. Thirty-three.
+
+"Who's that?" she said. "The child. Why's it different?"
+
+"Nobody knows," said Kit. "It's always been like that. My grandmother said it was the most important name in the book. She said somebody loved her so much they wrote her in twice." Kit looked at the page. "That's why I stop. I don't know why. I just always stop."
+
+Osh looked at the ruled line through the mason's name. She thought of the plaster Father in the Chapel, with his crumbled hand on his chest; and of Brother Lio on the altar steps saying _the Litany of the Crossing_; and of the painted panel on the chapel wall that she had stared at every Landfall Day of her childhood, in the back row, bored, beside her aunt—a copy of the first page of something the Faith called the Roll of the Four Thousand, painted in gold on blue in careful upright letters, which every child in the chapel had to learn to recite. _Aalto, Johanna. 31. Agronomist. 0001._
+
+The same letters. The same order. Name, age, trade, number.
+
+"Kit," she said slowly. "Where did your book come from? Really."
+
+"I told you. They came down the well. In the bad year."
+
+"What bad year?"
+
+"I don't know. A long time ago. Before anybody's grandmother." Kit frowned. "Somebody brought them down from the station and gave them to the Kin, and the Kin hid them in Gallows, and said them every night so nobody would forget. That's all anybody knew. That's all the Kin ever said."
+
+Osh held out her hand. After a moment Kit gave her the book.
+
+She turned the pages under the lamp. Row Twenty-Eight. Row Thirty. Row Thirty-Four, the last page Kit had, with its bottom torn away. And in the margins—she had never seen it, she had never looked—tiny holes. Pinpricks, hair-fine, under certain letters in certain names. Dozens to a page. Each with a fleck of something dark and bluish in it when she tipped the page to the lamp.
+
+"What are these?"
+
+"The Kin say," said Kit, a little embarrassed, "that's where the Names breathe."
+
+Osh closed the book and gave it back to her. She sat with the Key across her knees and the Choir humming up through the floor and Saba breathing slow and shallow in the bunk behind her, and she thought of four thousand names in a glass case, and a red square on a map, and a cutter sitting on station above a point on the ice every day for years, and an Opener whose name nobody was allowed to say, and a priest's burned heresy, five words long.
+
+_The Opener kept faith._
+
+"They're the Four Thousand," she said. "Your Names. They're the Four Thousand. The ones who were lost in the Breach. The Faith's got their first page painted on the chapel wall."
+
+Kit looked at her for a long time.
+
+"They're not lost," she said. "That's the whole point. Nobody ever struck them through. You only strike through the dead." She closed the book, and held it against her chest, and looked down at the floor of the crawler, at the ice under it, at the long humming dark under that. "My grandmother always said so. Nobody ever struck them through."
+
+Outside, very faintly, the sky over the Interdict Field was beginning to go grey at the eastern edge, where Cauld would rise.
+
+"First light," said Osh. "Wake Saba."
+
+
+# Ch. 19 — Landfall
+
+## Burn
+
+_The Mercy · 1 BL_
+
+The Landfall burn began at the fourth bell of the first watch on the Fifth Quiet Day, the last day of the old year, and Tamsin Oyelaran was at the navigation station on the bridge of the Mercy of Tolland when it did, because nobody ever thinks about the navigator.
+
+The bridge was full. It was always full for a burn. Kesh in the captain's chair, her mother's chair, with his hands loose on the arms and his eyes on the main display. Lund beside him at the engineering board with her slate on her knee. The drive officer, the comms officer, two of the watch at the hatch. The brass bell on its bracket by the chair, polished for the occasion, waiting to be rung for a landfall. On the display, filling it, Hesper—no longer a lamp in an empty house, but a world, a vast banded curve of gold and brown and storm-white that took up the whole of the screen and went on beyond its edges, so close now that you could see its weather move. And at its shoulder, small and hard and white, cracked across its face like an eggshell, the moon.
+
+Tamsin had not slept. She had sat at the nav station for six hours before the burn running the numbers she had already run forty times, because her hands needed something to do. The window opened at the twenty-third minute of the burn and closed at the twenty-sixth. Three minutes. If the drum came off inside those three minutes, and its packs fired when she had said they should fire, for as long as she had said, it would fall away from the Mercy and curve down across Hesper's face and lose its speed and drop, slowly, into the little well of Ninefold's gravity, and come down on the ice forty kilometres east of the end of the long crack that the navigators had named, three months ago, in a vote, for no reason at all. If it came off outside those three minutes it would go into Hesper and burn.
+
+She had given Ilse the numbers on a single sheet of flimsy, eleven days ago, in the junction above the Spine. She had not seen Ilse since.
+
+The drive lit. The whole ship shuddered and settled and pressed down, harder than it had pressed in two months, and the bridge creaked, and somebody's stylus rolled off a console and across the deck. Eight minutes. Twelve. Kesh did not move. On the main display the numbers spun down. Eighteen minutes. Twenty.
+
+"Doctor Lund," said Kesh at the twentieth minute. "Vent Deck Nine."
+
+He said it quite quietly. Nobody on the bridge moved except Lund. Tamsin did not let herself look round. She watched Lund's hands on the engineering board, out of the corner of her eye: the cover lifted, the switch thrown, the confirmation keyed. She watched the readout for the Deck Nine vent valves, which she had been watching for twenty minutes, and which had shown, for twenty minutes, forty little green bars in a row, one for each of the cold rows, _CLOSED_.
+
+They stayed green.
+
+"Valves aren't responding," said Lund. Her voice was perfectly flat. "Command's going through. Valves aren't moving."
+
+"Again."
+
+Lund keyed it again. Forty green bars. _CLOSED._
+
+Kesh turned his head. He did not look at Lund. He looked across the bridge at the navigation station, at Tamsin, in her mother's jacket, with her hands flat on the console to stop them shaking.
+
+"Navigator," he said. "You were on watch in the night. Any faults on the Deck Nine board?"
+
+Tamsin looked back at him. She thought: _ninety seconds_. She thought: _you can do this. Your mother could._
+
+"There was frost on the vent actuators at the second bell, Captain," she said. "I logged it. The cold rows run very cold, sir. When the burn started the hold got heavier and the coolant pooled aft against the valve seats. I think they've frozen shut." She held his eyes. "I think it's the cold, sir."
+
+Kesh looked at her for a long time. Long enough for the whole bridge to notice that he was looking. Long enough for Tamsin to understand that he knew, absolutely, everything; that he had known, probably, since the night she came onto the bridge with her eyes red, eleven days ago, and sat down at her station without a word; that he had let her stay at her station anyway, and was letting her stay there now, and would go on letting her, and that she did not understand why.
+
+"I see," he said.
+
+The twenty-third minute.
+
+On the engineering board, at Lund's elbow, a light came on that had never come on in the history of the ship. Amber. A small square amber light under a label that read _DROP BAY — STATION 1_, which had been dark for a hundred and ninety years. Then another beside it. _STATION 2._ Then _3_. Then _4_.
+
+"Release stations are arming," said Lund. Something had happened to her voice. "All four. Somebody's in the Drop Bay. Somebody's arming the release stations by hand."
+
+"Hollin," said Kesh, to the comms board, very calmly. "Corporal Hollin. Where are you?"
+
+The comms board crackled. Hollin's voice came through, small and steady, from somewhere a long way down the ship.
+
+"At my post, Captain. Deck Nine hatch."
+
+"Somebody's in the Drop Bay."
+
+A pause. Not long. Long enough.
+
+"Is that right, sir," said Hollin.
+
+"Get down there."
+
+"Yes, sir," said Corporal Dace Hollin. "On my way, sir." And the channel stayed open, and Tamsin, listening, heard no footsteps on it at all; only the hum of the burn, and somebody, very far away, breathing slowly and evenly, the way a man breathes when he is standing quite still in front of a wall.
+
+The four amber lights turned green.
+
+"She's doing it," said Lund. She was on her feet. Her slate had fallen. "Aurel. She's—she's not jamming it. She's _opening_ it. She's letting it go." She turned on him. "Why would she let it go?"
+
+Kesh did not answer. He was still looking at Tamsin.
+
+The ship lurched.
+
+It was not a large lurch. Afterwards people who had been in the crew rings said they had hardly felt it. But on the bridge it was unmistakable: a deep, grinding shudder that came up through the deck from far aft, and then a strange, long, falling sensation, as if the whole ship had been holding its breath for a hundred and ninety years and had let it out all at once. Three million tonnes. The drive's note changed. Rose. Every display on the bridge flickered and redrew itself. The Mercy of Tolland, a third lighter, surged against her own thrust like a horse that has thrown its rider.
+
+On the main display, small, falling away below and behind them against the great gold curve of Hesper, a dark flat drum turned slowly end over end, catching the light.
+
+And then—Tamsin saw it, because she was the only one on the bridge who was watching for it—eight tiny points of white fire bloomed on its underside, all at once, in a ring. And the drum stopped turning. And began, very slowly, to curve away. Not down, towards the gold, towards the storms. Sideways. Outward. Towards the small hard white moon at Hesper's shoulder.
+
+Nobody on the bridge said anything. The burn roared on. The bell hung on its bracket by the captain's chair, unrung.
+
+Aurel Kesh sat in Ines Oyelaran's chair with his hands loose on its arms and watched the drum go, until it was a dot, and then a spark, and then nothing.
+
+"Log it," he said at last, to nobody in particular. "Twenty-fourth minute of the Landfall burn. A breach in the sleeper hold. The hold was lost."
+
+He got up. He walked across the bridge to the navigation station and stood over Tamsin, and she made herself look up at him, and his face was quite still, and quite wet.
+
+"Navigator," he said. "Plot me an orbit."
+
+## Deck Nine Falls
+
+She had locked the vents at the second bell, with the key, forty bolts in forty rows, in the dark, while the hold breathed round her. It had taken three hours. Her hands had blistered and then the blisters had burst. When she came to the great hatch at the head of the central gangway, at the end of it, to go down to the Drop Bay, Dace Hollin had been standing on the other side of it, alone, with his back to the wall.
+
+They had looked at each other through the hatch's small thick window for a long time.
+
+Then he had opened it. Not all the way. A little. Enough for a person to come through sideways. And he had stood back from it, and turned round, and faced the wall, with his hands behind his back, and said to the wall, in his soft voice: "I've been standing here for six weeks looking at this wall, Warden. I find I can't stop. I think I'll look at it a while longer."
+
+"Dace."
+
+"Bram used to give my kids sweets," said Hollin to the wall. "Every time he came past the rings. Out of his pockets. He always had something in his pockets." He did not turn round. "Go on, Warden. Before I stop looking at the wall."
+
+She had gone on.
+
+Now she knelt at the fourth release station in the Drop Bay with the key in her hands, and above her the cold rows breathed and breathed, four thousand compressors cycling out of step, and the clock on the old panel behind its glass said the twenty-third minute. Her left hand had gone numb at the fingertips. Her right was slick inside the glove, the blood from the split blisters making the grip slide.
+
+She had armed one, two, three. The fourth bolt was stiff. They had all been stiff. The yard had locked them a hundred and ninety years ago and nobody had touched them since. She fitted the Key's head into the notches and pushed. The wrench held for a moment, then slipped. Her boots skidded on the deck plating and her shoulder struck the housing hard enough to make her teeth click.
+
+She wiped her palm on her coat, though there was nowhere for the blood to go. She tried again. This time she braced one boot against the lower flange and one against the opposite wall, making a crooked bridge of herself, and leaned until the tendons in her wrist stood out like wire. The bolt did not move. The compressors breathed above her. Somewhere in the hold a pod gave a tiny warning chirp and fell silent.
+
+She changed her grip. The Key's pale handle had been worn smooth by twelve wardens before her; now it bit into the torn skin at the base of her thumb. She put her whole weight on it. The wrench flexed. The bolt groaned—not the clean crack of a loosened fastener, but a deep metallic complaint travelling through the station and into her bones. Her shoulder tightened. Something in it began to tear.
+
+She leaned harder. Her boots slipped again. The pain went white and clean from her shoulder to her fingertips, and her knees nearly folded. For one second she hung there with the Key between her and the locked station, breathing through her teeth, while the clock moved towards the twenty-fourth minute.
+
+"Come on," she said. Her voice was gone thin. "Come on, you bastard."
+
+She set her feet a third time and pulled until the muscles of her back cramped and the torn shoulder opened hot inside her. The bolt turned by the width of a fingernail. She stopped, gasping, then pulled again. Another fraction. Again. The old grease broke free in a series of minute, brutal clicks.
+
+It gave.
+
+The yellow lever came down under her hand. The dial swung to green. Through the steel all round her she heard, felt, a long deep groan, the sound of eight great jaws that had held on for two centuries starting, very slowly, to let go.
+
+She stood up. She looked at the key in her hands. The long dark shaft. The bone handle, worn to the shape of her grip and the grips of the eleven wardens before her. The crowded collar, with _I.V._ scratched at the end of the spiral, the day she was given it, twenty-two years ago, by an old man called Okonedo who had kissed her on both cheeks and told her to listen to them breathe.
+
+She could not take it with her. There was nothing in the pilot cell that needed it, and it was the only one, and somebody up there would need it one day, on the ice, when they came. _Pending recovery._ She left it where it was, standing upright in the socket of the fourth release station, the way you leave a key in a door for somebody coming home late.
+
+Then she went aft along the gallery to the little round hatch at the bottom of the drum and went through it, and dogged it behind her, and sat down in the dusty seat, and pulled the harness over her shoulders, and the torn thing in her shoulder screamed, and she let it.
+
+The drum came away.
+
+She felt it go. Not as a jolt. As a silence. The burn, which had been in her bones for two months, simply stopped—not the Mercy's burn, which went on, a white roar dwindling overhead, but her part of it—and there was a long, slow, sickening moment of falling, the harness biting, the dust of two centuries rising from every surface of the cell and hanging in the air round her in the light of the instrument panel like a snowstorm in a glass. Through the low viewport ahead of her knees she saw, for one heartbeat, the Mercy's hull sliding away above her—plates, struts, a yellow clamp-jaw open like a hand—and then nothing but dark, and then, swinging into the window as the drum turned, gold.
+
+Hesper. The whole window. Bands of storm wider than worlds, sliding past.
+
+She looked at Tamsin's sheet, clipped to the panel. Her hands were shaking now. It did not matter. Tamsin's numbers were good. Tamsin's numbers were perfect. _Packs at T plus forty seconds. Burn ninety-one seconds. Attitude per the attached._
+
+At T plus forty seconds she fired the packs.
+
+They had not been fired in a hundred and ninety years and every one of them lit. Eight of them, in a ring under her feet. The drum kicked. Her teeth came together on her tongue. The cell shook so hard that the needles on the old dials blurred, and something somewhere above her in the hold came loose and went clanging away down a row, and the dust in the air went flat against the floor all at once like a struck flag. Ninety-one seconds. She counted them. She counted them the way Bram had counted the rows, one at a time, out loud, with a pen he kept for nothing else.
+
+At ninety-one the packs cut. The shaking stopped.
+
+Through the viewport the gold slid away. And there, swinging slowly into the window from the edge, small and hard and white and very close, cracked across its face like an eggshell somebody had dropped and glued—
+
+The moon.
+
+She did not remember much of the descent. She remembered the attitude jets, and her hands on them, and Tamsin's numbers. She remembered the white getting bigger and bigger until it was not a moon any more but a plain, a wide white plain under a black sky with a great banded planet hanging over it, and a long dark crack running across the plain like a road, and the crack ending, petering out into a faint line like a crack in a cup. She remembered thinking, quite clearly, _forty kilometres east of where the crack runs dry_, and laughing, and the laugh hurting. She remembered the last burn of the packs, the little that was left in them, and the plain coming up. She remembered the keel touching.
+
+It did not touch. It struck. The drum hit the ice of Ninefold at sixty metres a second on its great curved ablative keel, the way the yard had built it to, and the keel did what the yard had built it to do, and the ice did what ice does. It went up all round the drum in a white wall, and came down, and the drum ploughed on through it, and on, for a kilometre, two, grinding, shrieking, a sound she felt in every bone she had, and the pilot cell at the bottom of it—_not rated for surface impact_—took all of it.
+
+Then it was still.
+
+She was alive. She knew that because it hurt. Something was wrong with her legs, and something was badly wrong inside her chest, and the cell was full of frost. It smelled of scorched ablative shielding and hot metal, of ozone from the fried instruments, and of the copper taste of blood at the back of her throat. Beneath it all was the old sealed smell of the ship: dust, coolant, and fabric kept too long in the dark. There was a crack in the low viewport ahead of her knees, a long white crack, and a thin cold whistling through it, and the panel was dark except for three lights. Two of them did not matter. The third was green, and under it, on a yellowed label in the draughtsman's neat small hand, it said _STANDBY CORE — NOMINAL_.
+
+Above her, through the cell's ceiling, through the floor of the gallery that was not there any more, through the ablative keel and the shielding and the coolant trays, she heard it. Faint. Steady. Out of step and in time, four thousand compressors cycling, a long sigh going up and down the hold like breath going in and out of a sleeping animal the size of a town.
+
+The cold rows did not sing. People who had never worked Deck Nine said they did.
+
+She found the stub of grease pencil in her breast pocket. Her fingers did not work properly. She found a coolant schedule, the one clipped to the panel under Tamsin's sheet, and turned it over to its blank side, and laid it on her knee, and began, very slowly, to write.
+
+_To whoever comes,_ she wrote. _My name is Ilse Varga. I am the warden of Deck Nine._
+
+She stopped to breathe. It was harder than it should have been. Outside the cracked viewport the white plain went away under the black sky to the edge of the world, and Hesper hung over it, enormous, banded, gold, like a lamp somebody had left on.
+
+She bent her head and went on writing.
+
+## The Warden
+
+Hollin brought the key up to the bridge at the end of the first watch of the new year, the first day of Landfall, and laid it on the arm of the captain's chair, and went away again without a word.
+
+Kesh sat and looked at it for a long time. The Mercy was in orbit. Tamsin had put her there herself, a high slow ellipse round Hesper that she had plotted with her hands perfectly steady, and that would decay, she had told him, in about four hundred years, by which time somebody would have thought of something. Through the main display the gold planet turned beneath them, and its little white moon came round its shoulder every nineteen hours, and on its face, if you knew where to look, if you put the long scope on it at full magnification, there was a long dark scar in the white, two kilometres long, ending in a small dark shape that did not move.
+
+Tamsin had looked. Kesh had looked. Nobody else had thought to.
+
+"Navigator," said Kesh.
+
+She came and stood by the chair. The bridge was empty apart from them. He had sent the watch away.
+
+"I'm told," he said, "that the crew will want someone to keep the memory of the Four Thousand. A warden. Someone to look after the Muster, and the names, and make sure they're never forgotten. It was Okafor's job, the Muster. But Okafor's dead." He picked up the key. He held it a moment, weighing it, and she saw his thumb move over the collar, over the spiral of initials, over the last of them. "And the warden of Deck Nine is dead. And somebody has to keep it."
+
+He held it out to her.
+
+She did not take it.
+
+"You know," she said. "You know where they are."
+
+"I know where a piece of metal is lying on the ice of a moon," said Aurel Kesh. "I know that the crew of this ship have lost everything they were carrying for a hundred and ninety years, and they're grieving, and in a month they'll start to live, and in fifty years they'll have a world, and it'll be theirs. I know what Article the Ninth says." His voice did not rise. "And I know that if anybody goes down to that moon in my lifetime and opens that box, then three hundred and forty people who have done nothing wrong but be born on this ship will spend the rest of their lives as servants to four thousand strangers who slept through all of it." He put the key into her hand, and closed her fingers round it with his own. "So nobody is going to go down there. Not in my lifetime. I'll write the order tonight. You'll sign it. You'll be the Warden. And you'll keep still."
+
+"And if I don't?"
+
+He looked at her with his tired, gentle face.
+
+"Then you'll have been very brave," he said, "for about a day. And then somebody will find out about the coolant on the vent actuators, and that you logged it, and that you didn't. And I'll have to ask myself what else the navigator didn't log." He let go of her hand. "She did it for me, you know. Varga. She did my sums for me. She saved the ship. Everybody on board owes her their life, and nobody will ever know it, and they'll curse her name for a thousand years." He turned his chair back to the display. "Keep still, Tamsin. It's what she'd have wanted. Somebody has to be alive to keep the count."
+
+She went down to her cabin. She sat on her bunk in the dark with the key across her knees and her mother's jacket round her shoulders and the Ledger, which she had kept for forty days under the mattress, open on the blanket beside her at Row Thirty-One.
+
+_Okafor, Ama. 7. Child. 3112._
+
+After a long time she got up and went to her desk. There was a needle in her sewing kit, the finest one. And there was a little stoppered pot at the back of the drawer, of an old ink that her mother had made herself, years ago, from a recipe in the library, out of oak galls from the hydroponics oaks and rust from the bilges, because Ines Oyelaran had liked to write letters by hand, the old way, and had said that iron gall was the only ink that bit into the paper so deep that nobody could ever take it out again.
+
+Tamsin sat down. She opened the Ledger at the first page. _Aalto, Johanna. 31. Agronomist. 0001._ She dipped the needle.
+
+_I AM THE WARDEN,_ she began.
+
+
+# Ch. 20 — Tricentennial
+
+## The Last Rows
+
+_The Compact · 310–311 AL_
+
+She finished Row Forty at the second bell of the night watch on the Fifth Quiet Day, the last night of the year, with four hours to spare.
+
+The rows after the burn had been lists, as she had told Jory. Row and berth. Row and berth. _THREE ONE ONE TWO. TWO EIGHT ZERO FOUR. ZERO ZERO ZERO ONE._ Pages of them, spelled out in words, letter by pricked letter, in no order she could see. She had decoded them anyway, mechanically, through the last four nights, because Hal had said _be quick_ and Jory had said _keep counting_ and there was nothing else she knew how to do. She had thought, somewhere around Row Thirty, that she understood: that the First Warden had sat in this hall three hundred years ago and gone through the Four Thousand one by one and counted them, every berth, the way the quartermaster had counted them, so that they would be counted once more after they were gone. A memorial. A last muster.
+
+Then, on Row Thirty-Eight, the numbers stopped, and the words began again.
+
+She wrote them down as they came. She did not let herself read them until the row was finished, and then the next, and then the last. Then she put the stylus down and read them all at once, in her own plain hand, under the cold lamps, with the Roll open in front of her at its final page and the Hall dark and silent all round her.
+
+_THE CAPTAIN KNOWS WHERE THEY LIE. I HAVE COUNTED THEM AGAIN SO THAT WHOEVER COMES WILL KNOW EVERY BERTH. NOT ONE WAS LOST._
+
+_THE WARDEN ENGINEER ILSE VARGA DID NOT OPEN THE HOLD TO KILL THEM. THE CAPTAIN MEANT TO VENT THEM AND CAST THEM INTO HESPER TO LIGHTEN THE SHIP AND TO TAKE THEIR TITLE UNDER THE NINTH ARTICLE. SHE LOCKED THE VENTS BY HAND. SHE OPENED THE CLAMPS HERSELF AND WENT DOWN WITH THEM. THE CAPTAIN KNOWS WHERE THEY LIE. NOT ONE WAS LOST. THEY ARE NOT DEAD. THEY ARE ASLEEP._
+
+_THE CAPTAIN HAS CLOSED THE ICE SO THAT NO ONE WILL WAKE THEM BECAUSE IF THEY WAKE THE COLONY IS THEIRS AND WE ARE THEIR SERVANTS. HE HAS MADE ME WARDEN SO THAT I WILL KEEP STILL. I HAVE KEPT STILL. I WILL KEEP STILL UNTIL I DIE._
+
+_HE GAVE ME THE KEY AND MADE ME KEEP STILL._
+
+_WHOEVER COUNTS THEM NEXT. GO DOWN. FIND THEM. WAKE THEM. TELL THEM HER NAME._
+
+_TAMSIN OYELARAN. NAVIGATOR. FIRST WARDEN. THE FIRST YEAR AFTER LANDFALL._
+
+The Hall was so quiet that Neve could hear the cold lamps humming, and under them, very faintly, the station: the great slow turn of Tolland Station round its old dead spine, round the hull of the ship that had brought them all.
+
+_Not one was lost._
+
+She sat with it for a long time. She did not cry. She had expected to. Instead she found herself thinking, very clearly and calmly, about practical things: about the Archivist Prime's slate card in her pocket, and the display terminal in the corner of the conservation room, and the Warden-General who would stand in front of the glass case in nine hours in his plain grey with the key on his chest—_her_ key, _Varga's_ key—while every screen on the Spine scrolled the names of four thousand people who were asleep under the ice of Ninefold, and had been for three hundred and ten years, and had been guarded there, in the dark, every day of those years, by a Navy cutter, on the Wardens' orders, so that nobody would ever wake them.
+
+_The Captain knows where they lie._ And every Warden-General since had known.
+
+She thought about Jory, who had been taken to the cells under the Watch-house on the Spine to wait for the Ashgrave transport, which would leave on the second day of Firstwatch. She thought about Hal, who had gone to the bridge, as he said he would, and not come back, and whose rooms on Ring A had been sealed by the Watch the next afternoon. She thought about Mother Calloway saying _the Kin always do what they're told, until they don't_.
+
+Then she began to get ready.
+
+## The Broadcast
+
+The Tricentennial of the Charter of Survivors began at the first bell of the first watch on the first day of the year 311 After Landfall, and at the second bell the Warden-General of the Compact walked down the long aisle of the Hall of Muster under the banners to stand in front of the Roll.
+
+The Hall was full. It had never been so full. The great families in the front pews, in their best grey. The Wardenry behind them. The Navy in black along the walls. And at the back, standing, because there were no seats for them, the people the Warden had invited for the cameras, to show that the Compact was one: Ring B, and the docks, and the Kin in their white-painted coats, and in the middle of them, in a chair somebody had carried all the way down the Spine from Ring B, very small and very upright under three shawls, Mother Calloway.
+
+Neve stood by the plinth in her best grey, where the junior archivist always stood, in case anything happened to the glass. She had the Prime's card in her sleeve. The display terminal was forty paces away in the conservation room, with its door open and its screen showing the first name of the Roll, _Aalto, Johanna_, waiting for the signal. She had set the feed herself at the fourth bell of the night watch. She had set it, and checked it, and then gone back to the conservation table, and opened the Roll for the last time at Row Twenty-Eight, and done the worst thing she had ever done in her life with a conservator's scalpel.
+
+The pages were inside her shirt now, against her skin, under the notebook. Rows Twenty-Eight to Forty. Thirteen rows. Every pricked letter of the end of the message, and the names of everybody in the hold from Nakamura to Zwane. She could feel the edges of them when she breathed.
+
+The Warden-General reached the plinth. He turned to face the Hall. He lifted the key on its chain from his chest and held it up in both hands, so that the cameras could see it, the long dark shaft and the pale handle, and the whole Hall, and the whole Spine beyond it under its roof of screens, and every ring of the station and every ship in the Reach that was listening, went silent.
+
+"Three hundred years ago," said Isidor Kesh-Amaury, "on this day—"
+
+Neve was already walking. Not fast. Archivists did not walk fast. Down the side of the plinth, along the wall, past the Navy in their black, who did not look at her, because nobody ever looks at the archivist. Into the conservation room. She pushed the Prime's card into the terminal's slot. The terminal thought about it. _ARCHIVIST PRIME — AUTHORITY CONFIRMED._ She touched the screen.
+
+Out in the Hall, behind the Warden-General's head, the great screen over the nave that was to have scrolled the names of the Four Thousand lit up. Not with _Aalto, Johanna_. With a photograph. A page of the Roll, in raking light, at an angle no archivist would ever have photographed a book at for any reason, so that every tiny pricked hole in the margins stood up out of the paper like a star. And beside it, in plain white capitals, one line at a time, as fast as a person might read them aloud:
+
+_I AM THE WARDEN. I WRITE THIS IN THE MUSTER BECAUSE I MAY NOT WRITE IT ANYWHERE ELSE AND I MAY NOT SAY IT ALOUD._
+
+It went down the Spine. She had set it to. Every screen, from the bow to the stern, a kilometre of them, one after another, the way the names were to have gone. _THE OPENER KEPT FAITH._ People on the Spine stopped walking and looked up. _SHE WAS THE ONLY ONE OF US WHO DID._ In the Hall, nobody moved at all. The Warden-General stood in front of the case with the key held up in both hands, and he did not turn round to look at the screen behind him. He did not need to. Neve, in the door of the conservation room, watched his face, and she saw that he did not need to, because he knew every word.
+
+_THEY ARE NOT DEAD. THEY ARE ASLEEP._
+
+Seven hundred and forty-two years later, on the ice of Ninefold, Osh Teague heard the same words in Kit's voice.
+
+"They're not lost," Kit had said. "That's the whole point."
+
+Now the two of them stood at the bottom of the bore with the Warden's Key between them. The Choir filled the cable, the harness, their teeth. Kit held the book of Names against her chest. Osh fitted the Key into the red bolt of the recovery hatch.
+
+"Wait," Kit said.
+
+Osh waited.
+
+"Okay," said Kit. "Now."
+
+Osh leaned on the Key. The bolt resisted for seven hundred and forty-two years, and then it gave with a sound like a knuckle cracking. The hatch sank an inch, hissed, and slid aside.
+
+Below it was a short ladder, a catwalk, and a blue-lit hold so large Osh's lamp could not find its far side. Forty aisles ran out from the central gangway. Down every aisle, a hundred green lights burned beneath the frost.
+
+Four thousand sleepers breathed under the ice.
+
+Then the Hall of Muster came back: Neve at the terminal, the Warden-General holding up the Key, the words moving across every screen in the Compact. The two moments touched and held.
+
+Somebody at the back of the Hall made a sound. Not a word. A sound like being struck.
+
+_THE CAPTAIN HAS CLOSED THE ICE SO THAT NO ONE WILL WAKE THEM._
+
+The Navy along the walls had started to move. Somebody was shouting for the feed to be cut. Somebody else was shouting that it could not be cut from the Hall's own board, which was true; Hal had told her so; the Roll was the Hall's and the Hall's screens answered to the Prime. She heard boots on the stone. She did not move from the doorway. She watched the words go up on the screen behind the Warden-General's head, white on black, one line at a time.
+
+_THE WARDEN ENGINEER ILSE VARGA._
+
+A name. In the Hall of Muster. On every screen in the Compact. A name that nobody had said aloud in this hall for three hundred and ten years.
+
+_TELL THEM HER NAME._
+
+The Watch reached her. Somebody took her arm. Somebody took her other arm. She let them. She was looking past them, past the Warden-General, past the families in their pews, all the way down the Hall to the back, where the Kin were. Mother Calloway had risen from her chair. She was standing, very small, very straight, and every Kin in the Hall was standing round her, and they were singing.
+
+It was the song. The one about the choir in the ice. A hundred voices, two hundred, low and ragged and out of tune, the Kin and the docks and Ring B, rising under the banners of the Hall of Muster while the Navy pushed through the pews and the families stood frozen in their places and the screens went on, and on, and on.
+
+They took her past the plinth. As they did, the Warden-General turned his head and looked at her. He had lowered the key. He was holding it against his chest with one hand, the way she had seen him hold it in the Bridge, the night the Union asked him why.
+
+"Do you know what you've done?" he said. Quite quietly. Under the singing. "Do you have the faintest idea what you've done?"
+
+"Yes," said Neve. "I've counted them."
+
+They took her down the side aisle towards the back of the Hall, through the singing, through the Kin. Mother Calloway was in the aisle. She did not move out of the way. The Watch had to go round her. And as they went round her, the old woman put out her twisted hands, quite slowly, and took hold of the front of Neve's grey jacket, as if to steady herself, or to bless her, or to say goodbye.
+
+When she let go, the pages were gone from inside Neve's shirt. Neve felt them go. She did not look back.
+
+Behind her, as the Hall doors closed, she heard the Kin begin the last verse. _So we keep the count, we keep the count._ And somewhere far off down the Spine, under the screens, the sound of a great many people, more than she had ever heard in one place, beginning to run towards the Watch-house where the Union men were held.
+
+## Rhee's Choice
+
+The order reached the Obedient at the fourth bell, on station above the Interdict Field, under the Warden-General's personal seal, and Captain Rhee Salvador read it twice.
+
+_Grid Interdict-Seven. Fire for effect. All necessary force. Whatever lies beneath the ice at the station-keeping point is to be destroyed. Confirm on completion._
+
+She had seen the broadcast. The whole ship had seen it; it had gone out on every channel in the Reach before anybody thought to stop it, and her crew had stood in the wardroom in silence and watched a dead woman's words go up white on black, line by line, and then the Spine screens behind them filling with running people, and then the feed cutting to the Compact sigil and staying there. Nobody had said anything. Nobody had needed to. Every one of them had sat on station above this point on the ice, for months, years, on the same orders, and never once asked why.
+
+_They are not dead. They are asleep._
+
+"Fire control," said Rhee. "Thermal sounding. Station-keeping point. Full depth. Now."
+
+Lieutenant Ansel looked at her. He had been different since Shaft Twelve. They all had. He ran the sounding without a word.
+
+It took four minutes. The Obedient's deep-sounding array was built for finding submarine pressure-domes under Ashgrave's ice, and it had never in its working life been pointed at the one place it had been sent, every day, to watch. It went down through two hundred and eighty-four metres of clean dark ice. It found the hard bright line of a metal hull, flat-topped, four hundred metres across. And then, because it was a thermal array, it went on through the hull, and showed them what was inside.
+
+Rhee stood behind Ansel's chair and looked at the screen for a long time.
+
+Rows. Forty of them, spoked out from a centre like the spokes of a wheel. And in each row, in a long neat line, a hundred tiny points of warmth. Faint. Very faint. Barely warmer than the ice around them. The warmth of something kept just this side of cold, very carefully, for a very long time. Four thousand of them. Every one there. Every one, as far as the array could tell, exactly where it should be.
+
+"Captain," said Ansel. His voice cracked. "Captain, are those—"
+
+"Yes," said Rhee.
+
+On the bridge of the Obedient nobody said anything for a while. The order sat on her board under the Warden-General's seal. _Fire for effect. All necessary force._ She thought about a boy in a red hat waving at a parade. She thought about a man in grey standing all night in an empty hall with his hand on a key, and the Navy captain at the back of that hall who had come in and stood and watched him for a quarter of an hour without knowing why. She thought, for the second time in twenty-six years, about what exactly it was she had been guarding.
+
+"Lieutenant," she said. "Plot me a firing solution for grid Interdict-Seven. Then offset it three kilometres north-east. Into the open ice. Nothing under it but ice."
+
+Ansel turned round in his chair.
+
+"Do it, please, Mr Ansel."
+
+He did it.
+
+The Obedient's guns fired eleven times on the first day of the year 311 After Landfall, and eleven times the ice of Ninefold went up in white towers three kilometres from where it had been told to, and came down again, and lay still. When it was done Rhee sat down at her own station and opened the fire-control log and wrote, under her own authority, in her own hand: _Grid Interdict-Seven engaged. Eleven rounds. Target destroyed._ She sealed the file under captain's authority, so that it could only ever be opened by a court of the Navy. There would be no court. She thought she knew that already. She thought the Navy, and the Compact, and the Wardenry, had about as many years left in them now as it would take the people on the Spine to stop running.
+
+"Confirm to the Warden-General," she said. "Target destroyed. Then take us home."
+
+Ansel sent it. The Obedient turned from her station above the Interdict Field, and lit her drive, and did not come back.
+
+Rhee did not look at the screen as they climbed away. She did not need to. She knew what was on it. Four thousand small points of warmth in forty rows, under the ice, in the dark, waiting, as they had waited for three hundred years, and would have to wait a while longer.
+
+"Let them sleep," she said, to nobody. "Somebody will come."
+
+
+# Ch. 21 — The Cold Choir
+
+## Shaft
+
+_The Quiet · 742 AL_
+
+At the shaft-head, the eleven old shell craters lay three kilometres north-east in the frost, a missed firing solution preserved in the ice. Fane had seen them and said nothing. He had only pointed at the bore and told Osh to go down first, with the Key, while his woman covered Saba and Corso.
+
+Osh went. The Choir filled the cable, the harness, her teeth. Kit came down after her, carrying the book of Names and the little switch she had built from a spare relay lead. The old words reached Ninefold in the only way they could: in Kit's voice, carried in the book. Fane's people had already seen the hold. They had already understood what they were standing over.
+
+Fane came down the ladder behind them.
+
+He stood on the catwalk with the woman and her rifle at his shoulder and looked down into the blue hold for a long time. Osh watched him understand it. She watched the soft plump clever face behind the visor go from hunger to puzzlement to something else, very fast, the face of a man doing arithmetic.
+
+"Not cores," he said.
+
+"No."
+
+"_People._" He breathed it. "The Four Thousand. The Breach. It was never—they were never—" He turned to her, and his eyes were bright. "Do you know what this is worth? Every one of those pods has a cold unit in it. Company work. Seven hundred years old and still running. Four thousand cold units. And the bodies—the Faith would pay anything, _anything_, for one of the Four Thousand. A relic. A saint. Four thousand saints." He was already moving down the ladder to the gangway, fast, a cutting-torch coming off his belt. "Row One. We'll start with Row One. Corso can rig a sling—"
+
+Kit watched him go. Her face had become the face she wore in the drill bay when a cable was live and somebody had forgotten to tell her.
+
+"What have you rigged?" Osh said.
+
+"The junction has a manual service socket," Kit said. Her voice was small, but it did not shake. "While he was looking at the rows, I crawled to Row One and clipped a bypass lead straight into the purge valve."
+
+"Kit."
+
+"The pods have safeties. If a line breaks, the valve closes. This lead holds the bypass open." She pulled the strip of wire taut between her glove and the junction. A thumb-sized switch was fixed into it. "I didn't know if it would work."
+
+"You made a leak."
+
+"I made a choice." Kit looked at the torch in Fane's hand. "If he touches that junction, I can open the purge valve with this. The pressure will come out before the safety can close it."
+
+"Fane," said Osh. "They're alive."
+
+He did not stop. He did not even turn. He was at the first berth of Row One, kneeling at its coolant junction, the torch in his clean soft hands, its blue flame lit.
+
+"Then they won't feel anything," said Marrow Fane, and put the torch to the junction.
+
+Kit pressed the switch.
+
+For half a second nothing happened. Then the little green light on her wrist went red. Somewhere inside the pod's housing a valve slammed open. The line Fane had chosen did not rupture by itself; Kit had made it surrender. The coolant came out in a white solid roar, a blast of something like smoke and something like light, straight into Fane's chest and face, and took him off his knees and threw him across the aisle against the next row's pods, and held him there.
+
+Osh was halfway down the ladder when the line went. Kit held the bypass open until her suit's pressure alarm screamed. Then she released it. The pod's own safeties caught the line with a heavy clunk, and the roar stopped.
+
+Marrow Fane sat against the foot of a pod in Row Two, quite upright, his hands still lifted in front of him where the torch had been. He was white. All of him. His suit, his visor, his gloves—white, furred, solid, like the frost on the plates. He did not move. He was never going to move again.
+
+Nobody moved either.
+
+The last crystals of coolant drifted down through the blue light. They settled on Fane's shoulders, on the torch still locked in his hand, on the curved lid of the nearest pod. A flake touched the floor and made no sound. The white cloud thinned until Osh could see the long aisles again, and the four thousand green lights, and the frost closing over the place where a living man had been.
+
+The hold's ordinary sound returned by degrees. First a valve clicked shut. Then a compressor started somewhere in Row Twenty and shuddered into its cycle. Then another answered it, out of time. The Choir came back—not louder than before, but enormous now that they had heard the silence beneath it.
+
+Kit's hand was still raised, the little switch clenched in it. Her glove trembled. Osh reached her on the ladder and put a hand over it until the fingers opened.
+
+"You can let go," Osh said.
+
+Kit looked down at Fane. The visor hid most of her face, but not the wet shine in her eyes.
+
+"I did," she said. "I just haven't stopped yet."
+
+They waited until the last frost stopped falling. Only then did the woman with the rifle stand on the catwalk and look down at him for a long time. Then she looked at the rows, the four thousand small green lights going away into the blue. Then she lowered the rifle.
+
+"I signed for cores," she said, to nobody, in a thin voice. "I didn't sign for this."
+
+The open channel crackled. Saba's voice came down from the shaft, breathless and furious. "The other seven are pulling back. Corso cut the dome feed and they've lost their pressure line. They're heading for the Tithe."
+
+"Are you safe?" Osh called.
+
+"Safe is a large word. They aren't pointing rifles at me any more."
+
+Somewhere above them, through two hundred and eighty-four metres of ice, a cutter's engines began to rise. The sound trembled down the cable and into the metal under Osh's boots. The remaining guards were leaving Fane to the hold.
+
+She turned round and climbed back up the ladder into the shaft, and did not come back.
+
+Osh went down to Row One. The berth Fane had cut at was still green. The pod's frost was undisturbed. She knelt and looked at its plate. _Aalto, Johanna. 31. Agronomist. 0001._ Asleep. Still asleep. Untouched.
+
+"Okay," Osh said, to the pod, and found that her voice was not working properly. "Okay. Sorry about that. Go back to sleep."
+
+They stood there for a while after that. The words had nowhere to go. They hung between the pod and the two of them, small and useless against the blue immensity of the hold.
+
+The adrenaline went out of Osh by degrees. First her hands began to shake. Then she noticed that the front of her suit was white with frost, the crystals gathered in the seams of her gloves and along the rim of her helmet. Kit's visor had filmed over at the edges. She wiped it with one sleeve and looked down the central gangway.
+
+The hold seemed larger now that they were not running through it. The blue lights diminished row by row into the distance. Four thousand green points watched from the frost. The compressors breathed in their uneven order, and beneath them the deep standby core gave off a vibration too low to hear but strong enough to feel through the soles of their boots.
+
+"Where's the pilot?" Kit asked.
+
+Osh pointed aft. "The plans said a cell at the rim."
+
+They walked. Their boots made almost no sound. The frost thickened as they went, whitening the rails and the plates at the feet of the pods. Osh kept one hand on the central rail, partly for balance and partly to make sure the hold was still real. Kit carried the book of Names under her arm. She had stopped reading it. Every few steps she looked at a plate, then looked away again.
+
+At Row Forty the gangway narrowed and ended against the curved hull. There was no door in the blue wall, only a round maintenance well sunk into the floor, half hidden beneath a drift of old frost. Osh brushed it clear with her glove. A ladder went down into darkness.
+
+The air coming up from it was colder than the hold air. It touched the inside of Osh's mask and turned her breath white. Somewhere below, metal gave a slow, regular tick.
+
+Kit looked at her. "That's where she is."
+
+"Probably."
+
+"You don't sound sure."
+
+"I'm a salvager. We don't sound sure until we're standing on the thing."
+
+Osh clipped her lamp to the front of her suit and started down. The ladder was narrow, its rungs furred with ice. Kit followed, one hand on the book and one on the rail. Their helmet lights made two small circles that slid down the walls and vanished behind them. Above, the hold's blue light narrowed to a strip, then to a pale square, and finally disappeared when Kit pulled the hatch shut.
+
+The Choir faded with it. The compressors became a distant pulse. Osh could hear her own breathing, the scrape of gloves on the ladder, and the tiny brittle sounds of frost breaking loose from their suits and falling past their boots.
+
+The drop was not far. It felt far. Their bodies were heavy with cold and exhaustion, and the adrenaline that had carried them through Fane's death was gone now, leaving only the careful movements of people entering a room where somebody might be sleeping. At the bottom, Osh's boots touched a metal catwalk.
+
+## Waking
+
+Below the catwalk was a short inner ladder and a hatch with the same red bolt as the one above: the cell's inner door, which nobody had ever needed to open from this side. The Key opened it. Below was a tiny round room, two metres across, so full of frost that at first Osh thought it was full of snow; and in the middle of the room, in a padded seat facing a dark panel of old dials, there was somebody sitting.
+
+She was in an old-fashioned ship's coverall, the kind nobody had worn for seven hundred years. She had a harness over her shoulders. Her head had fallen a little to one side, as if she were listening for something, and her eyes were closed, and the frost lay on her like a sheet somebody had drawn up very gently. There was a crack in the little viewport low in front of the seat. Her right hand lay in her lap. Under it, held flat on her knee, was a sheet of paper, grey with frost, covered on one side in a cramped, careful hand in grease pencil.
+
+Kit stopped in the hatch. Osh went in alone.
+
+She did not need to be told that this was the person they had come to find. She knelt in the frost in front of the seat and looked up at the closed face—a woman of forty or so, strong-boned, with lines at the corners of her eyes that had come from laughing. Then, very carefully, she slid the paper out from under the frozen hand, held it to her lamp, and read the first line.
+
+_To whoever comes._
+
+_My name is Ilse Varga. I am the warden of Deck Nine. If you are reading this then you have come down to the ice, and you have found them, and you have found me, and I am sorry about me. I am not very well. I think I was not going to be very well whichever way it went._
+
+_They are all here. Four thousand berths in forty rows. Not one was lost in the drop. I have listened to every row and they are all breathing. The standby core will hold them a thousand years, the yard says, and the yard was right about everything else, so I believe it._
+
+_The key opens the berths. Each one has a lock-bolt at the foot. Wake them one at a time. The yard says one at a time, and it is right, they will be frightened. Give each of them a coat. It will be cold. Tell them where they are. Tell them how long it has been, if you know, and if you do not know, tell them it has been a long time and it does not matter._
+
+_Tell them the ship is theirs. There was a paper that said so. It burned, but it was true._
+
+_Tell them that nobody on the Mercy was wicked. We did the sums. That is all any of us did. Kesh did them one way and I did them another and we were both right, and I happened to have the key._
+
+_Tell Ama Okafor, Row Thirty-One, berth twelve, that her father counted her every year for thirty-three years and that he died holding a door so that somebody else could get through it. Tell her he would have been there. Tell her he meant to be there._
+
+_Tell Tamsin, if Tamsin is anywhere, that her numbers were perfect._
+
+_I can hear them breathing from here. It is a good sound. I have listened to it for twenty-two years and I would have listened to it for twenty-two more. I am going to listen to it now for a while._
+
+_Somebody has to keep the count. It was me for a bit. Now it is you._
+
+_— I. V._
+
+Osh read it twice. Then she folded it, very gently, along the creases the frost had made, and put it inside her suit, against her chest. Then she stood up and put her gloved hand, for a moment, on the frozen shoulder.
+
+"Thank you," she said. "We'll take it from here."
+
+When she climbed back up into the hold Kit was not at the top of the well. Osh found her twenty minutes later, on the far side of the drum, standing at the foot of a pod in Row Thirty-One with her book open in one hand and her helmet lamp on the plate, reading it over and over, the way she read the Names every night.
+
+_Okafor, Ama. 7. Child. 3112._
+
+"This one," said Kit. She did not turn round. "Please, Osh. This one first."
+
+Osh came and stood beside her. She looked down through the frost on the pod's lid. A small face. A girl of seven, with her hair in two short braids and her hands folded on her chest, asleep, perfectly asleep, as if she had closed her eyes a moment ago and was waiting, a little impatiently, to be told it was morning.
+
+The waking took four hours. There was a protocol, Osh found, printed on a plate inside every pod's foot-panel in the Company's careful old print, and Kit read it out to her line by line while Osh worked: the lock-bolt with the key, the three switches in their order, the long slow rise of the pod's internal temperature on its little dial, the hiss of something being drawn out of the pod and something else going in. Kit did not stop talking the whole time. When she ran out of protocol she read the Names. All of Row Thirty-One, from the first berth to the hundredth. Then Row Thirty. Then Twenty-Eight. Osh worked with her hands and listened to the girl's thin true voice going on and on under the hum of the hold, steady, one name after another, and thought that it was the best sound she had ever heard.
+
+At the end of the fourth hour, the frost on the pod's lid turned to water, and ran, and the lid unsealed with a soft sigh and lifted on its old hinges, and warm air that smelled of nothing at all came out into the cold.
+
+The child in the pod opened her eyes.
+
+She looked up. At the dim blue ceiling of the hold, at the frosted pods going away on either side. At the two strangers bending over her in patched suits with lamps on their heads. Her face crumpled with fright. She opened her mouth.
+
+Kit got there first. She had her helmet off—Osh had not seen her take it off—and her face was bare and wet in the cold air, and she knelt by the pod and put out her bare hand, and the child, after a moment, took it.
+
+"Ama," said Kit. "Ama Okafor. Seven. Row Thirty-One, berth twelve." Her voice shook and she kept it going anyway. "It's all right. You're on the list. You're still on the list. Nobody ever struck you through."
+
+The child looked at her. Her lips moved. Her voice, when it came, was tiny and rusty, the voice of somebody who has not spoken for a very long time.
+
+"Where's my dad?"
+
+Kit held her hand. She did not answer. She looked up at Osh.
+
+Osh took off her own helmet. The cold hit her face like a slap. She knelt down on the other side of the pod, and unzipped the front of her suit, and took out the folded grey sheet of grease-pencilled paper, and held it in her lap.
+
+"There's a letter," she said. "Somebody left you a message. A long time ago. Would you like me to read it to you?"
+
+The child looked from one of them to the other. Then she nodded.
+
+Osh unfolded the letter. Across the hold, in the dim blue light, three thousand nine hundred and ninety-nine small green lights went on burning in their rows, and the long slow breath of the cold went up and down, up and down, like a song with no proper ending; and somewhere far above them, at the top of the shaft, in the red light of Cauld, she could hear Saba on the open channel, asking if anybody was still down there.
+
+"Yes," Kit said, into her collar. "We're still here. We're counting."
+
+Osh found the line. She cleared her throat.
+
+"_Tell Ama Okafor_," she read, "_Row Thirty-One, berth twelve—_"

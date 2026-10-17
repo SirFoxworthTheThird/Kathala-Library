@@ -1,0 +1,26 @@
+{
+  "title": "The Cold Choir",
+  "author": "Solomon Darko",
+  "sourceFile": "source/the-cold-choir.md",
+  "sourceBytes": 259445,
+  "sourceSha256": "22c091779484a001a52c8cea193028efa8f941abd61f708ca50b8236137366a8",
+  "rights": "Creator-supplied original manuscript; Copyright © 2026 Solomon Darko. All rights reserved. Authorized by the creator for this Kathala edition.",
+  "extraction": {
+    "start": "First authorial heading: # Ch. 1 — Deceleration",
+    "end": "Final narrative line ending: Row Thirty-One, berth twelve—",
+    "excluded": "No narrative packaging was excluded. Markdown chapter and section headings are structural metadata and are reconstructed by the manuscript validator."
+  },
+  "normalization": [
+    "Decode as UTF-8.",
+    "Convert CRLF to LF.",
+    "Strip trailing spaces and tabs from each line.",
+    "Collapse runs of three or more line breaks to one blank line.",
+    "End with exactly one LF."
+  ],
+  "counts": {
+    "chapters": 21,
+    "authorialSections": 44,
+    "scenes": 62,
+    "narrativeWords": 48573
+  }
+}
