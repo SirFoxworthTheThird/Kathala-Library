@@ -16,12 +16,12 @@ export const plans=[
  [{cut:0,title:'The Stone at Vespers',loc:'church',cast:['silas','tom','ruth'],tension:4}],
  [{cut:0,title:'Beyond the Boards',loc:'hollow',cast:['ezra','wren','pell'],tension:5}],
  [{cut:0,title:'The Patient in the Back Room',loc:'surgery',cast:['ezra','tom','ruth'],tension:4}],
- [{cut:0,title:'What the Children Say in Sleep',loc:'agnes-house',cast:['ezra','agnes'],tension:4}]
+ [{cut:0,title:'What the Children Say in Sleep',loc:'school',cast:['ezra','agnes'],tension:4}]
 ],
 // Ch 4
 [
  [{cut:0,title:'Pell Keeps the Record',loc:'fourth-heading',cast:['pell','tom'],tension:4}],
- [{cut:0,title:'The Note Stops',loc:'fourth-heading',cast:['pell','tom'],tension:5},{cut:10,title:'Tom Comes Out of the Earth',loc:'drift-mouth',cast:['tom'],tension:5},{cut:14,title:'Water Without a Tide',loc:'staithe',cast:['harker','silas'],tension:5}],
+ [{cut:0,title:'The Note Stops',loc:'fourth-heading',cast:['pell','tom'],tension:5},{cut:10,title:'Tom Comes Out of the Earth',loc:'drift-mouth',cast:['tom','ezra','bower'],tension:5},{cut:14,title:'Water Without a Tide',loc:'staithe',cast:['harker','silas'],tension:5}],
  [{cut:0,title:'A Coffin Filled with Spoil',loc:'churchyard',cast:['silas','ezra','wren','agnes','ruth','tom'],tension:4}]
 ],
 // Ch 5
@@ -45,7 +45,7 @@ export const plans=[
 ],
 // Ch 8
 [
- [{cut:0,title:'Silas Leaves Footprints',loc:'churchyard',cast:['ezra','tom'],tension:5},{cut:3,title:'Three People Left',loc:'hesketh-house',cast:['ezra','ruth'],tension:4},{cut:6,title:'Ezra Goes to the Listener',loc:'long-scar',cast:['ezra','tom'],tension:4}],
+ [{cut:0,title:'Silas Leaves Footprints',loc:'churchyard',cast:['ezra'],tension:5},{cut:3,title:'Three People Left',loc:'hesketh-house',cast:['ezra','ruth'],tension:4},{cut:6,title:'Ezra Goes to the Listener',loc:'long-scar',cast:['ezra','tom'],tension:4}],
  [{cut:0,title:'The Great Low Tide',loc:'long-scar',cast:['ezra','tom','wren'],tension:5},{cut:3,title:'The Door in the Cliff',loc:'hollow',cast:['ezra','tom','wren'],tension:5}],
  [{cut:0,title:'The Sea Returns',loc:'surgery',cast:['ezra'],tension:4},{cut:2,title:'Ruth’s Open Door',loc:'hesketh-house',cast:['ezra'],tension:4},{cut:3,title:'A Case History for Whoever Comes Next',loc:'surgery',cast:['ezra'],tension:5}]
 ]

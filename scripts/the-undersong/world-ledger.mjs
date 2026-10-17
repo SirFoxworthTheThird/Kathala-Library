@@ -1,11 +1,12 @@
 export const characters=[
+ ['bower','Jack Bower',[],'A Saltwick night-shift miner who sets to work at the blocked entrance with his pick.','#716356'],
  ['ezra','Ezra Coyle',[],'A village doctor who records whatever refuses to agree with expectation.','#687477'],
  ['agnes','Agnes Merriman',[],'The Hollin Staithe schoolmistress, exact in observation and practiced in commanding a room.','#7a665d'],
- ['tom','Tom Hesketh',['The Listener'],'A nineteen-year-old ironstone miner who hears something beneath the fourth heading.','#555f61'],
+ ['tom','Tom Hesketh',[],'A nineteen-year-old ironstone miner who hears something beneath the fourth heading.','#555f61'],
  ['ruth','Ruth Hesketh',[],"Tom's mother, direct in speech and unwilling to abandon him.",'#755d52'],
- ['pell','Jonah Pell',[],'The Saltwick drift manager, methodical at the face and increasingly absorbed by the sound.','#4e5651'],
+ ['pell','Jonah Pell',[],'The Saltwick drift manager, methodical and accustomed to inspecting the face himself.','#4e5651'],
  ['wren','Abel Wren',[],'A pale Admiralty surveyor who says that he reads the drowned.','#657078'],
- ['silas','Silas Tunstall',[],'The village vicar, long practiced in ritual and shaken by what answers beneath it.','#6b6254'],
+ ['silas','Silas Tunstall',[],'The village vicar, long practiced in the parish rituals of a coastal village.','#6b6254'],
  ['harker','Old Harker',[],'An elderly coble-man who knows the bay and watches its impossible tides.','#59676a'],
  ['annie','Annie Ward',[],'A six-year-old pupil whose drawing shows the sea above the shore.','#856f62'],
  ['joseph','Joseph Ainsley',[],'A seven-year-old pupil who usually draws engines and now dreams of the shore.','#6f7567']

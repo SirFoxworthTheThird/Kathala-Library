@@ -232,7 +232,7 @@
     "startParagraph": 1,
     "endParagraph": 20,
     "paragraphCount": 20,
-    "location": "agnes-house",
+    "location": "school",
     "physicalCast": [
       "ezra",
       "agnes"
@@ -285,7 +285,9 @@
     "paragraphCount": 4,
     "location": "drift-mouth",
     "physicalCast": [
-      "tom"
+      "tom",
+      "ezra",
+      "bower"
     ],
     "reason": "The cut falls on an existing blank-line paragraph boundary where place, physical cast, evidence, or dramatic state changes.",
     "firstWords": "He came out of the adit mouth at a quarter to three with his clothes torn off his back and the skin ",
@@ -600,8 +602,7 @@
     "paragraphCount": 3,
     "location": "churchyard",
     "physicalCast": [
-      "ezra",
-      "tom"
+      "ezra"
     ],
     "reason": "The cut falls on an existing blank-line paragraph boundary where place, physical cast, evidence, or dramatic state changes.",
     "firstWords": "For three days there were four people left in Hollin Staithe, and then there were three. The vicar w",

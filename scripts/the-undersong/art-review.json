@@ -80,9 +80,9 @@
     "review": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object."
   },
   "library/the-undersong/art/items/hydrophone.png": {
-    "sha256": "cc98619b7fa3f156b844c143e5f8df8a863e958f8091fedd9504c99880a556ea",
+    "sha256": "58999e1a49fea5fb4b05119c8f397f6f183b3e892bedb0d2130791ef32ef14d7",
     "status": "accepted",
-    "review": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object."
+    "review": "Accepted after opening the final image: the pocket-size notebook and tied pencil / tripod-mounted brass bell, dial and paired tube earpieces match the described subject."
   },
   "library/the-undersong/art/items/dream-ledger.png": {
     "sha256": "15e078b34716831a2193b6de8824324ed45e38d5eefe130cf0a7d280c14406cb",
@@ -90,9 +90,9 @@
     "review": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object."
   },
   "library/the-undersong/art/items/pell-book.png": {
-    "sha256": "db1dcf325ddb02540a5c20bf95cd871b8051e89cf622f385d425dde698a9f5eb",
+    "sha256": "9feb0cdac34eea167e5b936d1f6e9c934e977c10f3c8f46945901a6a2047d36a",
     "status": "accepted",
-    "review": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object."
+    "review": "Accepted after opening the final image: the pocket-size notebook and tied pencil / tripod-mounted brass bell, dial and paired tube earpieces match the described subject."
   },
   "library/the-undersong/art/items/watch.png": {
     "sha256": "ad394dbd18900a79b665ff239637aef4360ea88385dce95d89224f13405dfa6b",
@@ -205,18 +205,23 @@
     "review": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature."
   },
   "library/the-undersong/maps/coast.png": {
-    "sha256": "792c34f913af4e74a3b5745a9378e700f9d180fc528c571e7ab636d65ed5d82b",
+    "sha256": "1e8d68b3bb94ee27999ed2be16fedbdf61c90399fa9e06c40d19d3075c53299c",
     "status": "accepted",
-    "review": "Accepted after deterministic overlay: mature professional cartography, coherent terrain, high-contrast route, readable labels, north arrow, exact 1600x1000 output and markers aligned to bottom-origin Kathala coordinates."
+    "review": "Base opened and reviewed; coordinates and route polyline traced over depicted terrain in map-geometry.json. Final labels use bottom-origin coordinates shared with the PWK. Coast is north-up; village and mine are local plans with no unsupported north claim."
   },
   "library/the-undersong/maps/village.png": {
-    "sha256": "dc2e8669a2b345d09c1c9b5911585fa5e5e192f8a240381f37e385aa12723ea3",
+    "sha256": "60b937006c2486647e7d449c508a0c33f1b453ac4f75f2e3dbda911f015faada",
     "status": "accepted",
-    "review": "Accepted after deterministic overlay: mature professional cartography, coherent terrain, high-contrast route, readable labels, north arrow, exact 1600x1000 output and markers aligned to bottom-origin Kathala coordinates."
+    "review": "Base opened and reviewed; coordinates and route polyline traced over depicted terrain in map-geometry.json. Final labels use bottom-origin coordinates shared with the PWK. Coast is north-up; village and mine are local plans with no unsupported north claim."
   },
   "library/the-undersong/maps/drift.png": {
-    "sha256": "54342e8c94fa1427e9dac9dc5a23cfca33eb5f767242dc98fd47daac04f15fc8",
+    "sha256": "6c7798ca1256f74ca3aa88a2303ca32713b1ea1cf5d99ed797cd38577e077ed4",
     "status": "accepted",
-    "review": "Accepted after deterministic overlay: mature professional cartography, coherent terrain, high-contrast route, readable labels, north arrow, exact 1600x1000 output and markers aligned to bottom-origin Kathala coordinates."
+    "review": "Base opened and reviewed; coordinates and route polyline traced over depicted terrain in map-geometry.json. Final labels use bottom-origin coordinates shared with the PWK. Coast is north-up; village and mine are local plans with no unsupported north claim."
+  },
+  "library/the-undersong/art/characters/bower.png": {
+    "sha256": "9ac9c93e18051711cf8ac539b28211deea6f014d727e02ed8a734bfc219f4762",
+    "status": "accepted",
+    "review": "Opened and accepted: distinct adult miner, scraped hands, broken pick haft, period clothes and predawn mine setting."
   }
 }

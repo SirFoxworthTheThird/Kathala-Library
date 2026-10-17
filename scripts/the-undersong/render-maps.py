@@ -1,4 +1,5 @@
 from pathlib import Path
+import json
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -21,7 +22,7 @@ MAPS = {
     },
     "village": {
         "title": "HOLLIN STAITHE · 1911",
-        "subtitle": "Fictional village plan reconstructed from the manuscript · north at top",
+        "subtitle": "Local cliff-and-shore plan · sea at foot · not to scale",
         "markers": {
             "Surgery": (500, 650), "Cliff Row": (600, 610), "Hesketh House": (740, 565),
             "School": (880, 650), "Agnes's House": (1000, 610), "St Oswald's": (1020, 760),
@@ -34,11 +35,17 @@ MAPS = {
     },
     "drift": {
         "title": "SALTWICK DRIFT · 1911",
-        "subtitle": "Interpretive mine plan reconstructed from the manuscript · north at top",
+        "subtitle": "Local gallery plan · entrance at lower left · not to scale",
         "markers": {"Adit": (280, 680), "Fourth Heading": (1000, 420), "The Hollow": (1320, 400)},
         "routes": [[(280,680),(460,620),(670,540),(835,470),(1000,420),(1160,410),(1320,400)]],
     },
 }
+
+GEOMETRY = json.loads(Path(__file__).with_name('map-geometry.json').read_text(encoding='utf-8'))
+KEYS = {'coast':['whitby','hollin','loftus'], 'village':['surgery','cliff-row','hesketh-house','school','agnes-house','church','churchyard','memorial','staithe','long-scar','seabed','village-square','whitby-road','drift-mouth'], 'drift':['adit','fourth-heading','hollow']}
+for key, spec in MAPS.items():
+    spec['markers'] = {label:GEOMETRY['locations'][key][loc] for label,loc in zip(spec['markers'],KEYS[key])}
+    spec['routes'] = GEOMETRY['routes'][key]
 
 def xy(point):
     return point[0], H - point[1]
@@ -47,7 +54,11 @@ def fit_base(path):
     image = Image.open(path).convert("RGB")
     return ImageOps.fit(image, (W, H), method=Image.Resampling.LANCZOS, centering=(0.5, 0.5))
 
-def label(draw, text, point):
+LABEL_POSITIONS = {
+ "village": {"Whitby Road":(100,145), "Surgery":(400,235), "Cliff Row":(560,300), "Hesketh House":(610,365), "Agnes's House":(1050,400), "St Oswald's":(895,120), "Churchyard":(580,110), "Memorial":(1030,250), "School":(1190,180), "Village Square":(1050,335), "Staithe":(1050,520), "Long Scar":(1050,835), "Exposed Seabed":(1250,945), "Saltwick Drift":(130,440)}
+}
+
+def label(draw, text, point, key):
     x, y = xy(point)
     r = 9
     draw.ellipse((x-r, y-r, x+r, y+r), fill=(117,45,31,255), outline=(246,232,190,255), width=3)
@@ -55,6 +66,9 @@ def label(draw, text, point):
     tw, th = box[2]-box[0], box[3]-box[1]
     tx = min(max(16, x + 15), W - tw - 20)
     ty = min(max(92, y - th//2), H - th - 35)
+    if text in LABEL_POSITIONS.get(key, {}):
+        tx, ty = LABEL_POSITIONS[key][text]
+        draw.line([(x,y),(tx,ty+th/2)],fill=(62,49,35,255),width=2)
     draw.rounded_rectangle((tx-7,ty-4,tx+tw+7,ty+th+5), radius=5, fill=(244,233,201,220), outline=(79,67,50,210), width=1)
     draw.text((tx,ty), text, font=label_font, fill=(38,31,24,255), stroke_width=1, stroke_fill=(244,233,201,255))
 
@@ -70,11 +84,13 @@ def render(key, spec):
     draw.text((25,13), spec["title"], font=title_font, fill=(245,232,194,255))
     draw.text((W-690,29), spec["subtitle"], font=small_font, fill=(231,220,190,255))
     # Compass and scale cue are editorial, not claims of exact surveyed distance.
-    draw.ellipse((W-92, H-92, W-28, H-28), fill=(244,233,201,220), outline=(55,48,38,255), width=2)
-    draw.polygon([(W-60,H-84),(W-69,H-55),(W-51,H-55)], fill=(117,45,31,255))
-    draw.text((W-67,H-51), "N", font=label_font, fill=(38,31,24,255))
+    if key == "coast":
+        draw.ellipse((W-92, H-92, W-28, H-28), fill=(244,233,201,220), outline=(55,48,38,255), width=2)
+    if key == "coast":
+        draw.polygon([(W-60,H-84),(W-69,H-55),(W-51,H-55)], fill=(117,45,31,255))
+    draw.text((W-67,H-51), "N" if key == "coast" else "", font=label_font, fill=(38,31,24,255))
     for text_, point in spec["markers"].items():
-        label(draw, text_, point)
+        label(draw, text_, point, key)
     result = Image.alpha_composite(image, overlay).convert("RGB")
     OUT.mkdir(parents=True, exist_ok=True)
     result.save(OUT / f"{key}.png", optimize=True)

@@ -1,6 +1,6 @@
 # The Undersong release checklist
 
-This checklist tracks `docs/CHECKLIST.md`. Evidence is recorded in the dedicated validators, audits, artwork manifest, and `UI_QA.md`.
+This checklist tracks `docs/CHECKLIST.md`. Corrected after independent validation of d747fe9: see `REVALIDATION.md` and the superseding `UI_QA.md`.
 
 ## Source and structure
 
