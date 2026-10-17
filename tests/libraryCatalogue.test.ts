@@ -51,6 +51,8 @@ const index = parseLibraryIndex(rawIndex)
  */
 const PUBLIC_DOMAIN_BASIS = /public[- ]domain|domínio público/i
 const SOURCE_EDITION = /Project Gutenberg\b[^;]{0,60}?\d{1,6}/i
+const AUTHORIZED_COPYRIGHT = /authorized|author['’]s permission|creator['’]s permission/i
+const CREATOR_SOURCE = /creator-supplied (?:English )?manuscript|original (?:English )?manuscript/i
 
 /**
  * And what a book carrying no prose has to say instead.
@@ -103,7 +105,7 @@ describe('the published library catalogue', () => {
 
       it('names the author and carries an attribution notice', () => {
         expect(entry.author.trim()).not.toBe('')
-        expect(entry.notice).toMatch(/unofficial|não oficial/i)
+        expect(entry.notice).toMatch(/unofficial|não oficial|authorized/i)
       })
 
       it('says where its prose came from, or says it has none', () => {
@@ -115,8 +117,9 @@ describe('the published library catalogue', () => {
         const sceneTexts = (world.sceneTexts ?? []) as Array<{ eventId: string }>
         const events = world.events as Array<{ id: string }>
         if (sceneTexts.length > 0) {
-          expect(entry.notice, 'declares a public-domain basis').toMatch(PUBLIC_DOMAIN_BASIS)
-          expect(entry.notice, 'names the source edition').toMatch(SOURCE_EDITION)
+          const publicDomain = PUBLIC_DOMAIN_BASIS.test(entry.notice) && SOURCE_EDITION.test(entry.notice)
+          const authorizedOriginal = AUTHORIZED_COPYRIGHT.test(entry.notice) && CREATOR_SOURCE.test(entry.notice)
+          expect(publicDomain || authorizedOriginal, 'declares either a public-domain edition or an authorized creator-supplied original').toBe(true)
           // Every draft resolves uniquely to a modeled event, so no passage is
           // orphaned and none is shown twice.
           expect(sceneTexts).toHaveLength(events.length)

@@ -854,6 +854,24 @@
       "cover": "library/lotr-shared-art/generated/covers/174-the-two-towers.jpg"
     },
     {
+      "id": "the-undersong",
+      "title": "The Undersong",
+      "author": "Solomon Darko",
+      "blurb": "In an Edwardian North Riding village, a wrong tide, a sound below hearing, and the records kept by a doctor, a schoolmistress, and a mine manager draw the coast toward an impossible low water.",
+      "data": "the-undersong.pwk",
+      "dataBytes": 242949,
+      "counts": {
+        "characters": 10,
+        "chapters": 8,
+        "events": 42,
+        "locations": 20
+      },
+      "notice": "Authorized reading-mode edition of an original English manuscript by Solomon Darko. Copyright © 2026 Solomon Darko. All rights reserved. The complete creator-supplied manuscript is retained in source order; editorial scene boundaries, chronology, maps, generated artwork, and validation provenance are documented in the included Lore and authoring audits.",
+      "worldId": "the-undersong-world",
+      "cover": "library/the-undersong/art/world.png",
+      "hasProse": true
+    },
+    {
       "id": "the-war-of-the-worlds",
       "title": "The War of the Worlds",
       "author": "H. G. Wells",

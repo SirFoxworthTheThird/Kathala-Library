@@ -1,0 +1,354 @@
+[
+  {
+    "path": "library/the-undersong/art/world.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-068e22a9-5187-4dde-856b-8a8a39be3b32.png",
+    "prompt": "Use case: historical-scene. Asset type: world cover illustration for The Undersong reading edition. Primary request: Book cover: Hollin Staithe at impossible low tide, black scar leading to a distant vertical wall of sea, mine workings under the cliff and a tiny schoolmistress.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: mature vertical composition; village, scar, sea wall and lone figure remain legible; no text or modern objects.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/ezra.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-16b16a4f-3c97-4748-8cbd-535cc539b93c.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Ezra Coyle, an observant middle-aged village doctor in his modest surgery with the sea through the window. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/agnes.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-407e9074-fb09-4c63-8b06-236875ca431b.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Agnes Merriman, a composed Edwardian schoolmistress beside a slate board in her coastal classroom. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/tom.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-d3c9421f-2872-40be-8053-d9b3f1829080.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Tom Hesketh, a nineteen-year-old ironstone miner with bandaged ear, lamp-lit and exhausted. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/ruth.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-38181a00-1072-4ce6-bc7d-9222a96e70a7.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Ruth Hesketh, a severe working mother in a dark shawl, keeping vigil in a stone cottage. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/pell.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-a1c258a0-30c7-4620-a059-7c989a27fd96.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Jonah Pell, the ironstone mine manager in worn work clothes at the drift mouth. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/wren.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-8f7da654-caed-4c6c-b57d-f6cb7834dc3b.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Abel Wren, a pale white-haired Admiralty surveyor standing at the lifeboat memorial. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/silas.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-0d374eb2-0e73-416f-976f-ddfb1992a481.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Silas Tunstall, an aging Anglican vicar beside the stone font in St Oswald’s. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/harker.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-01340797-a30c-4539-b15d-5c35545472df.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Old Harker, weathered coble-man holding a lantern above the low-tide shore. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/annie.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-37313c2a-2952-4167-aaac-a795b085773b.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Annie Ward, a six-year-old pupil holding her unsettling inverted-shore drawing in the schoolroom. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/characters/joseph.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-55d64227-5729-4aee-95b4-2453d3d8d16d.png",
+    "prompt": "Use case: historical-scene. Asset type: character portrait for The Undersong reading edition. Primary request: Joseph Ainsley, a seven-year-old pupil at a scarred desk with slate and pencil. Composition: vertical single-character portrait, psychologically attentive and non-glamorized. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: age, clothing, setting and individual silhouette are distinct and period coherent.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/factions/village.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-42b2ba5e-7a3f-4cbf-ab29-adff13d88ce2.png",
+    "prompt": "Use case: historical-scene. Asset type: faction illustration for The Undersong reading edition. Primary request: Hollin Staithe as a compact cliff village with cottages, church, cobles and winding gear.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: wide, adult historical scene with clear institutional identity and no lettering.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/factions/mine.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-dd2021f1-7fa5-4615-8b8b-6beb63881a30.png",
+    "prompt": "Use case: historical-scene. Asset type: faction illustration for The Undersong reading edition. Primary request: Saltwick Ironstone Company: cliffside mine mouth, tram rails, ore wagons, winding gear and small period workmen.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: wide, adult historical scene with clear institutional identity and no lettering.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/factions/parish.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-25739152-56e9-4792-8035-8085e659b0b1.png",
+    "prompt": "Use case: historical-scene. Asset type: faction illustration for The Undersong reading edition. Primary request: St Oswald’s parish: austere church interior, octagonal font, pews and coastal congregation.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: wide, adult historical scene with clear institutional identity and no lettering.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/items/daybook.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-60c7c056-50a9-4b4f-8464-2b52b63d4fa9.png",
+    "prompt": "Use case: historical-scene. Asset type: historical object illustration for The Undersong reading edition. Primary request: Ezra’s open medical daybook, pen, spectacles and brass clock under paraffin light.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/items/dark-stone.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-eb23e742-dff6-4b33-a0b9-ca87f303465c.png",
+    "prompt": "Use case: historical-scene. Asset type: historical object illustration for The Undersong reading edition. Primary request: A wet black ironstone fragment with fine parallel striations beside a hand lens.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/items/hydrophone.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-28bb8600-8210-49af-ad9a-674496a77cdc.png",
+    "prompt": "Use case: historical-scene. Asset type: historical object illustration for The Undersong reading edition. Primary request: A plausible homemade 1911 hydrophone with brass diaphragm, insulated cable, listening box and earpieces.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/items/dream-ledger.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-258b88e1-3d66-45ba-a845-b5569144b68e.png",
+    "prompt": "Use case: historical-scene. Asset type: historical object illustration for The Undersong reading edition. Primary request: Agnes’s clothbound Dream Ledger with repeated wave-like marks, graphite pencil and sea grass.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/items/pell-book.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-a37fa4a5-f8f8-4248-bbab-cfbfc8ece1b2.png",
+    "prompt": "Use case: historical-scene. Asset type: historical object illustration for The Undersong reading edition. Primary request: Pell’s heavy black accounts book with brass clasp, mine plans and sealing pencil.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/items/watch.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-8c22ba8e-7785-497b-92cb-20880a454ce3.png",
+    "prompt": "Use case: historical-scene. Asset type: historical object illustration for The Undersong reading edition. Primary request: A worn silver pocket watch stopped on black shale beside salt crystals.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/items/drawings.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-f3fa4bd1-d88a-4c76-9695-9bd0336d0bd6.png",
+    "prompt": "Use case: historical-scene. Asset type: historical object illustration for The Undersong reading edition. Primary request: A stack of schoolchildren’s charcoal drawings repeating an inverted shore and vertical wall of sea.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct close still life, materially plausible, no legible generated writing or modern object.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/hollin.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-db0d03f9-a0d1-4ace-98e5-d02f92f94ee5.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Hollin Staithe cliff village with stone houses, church, school, winding gear and black tidal scar.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/whitby.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-cf48b2b4-dc55-456f-8c52-956370c3a974.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Whitby harbour circa 1911 with stone piers, cobles, steam smoke and abbey heights.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/loftus.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-d3a886ed-90d4-4664-b50b-25f61b8101d8.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Loftus market street circa 1911 with workers, horse cart and distant moor.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/surgery.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-19cef1de-cc53-4bf7-89c5-c8b6f8bfbe19.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Ezra’s modest coastal surgery with couch, medicine cabinet, washstand, microscope and sea window.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/cliff-row.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-f6111554-f7ef-4ed3-a213-618ce15fce39.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Cliff Row: tight miners’ cottages, wet cobbles and mine headgear above.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/hesketh-house.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-5e791b63-999e-47c8-a47b-dcfc7d384947.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: The cramped Hesketh cottage with iron range, patched chairs and a mother beside her son’s bed.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/school.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-a82435d6-a8c6-4649-bf9b-73c326c6be7b.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Hollin Staithe schoolroom with scarred desks, slates, map, stove and sea windows.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/agnes-house.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-5abdcd03-5895-4a12-ba47-dcb087c5a0f9.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Agnes’s cottage with books, plain writing table, coal grate and view toward the shore.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/church.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-dbcd27d1-ec13-4e6c-8a1a-7b0f5f1e5049.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: St Oswald’s severe stone nave with worn pews, font, pulpit and salt-grey light.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/churchyard.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-ec0e8522-8b63-474c-8765-4c431789c125.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Cliffside churchyard with leaning stones, coarse grass, church tower and North Sea.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/memorial.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-d8c201ee-d3b5-4b56-b5da-8da6872c0ee0.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Weathered lifeboat memorial with indistinct carved names, lichen and sea spray.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/staithe.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-721e4ffe-894f-4fc3-ba13-e70af0c727bc.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Low-tide staithe with slipway, grounded cobles, capstan, pots and village above.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/long-scar.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-87621c47-a6fa-492d-b31f-a8cc2edbd5fd.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Long Scar at extreme low tide, black reef and tidal pools leading toward mist.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/seabed.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-960fc735-3337-492b-98ad-ce43ccd2a5d1.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Newly exposed seabed with rippled sand, weed, anchors and a distant wall of water.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/village-square.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-3ad11a0f-3773-42b8-aa19-ab25f1f9e8bd.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Village square during evacuation with stone houses, carts, families and church tower.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/whitby-road.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-c628ba80-d477-427e-9ff1-b6c47aaf5f3e.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Steep Whitby road with dry stone walls, evacuees, handcarts and horse wagon.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/drift-mouth.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-6228e0c1-4d7c-4ff4-b979-5d7305d00ed9.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Saltwick drift mouth with timbered portal, rails, ore tubs and wet shale.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/adit.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-c5a81afd-8fb1-4d28-8d8c-abdd27639c48.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Inside the timbered Saltwick adit with rails, drainage and safety lamps.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/fourth-heading.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-5af6afbe-fbcf-4ad7-aef2-422ef7f92d06.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: Fourth Heading ending at a fresh collapse with props, crushed tub and black water.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/art/locations/hollow.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-ab36c98b-e963-47f5-b1f6-8a7342e3ed52.png",
+    "prompt": "Use case: historical-scene. Asset type: location illustration for The Undersong reading edition. Primary request: The vast Hollow with curved black strata, still water and tiny lamp-bearing figures.  Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted: distinct wide establishing image with period or geological detail; no duplicate composition or inappropriate modern feature.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/maps/coast.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-a8c4c465-cdf3-4aee-89a5-8d6172146e93.png",
+    "prompt": "Use case: historical-scene. Asset type: topographic map base for The Undersong reading edition. Primary request: Strict overhead topographic map base of the North Riding coast circa 1911 between Whitby, fictional Hollin Staithe and Loftus, with coast, cliffs, moor contours, roads and railway. Composition: exact orthographic overhead, north at top, wide 8:5. Base constraint: no labels, letters, numbers, pins or legend. Final labels and routes added by scripts/the-undersong/render-maps.py. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted after deterministic overlay: mature professional cartography, coherent terrain, high-contrast route, readable labels, north arrow, exact 1600x1000 output and markers aligned to bottom-origin Kathala coordinates.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/maps/village.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-0ea714a1-0558-4d67-89ce-e4e2e1619454.png",
+    "prompt": "Use case: historical-scene. Asset type: topographic map base for The Undersong reading edition. Primary request: Strict overhead topographic plan of fictional Hollin Staithe circa 1911 with village, church, school, staithe, Long Scar, road and drift mouth. Composition: exact orthographic overhead, north at top, wide 8:5. Base constraint: no labels, letters, numbers, pins or legend. Final labels and routes added by scripts/the-undersong/render-maps.py. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted after deterministic overlay: mature professional cartography, coherent terrain, high-contrast route, readable labels, north arrow, exact 1600x1000 output and markers aligned to bottom-origin Kathala coordinates.",
+    "corrections": []
+  },
+  {
+    "path": "library/the-undersong/maps/drift.png",
+    "generator": "OpenAI ImageGen",
+    "sourceImage": "exec-7dcb799e-2b05-459d-a826-5f0bbd5dd531.png",
+    "prompt": "Use case: historical-scene. Asset type: topographic map base for The Undersong reading edition. Primary request: Strict overhead technical plan of Saltwick ironstone mine circa 1911 with adit, branching galleries, Fourth Heading, collapse and Hollow. Composition: exact orthographic overhead, north at top, wide 8:5. Base constraint: no labels, letters, numbers, pins or legend. Final labels and routes added by scripts/the-undersong/render-maps.py. Style/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint. Constraints: historically accurate 1911 North Riding clothing, architecture and objects where applicable; no text, logo or watermark. Avoid: photography, cartoon, anime, modern objects, generic fantasy.",
+    "visualReview": "Accepted after deterministic overlay: mature professional cartography, coherent terrain, high-contrast route, readable labels, north arrow, exact 1600x1000 output and markers aligned to bottom-origin Kathala coordinates.",
+    "corrections": []
+  }
+]
