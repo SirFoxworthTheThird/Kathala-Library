@@ -1,0 +1,26 @@
+{
+  "title": "Paradise Lost",
+  "author": "John Milton",
+  "sourceEdition": "John Milton, Paradise Lost, Project Gutenberg eBook #26, twelve-book text credited to Dr. Joseph Raben; released 1 February 1992; source file updated 21 August 2026.",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/26/pg26.txt",
+  "downloaded": "2026-10-18",
+  "sourceBytes": 491461,
+  "sourceSha256": "aeedc9f33e0c2a6422d2f557462fb87cd2430974c6aed30a26803be5394a741a",
+  "rights": "Public domain in the United States; Milton died in 1674.",
+  "retained": {
+    "books": 12,
+    "verseLines": 10566,
+    "words": 80146,
+    "start": "Book I / Of Man’s first disobedience, and the fruit",
+    "end": "Through Eden took their solitary way."
+  },
+  "excluded": [
+    "Project Gutenberg header and licence",
+    "title and contents pages",
+    "volunteer introduction",
+    "blank page furniture",
+    "Transcriber’s Notes",
+    "Project Gutenberg footer"
+  ],
+  "normalization": "CRLF and CR become LF; trailing whitespace and empty packaging lines are ignored; all nonempty retained verse lines must otherwise match exactly."
+}

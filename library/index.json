@@ -510,6 +510,24 @@
       "hasProse": true
     },
     {
+      "id": "paradise-lost",
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "blurb": "The rebel host rises from Hell, humanity meets temptation in Eden, and celestial history frames the cost and promise of freedom.",
+      "data": "paradise-lost.pwk",
+      "dataBytes": 916695,
+      "counts": {
+        "characters": 25,
+        "chapters": 12,
+        "events": 164,
+        "locations": 25
+      },
+      "notice": "Unofficial reading-mode edition of a public-domain poem. It preserves all twelve books and every retained verse line of Project Gutenberg eBook #26 in source order; Gutenberg packaging, title and contents matter, transcriber notes, and license text are excluded. Editorial scene boundaries, six narrative timelines, four illustrated topographic and cosmographic maps, and 66 distinct artwork assets are documented in the included audits.",
+      "worldId": "paradise-lost-world",
+      "cover": "library/paradise-lost/art/world.png",
+      "hasProse": true
+    },
+    {
       "id": "persuasion",
       "title": "Persuasion",
       "author": "Jane Austen",

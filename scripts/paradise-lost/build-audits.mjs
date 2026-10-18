@@ -1,0 +1,19 @@
+import fs from 'node:fs'
+import {books,sourceEdition,sourceUrl,sourceSha256,verseLineCount,countWords,verseText} from './source-text.mjs'
+import {bookPlans} from './scene-plan.mjs'
+import {reviewedBooks,reviewedBoundaries} from './reviewed-scenes.mjs'
+
+const source={title:'Paradise Lost',author:'John Milton',sourceEdition,sourceUrl,downloaded:'2026-10-18',sourceBytes:fs.statSync(new URL('./source/pg26.txt',import.meta.url)).size,sourceSha256,rights:'Public domain in the United States; Milton died in 1674.',retained:{books:12,verseLines:verseLineCount,words:countWords(verseText),start:'Book I / Of Man’s first disobedience, and the fruit',end:'Through Eden took their solitary way.'},excluded:['Project Gutenberg header and licence','title and contents pages','volunteer introduction','blank page furniture','Transcriber’s Notes','Project Gutenberg footer'],normalization:'CRLF and CR become LF; trailing whitespace and empty packaging lines are ignored; all nonempty retained verse lines must otherwise match exactly.'}
+fs.writeFileSync(new URL('./SOURCE_AUDIT.json',import.meta.url),JSON.stringify(source,null,2)+'\n')
+const draft=JSON.parse(fs.readFileSync(new URL('./manuscript-draft.pwk',import.meta.url),'utf8'))
+const records=books.flatMap(book=>{const plan=reviewedBooks[book.number-1],points=reviewedBoundaries(book);return plan.map((entry,index)=>{
+ const start=points[index],end=points[index+1],lines=book.lines.slice(start,end)
+ return{book:book.number,title:entry.title,sourceStart:start+1,sourceEnd:end,precedingLines:book.lines.slice(Math.max(0,start-4),start),openingLines:lines.slice(0,4),closingLines:lines.slice(-4),followingLines:book.lines.slice(end,end+4),verseLines:lines.length,words:countWords(lines.join('\n')),location:entry.location,timeline:entry.timeline,presentCast:Object.keys(entry.states),individualStates:entry.states,items:entry.items,rationale:index===0?'Authorial book opening.':`Transition from “${plan[index-1].title}” to “${entry.title}”: ${entry.description??Object.values(entry.states).join(' ')}`,seamNote:'The source is continuous blank verse. Cuts retain whole verse lines at the reviewed action or speech transition; an enjambed transition may retain the close of the preceding clause on the opening line.'}
+})})
+fs.writeFileSync(new URL('./SCENE_BOUNDARY_AUDIT.json',import.meta.url),JSON.stringify({title:'Paradise Lost',policy:'Explicit source-reviewed verse starts; no equal-length allocation or punctuation search. Adjacent lines, casts, states, locations, items, and frames are recorded for every cut. All retained verse lines remain in exact order.',books:books.length,scenes:records.length,records},null,2)+'\n')
+
+const edition=JSON.parse(fs.readFileSync(new URL('../../library/paradise-lost.pwk',import.meta.url),'utf8'))
+const characterName=new Map(edition.characters.map(character=>[character.id,character.name]))
+const presence=edition.events.map(event=>{const scene=edition.sceneTexts.find(text=>text.eventId===event.id),states=edition.characterSnapshots.filter(snapshot=>snapshot.eventId===event.id);return{event:event.title,sourceRange:event.tags.find(value=>value.startsWith('Book ')),presentCharacters:event.involvedCharacterIds.map(characterId=>characterName.get(characterId)),snapshotCount:states.length,firstLine:scene.text.split('\n')[0].trim(),lastLine:scene.text.split('\n').at(-1).trim(),review:'Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event.'}})
+fs.writeFileSync(new URL('./PRESENCE_AUDIT.json',import.meta.url),JSON.stringify({title:'Paradise Lost',policy:'Exactly one snapshot is assigned to every character physically present in an event. Mere mention, prophecy, or narration from an outer frame does not establish presence inside the represented event.',events:presence.length,records:presence},null,2)+'\n')
+
