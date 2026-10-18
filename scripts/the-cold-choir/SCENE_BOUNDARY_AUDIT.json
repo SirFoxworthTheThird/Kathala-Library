@@ -1,0 +1,1086 @@
+{
+  "title": "The Cold Choir",
+  "author": "Solomon Darko",
+  "policy": "Cuts occur only between normalized source paragraphs. Each retained authorial section is either preserved whole or split when place, directly present cast, custody, knowledge state, or continuous action materially changes.",
+  "sourceSha256": "22c091779484a001a52c8cea193028efa8f941abd61f708ca50b8236137366a8",
+  "authorialSections": 44,
+  "scenes": 72,
+  "records": [
+    {
+      "authorialSectionNumber": 1,
+      "chapterNumber": 1,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 1 — Deceleration",
+      "sectionHeading": "The Cold Rows",
+      "paragraphCount": 39,
+      "wordCount": 1273,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 1,
+          "title": "The Cold Rows",
+          "paragraphStart": 1,
+          "paragraphEnd": 39,
+          "wordCount": 1273
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 2,
+      "chapterNumber": 1,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 1 — Deceleration",
+      "sectionHeading": "Captain's Bell",
+      "paragraphCount": 36,
+      "wordCount": 1108,
+      "decision": "split",
+      "reason": "Cut after the bedside exchange because Ilse leaves medbay, Oyelaran ceases to be directly present, and Tamsin enters the corridor scene.",
+      "scenes": [
+        {
+          "sceneNumber": 2,
+          "title": "Captain's Bell",
+          "paragraphStart": 1,
+          "paragraphEnd": 19,
+          "wordCount": 551
+        },
+        {
+          "sceneNumber": 3,
+          "title": "After the Bell",
+          "paragraphStart": 20,
+          "paragraphEnd": 36,
+          "wordCount": 557
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 3,
+      "chapterNumber": 2,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 2 — The Hall of Muster",
+      "sectionHeading": "The Muster Roll",
+      "paragraphCount": 36,
+      "wordCount": 1278,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 4,
+          "title": "The Muster Roll",
+          "paragraphStart": 1,
+          "paragraphEnd": 36,
+          "wordCount": 1278
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 4,
+      "chapterNumber": 2,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 2 — The Hall of Muster",
+      "sectionHeading": "News from Ninefold",
+      "paragraphCount": 25,
+      "wordCount": 1163,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 5,
+          "title": "News from Ninefold",
+          "paragraphStart": 1,
+          "paragraphEnd": 25,
+          "wordCount": 1163
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 5,
+      "chapterNumber": 3,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 3 — Salvage Rights",
+      "sectionHeading": "Pelican's Debt",
+      "paragraphCount": 31,
+      "wordCount": 1135,
+      "decision": "split",
+      "reason": "Cut when salvage outside the wreck ends and the action resumes inside the Pelican galley.",
+      "scenes": [
+        {
+          "sceneNumber": 6,
+          "title": "Pelican's Debt",
+          "paragraphStart": 1,
+          "paragraphEnd": 16,
+          "wordCount": 664
+        },
+        {
+          "sceneNumber": 7,
+          "title": "The Debt Remaining",
+          "paragraphStart": 17,
+          "paragraphEnd": 31,
+          "wordCount": 471
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 6,
+      "chapterNumber": 3,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 3 — Salvage Rights",
+      "sectionHeading": "The Counting House",
+      "paragraphCount": 21,
+      "wordCount": 1032,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 8,
+          "title": "The Counting House",
+          "paragraphStart": 1,
+          "paragraphEnd": 21,
+          "wordCount": 1032
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 7,
+      "chapterNumber": 4,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 4 — The Air Budget",
+      "sectionHeading": "Lund's Arithmetic",
+      "paragraphCount": 32,
+      "wordCount": 1280,
+      "decision": "split",
+      "reason": "Cut when the formal council disperses and the remaining Ilse–Bram–Hollin exchange begins at the hatch.",
+      "scenes": [
+        {
+          "sceneNumber": 9,
+          "title": "Lund's Arithmetic",
+          "paragraphStart": 1,
+          "paragraphEnd": 29,
+          "wordCount": 1220
+        },
+        {
+          "sceneNumber": 10,
+          "title": "The Mass Audit",
+          "paragraphStart": 30,
+          "paragraphEnd": 32,
+          "wordCount": 60
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 8,
+      "chapterNumber": 4,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 4 — The Air Budget",
+      "sectionHeading": "Bram's Ledger",
+      "paragraphCount": 35,
+      "wordCount": 1109,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 11,
+          "title": "Bram's Ledger",
+          "paragraphStart": 1,
+          "paragraphEnd": 35,
+          "wordCount": 1109
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 9,
+      "chapterNumber": 5,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 5 — Margins",
+      "sectionHeading": "Iron Gall",
+      "paragraphCount": 18,
+      "wordCount": 925,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 12,
+          "title": "Iron Gall",
+          "paragraphStart": 1,
+          "paragraphEnd": 18,
+          "wordCount": 925
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 10,
+      "chapterNumber": 5,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 5 — Margins",
+      "sectionHeading": "The Delegation",
+      "paragraphCount": 30,
+      "wordCount": 1282,
+      "decision": "split",
+      "reason": "Cut when negotiations end, the Warden and Rhee leave, and Neve walks the corridor with Jory.",
+      "scenes": [
+        {
+          "sceneNumber": 13,
+          "title": "The Delegation",
+          "paragraphStart": 1,
+          "paragraphEnd": 19,
+          "wordCount": 1029
+        },
+        {
+          "sceneNumber": 14,
+          "title": "Why Give Up Water?",
+          "paragraphStart": 20,
+          "paragraphEnd": 30,
+          "wordCount": 253
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 11,
+      "chapterNumber": 6,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 6 — The Names",
+      "sectionHeading": "Kit's Prayers",
+      "paragraphCount": 37,
+      "wordCount": 1084,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 15,
+          "title": "Kit's Prayers",
+          "paragraphStart": 1,
+          "paragraphEnd": 37,
+          "wordCount": 1084
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 12,
+      "chapterNumber": 6,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 6 — The Names",
+      "sectionHeading": "Saba",
+      "paragraphCount": 40,
+      "wordCount": 970,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 16,
+          "title": "Saba",
+          "paragraphStart": 1,
+          "paragraphEnd": 40,
+          "wordCount": 970
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 13,
+      "chapterNumber": 7,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 7 — Ninth Deck Order",
+      "sectionHeading": "Hollin at the Hatch",
+      "paragraphCount": 35,
+      "wordCount": 1076,
+      "decision": "split",
+      "reason": "Cut when Ilse and Hollin leave the guarded hatch and descend to the clamp audit in the Drop Bay.",
+      "scenes": [
+        {
+          "sceneNumber": 17,
+          "title": "Hollin at the Hatch",
+          "paragraphStart": 1,
+          "paragraphEnd": 16,
+          "wordCount": 543
+        },
+        {
+          "sceneNumber": 18,
+          "title": "The Clamp Audit",
+          "paragraphStart": 17,
+          "paragraphEnd": 35,
+          "wordCount": 533
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 14,
+      "chapterNumber": 7,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 7 — Ninth Deck Order",
+      "sectionHeading": "What Tamsin Heard",
+      "paragraphCount": 22,
+      "wordCount": 913,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 19,
+          "title": "What Tamsin Heard",
+          "paragraphStart": 1,
+          "paragraphEnd": 22,
+          "wordCount": 913
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 15,
+      "chapterNumber": 8,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 8 — The Key of Office",
+      "sectionHeading": "Investiture",
+      "paragraphCount": 27,
+      "wordCount": 1109,
+      "decision": "split",
+      "reason": "Cut when the public investiture ends and the Warden questions Neve privately in the emptied Hall.",
+      "scenes": [
+        {
+          "sceneNumber": 20,
+          "title": "Investiture",
+          "paragraphStart": 1,
+          "paragraphEnd": 13,
+          "wordCount": 761
+        },
+        {
+          "sceneNumber": 21,
+          "title": "Rhee at the Vigil",
+          "paragraphStart": 14,
+          "paragraphEnd": 14,
+          "wordCount": 99
+        },
+        {
+          "sceneNumber": 22,
+          "title": "The Vigil Ends",
+          "paragraphStart": 15,
+          "paragraphEnd": 15,
+          "wordCount": 41
+        },
+        {
+          "sceneNumber": 23,
+          "title": "The Warden’s Question",
+          "paragraphStart": 16,
+          "paragraphEnd": 27,
+          "wordCount": 208
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 16,
+      "chapterNumber": 8,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 8 — The Key of Office",
+      "sectionHeading": "Mother Calloway's Song",
+      "paragraphCount": 30,
+      "wordCount": 1061,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 24,
+          "title": "Mother Calloway's Song",
+          "paragraphStart": 1,
+          "paragraphEnd": 30,
+          "wordCount": 1061
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 17,
+      "chapterNumber": 9,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 9 — The Obedient",
+      "sectionHeading": "Into the Grind",
+      "paragraphCount": 28,
+      "wordCount": 757,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 25,
+          "title": "Into the Grind",
+          "paragraphStart": 1,
+          "paragraphEnd": 28,
+          "wordCount": 757
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 18,
+      "chapterNumber": 9,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 9 — The Obedient",
+      "sectionHeading": "Flight Recorder",
+      "paragraphCount": 28,
+      "wordCount": 1160,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 26,
+          "title": "Flight Recorder",
+          "paragraphStart": 1,
+          "paragraphEnd": 28,
+          "wordCount": 1160
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 19,
+      "chapterNumber": 10,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 10 — The Charter",
+      "sectionHeading": "Strongbox",
+      "paragraphCount": 23,
+      "wordCount": 1010,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 27,
+          "title": "Strongbox",
+          "paragraphStart": 1,
+          "paragraphEnd": 23,
+          "wordCount": 1010
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 20,
+      "chapterNumber": 10,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 10 — The Charter",
+      "sectionHeading": "Kesh in the Observation Blister",
+      "paragraphCount": 31,
+      "wordCount": 1158,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 28,
+          "title": "Kesh in the Observation Blister",
+          "paragraphStart": 1,
+          "paragraphEnd": 31,
+          "wordCount": 1158
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 21,
+      "chapterNumber": 11,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 11 — Interdict",
+      "sectionHeading": "Shaft Twelve",
+      "paragraphCount": 24,
+      "wordCount": 1229,
+      "decision": "split",
+      "reason": "Cut at the end of the shooting, again when Rhee reaches town, and again when the report begins aboard the Obedient.",
+      "scenes": [
+        {
+          "sceneNumber": 29,
+          "title": "Shaft Twelve",
+          "paragraphStart": 1,
+          "paragraphEnd": 19,
+          "wordCount": 982
+        },
+        {
+          "sceneNumber": 30,
+          "title": "The Count Becomes Twenty-One",
+          "paragraphStart": 20,
+          "paragraphEnd": 20,
+          "wordCount": 87
+        },
+        {
+          "sceneNumber": 31,
+          "title": "All Necessary Force",
+          "paragraphStart": 21,
+          "paragraphEnd": 24,
+          "wordCount": 160
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 22,
+      "chapterNumber": 11,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 11 — Interdict",
+      "sectionHeading": "The Old Ban",
+      "paragraphCount": 23,
+      "wordCount": 1032,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 32,
+          "title": "The Old Ban",
+          "paragraphStart": 1,
+          "paragraphEnd": 23,
+          "wordCount": 1032
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 23,
+      "chapterNumber": 12,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 12 — Fane's Terms",
+      "sectionHeading": "Surety",
+      "paragraphCount": 24,
+      "wordCount": 1051,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 33,
+          "title": "Surety",
+          "paragraphStart": 1,
+          "paragraphEnd": 24,
+          "wordCount": 1051
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 24,
+      "chapterNumber": 12,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 12 — Fane's Terms",
+      "sectionHeading": "Brother Lio",
+      "paragraphCount": 24,
+      "wordCount": 920,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 34,
+          "title": "Brother Lio",
+          "paragraphStart": 1,
+          "paragraphEnd": 24,
+          "wordCount": 920
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 25,
+      "chapterNumber": 13,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 13 — Quartermaster",
+      "sectionHeading": "The Store Burns",
+      "paragraphCount": 24,
+      "wordCount": 965,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 35,
+          "title": "The Store Burns",
+          "paragraphStart": 1,
+          "paragraphEnd": 24,
+          "wordCount": 965
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 26,
+      "chapterNumber": 13,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 13 — Quartermaster",
+      "sectionHeading": "Tamsin Takes the Book",
+      "paragraphCount": 28,
+      "wordCount": 995,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 36,
+          "title": "Tamsin Takes the Book",
+          "paragraphStart": 1,
+          "paragraphEnd": 28,
+          "wordCount": 995
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 27,
+      "chapterNumber": 14,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 14 — Plaintext",
+      "sectionHeading": "The First Line",
+      "paragraphCount": 23,
+      "wordCount": 926,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 37,
+          "title": "The First Line",
+          "paragraphStart": 1,
+          "paragraphEnd": 23,
+          "wordCount": 926
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 28,
+      "chapterNumber": 14,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 14 — Plaintext",
+      "sectionHeading": "Hal",
+      "paragraphCount": 29,
+      "wordCount": 963,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 38,
+          "title": "Hal",
+          "paragraphStart": 1,
+          "paragraphEnd": 29,
+          "wordCount": 963
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 29,
+      "chapterNumber": 15,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 15 — Ninefold",
+      "sectionHeading": "Gallows Town",
+      "paragraphCount": 25,
+      "wordCount": 1030,
+      "decision": "split",
+      "reason": "Cut after landing preparations, at entry to the Union Hall, and when Kit and Saba leave the memorial.",
+      "scenes": [
+        {
+          "sceneNumber": 39,
+          "title": "Gallows Town",
+          "paragraphStart": 1,
+          "paragraphEnd": 9,
+          "wordCount": 477
+        },
+        {
+          "sceneNumber": 40,
+          "title": "The Union Hall",
+          "paragraphStart": 10,
+          "paragraphEnd": 21,
+          "wordCount": 497
+        },
+        {
+          "sceneNumber": 41,
+          "title": "Keep the Count",
+          "paragraphStart": 22,
+          "paragraphEnd": 25,
+          "wordCount": 56
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 30,
+      "chapterNumber": 15,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 15 — Ninefold",
+      "sectionHeading": "The Field",
+      "paragraphCount": 29,
+      "wordCount": 902,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 42,
+          "title": "The Field",
+          "paragraphStart": 1,
+          "paragraphEnd": 29,
+          "wordCount": 902
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 31,
+      "chapterNumber": 16,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 16 — The Drop Bay",
+      "sectionHeading": "Old Drawings",
+      "paragraphCount": 23,
+      "wordCount": 1302,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 43,
+          "title": "Old Drawings",
+          "paragraphStart": 1,
+          "paragraphEnd": 23,
+          "wordCount": 1302
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 32,
+      "chapterNumber": 16,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 16 — The Drop Bay",
+      "sectionHeading": "The Navigator",
+      "paragraphCount": 25,
+      "wordCount": 747,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 44,
+          "title": "The Navigator",
+          "paragraphStart": 1,
+          "paragraphEnd": 25,
+          "wordCount": 747
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 33,
+      "chapterNumber": 17,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 17 — The Informer",
+      "sectionHeading": "Arrest",
+      "paragraphCount": 36,
+      "wordCount": 1018,
+      "decision": "split",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 45,
+          "title": "Arrest",
+          "paragraphStart": 1,
+          "paragraphEnd": 32,
+          "wordCount": 936
+        },
+        {
+          "sceneNumber": 46,
+          "title": "After They Take Him",
+          "paragraphStart": 33,
+          "paragraphEnd": 36,
+          "wordCount": 82
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 34,
+      "chapterNumber": 17,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 17 — The Informer",
+      "sectionHeading": "Hal's Confession",
+      "paragraphCount": 28,
+      "wordCount": 1130,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 47,
+          "title": "Hal's Confession",
+          "paragraphStart": 1,
+          "paragraphEnd": 28,
+          "wordCount": 1130
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 35,
+      "chapterNumber": 18,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 18 — The Key",
+      "sectionHeading": "Thieves",
+      "paragraphCount": 37,
+      "wordCount": 1484,
+      "decision": "split",
+      "reason": "Cut after Fane orders the party to sleep, then after the crew decides to steal the Key; place, custody and immediate action change.",
+      "scenes": [
+        {
+          "sceneNumber": 48,
+          "title": "Thieves",
+          "paragraphStart": 1,
+          "paragraphEnd": 14,
+          "wordCount": 620
+        },
+        {
+          "sceneNumber": 49,
+          "title": "The Decision to Steal",
+          "paragraphStart": 15,
+          "paragraphEnd": 19,
+          "wordCount": 131
+        },
+        {
+          "sceneNumber": 50,
+          "title": "The Key Taken",
+          "paragraphStart": 20,
+          "paragraphEnd": 37,
+          "wordCount": 733
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 36,
+      "chapterNumber": 18,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 18 — The Key",
+      "sectionHeading": "Kit Reads",
+      "paragraphCount": 31,
+      "wordCount": 934,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 51,
+          "title": "Kit Reads",
+          "paragraphStart": 1,
+          "paragraphEnd": 31,
+          "wordCount": 934
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 37,
+      "chapterNumber": 19,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 19 — Landfall",
+      "sectionHeading": "Burn",
+      "paragraphCount": 41,
+      "wordCount": 1362,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 52,
+          "title": "Burn",
+          "paragraphStart": 1,
+          "paragraphEnd": 41,
+          "wordCount": 1362
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 38,
+      "chapterNumber": 19,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 19 — Landfall",
+      "sectionHeading": "Deck Nine Falls",
+      "paragraphCount": 37,
+      "wordCount": 1832,
+      "decision": "split",
+      "reason": "Cut after Hollin yields the hatch, then when Ilse enters the pilot cell and the sleeper drum separates from Mercy.",
+      "scenes": [
+        {
+          "sceneNumber": 53,
+          "title": "Deck Nine Falls",
+          "paragraphStart": 1,
+          "paragraphEnd": 6,
+          "wordCount": 225
+        },
+        {
+          "sceneNumber": 54,
+          "title": "The Fourth Release",
+          "paragraphStart": 7,
+          "paragraphEnd": 18,
+          "wordCount": 663
+        },
+        {
+          "sceneNumber": 55,
+          "title": "Ninefold Descent",
+          "paragraphStart": 19,
+          "paragraphEnd": 37,
+          "wordCount": 944
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 39,
+      "chapterNumber": 19,
+      "sectionNumber": 3,
+      "chapterHeading": "Ch. 19 — Landfall",
+      "sectionHeading": "The Warden",
+      "paragraphCount": 18,
+      "wordCount": 794,
+      "decision": "split",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 56,
+          "title": "The Key Returned",
+          "paragraphStart": 1,
+          "paragraphEnd": 1,
+          "wordCount": 41
+        },
+        {
+          "sceneNumber": 57,
+          "title": "The Warden",
+          "paragraphStart": 2,
+          "paragraphEnd": 13,
+          "wordCount": 567
+        },
+        {
+          "sceneNumber": 58,
+          "title": "The First Hidden Line",
+          "paragraphStart": 14,
+          "paragraphEnd": 18,
+          "wordCount": 186
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 40,
+      "chapterNumber": 20,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 20 — Tricentennial",
+      "sectionHeading": "The Last Rows",
+      "paragraphCount": 17,
+      "wordCount": 717,
+      "decision": "retain as one scene",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 59,
+          "title": "The Last Rows",
+          "paragraphStart": 1,
+          "paragraphEnd": 17,
+          "wordCount": 717
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 41,
+      "chapterNumber": 20,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 20 — Tricentennial",
+      "sectionHeading": "The Broadcast",
+      "paragraphCount": 35,
+      "wordCount": 1476,
+      "decision": "split",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 60,
+          "title": "The Broadcast",
+          "paragraphStart": 1,
+          "paragraphEnd": 11,
+          "wordCount": 733
+        },
+        {
+          "sceneNumber": 61,
+          "title": "The Hatch Opens",
+          "paragraphStart": 12,
+          "paragraphEnd": 20,
+          "wordCount": 172
+        },
+        {
+          "sceneNumber": 62,
+          "title": "The Hall Answers",
+          "paragraphStart": 21,
+          "paragraphEnd": 35,
+          "wordCount": 571
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 42,
+      "chapterNumber": 20,
+      "sectionNumber": 3,
+      "chapterHeading": "Ch. 20 — Tricentennial",
+      "sectionHeading": "Rhee's Choice",
+      "paragraphCount": 21,
+      "wordCount": 790,
+      "decision": "split",
+      "reason": "The authorial section keeps one place, continuous action and a stable directly present cast; internal paragraphs are beats within that scene.",
+      "scenes": [
+        {
+          "sceneNumber": 63,
+          "title": "Rhee's Choice",
+          "paragraphStart": 1,
+          "paragraphEnd": 21,
+          "wordCount": 790
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 43,
+      "chapterNumber": 21,
+      "sectionNumber": 1,
+      "chapterHeading": "Ch. 21 — The Cold Choir",
+      "sectionHeading": "Shaft",
+      "paragraphCount": 53,
+      "wordCount": 1659,
+      "decision": "split",
+      "reason": "Cut when Fane’s guard leaves the hold, then when Osh and Kit begin crossing the rows toward the pilot cell.",
+      "scenes": [
+        {
+          "sceneNumber": 64,
+          "title": "Shaft",
+          "paragraphStart": 1,
+          "paragraphEnd": 4,
+          "wordCount": 134
+        },
+        {
+          "sceneNumber": 65,
+          "title": "Fane in the Cold Rows",
+          "paragraphStart": 5,
+          "paragraphEnd": 36,
+          "wordCount": 942
+        },
+        {
+          "sceneNumber": 66,
+          "title": "The First Berth",
+          "paragraphStart": 37,
+          "paragraphEnd": 43,
+          "wordCount": 235
+        },
+        {
+          "sceneNumber": 67,
+          "title": "Toward the Pilot Cell",
+          "paragraphStart": 44,
+          "paragraphEnd": 53,
+          "wordCount": 348
+        }
+      ]
+    },
+    {
+      "authorialSectionNumber": 44,
+      "chapterNumber": 21,
+      "sectionNumber": 2,
+      "chapterHeading": "Ch. 21 — The Cold Choir",
+      "sectionHeading": "Waking",
+      "paragraphCount": 37,
+      "wordCount": 1432,
+      "decision": "split",
+      "reason": "Cut after Kit stops at the threshold so Osh reads alone; cut on return to the cold rows; cut before the pod opens after four hours. Sleeping Ama is physically present at her berth before she wakes.",
+      "scenes": [
+        {
+          "sceneNumber": 68,
+          "title": "At the Inner Hatch",
+          "paragraphStart": 1,
+          "paragraphEnd": 3,
+          "wordCount": 200
+        },
+        {
+          "sceneNumber": 69,
+          "title": "Waking",
+          "paragraphStart": 4,
+          "paragraphEnd": 17,
+          "wordCount": 504
+        },
+        {
+          "sceneNumber": 70,
+          "title": "Row Thirty-One",
+          "paragraphStart": 18,
+          "paragraphEnd": 22,
+          "wordCount": 304
+        },
+        {
+          "sceneNumber": 71,
+          "title": "Ama Opens Her Eyes",
+          "paragraphStart": 23,
+          "paragraphEnd": 25,
+          "wordCount": 98
+        },
+        {
+          "sceneNumber": 72,
+          "title": "Berth Twelve",
+          "paragraphStart": 26,
+          "paragraphEnd": 37,
+          "wordCount": 326
+        }
+      ]
+    }
+  ]
+}

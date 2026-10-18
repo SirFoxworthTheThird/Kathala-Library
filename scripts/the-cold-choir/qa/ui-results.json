@@ -1,0 +1,95 @@
+{
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "pwkSha256": "462f1bb98751f2165a0a9018933b573dd80659c0fd3a4852dd89d03bb9d4539a",
+  "download": true,
+  "readingModeOpening": true,
+  "readingModeSequentialReveal": true,
+  "manuscriptTimelines": 3,
+  "layouts": [
+    "cards",
+    "read"
+  ],
+  "supportingViews": 10,
+  "maps": 4,
+  "mapPins": 33,
+  "gateways": {
+    "count": 1,
+    "from": "cold-choir-loc-shaft",
+    "to": "cold-choir-map-hold",
+    "activated": true
+  },
+  "playbackTransitions": [
+    {
+      "before": "After the Bell",
+      "after": "The Muster Roll",
+      "from": "cold-choir-map-mercy",
+      "to": "cold-choir-map-compact"
+    },
+    {
+      "before": "News from Ninefold",
+      "after": "Pelican's Debt",
+      "from": "cold-choir-map-compact",
+      "to": "cold-choir-map-reach"
+    },
+    {
+      "before": "The Counting House",
+      "after": "Lund's Arithmetic",
+      "from": "cold-choir-map-reach",
+      "to": "cold-choir-map-mercy"
+    },
+    {
+      "before": "The Fourth Release",
+      "after": "Ninefold Descent",
+      "from": "cold-choir-map-mercy",
+      "to": "cold-choir-map-hold"
+    },
+    {
+      "before": "Ninefold Descent",
+      "after": "The Key Returned",
+      "from": "cold-choir-map-hold",
+      "to": "cold-choir-map-mercy"
+    },
+    {
+      "before": "The Broadcast",
+      "after": "The Hatch Opens",
+      "from": "cold-choir-map-compact",
+      "to": "cold-choir-map-hold"
+    },
+    {
+      "before": "The Hatch Opens",
+      "after": "The Hall Answers",
+      "from": "cold-choir-map-hold",
+      "to": "cold-choir-map-compact"
+    },
+    {
+      "before": "Shaft",
+      "after": "Fane in the Cold Rows",
+      "from": "cold-choir-map-reach",
+      "to": "cold-choir-map-hold"
+    }
+  ],
+  "finalLine": true,
+  "consoleErrors": [],
+  "individualStateChecks": [
+    {
+      "event": "At the Inner Hatch",
+      "character": "kit"
+    },
+    {
+      "event": "Waking",
+      "character": "osh"
+    },
+    {
+      "event": "Row Thirty-One",
+      "character": "ama"
+    },
+    {
+      "event": "Ama Opens Her Eyes",
+      "character": "ama"
+    },
+    {
+      "event": "Berth Twelve",
+      "character": "ama"
+    }
+  ]
+}

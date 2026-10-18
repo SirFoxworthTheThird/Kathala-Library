@@ -128,6 +128,24 @@
       "hasProse": true
     },
     {
+      "id": "the-cold-choir",
+      "title": "The Cold Choir",
+      "author": "Solomon Darko",
+      "blurb": "Across three eras, the keepers of a generation ship inherit four thousand sleeping lives, an unfinished count, and a bone-handled Key whose passage through wardens, archivists, and salvagers can reveal what their societies chose to forget.",
+      "data": "the-cold-choir.pwk",
+      "dataBytes": 516673,
+      "counts": {
+        "characters": 21,
+        "chapters": 21,
+        "events": 72,
+        "locations": 33
+      },
+      "notice": "Authorized reading-mode edition of an original English manuscript by Solomon Darko. Copyright © 2026 Solomon Darko. All rights reserved. The complete creator-supplied manuscript is retained in source order; editorial scene boundaries, separated eras, maps, generated artwork, and validation provenance are documented in the included Lore and authoring audits.",
+      "worldId": "the-cold-choir-world",
+      "cover": "library/the-cold-choir/art/world.png",
+      "hasProse": true
+    },
+    {
       "id": "the-count-of-monte-cristo",
       "title": "The Count of Monte Cristo",
       "author": "Alexandre Dumas",
