@@ -24,7 +24,7 @@
       "height": 1536,
       "tool": "OpenAI ImageGen",
       "promptRecordType": "reconstructed production brief",
-      "prompt": "Create a distinct mature literary hard-science-fiction character illustration for Ama Okafor. The child in Row Thirty-One, berth twelve, awakened after seven centuries. Ground every visible detail in the manuscript; tactile metal, frost, cloth or paper; restrained archival palette; no text, no logo, no caricature.",
+      "prompt": "Create a distinct mature literary hard-science-fiction character illustration for Ama Okafor. A seven-year-old child asleep in Row Thirty-One, berth twelve. Ground every visible detail in the manuscript; tactile metal, frost, cloth or paper; restrained archival palette; no text, no logo, no caricature.",
       "sourceOutput": null,
       "sourceOutputStatus": "original output identifier not retained",
       "review": "Accepted after visual inspection for source fit, maturity, distinct composition, clean anatomy or geometry, and absence of unintended text."
@@ -512,7 +512,7 @@
     {
       "id": "item-letter",
       "kind": "item",
-      "name": "Bram’s letter to Ama",
+      "name": "Ilse’s letter to whoever comes",
       "path": "library/the-cold-choir/art/items/letter.png",
       "bytes": 2857728,
       "sha256": "dd9d369fe19e1f45fb6994e48acf10541367898fa5b2f17462da4d193926a733",
@@ -520,7 +520,7 @@
       "height": 1024,
       "tool": "OpenAI ImageGen",
       "promptRecordType": "reconstructed production brief",
-      "prompt": "Create a distinct mature literary hard-science-fiction item illustration for Bram’s letter to Ama. A message carried across seven centuries to Row Thirty-One, berth twelve. Ground every visible detail in the manuscript; tactile metal, frost, cloth or paper; restrained archival palette; no text, no logo, no caricature.",
+      "prompt": "Create a distinct mature literary hard-science-fiction item illustration for Ilse’s letter to whoever comes. A signed grease-pencil message left by Ilse Varga in the pilot cell, including her instructions for the sleepers and her message to Ama about Bram. Ground every visible detail in the manuscript; tactile metal, frost, cloth or paper; restrained archival palette; no text, no logo, no caricature.",
       "sourceOutput": "exec-d8486c22-f272-4b72-8575-01e717548ebe.png",
       "sourceOutputStatus": "retained",
       "review": "Accepted after visual inspection for source fit, maturity, distinct composition, clean anatomy or geometry, and absence of unintended text."
@@ -1138,16 +1138,16 @@
       "kind": "map",
       "name": "The Cold Rows beneath Ninefold",
       "path": "library/the-cold-choir/maps/hold.png",
-      "bytes": 3863239,
-      "sha256": "cf1da47fbd8ff7f9cb6fb8ff1391b7099688759f15be9edfd47f69244e16abd2",
-      "width": 1586,
-      "height": 992,
+      "bytes": 3587405,
+      "sha256": "7fe319d606a24fd29e246090dd4683e65cafbc0920e3940546a5e092c55520ed",
+      "width": 1584,
+      "height": 993,
       "tool": "OpenAI ImageGen",
       "promptRecordType": "exact session prompt",
-      "prompt": "Create a mature, publication quality topographic science fiction map illustration for the novel The Cold Choir. Strict top down cutaway survey of a vast circular generation ship sleeper drum buried beneath 284 metres of Ninefold ice. Show forty radial cold berth aisles like wheel spokes around a central gangway, each aisle holding ordered cryogenic berth rows, a recovery hatch and ladder at the north edge, a central maintenance well descending to a small sealed pilot cell, structural ribs, coolant channels, pressure bulkheads, frost, and subtle elevation contours in the surrounding ice. The design should read as a believable engineering and topographic map for adult readers, with restrained charcoal, deep blue, oxidized steel, and pale cyan lighting. Fine cartographic linework, sober technical engraving texture, realistic scale and geometry, cinematic but functional, no childish icons, no decorative fantasy compass, no text labels, no letters, no numbers, no legend, no border, no people. Landscape 1586 by 992 composition with useful empty separation around landmarks for UI markers.",
-      "sourceOutput": "exec-e525b04d-2c13-4ea8-a2e8-07cfea147e54.png",
+      "prompt": "Edit this adult hard science fiction topographic cutaway map for The Cold Choir. Preserve the circular drum, radial cold berth aisles, blue ice contours, sober technical materials, north recovery hatch, and landscape proportions. Correct the pilot-cell geography: the central opening is only the structural gangway hub, not a pilot cell. Remove the small glowing chamber and ladder apparatus from the centre and replace it with an ordinary flat circular gangway junction. Add an unmistakable small round maintenance well with a ladder descending to a tiny two-metre pilot compartment at the SOUTH AFT RIM of the drum, around bottom centre just inside the outer hull, at approximately x=790,y=875 from the top of this 1586x992 image. Show a small cutaway inset directly below that rim opening integrated into the hull, containing one padded seat and a dark instrument console. The pilot compartment must be at the outer rim, never central. No text, letters, numbers, people, decorative symbols or legend. Keep mature detailed topographic and engineering illustration quality.",
+      "sourceOutput": "exec-a839c23b-938c-4893-a473-1c6ceb23f139.png",
       "sourceOutputStatus": "retained",
-      "review": "Accepted after visual inspection for source fit, maturity, distinct composition, clean anatomy or geometry, and absence of unintended text."
+      "review": "Accepted corrected aft-rim pilot-cell access and flat central gangway. Edit input: exec-e525b04d-2c13-4ea8-a2e8-07cfea147e54.png; rejected its central pilot chamber as inconsistent with Shaft paragraphs 43-45. Marker is measured from the bottom edge at the visible southern rim compartment."
     },
     {
       "id": "map-mercy",

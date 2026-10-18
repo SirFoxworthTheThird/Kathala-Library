@@ -1,5 +1,59 @@
 # Repeat validation — 17 October 2026
 
+## Second corrective validation
+
+Status: RESOLVED LOCALLY after the corrective pass. The following is the
+historical finding list; the resolution and fresh evidence follow it.
+
+- EX-103: all 163 snapshot notes are the character name and location followed
+  by the identical event description. They do not state each individual's
+  current action or condition. The validator only rejects exact equality and
+  therefore misses this prefixed copy.
+- EX-006: Tamsin Takes the Book is day 20.75 and Burn is day 40. The source
+  explicitly says forty days remain when she takes the Ledger. The final
+  Warden scene also says she has kept it for forty days. The current modeled
+  interval is approximately twenty days. Other day assignments lack an
+  individually documented source or editorial justification.
+- EX-005/EX-006: Row Thirty-One includes the four-hour waking procedure, but
+  Berth Twelve advances by 0.01 days (14.4 minutes). The source's twenty-minute
+  search for Kit is also not represented by the automatic 0.01-day increment.
+- EX-102: Ama opens her eyes and reacts in paragraphs 24–25 of Row Thirty-One,
+  yet her first presence snapshot is in Berth Twelve, starting paragraph 26.
+- EX-102/EX-105: Waking explicitly leaves Kit at the hatch while Osh enters
+  alone; the event puts both in the pilot cell throughout.
+- EX-206/EX-302: the new map and pilot-cell marker put the cell at the centre
+  of the drum. Shaft paragraphs 43–45 put its maintenance well aft at the rim.
+- The Waking letter is Ilse Varga's signed message, but the linked item is
+  named Bram's letter to Ama and its description assigns it to Bram.
+
+### Resolution
+
+- `character-states.mjs` now supplies all 168 individual current-state notes.
+  The generator fails on a missing state or a cast mismatch. Regression checks
+  reject a character-prefixed copy of an event description.
+- `CHRONOLOGY_AUDIT.md` records the position and basis of every section. It
+  identifies the source's incompatible twenty-plus-eleven and forty-day cues,
+  prioritizes the repeated forty-day custody interval, and leaves prose intact.
+  Immediate cuts share dates instead of inventing 14.4-minute intervals.
+- Row Thirty-One begins twenty minutes after Waking; the pod opening is four
+  hours later. Ama has states while sleeping, waking, and speaking. Kit is at
+  the hatch in At the Inner Hatch and has no presence snapshot in Waking.
+- The corrected ImageGen map has a flat central gangway and a visible pilot
+  compartment at the southern aft rim. The bottom-origin marker is (790,117).
+  Input/output provenance, exact edit prompt, rejection reason, dimensions,
+  and final hash are recorded in the artwork manifest.
+- The letter is Ilse's signed message to whoever comes, with her instructions
+  and her message to Ama about Bram. Its name and description now say so.
+- The dedicated validator and regression suite enforce these corrections.
+  Seven deliberate model mutations are each rejected, alongside the retained
+  prose mutation check. The full suite and gate pass at 948 tests.
+- Fresh Kathala QA passes five individual state views, all four maps, the
+  gateway, eight playback transitions, Book layouts, supporting views, final
+  text, and the console on app commit e920677e47ad79ea110c37855f0e0e05749e52e2.
+
+The final package has 72 scenes, 168 snapshots, and 48,573 words. Remote
+publication remains separately gated.
+
 Release status: RESOLVED LOCALLY. The defects below were corrected in the
 generator, rebuilt package, regression tests, map model, and QA evidence.
 

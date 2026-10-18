@@ -61,9 +61,11 @@ export const splits={
   {end:43,title:'The First Berth',loc:'sleeper-hold',cast:['osh','kit'],description:'Osh confirms Johanna Aalto’s berth survived untouched and Kit asks where the missing pilot cell lies.',tension:4},
   {title:'Toward the Pilot Cell',loc:'sleeper-hold',cast:['osh','kit'],description:'Osh and Kit cross all forty rows and descend the frozen maintenance well toward the pilot’s sealed compartment.',tension:4}],
  44:[
-  {end:17,title:'Waking',loc:'cold-cell',cast:['osh','kit'],description:'Osh opens the pilot cell, finds Ilse Varga and reads the letter that transfers custody of the sleeping colony.',tension:5},
-  {end:25,title:'Row Thirty-One',loc:'row-thirty-one',cast:['osh','kit'],description:'Back among the buried berths, Kit finds Ama Okafor’s plate and asks Osh to wake the child named in Bram’s ledger.',tension:5},
-  {title:'Berth Twelve',loc:'row-thirty-one',cast:['osh','kit','ama'],description:'Ama wakes after seven centuries, hears that her father left a letter, and faces the remaining green lights with Osh and Kit.',tension:5}]
+  {end:3,title:'At the Inner Hatch',loc:'cold-cell',cast:['osh','kit'],description:'Osh unlocks the pilot compartment; Kit stops at its inner threshold while Osh enters alone.',tension:5},
+  {end:17,title:'Waking',loc:'cold-cell',cast:['osh'],description:'Alone inside the pilot cell, Osh finds Ilse Varga’s frozen body, reads her signed letter, and takes it into her suit.',tension:5},
+  {end:22,title:'Row Thirty-One',loc:'row-thirty-one',cast:['osh','kit','ama'],description:'Osh finds Kit beside Ama’s sleeping berth after a twenty-minute search and follows the four-hour waking protocol while Kit reads.',tension:5},
+  {end:25,title:'Ama Opens Her Eyes',loc:'row-thirty-one',cast:['osh','kit','ama'],description:'After four hours of warming, the pod opens and Ama wakes frightened beneath the gaze of Osh and Kit.',tension:5},
+  {title:'Berth Twelve',loc:'row-thirty-one',cast:['osh','kit','ama'],description:'Kit takes Ama’s hand, and Osh offers to read Ilse’s letter when the child asks where her father is.',tension:5}]
 }
 
 export const plans=[
@@ -134,7 +136,7 @@ export const characters={
  lio:['Brother Lio','Priest on the Hulk who keeps damaged traditions and the history attached to the Key.'],
  lund:['Doctor Sefa Lund','The Mercy’s physician and keeper of the consumables model that defines the landfall crisis.'],
  ansel:['Lieutenant Ansel','A young officer aboard the Obedient whose certainty in Navy discipline changes after Shaft Twelve.'],
- ama:['Ama Okafor','The child in Row Thirty-One, berth twelve, awakened after seven centuries.']
+ ama:['Ama Okafor','A seven-year-old child asleep in Row Thirty-One, berth twelve.']
 }
 
 export const locations={

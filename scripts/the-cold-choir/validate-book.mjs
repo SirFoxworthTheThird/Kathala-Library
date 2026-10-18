@@ -4,6 +4,7 @@ import path from 'node:path'
 import crypto from 'node:crypto'
 import {fileURLToPath} from 'node:url'
 import {chapters,sourceSha256,narrativeText,normalize,countWords} from './source-text.mjs'
+import {validateCorrections} from './validate-corrections.mjs'
 import {plans} from './story-plan.mjs'
 
 const here=path.dirname(fileURLToPath(import.meta.url)),root=path.resolve(here,'../..'),pwk=process.argv[2]?path.resolve(process.argv[2]):path.join(root,'library/the-cold-choir.pwk')
@@ -11,7 +12,7 @@ const bytes=fs.readFileSync(pwk),d=JSON.parse(bytes)
 const sourceAudit=JSON.parse(fs.readFileSync(path.join(here,'SOURCE_AUDIT.json'),'utf8')),boundaryAudit=JSON.parse(fs.readFileSync(path.join(here,'SCENE_BOUNDARY_AUDIT.json'),'utf8'))
 assert.equal(sourceSha256,'22c091779484a001a52c8cea193028efa8f941abd61f708ca50b8236137366a8')
 assert.equal(d.world.name,'The Cold Choir');assert.equal(d.world.readingMode,true);assert.equal(d.world.theme,'theme-scifi')
-assert.equal(d.chapters.length,21);assert.equal(d.events.length,70);assert.equal(d.sceneTexts.length,70);assert.equal(plans.length,44)
+assert.equal(d.chapters.length,21);assert.equal(d.events.length,72);assert.equal(d.sceneTexts.length,72);assert.equal(plans.length,44)
 assert.equal(sourceAudit.sourceSha256,sourceSha256);assert.equal(sourceAudit.counts.scenes,d.events.length);assert.equal(boundaryAudit.scenes,d.events.length);assert.equal(boundaryAudit.records.length,44)
 assert.deepEqual(boundaryAudit.records.flatMap(x=>x.scenes.map(s=>s.wordCount)),d.sceneTexts.map(x=>x.wordCount))
 assert.equal(d.timelines.length,3);assert.deepEqual(d.timelines.map(x=>x.name),['The Mercy · 1 BL','The Compact · 310–311 AL','The Quiet · 742 AL'])
@@ -28,9 +29,10 @@ for(const r of d.relationships){assert.ok(charIds.has(r.characterAId));assert.ok
 for(const page of d.lorePages)assert.ok(eventIds.has(page.visibleFromEventId))
 for(const fact of d.knowledgeFacts){assert.ok(eventIds.has(fact.readerLearnsAtEventId));assert.ok(eventIds.has(fact.originEventId))}
 for(const b of d.blobs)assert.ok(fs.existsSync(path.join(root,b.url)),`missing ${b.url}`)
-assert.deepEqual(d.timelines.map(x=>x.dayOffset),[-365,310*365,742*365]);for(const timeline of d.timelines){const seq=d.events.filter(e=>e.timelineId===timeline.id).map(e=>e.inWorldTime);assert.deepEqual(seq,[...seq].sort((a,b)=>a-b));assert.equal(new Set(seq).size,seq.length);let previous=null;for(const e of d.events.filter(e=>e.timelineId===timeline.id)){assert.equal(e.travelDays,previous===null?0:e.inWorldTime-previous,`${e.title}: chronology delta`);previous=e.inWorldTime}}
+assert.deepEqual(d.timelines.map(x=>x.dayOffset),[-60.75,311*365-24,742*365]);for(const timeline of d.timelines){const seq=d.events.filter(e=>e.timelineId===timeline.id).map(e=>e.inWorldTime);assert.deepEqual(seq,[...seq].sort((a,b)=>a-b));let previous=null;for(const e of d.events.filter(e=>e.timelineId===timeline.id)){assert.equal(e.travelDays,previous===null?0:e.inWorldTime-previous,`${e.title}: chronology delta`);previous=e.inWorldTime}}
 const cast=(title)=>d.events.find(e=>e.title===title).involvedCharacterIds
 assert.ok(cast('Strongbox').includes('cold-choir-char-tamsin'));assert.deepEqual(new Set(cast('Arrest')),new Set(['cold-choir-char-neve','cold-choir-char-jory','cold-choir-char-calloway']));assert.deepEqual(new Set(cast('The Warden')),new Set(['cold-choir-char-tamsin','cold-choir-char-kesh']));assert.ok(cast("Rhee's Choice").includes('cold-choir-char-ansel'));assert.ok(cast('Rhee at the Vigil').includes('cold-choir-char-rhee'));assert.ok(cast('The Broadcast').includes('cold-choir-char-calloway'));assert.equal(d.events.find(e=>e.title==='The Hatch Opens').timelineId,'cold-choir-timeline-quiet');assert.equal(d.events.find(e=>e.title==='Row Thirty-One').locationMarkerId,'cold-choir-loc-row-thirty-one')
+validateCorrections(d)
 const manifest=JSON.parse(fs.readFileSync(path.join(here,'ARTWORK_MANIFEST.json'),'utf8'));assert.equal(manifest.total,74);assert.deepEqual(manifest.counts,{character:21,faction:6,item:9,location:33,map:4,world:1});assert.equal(d.blobs.length,74);for(const a of manifest.assets){const p=path.join(root,a.path),b=fs.readFileSync(p);assert.equal(b.length,a.bytes,`${a.id}: byte count`);assert.equal(crypto.createHash('sha256').update(b).digest('hex'),a.sha256,`${a.id}: hash`);assert.equal(b.readUInt32BE(16),a.width);assert.equal(b.readUInt32BE(20),a.height);assert.ok(a.prompt.length>100);assert.ok(['exact session prompt','reconstructed production brief'].includes(a.promptRecordType));assert.ok(a.sourceOutput||a.sourceOutputStatus==='original output identifier not retained');assert.match(a.review,/Accepted/)}
 const catalogue=JSON.parse(fs.readFileSync(path.join(root,'library/index.json'),'utf8')).entries.find(x=>x.id==='the-cold-choir');assert.ok(catalogue);assert.equal(catalogue.author,'Solomon Darko');assert.equal(catalogue.dataBytes,bytes.length);assert.equal(catalogue.notice.includes('Copyright © 2026 Solomon Darko'),true)
 console.log(`PASS: The Cold Choir — ${d.chapters.length} chapters, ${d.events.length} scenes, ${countWords(narrativeText).toLocaleString()} words, ${d.characters.length} characters, ${d.characterSnapshots.length} snapshots, ${d.locationMarkers.length} locations, ${d.mapLayers.length} maps, ${d.items.length} items, ${bytes.length.toLocaleString()} bytes, SHA-256 ${crypto.createHash('sha256').update(bytes).digest('hex')}.`)

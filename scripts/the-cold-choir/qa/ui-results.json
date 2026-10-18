@@ -1,6 +1,6 @@
 {
   "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
-  "pwkSha256": "fe50eb724f2182c8a9f6aa08ea0bd20dbeeaaf39e6c538bbf94884563b236275",
+  "pwkSha256": "462f1bb98751f2165a0a9018933b573dd80659c0fd3a4852dd89d03bb9d4539a",
   "download": true,
   "readingModeOpening": true,
   "readingModeSequentialReveal": true,
@@ -69,5 +69,27 @@
     }
   ],
   "finalLine": true,
-  "consoleErrors": []
+  "consoleErrors": [],
+  "individualStateChecks": [
+    {
+      "event": "At the Inner Hatch",
+      "character": "kit"
+    },
+    {
+      "event": "Waking",
+      "character": "osh"
+    },
+    {
+      "event": "Row Thirty-One",
+      "character": "ama"
+    },
+    {
+      "event": "Ama Opens Her Eyes",
+      "character": "ama"
+    },
+    {
+      "event": "Berth Twelve",
+      "character": "ama"
+    }
+  ]
 }

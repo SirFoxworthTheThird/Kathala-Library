@@ -4,7 +4,7 @@
   "policy": "Cuts occur only between normalized source paragraphs. Each retained authorial section is either preserved whole or split when place, directly present cast, custody, knowledge state, or continuous action materially changes.",
   "sourceSha256": "22c091779484a001a52c8cea193028efa8f941abd61f708ca50b8236137366a8",
   "authorialSections": 44,
-  "scenes": 70,
+  "scenes": 72,
   "records": [
     {
       "authorialSectionNumber": 1,
@@ -1043,24 +1043,38 @@
       "paragraphCount": 37,
       "wordCount": 1432,
       "decision": "split",
-      "reason": "Cut when Osh leaves Ilse’s cell, then immediately before Ama is physically revealed and awakened.",
+      "reason": "Cut after Kit stops at the threshold so Osh reads alone; cut on return to the cold rows; cut before the pod opens after four hours. Sleeping Ama is physically present at her berth before she wakes.",
       "scenes": [
         {
           "sceneNumber": 68,
-          "title": "Waking",
+          "title": "At the Inner Hatch",
           "paragraphStart": 1,
-          "paragraphEnd": 17,
-          "wordCount": 704
+          "paragraphEnd": 3,
+          "wordCount": 200
         },
         {
           "sceneNumber": 69,
-          "title": "Row Thirty-One",
-          "paragraphStart": 18,
-          "paragraphEnd": 25,
-          "wordCount": 402
+          "title": "Waking",
+          "paragraphStart": 4,
+          "paragraphEnd": 17,
+          "wordCount": 504
         },
         {
           "sceneNumber": 70,
+          "title": "Row Thirty-One",
+          "paragraphStart": 18,
+          "paragraphEnd": 22,
+          "wordCount": 304
+        },
+        {
+          "sceneNumber": 71,
+          "title": "Ama Opens Her Eyes",
+          "paragraphStart": 23,
+          "paragraphEnd": 25,
+          "wordCount": 98
+        },
+        {
+          "sceneNumber": 72,
           "title": "Berth Twelve",
           "paragraphStart": 26,
           "paragraphEnd": 37,

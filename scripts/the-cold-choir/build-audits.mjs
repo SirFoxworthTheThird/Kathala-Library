@@ -16,7 +16,7 @@ const boundaryReasons={
  35:'Cut after Fane orders the party to sleep, then after the crew decides to steal the Key; place, custody and immediate action change.',
  38:'Cut after Hollin yields the hatch, then when Ilse enters the pilot cell and the sleeper drum separates from Mercy.',
  43:'Cut when Fane’s guard leaves the hold, then when Osh and Kit begin crossing the rows toward the pilot cell.',
- 44:'Cut when Osh leaves Ilse’s cell, then immediately before Ama is physically revealed and awakened.'
+ 44:'Cut after Kit stops at the threshold so Osh reads alone; cut on return to the cold rows; cut before the pod opens after four hours. Sleeping Ama is physically present at her berth before she wakes.'
 }
 
 let sceneCount=0
