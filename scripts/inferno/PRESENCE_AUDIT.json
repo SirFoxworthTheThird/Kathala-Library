@@ -1,0 +1,2669 @@
+{
+  "title": "Inferno",
+  "policy": "Exactly one specific snapshot belongs to each physically present character in an event. Recollected action uses its own timeline and cast.",
+  "events": 197,
+  "records": [
+    {
+      "event": "Lost in the Dark Wood",
+      "sourceRange": "Canto I, source lines 1-30",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "Midway upon the journey of our life",
+      "lastLine": "So that the firm foot ever was the lower.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Three Beasts",
+      "sourceRange": "Canto I, source lines 31-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "And lo! almost where the ascent began,",
+      "lastLine": "Thrust me back thither where the sun is silent.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "A Voice in the Waste",
+      "sourceRange": "Canto I, source lines 61-90",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "While I was rushing downward to the lowland,",
+      "lastLine": "For she doth make my veins and pulses tremble.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Other Road",
+      "sourceRange": "Canto I, source lines 91-136",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "“Thee it behoves to take another road,”",
+      "lastLine": "Then he moved on, and I behind him followed.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Evening Doubt",
+      "sourceRange": "Canto II, source lines 1-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Day was departing, and the embrowned air",
+      "lastLine": "Thou’rt wise, and knowest better than I speak.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Virgil Challenges the Retreat",
+      "sourceRange": "Canto II, source lines 37-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "And as he is, who unwills what he willed,",
+      "lastLine": "And shall endure, long-lasting as the world;",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Beatrice Descends to Limbo",
+      "sourceRange": "Canto II, source lines 61-108",
+      "timeline": "The Celestial Intercession",
+      "presentCharacters": [
+        "Beatrice",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "A friend of mine, and not the friend of fortune,",
+      "lastLine": "Beside that flood, where ocean has no vaunt?”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Three Blessed Women",
+      "sourceRange": "Canto II, source lines 109-142",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Never were persons in the world so swift",
+      "lastLine": "I entered on the deep and savage way.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Gate of Hell",
+      "sourceRange": "Canto III, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "“Through me the way is to the city dolent;",
+      "lastLine": "Whence I, at the beginning, wept thereat.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Futile Choir",
+      "sourceRange": "Canto III, source lines 25-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Languages diverse, horrible dialects,",
+      "lastLine": "Who made through cowardice the great refusal.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Shores of Acheron",
+      "sourceRange": "Canto III, source lines 61-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Forthwith I comprehended, and was certain,",
+      "lastLine": "That which is willed; and farther question not.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Charon and the Crossing",
+      "sourceRange": "Canto III, source lines 97-136",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Charon",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Thereat were quieted the fleecy cheeks",
+      "lastLine": "And as a man whom sleep hath seized I fell.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Awakening Above Limbo",
+      "sourceRange": "Canto IV, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Broke the deep lethargy within my head",
+      "lastLine": "The foremost circle that surrounds the abyss.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Sighs of Limbo",
+      "sourceRange": "Canto IV, source lines 25-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "There, as it seemed to me from listening,",
+      "lastLine": "That honourable people held that place.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Noble Poets",
+      "sourceRange": "Canto IV, source lines 73-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Homer",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“O thou who honourest every art and science,",
+      "lastLine": "Defended round by a fair rivulet;",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Noble Castle",
+      "sourceRange": "Canto IV, source lines 109-151",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "This we passed over even as firm ground;",
+      "lastLine": "And to a place I come where nothing shines.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Before Minos",
+      "sourceRange": "Canto V, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Minos",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Thus I descended out of the first circle",
+      "lastLine": "That which is willed; and ask no further question.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Infernal Hurricane",
+      "sourceRange": "Canto V, source lines 25-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "And now begin the dolesome notes to grow",
+      "lastLine": "She held the land which now the Sultan rules.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Lovers in the Wind",
+      "sourceRange": "Canto V, source lines 61-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil",
+        "Francesca da Rimini",
+        "Paolo Malatesta"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "The next is she who killed herself for love,",
+      "lastLine": "Fly through the air by their volition borne,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Francesca Names Her Grief",
+      "sourceRange": "Canto V, source lines 85-114",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Francesca da Rimini",
+        "Paolo Malatesta",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "So came they from the band where Dido is,",
+      "lastLine": "Conducted these unto the dolorous pass!”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Fatal Reading",
+      "sourceRange": "Canto V, source lines 115-142",
+      "timeline": "Francesca’s Memory",
+      "presentCharacters": [
+        "Francesca da Rimini",
+        "Paolo Malatesta"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Then unto them I turned me, and I spake,",
+      "lastLine": "And fell, even as a dead body falls.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Cold Rain",
+      "sourceRange": "Canto VI, source lines 1-12",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "At the return of consciousness, that closed",
+      "lastLine": "Noisome the earth is, that receiveth this.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Cerberus",
+      "sourceRange": "Canto VI, source lines 13-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Cerberus",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Cerberus, monster cruel and uncouth,",
+      "lastLine": "Upon their vanity that person seems.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Ciacco Rises",
+      "sourceRange": "Canto VI, source lines 37-48",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Ciacco",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "They all were lying prone upon the earth,",
+      "lastLine": "If some are greater, none is so displeasing.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Prophecy of Florence",
+      "sourceRange": "Canto VI, source lines 49-90",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Ciacco",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And he to me: “Thy city, which is full",
+      "lastLine": "No more I tell thee and no more I answer.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Toward Plutus",
+      "sourceRange": "Canto VI, source lines 91-115",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Then his straightforward eyes he turned askance,",
+      "lastLine": "There we found Plutus the great enemy.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Plutus Falls Silent",
+      "sourceRange": "Canto VII, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Plutus",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“Pape Satan, Pape Satan, Aleppe!”",
+      "lastLine": "So here the folk must dance their roundelay.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Clashing Weights",
+      "sourceRange": "Canto VII, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Here saw I people, more than elsewhere, many,",
+      "lastLine": "And I, who had my heart pierced as it were,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Fortune and Her Wheel",
+      "sourceRange": "Canto VII, source lines 37-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Exclaimed: “My Master, now declare to me",
+      "lastLine": "She turns her sphere, and blissful she rejoices.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Marsh of Styx",
+      "sourceRange": "Canto VII, source lines 97-130",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Let us descend now unto greater woe;",
+      "lastLine": "Unto the foot of a tower we came at last.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Signals Across Styx",
+      "sourceRange": "Canto VIII, source lines 1-18",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "I say, continuing, that long before",
+      "lastLine": "Who shouted, “Now art thou arrived, fell soul?”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Phlegyas and the Skiff",
+      "sourceRange": "Canto VIII, source lines 19-30",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Phlegyas",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“Phlegyas, Phlegyas, thou criest out in vain",
+      "lastLine": "More of the water than ’tis wont with others.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Filippo Argenti",
+      "sourceRange": "Canto VIII, source lines 31-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Filippo Argenti",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "While we were running through the dead canal,",
+      "lastLine": "Vermilion, as if issuing from the fire",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Walls of Dis",
+      "sourceRange": "Canto VIII, source lines 73-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "They were.”  And he to me: “The fire eternal",
+      "lastLine": "For never to return here I believed.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Virgil Repulsed",
+      "sourceRange": "Canto VIII, source lines 97-130",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "“O my dear Guide, who more than seven times",
+      "lastLine": "One by whose means the city shall be opened.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Waiting Before Dis",
+      "sourceRange": "Canto IX, source lines 1-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "That hue which cowardice brought out on me,",
+      "lastLine": "Tow’rds the high tower with the red-flaming summit,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Furies on the Tower",
+      "sourceRange": "Canto IX, source lines 37-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Where in a moment saw I swift uprisen",
+      "lastLine": "And puts to flight the wild beasts and the shepherds.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Heavenly Messenger",
+      "sourceRange": "Canto IX, source lines 73-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Heavenly Messenger",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Mine eyes he loosed, and said: “Direct the nerve",
+      "lastLine": "What the condition such a fortress holds,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Burning Tombs",
+      "sourceRange": "Canto IX, source lines 109-133",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Soon as I was within, cast round mine eye,",
+      "lastLine": "Between the torments and high parapets.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Among the Heretics",
+      "sourceRange": "Canto X, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Now onward goes, along a narrow path",
+      "lastLine": "Be pleased to stay thy footsteps in this place.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Farinata Rises",
+      "sourceRange": "Canto X, source lines 25-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Farinata degli Uberti",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Thy mode of speaking makes thee manifest",
+      "lastLine": "Where is my son? and why is he not with thee?”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Cavalcante Seeks His Son",
+      "sourceRange": "Canto X, source lines 61-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Cavalcante de’ Cavalcanti",
+        "Dante",
+        "Farinata degli Uberti"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And I to him: “I come not of myself;",
+      "lastLine": "Which has entangled my conceptions here.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "What the Damned Can Know",
+      "sourceRange": "Canto X, source lines 97-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Farinata degli Uberti",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "It seems that you can see, if I hear rightly,",
+      "lastLine": "And the Cardinal, and of the rest I speak not.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Toward the Stinking Vale",
+      "sourceRange": "Canto X, source lines 121-136",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Thereon he hid himself; and I towards",
+      "lastLine": "Which even up there unpleasant made its stench.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Tomb of Anastasius",
+      "sourceRange": "Canto XI, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Upon the margin of a lofty bank",
+      "lastLine": "Either by force or fraud afflicteth others.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Violence and Fraud",
+      "sourceRange": "Canto XI, source lines 25-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "But because fraud is man’s peculiar vice,",
+      "lastLine": "Panders, and barrators, and the like filth.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Two Kinds of Fraud",
+      "sourceRange": "Canto XI, source lines 61-90",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "By the other mode, forgotten is that love",
+      "lastLine": "Justice divine doth smite them with its hammer.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Art, Nature, and Usury",
+      "sourceRange": "Canto XI, source lines 91-115",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "“O Sun, that healest all distempered vision,",
+      "lastLine": "And far beyond there we descend the crag.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Shattered Descent",
+      "sourceRange": "Canto XII, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "The place where to descend the bank we came",
+      "lastLine": "Who cannot walk, but staggers here and there,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Minotaur",
+      "sourceRange": "Canto XII, source lines 25-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Minotaur",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "The Minotaur beheld I do the like;",
+      "lastLine": "With bows and arrows in advance selected;",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Centaur Patrol",
+      "sourceRange": "Canto XII, source lines 61-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Chiron",
+        "Nessus",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And from afar one cried: “Unto what torment",
+      "lastLine": "For ’tis no spirit that can walk the air.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Nessus Guides the Ford",
+      "sourceRange": "Canto XII, source lines 97-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Nessus",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Upon his right breast Chiron wheeled about,",
+      "lastLine": "The heart that still upon the Thames is honoured.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Across the River of Blood",
+      "sourceRange": "Canto XII, source lines 121-139",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Nessus",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Then people saw I, who from out the river",
+      "lastLine": "Then back he turned, and passed again the ford.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Wood of the Suicides",
+      "sourceRange": "Canto XIII, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Not yet had Nessus reached the other side,",
+      "lastLine": "Whence, utterly bewildered, I stood still.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Bleeding Branch",
+      "sourceRange": "Canto XIII, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "I think he thought that I perhaps might think",
+      "lastLine": "Hast thou no spirit of pity whatsoever?",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Pier delle Vigne",
+      "sourceRange": "Canto XIII, source lines 37-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Pier delle Vigne",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Men once we were, and now are changed to trees;",
+      "lastLine": "For I cannot, such pity is in my heart.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Trees and Their Bodies",
+      "sourceRange": "Canto XIII, source lines 85-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Pier delle Vigne",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Therefore he recommenced: “So may the man",
+      "lastLine": "Each to the thorn of his molested shade.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Hunted Squanderers",
+      "sourceRange": "Canto XIII, source lines 109-151",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Lano da Siena",
+        "Jacopo da Sant’ Andrea",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "We were attentive still unto the trunk,",
+      "lastLine": "Of my own house I made myself a gibbet.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Gathered Leaves",
+      "sourceRange": "Canto XIV, source lines 1-12",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Because the charity of my native place",
+      "lastLine": "There close upon the edge we stayed our feet.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Burning Sand",
+      "sourceRange": "Canto XIV, source lines 13-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "The soil was of an arid and thick sand,",
+      "lastLine": "Better extinguished was while it was single;",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Capaneus Defiant",
+      "sourceRange": "Canto XIV, source lines 37-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Capaneus",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Thus was descending the eternal heat,",
+      "lastLine": "Are for his breast the fittest ornaments.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Red Rill",
+      "sourceRange": "Canto XIV, source lines 73-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Now follow me, and mind thou do not place",
+      "lastLine": "Under whose king the world of old was chaste.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Old Man of Crete",
+      "sourceRange": "Canto XIV, source lines 97-142",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "There is a mountain there, that once was glad",
+      "lastLine": "And over them all vapours are extinguished.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Along the Hardened Banks",
+      "sourceRange": "Canto XV, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Now bears us onward one of the hard margins,",
+      "lastLine": "My garment’s hem, and cried out, “What a marvel!”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Brunetto Latini",
+      "sourceRange": "Canto XV, source lines 25-48",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Brunetto Latini",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And I, when he stretched forth his arm to me,",
+      "lastLine": "And who is this that showeth thee the way?”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Dante Tells His Course",
+      "sourceRange": "Canto XV, source lines 49-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Brunetto Latini",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“Up there above us in the life serene,”",
+      "lastLine": "Of you, when in the world from hour to hour",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Brunetto’s Prophecy",
+      "sourceRange": "Canto XV, source lines 85-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Brunetto Latini",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "You taught me how a man becomes eternal;",
+      "lastLine": "In the world tainted with the selfsame sin.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Race Resumes",
+      "sourceRange": "Canto XV, source lines 109-124",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Brunetto Latini",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Priscian goes yonder with that wretched crowd,",
+      "lastLine": "The one who wins, and not the one who loses.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Roar of the Cataract",
+      "sourceRange": "Canto XVI, source lines 1-12",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Now was I where was heard the reverberation",
+      "lastLine": "It pains me still but to remember it.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Three Florentines Circle",
+      "sourceRange": "Canto XVI, source lines 13-30",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Guido Guerra",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Unto their cries my Teacher paused attentive;",
+      "lastLine": "Began one, “and our aspect black and blistered,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Names Worth Remembering",
+      "sourceRange": "Canto XVI, source lines 31-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Guido Guerra",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Let the renown of us thy mind incline",
+      "lastLine": "Doth greatly mortify us with his words.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Florence’s New Pride",
+      "sourceRange": "Canto XVI, source lines 73-90",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Guido Guerra"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "“The new inhabitants and the sudden gains,",
+      "lastLine": "Wherefore the Master deemed best to depart.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Cord Cast Down",
+      "sourceRange": "Canto XVI, source lines 91-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "I followed him, and little had we gone,",
+      "lastLine": "But with their wisdom look into the thoughts!",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "A Shape Swims Upward",
+      "sourceRange": "Canto XVI, source lines 121-136",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "He said to me: “Soon there will upward come",
+      "lastLine": "Who upward stretches, and draws in his feet.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Monster on the Brink",
+      "sourceRange": "Canto XVII, source lines 1-30",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Monster of Fraud",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“Behold the monster with the pointed tail,",
+      "lastLine": "Malevolent, that yonder coucheth him.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Usurers",
+      "sourceRange": "Canto XVII, source lines 31-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "We therefore on the right side descended,",
+      "lastLine": "That had the face and posture of a lion.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Last Purse",
+      "sourceRange": "Canto XVII, source lines 61-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Proceeding then the current of my sight,",
+      "lastLine": "So that the tail may have no power to harm thee.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Mounting Fraud",
+      "sourceRange": "Canto XVII, source lines 85-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil",
+        "The Monster of Fraud"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Such as he is who has so near the ague",
+      "lastLine": "Within his arms encircled and sustained me,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Flight into Malebolge",
+      "sourceRange": "Canto XVII, source lines 97-132",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Monster of Fraud",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And said: “Now, Geryon, bestir thyself;",
+      "lastLine": "Far from his master, sullen and disdainful;",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Set Down Among Fraud",
+      "sourceRange": "Canto XVII, source lines 133-136",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Monster of Fraud",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Even thus did Geryon place us on the bottom,",
+      "lastLine": "He sped away as arrow from the string.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Ten Trenches",
+      "sourceRange": "Canto XVIII, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "There is a place in Hell called Malebolge,",
+      "lastLine": "Wherewith the foremost Bolgia was replete.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Driven Panders",
+      "sourceRange": "Canto XVIII, source lines 25-48",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Down at the bottom were the sinners naked;",
+      "lastLine": "For said I: “Thou that castest down thine eyes,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Venedico Caccianemico",
+      "sourceRange": "Canto XVIII, source lines 49-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Venedico Caccianemico",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "If false are not the features which thou bearest,",
+      "lastLine": "From those eternal circles we departed.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Jason Passes",
+      "sourceRange": "Canto XVIII, source lines 73-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Jason",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "When we were there, where it is hollowed out",
+      "lastLine": "And with the eyes and nostrils wages war.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Flatterers",
+      "sourceRange": "Canto XVIII, source lines 109-136",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "The bottom is so deep, no place suffices",
+      "lastLine": "And herewith let our sight be satisfied.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Simoniacs",
+      "sourceRange": "Canto XIX, source lines 1-12",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "O Simon Magus, O forlorn disciples,",
+      "lastLine": "And with what justice doth thy power distribute!",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Fiery Fonts",
+      "sourceRange": "Canto XIX, source lines 13-30",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "I saw upon the sides and on the bottom",
+      "lastLine": "So likewise was it there from heel to point.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Inverted Confession",
+      "sourceRange": "Canto XIX, source lines 31-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Buried Pope",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“Master, who is that one who writhes himself,",
+      "lastLine": "As if bemocked, and know not how to answer.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Nicholas Names the Succession",
+      "sourceRange": "Canto XIX, source lines 61-90",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Buried Pope",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Then said Virgilius: “Say to him straightway,",
+      "lastLine": "“I pray thee tell me now how great a treasure",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Dante Rebukes Corruption",
+      "sourceRange": "Canto XIX, source lines 91-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "The Buried Pope",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Our Lord demanded of Saint Peter first,",
+      "lastLine": "He struggled violently with both his feet.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Toward the Fourth Trench",
+      "sourceRange": "Canto XIX, source lines 121-133",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "I think in sooth that it my Leader pleased,",
+      "lastLine": "Thence was unveiled to me another valley.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Twisted Seers",
+      "sourceRange": "Canto XX, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Of a new pain behoves me to make verses",
+      "lastLine": "Along the fissure bathed the hinder parts.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Pity Rebuked",
+      "sourceRange": "Canto XX, source lines 25-48",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Truly I wept, leaning upon a peak",
+      "lastLine": "The Carrarese who houses underneath,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Manto’s Wandering",
+      "sourceRange": "Canto XX, source lines 49-60",
+      "timeline": "The Founding of Mantua",
+      "presentCharacters": [
+        "Manto"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "Among the marbles white a cavern had",
+      "lastLine": "She a long season wandered through the world.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Founding of Mantua",
+      "sourceRange": "Canto XX, source lines 61-96",
+      "timeline": "The Founding of Mantua",
+      "presentCharacters": [
+        "Manto"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "Above in beauteous Italy lies a lake",
+      "lastLine": "From Pinamonte had received deceit.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Other Diviners",
+      "sourceRange": "Canto XX, source lines 97-117",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Therefore I caution thee, if e’er thou hearest",
+      "lastLine": "Of magical illusions knew the game.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Moonset Above Hell",
+      "sourceRange": "Canto XX, source lines 118-130",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Behold Guido Bonatti, behold Asdente,",
+      "lastLine": "Thus spake he to me, and we walked the while.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Boiling Pitch",
+      "sourceRange": "Canto XXI, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "From bridge to bridge thus, speaking other things",
+      "lastLine": "Drew me unto himself from where I stood.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "A Devil with a Grafter",
+      "sourceRange": "Canto XXI, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Then I turned round, as one who is impatient",
+      "lastLine": "And he held clutched the sinews of the feet.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Elder of Santa Zita",
+      "sourceRange": "Canto XXI, source lines 37-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Malebranche",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "From off our bridge, he said: “O Malebranche,",
+      "lastLine": "But he cried out: “Be none of you malignant!",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Malacoda Confronted",
+      "sourceRange": "Canto XXI, source lines 73-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Malacoda",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Before those hooks of yours lay hold of me,",
+      "lastLine": "Seeing themselves among so many foes.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "A Dangerous Escort",
+      "sourceRange": "Canto XXI, source lines 97-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Malacoda",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Close did I press myself with all my person",
+      "lastLine": "All shattered, at the bottom, the sixth arch.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Ten Malebranche",
+      "sourceRange": "Canto XXI, source lines 109-139",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Malacoda",
+        "The Malebranche",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "And if it still doth please you to go onward,",
+      "lastLine": "And he had made a trumpet of his rump.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "March with the Demons",
+      "sourceRange": "Canto XXII, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil",
+        "The Malebranche"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "I have erewhile seen horsemen moving camp,",
+      "lastLine": "And in less time conceal it than it lightens.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Navarrese Surfaces",
+      "sourceRange": "Canto XXII, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Ciampolo of Navarre",
+        "The Malebranche",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "As on the brink of water in a ditch",
+      "lastLine": "And drew him up, so that he seemed an otter.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Ciampolo’s Account",
+      "sourceRange": "Canto XXII, source lines 37-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Ciampolo of Navarre",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "I knew, before, the names of all of them,",
+      "lastLine": "And said: “Stand ye aside, while I enfork him.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Hooks Around the Prisoner",
+      "sourceRange": "Canto XXII, source lines 61-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Malebranche",
+        "Ciampolo of Navarre",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "And to my Master he turned round his head;",
+      "lastLine": "Said: “Stand aside there, thou malicious bird.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Proposed Signal",
+      "sourceRange": "Canto XXII, source lines 97-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Ciampolo of Navarre",
+        "The Malebranche",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "“If you desire either to see or hear,”",
+      "lastLine": "He first, who most reluctant was to do it.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Ciampolo Escapes",
+      "sourceRange": "Canto XXII, source lines 121-132",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Ciampolo of Navarre",
+        "The Malebranche",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "The Navarrese selected well his time;",
+      "lastLine": "And upward he returneth cross and weary.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Devils Fall Together",
+      "sourceRange": "Canto XXII, source lines 133-151",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "The Malebranche",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Infuriate at the mockery, Calcabrina",
+      "lastLine": "And in this manner busied did we leave them.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Fear of Pursuit",
+      "sourceRange": "Canto XXIII, source lines 1-12",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Silent, alone, and without company",
+      "lastLine": "Which the first fear within me double made.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Malebranche Give Chase",
+      "sourceRange": "Canto XXIII, source lines 13-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Thus did I ponder: “These on our account",
+      "lastLine": "Not far remote, with will to seize upon us.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Slide into Safety",
+      "sourceRange": "Canto XXIII, source lines 37-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante",
+        "The Malebranche"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "My Leader on a sudden seized me up,",
+      "lastLine": "Weeping and in their semblance tired and vanquished.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Gilded Cloaks",
+      "sourceRange": "Canto XXIII, source lines 61-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "They had on mantles with the hoods low down",
+      "lastLine": "But the burden and the narrow way delayed them.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Jovial Friars",
+      "sourceRange": "Canto XXIII, source lines 85-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Catalano dei Malavolti",
+        "Loderingo degli Andalò",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "When they came up, long with an eye askance",
+      "lastLine": "That still it is apparent round Gardingo.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Caiaphas on the Ground",
+      "sourceRange": "Canto XXIII, source lines 109-132",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Catalano dei Malavolti",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“O Friars,” began I, “your iniquitous. . .”",
+      "lastLine": "To come and extricate us from this deep.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Malacoda’s Lie",
+      "sourceRange": "Canto XXIII, source lines 133-148",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Catalano dei Malavolti",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Then he made answer: “Nearer than thou hopest",
+      "lastLine": "After the prints of his beloved feet.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Difficult Climb",
+      "sourceRange": "Canto XXIV, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "In that part of the youthful year wherein",
+      "lastLine": "Well at the ruin, and laid hold of me.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Carried Up the Ruin",
+      "sourceRange": "Canto XXIV, source lines 25-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "And even as he who acts and meditates,",
+      "lastLine": "And said: “Go on, for I am strong and bold.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Toward the Seventh Bolgia",
+      "sourceRange": "Canto XXIV, source lines 61-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Upward we took our way along the crag,",
+      "lastLine": "Wherefore I: “Master, see that thou arrive",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Pit of Serpents",
+      "sourceRange": "Canto XXIV, source lines 73-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "At the next round, and let us descend the wall;",
+      "lastLine": "And head, and were in front of them entwined.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Ashes and Restoration",
+      "sourceRange": "Canto XXIV, source lines 97-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Vanni Fucci",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And lo! at one who was upon our side",
+      "lastLine": "That blows like these in vengeance poureth down!",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Vanni Fucci",
+      "sourceRange": "Canto XXIV, source lines 121-151",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Vanni Fucci",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "The Guide thereafter asked him who he was;",
+      "lastLine": "And this I’ve said that it may give thee pain.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Vanni’s Blasphemy",
+      "sourceRange": "Canto XXV, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Vanni Fucci",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "At the conclusion of his words, the thief",
+      "lastLine": "And he sets fire to all that he encounters.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Cacus the Centaur",
+      "sourceRange": "Canto XXV, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Cacus",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "My Master said: “That one is Cacus, who",
+      "lastLine": "Of which nor I aware was, nor my Leader,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Three Florentine Thieves",
+      "sourceRange": "Canto XXV, source lines 37-48",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Until what time they shouted: “Who are you?”",
+      "lastLine": "For I who saw it hardly can admit it.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Six Limbs Become One",
+      "sourceRange": "Canto XXV, source lines 49-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "As I was holding raised on them my brows,",
+      "lastLine": "Upon the other’s limbs entwined its own.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Blended Shape",
+      "sourceRange": "Canto XXV, source lines 61-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Agnello Brunelleschi",
+        "Cianfa Donati"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Then they stuck close, as if of heated wax",
+      "lastLine": "And wait to hear what now shall be shot forth.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Man and Serpent Exchange",
+      "sourceRange": "Canto XXV, source lines 97-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Buoso Donati",
+        "Guercio Cavalcanti",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "Be silent Ovid, of Cadmus and Arethusa;",
+      "lastLine": "On one of them and depilates the other,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Forms Reversed",
+      "sourceRange": "Canto XXV, source lines 121-144",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Buoso Donati",
+        "Guercio Cavalcanti",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "The one uprose and down the other fell,",
+      "lastLine": "The novelty, if aught my pen transgress.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Florence Remembered",
+      "sourceRange": "Canto XXV, source lines 145-151",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "And notwithstanding that mine eyes might be",
+      "lastLine": "The other was he whom thou, Gaville, weepest.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Florence’s Stolen Fame",
+      "sourceRange": "Canto XXVI, source lines 1-12",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Rejoice, O Florence, since thou art so great,",
+      "lastLine": "For ’twill aggrieve me more the more I age.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Bridge of Flames",
+      "sourceRange": "Canto XXVI, source lines 13-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "We went our way, and up along the stairs",
+      "lastLine": "Have given me good, I may myself not grudge it.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Counsellors Concealed",
+      "sourceRange": "Canto XXVI, source lines 25-48",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "As many as the hind (who on the hill",
+      "lastLine": "Each swathes himself with that wherewith he burns.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Double Flame",
+      "sourceRange": "Canto XXVI, source lines 49-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante",
+        "Ulysses",
+        "Diomedes"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "“My Master,” I replied, “by hearing thee",
+      "lastLine": "But take heed that thy tongue restrain itself.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Virgil Calls Ulysses",
+      "sourceRange": "Canto XXVI, source lines 73-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Ulysses",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Leave me to speak, because I have conceived",
+      "lastLine": "Whither, being lost, he went away to die.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Ulysses Leaves Home",
+      "sourceRange": "Canto XXVI, source lines 85-120",
+      "timeline": "Ulysses’ Last Voyage",
+      "presentCharacters": [
+        "Ulysses",
+        "Ulysses’ Companions"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Then of the antique flame the greater horn,",
+      "lastLine": "But for pursuit of virtue and of knowledge.’",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Beyond the Pillars",
+      "sourceRange": "Canto XXVI, source lines 121-142",
+      "timeline": "Ulysses’ Last Voyage",
+      "presentCharacters": [
+        "Ulysses",
+        "Ulysses’ Companions"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "So eager did I render my companions,",
+      "lastLine": "Until the sea above us closed again.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Guido’s Flame Approaches",
+      "sourceRange": "Canto XXVII, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Guido da Montefeltro",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Already was the flame erect and quiet,",
+      "lastLine": "Thou seest it irks not me, and I am burning.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "News of Romagna",
+      "sourceRange": "Canto XXVII, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Guido da Montefeltro",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "If thou but lately into this blind world",
+      "lastLine": "“O soul, that down below there art concealed,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Cities and Their Lords",
+      "sourceRange": "Canto XXVII, source lines 37-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Guido da Montefeltro"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Romagna thine is not and never has been",
+      "lastLine": "This way and that, and then gave forth such breath:",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Guido Names Himself",
+      "sourceRange": "Canto XXVII, source lines 61-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Guido da Montefeltro",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“If I believed that my reply were made",
+      "lastLine": "And how and wherefore I will have thee hear.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "From Soldier to Friar",
+      "sourceRange": "Canto XXVII, source lines 73-84",
+      "timeline": "Guido’s Last Counsel",
+      "presentCharacters": [
+        "Guido da Montefeltro"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "While I was still the form of bone and pulp",
+      "lastLine": "Ah woe is me! and it would have bestead me;",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Fraudulent Absolution",
+      "sourceRange": "Canto XXVII, source lines 85-120",
+      "timeline": "Guido’s Last Counsel",
+      "presentCharacters": [
+        "Pope Boniface VIII",
+        "Guido da Montefeltro"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "The Leader of the modern Pharisees",
+      "lastLine": "Because of the contradiction which consents not.’",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Logic at the Deathbed",
+      "sourceRange": "Canto XXVII, source lines 121-132",
+      "timeline": "Guido’s Last Counsel",
+      "presentCharacters": [
+        "Guido da Montefeltro"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "O miserable me! how I did shudder",
+      "lastLine": "Writhing and flapping its sharp-pointed horn.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Flame Departs",
+      "sourceRange": "Canto XXVII, source lines 133-136",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Onward we passed, both I and my Conductor,",
+      "lastLine": "By those who, sowing discord, win their burden.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Wounds of Schism",
+      "sourceRange": "Canto XXVIII, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Who ever could, e’en with untrammelled words,",
+      "lastLine": "Rent from the chin to where one breaketh wind.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Mahomet and Ali",
+      "sourceRange": "Canto XXVIII, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Mahomet",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Between his legs were hanging down his entrails;",
+      "lastLine": "While living were, and therefore are cleft thus.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Sword Behind Them",
+      "sourceRange": "Canto XXVIII, source lines 37-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Mahomet",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "A devil is behind here, who doth cleave us",
+      "lastLine": "Which otherwise to gain would not be easy.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Pier da Medicina",
+      "sourceRange": "Canto XXVIII, source lines 61-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Pier da Medicina",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "After one foot to go away he lifted,",
+      "lastLine": "Unless too great similitude deceive me,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Fano Warning",
+      "sourceRange": "Canto XXVIII, source lines 73-90",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Pier da Medicina",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Call to remembrance Pier da Medicina,",
+      "lastLine": "They will not stand in need of vow or prayer.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Curio and Mosca",
+      "sourceRange": "Canto XXVIII, source lines 91-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Curio",
+        "Mosca dei Lamberti",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "And I to him: “Show to me and declare,",
+      "lastLine": "As walked the others of the mournful herd.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Bertran Carries His Head",
+      "sourceRange": "Canto XXVIII, source lines 121-142",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Bertran de Born",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And by the hair it held the head dissevered,",
+      "lastLine": "Thus is observed in me the counterpoise.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Looking Back at Geri",
+      "sourceRange": "Canto XXIX, source lines 1-12",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "The many people and the divers wounds",
+      "lastLine": "And more is to be seen than what thou seest.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Unanswered Blood Feud",
+      "sourceRange": "Canto XXIX, source lines 13-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "“If thou hadst,” I made answer thereupon,",
+      "lastLine": "And thereby made me pity him the more.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Stench of Disease",
+      "sourceRange": "Canto XXIX, source lines 37-48",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Thus did we speak as far as the first place",
+      "lastLine": "And of Maremma and Sardinia",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Diseased Falsifiers",
+      "sourceRange": "Canto XXIX, source lines 49-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "All the diseases in one moat were gathered,",
+      "lastLine": "Who had not strength enough to lift their bodies.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Griffolino and Capocchio",
+      "sourceRange": "Canto XXIX, source lines 73-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Griffolino d’Arezzo",
+        "Capocchio",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "I saw two sitting leaned against each other,",
+      "lastLine": "Make you afraid to show yourselves to me.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Alchemy and Deception",
+      "sourceRange": "Canto XXIX, source lines 109-139",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Griffolino d’Arezzo",
+        "Capocchio",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "“I of Arezzo was,” one made reply,",
+      "lastLine": "How I a skilful ape of nature was.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Frenzied Impersonators",
+      "sourceRange": "Canto XXX, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "’Twas at the time when Juno was enraged,",
+      "lastLine": "In goading beasts, and much more human members,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Gianni Schicchi and Myrrha",
+      "sourceRange": "Canto XXX, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Gianni Schicchi",
+        "Myrrha",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "As I beheld two shadows pale and naked,",
+      "lastLine": "To tell us who it is, ere it dart hence.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Master Adam",
+      "sourceRange": "Canto XXX, source lines 37-48",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Master Adam",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And he to me: “That is the ancient ghost",
+      "lastLine": "To look upon the other evil-born.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Counterfeit Florins",
+      "sourceRange": "Canto XXX, source lines 49-90",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Master Adam",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "I saw one made in fashion of a lute,",
+      "lastLine": "Which had three carats of impurity.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Sinon and Potiphar’s Wife",
+      "sourceRange": "Canto XXX, source lines 91-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Master Adam",
+        "Sinon",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "And I to him: “Who are the two poor wretches",
+      "lastLine": "I have an arm unfettered for such need.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Quarrel of Thirst and Fever",
+      "sourceRange": "Canto XXX, source lines 109-132",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Master Adam",
+        "Sinon",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "Whereat he answer made: “When thou didst go",
+      "lastLine": "For little wants it that I quarrel with thee.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Dante’s Shame",
+      "sourceRange": "Canto XXX, source lines 133-148",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "When him I heard in anger speak to me,",
+      "lastLine": "For a base wish it is to wish to hear it.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Horn in the Darkness",
+      "sourceRange": "Canto XXXI, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "One and the selfsame tongue first wounded me,",
+      "lastLine": "It happens that thou errest in thy fancy.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Towers That Are Giants",
+      "sourceRange": "Canto XXXI, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Well shalt thou see, if thou arrivest there,",
+      "lastLine": "Whate’er the mist that crowds the air conceals,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Nimrod",
+      "sourceRange": "Canto XXXI, source lines 37-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Nimrod",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "So, piercing through the dense and darksome air,",
+      "lastLine": "And in proportion were the other bones;",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Ephialtes Bound",
+      "sourceRange": "Canto XXXI, source lines 61-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Ephialtes",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "So that the margin, which an apron was",
+      "lastLine": "We found another far more fierce and large.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Seeking Antaeus",
+      "sourceRange": "Canto XXXI, source lines 85-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "In binding him, who might the master be",
+      "lastLine": "As Ephialtes suddenly shook himself.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Virgil Persuades Antaeus",
+      "sourceRange": "Canto XXXI, source lines 109-132",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Antaeus",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Then was I more afraid of death than ever,",
+      "lastLine": "Hands whose great pressure Hercules once felt.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Lowered into Cocytus",
+      "sourceRange": "Canto XXXI, source lines 133-145",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Antaeus",
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Virgilius, when he felt himself embraced,",
+      "lastLine": "But, as a mast does in a ship, uprose.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Invocation for the Frozen Lake",
+      "sourceRange": "Canto XXXII, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "If I had rhymes both rough and stridulous,",
+      "lastLine": "The semblance had of glass, and not of water.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Caina",
+      "sourceRange": "Canto XXXII, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "So thick a veil ne’er made upon its current",
+      "lastLine": "Setting their teeth unto the note of storks.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Brothers in the Ice",
+      "sourceRange": "Canto XXXII, source lines 37-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Each one his countenance held downward bent;",
+      "lastLine": "And evermore will come, at frozen ponds.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Antenora",
+      "sourceRange": "Canto XXXII, source lines 73-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "And while we were advancing tow’rds the middle,",
+      "lastLine": "Then thou mayst hurry me, as thou shalt wish.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Bocca Refuses His Name",
+      "sourceRange": "Canto XXXII, source lines 85-96",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Bocca degli Abati",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "The Leader stopped; and to that one I said",
+      "lastLine": "For ill thou knowest to flatter in this hollow.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Bocca Exposed",
+      "sourceRange": "Canto XXXII, source lines 97-120",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Bocca degli Abati",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Then by the scalp behind I seized upon him,",
+      "lastLine": "Of whom the gorget Florence slit asunder;",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "One Head Gnaws Another",
+      "sourceRange": "Canto XXXII, source lines 121-139",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Count Ugolino",
+        "Archbishop Ruggieri",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "Gianni del Soldanier, I think, may be",
+      "lastLine": "If that wherewith I speak be not dried up.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Ugolino Raises His Mouth",
+      "sourceRange": "Canto XXXIII, source lines 1-12",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Count Ugolino",
+        "Archbishop Ruggieri",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "His mouth uplifted from his grim repast,",
+      "lastLine": "Thou seemest to me truly, when I hear thee.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Tower Is Sealed",
+      "sourceRange": "Canto XXXIII, source lines 13-24",
+      "timeline": "Ugolino in the Tower",
+      "presentCharacters": [
+        "Count Ugolino",
+        "Ugolino’s Children"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Thou hast to know I was Count Ugolino,",
+      "lastLine": "And in which others still must be locked up,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Dream of the Hunt",
+      "sourceRange": "Canto XXXIII, source lines 25-36",
+      "timeline": "Ugolino in the Tower",
+      "presentCharacters": [
+        "Count Ugolino",
+        "Ugolino’s Children"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Had shown me through its opening many moons",
+      "lastLine": "It seemed to me I saw their flanks ripped open.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Children Ask for Bread",
+      "sourceRange": "Canto XXXIII, source lines 37-48",
+      "timeline": "Ugolino in the Tower",
+      "presentCharacters": [
+        "Count Ugolino",
+        "Ugolino’s Children"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "When I before the morrow was awake,",
+      "lastLine": "I gazed into the faces of my sons.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Last Days in the Tower",
+      "sourceRange": "Canto XXXIII, source lines 49-72",
+      "timeline": "Ugolino in the Tower",
+      "presentCharacters": [
+        "Count Ugolino",
+        "Ugolino’s Children"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "I wept not, I within so turned to stone;",
+      "lastLine": "The fifth day and the sixth; whence I betook me,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Hunger Overcomes Grief",
+      "sourceRange": "Canto XXXIII, source lines 73-84",
+      "timeline": "Ugolino in the Tower",
+      "presentCharacters": [
+        "Count Ugolino"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "Already blind, to groping over each,",
+      "lastLine": "That every person in thee it may drown!",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Pisa Condemned",
+      "sourceRange": "Canto XXXIII, source lines 85-90",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Count Ugolino",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "For if Count Ugolino had the fame",
+      "lastLine": "And the other two my song doth name above!",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Ptolomaea",
+      "sourceRange": "Canto XXXIII, source lines 91-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "We passed still farther onward, where the ice",
+      "lastLine": "Seeing the cause which raineth down the blast.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Fra Alberigo’s Bargain",
+      "sourceRange": "Canto XXXIII, source lines 109-157",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Fra Alberigo",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And one of the wretches of the frozen crust",
+      "lastLine": "And still above in body seems alive!",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Banners of the King of Hell",
+      "sourceRange": "Canto XXXIV, source lines 1-24",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "“‘Vexilla Regis prodeunt Inferni’",
+      "lastLine": "Because all language would be insufficient.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Lucifer Revealed",
+      "sourceRange": "Canto XXXIV, source lines 25-36",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Lucifer",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "I did not die, and I alive remained not;",
+      "lastLine": "Well may proceed from him all tribulation.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Three Faces",
+      "sourceRange": "Canto XXXIV, source lines 37-60",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Lucifer",
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "O, what a marvel it appeared to me,",
+      "lastLine": "Utterly stripped of all the skin remained.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Judas, Brutus, and Cassius",
+      "sourceRange": "Canto XXXIV, source lines 61-72",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante",
+        "Lucifer"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "“That soul up there which has the greatest pain,”",
+      "lastLine": "And when the wings were opened wide apart,",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Climbing Down Lucifer",
+      "sourceRange": "Canto XXXIV, source lines 73-84",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante",
+        "Lucifer"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "He laid fast hold upon the shaggy sides;",
+      "lastLine": "“Must we perforce depart from so much evil.”",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "Past the Centre",
+      "sourceRange": "Canto XXXIV, source lines 85-108",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Dante",
+        "Virgil"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Then through the opening of a rock he issued,",
+      "lastLine": "The hair of the fell worm, who mines the world.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "The Fall of Lucifer",
+      "sourceRange": "Canto XXXIV, source lines 109-132",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "That side thou wast, so long as I descended;",
+      "lastLine": "With course that winds about and slightly falls.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    },
+    {
+      "event": "To Rebehold the Stars",
+      "sourceRange": "Canto XXXIV, source lines 133-139",
+      "timeline": "The Descent",
+      "presentCharacters": [
+        "Virgil",
+        "Dante"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "The Guide and I into that hidden road",
+      "lastLine": "Thence we came forth to rebehold the stars.",
+      "review": "Cast contains only characters physically acting or occupying this bounded event. Characters merely named in speech, prophecy, catalogue, or remembered from the descent frame are excluded."
+    }
+  ]
+}
