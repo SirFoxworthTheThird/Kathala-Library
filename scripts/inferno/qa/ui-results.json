@@ -1,0 +1,525 @@
+{
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "pwkSha256": "ead00aab361435f58cdcc0145c1f8f102966738c536e2e31859d66c2869846fc",
+  "download": true,
+  "readingModeOpening": true,
+  "readingModeSequentialReveal": true,
+  "manuscriptTimelines": 7,
+  "layouts": [
+    "cards",
+    "read"
+  ],
+  "bookOrders": [
+    "narrative",
+    "chronological cards"
+  ],
+  "supportingViews": 10,
+  "maps": 6,
+  "mapPins": 52,
+  "gateways": [
+    {
+      "from": "inferno-loc-hell-mouth",
+      "to": "inferno-map-upper",
+      "activated": true
+    },
+    {
+      "from": "inferno-loc-dis-region",
+      "to": "inferno-map-lower",
+      "activated": true
+    },
+    {
+      "from": "inferno-loc-malebolge-region",
+      "to": "inferno-map-malebolge",
+      "activated": true
+    },
+    {
+      "from": "inferno-loc-cocytus-region",
+      "to": "inferno-map-cocytus",
+      "activated": true
+    }
+  ],
+  "playbackTransitions": [
+    {
+      "before": "Virgil Challenges the Retreat",
+      "after": "Beatrice Descends to Limbo",
+      "from": "inferno-map-overview",
+      "to": "inferno-map-upper"
+    },
+    {
+      "before": "Beatrice Descends to Limbo",
+      "after": "Three Blessed Women",
+      "from": "inferno-map-upper",
+      "to": "inferno-map-overview"
+    },
+    {
+      "before": "Francesca Names Her Grief",
+      "after": "The Fatal Reading",
+      "from": "inferno-map-upper",
+      "to": "inferno-map-history"
+    },
+    {
+      "before": "The Fatal Reading",
+      "after": "The Cold Rain",
+      "from": "inferno-map-history",
+      "to": "inferno-map-upper"
+    },
+    {
+      "before": "The Heavenly Messenger",
+      "after": "The Burning Tombs",
+      "from": "inferno-map-upper",
+      "to": "inferno-map-lower"
+    },
+    {
+      "before": "Mounting Fraud",
+      "after": "The Flight into Malebolge",
+      "from": "inferno-map-lower",
+      "to": "inferno-map-malebolge"
+    },
+    {
+      "before": "Pity Rebuked",
+      "after": "Manto’s Wandering",
+      "from": "inferno-map-malebolge",
+      "to": "inferno-map-history"
+    },
+    {
+      "before": "The Founding of Mantua",
+      "after": "The Other Diviners",
+      "from": "inferno-map-history",
+      "to": "inferno-map-malebolge"
+    },
+    {
+      "before": "Dante’s Shame",
+      "after": "The Horn in the Darkness",
+      "from": "inferno-map-malebolge",
+      "to": "inferno-map-cocytus"
+    },
+    {
+      "before": "Ugolino Raises His Mouth",
+      "after": "The Tower Is Sealed",
+      "from": "inferno-map-cocytus",
+      "to": "inferno-map-history"
+    },
+    {
+      "before": "Hunger Overcomes Grief",
+      "after": "Pisa Condemned",
+      "from": "inferno-map-history",
+      "to": "inferno-map-cocytus"
+    }
+  ],
+  "finalLine": true,
+  "verseLayout": {
+    "blocks": 197,
+    "lines": 4720,
+    "preservesBreaks": true
+  },
+  "locationChecks": [
+    {
+      "id": "inferno-loc-dark-wood",
+      "map": "inferno-map-overview",
+      "x": 430,
+      "y": 860,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-sunlit-slope",
+      "map": "inferno-map-overview",
+      "x": 1080,
+      "y": 870,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-hell-mouth",
+      "map": "inferno-map-overview",
+      "x": 768,
+      "y": 805,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-dis-region",
+      "map": "inferno-map-overview",
+      "x": 768,
+      "y": 555,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-malebolge-region",
+      "map": "inferno-map-overview",
+      "x": 768,
+      "y": 335,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-cocytus-region",
+      "map": "inferno-map-overview",
+      "x": 768,
+      "y": 120,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-hell-gate",
+      "map": "inferno-map-upper",
+      "x": 160,
+      "y": 850,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-vestibule",
+      "map": "inferno-map-upper",
+      "x": 310,
+      "y": 780,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-acheron",
+      "map": "inferno-map-upper",
+      "x": 470,
+      "y": 720,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-limbo-rim",
+      "map": "inferno-map-upper",
+      "x": 610,
+      "y": 690,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-limbo",
+      "map": "inferno-map-upper",
+      "x": 730,
+      "y": 650,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-noble-castle",
+      "map": "inferno-map-upper",
+      "x": 850,
+      "y": 650,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-circle-two",
+      "map": "inferno-map-upper",
+      "x": 930,
+      "y": 560,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-circle-three",
+      "map": "inferno-map-upper",
+      "x": 1060,
+      "y": 500,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-circle-four",
+      "map": "inferno-map-upper",
+      "x": 1140,
+      "y": 400,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-styx",
+      "map": "inferno-map-upper",
+      "x": 1020,
+      "y": 300,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-styx-tower",
+      "map": "inferno-map-upper",
+      "x": 880,
+      "y": 340,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-dis-gate",
+      "map": "inferno-map-upper",
+      "x": 760,
+      "y": 220,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-circle-six",
+      "map": "inferno-map-lower",
+      "x": 190,
+      "y": 800,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-lower-hell-rim",
+      "map": "inferno-map-lower",
+      "x": 360,
+      "y": 730,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-circle-seven-rim",
+      "map": "inferno-map-lower",
+      "x": 500,
+      "y": 650,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-phlegethon",
+      "map": "inferno-map-lower",
+      "x": 650,
+      "y": 610,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-suicide-wood",
+      "map": "inferno-map-lower",
+      "x": 790,
+      "y": 510,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-burning-sand",
+      "map": "inferno-map-lower",
+      "x": 930,
+      "y": 420,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-cataract",
+      "map": "inferno-map-lower",
+      "x": 1080,
+      "y": 270,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-malebolge-overlook",
+      "map": "inferno-map-malebolge",
+      "x": 210,
+      "y": 820,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-one",
+      "map": "inferno-map-malebolge",
+      "x": 330,
+      "y": 730,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-two",
+      "map": "inferno-map-malebolge",
+      "x": 430,
+      "y": 670,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-three",
+      "map": "inferno-map-malebolge",
+      "x": 520,
+      "y": 620,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-four",
+      "map": "inferno-map-malebolge",
+      "x": 595,
+      "y": 580,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-five",
+      "map": "inferno-map-malebolge",
+      "x": 655,
+      "y": 545,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-six",
+      "map": "inferno-map-malebolge",
+      "x": 705,
+      "y": 515,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-broken-bridge",
+      "map": "inferno-map-malebolge",
+      "x": 825,
+      "y": 540,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-seven",
+      "map": "inferno-map-malebolge",
+      "x": 740,
+      "y": 480,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-eight",
+      "map": "inferno-map-malebolge",
+      "x": 760,
+      "y": 440,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-nine",
+      "map": "inferno-map-malebolge",
+      "x": 770,
+      "y": 395,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-bolgia-ten",
+      "map": "inferno-map-malebolge",
+      "x": 770,
+      "y": 345,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-giants-well",
+      "map": "inferno-map-cocytus",
+      "x": 260,
+      "y": 820,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-cocytus",
+      "map": "inferno-map-cocytus",
+      "x": 410,
+      "y": 720,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-caina",
+      "map": "inferno-map-cocytus",
+      "x": 535,
+      "y": 640,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-antenora",
+      "map": "inferno-map-cocytus",
+      "x": 630,
+      "y": 575,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-ptolomaea",
+      "map": "inferno-map-cocytus",
+      "x": 700,
+      "y": 530,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-judecca",
+      "map": "inferno-map-cocytus",
+      "x": 745,
+      "y": 500,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-earth-centre",
+      "map": "inferno-map-cocytus",
+      "x": 768,
+      "y": 475,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-hidden-passage",
+      "map": "inferno-map-cocytus",
+      "x": 1230,
+      "y": 250,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-rimini",
+      "map": "inferno-map-history",
+      "x": 960,
+      "y": 570,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-mantua-marsh",
+      "map": "inferno-map-history",
+      "x": 720,
+      "y": 700,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-mediterranean",
+      "map": "inferno-map-history",
+      "x": 520,
+      "y": 430,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-western-ocean",
+      "map": "inferno-map-history",
+      "x": 160,
+      "y": 380,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-montefeltro-memory",
+      "map": "inferno-map-history",
+      "x": 820,
+      "y": 620,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-lateran",
+      "map": "inferno-map-history",
+      "x": 760,
+      "y": 400,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "inferno-loc-hunger-tower",
+      "map": "inferno-map-history",
+      "x": 650,
+      "y": 520,
+      "detailImageLoaded": true
+    }
+  ],
+  "knowledgeChecks": [
+    {
+      "event": "The Monster on the Brink",
+      "geryonFactVisible": false
+    },
+    {
+      "event": "Mounting Fraud",
+      "geryonFactVisible": true
+    }
+  ],
+  "revealChecks": [
+    {
+      "event": "The Monster on the Brink",
+      "name": "The Monster of Fraud"
+    },
+    {
+      "event": "Mounting Fraud",
+      "name": "Geryon"
+    }
+  ],
+  "completeDatasetViews": 10,
+  "individualStateChecks": [
+    {
+      "event": "Lost in the Dark Wood",
+      "character": "dante"
+    },
+    {
+      "event": "A Voice in the Waste",
+      "character": "virgil"
+    },
+    {
+      "event": "The Fatal Reading",
+      "character": "francesca"
+    },
+    {
+      "event": "Mounting Fraud",
+      "character": "geryon"
+    },
+    {
+      "event": "To Rebehold the Stars",
+      "character": "dante"
+    }
+  ],
+  "consoleErrors": []
+}

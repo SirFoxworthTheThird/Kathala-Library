@@ -1,0 +1,29 @@
+{
+  "title": "Inferno",
+  "author": "Dante Alighieri",
+  "translator": "Henry Wadsworth Longfellow",
+  "sourceEdition": "Dante Alighieri, Divine Comedy, Longfellow's Translation, Hell, translated by Henry Wadsworth Longfellow, Project Gutenberg eBook #1001; released 1 August 1997; source file most recently updated 29 October 2024.",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/1001/pg1001.txt",
+  "downloaded": "2026-10-18",
+  "sourceBytes": 249139,
+  "sourceSha256": "10fad2f10aaffec3bfe3fd63266544f7fd5bba576cd5c63afe68e8212849754d",
+  "rights": "Public domain in the United States; Dante died in 1321 and Longfellow died in 1882.",
+  "retained": {
+    "cantos": 34,
+    "stanzaGroups": 1596,
+    "verseLines": 4720,
+    "words": 37417,
+    "start": "Inferno: Canto I / Midway upon the journey of our life",
+    "end": "Thence we came forth to rebehold the stars."
+  },
+  "excluded": [
+    "Project Gutenberg header and licence",
+    "collection title and translator page",
+    "contents list",
+    "canto headings",
+    "blank packaging lines",
+    "Project Gutenberg footer"
+  ],
+  "spelling": "Longfellow’s English wording, capitalization, punctuation, apostrophes, and lineation are retained from the UTF-8 Project Gutenberg text. No modernization or silent correction is applied.",
+  "normalization": "Final scene drafts add a two-space presentation prefix to every verse line; remove exactly that prefix before source comparison. CRLF and CR become LF; trailing whitespace and empty packaging lines are ignored; every nonempty retained verse line must otherwise match exactly."
+}

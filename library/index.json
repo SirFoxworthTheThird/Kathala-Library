@@ -274,6 +274,24 @@
       "hasProse": true
     },
     {
+      "id": "inferno",
+      "title": "Inferno — Longfellow translation",
+      "author": "Dante Alighieri; translated by Henry Wadsworth Longfellow",
+      "blurb": "A living traveller follows Virgil through the ordered depths beneath the world, where each encounter tests what can be understood, pitied, remembered, and changed.",
+      "data": "inferno.pwk",
+      "dataBytes": 777317,
+      "counts": {
+        "characters": 66,
+        "chapters": 34,
+        "events": 197,
+        "locations": 52
+      },
+      "notice": "Unofficial reading-mode edition of Henry Wadsworth Longfellow’s complete public-domain English translation of Inferno from Project Gutenberg eBook #1001. All 34 cantos and 4,720 retained verse lines follow the source order; Gutenberg packaging, title material, contents, blank separators, and licence text are excluded. Scene divisions, chronology, descriptions, six topographic maps, and original generated illustrations are editorial.",
+      "worldId": "inferno-world",
+      "cover": "library/inferno/art/world.png",
+      "hasProse": true
+    },
+    {
       "id": "the-invisible-man",
       "title": "The Invisible Man",
       "author": "H. G. Wells",
