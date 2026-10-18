@@ -1,0 +1,116 @@
+{
+  "applicationCommit": "3921599b3e1d26dd7a081bcd550f9e3a7bcff14d",
+  "pwkSha256": "c81be0a6f9ef021fbc8a5eb02b8c690a9fdd35c4b54836bfb5ae6cd07776a908",
+  "download": true,
+  "readingModeOpening": true,
+  "readingModeSequentialReveal": true,
+  "manuscriptTimelines": 5,
+  "layouts": [
+    "cards",
+    "read"
+  ],
+  "bookOrders": [
+    "narrative",
+    "chronological cards"
+  ],
+  "supportingViews": 10,
+  "maps": 4,
+  "mapPins": 24,
+  "gateways": [
+    {
+      "from": "paradise-lost-loc-earth",
+      "to": "paradise-lost-map-eden",
+      "activated": true
+    },
+    {
+      "from": "paradise-lost-loc-hell-region",
+      "to": "paradise-lost-map-hell",
+      "activated": true
+    },
+    {
+      "from": "paradise-lost-loc-heaven-region",
+      "to": "paradise-lost-map-heaven",
+      "activated": true
+    }
+  ],
+  "playbackTransitions": [
+    {
+      "before": "The Argument and Invocation",
+      "after": "Awakening on the Burning Lake",
+      "from": "paradise-lost-map-cosmos",
+      "to": "paradise-lost-map-hell"
+    },
+    {
+      "before": "The Gate Opens",
+      "after": "The Throne of Chaos",
+      "from": "paradise-lost-map-hell",
+      "to": "paradise-lost-map-cosmos"
+    },
+    {
+      "before": "Invocation to Holy Light",
+      "after": "Heaven Beholds Satan",
+      "from": "paradise-lost-map-cosmos",
+      "to": "paradise-lost-map-heaven"
+    },
+    {
+      "before": "Heaven Acclaims the Son",
+      "after": "Satan Reaches the Universe",
+      "from": "paradise-lost-map-heaven",
+      "to": "paradise-lost-map-cosmos"
+    },
+    {
+      "before": "Earth in Sight",
+      "after": "Satan on Mount Niphates",
+      "from": "paradise-lost-map-cosmos",
+      "to": "paradise-lost-map-eden"
+    },
+    {
+      "before": "Free Obedience",
+      "after": "Satan’s First Revolt",
+      "from": "paradise-lost-map-eden",
+      "to": "paradise-lost-map-heaven"
+    },
+    {
+      "before": "The Rebels Cast Out",
+      "after": "Raphael Ends the Warning",
+      "from": "paradise-lost-map-heaven",
+      "to": "paradise-lost-map-eden"
+    },
+    {
+      "before": "Raphael Ends the Warning",
+      "after": "Invocation to Urania",
+      "from": "paradise-lost-map-eden",
+      "to": "paradise-lost-map-cosmos"
+    },
+    {
+      "before": "The Serpentine Punishment",
+      "after": "The Changed Creation",
+      "from": "paradise-lost-map-hell",
+      "to": "paradise-lost-map-heaven"
+    }
+  ],
+  "finalLine": true,
+  "individualStateChecks": [
+    {
+      "event": "Awakening on the Burning Lake",
+      "character": "satan"
+    },
+    {
+      "event": "Adam and Eve",
+      "character": "eve"
+    },
+    {
+      "event": "Satan’s First Revolt",
+      "character": "abdiel"
+    },
+    {
+      "event": "Eve Eats",
+      "character": "eve"
+    },
+    {
+      "event": "The World Before Them",
+      "character": "michael"
+    }
+  ],
+  "consoleErrors": []
+}

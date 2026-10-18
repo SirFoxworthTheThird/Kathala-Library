@@ -1,0 +1,1108 @@
+{
+  "title": "Paradise Lost",
+  "policy": "All cuts preserve complete verse lines. Each cut was placed at a sentence boundary nearest a reviewed narrative beat; no verse line is split, omitted, duplicated, or reordered.",
+  "books": 12,
+  "scenes": 110,
+  "records": [
+    {
+      "book": 1,
+      "title": "The Argument and Invocation",
+      "sourceRange": "Source lines 1-105 of Book I",
+      "firstLine": "Of Man’s first disobedience, and the fruit",
+      "lastLine": "And shook his throne. What though the field be lost?",
+      "verseLines": 105,
+      "words": 800,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 1,
+      "title": "Awakening on the Burning Lake",
+      "sourceRange": "Source lines 106-202 of Book I",
+      "firstLine": "All is not lost—the unconquerable will,",
+      "lastLine": "Created hugest that swim th’ ocean-stream.",
+      "verseLines": 97,
+      "words": 729,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 1,
+      "title": "The Shore of Hell",
+      "sourceRange": "Source lines 203-298 of Book I",
+      "firstLine": "Him, haply slumbering on the Norway foam,",
+      "lastLine": "Smote on him sore besides, vaulted with fire.",
+      "verseLines": 96,
+      "words": 752,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 1,
+      "title": "The Infernal Powers Assemble",
+      "sourceRange": "Source lines 299-393 of Book I",
+      "firstLine": "Nathless he so endured, till on the beach",
+      "lastLine": "Of human sacrifice, and parents’ tears;",
+      "verseLines": 95,
+      "words": 713,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 1,
+      "title": "Satan Addresses the Legions",
+      "sourceRange": "Source lines 394-496 of Book I",
+      "firstLine": "Though, for the noise of drums and timbrels loud,",
+      "lastLine": "With lust and violence the house of God?",
+      "verseLines": 103,
+      "words": 751,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 1,
+      "title": "Mammon Mines the Hill",
+      "sourceRange": "Source lines 497-608 of Book I",
+      "firstLine": "In courts and palaces he also reigns,",
+      "lastLine": "For ever now to have their lot in pain—",
+      "verseLines": 112,
+      "words": 830,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 1,
+      "title": "Pandemonium Rises",
+      "sourceRange": "Source lines 609-699 of Book I",
+      "firstLine": "Millions of Spirits for his fault amerced",
+      "lastLine": "And hands innumerable, scarce perform.",
+      "verseLines": 91,
+      "words": 697,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 1,
+      "title": "The Great Consult Begins",
+      "sourceRange": "Source lines 700-798 of Book I",
+      "firstLine": "Nigh on the plain, in many cells prepared,",
+      "lastLine": "And summons read, the great consult began.",
+      "verseLines": 99,
+      "words": 735,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "Satan Opens the Council",
+      "sourceRange": "Source lines 1-98 of Book II",
+      "firstLine": "High on a throne of royal state, which far",
+      "lastLine": "Than miserable to have eternal being!—",
+      "verseLines": 98,
+      "words": 744,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "Moloch Urges Open War",
+      "sourceRange": "Source lines 99-193 of Book II",
+      "firstLine": "Or, if our substance be indeed divine,",
+      "lastLine": "Than wise to frustrate all our plots and wiles.",
+      "verseLines": 95,
+      "words": 710,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "Belial Counsels Ease",
+      "sourceRange": "Source lines 194-283 of Book II",
+      "firstLine": "Shall we, then, live thus vile—the race of Heaven",
+      "lastLine": "All thoughts of war. Ye have what I advise.”",
+      "verseLines": 90,
+      "words": 679,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "Mammon Chooses Hell",
+      "sourceRange": "Source lines 284-389 of Book II",
+      "firstLine": "He scarce had finished, when such murmur filled",
+      "lastLine": "They vote: whereat his speech he thus renews:—",
+      "verseLines": 106,
+      "words": 787,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "Beelzebub Proposes Man",
+      "sourceRange": "Source lines 390-479 of Book II",
+      "firstLine": "“Well have ye judged, well ended long debate,",
+      "lastLine": "Extol him equal to the Highest in Heaven.",
+      "verseLines": 90,
+      "words": 669,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "Satan Takes the Venture",
+      "sourceRange": "Source lines 480-576 of Book II",
+      "firstLine": "Nor failed they to express how much they praised",
+      "lastLine": "Into the burning lake their baleful streams—",
+      "verseLines": 97,
+      "words": 709,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "At the Gates of Hell",
+      "sourceRange": "Source lines 577-673 of Book II",
+      "firstLine": "Abhorred Styx, the flood of deadly hate;",
+      "lastLine": "The likeness of a kingly crown had on.",
+      "verseLines": 97,
+      "words": 731,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "Sin Tells Her Origin",
+      "sourceRange": "Source lines 674-780 of Book II",
+      "firstLine": "Satan was now at hand, and from his seat",
+      "lastLine": "Prodigious motion felt and rueful throes.",
+      "verseLines": 107,
+      "words": 847,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "The Gate Opens",
+      "sourceRange": "Source lines 781-863 of Book II",
+      "firstLine": "At last this odious offspring whom thou seest,",
+      "lastLine": "Of mine own brood, that on my bowels feed?",
+      "verseLines": 83,
+      "words": 643,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "The Throne of Chaos",
+      "sourceRange": "Source lines 864-967 of Book II",
+      "firstLine": "Thou art my father, thou my author, thou",
+      "lastLine": "And Discord with a thousand various mouths.",
+      "verseLines": 104,
+      "words": 786,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 2,
+      "title": "Across the Wild Abyss",
+      "sourceRange": "Source lines 968-1055 of Book II",
+      "firstLine": "T’ whom Satan, turning boldly, thus:—“Ye Powers",
+      "lastLine": "Accursed, and in a cursed hour, he hies.",
+      "verseLines": 88,
+      "words": 653,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 3,
+      "title": "Invocation to Holy Light",
+      "sourceRange": "Source lines 1-93 of Book III",
+      "firstLine": "Hail, holy Light, offspring of Heaven firstborn,",
+      "lastLine": "By some false guile pervert; and shall pervert;",
+      "verseLines": 93,
+      "words": 701,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 3,
+      "title": "Heaven Beholds Satan",
+      "sourceRange": "Source lines 94-185 of Book III",
+      "firstLine": "For man will hearken to his glozing lies,",
+      "lastLine": "Elect above the rest; so is my will:",
+      "verseLines": 92,
+      "words": 698,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 3,
+      "title": "The Son Offers Himself",
+      "sourceRange": "Source lines 186-281 of Book III",
+      "firstLine": "The rest shall hear me call, and oft be warn’d",
+      "lastLine": "By losing thee a while, the whole race lost.",
+      "verseLines": 96,
+      "words": 744,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 3,
+      "title": "Heaven Acclaims the Son",
+      "sourceRange": "Source lines 282-372 of Book III",
+      "firstLine": "Thou, therefore, whom thou only canst redeem,",
+      "lastLine": "Melodious part, such concord is in Heaven.",
+      "verseLines": 91,
+      "words": 694,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 3,
+      "title": "Satan Reaches the Universe",
+      "sourceRange": "Source lines 373-463 of Book III",
+      "firstLine": "Thee, Father, first they sung Omnipotent,",
+      "lastLine": "Betwixt the angelical and human kind.",
+      "verseLines": 91,
+      "words": 675,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 3,
+      "title": "The Stair and the Golden Chain",
+      "sourceRange": "Source lines 464-555 of Book III",
+      "firstLine": "Hither of ill-joined sons and daughters born",
+      "lastLine": "At sight of all this world beheld so fair.",
+      "verseLines": 92,
+      "words": 695,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 3,
+      "title": "At the Sun",
+      "sourceRange": "Source lines 556-654 of Book III",
+      "firstLine": "Round he surveys (and well might, where he stood",
+      "lastLine": "O’er sea and land: him Satan thus accosts.",
+      "verseLines": 99,
+      "words": 753,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 3,
+      "title": "Earth in Sight",
+      "sourceRange": "Source lines 655-743 of Book III",
+      "firstLine": "Uriel, for thou of those seven Spirits that stand",
+      "lastLine": "Nor staid, till on Niphates’ top he lights.",
+      "verseLines": 89,
+      "words": 666,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "Satan on Mount Niphates",
+      "sourceRange": "Source lines 1-102 of Book IV",
+      "firstLine": "O, for that warning voice, which he, who saw",
+      "lastLine": "Short intermission bought with double smart.",
+      "verseLines": 102,
+      "words": 797,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "The Wall of Paradise",
+      "sourceRange": "Source lines 103-204 of Book IV",
+      "firstLine": "This knows my Punisher; therefore as far",
+      "lastLine": "To worst abuse, or to their meanest use.",
+      "verseLines": 102,
+      "words": 778,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "Paradise Surveyed",
+      "sourceRange": "Source lines 205-303 of Book IV",
+      "firstLine": "Beneath him with new wonder now he views,",
+      "lastLine": "Clustering, but not beneath his shoulders broad:",
+      "verseLines": 99,
+      "words": 737,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "Adam and Eve",
+      "sourceRange": "Source lines 304-402 of Book IV",
+      "firstLine": "She, as a veil, down to the slender waist",
+      "lastLine": "A lion now he stalks with fiery glare;",
+      "verseLines": 99,
+      "words": 760,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "Eve Remembers Her Awakening",
+      "sourceRange": "Source lines 403-511 of Book IV",
+      "firstLine": "Then as a tiger, who by chance hath spied",
+      "lastLine": "Still unfulfilled with pain of longing pines.",
+      "verseLines": 109,
+      "words": 852,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "Satan Overhears the Prohibition",
+      "sourceRange": "Source lines 512-609 of Book IV",
+      "firstLine": "Yet let me not forget what I have gained",
+      "lastLine": "And o’er the dark her silver mantle threw.",
+      "verseLines": 98,
+      "words": 751,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "Uriel Warns Gabriel",
+      "sourceRange": "Source lines 610-710 of Book IV",
+      "firstLine": "When Adam thus to Eve. Fair Consort, the hour",
+      "lastLine": "Espoused Eve decked first her nuptial bed;",
+      "verseLines": 101,
+      "words": 769,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "Evening Prayer",
+      "sourceRange": "Source lines 711-809 of Book IV",
+      "firstLine": "And heavenly quires the hymenaean sung,",
+      "lastLine": "Blown up with high conceits ingendering pride.",
+      "verseLines": 99,
+      "words": 752,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "Satan at Eve’s Ear",
+      "sourceRange": "Source lines 810-916 of Book IV",
+      "firstLine": "Him thus intent Ithuriel with his spear",
+      "lastLine": "Can equal anger infinite provoked.",
+      "verseLines": 107,
+      "words": 848,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 4,
+      "title": "The Scales in Heaven",
+      "sourceRange": "Source lines 917-1015 of Book IV",
+      "firstLine": "But wherefore thou alone? wherefore with thee",
+      "lastLine": "Murmuring, and with him fled the shades of night.",
+      "verseLines": 99,
+      "words": 762,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 5,
+      "title": "Eve’s Troubled Dream",
+      "sourceRange": "Source lines 1-113 of Book V",
+      "firstLine": "Now Morn, her rosy steps in the eastern clime",
+      "lastLine": "Ill matching words and deeds long past or late.",
+      "verseLines": 113,
+      "words": 886,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 5,
+      "title": "Morning Worship",
+      "sourceRange": "Source lines 114-228 of Book V",
+      "firstLine": "Some such resemblances, methinks, I find",
+      "lastLine": "In them at once to ruin all mankind.",
+      "verseLines": 115,
+      "words": 902,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 5,
+      "title": "Raphael Descends",
+      "sourceRange": "Source lines 229-336 of Book V",
+      "firstLine": "Go therefore, half this day as friend with friend",
+      "lastLine": "Taste after taste upheld with kindliest change;",
+      "verseLines": 108,
+      "words": 832,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 5,
+      "title": "The Angelic Meal",
+      "sourceRange": "Source lines 337-450 of Book V",
+      "firstLine": "Bestirs her then, and from each tender stalk",
+      "lastLine": "Was understood, the injured lover’s hell.",
+      "verseLines": 114,
+      "words": 854,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 5,
+      "title": "Free Obedience",
+      "sourceRange": "Source lines 451-562 of Book V",
+      "firstLine": "Thus when with meats and drinks they had sufficed,",
+      "lastLine": "After short pause assenting, thus began.",
+      "verseLines": 112,
+      "words": 830,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 5,
+      "title": "Satan’s First Revolt",
+      "sourceRange": "Source lines 563-679 of Book V",
+      "firstLine": "High matter thou enjoinest me, O prime of men,",
+      "lastLine": "Thy sleep dissent? New laws thou seest imposed;",
+      "verseLines": 117,
+      "words": 864,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 5,
+      "title": "The Northern Mustering",
+      "sourceRange": "Source lines 680-793 of Book V",
+      "firstLine": "New laws from him who reigns, new minds may raise",
+      "lastLine": "Jar not with liberty, but well consist.",
+      "verseLines": 114,
+      "words": 846,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 5,
+      "title": "Abdiel Answers Satan",
+      "sourceRange": "Source lines 794-907 of Book V",
+      "firstLine": "Who can in reason then, or right, assume",
+      "lastLine": "On those proud towers to swift destruction doomed.",
+      "verseLines": 114,
+      "words": 845,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "Abdiel Returns",
+      "sourceRange": "Source lines 1-102 of Book VI",
+      "firstLine": "All night the dreadless Angel, unpursued,",
+      "lastLine": "With flaming Cherubim, and golden shields;",
+      "verseLines": 102,
+      "words": 764,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "The Armies Meet",
+      "sourceRange": "Source lines 103-214 of Book VI",
+      "firstLine": "Then lighted from his gorgeous throne, for now",
+      "lastLine": "And flying vaulted either host with fire.",
+      "verseLines": 112,
+      "words": 850,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "Abdiel Strikes Satan",
+      "sourceRange": "Source lines 215-303 of Book VI",
+      "firstLine": "So under fiery cope together rushed",
+      "lastLine": "Fit to decide the empire of great Heaven.",
+      "verseLines": 89,
+      "words": 672,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "First Day of War",
+      "sourceRange": "Source lines 304-408 of Book VI",
+      "firstLine": "Now waved their fiery swords, and in the air",
+      "lastLine": "And silence on the odious din of war:",
+      "verseLines": 105,
+      "words": 773,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "Infernal Artillery",
+      "sourceRange": "Source lines 409-507 of Book VI",
+      "firstLine": "Under her cloudy covert both retired,",
+      "lastLine": "Forthwith from council to the work they flew;",
+      "verseLines": 99,
+      "words": 713,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "The Mountains of Heaven",
+      "sourceRange": "Source lines 508-608 of Book VI",
+      "firstLine": "None arguing stood; innumerable hands",
+      "lastLine": "And to his mates thus in derision called.",
+      "verseLines": 101,
+      "words": 748,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "The Son Takes the Field",
+      "sourceRange": "Source lines 609-709 of Book VI",
+      "firstLine": "O Friends! why come not on these victors proud",
+      "lastLine": "By sacred unction, thy deserved right.",
+      "verseLines": 101,
+      "words": 774,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "The Rebels Cast Out",
+      "sourceRange": "Source lines 710-808 of Book VI",
+      "firstLine": "Go then, Thou Mightiest, in thy Father’s might;",
+      "lastLine": "Vengeance is his, or whose he sole appoints:",
+      "verseLines": 99,
+      "words": 737,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 6,
+      "title": "Raphael Ends the Warning",
+      "sourceRange": "Source lines 809-912 of Book VI",
+      "firstLine": "Number to this day’s work is not ordained,",
+      "lastLine": "Yet fell; remember, and fear to transgress.",
+      "verseLines": 104,
+      "words": 777,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "Invocation to Urania",
+      "sourceRange": "Source lines 1-69 of Book VII",
+      "firstLine": "Descend from Heaven, Urania, by that name",
+      "lastLine": "Proceeded thus to ask his heavenly guest.",
+      "verseLines": 69,
+      "words": 506,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "Adam Asks of Creation",
+      "sourceRange": "Source lines 70-144 of Book VII",
+      "firstLine": "Great things, and full of wonder in our ears,",
+      "lastLine": "Drew many, whom their place knows here no more:",
+      "verseLines": 75,
+      "words": 550,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "God Declares Creation",
+      "sourceRange": "Source lines 145-215 of Book VII",
+      "firstLine": "Yet far the greater part have kept, I see,",
+      "lastLine": "Heaven’s highth, and with the center mix the pole.",
+      "verseLines": 71,
+      "words": 522,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "The Son Enters Chaos",
+      "sourceRange": "Source lines 216-284 of Book VII",
+      "firstLine": "Silence, ye troubled Waves, and thou Deep, peace,",
+      "lastLine": "Into one place, and let dry land appear.",
+      "verseLines": 69,
+      "words": 501,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "First Through Third Days",
+      "sourceRange": "Source lines 285-358 of Book VII",
+      "firstLine": "Immediately the mountains huge appear",
+      "lastLine": "And sowed with stars the Heaven, thick as a field:",
+      "verseLines": 74,
+      "words": 598,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "Fourth Day",
+      "sourceRange": "Source lines 359-424 of Book VII",
+      "firstLine": "Of light by far the greater part he took,",
+      "lastLine": "On cliffs and cedar tops their eyries build:",
+      "verseLines": 66,
+      "words": 514,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "Fifth Day",
+      "sourceRange": "Source lines 425-498 of Book VII",
+      "firstLine": "Part loosely wing the region, part more wise",
+      "lastLine": "Not noxious, but obedient at thy call.",
+      "verseLines": 74,
+      "words": 561,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "Sixth Day and Man",
+      "sourceRange": "Source lines 499-568 of Book VII",
+      "firstLine": "Now Heaven in all her glory shone, and rolled",
+      "lastLine": "Magnificent, his six days work, a World;",
+      "verseLines": 70,
+      "words": 529,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 7,
+      "title": "The Sabbath Hymn",
+      "sourceRange": "Source lines 569-640 of Book VII",
+      "firstLine": "Open, and henceforth oft; for God will deign",
+      "lastLine": "Aught, not surpassing human measure, say.",
+      "verseLines": 72,
+      "words": 525,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 8,
+      "title": "Adam Questions the Heavens",
+      "sourceRange": "Source lines 1-84 of Book VIII",
+      "firstLine": "The Angel ended, and in Adam’s ear",
+      "lastLine": "Cycle and epicycle, orb in orb:",
+      "verseLines": 84,
+      "words": 605,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 8,
+      "title": "Raphael Counsels Humility",
+      "sourceRange": "Source lines 85-162 of Book VIII",
+      "firstLine": "Already by thy reasoning this I guess,",
+      "lastLine": "He from the east his flaming road begin;",
+      "verseLines": 78,
+      "words": 589,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 8,
+      "title": "Adam Recalls Awakening",
+      "sourceRange": "Source lines 163-244 of Book VIII",
+      "firstLine": "Or she from west her silent course advance,",
+      "lastLine": "Torment, and loud lament, and furious rage.",
+      "verseLines": 82,
+      "words": 632,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 8,
+      "title": "Adam Meets His Maker",
+      "sourceRange": "Source lines 245-322 of Book VIII",
+      "firstLine": "Glad we returned up to the coasts of light",
+      "lastLine": "Eat freely with glad heart; fear here no dearth:",
+      "verseLines": 78,
+      "words": 629,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 8,
+      "title": "The Creatures Named",
+      "sourceRange": "Source lines 323-407 of Book VIII",
+      "firstLine": "But of the tree whose operation brings",
+      "lastLine": "Second to me or like, equal much less.",
+      "verseLines": 85,
+      "words": 629,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 8,
+      "title": "Eve Is Formed",
+      "sourceRange": "Source lines 408-490 of Book VIII",
+      "firstLine": "How have I then with whom to hold converse,",
+      "lastLine": "I, overjoyed, could not forbear aloud.",
+      "verseLines": 83,
+      "words": 622,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 8,
+      "title": "Raphael Warns of Passion",
+      "sourceRange": "Source lines 491-570 of Book VIII",
+      "firstLine": "This turn hath made amends; thou hast fulfilled",
+      "lastLine": "Not thy subjection: Weigh with her thyself;",
+      "verseLines": 80,
+      "words": 588,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 8,
+      "title": "The Angel Departs",
+      "sourceRange": "Source lines 571-653 of Book VIII",
+      "firstLine": "Then value: Oft-times nothing profits more",
+      "lastLine": "From the thick shade, and Adam to his bower.",
+      "verseLines": 83,
+      "words": 632,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "The Tragic Theme",
+      "sourceRange": "Source lines 1-123 of Book IX",
+      "firstLine": "No more of talk where God or Angel guest",
+      "lastLine": "Bane, and in Heaven much worse would be my state.",
+      "verseLines": 123,
+      "words": 894,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "Satan Returns as Serpent",
+      "sourceRange": "Source lines 124-240 of Book IX",
+      "firstLine": "But neither here seek I, no nor in Heaven",
+      "lastLine": "To brute denied, and are of love the food;",
+      "verseLines": 117,
+      "words": 915,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "The Debate Over Separate Work",
+      "sourceRange": "Source lines 241-356 of Book IX",
+      "firstLine": "Love, not the lowest end of human life.",
+      "lastLine": "To do what God expressly hath forbid.",
+      "verseLines": 116,
+      "words": 878,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "Eve Walks Alone",
+      "sourceRange": "Source lines 357-472 of Book IX",
+      "firstLine": "Not then mistrust, but tender love, enjoins,",
+      "lastLine": "Of mischief, gratulating, thus excites.",
+      "verseLines": 116,
+      "words": 870,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "The Serpent Approaches",
+      "sourceRange": "Source lines 473-593 of Book IX",
+      "firstLine": "Thoughts, whither have ye led me! with what sweet",
+      "lastLine": "Longing and envying stood, but could not reach.",
+      "verseLines": 121,
+      "words": 920,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "The Serpent’s Argument",
+      "sourceRange": "Source lines 594-712 of Book IX",
+      "firstLine": "Amid the tree now got, where plenty hung",
+      "lastLine": "I, of brute, human; ye, of human, Gods.",
+      "verseLines": 119,
+      "words": 938,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "Eve Eats",
+      "sourceRange": "Source lines 713-831 of Book IX",
+      "firstLine": "So ye shall die perhaps, by putting off",
+      "lastLine": "Adam shall share with me in bliss or woe:",
+      "verseLines": 119,
+      "words": 933,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "Adam Chooses Eve",
+      "sourceRange": "Source lines 832-951 of Book IX",
+      "firstLine": "So dear I love him, that with him all deaths",
+      "lastLine": "Matter of scorn, not to be given the Foe.",
+      "verseLines": 120,
+      "words": 925,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "Desire and Shame",
+      "sourceRange": "Source lines 952-1072 of Book IX",
+      "firstLine": "However I with thee have fixed my lot,",
+      "lastLine": "Both good and evil; good lost, and evil got;",
+      "verseLines": 121,
+      "words": 903,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 9,
+      "title": "The First Covering",
+      "sourceRange": "Source lines 1073-1189 of Book IX",
+      "firstLine": "Bad fruit of knowledge, if this be to know;",
+      "lastLine": "And of their vain contest appeared no end.",
+      "verseLines": 117,
+      "words": 905,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "Judgment Descends",
+      "sourceRange": "Source lines 1-110 of Book X",
+      "firstLine": "Mean while the heinous and despiteful act",
+      "lastLine": "To offend; discountenanced both, and discomposed;",
+      "verseLines": 110,
+      "words": 823,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "Adam and Eve Answer",
+      "sourceRange": "Source lines 111-221 of Book X",
+      "firstLine": "Love was not in their looks, either to God,",
+      "lastLine": "Of beasts, but inward nakedness, much more.",
+      "verseLines": 111,
+      "words": 865,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "The Sentences",
+      "sourceRange": "Source lines 222-331 of Book X",
+      "firstLine": "Opprobrious, with his robe of righteousness,",
+      "lastLine": "Their parent soon discerned, though in disguise.",
+      "verseLines": 110,
+      "words": 817,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "Sin and Death Build Their Way",
+      "sourceRange": "Source lines 332-448 of Book X",
+      "firstLine": "He, after Eve seduced, unminded slunk",
+      "lastLine": "He sat, and round about him saw unseen:",
+      "verseLines": 117,
+      "words": 869,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "Satan Returns in Triumph",
+      "sourceRange": "Source lines 449-555 of Book X",
+      "firstLine": "At last, as from a cloud, his fulgent head",
+      "lastLine": "Now risen, to work them further woe or shame;",
+      "verseLines": 107,
+      "words": 814,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "The Serpentine Punishment",
+      "sourceRange": "Source lines 556-667 of Book X",
+      "firstLine": "Yet, parched with scalding thirst and hunger fierce,",
+      "lastLine": "With terrour through the dark aereal hall.",
+      "verseLines": 112,
+      "words": 856,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "The Changed Creation",
+      "sourceRange": "Source lines 668-770 of Book X",
+      "firstLine": "Some say, he bid his Angels turn ascanse",
+      "lastLine": "That dust I am, and shall to dust return.",
+      "verseLines": 103,
+      "words": 790,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "Adam Despairs",
+      "sourceRange": "Source lines 771-882 of Book X",
+      "firstLine": "O welcome hour whenever! Why delays",
+      "lastLine": "Constant, mature, proof against all assaults;",
+      "verseLines": 112,
+      "words": 867,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "Eve Seeks Reconciliation",
+      "sourceRange": "Source lines 883-994 of Book X",
+      "firstLine": "And understood not all was but a show,",
+      "lastLine": "From love’s due rights, nuptial embraces sweet;",
+      "verseLines": 112,
+      "words": 839,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 10,
+      "title": "Repentance",
+      "sourceRange": "Source lines 995-1104 of Book X",
+      "firstLine": "And with desire to languish without hope,",
+      "lastLine": "Of sorrow unfeigned, and humiliation meek.",
+      "verseLines": 110,
+      "words": 840,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "Prayer Accepted",
+      "sourceRange": "Source lines 1-99 of Book XI",
+      "firstLine": "Thus they, in lowliest plight, repentant stood",
+      "lastLine": "Michael, this my behest have thou in charge;",
+      "verseLines": 99,
+      "words": 749,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "Michael Enters Paradise",
+      "sourceRange": "Source lines 100-200 of Book XI",
+      "firstLine": "Take to thee from among the Cherubim",
+      "lastLine": "And thither must return, and be no more?",
+      "verseLines": 101,
+      "words": 783,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "The Sentence of Exile",
+      "sourceRange": "Source lines 201-295 of Book XI",
+      "firstLine": "Why else this double object in our sight",
+      "lastLine": "To Michael thus his humble words addressed.",
+      "verseLines": 95,
+      "words": 733,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "The Hill of Vision",
+      "sourceRange": "Source lines 296-401 of Book XI",
+      "firstLine": "Celestial, whether among the Thrones, or named",
+      "lastLine": "Of Congo, and Angola farthest south;",
+      "verseLines": 106,
+      "words": 793,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "Cain and Abel",
+      "sourceRange": "Source lines 402-501 of Book XI",
+      "firstLine": "Or thence from Niger flood to Atlas mount",
+      "lastLine": "Degraded, to what wretched state reserved!",
+      "verseLines": 100,
+      "words": 766,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "The House of Disease",
+      "sourceRange": "Source lines 502-601 of Book XI",
+      "firstLine": "Better end here unborn. Why is life given",
+      "lastLine": "Those were of hate and death, or pain much worse;",
+      "verseLines": 100,
+      "words": 779,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "Violence Before the Flood",
+      "sourceRange": "Source lines 602-699 of Book XI",
+      "firstLine": "Here Nature seems fulfilled in all her ends.",
+      "lastLine": "And what most merits fame, in silence hid.",
+      "verseLines": 98,
+      "words": 745,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "Noah and the Ark",
+      "sourceRange": "Source lines 700-805 of Book XI",
+      "firstLine": "But he, the seventh from thee, whom thou beheldst",
+      "lastLine": "More than enough, that temperance may be tried:",
+      "verseLines": 106,
+      "words": 828,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 11,
+      "title": "The Rainbow Covenant",
+      "sourceRange": "Source lines 806-901 of Book XI",
+      "firstLine": "So all shall turn degenerate, all depraved;",
+      "lastLine": "Both Heaven and Earth, wherein the just shall dwell.",
+      "verseLines": 96,
+      "words": 763,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "After the Flood",
+      "sourceRange": "Source lines 1-66 of Book XII",
+      "firstLine": "As one who in his journey bates at noon,",
+      "lastLine": "Authority usurped, from God not given:",
+      "verseLines": 66,
+      "words": 492,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "Babel and Division",
+      "sourceRange": "Source lines 67-132 of Book XII",
+      "firstLine": "He gave us only over beast, fish, fowl,",
+      "lastLine": "Of herds and flocks, and numerous servitude;",
+      "verseLines": 66,
+      "words": 487,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "Abraham and the Promise",
+      "sourceRange": "Source lines 133-197 of Book XII",
+      "firstLine": "Not wandering poor, but trusting all his wealth",
+      "lastLine": "As on dry land, between two crystal walls;",
+      "verseLines": 65,
+      "words": 511,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "Exodus and Law",
+      "sourceRange": "Source lines 198-262 of Book XII",
+      "firstLine": "Awed by the rod of Moses so to stand",
+      "lastLine": "How many kings destroyed; and kingdoms won;",
+      "verseLines": 65,
+      "words": 488,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "Kings and Captivity",
+      "sourceRange": "Source lines 263-330 of Book XII",
+      "firstLine": "Or how the sun shall in mid Heaven stand still",
+      "lastLine": "The last; for of his reign shall be no end.",
+      "verseLines": 68,
+      "words": 509,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "The Messiah Foretold",
+      "sourceRange": "Source lines 331-392 of Book XII",
+      "firstLine": "But first, a long succession must ensue;",
+      "lastLine": "Disabled, not to give thee thy death’s wound:",
+      "verseLines": 62,
+      "words": 487,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "Incarnation and Redemption",
+      "sourceRange": "Source lines 393-455 of Book XII",
+      "firstLine": "Which he, who comes thy Saviour, shall recure,",
+      "lastLine": "Through all his realm, and there confounded leave;",
+      "verseLines": 63,
+      "words": 503,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "The Church and the End",
+      "sourceRange": "Source lines 456-514 of Book XII",
+      "firstLine": "Then enter into glory, and resume",
+      "lastLine": "Though not but by the Spirit understood.",
+      "verseLines": 59,
+      "words": 451,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "Paradise Within",
+      "sourceRange": "Source lines 515-587 of Book XII",
+      "firstLine": "Then shall they seek to avail themselves of names,",
+      "lastLine": "A Paradise within thee, happier far.—",
+      "verseLines": 73,
+      "words": 544,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    },
+    {
+      "book": 12,
+      "title": "The World Before Them",
+      "sourceRange": "Source lines 588-649 of Book XII",
+      "firstLine": "Let us descend now therefore from this top",
+      "lastLine": "Through Eden took their solitary way.",
+      "verseLines": 62,
+      "words": 478,
+      "rationale": "Cut at a complete verse-line and sentence boundary near the reviewed change of action, speaker, setting, or narrative frame."
+    }
+  ]
+}
