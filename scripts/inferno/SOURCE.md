@@ -21,4 +21,4 @@
 
 ## Reconstruction normalization
 
-The validator converts CRLF/CR to LF, removes trailing horizontal whitespace, removes empty lines, and joins the remaining lines with LF. Under that normalization, concatenating the scene drafts in canto and scene order must equal the retained source verse exactly. It separately checks canto, scene, verse-line, and word counts, plus the pinned source-file hash.
+Final scene drafts prefix every verse line with exactly two spaces to invoke Kathala’s verse layout. The validator removes exactly that added prefix (preserving any original source indentation), then converts CRLF/CR to LF, removes trailing horizontal whitespace, removes empty lines, and joins the remaining lines with LF. Under that normalization, concatenating the scene drafts in canto and scene order must equal the retained source verse exactly. It separately checks canto, scene, verse-line, and word counts, plus the pinned source-file hash.

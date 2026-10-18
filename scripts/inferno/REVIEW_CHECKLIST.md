@@ -25,6 +25,6 @@ This book-specific checklist applies `docs/AUTHORING.md` and `docs/CHECKLIST.md`
 ## Packaging and validation
 
 - [x] Reproducible final generator, dedicated validator, source and boundary audits, artwork manifest, and exact catalogue bytes complete.
-- [x] Downloadable Library PWK tested in the latest Kathala development UI in reading mode and full-data mode across every Book view, map, gateway, artwork panel, final verse, supporting page, and browser console.
+- [x] Application pass complete, including the verse-formatting correction: 197 verse blocks and all 4,720 lines render with preserved breaks. Download, reading and complete-data views, maps, gateways, playback, artwork, final verse, and console checks pass.
 - [x] Book validator, `npm run catalogue:check`, `npm test`, `npm run gate`, and `git diff --check` pass.
 - [x] Release evidence and exceptions recorded; no completion claim made before every applicable gate passes.

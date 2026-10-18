@@ -1,3 +1,4 @@
+import {formatVerse,sourceVerse} from './verse-format.mjs'
 import fs from 'node:fs'
 import crypto from 'node:crypto'
 import {cantos,verseText,verseLineCount,countWords,normalize,sourceSha256} from './source-text.mjs'
@@ -119,13 +120,13 @@ for(let ci=0;ci<cantos.length;ci++){
   const travelDays=lastTime[timeline]===null?0:Math.max(0,Math.floor(inWorldTime)-Math.floor(lastTime[timeline]));lastTime[timeline]=inWorldTime
   const thread=timeline==='descent'?'descent':timeline
   events.push({...stamp,id:eventId,chapterId,timelineId:id('timeline',timeline),title,description,locationMarkerId:id('loc',locKey),involvedCharacterIds:cast.map(key=>id('char',key)),mentionedCharacterIds:[],involvedItemIds:itemKeys.map(key=>id('item',key)),threadIds:[id('thread',thread)],motifIds:[id('motif',/word|speak|confess|account|prophe|names|asks|tells|reply|quarrel|rebuk/i.test(`${title} ${description}`)?'speech':/bridge|gate|river|road|climb|descent|passage|cross|path|shore|rim|slope|wood/i.test(`${title} ${locKey}`)?'passage':'body')],sortOrder:sortOrder++,travelDays,inWorldTime,tension,tags:[`Canto ${canto.label}, source lines ${points[si]+1}-${points[si+1]}`],structureBeat:null,status:'final',povCharacterId:cast.includes('dante')?id('char','dante'):cast[0]?id('char',cast[0]):null,isFlashback:timeline!=='descent'})
-  sceneTexts.push({...stamp,id:id('text',`${ci+1}-${si+1}`),eventId,text,wordCount:countWords(text)})
+  sceneTexts.push({...stamp,id:id('text',`${ci+1}-${si+1}`),eventId,text:formatVerse(text),wordCount:countWords(text)})
   const location=locationMarkers.find(loc=>loc.id===id('loc',locKey));if(!location)throw Error(`Unknown location ${locKey}`)
   cast.forEach((key,index)=>{firstEventByChar[key]??=eventId;characterSnapshots.push({...stamp,id:id('snapshot',`${ci+1}-${si+1}-${key}`),characterId:id('char',key),eventId,isAlive:key==='dante',currentLocationMarkerId:id('loc',locKey),currentMapLayerId:location.mapLayerId,inventoryItemIds:[],inventoryNotes:'',travelModeId:null,sortKey:sortOrder+index/100,statusNotes:reviewed.states[key]})})
   itemKeys.forEach((key,index)=>itemPlacements.push({...stamp,id:id('placement',`${ci+1}-${si+1}-${key}`),itemId:id('item',key),eventId,locationMarkerId:id('loc',locKey),sortKey:index,notes:`Directly present in “${title}”.`}))
  }
 }
-if(normalize(sceneTexts.map(scene=>scene.text).join('\n\n'))!==normalize(verseText))throw Error('Generated scenes do not reconstruct the complete poem')
+if(normalize(sceneTexts.map(scene=>sourceVerse(scene.text)).join('\n\n'))!==normalize(verseText))throw Error('Generated scenes do not reconstruct the complete poem')
 const first=title=>{const event=events.find(entry=>entry.title===title);if(!event)throw Error(`Unknown event: ${title}`);return event.id}
 characters.find(character=>character.id===id('char','geryon')).nameChanges=[{eventId:first('Mounting Fraud'),name:'Geryon'}]
 characters.find(character=>character.id===id('char','nicholas')).nameChanges=[{eventId:first('Nicholas Names the Succession'),name:'Pope Nicholas III'}]

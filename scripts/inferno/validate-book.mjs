@@ -1,3 +1,4 @@
+import {sourceVerse} from './verse-format.mjs'
 import fs from 'node:fs'
 import assert from 'node:assert/strict'
 import crypto from 'node:crypto'
@@ -32,14 +33,14 @@ for(const canto of cantos){
   const sceneTexts=world.sceneTexts.filter(scene=>scene.eventId===event.id)
   assert.equal(sceneTexts.length,1,`${event.title}: one scene text`)
   assert.equal(event.title,reviewed[index].title)
-  assert.equal(sceneTexts[0].text,canto.lines.slice(points[index],points[index+1]).join('\n'),`${event.title}: exact reviewed lines`)
+  assert.equal(sourceVerse(sceneTexts[0].text),canto.lines.slice(points[index],points[index+1]).join('\n'),`${event.title}: exact reviewed lines`)
   assert.deepEqual(new Set(event.involvedCharacterIds),new Set(Object.keys(reviewed[index].states).map(key=>`inferno-char-${key}`)),`${event.title}: physical cast`)
   const snapshots=world.characterSnapshots.filter(snapshot=>snapshot.eventId===event.id)
   assert.equal(snapshots.length,event.involvedCharacterIds.length,`${event.title}: one snapshot each`)
   assert.deepEqual(new Set(snapshots.map(s=>s.characterId)),new Set(event.involvedCharacterIds),`${event.title}: no extra snapshot`)
   assert.equal(new Set(snapshots.map(s=>s.characterId)).size,snapshots.length,`${event.title}: unique snapshot characters`)
   for(const [key,state] of Object.entries(reviewed[index].states))assert.equal(snapshots.find(s=>s.characterId===`inferno-char-${key}`).statusNotes,state,`${event.title}: reviewed state`)
-  texts.push(sceneTexts[0].text)
+  texts.push(sourceVerse(sceneTexts[0].text))
  }
  const text=texts.join('\n')
  assert.equal(normalize(text),normalize(canto.text),`Canto ${canto.label}: reconstruction`)

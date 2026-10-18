@@ -9,7 +9,7 @@ fs.writeFileSync(new URL('./SOURCE_AUDIT.json',import.meta.url),JSON.stringify({
  retained:{cantos:34,stanzaGroups:stanzaGroupCount,verseLines:verseLineCount,words:countWords(verseText),start:'Inferno: Canto I / Midway upon the journey of our life',end:'Thence we came forth to rebehold the stars.'},
  excluded:['Project Gutenberg header and licence','collection title and translator page','contents list','canto headings','blank packaging lines','Project Gutenberg footer'],
  spelling:'Longfellow’s English wording, capitalization, punctuation, apostrophes, and lineation are retained from the UTF-8 Project Gutenberg text. No modernization or silent correction is applied.',
- normalization:'CRLF and CR become LF; trailing whitespace and empty packaging lines are ignored; every nonempty retained verse line must otherwise match exactly.',
+ normalization:'Final scene drafts add a two-space presentation prefix to every verse line; remove exactly that prefix before source comparison. CRLF and CR become LF; trailing whitespace and empty packaging lines are ignored; every nonempty retained verse line must otherwise match exactly.',
 },null,2)+'\n')
 
 const records=cantos.flatMap(canto=>{const scenes=reviewedCantos[canto.number-1],points=reviewedBoundaries(canto);return scenes.map((scene,index)=>{

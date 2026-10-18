@@ -1,6 +1,6 @@
 {
   "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
-  "pwkSha256": "74094779c9fb667d59f8e31337ce98537ea04c1e61ef68afde3ec72fef3a4f87",
+  "pwkSha256": "ead00aab361435f58cdcc0145c1f8f102966738c536e2e31859d66c2869846fc",
   "download": true,
   "readingModeOpening": true,
   "readingModeSequentialReveal": true,
@@ -107,6 +107,11 @@
     }
   ],
   "finalLine": true,
+  "verseLayout": {
+    "blocks": 197,
+    "lines": 4720,
+    "preservesBreaks": true
+  },
   "locationChecks": [
     {
       "id": "inferno-loc-dark-wood",
