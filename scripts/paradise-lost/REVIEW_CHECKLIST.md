@@ -1,5 +1,7 @@
 # Paradise Lost release checklist
 
+**Correction review complete.** The original revalidation findings are retained in `REVALIDATION.md`; current source, model, artwork, map, test, and UI evidence is in `RELEASE_STATUS.md`.
+
 This book-specific checklist applies `docs/AUTHORING.md` and `docs/CHECKLIST.md`.
 
 ## Source and structure

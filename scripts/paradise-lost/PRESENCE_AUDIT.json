@@ -1,102 +1,123 @@
 {
   "title": "Paradise Lost",
   "policy": "Exactly one snapshot is assigned to every character physically present in an event. Mere mention, prophecy, or narration from an outer frame does not establish presence inside the represented event.",
-  "events": 110,
+  "events": 164,
   "records": [
     {
       "event": "The Argument and Invocation",
-      "sourceRange": "Book I, source lines 1-105",
+      "sourceRange": "Book I, source lines 1-26",
       "presentCharacters": [
         "The Poet"
       ],
       "snapshotCount": 1,
       "firstLine": "Of Man’s first disobedience, and the fruit",
-      "lastLine": "And shook his throne. What though the field be lost?",
+      "lastLine": "And justify the ways of God to men.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Awakening on the Burning Lake",
-      "sourceRange": "Book I, source lines 106-202",
+      "sourceRange": "Book I, source lines 27-220",
       "presentCharacters": [
         "Satan",
         "Beelzebub"
       ],
       "snapshotCount": 2,
-      "firstLine": "All is not lost—the unconquerable will,",
-      "lastLine": "Created hugest that swim th’ ocean-stream.",
+      "firstLine": "Say first—for Heaven hides nothing from thy view,",
+      "lastLine": "Treble confusion, wrath, and vengeance poured.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Shore of Hell",
-      "sourceRange": "Book I, source lines 203-298",
+      "sourceRange": "Book I, source lines 221-282",
       "presentCharacters": [
         "Satan",
         "Beelzebub"
       ],
       "snapshotCount": 2,
-      "firstLine": "Him, haply slumbering on the Norway foam,",
-      "lastLine": "Smote on him sore besides, vaulted with fire.",
+      "firstLine": "Forthwith upright he rears from off the pool",
+      "lastLine": "No wonder, fallen such a pernicious height!”",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Legions Roused",
+      "sourceRange": "Book I, source lines 283-375",
+      "presentCharacters": [
+        "Satan",
+        "Beelzebub"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "He scarce had ceased when the superior Fiend",
+      "lastLine": "And various idols through the heathen world.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Infernal Powers Assemble",
-      "sourceRange": "Book I, source lines 299-393",
+      "sourceRange": "Book I, source lines 376-521",
+      "presentCharacters": [
+        "Satan",
+        "Beelzebub",
+        "Moloch",
+        "Belial"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "Say, Muse, their names then known, who first, who last,",
+      "lastLine": "And o’er the Celtic roamed the utmost Isles.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Standard Raised",
+      "sourceRange": "Book I, source lines 522-621",
       "presentCharacters": [
         "Satan",
         "Beelzebub",
         "Moloch",
         "Belial",
-        "Mammon"
+        "Azazel"
       ],
       "snapshotCount": 5,
-      "firstLine": "Nathless he so endured, till on the beach",
-      "lastLine": "Of human sacrifice, and parents’ tears;",
+      "firstLine": "All these and more came flocking; but with looks",
+      "lastLine": "Words interwove with sighs found out their way:—",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Satan Addresses the Legions",
-      "sourceRange": "Book I, source lines 394-496",
+      "sourceRange": "Book I, source lines 622-669",
       "presentCharacters": [
         "Satan",
         "Beelzebub",
         "Moloch",
-        "Belial",
-        "Mammon"
+        "Belial"
       ],
-      "snapshotCount": 5,
-      "firstLine": "Though, for the noise of drums and timbrels loud,",
-      "lastLine": "With lust and violence the house of God?",
+      "snapshotCount": 4,
+      "firstLine": "“O myriads of immortal Spirits! O Powers",
+      "lastLine": "Hurling defiance toward the vault of Heaven.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Mammon Mines the Hill",
-      "sourceRange": "Book I, source lines 497-608",
+      "sourceRange": "Book I, source lines 670-709",
       "presentCharacters": [
         "Mammon"
       ],
       "snapshotCount": 1,
-      "firstLine": "In courts and palaces he also reigns,",
-      "lastLine": "For ever now to have their lot in pain—",
+      "firstLine": "There stood a hill not far, whose grisly top",
+      "lastLine": "To many a row of pipes the sound-board breathes.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Pandemonium Rises",
-      "sourceRange": "Book I, source lines 609-699",
+      "sourceRange": "Book I, source lines 710-751",
       "presentCharacters": [
-        "Satan",
-        "Beelzebub",
-        "Moloch",
-        "Belial",
-        "Mammon"
+        "Mulciber"
       ],
-      "snapshotCount": 5,
-      "firstLine": "Millions of Spirits for his fault amerced",
-      "lastLine": "And hands innumerable, scarce perform.",
+      "snapshotCount": 1,
+      "firstLine": "Anon out of the earth a fabric huge",
+      "lastLine": "With his industrious crew, to build in Hell.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Great Consult Begins",
-      "sourceRange": "Book I, source lines 700-798",
+      "sourceRange": "Book I, source lines 752-798",
       "presentCharacters": [
         "Satan",
         "Beelzebub",
@@ -105,13 +126,13 @@
         "Mammon"
       ],
       "snapshotCount": 5,
-      "firstLine": "Nigh on the plain, in many cells prepared,",
+      "firstLine": "Meanwhile the winged Heralds, by command",
       "lastLine": "And summons read, the great consult began.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Satan Opens the Council",
-      "sourceRange": "Book II, source lines 1-98",
+      "sourceRange": "Book II, source lines 1-42",
       "presentCharacters": [
         "Satan",
         "Beelzebub",
@@ -121,57 +142,72 @@
       ],
       "snapshotCount": 5,
       "firstLine": "High on a throne of royal state, which far",
-      "lastLine": "Than miserable to have eternal being!—",
+      "lastLine": "We now debate. Who can advise may speak.”",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Moloch Urges Open War",
-      "sourceRange": "Book II, source lines 99-193",
+      "sourceRange": "Book II, source lines 43-105",
       "presentCharacters": [
+        "Moloch",
         "Satan",
         "Beelzebub",
-        "Moloch",
         "Belial",
         "Mammon"
       ],
       "snapshotCount": 5,
-      "firstLine": "Or, if our substance be indeed divine,",
-      "lastLine": "Than wise to frustrate all our plots and wiles.",
+      "firstLine": "He ceased; and next him Moloch, sceptred king,",
+      "lastLine": "Which, if not victory, is yet revenge.”",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Belial Counsels Ease",
-      "sourceRange": "Book II, source lines 194-283",
+      "sourceRange": "Book II, source lines 106-225",
       "presentCharacters": [
+        "Belial",
         "Satan",
         "Beelzebub",
         "Moloch",
-        "Belial",
         "Mammon"
       ],
       "snapshotCount": 5,
-      "firstLine": "Shall we, then, live thus vile—the race of Heaven",
-      "lastLine": "All thoughts of war. Ye have what I advise.”",
+      "firstLine": "He ended frowning, and his look denounced",
+      "lastLine": "If we procure not to ourselves more woe.”",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Mammon Chooses Hell",
-      "sourceRange": "Book II, source lines 284-389",
+      "sourceRange": "Book II, source lines 226-283",
       "presentCharacters": [
+        "Mammon",
         "Satan",
         "Beelzebub",
+        "Moloch",
+        "Belial"
+      ],
+      "snapshotCount": 5,
+      "firstLine": "Thus Belial, with words clothed in reason’s garb,",
+      "lastLine": "All thoughts of war. Ye have what I advise.”",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Beelzebub Proposes Man",
+      "sourceRange": "Book II, source lines 284-416",
+      "presentCharacters": [
+        "Beelzebub",
+        "Satan",
         "Moloch",
         "Belial",
         "Mammon"
       ],
       "snapshotCount": 5,
       "firstLine": "He scarce had finished, when such murmur filled",
-      "lastLine": "They vote: whereat his speech he thus renews:—",
+      "lastLine": "The weight of all, and our last hope, relies.”",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
-      "event": "Beelzebub Proposes Man",
-      "sourceRange": "Book II, source lines 390-479",
+      "event": "Satan Takes the Venture",
+      "sourceRange": "Book II, source lines 417-505",
       "presentCharacters": [
         "Satan",
         "Beelzebub",
@@ -180,404 +216,573 @@
         "Mammon"
       ],
       "snapshotCount": 5,
-      "firstLine": "“Well have ye judged, well ended long debate,",
-      "lastLine": "Extol him equal to the Highest in Heaven.",
+      "firstLine": "This said, he sat; and expectation held",
+      "lastLine": "That day and night for his destruction wait!",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
-      "event": "Satan Takes the Venture",
-      "sourceRange": "Book II, source lines 480-576",
-      "presentCharacters": [
-        "Satan",
-        "Beelzebub"
-      ],
-      "snapshotCount": 2,
-      "firstLine": "Nor failed they to express how much they praised",
-      "lastLine": "Into the burning lake their baleful streams—",
+      "event": "The Host Disperses",
+      "sourceRange": "Book II, source lines 506-628",
+      "presentCharacters": [],
+      "snapshotCount": 0,
+      "firstLine": "The Stygian council thus dissolved; and forth",
+      "lastLine": "Gorgons, and Hydras, and Chimeras dire.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "At the Gates of Hell",
-      "sourceRange": "Book II, source lines 577-673",
+      "sourceRange": "Book II, source lines 629-726",
       "presentCharacters": [
         "Satan",
-        "Sin",
-        "Death"
+        "The Gatekeeper",
+        "The Armed Shape"
       ],
       "snapshotCount": 3,
-      "firstLine": "Abhorred Styx, the flood of deadly hate;",
-      "lastLine": "The likeness of a kingly crown had on.",
+      "firstLine": "Meanwhile the Adversary of God and Man,",
+      "lastLine": "Risen, and with hideous outcry rushed between.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Sin Tells Her Origin",
-      "sourceRange": "Book II, source lines 674-780",
+      "sourceRange": "Book II, source lines 727-814",
       "presentCharacters": [
+        "The Gatekeeper",
         "Satan",
-        "Sin",
-        "Death"
+        "The Armed Shape"
       ],
       "snapshotCount": 3,
-      "firstLine": "Satan was now at hand, and from his seat",
-      "lastLine": "Prodigious motion felt and rueful throes.",
+      "firstLine": "“O father, what intends thy hand,” she cried,",
+      "lastLine": "Save he who reigns above, none can resist.”",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Infernal Bargain",
+      "sourceRange": "Book II, source lines 815-870",
+      "presentCharacters": [
+        "Satan",
+        "The Gatekeeper",
+        "The Armed Shape"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "She finished; and the subtle Fiend his lore",
+      "lastLine": "Thy daughter and thy darling, without end.”",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Gate Opens",
-      "sourceRange": "Book II, source lines 781-863",
+      "sourceRange": "Book II, source lines 871-926",
       "presentCharacters": [
-        "Satan",
-        "Sin",
-        "Death"
+        "The Gatekeeper",
+        "The Armed Shape",
+        "Satan"
       ],
       "snapshotCount": 3,
-      "firstLine": "At last this odious offspring whom thou seest,",
-      "lastLine": "Of mine own brood, that on my bowels feed?",
+      "firstLine": "Thus saying, from her side the fatal key,",
+      "lastLine": "In mutiny had from her axle torn",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Satan Enters Chaos",
+      "sourceRange": "Book II, source lines 927-950",
+      "presentCharacters": [
+        "Satan"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "The steadfast Earth. At last his sail-broad vans",
+      "lastLine": "And swims, or sinks, or wades, or creeps, or flies.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Throne of Chaos",
-      "sourceRange": "Book II, source lines 864-967",
+      "sourceRange": "Book II, source lines 951-1009",
       "presentCharacters": [
         "Satan",
         "Chaos",
         "Night"
       ],
       "snapshotCount": 3,
-      "firstLine": "Thou art my father, thou my author, thou",
-      "lastLine": "And Discord with a thousand various mouths.",
+      "firstLine": "At length a universal hubbub wild",
+      "lastLine": "Havoc, and spoil, and ruin, are my gain.”",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Across the Wild Abyss",
-      "sourceRange": "Book II, source lines 968-1055",
+      "sourceRange": "Book II, source lines 1010-1055",
       "presentCharacters": [
         "Satan"
       ],
       "snapshotCount": 1,
-      "firstLine": "T’ whom Satan, turning boldly, thus:—“Ye Powers",
+      "firstLine": "He ceased; and Satan stayed not to reply,",
       "lastLine": "Accursed, and in a cursed hour, he hies.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Invocation to Holy Light",
-      "sourceRange": "Book III, source lines 1-93",
+      "sourceRange": "Book III, source lines 1-56",
       "presentCharacters": [
         "The Poet"
       ],
       "snapshotCount": 1,
       "firstLine": "Hail, holy Light, offspring of Heaven firstborn,",
-      "lastLine": "By some false guile pervert; and shall pervert;",
+      "lastLine": "Of things invisible to mortal sight.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Heaven Beholds Satan",
-      "sourceRange": "Book III, source lines 94-185",
+      "sourceRange": "Book III, source lines 57-227",
       "presentCharacters": [
         "God",
         "The Son"
       ],
       "snapshotCount": 2,
-      "firstLine": "For man will hearken to his glozing lies,",
-      "lastLine": "Elect above the rest; so is my will:",
+      "firstLine": "Now had the Almighty Father from above,",
+      "lastLine": "His dearest mediation thus renew’d.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Son Offers Himself",
-      "sourceRange": "Book III, source lines 186-281",
+      "sourceRange": "Book III, source lines 228-344",
       "presentCharacters": [
-        "God",
-        "The Son"
+        "The Son",
+        "God"
       ],
       "snapshotCount": 2,
-      "firstLine": "The rest shall hear me call, and oft be warn’d",
-      "lastLine": "By losing thee a while, the whole race lost.",
+      "firstLine": "Father, thy word is past, Man shall find grace;",
+      "lastLine": "Adore the Son, and honour him as me.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Heaven Acclaims the Son",
-      "sourceRange": "Book III, source lines 282-372",
+      "sourceRange": "Book III, source lines 345-416",
       "presentCharacters": [
         "God",
         "The Son"
       ],
       "snapshotCount": 2,
-      "firstLine": "Thou, therefore, whom thou only canst redeem,",
-      "lastLine": "Melodious part, such concord is in Heaven.",
+      "firstLine": "No sooner had the Almighty ceased, but all",
+      "lastLine": "Forget, nor from thy Father’s praise disjoin.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Satan Reaches the Universe",
-      "sourceRange": "Book III, source lines 373-463",
+      "sourceRange": "Book III, source lines 417-498",
       "presentCharacters": [
         "Satan"
       ],
       "snapshotCount": 1,
-      "firstLine": "Thee, Father, first they sung Omnipotent,",
-      "lastLine": "Betwixt the angelical and human kind.",
+      "firstLine": "Thus they in Heaven, above the starry sphere,",
+      "lastLine": "Long after; now unpeopled, and untrod.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Stair and the Golden Chain",
-      "sourceRange": "Book III, source lines 464-555",
+      "sourceRange": "Book III, source lines 499-555",
       "presentCharacters": [
         "Satan"
       ],
       "snapshotCount": 1,
-      "firstLine": "Hither of ill-joined sons and daughters born",
+      "firstLine": "All this dark globe the Fiend found as he passed,",
       "lastLine": "At sight of all this world beheld so fair.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
+      "event": "The Flight to the Sun",
+      "sourceRange": "Book III, source lines 556-613",
+      "presentCharacters": [
+        "Satan"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "Round he surveys (and well might, where he stood",
+      "lastLine": "Of colour glorious, and effect so rare?",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
       "event": "At the Sun",
-      "sourceRange": "Book III, source lines 556-654",
+      "sourceRange": "Book III, source lines 614-681",
       "presentCharacters": [
         "Satan",
         "Uriel"
       ],
       "snapshotCount": 2,
-      "firstLine": "Round he surveys (and well might, where he stood",
-      "lastLine": "O’er sea and land: him Satan thus accosts.",
+      "firstLine": "Here matter new to gaze the Devil met",
+      "lastLine": "To serve him better: Wise are all his ways.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Earth in Sight",
-      "sourceRange": "Book III, source lines 655-743",
+      "sourceRange": "Book III, source lines 682-743",
       "presentCharacters": [
-        "Satan",
-        "Uriel"
+        "Uriel",
+        "Satan"
       ],
       "snapshotCount": 2,
-      "firstLine": "Uriel, for thou of those seven Spirits that stand",
+      "firstLine": "So spake the false dissembler unperceived;",
       "lastLine": "Nor staid, till on Niphates’ top he lights.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Satan on Mount Niphates",
-      "sourceRange": "Book IV, source lines 1-102",
+      "sourceRange": "Book IV, source lines 1-113",
       "presentCharacters": [
         "Satan"
       ],
       "snapshotCount": 1,
       "firstLine": "O, for that warning voice, which he, who saw",
-      "lastLine": "Short intermission bought with double smart.",
+      "lastLine": "As Man ere long, and this new world, shall know.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Uriel Detects the Change",
+      "sourceRange": "Book IV, source lines 114-130",
+      "presentCharacters": [
+        "Uriel"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "Thus while he spake, each passion dimmed his face",
+      "lastLine": "As he supposed, all unobserved, unseen.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Wall of Paradise",
-      "sourceRange": "Book IV, source lines 103-204",
+      "sourceRange": "Book IV, source lines 131-193",
       "presentCharacters": [
         "Satan"
       ],
       "snapshotCount": 1,
-      "firstLine": "This knows my Punisher; therefore as far",
-      "lastLine": "To worst abuse, or to their meanest use.",
+      "firstLine": "So on he fares, and to the border comes",
+      "lastLine": "So since into his church lewd hirelings climb.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Paradise Surveyed",
-      "sourceRange": "Book IV, source lines 205-303",
+      "sourceRange": "Book IV, source lines 194-278",
       "presentCharacters": [
         "Satan"
       ],
       "snapshotCount": 1,
-      "firstLine": "Beneath him with new wonder now he views,",
-      "lastLine": "Clustering, but not beneath his shoulders broad:",
+      "firstLine": "Thence up he flew, and on the tree of life,",
+      "lastLine": "Hid Amalthea, and her florid son",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Adam and Eve",
-      "sourceRange": "Book IV, source lines 304-402",
+      "sourceRange": "Book IV, source lines 279-395",
       "presentCharacters": [
         "Adam",
         "Eve",
         "Satan"
       ],
       "snapshotCount": 3,
-      "firstLine": "She, as a veil, down to the slender waist",
-      "lastLine": "A lion now he stalks with fiery glare;",
-      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
-    },
-    {
-      "event": "Eve Remembers Her Awakening",
-      "sourceRange": "Book IV, source lines 403-511",
-      "presentCharacters": [
-        "Adam",
-        "Eve",
-        "Satan"
-      ],
-      "snapshotCount": 3,
-      "firstLine": "Then as a tiger, who by chance hath spied",
-      "lastLine": "Still unfulfilled with pain of longing pines.",
+      "firstLine": "Young Bacchus, from his stepdame Rhea’s eye;",
+      "lastLine": "Then from his lofty stand on that high tree",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Satan Overhears the Prohibition",
-      "sourceRange": "Book IV, source lines 512-609",
+      "sourceRange": "Book IV, source lines 396-439",
       "presentCharacters": [
         "Adam",
         "Eve",
         "Satan"
       ],
       "snapshotCount": 3,
-      "firstLine": "Yet let me not forget what I have gained",
-      "lastLine": "And o’er the dark her silver mantle threw.",
+      "firstLine": "Down he alights among the sportful herd",
+      "lastLine": "Which were it toilsome, yet with thee were sweet.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Eve Remembers Her Awakening",
+      "sourceRange": "Book IV, source lines 440-501",
+      "presentCharacters": [
+        "Eve",
+        "Adam",
+        "Satan"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "To whom thus Eve replied. O thou for whom",
+      "lastLine": "That shed Mayflowers; and pressed her matron lip",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Satan Designs the Temptation",
+      "sourceRange": "Book IV, source lines 502-538",
+      "presentCharacters": [
+        "Satan"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "With kisses pure: Aside the Devil turned",
+      "lastLine": "Through wood, through waste, o’er hill, o’er dale, his roam",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Uriel Warns Gabriel",
-      "sourceRange": "Book IV, source lines 610-710",
+      "sourceRange": "Book IV, source lines 539-597",
       "presentCharacters": [
         "Uriel",
         "Gabriel"
       ],
       "snapshotCount": 2,
-      "firstLine": "When Adam thus to Eve. Fair Consort, the hour",
-      "lastLine": "Espoused Eve decked first her nuptial bed;",
+      "firstLine": "Mean while in utmost longitude, where Heaven",
+      "lastLine": "The clouds that on his western throne attend.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
-      "event": "Evening Prayer",
-      "sourceRange": "Book IV, source lines 711-809",
+      "event": "Evening Conversation",
+      "sourceRange": "Book IV, source lines 598-688",
       "presentCharacters": [
         "Adam",
         "Eve"
       ],
       "snapshotCount": 2,
-      "firstLine": "And heavenly quires the hymenaean sung,",
-      "lastLine": "Blown up with high conceits ingendering pride.",
+      "firstLine": "Now came still Evening on, and Twilight gray",
+      "lastLine": "Divide the night, and lift our thoughts to Heaven.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Evening Prayer",
+      "sourceRange": "Book IV, source lines 689-775",
+      "presentCharacters": [
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Thus talking, hand in hand alone they passed",
+      "lastLine": "No happier state, and know to know no more.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Garden Watch",
+      "sourceRange": "Book IV, source lines 776-796",
+      "presentCharacters": [
+        "Gabriel",
+        "Ithuriel",
+        "Zephon",
+        "Uzziel"
+      ],
+      "snapshotCount": 4,
+      "firstLine": "Now had night measured with her shadowy cone",
+      "lastLine": "Such, where ye find, seise fast, and hither bring.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Satan at Eve’s Ear",
-      "sourceRange": "Book IV, source lines 810-916",
+      "sourceRange": "Book IV, source lines 797-860",
       "presentCharacters": [
+        "Satan",
+        "Eve",
+        "Adam",
+        "Ithuriel",
+        "Zephon"
+      ],
+      "snapshotCount": 5,
+      "firstLine": "So saying, on he led his radiant files,",
+      "lastLine": "He held it vain; awe from above had quelled",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Gabriel Confronts Satan",
+      "sourceRange": "Book IV, source lines 861-976",
+      "presentCharacters": [
+        "Gabriel",
         "Satan",
         "Ithuriel",
         "Zephon",
-        "Eve"
+        "Uzziel"
       ],
-      "snapshotCount": 4,
-      "firstLine": "Him thus intent Ithuriel with his spear",
-      "lastLine": "Can equal anger infinite provoked.",
+      "snapshotCount": 5,
+      "firstLine": "His heart, not else dismayed. Now drew they nigh",
+      "lastLine": "In progress through the road of Heaven star-paved.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Scales in Heaven",
-      "sourceRange": "Book IV, source lines 917-1015",
+      "sourceRange": "Book IV, source lines 977-1015",
       "presentCharacters": [
         "Satan",
-        "Gabriel"
+        "Gabriel",
+        "Ithuriel",
+        "Zephon",
+        "Uzziel"
       ],
-      "snapshotCount": 2,
-      "firstLine": "But wherefore thou alone? wherefore with thee",
+      "snapshotCount": 5,
+      "firstLine": "While thus he spake, the angelick squadron bright",
       "lastLine": "Murmuring, and with him fled the shades of night.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Eve’s Troubled Dream",
-      "sourceRange": "Book V, source lines 1-113",
+      "sourceRange": "Book V, source lines 1-135",
       "presentCharacters": [
-        "Adam",
-        "Eve"
+        "Eve",
+        "Adam"
       ],
       "snapshotCount": 2,
       "firstLine": "Now Morn, her rosy steps in the eastern clime",
-      "lastLine": "Ill matching words and deeds long past or late.",
+      "lastLine": "And pious awe, that feared to have offended.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Morning Worship",
-      "sourceRange": "Book V, source lines 114-228",
+      "sourceRange": "Book V, source lines 136-210",
       "presentCharacters": [
         "Adam",
         "Eve"
       ],
       "snapshotCount": 2,
-      "firstLine": "Some such resemblances, methinks, I find",
-      "lastLine": "In them at once to ruin all mankind.",
+      "firstLine": "So all was cleared, and to the field they haste.",
+      "lastLine": "Firm peace recovered soon, and wonted calm.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Raphael Commissioned",
+      "sourceRange": "Book V, source lines 211-245",
+      "presentCharacters": [
+        "God",
+        "Raphael"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "On to their morning’s rural work they haste,",
+      "lastLine": "Surprisal, unadmonished, unforewarned.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Raphael Descends",
-      "sourceRange": "Book V, source lines 229-336",
+      "sourceRange": "Book V, source lines 246-298",
       "presentCharacters": [
-        "Raphael",
+        "Raphael"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "So spake the Eternal Father, and fulfilled",
+      "lastLine": "Him through the spicy forest onward come",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Preparing Hospitality",
+      "sourceRange": "Book V, source lines 299-349",
+      "presentCharacters": [
         "Adam",
         "Eve"
       ],
-      "snapshotCount": 3,
-      "firstLine": "Go therefore, half this day as friend with friend",
-      "lastLine": "Taste after taste upheld with kindliest change;",
+      "snapshotCount": 2,
+      "firstLine": "Adam discerned, as in the door he sat",
+      "lastLine": "With rose and odours from the shrub unfumed.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Guest Received",
+      "sourceRange": "Book V, source lines 350-370",
+      "presentCharacters": [
+        "Adam",
+        "Raphael"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Mean while our primitive great sire, to meet",
+      "lastLine": "Be over, and the sun more cool decline.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Angelic Meal",
-      "sourceRange": "Book V, source lines 337-450",
+      "sourceRange": "Book V, source lines 371-450",
       "presentCharacters": [
-        "Raphael",
+        "Eve",
         "Adam",
-        "Eve"
+        "Raphael"
       ],
       "snapshotCount": 3,
-      "firstLine": "Bestirs her then, and from each tender stalk",
+      "firstLine": "Whom thus the angelick Virtue answered mild.",
       "lastLine": "Was understood, the injured lover’s hell.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
-      "event": "Free Obedience",
-      "sourceRange": "Book V, source lines 451-562",
+      "event": "Matter and Spirit",
+      "sourceRange": "Book V, source lines 451-505",
       "presentCharacters": [
-        "Raphael",
         "Adam",
+        "Raphael",
         "Eve"
       ],
       "snapshotCount": 3,
       "firstLine": "Thus when with meats and drinks they had sufficed,",
-      "lastLine": "After short pause assenting, thus began.",
+      "lastLine": "Can comprehend, incapable of more.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Free Obedience",
+      "sourceRange": "Book V, source lines 506-576",
+      "presentCharacters": [
+        "Adam",
+        "Raphael",
+        "Eve"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "To whom the patriarch of mankind replied.",
+      "lastLine": "Each to other like, more than on earth is thought?",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Son Exalted",
+      "sourceRange": "Book V, source lines 577-656",
+      "presentCharacters": [
+        "God",
+        "The Son",
+        "Satan"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "As yet this world was not, and Chaos wild",
+      "lastLine": "Melodious hymns about the sovran throne",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Satan’s First Revolt",
-      "sourceRange": "Book V, source lines 563-679",
+      "sourceRange": "Book V, source lines 657-710",
       "presentCharacters": [
         "Satan",
-        "Beelzebub",
-        "Abdiel"
+        "Beelzebub"
       ],
-      "snapshotCount": 3,
-      "firstLine": "High matter thou enjoinest me, O prime of men,",
-      "lastLine": "Thy sleep dissent? New laws thou seest imposed;",
+      "snapshotCount": 2,
+      "firstLine": "Alternate all night long: but not so waked",
+      "lastLine": "Drew after him the third part of Heaven’s host.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Heaven Sees the Mustering",
+      "sourceRange": "Book V, source lines 711-742",
+      "presentCharacters": [
+        "God",
+        "The Son"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Mean while the Eternal eye, whose sight discerns",
+      "lastLine": "Thy rebels, or be found the worst in Heaven.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Northern Mustering",
-      "sourceRange": "Book V, source lines 680-793",
+      "sourceRange": "Book V, source lines 743-802",
       "presentCharacters": [
         "Satan",
-        "Beelzebub",
-        "Abdiel"
+        "Beelzebub"
       ],
-      "snapshotCount": 3,
-      "firstLine": "New laws from him who reigns, new minds may raise",
-      "lastLine": "Jar not with liberty, but well consist.",
+      "snapshotCount": 2,
+      "firstLine": "So spake the Son; but Satan, with his Powers,",
+      "lastLine": "Our being ordained to govern, not to serve.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Abdiel Answers Satan",
-      "sourceRange": "Book V, source lines 794-907",
+      "sourceRange": "Book V, source lines 803-907",
       "presentCharacters": [
-        "Satan",
-        "Abdiel"
+        "Abdiel",
+        "Satan"
       ],
       "snapshotCount": 2,
-      "firstLine": "Who can in reason then, or right, assume",
+      "firstLine": "Thus far his bold discourse without controul",
       "lastLine": "On those proud towers to swift destruction doomed.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Abdiel Returns",
-      "sourceRange": "Book VI, source lines 1-102",
+      "sourceRange": "Book VI, source lines 1-60",
       "presentCharacters": [
         "Abdiel",
         "God",
@@ -586,12 +791,12 @@
       ],
       "snapshotCount": 4,
       "firstLine": "All night the dreadless Angel, unpursued,",
-      "lastLine": "With flaming Cherubim, and golden shields;",
+      "lastLine": "Ethereal trumpet from on high ’gan blow:",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Armies Meet",
-      "sourceRange": "Book VI, source lines 103-214",
+      "sourceRange": "Book VI, source lines 61-113",
       "presentCharacters": [
         "Michael",
         "Gabriel",
@@ -599,25 +804,25 @@
         "Abdiel"
       ],
       "snapshotCount": 4,
-      "firstLine": "Then lighted from his gorgeous throne, for now",
-      "lastLine": "And flying vaulted either host with fire.",
+      "firstLine": "At which command the Powers militant,",
+      "lastLine": "And thus his own undaunted heart explores.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Abdiel Strikes Satan",
-      "sourceRange": "Book VI, source lines 215-303",
+      "sourceRange": "Book VI, source lines 114-201",
       "presentCharacters": [
-        "Satan",
-        "Abdiel"
+        "Abdiel",
+        "Satan"
       ],
       "snapshotCount": 2,
-      "firstLine": "So under fiery cope together rushed",
-      "lastLine": "Fit to decide the empire of great Heaven.",
+      "firstLine": "O Heaven! that such resemblance of the Highest",
+      "lastLine": "Presage of victory, and fierce desire",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "First Day of War",
-      "sourceRange": "Book VI, source lines 304-408",
+      "sourceRange": "Book VI, source lines 202-245",
       "presentCharacters": [
         "Michael",
         "Gabriel",
@@ -625,749 +830,1194 @@
         "Abdiel"
       ],
       "snapshotCount": 4,
-      "firstLine": "Now waved their fiery swords, and in the air",
-      "lastLine": "And silence on the odious din of war:",
+      "firstLine": "Of battle: Whereat Michael bid sound",
+      "lastLine": "Conflicting fire. Long time in even scale",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Michael Wounds Satan",
+      "sourceRange": "Book VI, source lines 246-353",
+      "presentCharacters": [
+        "Michael",
+        "Satan"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "The battle hung; till Satan, who that day",
+      "lastLine": "Assume, as likes them best, condense or rare.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Rebels Driven Back",
+      "sourceRange": "Book VI, source lines 354-405",
+      "presentCharacters": [
+        "Gabriel",
+        "Moloch",
+        "Abdiel",
+        "Uriel",
+        "Raphael"
+      ],
+      "snapshotCount": 5,
+      "firstLine": "Mean while in other parts like deeds deserved",
+      "lastLine": "By wound, though from their place by violence moved,",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Night Council",
+      "sourceRange": "Book VI, source lines 406-495",
+      "presentCharacters": [
+        "Satan",
+        "Nisroch"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Now Night her course began, and, over Heaven",
+      "lastLine": "Think nothing hard, much less to be despaired.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Infernal Artillery",
-      "sourceRange": "Book VI, source lines 409-507",
+      "sourceRange": "Book VI, source lines 496-523",
       "presentCharacters": [
         "Satan",
-        "Beelzebub"
+        "Nisroch"
       ],
       "snapshotCount": 2,
-      "firstLine": "Under her cloudy covert both retired,",
-      "lastLine": "Forthwith from council to the work they flew;",
+      "firstLine": "He ended, and his words their drooping cheer",
+      "lastLine": "With silent circumspection, unespied.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
-      "event": "The Mountains of Heaven",
-      "sourceRange": "Book VI, source lines 508-608",
+      "event": "The Engines Unveiled",
+      "sourceRange": "Book VI, source lines 524-608",
       "presentCharacters": [
-        "Michael",
-        "Gabriel",
-        "Satan"
+        "Satan",
+        "Michael"
       ],
-      "snapshotCount": 3,
-      "firstLine": "None arguing stood; innumerable hands",
+      "snapshotCount": 2,
+      "firstLine": "Now when fair morn orient in Heaven appeared,",
       "lastLine": "And to his mates thus in derision called.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
+      "event": "The Mountains of Heaven",
+      "sourceRange": "Book VI, source lines 609-668",
+      "presentCharacters": [
+        "Satan",
+        "Michael"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "O Friends! why come not on these victors proud",
+      "lastLine": "To this uproar; horrid confusion heaped",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
       "event": "The Son Takes the Field",
-      "sourceRange": "Book VI, source lines 609-709",
+      "sourceRange": "Book VI, source lines 669-745",
       "presentCharacters": [
         "God",
         "The Son"
       ],
       "snapshotCount": 2,
-      "firstLine": "O Friends! why come not on these victors proud",
-      "lastLine": "By sacred unction, thy deserved right.",
+      "firstLine": "Upon confusion rose: And now all Heaven",
+      "lastLine": "Hymns of high praise, and I among them Chief.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Son Restores the Field",
+      "sourceRange": "Book VI, source lines 746-823",
+      "presentCharacters": [
+        "The Son",
+        "Michael",
+        "Gabriel"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "So said, he, o’er his scepter bowing, rose",
+      "lastLine": "Nor other strife with them do I vouchsafe.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Rebels Cast Out",
-      "sourceRange": "Book VI, source lines 710-808",
+      "sourceRange": "Book VI, source lines 824-877",
       "presentCharacters": [
         "The Son",
-        "Satan",
-        "Beelzebub"
+        "Satan"
       ],
-      "snapshotCount": 3,
-      "firstLine": "Go then, Thou Mightiest, in thy Father’s might;",
-      "lastLine": "Vengeance is his, or whose he sole appoints:",
+      "snapshotCount": 2,
+      "firstLine": "So spake the Son, and into terrour changed",
+      "lastLine": "Unquenchable, the house of woe and pain.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Son Returns in Triumph",
+      "sourceRange": "Book VI, source lines 878-892",
+      "presentCharacters": [
+        "The Son",
+        "God"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Disburdened Heaven rejoiced, and soon repaired",
+      "lastLine": "Where now he sits at the right hand of bliss.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Raphael Ends the Warning",
-      "sourceRange": "Book VI, source lines 809-912",
+      "sourceRange": "Book VI, source lines 893-912",
       "presentCharacters": [
         "Raphael",
         "Adam",
         "Eve"
       ],
       "snapshotCount": 3,
-      "firstLine": "Number to this day’s work is not ordained,",
+      "firstLine": "Thus, measuring things in Heaven by things on Earth,",
       "lastLine": "Yet fell; remember, and fear to transgress.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Invocation to Urania",
-      "sourceRange": "Book VII, source lines 1-69",
+      "sourceRange": "Book VII, source lines 1-39",
       "presentCharacters": [
         "The Poet"
       ],
       "snapshotCount": 1,
       "firstLine": "Descend from Heaven, Urania, by that name",
-      "lastLine": "Proceeded thus to ask his heavenly guest.",
+      "lastLine": "For thou art heavenly, she an empty dream.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Adam Asks of Creation",
-      "sourceRange": "Book VII, source lines 70-144",
+      "sourceRange": "Book VII, source lines 40-130",
       "presentCharacters": [
         "Adam",
-        "Raphael",
-        "Eve"
+        "Eve",
+        "Raphael"
       ],
       "snapshotCount": 3,
-      "firstLine": "Great things, and full of wonder in our ears,",
-      "lastLine": "Drew many, whom their place knows here no more:",
+      "firstLine": "Say, Goddess, what ensued when Raphael,",
+      "lastLine": "Wisdom to folly, as nourishment to wind.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "God Declares Creation",
-      "sourceRange": "Book VII, source lines 145-215",
+      "sourceRange": "Book VII, source lines 131-179",
       "presentCharacters": [
         "God",
         "The Son"
       ],
       "snapshotCount": 2,
-      "firstLine": "Yet far the greater part have kept, I see,",
-      "lastLine": "Heaven’s highth, and with the center mix the pole.",
+      "firstLine": "Know then, that, after Lucifer from Heaven",
+      "lastLine": "So told as earthly notion can receive.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Son Enters Chaos",
-      "sourceRange": "Book VII, source lines 216-284",
+      "sourceRange": "Book VII, source lines 180-242",
       "presentCharacters": [
         "The Son"
       ],
       "snapshotCount": 1,
-      "firstLine": "Silence, ye troubled Waves, and thou Deep, peace,",
-      "lastLine": "Into one place, and let dry land appear.",
+      "firstLine": "Great triumph and rejoicing was in Heaven,",
+      "lastLine": "And Earth self-balanced on her center hung.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
-      "event": "First Through Third Days",
-      "sourceRange": "Book VII, source lines 285-358",
+      "event": "First Day",
+      "sourceRange": "Book VII, source lines 243-260",
       "presentCharacters": [
         "The Son"
       ],
       "snapshotCount": 1,
-      "firstLine": "Immediately the mountains huge appear",
-      "lastLine": "And sowed with stars the Heaven, thick as a field:",
+      "firstLine": "Let there be light, said God; and forthwith Light",
+      "lastLine": "Both when first evening was, and when first morn.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Second Day",
+      "sourceRange": "Book VII, source lines 261-275",
+      "presentCharacters": [
+        "The Son"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "Again, God said, Let there be firmament",
+      "lastLine": "And morning chorus sung the second day.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Third Day",
+      "sourceRange": "Book VII, source lines 276-338",
+      "presentCharacters": [
+        "The Son"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "The Earth was formed, but in the womb as yet",
+      "lastLine": "So even and morn recorded the third day.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Fourth Day",
-      "sourceRange": "Book VII, source lines 359-424",
+      "sourceRange": "Book VII, source lines 339-386",
       "presentCharacters": [
         "The Son"
       ],
       "snapshotCount": 1,
-      "firstLine": "Of light by far the greater part he took,",
-      "lastLine": "On cliffs and cedar tops their eyries build:",
+      "firstLine": "Again the Almighty spake, Let there be lights",
+      "lastLine": "Glad evening and glad morn crowned the fourth day.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Fifth Day",
-      "sourceRange": "Book VII, source lines 425-498",
+      "sourceRange": "Book VII, source lines 387-448",
       "presentCharacters": [
         "The Son"
       ],
       "snapshotCount": 1,
-      "firstLine": "Part loosely wing the region, part more wise",
-      "lastLine": "Not noxious, but obedient at thy call.",
+      "firstLine": "And God said, Let the waters generate",
+      "lastLine": "Evening and morn solemnized the fifth day.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Animals Created",
+      "sourceRange": "Book VII, source lines 449-504",
+      "presentCharacters": [
+        "The Son"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "The sixth, and of creation last, arose",
+      "lastLine": "Frequent; and of the sixth day yet remained:",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Sixth Day and Man",
-      "sourceRange": "Book VII, source lines 499-568",
+      "sourceRange": "Book VII, source lines 505-547",
       "presentCharacters": [
         "God",
         "The Son",
-        "Adam"
+        "Adam",
+        "Eve"
       ],
-      "snapshotCount": 3,
-      "firstLine": "Now Heaven in all her glory shone, and rolled",
-      "lastLine": "Magnificent, his six days work, a World;",
+      "snapshotCount": 4,
+      "firstLine": "There wanted yet the master-work, the end",
+      "lastLine": "Surprise thee, and her black attendant Death.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Sabbath Hymn",
-      "sourceRange": "Book VII, source lines 569-640",
+      "sourceRange": "Book VII, source lines 548-634",
       "presentCharacters": [
-        "God",
-        "The Son"
+        "The Son",
+        "God"
       ],
       "snapshotCount": 2,
-      "firstLine": "Open, and henceforth oft; for God will deign",
+      "firstLine": "Here finished he, and all that he had made",
+      "lastLine": "With halleluiahs: Thus was sabbath kept.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Creation’s Account Ends",
+      "sourceRange": "Book VII, source lines 635-640",
+      "presentCharacters": [
+        "Raphael",
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And thy request think now fulfilled, that asked",
       "lastLine": "Aught, not surpassing human measure, say.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Adam Questions the Heavens",
-      "sourceRange": "Book VIII, source lines 1-84",
+      "sourceRange": "Book VIII, source lines 1-63",
       "presentCharacters": [
         "Adam",
-        "Raphael"
+        "Raphael",
+        "Eve"
       ],
-      "snapshotCount": 2,
+      "snapshotCount": 3,
       "firstLine": "The Angel ended, and in Adam’s ear",
-      "lastLine": "Cycle and epicycle, orb in orb:",
+      "lastLine": "Into all eyes, to wish her still in sight.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Raphael Counsels Humility",
-      "sourceRange": "Book VIII, source lines 85-162",
+      "sourceRange": "Book VIII, source lines 64-178",
+      "presentCharacters": [
+        "Raphael",
+        "Adam"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "And Raphael now, to Adam’s doubt proposed,",
+      "lastLine": "Not of Earth only, but of highest Heaven.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Adam Offers His History",
+      "sourceRange": "Book VIII, source lines 179-249",
       "presentCharacters": [
         "Adam",
         "Raphael"
       ],
       "snapshotCount": 2,
-      "firstLine": "Already by thy reasoning this I guess,",
-      "lastLine": "He from the east his flaming road begin;",
+      "firstLine": "To whom thus Adam, cleared of doubt, replied.",
+      "lastLine": "So spake the Godlike Power, and thus our Sire.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Adam Recalls Awakening",
-      "sourceRange": "Book VIII, source lines 163-244",
+      "sourceRange": "Book VIII, source lines 250-291",
       "presentCharacters": [
         "Adam"
       ],
       "snapshotCount": 1,
-      "firstLine": "Or she from west her silent course advance,",
-      "lastLine": "Torment, and loud lament, and furious rage.",
+      "firstLine": "For Man to tell how human life began",
+      "lastLine": "Insensible, and forthwith to dissolve:",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Adam Meets His Maker",
-      "sourceRange": "Book VIII, source lines 245-322",
+      "sourceRange": "Book VIII, source lines 292-332",
       "presentCharacters": [
         "Adam",
         "God"
       ],
       "snapshotCount": 2,
-      "firstLine": "Glad we returned up to the coasts of light",
-      "lastLine": "Eat freely with glad heart; fear here no dearth:",
+      "firstLine": "When suddenly stood at my head a dream,",
+      "lastLine": "Shalt lose, expelled from hence into a world",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Creatures Named",
-      "sourceRange": "Book VIII, source lines 323-407",
+      "sourceRange": "Book VIII, source lines 333-355",
+      "presentCharacters": [
+        "God",
+        "Adam"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Of woe and sorrow.” Sternly he pronounced",
+      "lastLine": "I found not what methought I wanted still;",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Adam Asks for Companionship",
+      "sourceRange": "Book VIII, source lines 356-451",
       "presentCharacters": [
         "Adam",
         "God"
       ],
       "snapshotCount": 2,
-      "firstLine": "But of the tree whose operation brings",
-      "lastLine": "Second to me or like, equal much less.",
+      "firstLine": "And to the heavenly Vision thus presumed.",
+      "lastLine": "Thy wish exactly to thy heart’s desire.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Eve Is Formed",
-      "sourceRange": "Book VIII, source lines 408-490",
+      "sourceRange": "Book VIII, source lines 452-480",
       "presentCharacters": [
         "Adam",
-        "Eve",
-        "God"
+        "God",
+        "Eve"
       ],
       "snapshotCount": 3,
-      "firstLine": "How have I then with whom to hold converse,",
-      "lastLine": "I, overjoyed, could not forbear aloud.",
+      "firstLine": "He ended, or I heard no more; for now",
+      "lastLine": "Her loss, and other pleasures all abjure:",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The First Union",
+      "sourceRange": "Book VIII, source lines 481-520",
+      "presentCharacters": [
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "When out of hope, behold her, not far off,",
+      "lastLine": "On his hill top, to light the bridal lamp.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Adam Admits His Passion",
+      "sourceRange": "Book VIII, source lines 521-559",
+      "presentCharacters": [
+        "Adam",
+        "Raphael"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Thus have I told thee all my state, and brought",
+      "lastLine": "About her, as a guard angelick placed.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Raphael Warns of Passion",
-      "sourceRange": "Book VIII, source lines 491-570",
+      "sourceRange": "Book VIII, source lines 560-629",
       "presentCharacters": [
-        "Adam",
         "Raphael",
-        "Eve"
+        "Adam"
       ],
-      "snapshotCount": 3,
-      "firstLine": "This turn hath made amends; thou hast fulfilled",
-      "lastLine": "Not thy subjection: Weigh with her thyself;",
+      "snapshotCount": 2,
+      "firstLine": "To whom the Angel with contracted brow.",
+      "lastLine": "As flesh to mix with flesh, or soul with soul.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Angel Departs",
-      "sourceRange": "Book VIII, source lines 571-653",
+      "sourceRange": "Book VIII, source lines 630-653",
       "presentCharacters": [
-        "Adam",
         "Raphael",
-        "Eve"
+        "Adam"
       ],
-      "snapshotCount": 3,
-      "firstLine": "Then value: Oft-times nothing profits more",
+      "snapshotCount": 2,
+      "firstLine": "But I can now no more; the parting sun",
       "lastLine": "From the thick shade, and Adam to his bower.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Tragic Theme",
-      "sourceRange": "Book IX, source lines 1-123",
+      "sourceRange": "Book IX, source lines 1-47",
       "presentCharacters": [
         "The Poet"
       ],
       "snapshotCount": 1,
       "firstLine": "No more of talk where God or Angel guest",
-      "lastLine": "Bane, and in Heaven much worse would be my state.",
+      "lastLine": "Not hers, who brings it nightly to my ear.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Satan Returns as Serpent",
-      "sourceRange": "Book IX, source lines 124-240",
+      "sourceRange": "Book IX, source lines 48-191",
       "presentCharacters": [
         "Satan"
       ],
       "snapshotCount": 1,
-      "firstLine": "But neither here seek I, no nor in Heaven",
-      "lastLine": "To brute denied, and are of love the food;",
+      "firstLine": "The sun was sunk, and after him the star",
+      "lastLine": "Disturbed not, waiting close the approach of morn.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Debate Over Separate Work",
-      "sourceRange": "Book IX, source lines 241-356",
+      "sourceRange": "Book IX, source lines 192-384",
       "presentCharacters": [
-        "Adam",
-        "Eve"
+        "Eve",
+        "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Love, not the lowest end of human life.",
-      "lastLine": "To do what God expressly hath forbid.",
+      "firstLine": "Now, when as sacred light began to dawn",
+      "lastLine": "So bent, the more shall shame him his repulse.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Eve Walks Alone",
-      "sourceRange": "Book IX, source lines 357-472",
+      "sourceRange": "Book IX, source lines 385-403",
       "presentCharacters": [
+        "Eve",
+        "Adam"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Thus saying, from her husband’s hand her hand",
+      "lastLine": "Noontide repast, or afternoon’s repose.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Tempter Finds Eve",
+      "sourceRange": "Book IX, source lines 404-493",
+      "presentCharacters": [
+        "Satan",
         "Eve"
       ],
-      "snapshotCount": 1,
-      "firstLine": "Not then mistrust, but tender love, enjoins,",
-      "lastLine": "Of mischief, gratulating, thus excites.",
+      "snapshotCount": 2,
+      "firstLine": "O much deceived, much failing, hapless Eve,",
+      "lastLine": "The way which to her ruin now I tend.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Serpent Approaches",
-      "sourceRange": "Book IX, source lines 473-593",
+      "sourceRange": "Book IX, source lines 494-549",
       "presentCharacters": [
         "Satan",
         "Eve"
       ],
       "snapshotCount": 2,
-      "firstLine": "Thoughts, whither have ye led me! with what sweet",
-      "lastLine": "Longing and envying stood, but could not reach.",
+      "firstLine": "So spake the enemy of mankind, enclosed",
+      "lastLine": "So glozed the Tempter, and his proem tuned:",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
-      "event": "The Serpent’s Argument",
-      "sourceRange": "Book IX, source lines 594-712",
-      "presentCharacters": [
-        "Satan",
-        "Eve"
-      ],
-      "snapshotCount": 2,
-      "firstLine": "Amid the tree now got, where plenty hung",
-      "lastLine": "I, of brute, human; ye, of human, Gods.",
-      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
-    },
-    {
-      "event": "Eve Eats",
-      "sourceRange": "Book IX, source lines 713-831",
+      "event": "The Claim of Speech",
+      "sourceRange": "Book IX, source lines 550-612",
       "presentCharacters": [
         "Eve",
         "Satan"
       ],
       "snapshotCount": 2,
-      "firstLine": "So ye shall die perhaps, by putting off",
-      "lastLine": "Adam shall share with me in bliss or woe:",
+      "firstLine": "Into the heart of Eve his words made way,",
+      "lastLine": "Sovran of creatures, universal Dame!",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Path to the Tree",
+      "sourceRange": "Book IX, source lines 613-666",
+      "presentCharacters": [
+        "Satan",
+        "Eve"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "So talked the spirited sly Snake; and Eve,",
+      "lastLine": "To Man, and indignation at his wrong,",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Serpent’s Argument",
+      "sourceRange": "Book IX, source lines 667-732",
+      "presentCharacters": [
+        "Satan",
+        "Eve"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "New part puts on; and, as to passion moved,",
+      "lastLine": "Goddess humane, reach then, and freely taste!",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Eve Weighs the Fruit",
+      "sourceRange": "Book IX, source lines 733-779",
+      "presentCharacters": [
+        "Eve",
+        "Satan"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "He ended; and his words, replete with guile,",
+      "lastLine": "To reach, and feed at once both body and mind?",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Eve Eats",
+      "sourceRange": "Book IX, source lines 780-792",
+      "presentCharacters": [
+        "Eve",
+        "Satan"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "So saying, her rash hand in evil hour",
+      "lastLine": "And knew not eating death: Satiate at length,",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Eve Considers Adam",
+      "sourceRange": "Book IX, source lines 793-833",
+      "presentCharacters": [
+        "Eve"
+      ],
+      "snapshotCount": 1,
+      "firstLine": "And hightened as with wine, jocund and boon,",
+      "lastLine": "I could endure, without him live no life.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Eve Returns to Adam",
+      "sourceRange": "Book IX, source lines 834-893",
+      "presentCharacters": [
+        "Eve",
+        "Adam"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "So saying, from the tree her step she turned;",
+      "lastLine": "Down dropt, and all the faded roses shed:",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Adam Chooses Eve",
-      "sourceRange": "Book IX, source lines 832-951",
+      "sourceRange": "Book IX, source lines 894-989",
       "presentCharacters": [
         "Adam",
         "Eve"
       ],
       "snapshotCount": 2,
-      "firstLine": "So dear I love him, that with him all deaths",
-      "lastLine": "Matter of scorn, not to be given the Foe.",
+      "firstLine": "Speechless he stood and pale, till thus at length",
+      "lastLine": "And fear of death deliver to the winds.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Adam Eats",
+      "sourceRange": "Book IX, source lines 990-1008",
+      "presentCharacters": [
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "So saying, she embraced him, and for joy",
+      "lastLine": "As with new wine intoxicated both,",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Desire and Shame",
-      "sourceRange": "Book IX, source lines 952-1072",
+      "sourceRange": "Book IX, source lines 1009-1090",
       "presentCharacters": [
         "Adam",
         "Eve"
       ],
       "snapshotCount": 2,
-      "firstLine": "However I with thee have fixed my lot,",
-      "lastLine": "Both good and evil; good lost, and evil got;",
+      "firstLine": "They swim in mirth, and fancy that they feel",
+      "lastLine": "Hide me, where I may never see them more!—",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The First Covering",
-      "sourceRange": "Book IX, source lines 1073-1189",
+      "sourceRange": "Book IX, source lines 1091-1118",
       "presentCharacters": [
         "Adam",
         "Eve"
       ],
       "snapshotCount": 2,
-      "firstLine": "Bad fruit of knowledge, if this be to know;",
+      "firstLine": "But let us now, as in bad plight, devise",
+      "lastLine": "Among the trees on isles and woody shores.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Mutual Accusation",
+      "sourceRange": "Book IX, source lines 1119-1189",
+      "presentCharacters": [
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Thus fenced, and, as they thought, their shame in part",
       "lastLine": "And of their vain contest appeared no end.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
-      "event": "Judgment Descends",
-      "sourceRange": "Book X, source lines 1-110",
-      "presentCharacters": [
-        "The Son",
-        "Adam",
-        "Eve"
-      ],
-      "snapshotCount": 3,
-      "firstLine": "Mean while the heinous and despiteful act",
-      "lastLine": "To offend; discountenanced both, and discomposed;",
-      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
-    },
-    {
-      "event": "Adam and Eve Answer",
-      "sourceRange": "Book X, source lines 111-221",
-      "presentCharacters": [
-        "The Son",
-        "Adam",
-        "Eve"
-      ],
-      "snapshotCount": 3,
-      "firstLine": "Love was not in their looks, either to God,",
-      "lastLine": "Of beasts, but inward nakedness, much more.",
-      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
-    },
-    {
-      "event": "The Sentences",
-      "sourceRange": "Book X, source lines 222-331",
-      "presentCharacters": [
-        "The Son",
-        "Adam",
-        "Eve"
-      ],
-      "snapshotCount": 3,
-      "firstLine": "Opprobrious, with his robe of righteousness,",
-      "lastLine": "Their parent soon discerned, though in disguise.",
-      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
-    },
-    {
-      "event": "Sin and Death Build Their Way",
-      "sourceRange": "Book X, source lines 332-448",
-      "presentCharacters": [
-        "Sin",
-        "Death"
-      ],
-      "snapshotCount": 2,
-      "firstLine": "He, after Eve seduced, unminded slunk",
-      "lastLine": "He sat, and round about him saw unseen:",
-      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
-    },
-    {
-      "event": "Satan Returns in Triumph",
-      "sourceRange": "Book X, source lines 449-555",
-      "presentCharacters": [
-        "Satan",
-        "Beelzebub",
-        "Moloch",
-        "Belial",
-        "Mammon"
-      ],
-      "snapshotCount": 5,
-      "firstLine": "At last, as from a cloud, his fulgent head",
-      "lastLine": "Now risen, to work them further woe or shame;",
-      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
-    },
-    {
-      "event": "The Serpentine Punishment",
-      "sourceRange": "Book X, source lines 556-667",
-      "presentCharacters": [
-        "Satan",
-        "Beelzebub",
-        "Moloch",
-        "Belial",
-        "Mammon"
-      ],
-      "snapshotCount": 5,
-      "firstLine": "Yet, parched with scalding thirst and hunger fierce,",
-      "lastLine": "With terrour through the dark aereal hall.",
-      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
-    },
-    {
-      "event": "The Changed Creation",
-      "sourceRange": "Book X, source lines 668-770",
+      "event": "Heaven Learns the Transgression",
+      "sourceRange": "Book X, source lines 1-84",
       "presentCharacters": [
         "God",
         "The Son"
       ],
       "snapshotCount": 2,
-      "firstLine": "Some say, he bid his Angels turn ascanse",
-      "lastLine": "That dust I am, and shall to dust return.",
+      "firstLine": "Mean while the heinous and despiteful act",
+      "lastLine": "Conviction to the serpent none belongs.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Judgment Descends",
+      "sourceRange": "Book X, source lines 85-102",
+      "presentCharacters": [
+        "The Son",
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Thus saying, from his radiant seat he rose",
+      "lastLine": "Approaching, thus to Adam called aloud.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Adam and Eve Answer",
+      "sourceRange": "Book X, source lines 103-162",
+      "presentCharacters": [
+        "Adam",
+        "Eve",
+        "The Son"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Where art thou, Adam, wont with joy to meet",
+      "lastLine": "The Serpent me beguiled, and I did eat.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Sentences",
+      "sourceRange": "Book X, source lines 163-208",
+      "presentCharacters": [
+        "The Son",
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "Which when the Lord God heard, without delay",
+      "lastLine": "For dust thou art, and shalt to dust return.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Pair Clothed",
+      "sourceRange": "Book X, source lines 209-228",
+      "presentCharacters": [
+        "The Son",
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "So judged he Man, both Judge and Saviour sent;",
+      "lastLine": "Recounted, mixing intercession sweet.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Sin and Death Sense the Change",
+      "sourceRange": "Book X, source lines 229-281",
+      "presentCharacters": [
+        "The Gatekeeper",
+        "The Armed Shape"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Mean while, ere thus was sinned and judged on Earth,",
+      "lastLine": "Sagacious of his quarry from so far.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Sin and Death Build Their Way",
+      "sourceRange": "Book X, source lines 282-324",
+      "presentCharacters": [
+        "The Gatekeeper",
+        "The Armed Shape"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Then both from out Hell-gates, into the waste",
+      "lastLine": "In sight, to each of these three places led.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Satan Meets His Offspring",
+      "sourceRange": "Book X, source lines 325-409",
+      "presentCharacters": [
+        "Satan",
+        "The Gatekeeper",
+        "The Armed Shape"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "And now their way to Earth they had descried,",
+      "lastLine": "No detriment need fear; go, and be strong!",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Satan Returns in Triumph",
+      "sourceRange": "Book X, source lines 410-503",
+      "presentCharacters": [
+        "Satan",
+        "Beelzebub",
+        "Moloch",
+        "Belial",
+        "Mammon"
+      ],
+      "snapshotCount": 5,
+      "firstLine": "So saying he dismissed them; they with speed",
+      "lastLine": "But up, and enter now into full bliss?",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Serpentine Punishment",
+      "sourceRange": "Book X, source lines 504-584",
+      "presentCharacters": [
+        "Satan",
+        "Beelzebub",
+        "Moloch",
+        "Belial",
+        "Mammon"
+      ],
+      "snapshotCount": 5,
+      "firstLine": "So having said, a while he stood, expecting",
+      "lastLine": "And Ops, ere yet Dictaean Jove was born.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Sin and Death Enter Earth",
+      "sourceRange": "Book X, source lines 585-609",
+      "presentCharacters": [
+        "The Gatekeeper",
+        "The Armed Shape"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Mean while in Paradise the hellish pair",
+      "lastLine": "And season him thy last and sweetest prey.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Providence Answers the Invaders",
+      "sourceRange": "Book X, source lines 610-648",
+      "presentCharacters": [
+        "God",
+        "The Son"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "This said, they both betook them several ways,",
+      "lastLine": "Or down from Heaven descend.—Such was their song;",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Changed Creation",
+      "sourceRange": "Book X, source lines 649-713",
+      "presentCharacters": [],
+      "snapshotCount": 0,
+      "firstLine": "While the Creator, calling forth by name",
+      "lastLine": "Of Man, but fled him; or, with countenance grim,",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Adam Despairs",
-      "sourceRange": "Book X, source lines 771-882",
+      "sourceRange": "Book X, source lines 714-862",
       "presentCharacters": [
         "Adam"
       ],
       "snapshotCount": 1,
-      "firstLine": "O welcome hour whenever! Why delays",
-      "lastLine": "Constant, mature, proof against all assaults;",
+      "firstLine": "Glared on him passing. These were from without",
+      "lastLine": "To answer, and resound far other song.—",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Eve Seeks Reconciliation",
-      "sourceRange": "Book X, source lines 883-994",
+      "sourceRange": "Book X, source lines 863-936",
+      "presentCharacters": [
+        "Eve",
+        "Adam"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Whom thus afflicted when sad Eve beheld,",
+      "lastLine": "Me, me only, just object of his ire!",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Shared Burden",
+      "sourceRange": "Book X, source lines 937-1009",
       "presentCharacters": [
         "Adam",
         "Eve"
       ],
       "snapshotCount": 2,
-      "firstLine": "And understood not all was but a show,",
-      "lastLine": "From love’s due rights, nuptial embraces sweet;",
+      "firstLine": "She ended weeping; and her lowly plight,",
+      "lastLine": "Had entertained, as dyed her cheeks with pale.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Repentance",
-      "sourceRange": "Book X, source lines 995-1104",
+      "sourceRange": "Book X, source lines 1010-1104",
       "presentCharacters": [
         "Adam",
         "Eve"
       ],
       "snapshotCount": 2,
-      "firstLine": "And with desire to languish without hope,",
+      "firstLine": "But Adam, with such counsel nothing swayed,",
       "lastLine": "Of sorrow unfeigned, and humiliation meek.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Prayer Accepted",
-      "sourceRange": "Book XI, source lines 1-99",
+      "sourceRange": "Book XI, source lines 1-83",
       "presentCharacters": [
-        "God",
-        "The Son"
+        "The Son",
+        "God"
       ],
       "snapshotCount": 2,
       "firstLine": "Thus they, in lowliest plight, repentant stood",
-      "lastLine": "Michael, this my behest have thou in charge;",
+      "lastLine": "The Almighty thus pronounced his sovran will.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Michael Commissioned",
+      "sourceRange": "Book XI, source lines 84-133",
+      "presentCharacters": [
+        "God",
+        "Michael"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "O Sons, like one of us Man is become",
+      "lastLine": "Of Hermes, or his opiate rod. Mean while,",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Morning Hope",
+      "sourceRange": "Book XI, source lines 134-180",
+      "presentCharacters": [
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "To re-salute the world with sacred light,",
+      "lastLine": "Here let us live, though in fallen state, content.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Michael Enters Paradise",
-      "sourceRange": "Book XI, source lines 100-200",
+      "sourceRange": "Book XI, source lines 181-237",
       "presentCharacters": [
-        "Michael",
         "Adam",
-        "Eve"
+        "Eve",
+        "Michael"
       ],
       "snapshotCount": 3,
-      "firstLine": "Take to thee from among the Cherubim",
-      "lastLine": "And thither must return, and be no more?",
+      "firstLine": "So spake, so wished much humbled Eve; but Fate",
+      "lastLine": "With reverence I must meet, and thou retire.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Sentence of Exile",
-      "sourceRange": "Book XI, source lines 201-295",
+      "sourceRange": "Book XI, source lines 238-333",
       "presentCharacters": [
         "Michael",
         "Adam",
         "Eve"
       ],
       "snapshotCount": 3,
-      "firstLine": "Why else this double object in our sight",
-      "lastLine": "To Michael thus his humble words addressed.",
+      "firstLine": "He ended: and the Arch-Angel soon drew nigh,",
+      "lastLine": "Of glory; and far off his steps adore.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "God Beyond the Garden",
+      "sourceRange": "Book XI, source lines 334-375",
+      "presentCharacters": [
+        "Michael",
+        "Adam",
+        "Eve"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "To whom thus Michael with regard benign.",
+      "lastLine": "By suffering, and earn rest from labour won,",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Hill of Vision",
-      "sourceRange": "Book XI, source lines 296-401",
+      "sourceRange": "Book XI, source lines 376-428",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Celestial, whether among the Thrones, or named",
-      "lastLine": "Of Congo, and Angola farthest south;",
+      "firstLine": "If so I may attain.—So both ascend",
+      "lastLine": "Corruption, to bring forth more violent deeds.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Cain and Abel",
-      "sourceRange": "Book XI, source lines 402-501",
+      "sourceRange": "Book XI, source lines 429-465",
       "presentCharacters": [
-        "Michael",
-        "Adam"
+        "Adam",
+        "Michael"
       ],
       "snapshotCount": 2,
-      "firstLine": "Or thence from Niger flood to Atlas mount",
-      "lastLine": "Degraded, to what wretched state reserved!",
+      "firstLine": "His eyes he opened, and beheld a field,",
+      "lastLine": "Horrid to think, how horrible to feel!",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The House of Disease",
-      "sourceRange": "Book XI, source lines 502-601",
+      "sourceRange": "Book XI, source lines 466-555",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Better end here unborn. Why is life given",
-      "lastLine": "Those were of hate and death, or pain much worse;",
+      "firstLine": "To whom thus Michael. Death thou hast seen",
+      "lastLine": "And now prepare thee for another sight.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Arts and Unequal Marriages",
+      "sourceRange": "Book XI, source lines 556-637",
+      "presentCharacters": [
+        "Adam",
+        "Michael"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "He looked, and saw a spacious plain, whereon",
+      "lastLine": "But now prepare thee for another scene.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Violence Before the Flood",
-      "sourceRange": "Book XI, source lines 602-699",
+      "sourceRange": "Book XI, source lines 638-718",
       "presentCharacters": [
-        "Michael",
-        "Adam"
+        "Adam",
+        "Michael"
       ],
       "snapshotCount": 2,
-      "firstLine": "Here Nature seems fulfilled in all her ends.",
-      "lastLine": "And what most merits fame, in silence hid.",
+      "firstLine": "He looked, and saw wide territory spread",
+      "lastLine": "Allured them; thence from cups to civil broils.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Noah and the Ark",
-      "sourceRange": "Book XI, source lines 700-805",
+      "sourceRange": "Book XI, source lines 719-839",
       "presentCharacters": [
-        "Michael",
-        "Adam"
+        "Adam",
+        "Michael"
       ],
       "snapshotCount": 2,
-      "firstLine": "But he, the seventh from thee, whom thou beheldst",
-      "lastLine": "More than enough, that temperance may be tried:",
+      "firstLine": "At length a reverend sire among them came,",
+      "lastLine": "And now, what further shall ensue, behold.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Rainbow Covenant",
-      "sourceRange": "Book XI, source lines 806-901",
+      "sourceRange": "Book XI, source lines 840-901",
       "presentCharacters": [
-        "Michael",
-        "Adam"
+        "Adam",
+        "Michael"
       ],
       "snapshotCount": 2,
-      "firstLine": "So all shall turn degenerate, all depraved;",
+      "firstLine": "He looked, and saw the ark hull on the flood,",
       "lastLine": "Both Heaven and Earth, wherein the just shall dwell.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "After the Flood",
-      "sourceRange": "Book XII, source lines 1-66",
+      "sourceRange": "Book XII, source lines 1-12",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
       "firstLine": "As one who in his journey bates at noon,",
-      "lastLine": "Authority usurped, from God not given:",
+      "lastLine": "Thou therefore give due audience, and attend.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Babel and Division",
-      "sourceRange": "Book XII, source lines 67-132",
+      "sourceRange": "Book XII, source lines 13-104",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "He gave us only over beast, fish, fowl,",
-      "lastLine": "Of herds and flocks, and numerous servitude;",
+      "firstLine": "This second source of Men, while yet but few,",
+      "lastLine": "Servant of servants, on his vicious race.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Abraham and the Promise",
-      "sourceRange": "Book XII, source lines 133-197",
+      "sourceRange": "Book XII, source lines 105-162",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Not wandering poor, but trusting all his wealth",
-      "lastLine": "As on dry land, between two crystal walls;",
+      "firstLine": "Thus will this latter, as the former world,",
+      "lastLine": "Raise him to be the second in that realm",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Exodus and Law",
-      "sourceRange": "Book XII, source lines 198-262",
+      "sourceRange": "Book XII, source lines 163-269",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Awed by the rod of Moses so to stand",
-      "lastLine": "How many kings destroyed; and kingdoms won;",
+      "firstLine": "Of Pharaoh. There he dies, and leaves his race",
+      "lastLine": "His whole descent, who thus shall Canaan win.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Law and Promise",
+      "sourceRange": "Book XII, source lines 270-314",
+      "presentCharacters": [
+        "Michael",
+        "Adam"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "Here Adam interposed. O sent from Heaven,",
+      "lastLine": "Safe to eternal Paradise of rest.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Kings and Captivity",
-      "sourceRange": "Book XII, source lines 263-330",
+      "sourceRange": "Book XII, source lines 315-358",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Or how the sun shall in mid Heaven stand still",
-      "lastLine": "The last; for of his reign shall be no end.",
+      "firstLine": "Mean while they, in their earthly Canaan placed,",
+      "lastLine": "Then lose it to a stranger, that the true",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Messiah Foretold",
-      "sourceRange": "Book XII, source lines 331-392",
+      "sourceRange": "Book XII, source lines 359-385",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "But first, a long succession must ensue;",
-      "lastLine": "Disabled, not to give thee thy death’s wound:",
+      "firstLine": "Anointed King Messiah might be born",
+      "lastLine": "Their fight, what stroke shall bruise the victor’s heel.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Incarnation and Redemption",
-      "sourceRange": "Book XII, source lines 393-455",
+      "sourceRange": "Book XII, source lines 386-465",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Which he, who comes thy Saviour, shall recure,",
-      "lastLine": "Through all his realm, and there confounded leave;",
+      "firstLine": "To whom thus Michael. Dream not of their fight,",
+      "lastLine": "Than this of Eden, and far happier days.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Adam Asks About the Faithful",
+      "sourceRange": "Book XII, source lines 466-496",
+      "presentCharacters": [
+        "Adam",
+        "Michael"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "So spake the Arch-Angel Michael; then paused,",
+      "lastLine": "And oft supported so as shall amaze",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The Church and the End",
-      "sourceRange": "Book XII, source lines 456-514",
+      "sourceRange": "Book XII, source lines 497-551",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Then enter into glory, and resume",
-      "lastLine": "Though not but by the Spirit understood.",
+      "firstLine": "Their proudest persecutors: For the Spirit,",
+      "lastLine": "To bring forth fruits, joy and eternal bliss.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "Paradise Within",
-      "sourceRange": "Book XII, source lines 515-587",
+      "sourceRange": "Book XII, source lines 552-587",
+      "presentCharacters": [
+        "Adam",
+        "Michael"
+      ],
+      "snapshotCount": 2,
+      "firstLine": "He ended; and thus Adam last replied.",
+      "lastLine": "A Paradise within thee, happier far.—",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "The Hour of Departure",
+      "sourceRange": "Book XII, source lines 588-605",
       "presentCharacters": [
         "Michael",
         "Adam"
       ],
       "snapshotCount": 2,
-      "firstLine": "Then shall they seek to avail themselves of names,",
-      "lastLine": "A Paradise within thee, happier far.—",
+      "firstLine": "Let us descend now therefore from this top",
+      "lastLine": "With meditation on the happy end.",
+      "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
+    },
+    {
+      "event": "Eve’s Comfort",
+      "sourceRange": "Book XII, source lines 606-623",
+      "presentCharacters": [
+        "Adam",
+        "Eve",
+        "Michael"
+      ],
+      "snapshotCount": 3,
+      "firstLine": "He ended, and they both descend the hill;",
+      "lastLine": "By me the Promised Seed shall all restore.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     },
     {
       "event": "The World Before Them",
-      "sourceRange": "Book XII, source lines 588-649",
+      "sourceRange": "Book XII, source lines 624-649",
       "presentCharacters": [
         "Michael",
         "Adam",
         "Eve"
       ],
       "snapshotCount": 3,
-      "firstLine": "Let us descend now therefore from this top",
+      "firstLine": "So spake our mother Eve; and Adam heard",
       "lastLine": "Through Eden took their solitary way.",
       "review": "Cast contains characters acting or physically occupying this bounded event. Frame narrators and characters present only inside quoted recollection are excluded from the recounted event."
     }

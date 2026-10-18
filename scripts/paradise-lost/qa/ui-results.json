@@ -1,10 +1,10 @@
 {
-  "applicationCommit": "3921599b3e1d26dd7a081bcd550f9e3a7bcff14d",
-  "pwkSha256": "c81be0a6f9ef021fbc8a5eb02b8c690a9fdd35c4b54836bfb5ae6cd07776a908",
+  "applicationCommit": "e9d67f4b6cec19158bdd25657271e5e4d8427659",
+  "pwkSha256": "1a13641a3bd3e7a1941a6b1c195a56fac98584bf6bfc99e611e27e7d4b72d29b",
   "download": true,
   "readingModeOpening": true,
   "readingModeSequentialReveal": true,
-  "manuscriptTimelines": 5,
+  "manuscriptTimelines": 6,
   "layouts": [
     "cards",
     "read"
@@ -15,7 +15,7 @@
   ],
   "supportingViews": 10,
   "maps": 4,
-  "mapPins": 24,
+  "mapPins": 25,
   "gateways": [
     {
       "from": "paradise-lost-loc-earth",
@@ -42,7 +42,7 @@
     },
     {
       "before": "The Gate Opens",
-      "after": "The Throne of Chaos",
+      "after": "Satan Enters Chaos",
       "from": "paradise-lost-map-hell",
       "to": "paradise-lost-map-cosmos"
     },
@@ -65,31 +65,229 @@
       "to": "paradise-lost-map-eden"
     },
     {
-      "before": "Free Obedience",
-      "after": "Satan’s First Revolt",
-      "from": "paradise-lost-map-eden",
-      "to": "paradise-lost-map-heaven"
-    },
-    {
-      "before": "The Rebels Cast Out",
-      "after": "Raphael Ends the Warning",
-      "from": "paradise-lost-map-heaven",
-      "to": "paradise-lost-map-eden"
-    },
-    {
-      "before": "Raphael Ends the Warning",
-      "after": "Invocation to Urania",
+      "before": "Satan on Mount Niphates",
+      "after": "Uriel Detects the Change",
       "from": "paradise-lost-map-eden",
       "to": "paradise-lost-map-cosmos"
     },
     {
-      "before": "The Serpentine Punishment",
-      "after": "The Changed Creation",
-      "from": "paradise-lost-map-hell",
+      "before": "Morning Worship",
+      "after": "Raphael Commissioned",
+      "from": "paradise-lost-map-eden",
       "to": "paradise-lost-map-heaven"
+    },
+    {
+      "before": "Raphael Commissioned",
+      "after": "Raphael Descends",
+      "from": "paradise-lost-map-heaven",
+      "to": "paradise-lost-map-eden"
+    },
+    {
+      "before": "The Pair Clothed",
+      "after": "Sin and Death Sense the Change",
+      "from": "paradise-lost-map-eden",
+      "to": "paradise-lost-map-hell"
     }
   ],
   "finalLine": true,
+  "locationChecks": [
+    {
+      "id": "paradise-lost-loc-cosmos",
+      "map": "paradise-lost-map-cosmos",
+      "x": 770,
+      "y": 470,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-cosmos-gate",
+      "map": "paradise-lost-map-cosmos",
+      "x": 990,
+      "y": 440,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-chaos",
+      "map": "paradise-lost-map-cosmos",
+      "x": 350,
+      "y": 390,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-chaos-throne",
+      "map": "paradise-lost-map-cosmos",
+      "x": 270,
+      "y": 500,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-sun",
+      "map": "paradise-lost-map-cosmos",
+      "x": 680,
+      "y": 580,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-earth",
+      "map": "paradise-lost-map-cosmos",
+      "x": 770,
+      "y": 515,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-hell-region",
+      "map": "paradise-lost-map-cosmos",
+      "x": 770,
+      "y": 80,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-heaven-region",
+      "map": "paradise-lost-map-cosmos",
+      "x": 770,
+      "y": 900,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-burning-lake",
+      "map": "paradise-lost-map-hell",
+      "x": 400,
+      "y": 280,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-hell-plain",
+      "map": "paradise-lost-map-hell",
+      "x": 750,
+      "y": 575,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-pandemonium",
+      "map": "paradise-lost-map-hell",
+      "x": 1190,
+      "y": 600,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-hell-gate",
+      "map": "paradise-lost-map-hell",
+      "x": 1410,
+      "y": 850,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-heaven-throne",
+      "map": "paradise-lost-map-heaven",
+      "x": 770,
+      "y": 770,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-heaven-north",
+      "map": "paradise-lost-map-heaven",
+      "x": 275,
+      "y": 800,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-heaven-field",
+      "map": "paradise-lost-map-heaven",
+      "x": 760,
+      "y": 420,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-heaven-gate",
+      "map": "paradise-lost-map-heaven",
+      "x": 780,
+      "y": 230,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-niphates",
+      "map": "paradise-lost-map-eden",
+      "x": 150,
+      "y": 840,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-eden-wall",
+      "map": "paradise-lost-map-eden",
+      "x": 330,
+      "y": 600,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-eden-garden",
+      "map": "paradise-lost-map-eden",
+      "x": 750,
+      "y": 500,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-tree-of-life",
+      "map": "paradise-lost-map-eden",
+      "x": 790,
+      "y": 665,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-tree-of-knowledge",
+      "map": "paradise-lost-map-eden",
+      "x": 890,
+      "y": 660,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-bower",
+      "map": "paradise-lost-map-eden",
+      "x": 805,
+      "y": 375,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-eden-gate",
+      "map": "paradise-lost-map-eden",
+      "x": 1410,
+      "y": 680,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-vision-hill",
+      "map": "paradise-lost-map-eden",
+      "x": 860,
+      "y": 880,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "paradise-lost-loc-western-watch",
+      "map": "paradise-lost-map-eden",
+      "x": 370,
+      "y": 450,
+      "detailImageLoaded": true
+    }
+  ],
+  "knowledgeChecks": [
+    {
+      "event": "Adam and Eve",
+      "prohibitionVisible": false
+    },
+    {
+      "event": "Satan Overhears the Prohibition",
+      "prohibitionVisible": true
+    }
+  ],
+  "revealChecks": [
+    {
+      "event": "At the Gates of Hell",
+      "name": "The Gatekeeper"
+    },
+    {
+      "event": "Sin Tells Her Origin",
+      "name": "Sin"
+    }
+  ],
+  "completeDatasetViews": 10,
   "individualStateChecks": [
     {
       "event": "Awakening on the Burning Lake",
@@ -100,7 +298,7 @@
       "character": "eve"
     },
     {
-      "event": "Satan’s First Revolt",
+      "event": "Abdiel Answers Satan",
       "character": "abdiel"
     },
     {

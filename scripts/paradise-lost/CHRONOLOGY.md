@@ -1,12 +1,20 @@
-# Paradise Lost chronology and narrative frames
+# Paradise Lost — clocks and narrative frames
 
-The edition uses five timelines because the poem does not present one continuous chronology.
+The six strands distinguish an action from an account of that action. Celestial days are not equated with human dates, and Michael’s future centuries are not assigned dates on Adam’s clock.
 
-1. **Poetic address** contains invocations and direct reflections from the act of composition. These passages do not place the epic characters physically beside the poet.
-2. **Fall narrative** follows Satan after expulsion, his passage to the created universe, Adam and Eve in Eden, the temptation, judgment, repentance, and exile.
-3. **War in Heaven** contains Raphael’s retrospective account of the rebellion and celestial battle. Its events precede the human action and are marked as flashbacks.
-4. **Creation** contains Raphael’s retrospective account of the six days. It is distinct from both the rebellion and Adam’s current conversation with Raphael.
-5. **Michael’s vision** contains prophetic history shown to Adam before the exile. Adam and Michael are physically present on the hill; the historical figures they see are not modeled as physically present snapshots.
+| Strand | Represented action | Numeric clock |
+| --- | --- | --- |
+| Poetic address | Invocations from the act of composition | 0; source order distinguishes addresses |
+| Fall narrative | Infernal council, Satan’s travel, Eden, temptation, judgment, repentance, departure | Relative human sequence below |
+| War in Heaven | Raphael’s earlier rebellion and battle | Exaltation and mustering at 0; battles on days 1, 2, 3 |
+| Creation | Raphael’s account of the ordered world | 0–5 for the six days; Sabbath at 6 |
+| Adam’s first memories | Awakening, instruction, naming, companionship | Sixth creation day, 5.25; source order distinguishes events |
+| Michael’s vision | Adam and Michael receiving prospective history | 10.25, the morning of presentation, not dates of the future shown |
 
-Numeric calendar positions are editorial ordering coordinates inside each strand. The poem’s stated spans, including the rebels’ nine-day fall, the three days of war, and the six days of creation, are preserved in the verse and supporting notes. No modern calendar dates are invented. Immediate sequential scenes may share the same broad day; `sortOrder` preserves reading order. All elapsed values are nonnegative.
+The clocks have an editorial alignment for calendar and era handling. War uses offset -21.25: expulsion at local 3.25 precedes the stated nine-day fall, putting the victorious return at absolute -9. The stated nine-day infernal stupor then ends at the main origin, 0. Creation and Adam’s memories use offset -9, placing the six-day work during that stupor; Adam’s sixth-day memories lie at -3.75. Immediate creation after victory is an editorial assumption, not an asserted physical equivalence between celestial and human days. This alignment preserves precedence and the stated spans without inventing a historical date, and prevents ancient snapshots from appearing as current human-era states.
 
+War, creation, and Adam’s memories are retrospective. Michael’s prospective instruction is not a flashback. Raphael’s closing warning and his invitation after creation return to the bower in the main strand.
+
+The primary calendar is an editorial relative sequence. Day 0 groups the infernal council and Chaos passage because their duration is unspecified. Day 1 groups the solar encounter, arrival in Eden, evening prayer, and nocturnal discovery. Day 2 contains Raphael’s visit. Book IX explicitly gives Satan seven continued nights and a return on the eighth: the edition places that return late on day 8 and the morning temptation on day 9. Judgment and repentance extend into the night; Michael’s visit and the departure belong to the following morning, day 10. These are ordering assumptions, not ancient calendar dates.
+
+Fractions indicate broad parts of a day, not measured journeys or speech durations. The elapsed field records only the nonnegative difference between whole-day positions in the same strand as a lower bound. Unknown intervals within a day are zero. Reading order is carried separately by sortOrder. The nine-day infernal fall and the subsequent nine-day stupor precede the rebels’ awakening, the origin of the human narrative clock; those spans remain explicit in the retained verse.

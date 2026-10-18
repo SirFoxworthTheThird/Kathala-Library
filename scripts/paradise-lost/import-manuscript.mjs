@@ -1,36 +1,19 @@
 import fs from 'node:fs'
 import {books,verseText,verseLineCount,countWords,normalize} from './source-text.mjs'
 import {bookPlans} from './scene-plan.mjs'
+import {reviewedBoundaries} from './reviewed-scenes.mjs'
 
 const worldId='paradise-lost-world', timelineId='paradise-lost-poem-order', now=Date.UTC(2026,9,18)
 const stamp={worldId,createdAt:now,updatedAt:now}
 const chapters=[],events=[],sceneTexts=[]
 let sortOrder=0
 
-function boundaries(lineCount, sceneCount){
-  const points=[0]
-  for(let i=1;i<sceneCount;i++){
-    const target=Math.round(lineCount*i/sceneCount)
-    let best=target,bestDistance=Infinity
-    for(let candidate=Math.max(points.at(-1)+20,target-24);candidate<=Math.min(lineCount-20,target+24);candidate++){
-      const previous=currentBook.lines[candidate-1]?.trimEnd()??''
-      if(!/[.!?;:—”]$/.test(previous))continue
-      const distance=Math.abs(candidate-target)
-      if(distance<bestDistance){best=candidate;bestDistance=distance}
-    }
-    if(best<=points.at(-1))throw Error('Unable to produce increasing scene boundary')
-    points.push(best)
-  }
-  points.push(lineCount)
-  return points
-}
-
 let currentBook
 for(let bi=0;bi<books.length;bi++){
   currentBook=books[bi]
   const plan=bookPlans[bi]
   if(!plan?.length)throw Error(`Missing scene plan for Book ${currentBook.label}`)
-  const points=boundaries(currentBook.lines.length,plan.length)
+  const points=reviewedBoundaries(currentBook)
   const chapterId=`paradise-lost-book-${bi+1}`
   chapters.push({...stamp,id:chapterId,timelineId,number:bi+1,title:`Book ${currentBook.label}`,synopsis:'',notes:'Authorial twelve-book division; complete blank verse retained.',wordGoal:countWords(currentBook.text)})
   for(let si=0;si<plan.length;si++){
