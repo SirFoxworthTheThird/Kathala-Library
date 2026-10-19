@@ -1,0 +1,308 @@
+{
+  "applicationCommit": "37aa07e881d853e650e9c1d63da6a70d0c7485ec",
+  "pwkSha256": "2619f27c55ed007b98bb208408a3ff0c8c7ecbd04af0ec583389a14e71bdc615",
+  "download": true,
+  "readingModeOpening": true,
+  "readingModeSequentialReveal": true,
+  "manuscriptTimelines": 1,
+  "layouts": [
+    "cards",
+    "read"
+  ],
+  "bookOrders": [
+    "narrative",
+    "chronological cards"
+  ],
+  "supportingViews": 10,
+  "maps": 4,
+  "mapPins": 32,
+  "gateways": [
+    {
+      "from": "purgatorio-loc-mountain",
+      "to": "purgatorio-map-lower",
+      "activated": true
+    },
+    {
+      "from": "purgatorio-loc-princesValley",
+      "to": "purgatorio-map-terraces",
+      "activated": true
+    },
+    {
+      "from": "purgatorio-loc-fireWall",
+      "to": "purgatorio-map-paradise",
+      "activated": true
+    }
+  ],
+  "playbackTransitions": [
+    {
+      "before": "Before the Gate",
+      "after": "The Seven Letters",
+      "from": "purgatorio-map-lower",
+      "to": "purgatorio-map-terraces"
+    },
+    {
+      "before": "Through the Flame",
+      "after": "The Dream of Leah",
+      "from": "purgatorio-map-terraces",
+      "to": "purgatorio-map-paradise"
+    }
+  ],
+  "finalLine": true,
+  "verseLayout": {
+    "blocks": 99,
+    "lines": 4763,
+    "preservesBreaks": true
+  },
+  "locationChecks": [
+    {
+      "id": "purgatorio-loc-mountain",
+      "map": "purgatorio-map-overview",
+      "x": 760,
+      "y": 510,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-shore",
+      "map": "purgatorio-map-lower",
+      "x": 190,
+      "y": 170,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-mountainFoot",
+      "map": "purgatorio-map-lower",
+      "x": 420,
+      "y": 260,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-lowerSlope",
+      "map": "purgatorio-map-lower",
+      "x": 565,
+      "y": 370,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-belacquaLedge",
+      "map": "purgatorio-map-lower",
+      "x": 650,
+      "y": 445,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-latePath",
+      "map": "purgatorio-map-lower",
+      "x": 765,
+      "y": 535,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-sordelloRise",
+      "map": "purgatorio-map-lower",
+      "x": 850,
+      "y": 625,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-princesValley",
+      "map": "purgatorio-map-lower",
+      "x": 960,
+      "y": 700,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-gateStairs",
+      "map": "purgatorio-map-lower",
+      "x": 1110,
+      "y": 800,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-purgatoryGate",
+      "map": "purgatorio-map-terraces",
+      "x": 180,
+      "y": 160,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-prideTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 310,
+      "y": 270,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-prideStair",
+      "map": "purgatorio-map-terraces",
+      "x": 410,
+      "y": 340,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-envyTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 505,
+      "y": 410,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-envyStair",
+      "map": "purgatorio-map-terraces",
+      "x": 585,
+      "y": 470,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-wrathTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 680,
+      "y": 535,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-wrathStair",
+      "map": "purgatorio-map-terraces",
+      "x": 760,
+      "y": 595,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-slothTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 850,
+      "y": 655,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-avariceStair",
+      "map": "purgatorio-map-terraces",
+      "x": 920,
+      "y": 705,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-avariceTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 1000,
+      "y": 755,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-gluttonyStair",
+      "map": "purgatorio-map-terraces",
+      "x": 1080,
+      "y": 805,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-gluttonyTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 1165,
+      "y": 850,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-lustStair",
+      "map": "purgatorio-map-terraces",
+      "x": 1240,
+      "y": 890,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-lustTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 1320,
+      "y": 925,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-fireWall",
+      "map": "purgatorio-map-terraces",
+      "x": 1390,
+      "y": 950,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-paradiseStair",
+      "map": "purgatorio-map-paradise",
+      "x": 210,
+      "y": 190,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-earthlyForest",
+      "map": "purgatorio-map-paradise",
+      "x": 390,
+      "y": 330,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-letheBank",
+      "map": "purgatorio-map-paradise",
+      "x": 570,
+      "y": 450,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-processionWay",
+      "map": "purgatorio-map-paradise",
+      "x": 740,
+      "y": 565,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-chariotGlade",
+      "map": "purgatorio-map-paradise",
+      "x": 900,
+      "y": 655,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-letheFord",
+      "map": "purgatorio-map-paradise",
+      "x": 1030,
+      "y": 725,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-knowledgeTree",
+      "map": "purgatorio-map-paradise",
+      "x": 1170,
+      "y": 810,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-eunoeBank",
+      "map": "purgatorio-map-paradise",
+      "x": 1340,
+      "y": 900,
+      "detailImageLoaded": true
+    }
+  ],
+  "knowledgeChecks": [],
+  "revealChecks": [],
+  "completeDatasetViews": 10,
+  "individualStateChecks": [
+    {
+      "event": "The Better Waters",
+      "character": "dante"
+    },
+    {
+      "event": "The Rush of Humility",
+      "character": "virgil"
+    },
+    {
+      "event": "The Mercy Manfred Found",
+      "character": "manfred"
+    },
+    {
+      "event": "Beatrice Arrives",
+      "character": "beatrice"
+    },
+    {
+      "event": "Made Ready for the Stars",
+      "character": "dante"
+    }
+  ],
+  "consoleErrors": []
+}

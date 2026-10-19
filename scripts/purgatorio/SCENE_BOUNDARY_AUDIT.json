@@ -1,0 +1,3472 @@
+{
+  "title": "Purgatorio",
+  "policy": "Each canto uses three source-grounded reading beats cut at complete tercets. Adjacent lines, location, physical cast, and action are recorded.",
+  "cantos": 33,
+  "scenes": 99,
+  "records": [
+    {
+      "canto": 1,
+      "cantoLabel": "I",
+      "title": "The Better Waters",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "To run o’er better waters hoists its sail",
+        "    The little vessel of my genius now,",
+        "    That leaves behind itself a sea so cruel;"
+      ],
+      "closingLines": [
+        "“Who guided you? or who has been your lamp",
+        "    In issuing forth out of the night profound,",
+        "    That ever black makes the infernal valley?"
+      ],
+      "followingLines": [
+        "The laws of the abyss, are they thus broken?",
+        "    Or is there changed in heaven some council new,",
+        "    That being damned ye come unto my crags?”"
+      ],
+      "verseLines": 45,
+      "words": 341,
+      "location": "shore",
+      "presentCast": [
+        "dante",
+        "virgil"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 1,
+      "cantoLabel": "I",
+      "title": "Four Southern Stars",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "“Who guided you? or who has been your lamp",
+        "    In issuing forth out of the night profound,",
+        "    That ever black makes the infernal valley?"
+      ],
+      "openingLines": [
+        "The laws of the abyss, are they thus broken?",
+        "    Or is there changed in heaven some council new,",
+        "    That being damned ye come unto my crags?”"
+      ],
+      "closingLines": [
+        "Now that she dwells beyond the evil river,",
+        "    She can no longer move me, by that law",
+        "    Which, when I issued forth from there, was made."
+      ],
+      "followingLines": [
+        "But if a Lady of Heaven do move and rule thee,",
+        "    As thou dost say, no flattery is needful;",
+        "    Let it suffice thee that for her thou ask me."
+      ],
+      "verseLines": 45,
+      "words": 385,
+      "location": "shore",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "cato"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 1,
+      "cantoLabel": "I",
+      "title": "The Rush of Humility",
+      "sourceStart": 91,
+      "sourceEnd": 136,
+      "precedingLines": [
+        "Now that she dwells beyond the evil river,",
+        "    She can no longer move me, by that law",
+        "    Which, when I issued forth from there, was made."
+      ],
+      "openingLines": [
+        "But if a Lady of Heaven do move and rule thee,",
+        "    As thou dost say, no flattery is needful;",
+        "    Let it suffice thee that for her thou ask me."
+      ],
+      "closingLines": [
+        "    O marvellous! for even as he culled",
+        "    The humble plant, such it sprang up again",
+        "Suddenly there where he uprooted it."
+      ],
+      "followingLines": [],
+      "verseLines": 46,
+      "words": 361,
+      "location": "shore",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "cato"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 2,
+      "cantoLabel": "II",
+      "title": "The Angelic Pilot",
+      "sourceStart": 1,
+      "sourceEnd": 42,
+      "precedingLines": [],
+      "openingLines": [
+        "Already had the sun the horizon reached",
+        "    Whose circle of meridian covers o’er",
+        "    Jerusalem with its most lofty point,"
+      ],
+      "closingLines": [
+        "But down I cast it; and he came to shore",
+        "    With a small vessel, very swift and light,",
+        "    So that the water swallowed naught thereof."
+      ],
+      "followingLines": [
+        "Upon the stern stood the Celestial Pilot;",
+        "    Beatitude seemed written in his face,",
+        "    And more than a hundred spirits sat within."
+      ],
+      "verseLines": 42,
+      "words": 335,
+      "location": "shore",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "angelBoat",
+        "souls"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 2,
+      "cantoLabel": "II",
+      "title": "Casella’s Song",
+      "sourceStart": 43,
+      "sourceEnd": 87,
+      "precedingLines": [
+        "But down I cast it; and he came to shore",
+        "    With a small vessel, very swift and light,",
+        "    So that the water swallowed naught thereof."
+      ],
+      "openingLines": [
+        "Upon the stern stood the Celestial Pilot;",
+        "    Beatitude seemed written in his face,",
+        "    And more than a hundred spirits sat within."
+      ],
+      "closingLines": [
+        "Gently it said that I should stay my steps;",
+        "    Then knew I who it was, and I entreated",
+        "    That it would stop awhile to speak with me."
+      ],
+      "followingLines": [
+        "It made reply to me: “Even as I loved thee",
+        "    In mortal body, so I love thee free;",
+        "    Therefore I stop; but wherefore goest thou?”"
+      ],
+      "verseLines": 45,
+      "words": 348,
+      "location": "shore",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "casella",
+        "souls"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 2,
+      "cantoLabel": "II",
+      "title": "Cato Scatters the Company",
+      "sourceStart": 88,
+      "sourceEnd": 133,
+      "precedingLines": [
+        "Gently it said that I should stay my steps;",
+        "    Then knew I who it was, and I entreated",
+        "    That it would stop awhile to speak with me."
+      ],
+      "openingLines": [
+        "It made reply to me: “Even as I loved thee",
+        "    In mortal body, so I love thee free;",
+        "    Therefore I stop; but wherefore goest thou?”"
+      ],
+      "closingLines": [
+        "    The song relinquish, and go tow’rds the hill,",
+        "    As one who goes, and knows not whitherward;",
+        "Nor was our own departure less in haste."
+      ],
+      "followingLines": [],
+      "verseLines": 46,
+      "words": 364,
+      "location": "shore",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "cato",
+        "casella",
+        "souls"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 3,
+      "cantoLabel": "III",
+      "title": "The Mountain’s Shadow",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "Inasmuch as the instantaneous flight",
+        "    Had scattered them asunder o’er the plain,",
+        "    Turned to the mountain whither reason spurs us,"
+      ],
+      "closingLines": [
+        "We came meanwhile unto the mountain’s foot;",
+        "    There so precipitate we found the rock,",
+        "    That nimble legs would there have been in vain."
+      ],
+      "followingLines": [
+        "’Twixt Lerici and Turbia, the most desert,",
+        "    The most secluded pathway is a stair",
+        "    Easy and open, if compared with that."
+      ],
+      "verseLines": 48,
+      "words": 376,
+      "location": "mountainFoot",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "souls"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 3,
+      "cantoLabel": "III",
+      "title": "Manfred Appears",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "We came meanwhile unto the mountain’s foot;",
+        "    There so precipitate we found the rock,",
+        "    That nimble legs would there have been in vain."
+      ],
+      "openingLines": [
+        "’Twixt Lerici and Turbia, the most desert,",
+        "    The most secluded pathway is a stair",
+        "    Easy and open, if compared with that."
+      ],
+      "closingLines": [
+        "“Without your asking, I confess to you",
+        "    This is a human body which you see,",
+        "    Whereby the sunshine on the ground is cleft."
+      ],
+      "followingLines": [
+        "Marvel ye not thereat, but be persuaded",
+        "    That not without a power which comes from Heaven",
+        "    Doth he endeavour to surmount this wall.”"
+      ],
+      "verseLines": 48,
+      "words": 393,
+      "location": "mountainFoot",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "manfred",
+        "souls"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 3,
+      "cantoLabel": "III",
+      "title": "The Mercy Manfred Found",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "“Without your asking, I confess to you",
+        "    This is a human body which you see,",
+        "    Whereby the sunshine on the ground is cleft."
+      ],
+      "openingLines": [
+        "Marvel ye not thereat, but be persuaded",
+        "    That not without a power which comes from Heaven",
+        "    Doth he endeavour to surmount this wall.”"
+      ],
+      "closingLines": [
+        "    By making known unto my good Costanza",
+        "    How thou hast seen me, and this ban beside,",
+        "For those on earth can much advance us here.”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 375,
+      "location": "mountainFoot",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "manfred"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 4,
+      "cantoLabel": "IV",
+      "title": "The Steep Approach",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "Whenever by delight or else by pain,",
+        "    That seizes any faculty of ours,",
+        "    Wholly to that the soul collects itself,"
+      ],
+      "closingLines": [
+        "Spent with fatigue was I, when I began:",
+        "    “O my sweet Father! turn thee and behold",
+        "    How I remain alone, unless thou stay!”"
+      ],
+      "followingLines": [
+        "“O son,” he said, “up yonder drag thyself,”",
+        "    Pointing me to a terrace somewhat higher,",
+        "    Which on that side encircles all the hill."
+      ],
+      "verseLines": 45,
+      "words": 349,
+      "location": "lowerSlope",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "souls"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 4,
+      "cantoLabel": "IV",
+      "title": "The Shape of the Mountain",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "Spent with fatigue was I, when I began:",
+        "    “O my sweet Father! turn thee and behold",
+        "    How I remain alone, unless thou stay!”"
+      ],
+      "openingLines": [
+        "“O son,” he said, “up yonder drag thyself,”",
+        "    Pointing me to a terrace somewhat higher,",
+        "    Which on that side encircles all the hill."
+      ],
+      "closingLines": [
+        "And he to me: “This mount is such, that ever",
+        "    At the beginning down below ’tis tiresome,",
+        "    And aye the more one climbs, the less it hurts."
+      ],
+      "followingLines": [
+        "Therefore, when it shall seem so pleasant to thee,",
+        "    That going up shall be to thee as easy",
+        "    As going down the current in a boat,"
+      ],
+      "verseLines": 45,
+      "words": 354,
+      "location": "belacquaLedge",
+      "presentCast": [
+        "dante",
+        "virgil"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 4,
+      "cantoLabel": "IV",
+      "title": "Belacqua in the Shade",
+      "sourceStart": 91,
+      "sourceEnd": 139,
+      "precedingLines": [
+        "And he to me: “This mount is such, that ever",
+        "    At the beginning down below ’tis tiresome,",
+        "    And aye the more one climbs, the less it hurts."
+      ],
+      "openingLines": [
+        "Therefore, when it shall seem so pleasant to thee,",
+        "    That going up shall be to thee as easy",
+        "    As going down the current in a boat,"
+      ],
+      "closingLines": [
+        "    And saying: “Come now; see the sun has touched",
+        "    Meridian, and from the shore the night",
+        "Covers already with her foot Morocco.”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 405,
+      "location": "belacquaLedge",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "belacqua"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 5,
+      "cantoLabel": "V",
+      "title": "A Crowd Drawn to the Shadow",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "I had already from those shades departed,",
+        "    And followed in the footsteps of my Guide,",
+        "    When from behind, pointing his finger at me,"
+      ],
+      "closingLines": [
+        "“This folk that presses unto us is great,",
+        "    And cometh to implore thee,” said the Poet;",
+        "    “So still go onward, and in going listen.”"
+      ],
+      "followingLines": [
+        "“O soul that goest to beatitude",
+        "    With the same members wherewith thou wast born,”",
+        "    Shouting they came, “a little stay thy steps,"
+      ],
+      "verseLines": 45,
+      "words": 362,
+      "location": "latePath",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "souls"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 5,
+      "cantoLabel": "V",
+      "title": "Buonconte’s Last Word",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "“This folk that presses unto us is great,",
+        "    And cometh to implore thee,” said the Poet;",
+        "    “So still go onward, and in going listen.”"
+      ],
+      "openingLines": [
+        "“O soul that goest to beatitude",
+        "    With the same members wherewith thou wast born,”",
+        "    Shouting they came, “a little stay thy steps,"
+      ],
+      "closingLines": [
+        "I was of Montefeltro, and am Buonconte;",
+        "    Giovanna, nor none other cares for me;",
+        "    Hence among these I go with downcast front.”"
+      ],
+      "followingLines": [
+        "And I to him: “What violence or what chance",
+        "    Led thee astray so far from Campaldino,",
+        "    That never has thy sepulture been known?”"
+      ],
+      "verseLines": 45,
+      "words": 369,
+      "location": "latePath",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "buonconte"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 5,
+      "cantoLabel": "V",
+      "title": "La Pia’s Request",
+      "sourceStart": 91,
+      "sourceEnd": 136,
+      "precedingLines": [
+        "I was of Montefeltro, and am Buonconte;",
+        "    Giovanna, nor none other cares for me;",
+        "    Hence among these I go with downcast front.”"
+      ],
+      "openingLines": [
+        "And I to him: “What violence or what chance",
+        "    Led thee astray so far from Campaldino,",
+        "    That never has thy sepulture been known?”"
+      ],
+      "closingLines": [
+        "    Siena made me, unmade me Maremma;",
+        "    He knoweth it, who had encircled first,",
+        "Espousing me, my finger with his gem.”"
+      ],
+      "followingLines": [],
+      "verseLines": 46,
+      "words": 361,
+      "location": "latePath",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "pia"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 6,
+      "cantoLabel": "VI",
+      "title": "Prayer and Justice",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "Whene’er is broken up the game of Zara,",
+        "    He who has lost remains behind despondent,",
+        "    The throws repeating, and in sadness learns;"
+      ],
+      "closingLines": [
+        "I know not if thou understand; I speak",
+        "    Of Beatrice; her shalt thou see above,",
+        "    Smiling and happy, on this mountain’s top.”"
+      ],
+      "followingLines": [
+        "And I: “Good Leader, let us make more haste,",
+        "    For I no longer tire me as before;",
+        "    And see, e’en now the hill a shadow casts.”"
+      ],
+      "verseLines": 48,
+      "words": 377,
+      "location": "latePath",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "souls"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 6,
+      "cantoLabel": "VI",
+      "title": "The Embrace That Fails",
+      "sourceStart": 49,
+      "sourceEnd": 99,
+      "precedingLines": [
+        "I know not if thou understand; I speak",
+        "    Of Beatrice; her shalt thou see above,",
+        "    Smiling and happy, on this mountain’s top.”"
+      ],
+      "openingLines": [
+        "And I: “Good Leader, let us make more haste,",
+        "    For I no longer tire me as before;",
+        "    And see, e’en now the hill a shadow casts.”"
+      ],
+      "closingLines": [
+        "O German Albert! who abandonest",
+        "    Her that has grown recalcitrant and savage,",
+        "    And oughtest to bestride her saddle-bow,"
+      ],
+      "followingLines": [
+        "May a just judgment from the stars down fall",
+        "    Upon thy blood, and be it new and open,",
+        "    That thy successor may have fear thereof;"
+      ],
+      "verseLines": 51,
+      "words": 403,
+      "location": "sordelloRise",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sordello"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 6,
+      "cantoLabel": "VI",
+      "title": "Italy Without a Rider",
+      "sourceStart": 100,
+      "sourceEnd": 151,
+      "precedingLines": [
+        "O German Albert! who abandonest",
+        "    Her that has grown recalcitrant and savage,",
+        "    And oughtest to bestride her saddle-bow,"
+      ],
+      "openingLines": [
+        "May a just judgment from the stars down fall",
+        "    Upon thy blood, and be it new and open,",
+        "    That thy successor may have fear thereof;"
+      ],
+      "closingLines": [
+        "    Thou shalt behold thyself like a sick woman,",
+        "    Who cannot find repose upon her down,",
+        "But by her tossing wardeth off her pain."
+      ],
+      "followingLines": [],
+      "verseLines": 52,
+      "words": 386,
+      "location": "sordelloRise",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sordello"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 7,
+      "cantoLabel": "VII",
+      "title": "The Rule of the Mountain",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "After the gracious and glad salutations",
+        "    Had three and four times been reiterated,",
+        "    Sordello backward drew and said, “Who are you?”"
+      ],
+      "closingLines": [
+        "But see already how the day declines,",
+        "    And to go up by night we are not able;",
+        "    Therefore ’tis well to think of some fair sojourn."
+      ],
+      "followingLines": [
+        "Souls are there on the right hand here withdrawn;",
+        "    If thou permit me I will lead thee to them,",
+        "    And thou shalt know them not without delight.”"
+      ],
+      "verseLines": 45,
+      "words": 362,
+      "location": "princesValley",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sordello"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 7,
+      "cantoLabel": "VII",
+      "title": "The Valley of Flowers",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "But see already how the day declines,",
+        "    And to go up by night we are not able;",
+        "    Therefore ’tis well to think of some fair sojourn."
+      ],
+      "openingLines": [
+        "Souls are there on the right hand here withdrawn;",
+        "    If thou permit me I will lead thee to them,",
+        "    And thou shalt know them not without delight.”"
+      ],
+      "closingLines": [
+        "Better from off this ledge the acts and faces",
+        "    Of all of them will you discriminate,",
+        "    Than in the plain below received among them."
+      ],
+      "followingLines": [
+        "He who sits highest, and the semblance bears",
+        "    Of having what he should have done neglected,",
+        "    And to the others’ song moves not his lips,"
+      ],
+      "verseLines": 45,
+      "words": 357,
+      "location": "princesValley",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sordello",
+        "princes"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 7,
+      "cantoLabel": "VII",
+      "title": "The Negligent Princes",
+      "sourceStart": 91,
+      "sourceEnd": 136,
+      "precedingLines": [
+        "Better from off this ledge the acts and faces",
+        "    Of all of them will you discriminate,",
+        "    Than in the plain below received among them."
+      ],
+      "openingLines": [
+        "He who sits highest, and the semblance bears",
+        "    Of having what he should have done neglected,",
+        "    And to the others’ song moves not his lips,"
+      ],
+      "closingLines": [
+        "    Sits looking upward, is the Marquis William,",
+        "    For whose sake Alessandria and her war",
+        "Make Monferrat and Canavese weep.”"
+      ],
+      "followingLines": [],
+      "verseLines": 46,
+      "words": 357,
+      "location": "princesValley",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sordello",
+        "princes"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 8,
+      "cantoLabel": "VIII",
+      "title": "The Evening Hymn",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "’Twas now the hour that turneth back desire",
+        "    In those who sail the sea, and melts the heart,",
+        "    The day they’ve said to their sweet friends farewell,"
+      ],
+      "closingLines": [
+        "And once again Sordello: “Now descend we",
+        "    ’Mid the grand shades, and we will speak to them;",
+        "    Right pleasant will it be for them to see you.”"
+      ],
+      "followingLines": [
+        "Only three steps I think that I descended,",
+        "    And was below, and saw one who was looking",
+        "    Only at me, as if he fain would know me."
+      ],
+      "verseLines": 45,
+      "words": 348,
+      "location": "princesValley",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sordello",
+        "princes",
+        "nino",
+        "conrad"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 8,
+      "cantoLabel": "VIII",
+      "title": "Angels Against the Serpent",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "And once again Sordello: “Now descend we",
+        "    ’Mid the grand shades, and we will speak to them;",
+        "    Right pleasant will it be for them to see you.”"
+      ],
+      "openingLines": [
+        "Only three steps I think that I descended,",
+        "    And was below, and saw one who was looking",
+        "    Only at me, as if he fain would know me."
+      ],
+      "closingLines": [
+        "And my Conductor: “Son, what dost thou gaze at",
+        "    Up there?”  And I to him: “At those three torches",
+        "    With which this hither pole is all on fire.”"
+      ],
+      "followingLines": [
+        "And he to me: “The four resplendent stars",
+        "    Thou sawest this morning are down yonder low,",
+        "    And these have mounted up to where those were.”"
+      ],
+      "verseLines": 45,
+      "words": 368,
+      "location": "princesValley",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sordello",
+        "angels",
+        "serpent",
+        "nino",
+        "conrad"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 8,
+      "cantoLabel": "VIII",
+      "title": "Conrad’s Courtesy",
+      "sourceStart": 91,
+      "sourceEnd": 139,
+      "precedingLines": [
+        "And my Conductor: “Son, what dost thou gaze at",
+        "    Up there?”  And I to him: “At those three torches",
+        "    With which this hither pole is all on fire.”"
+      ],
+      "openingLines": [
+        "And he to me: “The four resplendent stars",
+        "    Thou sawest this morning are down yonder low,",
+        "    And these have mounted up to where those were.”"
+      ],
+      "closingLines": [
+        "    Shall in the middle of thy head be nailed",
+        "    With greater nails than of another’s speech,",
+        "Unless the course of justice standeth still.”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 397,
+      "location": "princesValley",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sordello",
+        "conrad"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 9,
+      "cantoLabel": "IX",
+      "title": "The Eagle Dream",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "The concubine of old Tithonus now",
+        "    Gleamed white upon the eastern balcony,",
+        "    Forth from the arms of her sweet paramour;"
+      ],
+      "closingLines": [
+        "“Be not intimidated,” said my Lord,",
+        "    “Be reassured, for all is well with us;",
+        "    Do not restrain, but put forth all thy strength."
+      ],
+      "followingLines": [
+        "Thou hast at length arrived at Purgatory;",
+        "    See there the cliff that closes it around;",
+        "    See there the entrance, where it seems disjoined."
+      ],
+      "verseLines": 48,
+      "words": 374,
+      "location": "gateStairs",
+      "presentCast": [
+        "dante",
+        "lucia"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 9,
+      "cantoLabel": "IX",
+      "title": "Before the Gate",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "“Be not intimidated,” said my Lord,",
+        "    “Be reassured, for all is well with us;",
+        "    Do not restrain, but put forth all thy strength."
+      ],
+      "openingLines": [
+        "Thou hast at length arrived at Purgatory;",
+        "    See there the cliff that closes it around;",
+        "    See there the entrance, where it seems disjoined."
+      ],
+      "closingLines": [
+        "Thither did we approach; and the first stair",
+        "    Was marble white, so polished and so smooth,",
+        "    I mirrored myself therein as I appear."
+      ],
+      "followingLines": [
+        "The second, tinct of deeper hue than perse,",
+        "    Was of a calcined and uneven stone,",
+        "    Cracked all asunder lengthwise and across."
+      ],
+      "verseLines": 48,
+      "words": 385,
+      "location": "gateStairs",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "lucia"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 9,
+      "cantoLabel": "IX",
+      "title": "The Seven Letters",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "Thither did we approach; and the first stair",
+        "    Was marble white, so polished and so smooth,",
+        "    I mirrored myself therein as I appear."
+      ],
+      "openingLines": [
+        "The second, tinct of deeper hue than perse,",
+        "    Was of a calcined and uneven stone,",
+        "    Cracked all asunder lengthwise and across."
+      ],
+      "closingLines": [
+        "    That which I heard, as we are wont to catch,",
+        "    When people singing with the organ stand;",
+        "For now we hear, and now hear not, the words."
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 382,
+      "location": "purgatoryGate",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "gateAngel"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 10,
+      "cantoLabel": "X",
+      "title": "Through the Needle’s Eye",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "When we had crossed the threshold of the door",
+        "    Which the perverted love of souls disuses,",
+        "    Because it makes the crooked way seem straight,"
+      ],
+      "closingLines": [
+        "And in her mien this language had impressed,",
+        "    “Ecce ancilla Dei,” as distinctly",
+        "    As any figure stamps itself in wax."
+      ],
+      "followingLines": [
+        "“Keep not thy mind upon one place alone,”",
+        "    The gentle Master said, who had me standing",
+        "    Upon that side where people have their hearts;"
+      ],
+      "verseLines": 45,
+      "words": 354,
+      "location": "prideTerrace",
+      "presentCast": [
+        "dante",
+        "virgil"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 10,
+      "cantoLabel": "X",
+      "title": "The Marble Images",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "And in her mien this language had impressed,",
+        "    “Ecce ancilla Dei,” as distinctly",
+        "    As any figure stamps itself in wax."
+      ],
+      "openingLines": [
+        "“Keep not thy mind upon one place alone,”",
+        "    The gentle Master said, who had me standing",
+        "    Upon that side where people have their hearts;"
+      ],
+      "closingLines": [
+        "Return?”  And he: “Who shall be where I am",
+        "    Will give it thee.”  And she: “Good deed of others",
+        "    What boots it thee, if thou neglect thine own?”"
+      ],
+      "followingLines": [
+        "Whence he: “Now comfort thee, for it behoves me",
+        "    That I discharge my duty ere I move;",
+        "    Justice so wills, and pity doth retain me.”"
+      ],
+      "verseLines": 45,
+      "words": 351,
+      "location": "prideTerrace",
+      "presentCast": [
+        "dante",
+        "virgil"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 10,
+      "cantoLabel": "X",
+      "title": "The Proud Beneath Their Stones",
+      "sourceStart": 91,
+      "sourceEnd": 139,
+      "precedingLines": [
+        "Return?”  And he: “Who shall be where I am",
+        "    Will give it thee.”  And she: “Good deed of others",
+        "    What boots it thee, if thou neglect thine own?”"
+      ],
+      "openingLines": [
+        "Whence he: “Now comfort thee, for it behoves me",
+        "    That I discharge my duty ere I move;",
+        "    Justice so wills, and pity doth retain me.”"
+      ],
+      "closingLines": [
+        "    According as they more or less were laden;",
+        "    And he who had most patience in his looks",
+        "Weeping did seem to say, “I can no more!”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 384,
+      "location": "prideTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "proud"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 11,
+      "cantoLabel": "XI",
+      "title": "The Prayer of the Proud",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "“Our Father, thou who dwellest in the heavens,",
+        "    Not circumscribed, but from the greater love",
+        "    Thou bearest to the first effects on high,"
+      ],
+      "closingLines": [
+        "For he who cometh with me, through the burden",
+        "    Of Adam’s flesh wherewith he is invested,",
+        "    Against his will is chary of his climbing.”"
+      ],
+      "followingLines": [
+        "The words of theirs which they returned to those",
+        "    That he whom I was following had spoken,",
+        "    It was not manifest from whom they came,"
+      ],
+      "verseLines": 45,
+      "words": 351,
+      "location": "prideTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "proud"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 11,
+      "cantoLabel": "XI",
+      "title": "Omberto’s Burden",
+      "sourceStart": 46,
+      "sourceEnd": 93,
+      "precedingLines": [
+        "For he who cometh with me, through the burden",
+        "    Of Adam’s flesh wherewith he is invested,",
+        "    Against his will is chary of his climbing.”"
+      ],
+      "openingLines": [
+        "The words of theirs which they returned to those",
+        "    That he whom I was following had spoken,",
+        "    It was not manifest from whom they came,"
+      ],
+      "closingLines": [
+        "O thou vain glory of the human powers,",
+        "    How little green upon thy summit lingers,",
+        "    If’t be not followed by an age of grossness!"
+      ],
+      "followingLines": [
+        "In painting Cimabue thought that he",
+        "    Should hold the field, now Giotto has the cry,",
+        "    So that the other’s fame is growing dim."
+      ],
+      "verseLines": 48,
+      "words": 386,
+      "location": "prideTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "omberto"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 11,
+      "cantoLabel": "XI",
+      "title": "Oderisi and Earthly Fame",
+      "sourceStart": 94,
+      "sourceEnd": 142,
+      "precedingLines": [
+        "O thou vain glory of the human powers,",
+        "    How little green upon thy summit lingers,",
+        "    If’t be not followed by an age of grossness!"
+      ],
+      "openingLines": [
+        "In painting Cimabue thought that he",
+        "    Should hold the field, now Giotto has the cry,",
+        "    So that the other’s fame is growing dim."
+      ],
+      "closingLines": [
+        "    Yet little time shall pass before thy neighbours",
+        "    Will so demean themselves that thou canst gloss it.",
+        "This action has released him from those confines.”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 398,
+      "location": "prideTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "oderisi"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 12,
+      "cantoLabel": "XII",
+      "title": "Examples Underfoot",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "Abreast, like oxen going in a yoke,",
+        "    I with that heavy-laden soul went on,",
+        "    As long as the sweet pedagogue permitted;"
+      ],
+      "closingLines": [
+        "O mad Arachne! so I thee beheld",
+        "    E’en then half spider, sad upon the shreds",
+        "    Of fabric wrought in evil hour for thee!"
+      ],
+      "followingLines": [
+        "O Rehoboam! no more seems to threaten",
+        "    Thine image there; but full of consternation",
+        "    A chariot bears it off, when none pursues!"
+      ],
+      "verseLines": 45,
+      "words": 341,
+      "location": "prideTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "proud"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 12,
+      "cantoLabel": "XII",
+      "title": "The Angel of Humility",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "O mad Arachne! so I thee beheld",
+        "    E’en then half spider, sad upon the shreds",
+        "    Of fabric wrought in evil hour for thee!"
+      ],
+      "openingLines": [
+        "O Rehoboam! no more seems to threaten",
+        "    Thine image there; but full of consternation",
+        "    A chariot bears it off, when none pursues!"
+      ],
+      "closingLines": [
+        "Towards us came the being beautiful",
+        "    Vested in white, and in his countenance",
+        "    Such as appears the tremulous morning star."
+      ],
+      "followingLines": [
+        "His arms he opened, and opened then his wings;",
+        "    “Come,” said he, “near at hand here are the steps,",
+        "    And easy from henceforth is the ascent.”"
+      ],
+      "verseLines": 45,
+      "words": 341,
+      "location": "prideStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "terraceAngel"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 12,
+      "cantoLabel": "XII",
+      "title": "The Lighter Ascent",
+      "sourceStart": 91,
+      "sourceEnd": 136,
+      "precedingLines": [
+        "Towards us came the being beautiful",
+        "    Vested in white, and in his countenance",
+        "    Such as appears the tremulous morning star."
+      ],
+      "openingLines": [
+        "His arms he opened, and opened then his wings;",
+        "    “Come,” said he, “near at hand here are the steps,",
+        "    And easy from henceforth is the ascent.”"
+      ],
+      "closingLines": [
+        "    I found but six the letters, that had carved",
+        "    Upon my temples he who bore the keys;",
+        "Upon beholding which my Leader smiled."
+      ],
+      "followingLines": [],
+      "verseLines": 46,
+      "words": 368,
+      "location": "prideStair",
+      "presentCast": [
+        "dante",
+        "virgil"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 13,
+      "cantoLabel": "XIII",
+      "title": "The Bridle of Envy",
+      "sourceStart": 1,
+      "sourceEnd": 51,
+      "precedingLines": [],
+      "openingLines": [
+        "We were upon the summit of the stairs,",
+        "    Where for the second time is cut away",
+        "    The mountain, which ascending shriveth all."
+      ],
+      "closingLines": [
+        "And when we were a little farther onward,",
+        "    I heard a cry of, “Mary, pray for us!”",
+        "    A cry of, “Michael, Peter, and all Saints!”"
+      ],
+      "followingLines": [
+        "I do not think there walketh still on earth",
+        "    A man so hard, that he would not be pierced",
+        "    With pity at what afterward I saw."
+      ],
+      "verseLines": 51,
+      "words": 408,
+      "location": "envyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "envious"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 13,
+      "cantoLabel": "XIII",
+      "title": "Eyes Sewn Shut",
+      "sourceStart": 52,
+      "sourceEnd": 102,
+      "precedingLines": [
+        "And when we were a little farther onward,",
+        "    I heard a cry of, “Mary, pray for us!”",
+        "    A cry of, “Michael, Peter, and all Saints!”"
+      ],
+      "openingLines": [
+        "I do not think there walketh still on earth",
+        "    A man so hard, that he would not be pierced",
+        "    With pity at what afterward I saw."
+      ],
+      "closingLines": [
+        "Among the rest I saw a shade that waited",
+        "    In aspect, and should any one ask how,",
+        "    Its chin it lifted upward like a blind man."
+      ],
+      "followingLines": [
+        "“Spirit,” I said, “who stoopest to ascend,",
+        "    If thou art he who did reply to me,",
+        "    Make thyself known to me by place or name.”"
+      ],
+      "verseLines": 51,
+      "words": 416,
+      "location": "envyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "envious"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 13,
+      "cantoLabel": "XIII",
+      "title": "Sapia of Siena",
+      "sourceStart": 103,
+      "sourceEnd": 154,
+      "precedingLines": [
+        "Among the rest I saw a shade that waited",
+        "    In aspect, and should any one ask how,",
+        "    Its chin it lifted upward like a blind man."
+      ],
+      "openingLines": [
+        "“Spirit,” I said, “who stoopest to ascend,",
+        "    If thou art he who did reply to me,",
+        "    Make thyself known to me by place or name.”"
+      ],
+      "closingLines": [
+        "    Who hope in Talamone, and will lose there",
+        "    More hope than in discovering the Diana;",
+        "But there still more the admirals will lose.”"
+      ],
+      "followingLines": [],
+      "verseLines": 52,
+      "words": 419,
+      "location": "envyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "sapia"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 14,
+      "cantoLabel": "XIV",
+      "title": "Two Spirits of Romagna",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "“Who is this one that goes about our mountain,",
+        "    Or ever Death has given him power of flight,",
+        "    And opes his eyes and shuts them at his will?”"
+      ],
+      "closingLines": [
+        "Curs findeth it thereafter, coming downward,",
+        "    More snarling than their puissance demands,",
+        "    And turns from them disdainfully its muzzle."
+      ],
+      "followingLines": [
+        "It goes on falling, and the more it grows,",
+        "    The more it finds the dogs becoming wolves,",
+        "    This maledict and misadventurous ditch."
+      ],
+      "verseLines": 48,
+      "words": 385,
+      "location": "envyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "guidoDuca",
+        "rinieri"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 14,
+      "cantoLabel": "XIV",
+      "title": "The Corrupted Valley",
+      "sourceStart": 49,
+      "sourceEnd": 99,
+      "precedingLines": [
+        "Curs findeth it thereafter, coming downward,",
+        "    More snarling than their puissance demands,",
+        "    And turns from them disdainfully its muzzle."
+      ],
+      "openingLines": [
+        "It goes on falling, and the more it grows,",
+        "    The more it finds the dogs becoming wolves,",
+        "    This maledict and misadventurous ditch."
+      ],
+      "closingLines": [
+        "Where is good Lizio, and Arrigo Manardi,",
+        "    Pier Traversaro, and Guido di Carpigna,",
+        "    O Romagnuoli into bastards turned?"
+      ],
+      "followingLines": [
+        "When in Bologna will a Fabbro rise?",
+        "    When in Faenza a Bernardin di Fosco,",
+        "    The noble scion of ignoble seed?"
+      ],
+      "verseLines": 51,
+      "words": 407,
+      "location": "envyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "guidoDuca",
+        "rinieri"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 14,
+      "cantoLabel": "XIV",
+      "title": "Warnings Against Envy",
+      "sourceStart": 100,
+      "sourceEnd": 151,
+      "precedingLines": [
+        "Where is good Lizio, and Arrigo Manardi,",
+        "    Pier Traversaro, and Guido di Carpigna,",
+        "    O Romagnuoli into bastards turned?"
+      ],
+      "openingLines": [
+        "When in Bologna will a Fabbro rise?",
+        "    When in Faenza a Bernardin di Fosco,",
+        "    The noble scion of ignoble seed?"
+      ],
+      "closingLines": [
+        "    Displaying to you their eternal beauties,",
+        "    And still your eye is looking on the ground;",
+        "Whence He, who all discerns, chastises you.”"
+      ],
+      "followingLines": [],
+      "verseLines": 52,
+      "words": 384,
+      "location": "envyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "envious"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 15,
+      "cantoLabel": "XV",
+      "title": "The Angel of Mercy",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "As much as ’twixt the close of the third hour",
+        "    And dawn of day appeareth of that sphere",
+        "    Which aye in fashion of a child is playing,"
+      ],
+      "closingLines": [
+        "Whence he to me: “Of his own greatest failing",
+        "    He knows the harm; and therefore wonder not",
+        "    If he reprove us, that we less may rue it."
+      ],
+      "followingLines": [
+        "Because are thither pointed your desires",
+        "    Where by companionship each share is lessened,",
+        "    Envy doth ply the bellows to your sighs."
+      ],
+      "verseLines": 48,
+      "words": 373,
+      "location": "envyStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "terraceAngel"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 15,
+      "cantoLabel": "XV",
+      "title": "Visions of Meekness",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "Whence he to me: “Of his own greatest failing",
+        "    He knows the harm; and therefore wonder not",
+        "    If he reprove us, that we less may rue it."
+      ],
+      "openingLines": [
+        "Because are thither pointed your desires",
+        "    Where by companionship each share is lessened,",
+        "    Envy doth ply the bellows to your sighs."
+      ],
+      "closingLines": [
+        "Then I beheld another with those waters",
+        "    Adown her cheeks which grief distils whenever",
+        "    From great disdain of others it is born,"
+      ],
+      "followingLines": [
+        "And saying: “If of that city thou art lord,",
+        "    For whose name was such strife among the gods,",
+        "    And whence doth every science scintillate,"
+      ],
+      "verseLines": 48,
+      "words": 368,
+      "location": "wrathTerrace",
+      "presentCast": [
+        "dante",
+        "virgil"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 15,
+      "cantoLabel": "XV",
+      "title": "The Blinding Smoke",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "Then I beheld another with those waters",
+        "    Adown her cheeks which grief distils whenever",
+        "    From great disdain of others it is born,"
+      ],
+      "openingLines": [
+        "And saying: “If of that city thou art lord,",
+        "    For whose name was such strife among the gods,",
+        "    And whence doth every science scintillate,"
+      ],
+      "closingLines": [
+        "    In our direction, sombre as the night,",
+        "    Nor was there place to hide one’s self therefrom.",
+        "This of our eyes and the pure air bereft us."
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 399,
+      "location": "wrathTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "wrathful"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 16,
+      "cantoLabel": "XVI",
+      "title": "A Voice in the Smoke",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "Darkness of hell, and of a night deprived",
+        "    Of every planet under a poor sky,",
+        "    As much as may be tenebrous with cloud,"
+      ],
+      "closingLines": [
+        "“Lombard was I, and I was Marco called;",
+        "    The world I knew, and loved that excellence,",
+        "    At which has each one now unbent his bow."
+      ],
+      "followingLines": [
+        "For mounting upward, thou art going right.”",
+        "    Thus he made answer, and subjoined: “I pray thee",
+        "    To pray for me when thou shalt be above.”"
+      ],
+      "verseLines": 48,
+      "words": 388,
+      "location": "wrathTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "marco"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 16,
+      "cantoLabel": "XVI",
+      "title": "Freedom and the Heavens",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "“Lombard was I, and I was Marco called;",
+        "    The world I knew, and loved that excellence,",
+        "    At which has each one now unbent his bow."
+      ],
+      "openingLines": [
+        "For mounting upward, thou art going right.”",
+        "    Thus he made answer, and subjoined: “I pray thee",
+        "    To pray for me when thou shalt be above.”"
+      ],
+      "closingLines": [
+        "Hence it behoved laws for a rein to place,",
+        "    Behoved a king to have, who at the least",
+        "    Of the true city should discern the tower."
+      ],
+      "followingLines": [
+        "The laws exist, but who sets hand to them?",
+        "    No one; because the shepherd who precedes",
+        "    Can ruminate, but cleaveth not the hoof;"
+      ],
+      "verseLines": 48,
+      "words": 405,
+      "location": "wrathTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "marco"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 16,
+      "cantoLabel": "XVI",
+      "title": "The Two Suns",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "Hence it behoved laws for a rein to place,",
+        "    Behoved a king to have, who at the least",
+        "    Of the true city should discern the tower."
+      ],
+      "openingLines": [
+        "The laws exist, but who sets hand to them?",
+        "    No one; because the shepherd who precedes",
+        "    Can ruminate, but cleaveth not the hoof;"
+      ],
+      "closingLines": [
+        "    Already whitening; and I must depart—",
+        "    Yonder the Angel is—ere he appear.”",
+        "Thus did he speak, and would no farther hear me."
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 388,
+      "location": "wrathTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "marco"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 17,
+      "cantoLabel": "XVII",
+      "title": "Visions of Anger",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "Remember, Reader, if e’er in the Alps",
+        "    A mist o’ertook thee, through which thou couldst see",
+        "    Not otherwise than through its membrane mole,"
+      ],
+      "closingLines": [
+        "So this imagining of mine fell down",
+        "    As soon as the effulgence smote my face,",
+        "    Greater by far than what is in our wont."
+      ],
+      "followingLines": [
+        "I turned me round to see where I might be,",
+        "    When said a voice, “Here is the passage up;”",
+        "    Which from all other purposes removed me,"
+      ],
+      "verseLines": 45,
+      "words": 343,
+      "location": "wrathTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "wrathful"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 17,
+      "cantoLabel": "XVII",
+      "title": "The Angel of Peace",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "So this imagining of mine fell down",
+        "    As soon as the effulgence smote my face,",
+        "    Greater by far than what is in our wont."
+      ],
+      "openingLines": [
+        "I turned me round to see where I might be,",
+        "    When said a voice, “Here is the passage up;”",
+        "    Which from all other purposes removed me,"
+      ],
+      "closingLines": [
+        "But still more openly to understand,",
+        "    Turn unto me thy mind, and thou shalt gather",
+        "    Some profitable fruit from our delay."
+      ],
+      "followingLines": [
+        "Neither Creator nor a creature ever,",
+        "    Son,” he began, “was destitute of love",
+        "    Natural or spiritual; and thou knowest it."
+      ],
+      "verseLines": 45,
+      "words": 361,
+      "location": "wrathStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "terraceAngel"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 17,
+      "cantoLabel": "XVII",
+      "title": "Virgil Defines Love",
+      "sourceStart": 91,
+      "sourceEnd": 139,
+      "precedingLines": [
+        "But still more openly to understand,",
+        "    Turn unto me thy mind, and thou shalt gather",
+        "    Some profitable fruit from our delay."
+      ],
+      "openingLines": [
+        "Neither Creator nor a creature ever,",
+        "    Son,” he began, “was destitute of love",
+        "    Natural or spiritual; and thou knowest it."
+      ],
+      "closingLines": [
+        "    Above us is lamented in three circles;",
+        "    But how tripartite it may be described,",
+        "I say not, that thou seek it for thyself.”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 381,
+      "location": "slothTerrace",
+      "presentCast": [
+        "dante",
+        "virgil"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 18,
+      "cantoLabel": "XVIII",
+      "title": "Love and Free Will",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "An end had put unto his reasoning",
+        "    The lofty Teacher, and attent was looking",
+        "    Into my face, if I appeared content;"
+      ],
+      "closingLines": [
+        "And he to me: “What reason seeth here,",
+        "    Myself can tell thee; beyond that await",
+        "    For Beatrice, since ’tis a work of faith."
+      ],
+      "followingLines": [
+        "Every substantial form, that segregate",
+        "    From matter is, and with it is united,",
+        "    Specific power has in itself collected,"
+      ],
+      "verseLines": 48,
+      "words": 368,
+      "location": "slothTerrace",
+      "presentCast": [
+        "dante",
+        "virgil"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 18,
+      "cantoLabel": "XVIII",
+      "title": "The Racing Penitents",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "And he to me: “What reason seeth here,",
+        "    Myself can tell thee; beyond that await",
+        "    For Beatrice, since ’tis a work of faith."
+      ],
+      "openingLines": [
+        "Every substantial form, that segregate",
+        "    From matter is, and with it is united,",
+        "    Specific power has in itself collected,"
+      ],
+      "closingLines": [
+        "So they along that circle curve their step,",
+        "    From what I saw of those approaching us,",
+        "    Who by good-will and righteous love are ridden."
+      ],
+      "followingLines": [
+        "Full soon they were upon us, because running",
+        "    Moved onward all that mighty multitude,",
+        "    And two in the advance cried out, lamenting,"
+      ],
+      "verseLines": 48,
+      "words": 363,
+      "location": "slothTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "slothful"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 18,
+      "cantoLabel": "XVIII",
+      "title": "The Abbot of San Zeno",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "So they along that circle curve their step,",
+        "    From what I saw of those approaching us,",
+        "    Who by good-will and righteous love are ridden."
+      ],
+      "openingLines": [
+        "Full soon they were upon us, because running",
+        "    Moved onward all that mighty multitude,",
+        "    And two in the advance cried out, lamenting,"
+      ],
+      "closingLines": [
+        "    And so I lapsed from one into another,",
+        "    That in a reverie mine eyes I closed,",
+        "And meditation into dream transmuted."
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 381,
+      "location": "slothTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "abbot"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 19,
+      "cantoLabel": "XIX",
+      "title": "The Dream of the Siren",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "It was the hour when the diurnal heat",
+        "    No more can warm the coldness of the moon,",
+        "    Vanquished by earth, or peradventure Saturn,"
+      ],
+      "closingLines": [
+        "With open wings, which of a swan appeared,",
+        "    Upward he turned us who thus spake to us,",
+        "    Between the two walls of the solid granite."
+      ],
+      "followingLines": [
+        "He moved his pinions afterwards and fanned us,",
+        "    Affirming those ‘qui lugent’ to be blessed,",
+        "    For they shall have their souls with comfort filled."
+      ],
+      "verseLines": 48,
+      "words": 388,
+      "location": "avariceStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "holyLady",
+        "siren"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 19,
+      "cantoLabel": "XIX",
+      "title": "The Angel of Zeal",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "With open wings, which of a swan appeared,",
+        "    Upward he turned us who thus spake to us,",
+        "    Between the two walls of the solid granite."
+      ],
+      "openingLines": [
+        "He moved his pinions afterwards and fanned us,",
+        "    Affirming those ‘qui lugent’ to be blessed,",
+        "    For they shall have their souls with comfort filled."
+      ],
+      "closingLines": [
+        "Who wast thou, and why are your backs turned upwards,",
+        "    Tell me, and if thou wouldst that I procure thee",
+        "    Anything there whence living I departed.”"
+      ],
+      "followingLines": [
+        "And he to me: “Wherefore our backs the heaven",
+        "    Turns to itself, know shalt thou; but beforehand",
+        "    ‘Scias quod ego fui successor Petri.’"
+      ],
+      "verseLines": 48,
+      "words": 385,
+      "location": "avariceStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "terraceAngel"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 19,
+      "cantoLabel": "XIX",
+      "title": "Adrian on the Ground",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "Who wast thou, and why are your backs turned upwards,",
+        "    Tell me, and if thou wouldst that I procure thee",
+        "    Anything there whence living I departed.”"
+      ],
+      "openingLines": [
+        "And he to me: “Wherefore our backs the heaven",
+        "    Turns to itself, know shalt thou; but beforehand",
+        "    ‘Scias quod ego fui successor Petri.’"
+      ],
+      "closingLines": [
+        "    Good in herself, unless indeed our house",
+        "    Malevolent may make her by example,",
+        "And she alone remains to me on earth.”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 386,
+      "location": "avariceTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "adrian"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 20,
+      "cantoLabel": "XX",
+      "title": "The Prayer of Cleaving",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "Ill strives the will against a better will;",
+        "    Therefore, to pleasure him, against my pleasure",
+        "    I drew the sponge not saturate from the water."
+      ],
+      "closingLines": [
+        "But if Douay and Ghent, and Lille and Bruges",
+        "    Had Power, soon vengeance would be taken on it;",
+        "    And this I pray of Him who judges all."
+      ],
+      "followingLines": [
+        "Hugh Capet was I called upon the earth;",
+        "    From me were born the Louises and Philips,",
+        "    By whom in later days has France been governed."
+      ],
+      "verseLines": 48,
+      "words": 373,
+      "location": "avariceTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "avaricious"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 20,
+      "cantoLabel": "XX",
+      "title": "Hugh Capet’s Confession",
+      "sourceStart": 49,
+      "sourceEnd": 99,
+      "precedingLines": [
+        "But if Douay and Ghent, and Lille and Bruges",
+        "    Had Power, soon vengeance would be taken on it;",
+        "    And this I pray of Him who judges all."
+      ],
+      "openingLines": [
+        "Hugh Capet was I called upon the earth;",
+        "    From me were born the Louises and Philips,",
+        "    By whom in later days has France been governed."
+      ],
+      "closingLines": [
+        "What I was saying of that only bride",
+        "    Of the Holy Ghost, and which occasioned thee",
+        "    To turn towards me for some commentary,"
+      ],
+      "followingLines": [
+        "So long has been ordained to all our prayers",
+        "    As the day lasts; but when the night comes on,",
+        "    Contrary sound we take instead thereof."
+      ],
+      "verseLines": 51,
+      "words": 401,
+      "location": "avariceTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "hughCapet"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 20,
+      "cantoLabel": "XX",
+      "title": "The Mountain Trembles",
+      "sourceStart": 100,
+      "sourceEnd": 151,
+      "precedingLines": [
+        "What I was saying of that only bride",
+        "    Of the Holy Ghost, and which occasioned thee",
+        "    To turn towards me for some commentary,"
+      ],
+      "openingLines": [
+        "So long has been ordained to all our prayers",
+        "    As the day lasts; but when the night comes on,",
+        "    Contrary sound we take instead thereof."
+      ],
+      "closingLines": [
+        "    Nor out of haste to question did I dare,",
+        "    Nor of myself I there could aught perceive;",
+        "So I went onward timorous and thoughtful."
+      ],
+      "followingLines": [],
+      "verseLines": 52,
+      "words": 388,
+      "location": "avariceTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "avaricious"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 21,
+      "cantoLabel": "XXI",
+      "title": "The Cause of the Earthquake",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "The natural thirst, that ne’er is satisfied",
+        "    Excepting with the water for whose grace",
+        "    The woman of Samaria besought,"
+      ],
+      "closingLines": [
+        "Free is it here from every permutation;",
+        "    What from itself heaven in itself receiveth",
+        "    Can be of this the cause, and naught beside;"
+      ],
+      "followingLines": [
+        "Because that neither rain, nor hail, nor snow,",
+        "    Nor dew, nor hoar-frost any higher falls",
+        "    Than the short, little stairway of three steps."
+      ],
+      "verseLines": 45,
+      "words": 364,
+      "location": "avariceTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 21,
+      "cantoLabel": "XXI",
+      "title": "Statius Names Himself",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "Free is it here from every permutation;",
+        "    What from itself heaven in itself receiveth",
+        "    Can be of this the cause, and naught beside;"
+      ],
+      "openingLines": [
+        "Because that neither rain, nor hail, nor snow,",
+        "    Nor dew, nor hoar-frost any higher falls",
+        "    Than the short, little stairway of three steps."
+      ],
+      "closingLines": [
+        "My vocal spirit was so sweet, that Rome",
+        "    Me, a Thoulousian, drew unto herself,",
+        "    Where I deserved to deck my brows with myrtle."
+      ],
+      "followingLines": [
+        "Statius the people name me still on earth;",
+        "    I sang of Thebes, and then of great Achilles;",
+        "    But on the way fell with my second burden."
+      ],
+      "verseLines": 45,
+      "words": 370,
+      "location": "avariceTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 21,
+      "cantoLabel": "XXI",
+      "title": "Praise Given Unknowingly",
+      "sourceStart": 91,
+      "sourceEnd": 136,
+      "precedingLines": [
+        "My vocal spirit was so sweet, that Rome",
+        "    Me, a Thoulousian, drew unto herself,",
+        "    Where I deserved to deck my brows with myrtle."
+      ],
+      "openingLines": [
+        "Statius the people name me still on earth;",
+        "    I sang of Thebes, and then of great Achilles;",
+        "    But on the way fell with my second burden."
+      ],
+      "closingLines": [
+        "    Of love which warms me to thee comprehend,",
+        "    When this our vanity I disremember,",
+        "Treating a shadow as substantial thing.”"
+      ],
+      "followingLines": [],
+      "verseLines": 46,
+      "words": 373,
+      "location": "avariceStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 22,
+      "cantoLabel": "XXII",
+      "title": "Statius and the Hidden Faith",
+      "sourceStart": 1,
+      "sourceEnd": 51,
+      "precedingLines": [],
+      "openingLines": [
+        "Already was the Angel left behind us,",
+        "    The Angel who to the sixth round had turned us,",
+        "    Having erased one mark from off my face;"
+      ],
+      "closingLines": [
+        "And know that the transgression which rebuts",
+        "    By direct opposition any sin",
+        "    Together with it here its verdure dries."
+      ],
+      "followingLines": [
+        "Therefore if I have been among that folk",
+        "    Which mourns its avarice, to purify me,",
+        "    For its opposite has this befallen me.”"
+      ],
+      "verseLines": 51,
+      "words": 381,
+      "location": "gluttonyStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 22,
+      "cantoLabel": "XXII",
+      "title": "The Sixth Terrace",
+      "sourceStart": 52,
+      "sourceEnd": 102,
+      "precedingLines": [
+        "And know that the transgression which rebuts",
+        "    By direct opposition any sin",
+        "    Together with it here its verdure dries."
+      ],
+      "openingLines": [
+        "Therefore if I have been among that folk",
+        "    Which mourns its avarice, to purify me,",
+        "    For its opposite has this befallen me.”"
+      ],
+      "closingLines": [
+        "“These, Persius and myself, and others many,”",
+        "    Replied my Leader, “with that Grecian are",
+        "    Whom more than all the rest the Muses suckled,"
+      ],
+      "followingLines": [
+        "In the first circle of the prison blind;",
+        "    Ofttimes we of the mountain hold discourse",
+        "    Which has our nurses ever with itself."
+      ],
+      "verseLines": 51,
+      "words": 385,
+      "location": "gluttonyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "gluttonous"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 22,
+      "cantoLabel": "XXII",
+      "title": "The Mystic Tree",
+      "sourceStart": 103,
+      "sourceEnd": 154,
+      "precedingLines": [
+        "“These, Persius and myself, and others many,”",
+        "    Replied my Leader, “with that Grecian are",
+        "    Whom more than all the rest the Muses suckled,"
+      ],
+      "openingLines": [
+        "In the first circle of the prison blind;",
+        "    Ofttimes we of the mountain hold discourse",
+        "    Which has our nurses ever with itself."
+      ],
+      "closingLines": [
+        "    That fed the Baptist in the wilderness;",
+        "    Whence he is glorious, and so magnified",
+        "As by the Evangel is revealed to you.”"
+      ],
+      "followingLines": [],
+      "verseLines": 52,
+      "words": 384,
+      "location": "gluttonyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "gluttonous"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 23,
+      "cantoLabel": "XXIII",
+      "title": "The Hollow Faces",
+      "sourceStart": 1,
+      "sourceEnd": 42,
+      "precedingLines": [],
+      "openingLines": [
+        "The while among the verdant leaves mine eyes",
+        "    I riveted, as he is wont to do",
+        "    Who wastes his life pursuing little birds,"
+      ],
+      "closingLines": [
+        "And lo! from out the hollow of his head",
+        "    His eyes a shade turned on me, and looked keenly;",
+        "    Then cried aloud: “What grace to me is this?”"
+      ],
+      "followingLines": [
+        "Never should I have known him by his look;",
+        "    But in his voice was evident to me",
+        "    That which his aspect had suppressed within it."
+      ],
+      "verseLines": 42,
+      "words": 326,
+      "location": "gluttonyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "gluttonous"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 23,
+      "cantoLabel": "XXIII",
+      "title": "Forese Recognizes Dante",
+      "sourceStart": 43,
+      "sourceEnd": 87,
+      "precedingLines": [
+        "And lo! from out the hollow of his head",
+        "    His eyes a shade turned on me, and looked keenly;",
+        "    Then cried aloud: “What grace to me is this?”"
+      ],
+      "openingLines": [
+        "Never should I have known him by his look;",
+        "    But in his voice was evident to me",
+        "    That which his aspect had suppressed within it."
+      ],
+      "closingLines": [
+        "And he to me: “Thus speedily has led me",
+        "    To drink of the sweet wormwood of these torments,",
+        "    My Nella with her overflowing tears;"
+      ],
+      "followingLines": [
+        "She with her prayers devout and with her sighs",
+        "    Has drawn me from the coast where one where one awaits,",
+        "    And from the other circles set me free."
+      ],
+      "verseLines": 45,
+      "words": 360,
+      "location": "gluttonyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "forese"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 23,
+      "cantoLabel": "XXIII",
+      "title": "The Power of Prayer",
+      "sourceStart": 88,
+      "sourceEnd": 133,
+      "precedingLines": [
+        "And he to me: “Thus speedily has led me",
+        "    To drink of the sweet wormwood of these torments,",
+        "    My Nella with her overflowing tears;"
+      ],
+      "openingLines": [
+        "She with her prayers devout and with her sighs",
+        "    Has drawn me from the coast where one where one awaits,",
+        "    And from the other circles set me free."
+      ],
+      "closingLines": [
+        "    And him I pointed at; “the other is",
+        "    That shade for whom just now shook every slope",
+        "Your realm, that from itself discharges him.”"
+      ],
+      "followingLines": [],
+      "verseLines": 46,
+      "words": 376,
+      "location": "gluttonyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "forese"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 24,
+      "cantoLabel": "XXIV",
+      "title": "The Second Tree",
+      "sourceStart": 1,
+      "sourceEnd": 51,
+      "precedingLines": [],
+      "openingLines": [
+        "Nor speech the going, nor the going that",
+        "    Slackened; but talking we went bravely on,",
+        "    Even as a vessel urged by a good wind."
+      ],
+      "closingLines": [
+        "But say if him I here behold, who forth",
+        "    Evoked the new-invented rhymes, beginning,",
+        "    ‘Ladies, that have intelligence of love?’”"
+      ],
+      "followingLines": [
+        "And I to him: “One am I, who, whenever",
+        "    Love doth inspire me, note, and in that measure",
+        "    Which he within me dictates, singing go.”"
+      ],
+      "verseLines": 51,
+      "words": 401,
+      "location": "gluttonyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "gluttonous"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 24,
+      "cantoLabel": "XXIV",
+      "title": "Bonagiunta and the New Style",
+      "sourceStart": 52,
+      "sourceEnd": 102,
+      "precedingLines": [
+        "But say if him I here behold, who forth",
+        "    Evoked the new-invented rhymes, beginning,",
+        "    ‘Ladies, that have intelligence of love?’”"
+      ],
+      "openingLines": [
+        "And I to him: “One am I, who, whenever",
+        "    Love doth inspire me, note, and in that measure",
+        "    Which he within me dictates, singing go.”"
+      ],
+      "closingLines": [
+        "And when before us he had gone so far",
+        "    Mine eyes became to him such pursuivants",
+        "    As was my understanding to his words,"
+      ],
+      "followingLines": [
+        "Appeared to me with laden and living boughs",
+        "    Another apple-tree, and not far distant,",
+        "    From having but just then turned thitherward."
+      ],
+      "verseLines": 51,
+      "words": 413,
+      "location": "gluttonyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "bonagiunta",
+        "forese"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 24,
+      "cantoLabel": "XXIV",
+      "title": "Forese Runs Ahead",
+      "sourceStart": 103,
+      "sourceEnd": 154,
+      "precedingLines": [
+        "And when before us he had gone so far",
+        "    Mine eyes became to him such pursuivants",
+        "    As was my understanding to his words,"
+      ],
+      "openingLines": [
+        "Appeared to me with laden and living boughs",
+        "    Another apple-tree, and not far distant,",
+        "    From having but just then turned thitherward."
+      ],
+      "closingLines": [
+        "    So much illumines, that the love of taste",
+        "    Excites not in their breasts too great desire,",
+        "Hungering at all times so far as is just.”"
+      ],
+      "followingLines": [],
+      "verseLines": 52,
+      "words": 412,
+      "location": "gluttonyTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "forese"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 25,
+      "cantoLabel": "XXV",
+      "title": "How the Body Forms",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "Now was it the ascent no hindrance brooked,",
+        "    Because the sun had his meridian circle",
+        "    To Taurus left, and night to Scorpio;"
+      ],
+      "closingLines": [
+        "Again digest, descends it where ’tis better",
+        "    Silent to be than say; and then drops thence",
+        "    Upon another’s blood in natural vase."
+      ],
+      "followingLines": [
+        "There one together with the other mingles,",
+        "    One to be passive meant, the other active",
+        "    By reason of the perfect place it springs from;"
+      ],
+      "verseLines": 45,
+      "words": 364,
+      "location": "lustStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 25,
+      "cantoLabel": "XXV",
+      "title": "The Soul Beyond Death",
+      "sourceStart": 46,
+      "sourceEnd": 90,
+      "precedingLines": [
+        "Again digest, descends it where ’tis better",
+        "    Silent to be than say; and then drops thence",
+        "    Upon another’s blood in natural vase."
+      ],
+      "openingLines": [
+        "There one together with the other mingles,",
+        "    One to be passive meant, the other active",
+        "    By reason of the perfect place it springs from;"
+      ],
+      "closingLines": [
+        "Soon as the place there circumscribeth it,",
+        "    The virtue informative rays round about,",
+        "    As, and as much as, in the living members."
+      ],
+      "followingLines": [
+        "And even as the air, when full of rain,",
+        "    By alien rays that are therein reflected,",
+        "    With divers colours shows itself adorned,"
+      ],
+      "verseLines": 45,
+      "words": 341,
+      "location": "lustStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 25,
+      "cantoLabel": "XXV",
+      "title": "The Terrace of Fire",
+      "sourceStart": 91,
+      "sourceEnd": 139,
+      "precedingLines": [
+        "Soon as the place there circumscribeth it,",
+        "    The virtue informative rays round about,",
+        "    As, and as much as, in the living members."
+      ],
+      "openingLines": [
+        "And even as the air, when full of rain,",
+        "    By alien rays that are therein reflected,",
+        "    With divers colours shows itself adorned,"
+      ],
+      "closingLines": [
+        "    For all the time the fire is burning them;",
+        "    With such care is it needful, and such food,",
+        "That the last wound of all should be closed up."
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 391,
+      "location": "lustTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "lustful"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 26,
+      "cantoLabel": "XXVI",
+      "title": "Two Companies in Flame",
+      "sourceStart": 1,
+      "sourceEnd": 51,
+      "precedingLines": [],
+      "openingLines": [
+        "While on the brink thus one before the other",
+        "    We went upon our way, oft the good Master",
+        "    Said: “Take thou heed! suffice it that I warn thee.”"
+      ],
+      "closingLines": [
+        "And close to me approached, even as before,",
+        "    The very same who had entreated me,",
+        "    Attent to listen in their countenance."
+      ],
+      "followingLines": [
+        "I, who their inclination twice had seen,",
+        "    Began: “O souls secure in the possession,",
+        "    Whene’er it may be, of a state of peace,"
+      ],
+      "verseLines": 51,
+      "words": 413,
+      "location": "lustTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "lustful"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 26,
+      "cantoLabel": "XXVI",
+      "title": "Guido Guinicelli",
+      "sourceStart": 52,
+      "sourceEnd": 102,
+      "precedingLines": [
+        "And close to me approached, even as before,",
+        "    The very same who had entreated me,",
+        "    Attent to listen in their countenance."
+      ],
+      "openingLines": [
+        "I, who their inclination twice had seen,",
+        "    Began: “O souls secure in the possession,",
+        "    Whene’er it may be, of a state of peace,"
+      ],
+      "closingLines": [
+        "And without speech and hearing thoughtfully",
+        "    For a long time I went, beholding him,",
+        "    Nor for the fire did I approach him nearer."
+      ],
+      "followingLines": [
+        "When I was fed with looking, utterly",
+        "    Myself I offered ready for his service,",
+        "    With affirmation that compels belief."
+      ],
+      "verseLines": 51,
+      "words": 392,
+      "location": "lustTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "guinicelli"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 26,
+      "cantoLabel": "XXVI",
+      "title": "Arnaut’s Provençal Farewell",
+      "sourceStart": 103,
+      "sourceEnd": 156,
+      "precedingLines": [
+        "And without speech and hearing thoughtfully",
+        "    For a long time I went, beholding him,",
+        "    Nor for the fire did I approach him nearer."
+      ],
+      "openingLines": [
+        "When I was fed with looking, utterly",
+        "    Myself I offered ready for his service,",
+        "    With affirmation that compels belief."
+      ],
+      "closingLines": [
+        "Therefore do I implore you, by that power",
+        "    Which guides you to the summit of the stairs,",
+        "    Be mindful to assuage my suffering!"
+      ],
+      "followingLines": [],
+      "verseLines": 54,
+      "words": 423,
+      "location": "lustTerrace",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "arnaut"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 27,
+      "cantoLabel": "XXVII",
+      "title": "Before the Wall of Fire",
+      "sourceStart": 1,
+      "sourceEnd": 45,
+      "precedingLines": [],
+      "openingLines": [
+        "As when he vibrates forth his earliest rays,",
+        "    In regions where his Maker shed his blood,",
+        "    (The Ebro falling under lofty Libra,"
+      ],
+      "closingLines": [
+        "Whereat he wagged his head, and said: “How now?",
+        "    Shall we stay on this side?” then smiled as one",
+        "    Does at a child who’s vanquished by an apple."
+      ],
+      "followingLines": [
+        "Then into the fire in front of me he entered,",
+        "    Beseeching Statius to come after me,",
+        "    Who a long way before divided us."
+      ],
+      "verseLines": 45,
+      "words": 354,
+      "location": "fireWall",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "terraceAngel"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 27,
+      "cantoLabel": "XXVII",
+      "title": "Through the Flame",
+      "sourceStart": 46,
+      "sourceEnd": 93,
+      "precedingLines": [
+        "Whereat he wagged his head, and said: “How now?",
+        "    Shall we stay on this side?” then smiled as one",
+        "    Does at a child who’s vanquished by an apple."
+      ],
+      "openingLines": [
+        "Then into the fire in front of me he entered,",
+        "    Beseeching Statius to come after me,",
+        "    Who a long way before divided us."
+      ],
+      "closingLines": [
+        "Thus ruminating, and beholding these,",
+        "    Sleep seized upon me,—sleep, that oftentimes",
+        "    Before a deed is done has tidings of it."
+      ],
+      "followingLines": [
+        "It was the hour, I think, when from the East",
+        "    First on the mountain Citherea beamed,",
+        "    Who with the fire of love seems always burning;"
+      ],
+      "verseLines": 48,
+      "words": 375,
+      "location": "fireWall",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 27,
+      "cantoLabel": "XXVII",
+      "title": "The Dream of Leah",
+      "sourceStart": 94,
+      "sourceEnd": 142,
+      "precedingLines": [
+        "Thus ruminating, and beholding these,",
+        "    Sleep seized upon me,—sleep, that oftentimes",
+        "    Before a deed is done has tidings of it."
+      ],
+      "openingLines": [
+        "It was the hour, I think, when from the East",
+        "    First on the mountain Citherea beamed,",
+        "    Who with the fire of love seems always burning;"
+      ],
+      "closingLines": [
+        "    Free and upright and sound is thy free-will,",
+        "    And error were it not to do its bidding;",
+        "Thee o’er thyself I therefore crown and mitre!”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 383,
+      "location": "paradiseStair",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "leah"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 28,
+      "cantoLabel": "XXVIII",
+      "title": "The Forest at the Summit",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "Eager already to search in and round",
+        "    The heavenly forest, dense and living-green,",
+        "    Which tempered to the eyes the new-born day,"
+      ],
+      "closingLines": [
+        "May the desire come unto thee to draw",
+        "    Near to this river’s bank,” I said to her,",
+        "    “So much that I might hear what thou art singing."
+      ],
+      "followingLines": [
+        "Thou makest me remember where and what",
+        "    Proserpina that moment was when lost",
+        "    Her mother her, and she herself the Spring.”"
+      ],
+      "verseLines": 48,
+      "words": 373,
+      "location": "earthlyForest",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 28,
+      "cantoLabel": "XXVIII",
+      "title": "The Lady Across Lethe",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "May the desire come unto thee to draw",
+        "    Near to this river’s bank,” I said to her,",
+        "    “So much that I might hear what thou art singing."
+      ],
+      "openingLines": [
+        "Thou makest me remember where and what",
+        "    Proserpina that moment was when lost",
+        "    Her mother her, and she herself the Spring.”"
+      ],
+      "closingLines": [
+        "By his default short while he sojourned here;",
+        "    By his default to weeping and to toil",
+        "    He changed his innocent laughter and sweet play."
+      ],
+      "followingLines": [
+        "That the disturbance which below is made",
+        "    By exhalations of the land and water,",
+        "    (Which far as may be follow after heat,)"
+      ],
+      "verseLines": 48,
+      "words": 364,
+      "location": "letheBank",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "matelda"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 28,
+      "cantoLabel": "XXVIII",
+      "title": "The Nature of Eden",
+      "sourceStart": 97,
+      "sourceEnd": 148,
+      "precedingLines": [
+        "By his default short while he sojourned here;",
+        "    By his default to weeping and to toil",
+        "    He changed his innocent laughter and sweet play."
+      ],
+      "openingLines": [
+        "That the disturbance which below is made",
+        "    By exhalations of the land and water,",
+        "    (Which far as may be follow after heat,)"
+      ],
+      "closingLines": [
+        "    Unto my Poets, and saw that with a smile",
+        "    They had been listening to these closing words;",
+        "Then to the beautiful lady turned mine eyes."
+      ],
+      "followingLines": [],
+      "verseLines": 52,
+      "words": 403,
+      "location": "letheBank",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "matelda"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 29,
+      "cantoLabel": "XXIX",
+      "title": "The Holy Procession",
+      "sourceStart": 1,
+      "sourceEnd": 51,
+      "precedingLines": [],
+      "openingLines": [
+        "Singing like unto an enamoured lady",
+        "    She, with the ending of her words, continued:",
+        "    “Beati quorum tecta sunt peccata.”"
+      ],
+      "closingLines": [
+        "The faculty that lends discourse to reason",
+        "    Did apprehend that they were candlesticks,",
+        "    And in the voices of the song “Hosanna!”"
+      ],
+      "followingLines": [
+        "Above them flamed the harness beautiful,",
+        "    Far brighter than the moon in the serene",
+        "    Of midnight, at the middle of her month."
+      ],
+      "verseLines": 51,
+      "words": 376,
+      "location": "processionWay",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "matelda",
+        "procession"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 29,
+      "cantoLabel": "XXIX",
+      "title": "The Griffin and Chariot",
+      "sourceStart": 52,
+      "sourceEnd": 102,
+      "precedingLines": [
+        "The faculty that lends discourse to reason",
+        "    Did apprehend that they were candlesticks,",
+        "    And in the voices of the song “Hosanna!”"
+      ],
+      "openingLines": [
+        "Above them flamed the harness beautiful,",
+        "    Far brighter than the moon in the serene",
+        "    Of midnight, at the middle of her month."
+      ],
+      "closingLines": [
+        "But read Ezekiel, who depicteth them",
+        "    As he beheld them from the region cold",
+        "    Coming with cloud, with whirlwind, and with fire;"
+      ],
+      "followingLines": [
+        "And such as thou shalt find them in his pages,",
+        "    Such were they here; saving that in their plumage",
+        "    John is with me, and differeth from him."
+      ],
+      "verseLines": 51,
+      "words": 390,
+      "location": "processionWay",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "matelda",
+        "procession",
+        "griffin"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 29,
+      "cantoLabel": "XXIX",
+      "title": "Seven Virtues Close the Train",
+      "sourceStart": 103,
+      "sourceEnd": 154,
+      "precedingLines": [
+        "But read Ezekiel, who depicteth them",
+        "    As he beheld them from the region cold",
+        "    Coming with cloud, with whirlwind, and with fire;"
+      ],
+      "openingLines": [
+        "And such as thou shalt find them in his pages,",
+        "    Such were they here; saving that in their plumage",
+        "    John is with me, and differeth from him."
+      ],
+      "closingLines": [
+        "    Thunder was heard; and all that folk august",
+        "    Seemed to have further progress interdicted,",
+        "There with the vanward ensigns standing still."
+      ],
+      "followingLines": [],
+      "verseLines": 52,
+      "words": 407,
+      "location": "processionWay",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "matelda",
+        "procession",
+        "virtues",
+        "griffin"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 30,
+      "cantoLabel": "XXX",
+      "title": "Beatrice Arrives",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "When the Septentrion of the highest heaven",
+        "    (Which never either setting knew or rising,",
+        "    Nor veil of other cloud than that of sin,"
+      ],
+      "closingLines": [
+        "To say unto Virgilius: “Not a drachm",
+        "    Of blood remains in me, that does not tremble;",
+        "    I know the traces of the ancient flame.”"
+      ],
+      "followingLines": [
+        "But us Virgilius of himself deprived",
+        "    Had left, Virgilius, sweetest of all fathers,",
+        "    Virgilius, to whom I for safety gave me:"
+      ],
+      "verseLines": 48,
+      "words": 360,
+      "location": "chariotGlade",
+      "presentCast": [
+        "dante",
+        "virgil",
+        "statius",
+        "matelda",
+        "beatrice",
+        "procession",
+        "griffin"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 30,
+      "cantoLabel": "XXX",
+      "title": "Virgil Is Gone",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "To say unto Virgilius: “Not a drachm",
+        "    Of blood remains in me, that does not tremble;",
+        "    I know the traces of the ancient flame.”"
+      ],
+      "openingLines": [
+        "But us Virgilius of himself deprived",
+        "    Had left, Virgilius, sweetest of all fathers,",
+        "    Virgilius, to whom I for safety gave me:"
+      ],
+      "closingLines": [
+        "But when I heard in their sweet melodies",
+        "    Compassion for me, more than had they said,",
+        "    “O wherefore, lady, dost thou thus upbraid him?”"
+      ],
+      "followingLines": [
+        "The ice, that was about my heart congealed,",
+        "    To air and water changed, and in my anguish",
+        "    Through mouth and eyes came gushing from my breast."
+      ],
+      "verseLines": 48,
+      "words": 359,
+      "location": "chariotGlade",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "procession",
+        "griffin"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 30,
+      "cantoLabel": "XXX",
+      "title": "Beatrice Names the Failure",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "But when I heard in their sweet melodies",
+        "    Compassion for me, more than had they said,",
+        "    “O wherefore, lady, dost thou thus upbraid him?”"
+      ],
+      "openingLines": [
+        "The ice, that was about my heart congealed,",
+        "    To air and water changed, and in my anguish",
+        "    Through mouth and eyes came gushing from my breast."
+      ],
+      "closingLines": [
+        "    If Lethe should be passed, and if such viands",
+        "    Should tasted be, withouten any scot",
+        "Of penitence, that gushes forth in tears.”"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 379,
+      "location": "chariotGlade",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "procession",
+        "griffin"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 31,
+      "cantoLabel": "XXXI",
+      "title": "Confession by Lethe",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "“O thou who art beyond the sacred river,”",
+        "    Turning to me the point of her discourse,",
+        "    That edgewise even had seemed to me so keen,"
+      ],
+      "closingLines": [
+        "Cast down the seed of weeping and attend;",
+        "    So shalt thou hear, how in an opposite way",
+        "    My buried flesh should have directed thee."
+      ],
+      "followingLines": [
+        "Never to thee presented art or nature",
+        "    Pleasure so great as the fair limbs wherein",
+        "    I was enclosed, which scattered are in earth."
+      ],
+      "verseLines": 48,
+      "words": 376,
+      "location": "letheBank",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "virtues"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 31,
+      "cantoLabel": "XXXI",
+      "title": "Beneath the Water",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "Cast down the seed of weeping and attend;",
+        "    So shalt thou hear, how in an opposite way",
+        "    My buried flesh should have directed thee."
+      ],
+      "openingLines": [
+        "Never to thee presented art or nature",
+        "    Pleasure so great as the fair limbs wherein",
+        "    I was enclosed, which scattered are in earth."
+      ],
+      "closingLines": [
+        "Up to my throat she in the stream had drawn me,",
+        "    And, dragging me behind her, she was moving",
+        "    Upon the water lightly as a shuttle."
+      ],
+      "followingLines": [
+        "When I was near unto the blessed shore,",
+        "    “Asperges me,” I heard so sweetly sung,",
+        "    Remember it I cannot, much less write it."
+      ],
+      "verseLines": 48,
+      "words": 385,
+      "location": "letheFord",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "virtues"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 31,
+      "cantoLabel": "XXXI",
+      "title": "The Griffin Reflected",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "Up to my throat she in the stream had drawn me,",
+        "    And, dragging me behind her, she was moving",
+        "    Upon the water lightly as a shuttle."
+      ],
+      "openingLines": [
+        "When I was near unto the blessed shore,",
+        "    “Asperges me,” I heard so sweetly sung,",
+        "    Remember it I cannot, much less write it."
+      ],
+      "closingLines": [
+        "    Striving to paint thee as thou didst appear,",
+        "    Where the harmonious heaven o’ershadowed thee,",
+        "When in the open air thou didst unveil?"
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 377,
+      "location": "chariotGlade",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "virtues",
+        "griffin"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 32,
+      "cantoLabel": "XXXII",
+      "title": "The Barren Tree",
+      "sourceStart": 1,
+      "sourceEnd": 51,
+      "precedingLines": [],
+      "openingLines": [
+        "So steadfast and attentive were mine eyes",
+        "    In satisfying their decennial thirst,",
+        "    That all my other senses were extinct,"
+      ],
+      "closingLines": [
+        "And turning to the pole which he had dragged,",
+        "    He drew it close beneath the widowed bough,",
+        "    And what was of it unto it left bound."
+      ],
+      "followingLines": [
+        "In the same manner as our trees (when downward",
+        "    Falls the great light, with that together mingled",
+        "    Which after the celestial Lasca shines)"
+      ],
+      "verseLines": 51,
+      "words": 394,
+      "location": "knowledgeTree",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "procession",
+        "griffin"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 32,
+      "cantoLabel": "XXXII",
+      "title": "The Chariot Bound",
+      "sourceStart": 52,
+      "sourceEnd": 105,
+      "precedingLines": [
+        "And turning to the pole which he had dragged,",
+        "    He drew it close beneath the widowed bough,",
+        "    And what was of it unto it left bound."
+      ],
+      "openingLines": [
+        "In the same manner as our trees (when downward",
+        "    Falls the great light, with that together mingled",
+        "    Which after the celestial Lasca shines)"
+      ],
+      "closingLines": [
+        "Therefore, for that world’s good which liveth ill,",
+        "    Fix on the car thine eyes, and what thou seest,",
+        "    Having returned to earth, take heed thou write.”"
+      ],
+      "followingLines": [
+        "Thus Beatrice; and I, who at the feet",
+        "    Of her commandments all devoted was,",
+        "    My mind and eyes directed where she willed."
+      ],
+      "verseLines": 54,
+      "words": 414,
+      "location": "knowledgeTree",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "procession",
+        "griffin"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 32,
+      "cantoLabel": "XXXII",
+      "title": "The Pageant of Corruption",
+      "sourceStart": 106,
+      "sourceEnd": 160,
+      "precedingLines": [
+        "Therefore, for that world’s good which liveth ill,",
+        "    Fix on the car thine eyes, and what thou seest,",
+        "    Having returned to earth, take heed thou write.”"
+      ],
+      "openingLines": [
+        "Thus Beatrice; and I, who at the feet",
+        "    Of her commandments all devoted was,",
+        "    My mind and eyes directed where she willed."
+      ],
+      "closingLines": [
+        "    He loosed the monster, and across the forest",
+        "    Dragged it so far, he made of that alone",
+        "A shield unto the whore and the strange beast."
+      ],
+      "followingLines": [],
+      "verseLines": 55,
+      "words": 435,
+      "location": "knowledgeTree",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "procession"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 33,
+      "cantoLabel": "XXXIII",
+      "title": "Beatrice’s Dark Prophecy",
+      "sourceStart": 1,
+      "sourceEnd": 48,
+      "precedingLines": [],
+      "openingLines": [
+        "“Deus venerunt gentes,” alternating",
+        "    Now three, now four, melodious psalmody",
+        "    The maidens in the midst of tears began;"
+      ],
+      "closingLines": [
+        "And peradventure my dark utterance,",
+        "    Like Themis and the Sphinx, may less persuade thee,",
+        "    Since, in their mode, it clouds the intellect;"
+      ],
+      "followingLines": [
+        "But soon the facts shall be the Naiades",
+        "    Who shall this difficult enigma solve,",
+        "    Without destruction of the flocks and harvests."
+      ],
+      "verseLines": 48,
+      "words": 374,
+      "location": "knowledgeTree",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "virtues"
+      ],
+      "rationale": "Authorial canto opening.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 33,
+      "cantoLabel": "XXXIII",
+      "title": "Toward the Second River",
+      "sourceStart": 49,
+      "sourceEnd": 96,
+      "precedingLines": [
+        "And peradventure my dark utterance,",
+        "    Like Themis and the Sphinx, may less persuade thee,",
+        "    Since, in their mode, it clouds the intellect;"
+      ],
+      "openingLines": [
+        "But soon the facts shall be the Naiades",
+        "    Who shall this difficult enigma solve,",
+        "    Without destruction of the flocks and harvests."
+      ],
+      "closingLines": [
+        "“And if thou art not able to remember,”",
+        "    Smiling she answered, “recollect thee now",
+        "    That thou this very day hast drunk of Lethe;"
+      ],
+      "followingLines": [
+        "And if from smoke a fire may be inferred,",
+        "    Such an oblivion clearly demonstrates",
+        "    Some error in thy will elsewhere intent."
+      ],
+      "verseLines": 48,
+      "words": 372,
+      "location": "eunoeBank",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice",
+        "virtues"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    },
+    {
+      "canto": 33,
+      "cantoLabel": "XXXIII",
+      "title": "Made Ready for the Stars",
+      "sourceStart": 97,
+      "sourceEnd": 145,
+      "precedingLines": [
+        "“And if thou art not able to remember,”",
+        "    Smiling she answered, “recollect thee now",
+        "    That thou this very day hast drunk of Lethe;"
+      ],
+      "openingLines": [
+        "And if from smoke a fire may be inferred,",
+        "    Such an oblivion clearly demonstrates",
+        "    Some error in thy will elsewhere intent."
+      ],
+      "closingLines": [
+        "    Regenerate, in the manner of new trees",
+        "    That are renewed with a new foliage,",
+        "Pure and disposed to mount unto the stars."
+      ],
+      "followingLines": [],
+      "verseLines": 49,
+      "words": 385,
+      "location": "eunoeBank",
+      "presentCast": [
+        "dante",
+        "statius",
+        "matelda",
+        "beatrice"
+      ],
+      "rationale": "Reviewed transition at the nearest complete tercet to the planned narrative beat.",
+      "seamNote": "Cut remains on a complete-tercet boundary and preserves source order."
+    }
+  ]
+}
