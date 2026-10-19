@@ -14,7 +14,7 @@ export async function checkLocations(page,edition,qa,images){
    await page.locator(`img[src$="/${blob.url}"]`).waitFor({state:'visible'})
    await images(marker.name)
    checked.push({id:marker.id,map:map.id,x:marker.x,y:marker.y,detailImageLoaded:true})
-   if(['dark-wood','dis-gate','malebolge-overlook','earth-centre','western-ocean'].some(key=>marker.id===`inferno-loc-${key}`))await page.screenshot({path:path.join(qa,`marker-${marker.id.replace('inferno-loc-','')}.png`)})
+   if(['shore','gateStairs','prideTerrace','wrathTerrace','gluttonyTerrace','knowledgeTree','eunoeBank'].some(key=>marker.id===`purgatorio-loc-${key}`))await page.screenshot({path:path.join(qa,`marker-${marker.id.replace('purgatorio-loc-','')}.png`)})
   }
  }
  return checked

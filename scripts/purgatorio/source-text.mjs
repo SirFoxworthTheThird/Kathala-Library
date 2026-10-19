@@ -18,7 +18,12 @@ export const cantos=positions.map((p,i)=>{const body=extracted.slice(p.index+p.m
 export const retainedText=cantos.map(c=>`${c.sourceHeading}\n\n${c.text}`).join('\n\n')
 export const verseText=cantos.map(c=>c.text).join('\n\n')
 export const verseLineCount=cantos.reduce((n,c)=>n+c.lines.length,0)
-export const stanzaGroupCount=cantos.reduce((n,c)=>n+Math.ceil(c.lines.length/3),0)
+// The source appends eight English note lines after Arnaut's Provençal speech.
+// Keep those lines in place, but do not count them as Dante's verse or tercets.
+export const translatorNoteLines=cantos[25].lines.slice(148)
+export const poemVerseLineCount=verseLineCount-translatorNoteLines.length
+export const stanzaGroupCount=cantos.reduce((n,c)=>n+Math.ceil((c.number===26?148:c.lines.length)/3),0)
+if(translatorNoteLines.length!==8||!translatorNoteLines[0].startsWith('* So pleases'))throw Error('Translator note boundary changed')
 export const countWords=text=>(text.match(/[\p{L}\p{N}]+(?:[’'][\p{L}\p{N}]+)*/gu)??[]).length
 export const normalize=text=>text.replace(/^\uFEFF/,'').replace(/\r\n?/g,'\n').split('\n').map(line=>line.trimEnd()).filter(line=>line.trim()).join('\n').trim()
 if(cantos.length!==33)throw Error(`Expected 33 cantos, found ${cantos.length}`)

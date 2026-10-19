@@ -677,14 +677,14 @@
       "author": "Dante Alighieri; translated by Henry Wadsworth Longfellow",
       "blurb": "Dante and Virgil climb the mountain where souls learn freedom through repentance, discipline, memory, and rightly ordered love.",
       "data": "purgatorio.pwk",
-      "dataBytes": 620244,
+      "dataBytes": 700653,
       "counts": {
-        "characters": 48,
+        "characters": 50,
         "chapters": 33,
-        "events": 99,
+        "events": 129,
         "locations": 32
       },
-      "notice": "Unofficial reading-mode edition of Henry Wadsworth Longfellow’s complete public-domain English translation of Purgatorio from Project Gutenberg eBook #1002. All 33 cantos and 4,763 retained verse lines follow the source order; Gutenberg packaging, title material, contents, blank separators, and licence text are excluded. Scene divisions, chronology, four topographic maps, and 90 original generated illustrations are editorial.",
+      "notice": "Unofficial reading-mode edition of Henry Wadsworth Longfellow’s complete public-domain English translation of Purgatorio from Project Gutenberg eBook #1002. All 33 cantos, 4,755 poem verse lines, and eight lines of Longfellow’s translation note follow the source order; Gutenberg packaging, title material, contents, blank separators, and licence text are excluded. Scene divisions, chronology, four topographic maps, and 93 original generated illustrations are editorial.",
       "worldId": "purgatorio-world",
       "cover": "library/purgatorio/art/world.png",
       "hasProse": true

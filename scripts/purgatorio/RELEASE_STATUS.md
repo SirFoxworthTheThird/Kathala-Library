@@ -1,40 +1,40 @@
 # Purgatorio release status
 
-Completed locally on 2026-10-19 from `feature/purgatorio-reading-edition`. No remote action has been taken.
+Repeat validation completed locally on 19 October 2026. This record supersedes the earlier release claims; the defects and corrections are documented in `CORRECTIONS.md`.
 
-## Edition
+## Final edition
 
-- Source: Project Gutenberg eBook #1002, *Divine Comedy, Longfellow’s Translation, Purgatory*.
+- Source: Project Gutenberg eBook #1002, Longfellow’s *Purgatory*.
 - Source SHA-256: `a84c5036f67ad127f1f39d144215bf116afb842c6b5a6d9a9dcd6f6d94cfdb60`.
-- Retained: 33 cantos, 1,609 stanza groups, 4,763 verse lines, and 37,410 words.
-- Structure: 99 source-reviewed scenes on one continuous ascent timeline.
-- Enrichment: 48 characters, 362 event-specific snapshots, 32 locations, five items, four maps, and 90 images.
-- Final PWK: 620,244 bytes; SHA-256 `2619f27c55ed007b98bb208408a3ff0c8c7ecbd04af0ec583389a14e71bdc615`.
-- Generator reproducibility: a clean rerun reproduced the same PWK SHA-256 byte for byte.
+- Complete retained manuscript: 33 cantos, 4,755 poem verse lines, eight translator-note lines, 1,607 poem stanza groups, 37,410 words.
+- Structure: 129 explicit source-reviewed scenes on a continuous four-day ascent.
+- Enrichment: 50 characters, 485 individually reviewed states, 32 locations, five items with 13 states, four maps, 93 distinct images, six knowledge facts and reveals, and four goals.
+- Final PWK: 700,653 bytes; SHA-256 `b65f77d26d34e0b6651c7bd35ec3e2d8ccc0361174e96d82d40042b55cd6216a`.
+- All exact generation prompts are preserved in `art-prompts.json` and bound to the final images in `ARTWORK_MANIFEST.json`.
 
-## Validation evidence
+## Validation
 
-- Staging manuscript validator: pass; normalized retained verse SHA-256 `11a9dd6a9b4ee8d1cabf158ed905e7fd100547c2048e256bb206626be85330d8`.
-- Dedicated book validator: pass.
-- Catalogue byte and count check: pass, 57 worlds.
-- Vitest: 1,012/1,012 pass across 20 files.
-- Repository gate: pass.
-- `git diff --check`: pass.
-- Artwork: 90/90 final PNGs hashed, dimension-checked, and visually reviewed in labelled contact sheets.
-- Maps: four final topographic illustrations visually reviewed in source and rendered UI form; bottom-origin markers and routes align with the final art.
+- Complete source reconstruction and dedicated book validator: pass.
+- Catalogue count and exact-byte check: pass, 57 worlds.
+- Vitest: 1,023/1,023 tests pass across 20 files, including ten mutation regressions for the corrected defects.
+- Repository gate and `git diff --check`: pass.
+- Generator reproduces the final PWK byte for byte.
+- All final images are hashed, dimension-checked, and visually inspected.
 
-## Kathala UI
+## Latest Kathala development UI
 
-Validated against application commit `37aa07e881d853e650e9c1d63da6a70d0c7485ec` using the downloadable local catalogue entry.
+The final downloadable PWK was validated against application commit `e920677e47ad79ea110c37855f0e0e05749e52e2`, verified to match remote `main`.
 
-- Download and opening reading gate: pass, with Dante and Virgil revealed.
-- Sequential reading reveal: pass.
-- Narrative Cards, Narrative Read, and Chronological Cards: pass.
-- Final verse and verse layout: pass; 99 verse blocks, 4,763 lines, preserved line breaks.
-- Ten supporting views in reading mode and nine data views with reading mode disabled: pass.
-- Four maps, 32 location detail images, three nested gateways, and two cross-layer playback transitions: pass.
-- Five sampled event-specific character state panels: pass.
-- Broken images: none.
-- Browser console and page errors: none.
+- Download, opening gate, and sequential reading reveal: pass.
+- Narrative Cards, Narrative Read, and Chronological view: pass.
+- Final verse and preserved line layout: 129 blocks, 4,763 retained lines.
+- All supporting views in reading and complete-data modes: pass.
+- Four maps, 32 location-detail images, three nested gateways, and two cross-layer playback transitions: pass.
+- Six knowledge facts checked immediately before and after reveal: 12 assertions pass.
+- Eight delayed names checked immediately before and after reveal: 16 assertions pass.
+- Ten individual state panels and all four goal panels: pass.
+- Broken images, console errors, and page errors: none.
 
-The machine-readable UI record is `qa/ui-results.json`. Screenshots in `qa/` show the catalogue, Book layouts, every map, and sampled character states. `qa/rendered-maps-contact.jpg` records the final map inspection.
+The exact imported PWK hash and machine-readable results are in `qa/ui-results.json`; screenshots show Book layouts, maps, selected locations, and individual states. The harness fails if the PWK changes during its run.
+
+No application source was changed. No push, PR, or merge was performed.

@@ -21,7 +21,9 @@
 
 ## Scene boundary review
 
-Each canto is divided into three reading scenes at complete tercet boundaries. The adjacent tercets, location, physically present cast, action, and narrative frame were inspected for all 99 scenes. The machine-readable record is `SCENE_BOUNDARY_AUDIT.json`. Embedded histories remain speech within the continuous ascent; the edition does not turn them into simultaneous timelines.
+The 129 scenes use explicit retained-source line starts chosen at changes of action, speaker, location, or knowledge. Every start is at a complete tercet boundary. Adjacent tercets, individual cast states, and a reason for each cut are recorded in `SCENE_BOUNDARY_AUDIT.json` and `reviewed-scenes.mjs`. The earlier calculated thirds were rejected in repeat validation because they misassigned actions and participants. Embedded histories remain speech within the continuous ascent; dream figures are explicitly identified as dream appearances.
+
+The retained body contains 4,755 poem verse lines and an eight-line English translation note after Arnaut’s Provençal speech in Canto XXVI (retained lines 149–156). The note remains at its exact source position. These are 4,763 retained nonblank lines and 37,410 words altogether. The poem has 1,607 stanza groups (tercets and the single closing line of each canto); the translator’s prose note is not counted as a tercet. The earlier figure of 1,609 incorrectly applied groups of three to the note.
 
 ## Reconstruction normalization
 

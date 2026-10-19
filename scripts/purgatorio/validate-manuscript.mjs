@@ -11,6 +11,6 @@ if(scenes.reduce((n,s)=>n+sourceVerse(s.text).split('\n').length,0)!==verseLineC
 if(scenes.reduce((n,s)=>n+s.wordCount,0)!==countWords(verseText))throw Error('Word count mismatch')
 for(const canto of cantos)if(sourceVerse(scenes[canto.number-1].text)!==canto.text)throw Error(`Canto ${canto.label} differs from retained source`)
 const hash=crypto.createHash('sha256').update(normalize(reconstructed)).digest('hex')
-console.log(`Manuscript PASS: ${cantos.length} cantos, ${stanzaGroupCount} stanza groups, ${verseLineCount} verse lines, ${countWords(verseText)} words`)
+console.log(`Manuscript PASS: ${cantos.length} cantos, ${stanzaGroupCount} stanza groups, ${verseLineCount} retained lines (4,755 verse + 8 note), ${countWords(verseText)} words`)
 console.log(`Source SHA-256: ${sourceSha256}`)
 console.log(`Normalized retained verse SHA-256: ${hash}`)

@@ -10,8 +10,15 @@
   "rights": "Public domain in the United States; Dante died in 1321 and Longfellow died in 1882.",
   "retained": {
     "cantos": 33,
-    "stanzaGroups": 1609,
-    "verseLines": 4763,
+    "stanzaGroups": 1607,
+    "retainedLines": 4763,
+    "verseLines": 4755,
+    "translatorNoteLines": 8,
+    "translatorNoteBoundary": {
+      "canto": 26,
+      "sourceStart": 149,
+      "sourceEnd": 156
+    },
     "words": 37410,
     "start": "Purgatorio: Canto I / To run o’er better waters hoists its sail",
     "end": "Pure and disposed to mount unto the stars."
