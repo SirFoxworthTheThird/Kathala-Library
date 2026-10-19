@@ -1,0 +1,492 @@
+{
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "pwkSha256": "b65f77d26d34e0b6651c7bd35ec3e2d8ccc0361174e96d82d40042b55cd6216a",
+  "download": true,
+  "readingModeOpening": true,
+  "readingModeSequentialReveal": true,
+  "manuscriptTimelines": 1,
+  "layouts": [
+    "cards",
+    "read"
+  ],
+  "bookOrders": [
+    "narrative",
+    "chronological cards"
+  ],
+  "supportingViews": 10,
+  "maps": 4,
+  "mapPins": 32,
+  "gateways": [
+    {
+      "from": "purgatorio-loc-mountain",
+      "to": "purgatorio-map-lower",
+      "activated": true
+    },
+    {
+      "from": "purgatorio-loc-gateStairs",
+      "to": "purgatorio-map-terraces",
+      "activated": true
+    },
+    {
+      "from": "purgatorio-loc-fireWall",
+      "to": "purgatorio-map-paradise",
+      "activated": true
+    }
+  ],
+  "playbackTransitions": [
+    {
+      "before": "Before the Gate",
+      "after": "The Three Steps",
+      "from": "purgatorio-map-lower",
+      "to": "purgatorio-map-terraces"
+    },
+    {
+      "before": "Through the Flame",
+      "after": "The Night on the Stair",
+      "from": "purgatorio-map-terraces",
+      "to": "purgatorio-map-paradise"
+    }
+  ],
+  "finalLine": true,
+  "verseLayout": {
+    "blocks": 129,
+    "lines": 4763,
+    "preservesBreaks": true
+  },
+  "locationChecks": [
+    {
+      "id": "purgatorio-loc-mountain",
+      "map": "purgatorio-map-overview",
+      "x": 760,
+      "y": 510,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-shore",
+      "map": "purgatorio-map-lower",
+      "x": 350,
+      "y": 324,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-mountainFoot",
+      "map": "purgatorio-map-lower",
+      "x": 420,
+      "y": 404,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-lowerSlope",
+      "map": "purgatorio-map-lower",
+      "x": 450,
+      "y": 474,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-belacquaLedge",
+      "map": "purgatorio-map-lower",
+      "x": 660,
+      "y": 514,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-latePath",
+      "map": "purgatorio-map-lower",
+      "x": 770,
+      "y": 574,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-sordelloRise",
+      "map": "purgatorio-map-lower",
+      "x": 950,
+      "y": 574,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-princesValley",
+      "map": "purgatorio-map-lower",
+      "x": 1180,
+      "y": 724,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-gateStairs",
+      "map": "purgatorio-map-lower",
+      "x": 1420,
+      "y": 924,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-purgatoryGate",
+      "map": "purgatorio-map-terraces",
+      "x": 810,
+      "y": 100,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-prideTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 1000,
+      "y": 194,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-prideStair",
+      "map": "purgatorio-map-terraces",
+      "x": 1230,
+      "y": 404,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-envyTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 850,
+      "y": 344,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-envyStair",
+      "map": "purgatorio-map-terraces",
+      "x": 1190,
+      "y": 554,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-wrathTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 850,
+      "y": 494,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-wrathStair",
+      "map": "purgatorio-map-terraces",
+      "x": 1170,
+      "y": 564,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-slothTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 800,
+      "y": 614,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-avariceStair",
+      "map": "purgatorio-map-terraces",
+      "x": 1190,
+      "y": 654,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-avariceTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 780,
+      "y": 694,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-gluttonyStair",
+      "map": "purgatorio-map-terraces",
+      "x": 1010,
+      "y": 734,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-gluttonyTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 780,
+      "y": 789,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-lustStair",
+      "map": "purgatorio-map-terraces",
+      "x": 1070,
+      "y": 844,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-lustTerrace",
+      "map": "purgatorio-map-terraces",
+      "x": 800,
+      "y": 964,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-fireWall",
+      "map": "purgatorio-map-terraces",
+      "x": 950,
+      "y": 969,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-paradiseStair",
+      "map": "purgatorio-map-paradise",
+      "x": 1360,
+      "y": 244,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-earthlyForest",
+      "map": "purgatorio-map-paradise",
+      "x": 1080,
+      "y": 344,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-letheBank",
+      "map": "purgatorio-map-paradise",
+      "x": 460,
+      "y": 474,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-processionWay",
+      "map": "purgatorio-map-paradise",
+      "x": 650,
+      "y": 504,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-chariotGlade",
+      "map": "purgatorio-map-paradise",
+      "x": 1020,
+      "y": 604,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-letheFord",
+      "map": "purgatorio-map-paradise",
+      "x": 530,
+      "y": 454,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-knowledgeTree",
+      "map": "purgatorio-map-paradise",
+      "x": 830,
+      "y": 764,
+      "detailImageLoaded": true
+    },
+    {
+      "id": "purgatorio-loc-eunoeBank",
+      "map": "purgatorio-map-paradise",
+      "x": 1250,
+      "y": 574,
+      "detailImageLoaded": true
+    }
+  ],
+  "knowledgeChecks": [
+    {
+      "fact": "The mountain permits ascent only by day",
+      "event": "Virgil Names Himself",
+      "visible": false
+    },
+    {
+      "fact": "The mountain permits ascent only by day",
+      "event": "The Rule of the Mountain",
+      "visible": true
+    },
+    {
+      "fact": "Prayer can shorten the waiting of the penitent",
+      "event": "The Press of Petitions",
+      "visible": false
+    },
+    {
+      "fact": "Prayer can shorten the waiting of the penitent",
+      "event": "Prayer and Justice",
+      "visible": true
+    },
+    {
+      "fact": "Seven marks measure the ascent",
+      "event": "The Three Steps",
+      "visible": false
+    },
+    {
+      "fact": "Seven marks measure the ascent",
+      "event": "The Seven Letters",
+      "visible": true
+    },
+    {
+      "fact": "The mountain trembles when a soul is free",
+      "event": "The Mountain Trembles",
+      "visible": false
+    },
+    {
+      "fact": "The mountain trembles when a soul is free",
+      "event": "The Cause of the Earthquake",
+      "visible": true
+    },
+    {
+      "fact": "The lady of the forest is Matelda",
+      "event": "Toward the Second River",
+      "visible": false
+    },
+    {
+      "fact": "The lady of the forest is Matelda",
+      "event": "Matelda Named",
+      "visible": true
+    },
+    {
+      "fact": "Lucia carried Dante to the gate",
+      "event": "The Eagle Dream",
+      "visible": false
+    },
+    {
+      "fact": "Lucia carried Dante to the gate",
+      "event": "Before the Gate",
+      "visible": true
+    }
+  ],
+  "revealChecks": [
+    {
+      "character": "purgatorio-char-cato",
+      "event": "The Austere Guardian",
+      "name": "The Austere Guardian"
+    },
+    {
+      "character": "purgatorio-char-cato",
+      "event": "Freedom and Permission",
+      "name": "Cato of Utica"
+    },
+    {
+      "character": "purgatorio-char-casella",
+      "event": "The Empty Embrace",
+      "name": "The Affectionate Shade"
+    },
+    {
+      "character": "purgatorio-char-casella",
+      "event": "Casella’s Song",
+      "name": "Casella"
+    },
+    {
+      "character": "purgatorio-char-manfred",
+      "event": "A Wounded Stranger",
+      "name": "The Wounded Stranger"
+    },
+    {
+      "character": "purgatorio-char-manfred",
+      "event": "The Mercy Manfred Found",
+      "name": "Manfred"
+    },
+    {
+      "character": "purgatorio-char-guidoDuca",
+      "event": "Two Spirits of Romagna",
+      "name": "The Questioning Spirit"
+    },
+    {
+      "character": "purgatorio-char-guidoDuca",
+      "event": "The Corrupted Valley",
+      "name": "Guido del Duca"
+    },
+    {
+      "character": "purgatorio-char-rinieri",
+      "event": "Two Spirits of Romagna",
+      "name": "The Listening Spirit"
+    },
+    {
+      "character": "purgatorio-char-rinieri",
+      "event": "The Corrupted Valley",
+      "name": "Rinieri da Calboli"
+    },
+    {
+      "character": "purgatorio-char-statius",
+      "event": "The Poet’s Debt",
+      "name": "The Released Shade"
+    },
+    {
+      "character": "purgatorio-char-statius",
+      "event": "Statius Names Himself",
+      "name": "Statius"
+    },
+    {
+      "character": "purgatorio-char-guinicelli",
+      "event": "A Mortal Among the Flames",
+      "name": "The Questioning Penitent"
+    },
+    {
+      "character": "purgatorio-char-guinicelli",
+      "event": "Guido Guinicelli",
+      "name": "Guido Guinicelli"
+    },
+    {
+      "character": "purgatorio-char-matelda",
+      "event": "Toward the Second River",
+      "name": "The Lady of the Forest"
+    },
+    {
+      "character": "purgatorio-char-matelda",
+      "event": "Matelda Named",
+      "name": "Matelda"
+    }
+  ],
+  "completeDatasetViews": 10,
+  "individualStateChecks": [
+    {
+      "event": "The Better Waters",
+      "character": "dante"
+    },
+    {
+      "event": "The Rush of Humility",
+      "character": "virgil"
+    },
+    {
+      "event": "The Mercy Manfred Found",
+      "character": "manfred"
+    },
+    {
+      "event": "Beatrice Arrives",
+      "character": "beatrice"
+    },
+    {
+      "event": "Made Ready for the Stars",
+      "character": "dante"
+    },
+    {
+      "event": "The Blood in the Marsh",
+      "character": "jacopo"
+    },
+    {
+      "event": "Provenzan’s Humiliation",
+      "character": "provenzan"
+    },
+    {
+      "event": "The Dream of the Siren",
+      "character": "holyLady"
+    },
+    {
+      "event": "The Dream of Leah",
+      "character": "leah"
+    },
+    {
+      "event": "Matelda Named",
+      "character": "matelda"
+    }
+  ],
+  "goalChecks": [
+    {
+      "character": "purgatorio-char-dante",
+      "type": "want",
+      "visible": true
+    },
+    {
+      "character": "purgatorio-char-virgil",
+      "type": "want",
+      "visible": true
+    },
+    {
+      "character": "purgatorio-char-statius",
+      "type": "want",
+      "visible": true
+    },
+    {
+      "character": "purgatorio-char-beatrice",
+      "type": "want",
+      "visible": true
+    }
+  ],
+  "consoleErrors": []
+}

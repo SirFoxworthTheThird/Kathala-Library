@@ -1,0 +1,36 @@
+{
+  "title": "Purgatorio",
+  "author": "Dante Alighieri",
+  "translator": "Henry Wadsworth Longfellow",
+  "sourceEdition": "Dante Alighieri, Divine Comedy, Longfellow's Translation, Purgatory, translated by Henry Wadsworth Longfellow, Project Gutenberg eBook #1002; released 1 August 1997; source file most recently updated 26 September 2026.",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/1002/pg1002.txt",
+  "downloaded": "2026-10-18",
+  "sourceBytes": 249087,
+  "sourceSha256": "a84c5036f67ad127f1f39d144215bf116afb842c6b5a6d9a9dcd6f6d94cfdb60",
+  "rights": "Public domain in the United States; Dante died in 1321 and Longfellow died in 1882.",
+  "retained": {
+    "cantos": 33,
+    "stanzaGroups": 1607,
+    "retainedLines": 4763,
+    "verseLines": 4755,
+    "translatorNoteLines": 8,
+    "translatorNoteBoundary": {
+      "canto": 26,
+      "sourceStart": 149,
+      "sourceEnd": 156
+    },
+    "words": 37410,
+    "start": "Purgatorio: Canto I / To run o’er better waters hoists its sail",
+    "end": "Pure and disposed to mount unto the stars."
+  },
+  "excluded": [
+    "Project Gutenberg header and licence",
+    "title and translator page",
+    "contents list",
+    "canto headings",
+    "blank packaging lines",
+    "Project Gutenberg footer"
+  ],
+  "spelling": "Longfellow’s wording, capitalization, punctuation, apostrophes, indentation, and lineation are retained. No modernization or silent correction is applied.",
+  "normalization": "Final drafts add a two-space verse presentation prefix. Remove exactly that prefix; convert CRLF/CR to LF; remove trailing whitespace and empty packaging lines; every nonempty retained line must otherwise match exactly."
+}
