@@ -1,0 +1,164 @@
+{
+  "worldSha256": "9d880aced3337b65f75fb56e1a06b20feb12d7ddcefbcdb8eb4539443adb8e1a",
+  "errors": 0,
+  "warnings": 0,
+  "notices": [
+    {
+      "scene": "little-women-event-5-14",
+      "message": "2 names in the prose of \"The Afternoon Retold\" are not in its cast",
+      "classification": "false-positive",
+      "reason": "Common words in temporary infant names refer to other people; the later child has not been born."
+    },
+    {
+      "scene": "little-women-event-13-8",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"A Meeting Ten Years Hence\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-18-6",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Laurie’s Secret Telegram\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-19-10",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"News of Beth\"",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    },
+    {
+      "scene": "little-women-event-20-4",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Jo Tells Marmee the Secret\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-21-10",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Laurie Threatens to Run Away\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-24-5",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Making the Dovecote\"",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    },
+    {
+      "scene": "little-women-event-24-11",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Jo Lectures Laurie on the Walk\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-28-27",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Daisy and Demi\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-29-10",
+      "message": "Laurie’s young daughter is named in the prose but not in the cast of \"Jo Chooses the Boys\"",
+      "classification": "false-positive",
+      "reason": "Common words in temporary infant names refer to other people; the later child has not been born."
+    },
+    {
+      "scene": "little-women-event-30-1",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Amy’s Place at the Fair\"",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    },
+    {
+      "scene": "little-women-event-30-10",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Jo Enlists Laurie\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-30-11",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"The Tables Turn\"",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    },
+    {
+      "scene": "little-women-event-31-2",
+      "message": "Kate Vaughn is named in the prose but not in the cast of \"Across the Atlantic\"",
+      "classification": "false-positive",
+      "reason": "Kate Kearney is the quoted song, not Kate Vaughn."
+    },
+    {
+      "scene": "little-women-event-31-9",
+      "message": "Bhaer’s two students is named in the prose but not in the cast of \"The Rhine Journey\"",
+      "classification": "false-positive",
+      "reason": "The Rhine students are Bonn singers, not Bhaer’s two female pupils."
+    },
+    {
+      "scene": "little-women-event-32-7",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Talk of Flirting and Marriage\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-37-12",
+      "message": "2 names in the prose of \"The Christmas Ball\" are not in its cast",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    },
+    {
+      "scene": "little-women-event-39-8",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Amy Gives Up Great Art\"",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    },
+    {
+      "scene": "little-women-event-41-16",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Laurie Finds Amy at Vevay\"",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    },
+    {
+      "scene": "little-women-event-42-11",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Amy and Laurie Are Engaged\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-43-2",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Laurie’s Ghost\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-43-4",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"The Old Place Without the Old Barrier\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-43-7",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Jo Admits Her Loneliness\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-44-1",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Laurie Borrows His Wife\"",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    },
+    {
+      "scene": "little-women-event-47-3",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"The Plumfield Vision\"",
+      "classification": "false-positive",
+      "reason": "Teddy refers to Laurie in these passages, before Teddy Bhaer is born."
+    },
+    {
+      "scene": "little-women-event-47-8",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"The Sisters Compare Their Castles\"",
+      "classification": "false-positive",
+      "reason": "The common word girls refers to other women, not Amy’s former schoolmates."
+    }
+  ],
+  "policy": "Do not add absent people to cast or mention lists merely to satisfy a lexical matcher. No continuity suppressions are used."
+}

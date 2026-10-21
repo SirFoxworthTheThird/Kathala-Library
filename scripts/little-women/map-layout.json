@@ -1,0 +1,190 @@
+{
+  "world": {
+    "concordGateway": [
+      370,
+      450
+    ],
+    "newYork": [
+      345,
+      500
+    ],
+    "washington": [
+      330,
+      555
+    ],
+    "seaside": [
+      450,
+      415
+    ],
+    "europeGateway": [
+      1080,
+      440
+    ],
+    "departurePort": [
+      470,
+      510
+    ]
+  },
+  "concord": {
+    "marchGateway": [
+      625,
+      425
+    ],
+    "laurenceGateway": [
+      780,
+      420
+    ],
+    "dovecoteGateway": [
+      530,
+      565
+    ],
+    "auntMarchHouse": [
+      165,
+      375
+    ],
+    "town": [
+      690,
+      655
+    ],
+    "river": [
+      1080,
+      610
+    ],
+    "longmeadow": [
+      1050,
+      185
+    ],
+    "moffatHouse": [
+      155,
+      640
+    ],
+    "fairHall": [
+      805,
+      645
+    ],
+    "plumfield": [
+      1200,
+      315
+    ],
+    "delectableHill": [
+      450,
+      245
+    ]
+  },
+  "march-house": {
+    "marchParlor": [
+      280,
+      585
+    ],
+    "marchBedrooms": [
+      310,
+      155
+    ],
+    "marchKitchen": [
+      710,
+      435
+    ],
+    "marchDining": [
+      705,
+      625
+    ],
+    "marchHall": [
+      520,
+      610
+    ],
+    "marchStudy": [
+      245,
+      390
+    ],
+    "marchYard": [
+      1110,
+      610
+    ],
+    "marchGarret": [
+      1010,
+      150
+    ]
+  },
+  "laurence-estate": {
+    "laurenceLibrary": [
+      250,
+      400
+    ],
+    "laurenceParlor": [
+      650,
+      440
+    ],
+    "laurenceDining": [
+      650,
+      230
+    ],
+    "laurieRoom": [
+      1160,
+      150
+    ],
+    "laurenceGrounds": [
+      1090,
+      610
+    ],
+    "laurenceHall": [
+      420,
+      455
+    ]
+  },
+  "dovecote": {
+    "dovecoteParlor": [
+      330,
+      430
+    ],
+    "dovecoteKitchen": [
+      670,
+      390
+    ],
+    "dovecoteNursery": [
+      1160,
+      165
+    ],
+    "dovecoteDining": [
+      700,
+      490
+    ],
+    "dovecoteHall": [
+      530,
+      515
+    ],
+    "dovecoteGarden": [
+      1040,
+      625
+    ]
+  },
+  "europe": {
+    "london": [
+      385,
+      230
+    ],
+    "paris": [
+      510,
+      420
+    ],
+    "germany": [
+      760,
+      315
+    ],
+    "nice": [
+      790,
+      640
+    ],
+    "valrosa": [
+      855,
+      625
+    ],
+    "vevay": [
+      700,
+      555
+    ],
+    "vienna": [
+      1110,
+      390
+    ]
+  }
+}

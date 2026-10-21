@@ -1,0 +1,341 @@
+{
+  "status": "release manuscript reconstruction passed",
+  "sourceSha256": "36831477b339dbcd7e7206119d77e9e58b9727ef3c299d1a1dc4446e1db97850",
+  "normalizedNarrativeSha256": "1a7fe8c6f486a7b56564dfd0d496f8bf8996371789fdc6e5e10fc46486aa89de",
+  "parts": 2,
+  "chapters": 47,
+  "stagingContainers": 47,
+  "words": 186395,
+  "paragraphs": 3815,
+  "chapterCounts": [
+    {
+      "number": 1,
+      "part": 1,
+      "title": "PLAYING PILGRIMS",
+      "paragraphs": 94,
+      "words": 4118
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "title": "A MERRY CHRISTMAS",
+      "paragraphs": 74,
+      "words": 4064
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "title": "THE LAURENCE BOY",
+      "paragraphs": 124,
+      "words": 3895
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "title": "BURDENS",
+      "paragraphs": 70,
+      "words": 4780
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "title": "BEING NEIGHBORLY",
+      "paragraphs": 135,
+      "words": 4441
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "title": "BETH FINDS THE PALACE BEAUTIFUL",
+      "paragraphs": 44,
+      "words": 2697
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "title": "AMY’S VALLEY OF HUMILIATION",
+      "paragraphs": 59,
+      "words": 2622
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "title": "JO MEETS APOLLYON",
+      "paragraphs": 91,
+      "words": 4277
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "title": "MEG GOES TO VANITY FAIR",
+      "paragraphs": 143,
+      "words": 6280
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "title": "THE P.C. AND P.O.",
+      "paragraphs": 85,
+      "words": 3342
+    },
+    {
+      "number": 11,
+      "part": 1,
+      "title": "EXPERIMENTS",
+      "paragraphs": 83,
+      "words": 4227
+    },
+    {
+      "number": 12,
+      "part": 1,
+      "title": "CAMP LAURENCE",
+      "paragraphs": 185,
+      "words": 7314
+    },
+    {
+      "number": 13,
+      "part": 1,
+      "title": "CASTLES IN THE AIR",
+      "paragraphs": 93,
+      "words": 3545
+    },
+    {
+      "number": 14,
+      "part": 1,
+      "title": "SECRETS",
+      "paragraphs": 124,
+      "words": 3317
+    },
+    {
+      "number": 15,
+      "part": 1,
+      "title": "A TELEGRAM",
+      "paragraphs": 78,
+      "words": 3306
+    },
+    {
+      "number": 16,
+      "part": 1,
+      "title": "LETTERS",
+      "paragraphs": 58,
+      "words": 2891
+    },
+    {
+      "number": 17,
+      "part": 1,
+      "title": "LITTLE FAITHFUL",
+      "paragraphs": 86,
+      "words": 2628
+    },
+    {
+      "number": 18,
+      "part": 1,
+      "title": "DARK DAYS",
+      "paragraphs": 53,
+      "words": 3273
+    },
+    {
+      "number": 19,
+      "part": 1,
+      "title": "AMY’S WILL",
+      "paragraphs": 58,
+      "words": 3276
+    },
+    {
+      "number": 20,
+      "part": 1,
+      "title": "CONFIDENTIAL",
+      "paragraphs": 48,
+      "words": 2725
+    },
+    {
+      "number": 21,
+      "part": 1,
+      "title": "LAURIE MAKES MISCHIEF, AND JO MAKES PEACE",
+      "paragraphs": 120,
+      "words": 4425
+    },
+    {
+      "number": 22,
+      "part": 1,
+      "title": "PLEASANT MEADOWS",
+      "paragraphs": 46,
+      "words": 2504
+    },
+    {
+      "number": 23,
+      "part": 1,
+      "title": "AUNT MARCH SETTLES THE QUESTION",
+      "paragraphs": 100,
+      "words": 4312
+    },
+    {
+      "number": 24,
+      "part": 2,
+      "title": "GOSSIP",
+      "paragraphs": 84,
+      "words": 4403
+    },
+    {
+      "number": 25,
+      "part": 2,
+      "title": "THE FIRST WEDDING",
+      "paragraphs": 43,
+      "words": 2488
+    },
+    {
+      "number": 26,
+      "part": 2,
+      "title": "ARTISTIC ATTEMPTS",
+      "paragraphs": 68,
+      "words": 3909
+    },
+    {
+      "number": 27,
+      "part": 2,
+      "title": "LITERARY LESSONS",
+      "paragraphs": 39,
+      "words": 2889
+    },
+    {
+      "number": 28,
+      "part": 2,
+      "title": "DOMESTIC EXPERIENCES",
+      "paragraphs": 91,
+      "words": 5769
+    },
+    {
+      "number": 29,
+      "part": 2,
+      "title": "CALLS",
+      "paragraphs": 99,
+      "words": 4871
+    },
+    {
+      "number": 30,
+      "part": 2,
+      "title": "CONSEQUENCES",
+      "paragraphs": 89,
+      "words": 4433
+    },
+    {
+      "number": 31,
+      "part": 2,
+      "title": "OUR FOREIGN CORRESPONDENT",
+      "paragraphs": 43,
+      "words": 3940
+    },
+    {
+      "number": 32,
+      "part": 2,
+      "title": "TENDER TROUBLES",
+      "paragraphs": 111,
+      "words": 4319
+    },
+    {
+      "number": 33,
+      "part": 2,
+      "title": "JO’S JOURNAL",
+      "paragraphs": 73,
+      "words": 5050
+    },
+    {
+      "number": 34,
+      "part": 2,
+      "title": "FRIEND",
+      "paragraphs": 86,
+      "words": 5937
+    },
+    {
+      "number": 35,
+      "part": 2,
+      "title": "HEARTACHE",
+      "paragraphs": 93,
+      "words": 4038
+    },
+    {
+      "number": 36,
+      "part": 2,
+      "title": "BETH’S SECRET",
+      "paragraphs": 30,
+      "words": 2222
+    },
+    {
+      "number": 37,
+      "part": 2,
+      "title": "NEW IMPRESSIONS",
+      "paragraphs": 80,
+      "words": 4234
+    },
+    {
+      "number": 38,
+      "part": 2,
+      "title": "ON THE SHELF",
+      "paragraphs": 91,
+      "words": 4827
+    },
+    {
+      "number": 39,
+      "part": 2,
+      "title": "LAZY LAURENCE",
+      "paragraphs": 139,
+      "words": 5112
+    },
+    {
+      "number": 40,
+      "part": 2,
+      "title": "THE VALLEY OF THE SHADOW",
+      "paragraphs": 27,
+      "words": 2073
+    },
+    {
+      "number": 41,
+      "part": 2,
+      "title": "LEARNING TO FORGET",
+      "paragraphs": 51,
+      "words": 4915
+    },
+    {
+      "number": 42,
+      "part": 2,
+      "title": "ALL ALONE",
+      "paragraphs": 44,
+      "words": 3154
+    },
+    {
+      "number": 43,
+      "part": 2,
+      "title": "SURPRISES",
+      "paragraphs": 125,
+      "words": 6209
+    },
+    {
+      "number": 44,
+      "part": 2,
+      "title": "MY LORD AND LADY",
+      "paragraphs": 42,
+      "words": 1921
+    },
+    {
+      "number": 45,
+      "part": 2,
+      "title": "DAISY AND DEMI",
+      "paragraphs": 48,
+      "words": 2210
+    },
+    {
+      "number": 46,
+      "part": 2,
+      "title": "UNDER THE UMBRELLA",
+      "paragraphs": 109,
+      "words": 5066
+    },
+    {
+      "number": 47,
+      "part": 2,
+      "title": "HARVEST TIME",
+      "paragraphs": 59,
+      "words": 4147
+    }
+  ]
+}

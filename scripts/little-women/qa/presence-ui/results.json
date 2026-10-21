@@ -1,0 +1,395 @@
+{
+  "date": "2026-10-21T15:17:41.416Z",
+  "worldSha256": "9d880aced3337b65f75fb56e1a06b20feb12d7ddcefbcdb8eb4539443adb8e1a",
+  "reviewedCases": 641,
+  "pageChecks": [
+    {
+      "reading": true,
+      "route": "manuscript",
+      "file": "page-reading-manuscript.png"
+    },
+    {
+      "reading": true,
+      "route": "calendar",
+      "file": "page-reading-calendar.png"
+    },
+    {
+      "reading": true,
+      "route": "characters",
+      "file": "page-reading-characters.png"
+    },
+    {
+      "reading": true,
+      "route": "arc",
+      "file": "page-reading-arc.png"
+    },
+    {
+      "reading": true,
+      "route": "relationships",
+      "file": "page-reading-relationships.png"
+    },
+    {
+      "reading": true,
+      "route": "items",
+      "file": "page-reading-items.png"
+    },
+    {
+      "reading": true,
+      "route": "maps",
+      "file": "page-reading-maps.png"
+    },
+    {
+      "reading": true,
+      "route": "lore",
+      "file": "page-reading-lore.png"
+    },
+    {
+      "reading": true,
+      "route": "factions",
+      "file": "page-reading-factions.png"
+    },
+    {
+      "reading": true,
+      "route": "knowledge",
+      "file": "page-reading-knowledge.png"
+    },
+    {
+      "reading": false,
+      "route": "manuscript",
+      "file": "page-writing-manuscript.png"
+    },
+    {
+      "reading": false,
+      "route": "calendar",
+      "file": "page-writing-calendar.png"
+    },
+    {
+      "reading": false,
+      "route": "characters",
+      "file": "page-writing-characters.png"
+    },
+    {
+      "reading": false,
+      "route": "arc",
+      "file": "page-writing-arc.png"
+    },
+    {
+      "reading": false,
+      "route": "relationships",
+      "file": "page-writing-relationships.png"
+    },
+    {
+      "reading": false,
+      "route": "items",
+      "file": "page-writing-items.png"
+    },
+    {
+      "reading": false,
+      "route": "maps",
+      "file": "page-writing-maps.png"
+    },
+    {
+      "reading": false,
+      "route": "lore",
+      "file": "page-writing-lore.png"
+    },
+    {
+      "reading": false,
+      "route": "factions",
+      "file": "page-writing-factions.png"
+    },
+    {
+      "reading": false,
+      "route": "knowledge",
+      "file": "page-writing-knowledge.png"
+    }
+  ],
+  "gatewayChecks": [
+    {
+      "parent": "The Atlantic World",
+      "child": "Concord and Its Roads",
+      "file": "gateway-little-women-map-concord.png"
+    },
+    {
+      "parent": "Concord and Its Roads",
+      "child": "The Dovecote",
+      "file": "gateway-little-women-map-dovecote.png"
+    },
+    {
+      "parent": "The Atlantic World",
+      "child": "The European Journey",
+      "file": "gateway-little-women-map-europe.png"
+    },
+    {
+      "parent": "Concord and Its Roads",
+      "child": "The Laurence Estate",
+      "file": "gateway-little-women-map-laurence-estate.png"
+    },
+    {
+      "parent": "Concord and Its Roads",
+      "child": "The March House",
+      "file": "gateway-little-women-map-march-house.png"
+    }
+  ],
+  "playbackChecks": [
+    {
+      "from": "Two Stories Ready",
+      "to": "Jo Slips Away to Town",
+      "layer": "Concord and Its Roads",
+      "returned": true,
+      "file": "playback-little-women-event-14-2.png"
+    },
+    {
+      "from": "No One Will Go Today",
+      "to": "The Baby Died in Her Arms",
+      "layer": "The March House",
+      "returned": true,
+      "file": "playback-little-women-event-17-4.png"
+    },
+    {
+      "from": "The Wrong Omnibus",
+      "to": "The Proposal in the Rain",
+      "layer": "Concord and Its Roads",
+      "returned": true,
+      "file": "playback-little-women-event-46-12.png"
+    },
+    {
+      "from": "Laurie Admits the Truth",
+      "to": "Laurie Attempts an Opera",
+      "layer": "The European Journey",
+      "returned": true,
+      "file": "playback-little-women-event-41-3.png"
+    }
+  ],
+  "revealChecks": [
+    "Christmas books revealed at the pillows, not earlier",
+    {
+      "title": "Work and Wait",
+      "dead": false,
+      "file": "aunt-death-before.png"
+    },
+    {
+      "title": "A Year of Work and Waiting",
+      "dead": true,
+      "file": "aunt-death-after.png"
+    }
+  ],
+  "scenarios": [
+    {
+      "title": "Three Days Without Bhaer",
+      "layer": "The March House",
+      "file": "three-days-without-bhaer.png"
+    },
+    {
+      "title": "In the Garret",
+      "layer": "Concord and Its Roads",
+      "file": "in-the-garret.png"
+    },
+    {
+      "title": "A Bargain to Do Good",
+      "layer": "The Laurence Estate",
+      "file": "a-bargain-to-do-good.png"
+    },
+    {
+      "title": "The Wedding Dance",
+      "layer": "The March House",
+      "file": "the-wedding-dance.png"
+    },
+    {
+      "title": "Laurie Attempts an Opera",
+      "layer": "The European Journey",
+      "file": "laurie-attempts-an-opera.png"
+    },
+    {
+      "title": "Made Ready for Sleep",
+      "layer": "The March House",
+      "file": "made-ready-for-sleep.png"
+    },
+    {
+      "title": "The Empty Room",
+      "layer": "The March House",
+      "file": "the-empty-room.png"
+    }
+  ],
+  "bethRemainsDeceased": true,
+  "markerChecks": [
+    {
+      "layer": "Concord and Its Roads",
+      "name": "The March house"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "The Laurence estate"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "The Dovecote"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "Aunt March’s house"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "Town roads and shops"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "The river and ice"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "Longmeadow"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "The Moffat house"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "The charity fair hall"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "Plumfield"
+    },
+    {
+      "layer": "Concord and Its Roads",
+      "name": "Delectable Mountain"
+    },
+    {
+      "layer": "The Dovecote",
+      "name": "Parlor"
+    },
+    {
+      "layer": "The Dovecote",
+      "name": "Kitchen"
+    },
+    {
+      "layer": "The Dovecote",
+      "name": "Nursery"
+    },
+    {
+      "layer": "The Dovecote",
+      "name": "Dining room"
+    },
+    {
+      "layer": "The Dovecote",
+      "name": "Hall and stairs"
+    },
+    {
+      "layer": "The Dovecote",
+      "name": "Garden"
+    },
+    {
+      "layer": "The European Journey",
+      "name": "London"
+    },
+    {
+      "layer": "The European Journey",
+      "name": "Paris"
+    },
+    {
+      "layer": "The European Journey",
+      "name": "Germany and the Rhine"
+    },
+    {
+      "layer": "The European Journey",
+      "name": "Nice"
+    },
+    {
+      "layer": "The European Journey",
+      "name": "Valrosa"
+    },
+    {
+      "layer": "The European Journey",
+      "name": "Vevay and Lake Geneva"
+    },
+    {
+      "layer": "The European Journey",
+      "name": "Vienna"
+    },
+    {
+      "layer": "The Laurence Estate",
+      "name": "Library"
+    },
+    {
+      "layer": "The Laurence Estate",
+      "name": "Drawing room and piano"
+    },
+    {
+      "layer": "The Laurence Estate",
+      "name": "Dining room"
+    },
+    {
+      "layer": "The Laurence Estate",
+      "name": "Laurie’s rooms"
+    },
+    {
+      "layer": "The Laurence Estate",
+      "name": "Grounds and gate"
+    },
+    {
+      "layer": "The Laurence Estate",
+      "name": "Entrance hall and stairs"
+    },
+    {
+      "layer": "The March House",
+      "name": "Parlor"
+    },
+    {
+      "layer": "The March House",
+      "name": "Bedrooms"
+    },
+    {
+      "layer": "The March House",
+      "name": "Kitchen"
+    },
+    {
+      "layer": "The March House",
+      "name": "Dining room"
+    },
+    {
+      "layer": "The March House",
+      "name": "Hall and doorway"
+    },
+    {
+      "layer": "The March House",
+      "name": "Mr. March’s study"
+    },
+    {
+      "layer": "The March House",
+      "name": "Yard and garden"
+    },
+    {
+      "layer": "The March House",
+      "name": "Garret"
+    },
+    {
+      "layer": "The Atlantic World",
+      "name": "Concord, Massachusetts"
+    },
+    {
+      "layer": "The Atlantic World",
+      "name": "New York"
+    },
+    {
+      "layer": "The Atlantic World",
+      "name": "Washington"
+    },
+    {
+      "layer": "The Atlantic World",
+      "name": "The seaside"
+    },
+    {
+      "layer": "The Atlantic World",
+      "name": "Europe"
+    },
+    {
+      "layer": "The Atlantic World",
+      "name": "The departure port"
+    }
+  ],
+  "failedAssets": [],
+  "errors": []
+}
