@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-21T15:17:41.416Z",
-  "worldSha256": "9d880aced3337b65f75fb56e1a06b20feb12d7ddcefbcdb8eb4539443adb8e1a",
+  "date": "2026-10-21T17:27:10.493Z",
+  "worldSha256": "c998939e36952bf5101dc6d72abb168751c4734c81c3278e5104b7f72814eb90",
   "reviewedCases": 641,
   "pageChecks": [
     {
@@ -390,6 +390,12 @@
       "name": "The departure port"
     }
   ],
+  "imageDelivery": {
+    "format": "WebP",
+    "requests": 522,
+    "uniqueImages": 31,
+    "uniqueBytes": 8853774
+  },
   "failedAssets": [],
   "errors": []
 }

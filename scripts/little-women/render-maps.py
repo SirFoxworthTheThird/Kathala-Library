@@ -3,7 +3,8 @@ import json, hashlib
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT=Path(__file__).resolve().parents[2]
-BASE=ROOT/'library'/'little-women'/'maps'
+BASE=ROOT/'scripts'/'little-women'/'map-bases'
+DEST=ROOT/'library'/'little-women'/'maps'
 layout=json.loads((Path(__file__).with_name('map-layout.json')).read_text(encoding='utf-8'))
 names={
  'departurePort':'Departure port','delectableHill':'Delectable Mountain','laurenceHall':'Hall & stairs','dovecoteDining':'Dining room','dovecoteHall':'Hall & stairs','dovecoteGarden':'Garden',
@@ -18,7 +19,7 @@ font_path='C:/Windows/Fonts/georgiab.ttf'
 small_path='C:/Windows/Fonts/georgia.ttf'
 font=ImageFont.truetype(font_path,22); small=ImageFont.truetype(small_path,18)
 for map_key, points in layout.items():
-    source=BASE/f'{map_key}-base.png'; dest=BASE/f'{map_key}.png'
+    source=BASE/f'{map_key}-base.png'; dest=DEST/f'{map_key}.webp'
     image=Image.open(source).convert('RGB').resize((1400,900),Image.Resampling.LANCZOS)
     draw=ImageDraw.Draw(image,'RGBA')
     for key,(x,y) in points.items():
@@ -27,6 +28,6 @@ for map_key, points in layout.items():
         draw.ellipse((x-7,y-7,x+7,y+7),fill=(117,52,48,245),outline=(255,244,213,255),width=2)
         draw.rounded_rectangle((left,top,left+tw+20,top+th+10),radius=5,fill=(246,236,209,225),outline=(83,63,45,235),width=1)
         draw.text((left+10,top+3),label,font=small,fill=(51,40,31,255))
-    image.save(dest,optimize=True)
+    image.save(dest,'WEBP',quality=90,method=6,exact=True)
     digest=hashlib.sha256(dest.read_bytes()).hexdigest()
     print(f'{dest.relative_to(ROOT)} {digest}')

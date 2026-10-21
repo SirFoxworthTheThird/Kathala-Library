@@ -1,228 +1,511 @@
 {
   "reviewedAt": "2026-10-21",
-  "policy": "Approval is bound to exact SHA-256 bytes. Generated map bases remain inputs until deterministic labels and marker-coordinate review are complete.",
+  "policy": "Approval is bound to exact SHA-256 bytes. Published artwork uses WebP quality 85 and final maps use WebP quality 90. Lossless source artwork and map bases remain under scripts/little-women for deterministic regeneration.",
+  "encoder": {
+    "pillow": "12.3.0",
+    "libwebp": "1.6.0"
+  },
   "assets": [
     {
-      "file": "library/little-women/art/generated/cover.png",
-      "sha256": "4ecc8a0a07a76e089168276a69483cfb170335dc5599d3b239e0d2446636ae40",
+      "file": "library/little-women/art/generated/cover.webp",
+      "sha256": "6b250226467d3ce90b1707ea545fcbdc4b1422359e0e03a14074509d49ee76d8",
       "status": "approved",
-      "inspection": "Four visually distinct sisters are present with writing, sewing, piano, and drawing activities; Marmee is secondary in the background. The 1860s parlor, clothing, firelight, and restrained American-realist treatment are coherent. No title, watermark, modern object, caricature, or duplicate face was found."
+      "inspection": "Four visually distinct sisters are present with writing, sewing, piano, and drawing activities; Marmee is secondary in the background. The 1860s parlor, clothing, firelight, and restrained American-realist treatment are coherent. No title, watermark, modern object, caricature, or duplicate face was found.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2745221,
+        "compressedBytes": 256572,
+        "reductionPercent": 90.7,
+        "psnrDb": 36.34
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/maps/world-base.png",
+      "file": "scripts/little-women/map-bases/world-base.png",
       "sha256": "da68c5ec02354b1ce9fe98b5da911da23b5b178087c1b511d71a43b29f4a5d11",
       "status": "base-approved",
       "inspection": "A legible North Atlantic atlas plate with recognizable northeastern North America and western Europe, clear ocean separation, restrained terrain, and no pseudo-labels or decorative scene substitution."
     },
     {
-      "file": "library/little-women/maps/concord-base.png",
+      "file": "scripts/little-women/map-bases/concord-base.png",
       "sha256": "720b6a6ad72be9e731d16e0d546a8ae29ec66126df451ce6b22469e5deaaf8c3",
       "status": "base-approved",
       "inspection": "A mature New England topographic plan with connected roads, village, river, bridges, fields, woods, several estates, and orchard. It reads spatially at full size and contains no text, icons, or modern intrusions."
     },
     {
-      "file": "library/little-women/maps/march-house-base.png",
+      "file": "scripts/little-women/map-bases/march-house-base.png",
       "sha256": "d8a0972af0460f160fb30e46936e715f36dae85c65be5312f8a1e6ba380f8e41",
       "status": "base-approved",
       "inspection": "The cutaway clearly separates parlor and piano, dining room, kitchen, central hall, study, bedrooms, garret, and yard. The house feels modest and lived in; circulation and room boundaries are usable for markers."
     },
     {
-      "file": "library/little-women/maps/laurence-estate-base.png",
+      "file": "scripts/little-women/map-bases/laurence-estate-base.png",
       "sha256": "b36fe4388d40e63f2489c7d9f6a056e398d7d193a236a769ad7b899d9b670576",
       "status": "base-approved",
       "inspection": "The larger estate distinguishes library, music room, dining room, hall, upper rooms, conservatory, carriage drive, lawn, hedge, and neighbor-facing gate without palace excess or toy-like treatment."
     },
     {
-      "file": "library/little-women/maps/dovecote-base.png",
+      "file": "scripts/little-women/map-bases/dovecote-base.png",
       "sha256": "d934660b0f3b81a11a4c6af626377a74d056437c3d29757e36ee5f0db70c9217",
       "status": "base-approved",
       "inspection": "The compact cottage separates parlor, kitchen and dining work, nursery inset, entrance, yard, and kitchen garden with historically plausible economy and no toy-like styling."
     },
     {
-      "file": "library/little-women/maps/europe-base.png",
+      "file": "scripts/little-women/map-bases/europe-base.png",
       "sha256": "10f88beed93b40ed594bb06bd8857b89fba97c9f74554f0f093f54670df7a2fe",
       "status": "base-approved",
       "inspection": "Western Europe has coherent coastlines, rivers, Alps, Channel, Mediterranean, and open destination zones without labels, pseudo-text, or modern transit features."
     },
     {
-      "file": "library/little-women/maps/world.png",
-      "sha256": "e2346910522a1dd72816d6353074da840dd3b4007de93ff4251371e16af77c11",
+      "file": "library/little-women/maps/world.webp",
+      "sha256": "f67525a1cc3fb45b80c83ed4636adf81ac788affe0d545c7d66318992d731aa5",
       "status": "approved",
-      "inspection": "Final labels and pins preserve geographic order for Concord, New York, Washington, the seaside, and Europe without obscuring coastlines. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible."
+      "inspection": "Final labels and pins preserve geographic order for Concord, New York, Washington, the seaside, and Europe without obscuring coastlines. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible.",
+      "compression": {
+        "format": "WebP",
+        "quality": 90,
+        "originalBytes": 2528557,
+        "compressedBytes": 432174,
+        "reductionPercent": 82.9,
+        "psnrDb": 36.94
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/maps/concord.png",
-      "sha256": "f92141d75d414189d652ca94b6726d2e7015a72eb6c58108c3c9a4e6e3a3be5e",
+      "file": "library/little-women/maps/concord.webp",
+      "sha256": "cfa45b2f0aa89620abdf34a18f6b0bdf5587efdb7ef336629c45db295b2de99a",
       "status": "approved",
-      "inspection": "All ten final markers sit on distinct depicted estates, village, river, meadow, hall, or orchard zones; the Dovecote and Moffat markers no longer overlap. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible."
+      "inspection": "All ten final markers sit on distinct depicted estates, village, river, meadow, hall, or orchard zones; the Dovecote and Moffat markers no longer overlap. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible.",
+      "compression": {
+        "format": "WebP",
+        "quality": 90,
+        "originalBytes": 2734012,
+        "compressedBytes": 553518,
+        "reductionPercent": 79.8,
+        "psnrDb": 35.67
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/maps/march-house.png",
-      "sha256": "7cd3cc25af5bec257ca94573ddf53de2f8f64110a78074ca7622bfab2dbcc2bc",
+      "file": "library/little-women/maps/march-house.webp",
+      "sha256": "c9ba0a9396c843084416c7254e977d04a561594d3dc33aed456919cdd6eb8dca",
       "status": "approved",
-      "inspection": "All eight labels sit within the corresponding parlor, bedrooms, kitchen, dining room, hall, study, garret, or yard."
+      "inspection": "All eight labels sit within the corresponding parlor, bedrooms, kitchen, dining room, hall, study, garret, or yard.",
+      "compression": {
+        "format": "WebP",
+        "quality": 90,
+        "originalBytes": 2664377,
+        "compressedBytes": 502220,
+        "reductionPercent": 81.2,
+        "psnrDb": 37.48
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/maps/laurence-estate.png",
-      "sha256": "ecf4b58d1cd82e958a96a11187fb8ccf1e1852295c467622f11f8536e64c06b2",
+      "file": "library/little-women/maps/laurence-estate.webp",
+      "sha256": "2e10649f051c03de4ee58be964f18ad11d894a3965c126d7a9ecbd868972e81b",
       "status": "approved",
-      "inspection": "All five labels align with the library, music room, dining room, upstairs rooms, and grounds-and-gate zone. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible."
+      "inspection": "All five labels align with the library, music room, dining room, upstairs rooms, and grounds-and-gate zone. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible.",
+      "compression": {
+        "format": "WebP",
+        "quality": 90,
+        "originalBytes": 2673227,
+        "compressedBytes": 516054,
+        "reductionPercent": 80.7,
+        "psnrDb": 37.1
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/maps/dovecote.png",
-      "sha256": "496c9590f308bed76f0d8ba580c247cc8a71101c31eadb85432ed7e6a987a727",
+      "file": "library/little-women/maps/dovecote.webp",
+      "sha256": "d093df4ea8e977e1c3e3564eda86423f89213c968230a38bb2629778712ce9b1",
       "status": "approved",
-      "inspection": "The parlor, kitchen, and nursery markers occupy their separate architectural zones and remain readable at contact-sheet scale. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible."
+      "inspection": "The parlor, kitchen, and nursery markers occupy their separate architectural zones and remain readable at contact-sheet scale. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible.",
+      "compression": {
+        "format": "WebP",
+        "quality": 90,
+        "originalBytes": 2728941,
+        "compressedBytes": 524990,
+        "reductionPercent": 80.8,
+        "psnrDb": 36.11
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/maps/europe.png",
-      "sha256": "92043395a4acaf01e4d28d1b1916b1f3acbe9b14966bbe6c16bba7f960b80349",
+      "file": "library/little-women/maps/europe.webp",
+      "sha256": "66b419f9490002f5a9f7ee23f3b9a7180c8146975a96cd1ce4ac2beb77961a8e",
       "status": "approved",
-      "inspection": "London, Paris, Rhine and Heidelberg, Vevay, Nice, and Valrosa markers follow the depicted geography; Nice and Valrosa were moved onto the Mediterranean coast after first review. Correction review 21 October: Vienna is separately marked northeast of the Alpine ridge for Laurie’s Austrian stay; the added label is legible, clear of the existing labels, and retains the reviewed atlas base."
+      "inspection": "London, Paris, Rhine and Heidelberg, Vevay, Nice, and Valrosa markers follow the depicted geography; Nice and Valrosa were moved onto the Mediterranean coast after first review. Correction review 21 October: Vienna is separately marked northeast of the Alpine ridge for Laurie\u00e2\u20ac\u2122s Austrian stay; the added label is legible, clear of the existing labels, and retains the reviewed atlas base.",
+      "compression": {
+        "format": "WebP",
+        "quality": 90,
+        "originalBytes": 2624058,
+        "compressedBytes": 491204,
+        "reductionPercent": 81.3,
+        "psnrDb": 35.85
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/amy.png",
-      "sha256": "c9b405c07a6012a1ea75079e131cb7e2acad74cf72b261db1ee852d4ee5c3580",
+      "file": "library/little-women/art/generated/characters/amy.webp",
+      "sha256": "dc6aed5b6685127d01594be95f3244fdfe8259448079894b1bf04637d215915e",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2650282,
+        "compressedBytes": 202874,
+        "reductionPercent": 92.3,
+        "psnrDb": 38.15
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/aunt-march.png",
-      "sha256": "343e809304ed6e7a665e1c0c1b95a14d180baaed751f299f0a558f6a08067feb",
+      "file": "library/little-women/art/generated/characters/aunt-march.webp",
+      "sha256": "509ddb6851e17f8e35f23886c29d0d475c4d57971856674606239e96e7e1b1ca",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2755036,
+        "compressedBytes": 243624,
+        "reductionPercent": 91.2,
+        "psnrDb": 37.55
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/beth.png",
-      "sha256": "bccb7d9bbbbac004dce4298d9017f3323b2af74570a364daabd85510db5cd34d",
+      "file": "library/little-women/art/generated/characters/beth.webp",
+      "sha256": "bc48fc13dc39dafbdcb200356dc9d8dc988f111f6f4eb16269d280a764658f39",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2749252,
+        "compressedBytes": 220216,
+        "reductionPercent": 92,
+        "psnrDb": 37.78
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/daisy.png",
-      "sha256": "8db39fa1d304e223710dbe219cb1e229203d5e080cd0f188fb4770764e62acc6",
+      "file": "library/little-women/art/generated/characters/daisy.webp",
+      "sha256": "8fca9f2534cf8946e14ddb8cd521e8c7763a5fae4142f91e72705497a7f2c9da",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2601269,
+        "compressedBytes": 208778,
+        "reductionPercent": 92,
+        "psnrDb": 37.89
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/demi.png",
-      "sha256": "0cd4b0bae10a79201d7f012ccec4dd62ceae73c093ee42019a3b149cd4444305",
+      "file": "library/little-women/art/generated/characters/demi.webp",
+      "sha256": "3be024bdcfeed9e93854394ccf9131c80a907b9798c319ecde2783b6a647bc90",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2988077,
+        "compressedBytes": 309082,
+        "reductionPercent": 89.7,
+        "psnrDb": 36.56
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/hannah.png",
-      "sha256": "8214d84758c0d1bb2ecf9a65001d81e7296eb7c0941f471c060bace4db5fdc2f",
+      "file": "library/little-women/art/generated/characters/hannah.webp",
+      "sha256": "c52d4b7a22e4d57676141e5657f95594e7be15a7e5202f841cbac2ca997def3a",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2716127,
+        "compressedBytes": 232014,
+        "reductionPercent": 91.5,
+        "psnrDb": 37.45
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/jo.png",
-      "sha256": "137c1e40841599c32acc4e90747223617e98429d33ee7c41cc0ac4df39e153d8",
+      "file": "library/little-women/art/generated/characters/jo.webp",
+      "sha256": "8cc73c29c2bdf9466ca20d37ab0a75b99aa4cf0ac06ba1c34c5a4ba1980d77ce",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2683929,
+        "compressedBytes": 205414,
+        "reductionPercent": 92.3,
+        "psnrDb": 37.69
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/john-brooke.png",
-      "sha256": "f70f649a85c359b4efcb03c55a9388d70e9b209881c6d21532b5434c0c8293bb",
+      "file": "library/little-women/art/generated/characters/john-brooke.webp",
+      "sha256": "e3590dbfa7021216f60d13aaab4373c9cebc5e375716bb9df44f29553db39b0c",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2551102,
+        "compressedBytes": 163484,
+        "reductionPercent": 93.6,
+        "psnrDb": 38.11
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/laurie.png",
-      "sha256": "dc823a972ad2e07a4bca16ff89a7a40cb17e5b1a85954f233d32fd60268ef079",
+      "file": "library/little-women/art/generated/characters/laurie.webp",
+      "sha256": "fbc3d99caff0477ef6d023555a0815e4cacb6df091c18f80b7c6ea54e8475638",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2378450,
+        "compressedBytes": 146258,
+        "reductionPercent": 93.9,
+        "psnrDb": 39.16
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/marmee.png",
-      "sha256": "a937b420085317ae8ed456b265d206d0707e414659a2f2f295524396a7091997",
+      "file": "library/little-women/art/generated/characters/marmee.webp",
+      "sha256": "06a438082eb42cfc227b1b9272d4de289bd42c60fc826a9e6ddf4a213c8d32dd",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2366369,
+        "compressedBytes": 167248,
+        "reductionPercent": 92.9,
+        "psnrDb": 39.05
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/meg.png",
-      "sha256": "83e758319455cd1377f89679dcbba2112f3be2278eb7ce25799e65c44ae3506c",
+      "file": "library/little-women/art/generated/characters/meg.webp",
+      "sha256": "b47dbbbdb02c002ea2264b65452e9834557bc13ad79e845bcc425aa52c441219",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2700950,
+        "compressedBytes": 207292,
+        "reductionPercent": 92.3,
+        "psnrDb": 38.18
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/mr-laurence.png",
-      "sha256": "644f6186f8b0e99236ab2e43e60ac2da517355233779245be0d2ac9cb44cbee1",
+      "file": "library/little-women/art/generated/characters/mr-laurence.webp",
+      "sha256": "5f4ea34f05af3c7b7b378978e10923cd1fa029215d530cfa5a503fea91c388f0",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2430891,
+        "compressedBytes": 169474,
+        "reductionPercent": 93,
+        "psnrDb": 37.88
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/mr-march.png",
-      "sha256": "3cedf8d2c18551237992ed917720fb3a895b8e26d60be1cacc2be9082db8655d",
+      "file": "library/little-women/art/generated/characters/mr-march.webp",
+      "sha256": "eac444862db617b2ad479b11a0a227b9a1c81bcb7a97a430646e34b509ce6e26",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2612470,
+        "compressedBytes": 184628,
+        "reductionPercent": 92.9,
+        "psnrDb": 38.45
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/professor-bhaer.png",
-      "sha256": "2b2ea030353df4da43cb4261d696ce9f944082eb05797408595a2bbff19082bd",
+      "file": "library/little-women/art/generated/characters/professor-bhaer.webp",
+      "sha256": "f4db4dc5c3efaebe9b90fec3e1cd287ba4d3ac310efcdbfcac76e1fa3bdac4a5",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2604797,
+        "compressedBytes": 184458,
+        "reductionPercent": 92.9,
+        "psnrDb": 38.45
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/teddy-bhaer.png",
-      "sha256": "2e256230a42d06b168a1b537c1f217eeb42505c78b1e45a25b6ef57a8b381db2",
+      "file": "library/little-women/art/generated/characters/teddy-bhaer.webp",
+      "sha256": "07ba98e07bfa69d5170372f188ed6ff8b625a1f989c0cfbe2c1b68495a56bf56",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 3454027,
+        "compressedBytes": 429386,
+        "reductionPercent": 87.6,
+        "psnrDb": 35.63
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/characters/young-beth.png",
-      "sha256": "95161650356c785832acd0c747956644a3d12a8c9b06355d360874bc85759b18",
+      "file": "library/little-women/art/generated/characters/young-beth.webp",
+      "sha256": "1059381dc28511090ae682192494102058318a292b8f86fd31fe0d4dfab1785d",
       "status": "approved",
-      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2985426,
+        "compressedBytes": 292152,
+        "reductionPercent": 90.2,
+        "psnrDb": 36.64
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/items/amy-ring.png",
-      "sha256": "547d94b2f7885c9d677048f6bd5b943a875d7df5846db005598994aff3063e2a",
+      "file": "library/little-women/art/generated/items/amy-ring.webp",
+      "sha256": "a2edbf6ef8e449a7b4d9fe6d36b1a525ecbf7a51170c382653c627abd56a1210",
       "status": "approved",
-      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2681630,
+        "compressedBytes": 224876,
+        "reductionPercent": 91.6,
+        "psnrDb": 38.2
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/items/beth-piano.png",
-      "sha256": "a2213842f88677ba10bd46e640b1c479c8e5e162b1fbf4913029459d8d368fa3",
+      "file": "library/little-women/art/generated/items/beth-piano.webp",
+      "sha256": "1fba05b6d1627abbd6f7eac7b365a73b64cfe53367dc099c1fc79e5402cbb04b",
       "status": "approved",
-      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 3007991,
+        "compressedBytes": 326034,
+        "reductionPercent": 89.2,
+        "psnrDb": 36.71
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/items/bhaer-shakespeare.png",
-      "sha256": "7ecf0c1a90e94857109d1f060fdb72db2ec46f050d337024ee66c20bef32ed7d",
+      "file": "library/little-women/art/generated/items/bhaer-shakespeare.webp",
+      "sha256": "e059c8c3719b7a3f6a628ac71430136d61464d938fb644f1bb9a4bc43dfefb04",
       "status": "approved",
-      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2755708,
+        "compressedBytes": 268890,
+        "reductionPercent": 90.2,
+        "psnrDb": 37.19
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/items/forged-letter.png",
-      "sha256": "158907c0ef9116bc910c21a04274b0b9ee217060b36feaed241f376e1e5cbaf1",
+      "file": "library/little-women/art/generated/items/forged-letter.webp",
+      "sha256": "2a9a6f55df649dd6142e7424042da391e4277e0ae776a94ce4b71b1166e1aa33",
       "status": "approved",
-      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2471168,
+        "compressedBytes": 183246,
+        "reductionPercent": 92.6,
+        "psnrDb": 38.63
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/items/garret-poem.png",
-      "sha256": "8f107b6cf75e92828cbb4d9b75fa0be241a033a6520b0fd8303846f9d136be40",
+      "file": "library/little-women/art/generated/items/garret-poem.webp",
+      "sha256": "5cb6a651cc43254468c986d85d3aab9b5f05292c9a960beb4166808e9bf0158c",
       "status": "approved",
-      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2492765,
+        "compressedBytes": 209440,
+        "reductionPercent": 91.6,
+        "psnrDb": 38.55
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/items/jo-hair.png",
-      "sha256": "2e4888107ad76a98006b2f8e9f233fbaae0a852893af2daaea4cec02017f7b75",
+      "file": "library/little-women/art/generated/items/jo-hair.webp",
+      "sha256": "a05d74b5a4d22475a2ce7214f612127b58179b9190309f2b478a4c50268233c7",
       "status": "approved",
-      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2612767,
+        "compressedBytes": 218990,
+        "reductionPercent": 91.6,
+        "psnrDb": 38.16
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/items/jo-novel.png",
-      "sha256": "2dc02f37514d135f61276b64c383d05aebb7cccd6e73daab0a5c1e9b502d9bc9",
+      "file": "library/little-women/art/generated/items/jo-novel.webp",
+      "sha256": "3758cd60fbbe187b05ca8e1733673aa3ec71aa29518335bb62631258bb4f5321",
       "status": "approved",
-      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2962966,
+        "compressedBytes": 307504,
+        "reductionPercent": 89.6,
+        "psnrDb": 37.17
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     },
     {
-      "file": "library/little-women/art/generated/items/pilgrim-books.png",
-      "sha256": "458a31e6301ba179f8f444b5115c50ec4935d9e30d19b4102ef1b06c7b77d5d4",
+      "file": "library/little-women/art/generated/items/pilgrim-books.webp",
+      "sha256": "a59b89b974b40ecf51e5d402c006fac7c9077444e52cbf14c20e2432012112bb",
       "status": "approved",
-      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition.",
+      "compression": {
+        "format": "WebP",
+        "quality": 85,
+        "originalBytes": 2828045,
+        "compressedBytes": 271680,
+        "reductionPercent": 90.4,
+        "psnrDb": 37.16
+      },
+      "compressionInspection": "approved: side-by-side against the lossless original; subject, faces, textures, fine lines and labels remain clear with no visible blocking, ringing or color shift at review scale."
     }
   ]
 }
