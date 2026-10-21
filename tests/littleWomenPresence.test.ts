@@ -11,9 +11,15 @@ const cast = (title: string) => event(title).involvedCharacterIds.map((id: strin
 
 describe('Little Women source presence regressions', () => {
   it('ships every referenced image as compact WebP', () => {
-    expect(world.blobs).toHaveLength(31)
+    expect(world.blobs).toHaveLength(151)
     expect(world.blobs.every((blob: any) => blob.mimeType === 'image/webp')).toBe(true)
     expect(world.blobs.every((blob: any) => blob.url.endsWith('.webp'))).toBe(true)
+    expect(world.characters).toHaveLength(92)
+    expect(world.characters.every((character: any) => character.portraitImageId)).toBe(true)
+    expect(new Set(world.characters.map((character: any) => character.portraitImageId))).toHaveLength(92)
+    expect(world.locationMarkers).toHaveLength(44)
+    expect(world.locationMarkers.every((marker: any) => marker.imageId)).toBe(true)
+    expect(new Set(world.locationMarkers.map((marker: any) => marker.imageId))).toHaveLength(44)
   })
 
   it('reviews every scene and retains the explicit long intervals and parallel account', () => {

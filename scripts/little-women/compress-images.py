@@ -19,7 +19,7 @@ def main() -> None:
     for source in sources:
         relative = source.relative_to(SOURCES)
         destination = (BOOK / relative).with_suffix(".webp")
-        quality = 85
+        quality = 88 if relative.parts[:3] == ("art", "generated", "locations") else 85
         encode(source, destination, quality)
         print(
             f"{destination.relative_to(ROOT)}: "

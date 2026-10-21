@@ -86,7 +86,7 @@ The complete 186,395-word manuscript reconstructs exactly. The final edition has
 
 Final application evidence in qa/presence-ui/results.json is bound to the shipped world hash: all 641 imported scenes, ten pages in both modes, five gateways at both depths, four timed playback transitions, 44 rendered marker positions, seven reading arrivals, Beth's deceased state, and Aunt March immediately before/after her reported death. All twenty page screenshots and six aligned map screenshots were visually inspected. Calendar has no custom calendar by design; relative editorial chronology is retained.
 
-Feature decisions: external omniscient narration uses no invented limited POV. Separate building inset drawings do not represent overlapping floor groups, so floor-group transitions are not applicable. Minor buildings use overview markers rather than empty submaps. The unnamed departure port and geographic overview are schematic. Parallel accounts and explicit intervals use relative days without inventing a Gregorian year. Six maps and all 31 distinct image assets have retained visual/hash approval.
+Feature decisions: external omniscient narration uses no invented limited POV. Separate building inset drawings do not represent overlapping floor groups, so floor-group transitions are not applicable. Minor buildings use overview markers rather than empty submaps. The unnamed departure port and geographic overview are schematic. Parallel accounts and explicit intervals use relative days without inventing a Gregorian year. All 92 characters and all 44 locations have distinct illustrations; the six maps, eight items, cover, portraits, and place art have retained visual/hash approval.
 
 The actual app continuity checker reports zero errors and zero warnings. Its 26 keyword notices are individually reviewed in PROSE_MATCH_REVIEW.json: ambiguous names, common words, and quoted lyrics refer to different people. No fake physical cast or issue suppressions were added.
 
@@ -95,9 +95,9 @@ Source edition: Project Gutenberg #514, Louisa May Alcott, Little Women, complet
 Counts: 47 chapters, 641 events, 92 characters, 44 locations, 6 maps
 Automated validation: all retained source, world, presence, art, catalogue, release, and repository gate checks pass; final command results in QA_REPORT.md.
 Visual validation: all six map layers; manuscript, calendar, characters, arc, relationships, items, maps, lore, factions, knowledge in reading and writing modes.
-Image validation: 31 checked, broken links = 0, duplicate used image hashes = 0.
+Image validation: 151 checked, including 92/92 character portraits and 44/44 location illustrations; broken links = 0, duplicate used image hashes = 0.
 Exceptions: floor groups and custom calendar not used; overview-only minor locations and omniscient POV explained above.
 
 ## WebP delivery pilot — 21 October 2026
 
-All 31 public images were visually compared side by side with their lossless originals after encoding. Artwork uses WebP quality 85 and maps use quality 90. Faces, objects, textures, map labels, routes, and room boundaries remain clear with no visible blocking, ringing, or colour shift at review scale. Every image exceeds 35 dB PSNR; the exact per-image size, quality, PSNR, hash, and approval are retained in `art-review.json`. Lossless artwork and map bases remain under the authoring scripts for deterministic regeneration, outside the public Library payload.
+All 151 public images were visually reviewed and compared with their lossless originals after encoding. Character and item artwork uses WebP quality 85, location artwork uses quality 88, and maps use quality 90. Faces, places, objects, textures, map labels, routes, and room boundaries remain clear with no visible blocking, ringing, or colour shift at review scale. Every image exceeds 35 dB PSNR; the exact per-image size, quality, PSNR, hash, and approval are retained in `art-review.json`. Lossless artwork and map bases remain under the authoring scripts for deterministic regeneration, outside the public Library payload.

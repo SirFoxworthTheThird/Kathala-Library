@@ -2,9 +2,9 @@
 
 All 47 chapters were independently source-reviewed, including every adjacent paragraph boundary. FULL_REVIEW.json pins all 641 scenes to source hashes and records cast-specific physical states, places, indirect mentions, and detailed chapter findings. The earlier 73-case audit and qa/ui screenshots are historical and are superseded by this complete review.
 
-Source: Project Gutenberg #514, complete English Little Women by Louisa May Alcott. Retained source SHA-256: 36831477b339dbcd7e7206119d77e9e58b9727ef3c299d1a1dc4446e1db97850. Complete manuscript: two parts, 47 chapters, 3,815 paragraphs, 186,395 words. Final world: 641 scenes, 92 characters, 2,058 physical snapshots, 44 locations, six maps, eight items, eight relationships, eleven knowledge facts, and 31 distinct reviewed image assets.
+Source: Project Gutenberg #514, complete English Little Women by Louisa May Alcott. Retained source SHA-256: 36831477b339dbcd7e7206119d77e9e58b9727ef3c299d1a1dc4446e1db97850. Complete manuscript: two parts, 47 chapters, 3,815 paragraphs, 186,395 words. Final world: 641 scenes, 92 characters, 2,058 physical snapshots, 44 locations, six maps, eight items, eight relationships, eleven knowledge facts, and 151 distinct reviewed image assets. Illustration coverage is 92/92 characters and 44/44 locations.
 
-PWK SHA-256: c998939e36952bf5101dc6d72abb168751c4734c81c3278e5104b7f72814eb90. UTF-8 bytes: 3,416,334.
+PWK SHA-256: 7e9adb0fe7c1ea16b64cb95aab3131158f747ae9d079222fbfbea9061d9fc564. UTF-8 bytes: 3,459,612.
 
 Corrections cover absent versus physically present characters, narrator-only passages, individual cross-room positions, Beth's death and later memories, Aunt March's reported death without a phantom snapshot, Sallie Gardiner/Moffat identity, omitted Rob Bhaer and minor witnesses, actual Christmas guidebooks, the saved lock of Jo's hair, piano movements, item ownership and destruction, affiliations, relationship starts, and spoiler-safe names. Major source intervals and parallel accounts are encoded as relative editorial days. Omniscient narration has no invented limited POV. Maps use converted Leaflet coordinates and reviewed labels; the unnamed Atlantic departure port remains schematic.
 
@@ -24,8 +24,8 @@ For browser checks start the app with VITE_E2E=1, then run node scripts/little-w
 
 Example rules review: COMPLETE. Every applicable book checklist gate has retained evidence. No branch deletion is part of this release.
 
-## WebP delivery pilot — 21 October 2026
+## Complete illustrated WebP delivery — 21 October 2026
 
-Little Women's 31 public images now use WebP at their original dimensions: quality 85 for artwork and quality 90 for maps. Referenced-image bytes fell from 83,739,887 to 8,853,774 (89.4% smaller); the complete public image folder fell from 106,259,073 to 8,853,774 bytes (91.7% smaller) after moving six unreferenced lossless map bases to the authoring sources. Exact hashes, byte counts, PSNR values, and side-by-side visual approvals are recorded in `art-review.json`.
+Little Women's 151 public images use WebP at their original dimensions: quality 85 for character and item artwork, quality 88 for locations, and quality 90 for maps. The edition now has distinct illustrations for all 92 characters and all 44 locations. Lossless source bytes fell from 421,269,455 to 43,360,994 published bytes (89.7% smaller). Exact hashes, byte counts, PSNR values, and visual approvals are recorded in `art-review.json`.
 
-The real Kathala run loaded all 31 WebPs and their exact 8,853,774 unique bytes while passing all 641 scene imports, 20 page views, five gateways, four playback transitions, six layers, and 44 marker checks. Zero assets failed and zero relevant browser errors were recorded. Final PWK SHA-256: `c998939e36952bf5101dc6d72abb168751c4734c81c3278e5104b7f72814eb90`.
+The real Kathala run loaded all 151 WebPs and their exact 43,360,994 unique bytes while passing all 641 scene imports, 20 page views, five gateways, four playback transitions, six layers, and 44 marker checks. Zero assets failed and zero relevant browser errors were recorded. Final PWK SHA-256: `7e9adb0fe7c1ea16b64cb95aab3131158f747ae9d079222fbfbea9061d9fc564`.
