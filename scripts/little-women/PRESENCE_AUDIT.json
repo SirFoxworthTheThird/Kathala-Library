@@ -1,0 +1,1550 @@
+{
+  "date": "2026-10-21",
+  "sourceSha256": "36831477b339dbcd7e7206119d77e9e58b9727ef3c299d1a1dc4446e1db97850",
+  "scope": "All 440 ledger entries screened for indirect presence and inferred locations; these source-checked corrections are retained as independent regression expectations.",
+  "cases": [
+    {
+      "chapter": 46,
+      "title": "Three Days Without Bhaer",
+      "paragraphStart": 6,
+      "paragraphEnd": 13,
+      "sourceSha256": "90cdd459f39df51dced58805257e8a82eafe1fa02df0c8d736c55dce9925eff2",
+      "present": [
+        "jo",
+        "marmee"
+      ],
+      "mentioned": [
+        "professorBhaer"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "professorBhaer"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 46,
+      "title": "Bhaer Is Going West",
+      "paragraphStart": 28,
+      "paragraphEnd": 38,
+      "sourceSha256": "989aa3b48db3ffa19562839c77aaf56fa8c637b5ede397dcb1a28a71e9b44592",
+      "present": [
+        "professorBhaer",
+        "jo"
+      ],
+      "mentioned": [
+        "franz",
+        "emil"
+      ],
+      "location": "townStreet",
+      "removed": [
+        "franz",
+        "emil"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 46,
+      "title": "In the Garret",
+      "paragraphStart": 85,
+      "paragraphEnd": 97,
+      "sourceSha256": "02dc742566619df9c9ea8e5766113c6a298b3e1b33e59316eb3f1e8926a442ae",
+      "present": [
+        "professorBhaer",
+        "jo"
+      ],
+      "mentioned": [
+        "beth",
+        "meg",
+        "amy"
+      ],
+      "location": "townStreet",
+      "removed": [
+        "beth",
+        "meg",
+        "amy"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 46,
+      "title": "Work and Wait",
+      "paragraphStart": 106,
+      "paragraphEnd": 109,
+      "sourceSha256": "32210e726ef033f73d600936832855fa95b6b59872bc6a3de795fc8e125a6bb1",
+      "present": [
+        "professorBhaer",
+        "jo"
+      ],
+      "mentioned": [
+        "franz",
+        "emil"
+      ],
+      "location": "marchHall",
+      "removed": [
+        "franz",
+        "emil"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 46,
+      "title": "A Favor for Tina",
+      "paragraphStart": 50,
+      "paragraphEnd": 61,
+      "sourceSha256": "3b4f3063013970622c4d9a9725ccd62d78fb8e3ab27accd1bd94b5214abfd8c8",
+      "present": [
+        "professorBhaer",
+        "jo"
+      ],
+      "mentioned": [
+        "tina"
+      ],
+      "location": "dryGoodsStore",
+      "removed": [
+        "tina"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 46,
+      "title": "The History of Two Loves",
+      "paragraphStart": 79,
+      "paragraphEnd": 84,
+      "sourceSha256": "b4a56efd956d970b21fa93910965a577b13b9d8e5c529b9ef477fe503a05c792",
+      "present": [
+        "professorBhaer",
+        "jo"
+      ],
+      "mentioned": [
+        "laurie"
+      ],
+      "location": "townStreet",
+      "removed": [
+        "laurie"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 44,
+      "title": "A Bargain to Do Good",
+      "paragraphStart": 31,
+      "paragraphEnd": 42,
+      "sourceSha256": "f67b2efc7af922ca71c9ad17ab26acac80a5a893f764688ffcf0f129d74e2833",
+      "present": [
+        "laurie",
+        "amy"
+      ],
+      "mentioned": [
+        "jo",
+        "professorBhaer"
+      ],
+      "location": "laurenceDrawingRoom",
+      "removed": [
+        "jo",
+        "professorBhaer"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 44,
+      "title": "Does Bhaer Mean to Marry Jo",
+      "paragraphStart": 15,
+      "paragraphEnd": 21,
+      "sourceSha256": "26563c93aee4391d4478f97dddcc2c455f0a55403a74c956c8507e525abaebe7",
+      "present": [
+        "laurie",
+        "amy"
+      ],
+      "mentioned": [
+        "jo",
+        "professorBhaer"
+      ],
+      "location": "laurenceDrawingRoom",
+      "removed": [
+        "jo",
+        "professorBhaer"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 29,
+      "title": "A Bargain for Six Calls",
+      "paragraphStart": 1,
+      "paragraphEnd": 7,
+      "sourceSha256": "7f6e06b4dc8ca4a3beddfac14447e69dc8f47f732c546fcbcaa7d5e1e9e676ff",
+      "present": [
+        "amy",
+        "jo"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 27,
+      "title": "Jo Cuts Her Book",
+      "paragraphStart": 34,
+      "paragraphEnd": 35,
+      "sourceSha256": "682b58f6af0c127a4d132e22eac826fc525c3153110c695948d299fe5ee574fa",
+      "present": [
+        "jo"
+      ],
+      "mentioned": [
+        "mrMarch",
+        "marmee",
+        "meg",
+        "amy"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "mrMarch",
+        "marmee",
+        "meg",
+        "amy",
+        "beth"
+      ],
+      "added": [],
+      "reason": "The revision follows earlier advice from these four; Beth is not in the passage."
+    },
+    {
+      "chapter": 32,
+      "title": "A Mistaken Discovery",
+      "paragraphStart": 20,
+      "paragraphEnd": 22,
+      "sourceSha256": "e0fc4b4a47d7410dc167b52a8b67e2c2129656ba2fe036721a1d49054a004a00",
+      "present": [
+        "jo"
+      ],
+      "mentioned": [
+        "beth",
+        "laurie"
+      ],
+      "location": "joBedroom",
+      "removed": [
+        "beth",
+        "laurie"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 32,
+      "title": "Jo Names Laurie’s Love",
+      "paragraphStart": 87,
+      "paragraphEnd": 98,
+      "sourceSha256": "0a9317f07064a2102456c60d1deb229365688104475aa8f7d2136cd2e66aafbe",
+      "present": [
+        "jo",
+        "marmee"
+      ],
+      "mentioned": [
+        "laurie"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "laurie"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 32,
+      "title": "Beth’s Trouble Reconsidered",
+      "paragraphStart": 99,
+      "paragraphEnd": 102,
+      "sourceSha256": "146659ddd6e5ec895452056cd166614ee4eb383e56d455d11aaba6a3679f801f",
+      "present": [
+        "jo",
+        "marmee"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 32,
+      "title": "Jo Entrusts Laurie to Beth",
+      "paragraphStart": 105,
+      "paragraphEnd": 110,
+      "sourceSha256": "b5950ffdc96bf8dee82917720e0775a5fc403b74b55b1983422dad42d1ec9e6e",
+      "present": [
+        "jo",
+        "beth"
+      ],
+      "mentioned": [
+        "laurie"
+      ],
+      "location": "marchBedrooms",
+      "removed": [
+        "laurie"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 34,
+      "title": "Three Months of Sensation",
+      "paragraphStart": 29,
+      "paragraphEnd": 33,
+      "sourceSha256": "f2849ebd961c80161c6b20988bc04f04686b35c7ae6926cd715beca01a1518f3",
+      "present": [
+        "jo",
+        "mrDashwood"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "newYork",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 37,
+      "title": "What Laurie Has Been Doing",
+      "paragraphStart": 13,
+      "paragraphEnd": 17,
+      "sourceSha256": "ad193f95594efb1e5b575df36d3311ce9fde9798db94994d734235d1c5a3eaf6",
+      "present": [
+        "amy",
+        "laurie"
+      ],
+      "mentioned": [
+        "mrLaurence"
+      ],
+      "location": "niceCarriage",
+      "removed": [
+        "mrLaurence"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 37,
+      "title": "Letters from Home",
+      "paragraphStart": 23,
+      "paragraphEnd": 29,
+      "sourceSha256": "9003243031728e8b7f7bb6f3d50cdf9b55c6acf56818238aee3aee99f88bdfb4",
+      "present": [
+        "amy",
+        "laurie"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "castleHillRoad",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 39,
+      "title": "The Prospect of Fred",
+      "paragraphStart": 55,
+      "paragraphEnd": 70,
+      "sourceSha256": "fc2cd960a813aa18e2ea7e2d8af70bdafee734b27fd980df29eba2c528c02071",
+      "present": [
+        "amy",
+        "laurie"
+      ],
+      "mentioned": [
+        "fredVaughn"
+      ],
+      "location": "valrosaTerrace",
+      "removed": [
+        "fredVaughn"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 39,
+      "title": "Amy Learns About Jo",
+      "paragraphStart": 102,
+      "paragraphEnd": 112,
+      "sourceSha256": "5ef1bdffb2898910fb8c972a7ce1ba5340fa1d64ea464cee5c057c365d8fd9dc",
+      "present": [
+        "amy",
+        "laurie"
+      ],
+      "mentioned": [
+        "jo"
+      ],
+      "location": "valrosaTerrace",
+      "removed": [
+        "jo"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 39,
+      "title": "Telemachus Returns to Grandfather",
+      "paragraphStart": 136,
+      "paragraphEnd": 139,
+      "sourceSha256": "3a40acef5836efd8bb4cea8eca9f4636d4cea0140fac898c2392c580ff4c9c53",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "laurie",
+        "mrLaurence"
+      ],
+      "location": "niceHotel",
+      "removed": [
+        "laurie",
+        "mrLaurence"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 41,
+      "title": "Amy’s Lecture Takes Hold",
+      "paragraphStart": 1,
+      "paragraphEnd": 2,
+      "sourceSha256": "eabb9efbec46614fabebd8a275a17f91a986b9bf554cb6054b7b7953d2e982f2",
+      "present": [
+        "laurie",
+        "mrLaurence"
+      ],
+      "mentioned": [
+        "amy"
+      ],
+      "location": "paris",
+      "removed": [
+        "amy"
+      ],
+      "added": [
+        "mrLaurence"
+      ],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 41,
+      "title": "Laurie Attempts an Opera",
+      "paragraphStart": 3,
+      "paragraphEnd": 6,
+      "sourceSha256": "3f699fcbe99647b0d3ae86f7b95aa92333e783a13da7a71e3e3dbac04b541474",
+      "present": [
+        "laurie"
+      ],
+      "mentioned": [
+        "jo",
+        "amy"
+      ],
+      "location": "vienna",
+      "removed": [
+        "jo",
+        "amy"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 41,
+      "title": "Talent Is Not Genius",
+      "paragraphStart": 7,
+      "paragraphEnd": 9,
+      "sourceSha256": "da513e6b57d60881a66ff2a460fe2705203dbeb85dda7c4848e5116d0a0d6f00",
+      "present": [
+        "laurie"
+      ],
+      "mentioned": [
+        "amy",
+        "mrLaurence"
+      ],
+      "location": "vienna",
+      "removed": [
+        "amy",
+        "mrLaurence"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 41,
+      "title": "Jo Becomes a Sister",
+      "paragraphStart": 10,
+      "paragraphEnd": 13,
+      "sourceSha256": "37922324ce9c0d254fc992c255abe03c0af402b722110d3516a0b35c9252a8a0",
+      "present": [
+        "laurie"
+      ],
+      "mentioned": [
+        "jo",
+        "amy"
+      ],
+      "location": "vienna",
+      "removed": [
+        "jo",
+        "amy"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 41,
+      "title": "Letters to Jo and Amy",
+      "paragraphStart": 14,
+      "paragraphEnd": 17,
+      "sourceSha256": "30b1e664902be54e566dc19c0e99c8f0dac71d67a38f3f89f53fb6be2aa9aa6b",
+      "present": [
+        "laurie"
+      ],
+      "mentioned": [
+        "jo",
+        "amy"
+      ],
+      "location": "vienna",
+      "removed": [
+        "jo",
+        "amy"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 41,
+      "title": "News of Beth’s Death",
+      "paragraphStart": 23,
+      "paragraphEnd": 24,
+      "sourceSha256": "e67ea370815e05ecefcc004ba59d0d8239a102f6e7a9dbbd622180f0af90049c",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "laurie",
+        "beth"
+      ],
+      "location": "vevay",
+      "removed": [
+        "laurie",
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 41,
+      "title": "Pulling in the Same Boat",
+      "paragraphStart": 43,
+      "paragraphEnd": 51,
+      "sourceSha256": "a2aa7ca5556b43d157349cdbd1d66cfdedcea86752c79cc08a3e84daa2bed1fc",
+      "present": [
+        "laurie",
+        "amy"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "lakeGeneva",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 42,
+      "title": "After Beth",
+      "paragraphStart": 1,
+      "paragraphEnd": 2,
+      "sourceSha256": "3d5fa666a802f19afda619446df8a69d31976b4074b0e7e76b2f95d1c40bcb1b",
+      "present": [
+        "jo"
+      ],
+      "mentioned": [
+        "beth",
+        "marmee",
+        "mrMarch",
+        "meg"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "beth",
+        "marmee",
+        "mrMarch",
+        "meg"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 42,
+      "title": "No Storybook Saint",
+      "paragraphStart": 14,
+      "paragraphEnd": 15,
+      "sourceSha256": "e8851f03c8067f8aea4e5b1b9cf500ade1758b767e79f33f254a183ca97e0c46",
+      "present": [
+        "jo"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 42,
+      "title": "Jo Finds Her Voice",
+      "paragraphStart": 20,
+      "paragraphEnd": 24,
+      "sourceSha256": "9131caab2068451014fb8c442a74adeedaa3fb4bf960640a1e836fbf98741dff",
+      "present": [
+        "jo",
+        "marmee",
+        "mrMarch",
+        "meg"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 42,
+      "title": "Amy and Laurie Are Engaged",
+      "paragraphStart": 25,
+      "paragraphEnd": 39,
+      "sourceSha256": "c1bcb493bbffe3c31fcebc0acf65dba8c53e611201e4bb48ab70ad6320aea373",
+      "present": [
+        "jo",
+        "marmee"
+      ],
+      "mentioned": [
+        "amy",
+        "laurie"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "amy",
+        "laurie"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 42,
+      "title": "Bhaer’s Promise in the Garret",
+      "paragraphStart": 40,
+      "paragraphEnd": 44,
+      "sourceSha256": "ffd0f37dadf0777b7d1cf542dd817cd5f6c6fcbb45e53c93b42b88e0c050017e",
+      "present": [
+        "jo"
+      ],
+      "mentioned": [
+        "professorBhaer",
+        "beth"
+      ],
+      "location": "marchGarret",
+      "removed": [
+        "professorBhaer",
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 43,
+      "title": "How the Wedding Happened",
+      "paragraphStart": 33,
+      "paragraphEnd": 48,
+      "sourceSha256": "81da8cacf47a3207b63425ffb6cd6f6a6600d3b4f3a68ec9e1990a198fe01d69",
+      "present": [
+        "laurie",
+        "jo"
+      ],
+      "mentioned": [
+        "amy",
+        "mrLaurence"
+      ],
+      "location": "marchParlor",
+      "removed": [
+        "amy",
+        "mrLaurence"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 43,
+      "title": "All Together Again",
+      "paragraphStart": 102,
+      "paragraphEnd": 109,
+      "sourceSha256": "c14682ac12860d11da7b613cd30c249cc46494ce9e1f407d2b8b51db57229f2f",
+      "present": [
+        "jo",
+        "amy",
+        "laurie",
+        "professorBhaer",
+        "marmee",
+        "mrMarch",
+        "meg"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "marchParlor",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 30,
+      "title": "Amy Is Chosen for Europe",
+      "paragraphStart": 63,
+      "paragraphEnd": 74,
+      "sourceSha256": "563116fd8dde7ad3f52705b8d65556b2561ae13154137b7bbb8dc89a8ae11929",
+      "present": [
+        "jo",
+        "marmee",
+        "beth"
+      ],
+      "mentioned": [
+        "amy",
+        "auntCarrol"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "amy",
+        "auntCarrol"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 40,
+      "title": "The Empty Room",
+      "paragraphStart": 27,
+      "paragraphEnd": 27,
+      "sourceSha256": "18fbcf2673efc9ab56426d9232676c9d172c1e18c5e46cabd61efaebdd0fc8fb",
+      "present": [
+        "beth"
+      ],
+      "mentioned": [
+        "jo"
+      ],
+      "location": "bethRoom",
+      "removed": [
+        "jo",
+        "marmee",
+        "mrMarch"
+      ],
+      "added": [],
+      "reason": "Beth’s body remains on the pillow; Jo’s explicitly empty place is not a presence snapshot."
+    },
+    {
+      "chapter": 18,
+      "title": "Laurie’s Secret Telegram",
+      "paragraphStart": 23,
+      "paragraphEnd": 34,
+      "sourceSha256": "aa39802dfdbf1e6f133863dee1fa4bc3e66b438cf7e0919f08bce21940eb5f45",
+      "present": [
+        "laurie",
+        "jo"
+      ],
+      "mentioned": [
+        "mrLaurence"
+      ],
+      "location": "marchHall",
+      "removed": [
+        "mrLaurence"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 22,
+      "title": "Peaceful Weeks",
+      "paragraphStart": 1,
+      "paragraphEnd": 2,
+      "sourceSha256": "c66d6b8ed65db2d60fe81b728b45b359195082ecc5d1c493d245dd445c970967",
+      "present": [
+        "beth",
+        "marmee",
+        "meg",
+        "jo",
+        "amy"
+      ],
+      "mentioned": [
+        "mrMarch"
+      ],
+      "location": "mrMarchStudy",
+      "removed": [
+        "mrMarch"
+      ],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 47,
+      "title": "Jo Inherits Plumfield",
+      "paragraphStart": 2,
+      "paragraphEnd": 17,
+      "sourceSha256": "59b603f5fec3a8bc43b9b34a54d36461ab87315ee9505b0383224e7de9e17683",
+      "present": [
+        "jo",
+        "laurie",
+        "marmee",
+        "mrMarch",
+        "meg",
+        "amy",
+        "mrLaurence",
+        "demi"
+      ],
+      "mentioned": [
+        "professorBhaer"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "professorBhaer"
+      ],
+      "added": [
+        "demi"
+      ],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 47,
+      "title": "The Plumfield Vision",
+      "paragraphStart": 18,
+      "paragraphEnd": 28,
+      "sourceSha256": "d09070619fdbc3d0c8fc72e4c20f7de3365ac11545fa1d45c5ddb0d573d3d949",
+      "present": [
+        "jo",
+        "laurie",
+        "marmee",
+        "mrMarch",
+        "mrLaurence",
+        "amy",
+        "meg",
+        "demi"
+      ],
+      "mentioned": [
+        "professorBhaer"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "professorBhaer"
+      ],
+      "added": [
+        "amy",
+        "meg",
+        "demi"
+      ],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 31,
+      "title": "Across the Atlantic",
+      "paragraphStart": 2,
+      "paragraphEnd": 11,
+      "sourceSha256": "d2c4640e23848d635f56c3f155db736b6dad5490591c338e115221b36b1d5deb",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "auntCarrol",
+        "floCarrol",
+        "uncleCarrol"
+      ],
+      "location": "london",
+      "removed": [
+        "auntCarrol",
+        "floCarrol",
+        "uncleCarrol"
+      ],
+      "added": [],
+      "reason": "Amy writes at the letter’s dateline; reported travelers are mentions, not people sharing her writing room."
+    },
+    {
+      "chapter": 31,
+      "title": "London Sights",
+      "paragraphStart": 12,
+      "paragraphEnd": 18,
+      "sourceSha256": "675d65b9db2c91093f230c850b51370d28fc386cd2c495660155e8026673b9cb",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "floCarrol",
+        "auntCarrol",
+        "uncleCarrol"
+      ],
+      "location": "london",
+      "removed": [
+        "floCarrol",
+        "auntCarrol",
+        "uncleCarrol"
+      ],
+      "added": [],
+      "reason": "Amy writes at the letter’s dateline; reported travelers are mentions, not people sharing her writing room."
+    },
+    {
+      "chapter": 31,
+      "title": "The Vaughns Reappear",
+      "paragraphStart": 19,
+      "paragraphEnd": 21,
+      "sourceSha256": "31957c9d2eb6e50052480f9dcbdb29f4bd0354a9423b92b194a84786b5bb657e",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "fredVaughn",
+        "frankVaughn",
+        "floCarrol",
+        "auntCarrol"
+      ],
+      "location": "london",
+      "removed": [
+        "fredVaughn",
+        "kateVaughn",
+        "graceVaughn",
+        "frankVaughn",
+        "auntCarrol"
+      ],
+      "added": [],
+      "reason": "The letter names Fred and Frank as the visitors, not Kate and Grace; Amy writes after the visit."
+    },
+    {
+      "chapter": 31,
+      "title": "The Paris Letter",
+      "paragraphStart": 23,
+      "paragraphEnd": 29,
+      "sourceSha256": "833fa2f6abf51fb6451ceff66e9d85ba2ae91ae2e2105c33ec177d3c96330813",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "auntCarrol",
+        "floCarrol",
+        "uncleCarrol",
+        "fredVaughn"
+      ],
+      "location": "paris",
+      "removed": [
+        "auntCarrol",
+        "floCarrol",
+        "uncleCarrol",
+        "fredVaughn"
+      ],
+      "added": [],
+      "reason": "Amy writes at the letter’s dateline; reported travelers are mentions, not people sharing her writing room."
+    },
+    {
+      "chapter": 31,
+      "title": "Toward Germany and Switzerland",
+      "paragraphStart": 30,
+      "paragraphEnd": 31,
+      "sourceSha256": "80ce95bfffd66ae60c1d9a420cd17ece87a4adab2ee2d8bb3bf190541d1dbd9a",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "auntCarrol",
+        "floCarrol",
+        "uncleCarrol"
+      ],
+      "location": "paris",
+      "removed": [
+        "auntCarrol",
+        "floCarrol",
+        "uncleCarrol"
+      ],
+      "added": [],
+      "reason": "Amy writes at the letter’s dateline; reported travelers are mentions, not people sharing her writing room."
+    },
+    {
+      "chapter": 31,
+      "title": "The Rhine Journey",
+      "paragraphStart": 33,
+      "paragraphEnd": 37,
+      "sourceSha256": "b99e7c45d8bcd719d35c832d99cb7fb7343ad02991677adef9764e5951a067fb",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "auntCarrol",
+        "floCarrol",
+        "uncleCarrol",
+        "fredVaughn"
+      ],
+      "location": "rhineAndHeidelberg",
+      "removed": [
+        "auntCarrol",
+        "floCarrol",
+        "uncleCarrol",
+        "fredVaughn"
+      ],
+      "added": [],
+      "reason": "Amy writes at the letter’s dateline; reported travelers are mentions, not people sharing her writing room."
+    },
+    {
+      "chapter": 31,
+      "title": "Fred’s Question Deferred",
+      "paragraphStart": 38,
+      "paragraphEnd": 41,
+      "sourceSha256": "105e069ff4b888978482ce3cad9d8f58f2a3dd6cd023bfc9f0492c40aaf55b5f",
+      "present": [
+        "amy"
+      ],
+      "mentioned": [
+        "fredVaughn",
+        "auntCarrol",
+        "floCarrol"
+      ],
+      "location": "heidelberg",
+      "removed": [
+        "fredVaughn",
+        "auntCarrol",
+        "floCarrol"
+      ],
+      "added": [],
+      "reason": "Amy writes at the letter’s dateline; reported travelers are mentions, not people sharing her writing room."
+    },
+    {
+      "chapter": 24,
+      "title": "Part Two Begins",
+      "paragraphStart": 1,
+      "paragraphEnd": 1,
+      "sourceSha256": "a61c84651a170a97014ceede9c1fb783fc3f122376ed523e1109511711eb3c2c",
+      "present": [],
+      "mentioned": [],
+      "location": null,
+      "removed": [
+        "meg",
+        "jo",
+        "beth",
+        "amy"
+      ],
+      "added": [],
+      "reason": "A narrator’s introductory line is not an embodied gathering."
+    },
+    {
+      "chapter": 16,
+      "title": "Letters Between Home and Washington",
+      "paragraphStart": 29,
+      "paragraphEnd": 58,
+      "sourceSha256": "5f74a25e0f4f579e733a054bda5e8750890120279a55fc37c50b340bc6edaf4d",
+      "present": [],
+      "mentioned": [
+        "marmee",
+        "meg",
+        "jo",
+        "beth",
+        "amy",
+        "hannah",
+        "laurie",
+        "mrLaurence"
+      ],
+      "location": null,
+      "removed": [
+        "marmee",
+        "meg",
+        "jo",
+        "beth",
+        "amy",
+        "hannah",
+        "laurie",
+        "mrLaurence"
+      ],
+      "added": [],
+      "reason": "A narrator presents a packet of letters from separate writers and places, not a gathering in Washington."
+    },
+    {
+      "chapter": 47,
+      "title": "A Year of Work and Waiting",
+      "paragraphStart": 1,
+      "paragraphEnd": 1,
+      "sourceSha256": "d3254d9ff000ca26a4bc8ce8469647b5e5dcb4363f91e0ab39966a730b280252",
+      "present": [],
+      "mentioned": [
+        "jo",
+        "professorBhaer"
+      ],
+      "location": null,
+      "removed": [
+        "jo",
+        "professorBhaer"
+      ],
+      "added": [],
+      "reason": "A year-long interval across distant workplaces is not a shared physical scene."
+    },
+    {
+      "chapter": 44,
+      "title": "Amy Rejects the Mercenary Self",
+      "paragraphStart": 22,
+      "paragraphEnd": 30,
+      "sourceSha256": "455b3f56a735167ad3841be3b05a2f339fd511d9dd57d82761301a734349c01a",
+      "present": [
+        "amy",
+        "laurie"
+      ],
+      "mentioned": [],
+      "location": "laurenceDrawingRoom",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 41,
+      "title": "Amy Refuses Fred",
+      "paragraphStart": 18,
+      "paragraphEnd": 22,
+      "sourceSha256": "88f1e5b2eebe24ed1632f09040106fddde4650f3f5193512439c8a916c206f14",
+      "present": [
+        "amy",
+        "fredVaughn",
+        "laurie"
+      ],
+      "mentioned": [],
+      "location": "nice",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 40,
+      "title": "The Family Accepts the Inevitable",
+      "paragraphStart": 1,
+      "paragraphEnd": 4,
+      "sourceSha256": "8050b60aaaa38dcd76820a4f3c3b4b3810b3f673855a737fe873080c7869fb0c",
+      "present": [
+        "beth",
+        "marmee",
+        "mrMarch",
+        "jo",
+        "meg",
+        "daisy",
+        "demi"
+      ],
+      "mentioned": [],
+      "location": "bethRoom",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 40,
+      "title": "Spring Nears",
+      "paragraphStart": 24,
+      "paragraphEnd": 24,
+      "sourceSha256": "e9f16ccac22084fb5db9cadc13f9e19de6a999741f352de3be573858d2b0b6a9",
+      "present": [
+        "beth",
+        "jo",
+        "marmee",
+        "mrMarch"
+      ],
+      "mentioned": [],
+      "location": "bethRoom",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 35,
+      "title": "The Last Appeal",
+      "paragraphStart": 89,
+      "paragraphEnd": 93,
+      "sourceSha256": "ec85c2ede609423c7d6f2c31fabdebe3d6e807f3168c8d569c96e0b9cb4d3e8e",
+      "present": [
+        "laurie",
+        "jo"
+      ],
+      "mentioned": [],
+      "location": "marchHall",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 32,
+      "title": "Laurie Sees Through the Escape",
+      "paragraphStart": 111,
+      "paragraphEnd": 111,
+      "sourceSha256": "f2fb71b2d745fc958e315c98184c54e99407cab72a4d8e4b8bd2d23987586595",
+      "present": [
+        "laurie",
+        "jo"
+      ],
+      "mentioned": [],
+      "location": "marchHall",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 35,
+      "title": "Jo Tells Mr. Laurence",
+      "paragraphStart": 58,
+      "paragraphEnd": 58,
+      "sourceSha256": "68f9379775986b1e098514a2170b76dedeb4339d46e4a30e067b1c824c7e9b86",
+      "present": [
+        "jo",
+        "mrLaurence"
+      ],
+      "mentioned": [],
+      "location": "laurenceLibrary",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 35,
+      "title": "Grandfather Offers Europe",
+      "paragraphStart": 59,
+      "paragraphEnd": 88,
+      "sourceSha256": "3ecb849a45530ce8916db7eaac89b0ae9b9b31b720c2f4c6cbfe3d7bbbdc3c88",
+      "present": [
+        "laurie",
+        "mrLaurence"
+      ],
+      "mentioned": [],
+      "location": "laurenceDrawingRoom",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 6,
+      "title": "Beth Thanks Him Herself",
+      "paragraphStart": 42,
+      "paragraphEnd": 43,
+      "sourceSha256": "d60052e9296c6e17bea160f7d8c465b48a2b79aa79d9e30c5abf5a3c3fa87b2a",
+      "present": [
+        "beth",
+        "mrLaurence"
+      ],
+      "mentioned": [],
+      "location": "laurenceLibrary",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 11,
+      "title": "Pip’s Funeral",
+      "paragraphStart": 57,
+      "paragraphEnd": 59,
+      "sourceSha256": "8e63006a7259da614e32a865fd9a89f20bfb783ed85156fbc146e7a7f69f1fb0",
+      "present": [
+        "jo",
+        "beth",
+        "meg",
+        "amy",
+        "laurie",
+        "sallieGardiner"
+      ],
+      "mentioned": [],
+      "location": "marchYard",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 25,
+      "title": "Laurie’s Promise",
+      "paragraphStart": 25,
+      "paragraphEnd": 33,
+      "sourceSha256": "a6558b651e825e4c62b363c4c2d0048bf72203259e0aeac36afce0d66d705c4f",
+      "present": [
+        "meg",
+        "laurie",
+        "jo"
+      ],
+      "mentioned": [],
+      "location": "marchYard",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 25,
+      "title": "The Wedding Dance",
+      "paragraphStart": 34,
+      "paragraphEnd": 35,
+      "sourceSha256": "0fa5929e6d01165fb620ba1078fc59e2541d1690ed923820cc790a24bc0d6523",
+      "present": [
+        "meg",
+        "mrBrooke",
+        "laurie",
+        "jo"
+      ],
+      "mentioned": [],
+      "location": "marchYard",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 35,
+      "title": "The Walk Home",
+      "paragraphStart": 5,
+      "paragraphEnd": 12,
+      "sourceSha256": "bf68e415d15acc0699249684d5bc1e0214a51ce5ce10f244ec57f832b41ba79f",
+      "present": [
+        "jo",
+        "laurie"
+      ],
+      "mentioned": [],
+      "location": "townRoads",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 46,
+      "title": "The One Precious Thing",
+      "paragraphStart": 98,
+      "paragraphEnd": 105,
+      "sourceSha256": "26cc8414e23a2b7889ca3205c15eb23632f34d4d5262d5c06bd13c2222208c2b",
+      "present": [
+        "jo",
+        "professorBhaer"
+      ],
+      "mentioned": [],
+      "location": "townRoads",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 43,
+      "title": "Another Ghost at the Door",
+      "paragraphStart": 87,
+      "paragraphEnd": 95,
+      "sourceSha256": "d844ab06f645fe8e0d1dabb488bb4503dd2449cdd39d6e76f8c6e616cd2fb1b1",
+      "present": [
+        "jo",
+        "professorBhaer",
+        "hannah"
+      ],
+      "mentioned": [],
+      "location": "marchHall",
+      "removed": [],
+      "added": [],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 15,
+      "title": "Marmee’s Midnight Blessing",
+      "paragraphStart": 78,
+      "paragraphEnd": 78,
+      "sourceSha256": "5550693b77c37bbecb6a3fa84054d6ab8373866581534e36548edf99efe5e1e6",
+      "present": [
+        "marmee",
+        "jo",
+        "meg",
+        "amy",
+        "beth"
+      ],
+      "mentioned": [],
+      "location": "marchBedrooms",
+      "removed": [],
+      "added": [
+        "jo",
+        "meg",
+        "amy",
+        "beth"
+      ],
+      "reason": "Source review separates direct action from absent people, reported news, memories, and plans; location follows the actual passage."
+    },
+    {
+      "chapter": 28,
+      "title": "Twins by Jupiter",
+      "paragraphStart": 71,
+      "paragraphEnd": 80,
+      "sourceSha256": "edb95cac174dc96c9d6f8aec53143f9be4fca8f5bc9d44c64d644d4a768d7140",
+      "present": [
+        "jo",
+        "laurie",
+        "mrBrooke",
+        "amy",
+        "marmee",
+        "hannah",
+        "daisy",
+        "demi"
+      ],
+      "mentioned": [],
+      "location": "dovecoteParlor",
+      "removed": [],
+      "added": [
+        "marmee",
+        "hannah",
+        "daisy",
+        "demi"
+      ],
+      "reason": "Amy is physically present and laughs; her note must describe this moment rather than prior ribbon preparation."
+    },
+    {
+      "chapter": 27,
+      "title": "Jo’s Writing Vortex",
+      "paragraphStart": 1,
+      "paragraphEnd": 3,
+      "sourceSha256": "cd097dfdc96bfc053bb0f7934c31a6a18d38247173d834c9f2cf68b9a6f4be0f",
+      "present": [
+        "jo"
+      ],
+      "mentioned": [
+        "marmee",
+        "mrMarch",
+        "meg",
+        "beth",
+        "amy"
+      ],
+      "location": "joBedroom",
+      "removed": [
+        "marmee",
+        "mrMarch",
+        "meg",
+        "beth",
+        "amy"
+      ],
+      "added": [],
+      "reason": "Jo shuts herself in her own room; unnamed occasional visitors do not establish a named family gathering."
+    },
+    {
+      "chapter": 27,
+      "title": "The Secret Submission",
+      "paragraphStart": 16,
+      "paragraphEnd": 16,
+      "sourceSha256": "6ca671523d2910e1e19e5475d8cb750be3d1856a7ebd3a10321547dbc69e0b82",
+      "present": [
+        "jo"
+      ],
+      "mentioned": [
+        "marmee"
+      ],
+      "location": "joBedroom",
+      "removed": [
+        "marmee"
+      ],
+      "added": [],
+      "reason": "Jo writes and posts the manuscript privately; maternal concern does not put Marmee in the room."
+    },
+    {
+      "chapter": 27,
+      "title": "Praise and Blame",
+      "paragraphStart": 36,
+      "paragraphEnd": 37,
+      "sourceSha256": "61fd9b412807d053f0d739eee1a87879cee761900369f187cdcc4cdbd79d8193",
+      "present": [
+        "jo",
+        "marmee"
+      ],
+      "mentioned": [
+        "mrMarch",
+        "meg",
+        "beth",
+        "amy"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "mrMarch",
+        "meg",
+        "beth",
+        "amy"
+      ],
+      "added": [],
+      "reason": "Jo addresses Mother about reviews; the next scene supplies the wider family consolation."
+    },
+    {
+      "chapter": 32,
+      "title": "Marmee Is Anxious About Beth",
+      "paragraphStart": 1,
+      "paragraphEnd": 16,
+      "sourceSha256": "8420aeb9761000888de7174bcb25d6217d42f3cbe756a1f4eb5daacf395b0b4c",
+      "present": [
+        "marmee",
+        "jo"
+      ],
+      "mentioned": [
+        "beth"
+      ],
+      "location": "marchHouse",
+      "removed": [
+        "beth"
+      ],
+      "added": [],
+      "reason": "Marmee and Jo privately discuss Beth; Beth is the subject, not a participant."
+    },
+    {
+      "chapter": 28,
+      "title": "The Jelly That Would Not Jell",
+      "paragraphStart": 4,
+      "paragraphEnd": 8,
+      "sourceSha256": "9f9fb6a73c0c68c7f628490a5089c43877a8c89025ccd22d985a117a3a9489ab",
+      "present": [
+        "meg"
+      ],
+      "mentioned": [
+        "mrBrooke"
+      ],
+      "location": "dovecoteKitchen",
+      "removed": [
+        "mrBrooke"
+      ],
+      "added": [],
+      "reason": "The sustained action has Meg wrestling alone with jelly before John arrives in the next scene."
+    },
+    {
+      "chapter": 27,
+      "title": "The Seaside Gift",
+      "paragraphStart": 22,
+      "paragraphEnd": 23,
+      "sourceSha256": "5a07fd6178ee2c7298a7ca3ff4cf13baf81a4a3e80bb5c22e97c08b252f37608",
+      "present": [],
+      "mentioned": [
+        "jo",
+        "beth",
+        "marmee"
+      ],
+      "location": null,
+      "removed": [
+        "jo",
+        "beth",
+        "marmee"
+      ],
+      "added": [],
+      "reason": "A narrated interval joins the seaside visit to Jo’s continued work at home; it is not shared presence on the coast."
+    }
+  ]
+}

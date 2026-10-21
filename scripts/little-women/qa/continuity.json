@@ -1,0 +1,478 @@
+{
+  "worldSha256": "9d880aced3337b65f75fb56e1a06b20feb12d7ddcefbcdb8eb4539443adb8e1a",
+  "counts": {
+    "note:prose-untagged": 26
+  },
+  "issues": [
+    {
+      "id": "prose-untagged-little-women-event-5-14",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "2 names in the prose of \"The Afternoon Retold\" are not in its cast",
+      "detail": "Ch. 5 — Laurie’s young daughter (2×), Meg’s baby son (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-5",
+      "eventId": "little-women-event-5-14",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record all 2 as mentioned",
+        "eventId": "little-women-event-5-14",
+        "characterIds": [
+          "little-women-char-youngbeth",
+          "little-women-char-demi"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-13-8",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"A Meeting Ten Years Hence\"",
+      "detail": "Ch. 13 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-13",
+      "eventId": "little-women-event-13-8",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-13-8",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-18-6",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Laurie’s Secret Telegram\"",
+      "detail": "Ch. 18 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-18",
+      "eventId": "little-women-event-18-6",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-18-6",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-19-10",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"News of Beth\"",
+      "detail": "Ch. 19 — Amy’s schoolmates (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-19",
+      "eventId": "little-women-event-19-10",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-19-10",
+        "characterIds": [
+          "little-women-char-schoolgirls"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-20-4",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Jo Tells Marmee the Secret\"",
+      "detail": "Ch. 20 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-20",
+      "eventId": "little-women-event-20-4",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-20-4",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-21-10",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Laurie Threatens to Run Away\"",
+      "detail": "Ch. 21 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-21",
+      "eventId": "little-women-event-21-10",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-21-10",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-24-5",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Making the Dovecote\"",
+      "detail": "Ch. 24 — Amy’s schoolmates (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-24",
+      "eventId": "little-women-event-24-5",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-24-5",
+        "characterIds": [
+          "little-women-char-schoolgirls"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-24-11",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Jo Lectures Laurie on the Walk\"",
+      "detail": "Ch. 24 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-24",
+      "eventId": "little-women-event-24-11",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-24-11",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-28-27",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Daisy and Demi\"",
+      "detail": "Ch. 28 — Teddy Bhaer (3×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-28",
+      "eventId": "little-women-event-28-27",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-28-27",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-29-10",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Laurie’s young daughter is named in the prose but not in the cast of \"Jo Chooses the Boys\"",
+      "detail": "Ch. 29 — Laurie’s young daughter (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-29",
+      "eventId": "little-women-event-29-10",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-29-10",
+        "characterIds": [
+          "little-women-char-youngbeth"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-30-1",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Amy’s Place at the Fair\"",
+      "detail": "Ch. 30 — Amy’s schoolmates (3×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-30",
+      "eventId": "little-women-event-30-1",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-30-1",
+        "characterIds": [
+          "little-women-char-schoolgirls"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-30-10",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Jo Enlists Laurie\"",
+      "detail": "Ch. 30 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-30",
+      "eventId": "little-women-event-30-10",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-30-10",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-30-11",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"The Tables Turn\"",
+      "detail": "Ch. 30 — Amy’s schoolmates (3×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-30",
+      "eventId": "little-women-event-30-11",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-30-11",
+        "characterIds": [
+          "little-women-char-schoolgirls"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-31-2",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Kate Vaughn is named in the prose but not in the cast of \"Across the Atlantic\"",
+      "detail": "Ch. 31 — Kate Vaughn (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-31",
+      "eventId": "little-women-event-31-2",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-31-2",
+        "characterIds": [
+          "little-women-char-katevaughn"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-31-9",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Bhaer’s two students is named in the prose but not in the cast of \"The Rhine Journey\"",
+      "detail": "Ch. 31 — Bhaer’s two students (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-31",
+      "eventId": "little-women-event-31-9",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-31-9",
+        "characterIds": [
+          "little-women-char-bhaerstudents"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-32-7",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Talk of Flirting and Marriage\"",
+      "detail": "Ch. 32 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-32",
+      "eventId": "little-women-event-32-7",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-32-7",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-37-12",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "2 names in the prose of \"The Christmas Ball\" are not in its cast",
+      "detail": "Ch. 37 — Amy’s schoolmates (2×), Laurie’s young daughter (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-37",
+      "eventId": "little-women-event-37-12",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record all 2 as mentioned",
+        "eventId": "little-women-event-37-12",
+        "characterIds": [
+          "little-women-char-schoolgirls",
+          "little-women-char-youngbeth"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-39-8",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Amy Gives Up Great Art\"",
+      "detail": "Ch. 39 — Amy’s schoolmates (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-39",
+      "eventId": "little-women-event-39-8",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-39-8",
+        "characterIds": [
+          "little-women-char-schoolgirls"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-41-16",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Laurie Finds Amy at Vevay\"",
+      "detail": "Ch. 41 — Amy’s schoolmates (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-41",
+      "eventId": "little-women-event-41-16",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-41-16",
+        "characterIds": [
+          "little-women-char-schoolgirls"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-42-11",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Amy and Laurie Are Engaged\"",
+      "detail": "Ch. 42 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-42",
+      "eventId": "little-women-event-42-11",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-42-11",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-43-2",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Laurie’s Ghost\"",
+      "detail": "Ch. 43 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-43",
+      "eventId": "little-women-event-43-2",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-43-2",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-43-4",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"The Old Place Without the Old Barrier\"",
+      "detail": "Ch. 43 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-43",
+      "eventId": "little-women-event-43-4",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-43-4",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-43-7",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"Jo Admits Her Loneliness\"",
+      "detail": "Ch. 43 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-43",
+      "eventId": "little-women-event-43-7",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-43-7",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-44-1",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"Laurie Borrows His Wife\"",
+      "detail": "Ch. 44 — Amy’s schoolmates (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-44",
+      "eventId": "little-women-event-44-1",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-44-1",
+        "characterIds": [
+          "little-women-char-schoolgirls"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-47-3",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Teddy Bhaer is named in the prose but not in the cast of \"The Plumfield Vision\"",
+      "detail": "Ch. 47 — Teddy Bhaer (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-47",
+      "eventId": "little-women-event-47-3",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-47-3",
+        "characterIds": [
+          "little-women-char-teddybhaer"
+        ]
+      }
+    },
+    {
+      "id": "prose-untagged-little-women-event-47-8",
+      "kind": "prose-untagged",
+      "severity": "note",
+      "category": "prose",
+      "message": "Amy’s schoolmates is named in the prose but not in the cast of \"The Sisters Compare Their Castles\"",
+      "detail": "Ch. 47 — Amy’s schoolmates (2×). Recording a name as mentioned says only that: it is in the prose. If they are actually in the room, add them to the cast on the scene card instead.",
+      "navigatePath": "/worlds/little-women-world/manuscript/little-women-chapter-47",
+      "eventId": "little-women-event-47-8",
+      "fix": {
+        "kind": "addMention",
+        "label": "Record as mentioned",
+        "eventId": "little-women-event-47-8",
+        "characterIds": [
+          "little-women-char-schoolgirls"
+        ]
+      }
+    }
+  ]
+}

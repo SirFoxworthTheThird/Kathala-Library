@@ -1,0 +1,228 @@
+{
+  "reviewedAt": "2026-10-21",
+  "policy": "Approval is bound to exact SHA-256 bytes. Generated map bases remain inputs until deterministic labels and marker-coordinate review are complete.",
+  "assets": [
+    {
+      "file": "library/little-women/art/generated/cover.png",
+      "sha256": "4ecc8a0a07a76e089168276a69483cfb170335dc5599d3b239e0d2446636ae40",
+      "status": "approved",
+      "inspection": "Four visually distinct sisters are present with writing, sewing, piano, and drawing activities; Marmee is secondary in the background. The 1860s parlor, clothing, firelight, and restrained American-realist treatment are coherent. No title, watermark, modern object, caricature, or duplicate face was found."
+    },
+    {
+      "file": "library/little-women/maps/world-base.png",
+      "sha256": "da68c5ec02354b1ce9fe98b5da911da23b5b178087c1b511d71a43b29f4a5d11",
+      "status": "base-approved",
+      "inspection": "A legible North Atlantic atlas plate with recognizable northeastern North America and western Europe, clear ocean separation, restrained terrain, and no pseudo-labels or decorative scene substitution."
+    },
+    {
+      "file": "library/little-women/maps/concord-base.png",
+      "sha256": "720b6a6ad72be9e731d16e0d546a8ae29ec66126df451ce6b22469e5deaaf8c3",
+      "status": "base-approved",
+      "inspection": "A mature New England topographic plan with connected roads, village, river, bridges, fields, woods, several estates, and orchard. It reads spatially at full size and contains no text, icons, or modern intrusions."
+    },
+    {
+      "file": "library/little-women/maps/march-house-base.png",
+      "sha256": "d8a0972af0460f160fb30e46936e715f36dae85c65be5312f8a1e6ba380f8e41",
+      "status": "base-approved",
+      "inspection": "The cutaway clearly separates parlor and piano, dining room, kitchen, central hall, study, bedrooms, garret, and yard. The house feels modest and lived in; circulation and room boundaries are usable for markers."
+    },
+    {
+      "file": "library/little-women/maps/laurence-estate-base.png",
+      "sha256": "b36fe4388d40e63f2489c7d9f6a056e398d7d193a236a769ad7b899d9b670576",
+      "status": "base-approved",
+      "inspection": "The larger estate distinguishes library, music room, dining room, hall, upper rooms, conservatory, carriage drive, lawn, hedge, and neighbor-facing gate without palace excess or toy-like treatment."
+    },
+    {
+      "file": "library/little-women/maps/dovecote-base.png",
+      "sha256": "d934660b0f3b81a11a4c6af626377a74d056437c3d29757e36ee5f0db70c9217",
+      "status": "base-approved",
+      "inspection": "The compact cottage separates parlor, kitchen and dining work, nursery inset, entrance, yard, and kitchen garden with historically plausible economy and no toy-like styling."
+    },
+    {
+      "file": "library/little-women/maps/europe-base.png",
+      "sha256": "10f88beed93b40ed594bb06bd8857b89fba97c9f74554f0f093f54670df7a2fe",
+      "status": "base-approved",
+      "inspection": "Western Europe has coherent coastlines, rivers, Alps, Channel, Mediterranean, and open destination zones without labels, pseudo-text, or modern transit features."
+    },
+    {
+      "file": "library/little-women/maps/world.png",
+      "sha256": "e2346910522a1dd72816d6353074da840dd3b4007de93ff4251371e16af77c11",
+      "status": "approved",
+      "inspection": "Final labels and pins preserve geographic order for Concord, New York, Washington, the seaside, and Europe without obscuring coastlines. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible."
+    },
+    {
+      "file": "library/little-women/maps/concord.png",
+      "sha256": "f92141d75d414189d652ca94b6726d2e7015a72eb6c58108c3c9a4e6e3a3be5e",
+      "status": "approved",
+      "inspection": "All ten final markers sit on distinct depicted estates, village, river, meadow, hall, or orchard zones; the Dovecote and Moffat markers no longer overlap. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible."
+    },
+    {
+      "file": "library/little-women/maps/march-house.png",
+      "sha256": "7cd3cc25af5bec257ca94573ddf53de2f8f64110a78074ca7622bfab2dbcc2bc",
+      "status": "approved",
+      "inspection": "All eight labels sit within the corresponding parlor, bedrooms, kitchen, dining room, hall, study, garret, or yard."
+    },
+    {
+      "file": "library/little-women/maps/laurence-estate.png",
+      "sha256": "ecf4b58d1cd82e958a96a11187fb8ccf1e1852295c467622f11f8536e64c06b2",
+      "status": "approved",
+      "inspection": "All five labels align with the library, music room, dining room, upstairs rooms, and grounds-and-gate zone. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible."
+    },
+    {
+      "file": "library/little-women/maps/dovecote.png",
+      "sha256": "496c9590f308bed76f0d8ba580c247cc8a71101c31eadb85432ed7e6a987a727",
+      "status": "approved",
+      "inspection": "The parlor, kitchen, and nursery markers occupy their separate architectural zones and remain readable at contact-sheet scale. Reopened 21 October after full source review: labeled hall/stair and dining spaces, hillside nook and schematic departure port match their mapped subjects; world labels are separated and all text remains legible."
+    },
+    {
+      "file": "library/little-women/maps/europe.png",
+      "sha256": "92043395a4acaf01e4d28d1b1916b1f3acbe9b14966bbe6c16bba7f960b80349",
+      "status": "approved",
+      "inspection": "London, Paris, Rhine and Heidelberg, Vevay, Nice, and Valrosa markers follow the depicted geography; Nice and Valrosa were moved onto the Mediterranean coast after first review. Correction review 21 October: Vienna is separately marked northeast of the Alpine ridge for Laurie’s Austrian stay; the added label is legible, clear of the existing labels, and retains the reviewed atlas base."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/amy.png",
+      "sha256": "c9b405c07a6012a1ea75079e131cb7e2acad74cf72b261db1ee852d4ee5c3580",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/aunt-march.png",
+      "sha256": "343e809304ed6e7a665e1c0c1b95a14d180baaed751f299f0a558f6a08067feb",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/beth.png",
+      "sha256": "bccb7d9bbbbac004dce4298d9017f3323b2af74570a364daabd85510db5cd34d",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/daisy.png",
+      "sha256": "8db39fa1d304e223710dbe219cb1e229203d5e080cd0f188fb4770764e62acc6",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/demi.png",
+      "sha256": "0cd4b0bae10a79201d7f012ccec4dd62ceae73c093ee42019a3b149cd4444305",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/hannah.png",
+      "sha256": "8214d84758c0d1bb2ecf9a65001d81e7296eb7c0941f471c060bace4db5fdc2f",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/jo.png",
+      "sha256": "137c1e40841599c32acc4e90747223617e98429d33ee7c41cc0ac4df39e153d8",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/john-brooke.png",
+      "sha256": "f70f649a85c359b4efcb03c55a9388d70e9b209881c6d21532b5434c0c8293bb",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/laurie.png",
+      "sha256": "dc823a972ad2e07a4bca16ff89a7a40cb17e5b1a85954f233d32fd60268ef079",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/marmee.png",
+      "sha256": "a937b420085317ae8ed456b265d206d0707e414659a2f2f295524396a7091997",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/meg.png",
+      "sha256": "83e758319455cd1377f89679dcbba2112f3be2278eb7ce25799e65c44ae3506c",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/mr-laurence.png",
+      "sha256": "644f6186f8b0e99236ab2e43e60ac2da517355233779245be0d2ac9cb44cbee1",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/mr-march.png",
+      "sha256": "3cedf8d2c18551237992ed917720fb3a895b8e26d60be1cacc2be9082db8655d",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/professor-bhaer.png",
+      "sha256": "2b2ea030353df4da43cb4261d696ce9f944082eb05797408595a2bbff19082bd",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/teddy-bhaer.png",
+      "sha256": "2e256230a42d06b168a1b537c1f217eeb42505c78b1e45a25b6ef57a8b381db2",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/characters/young-beth.png",
+      "sha256": "95161650356c785832acd0c747956644a3d12a8c9b06355d360874bc85759b18",
+      "status": "approved",
+      "inspection": "Distinct character-specific portrait reviewed at full size for age, identity, period clothing, setting, anatomy, and absence of text, watermark, modern objects, caricature, or duplicated composition."
+    },
+    {
+      "file": "library/little-women/art/generated/items/amy-ring.png",
+      "sha256": "547d94b2f7885c9d677048f6bd5b943a875d7df5846db005598994aff3063e2a",
+      "status": "approved",
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+    },
+    {
+      "file": "library/little-women/art/generated/items/beth-piano.png",
+      "sha256": "a2213842f88677ba10bd46e640b1c479c8e5e162b1fbf4913029459d8d368fa3",
+      "status": "approved",
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+    },
+    {
+      "file": "library/little-women/art/generated/items/bhaer-shakespeare.png",
+      "sha256": "7ecf0c1a90e94857109d1f060fdb72db2ec46f050d337024ee66c20bef32ed7d",
+      "status": "approved",
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+    },
+    {
+      "file": "library/little-women/art/generated/items/forged-letter.png",
+      "sha256": "158907c0ef9116bc910c21a04274b0b9ee217060b36feaed241f376e1e5cbaf1",
+      "status": "approved",
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+    },
+    {
+      "file": "library/little-women/art/generated/items/garret-poem.png",
+      "sha256": "8f107b6cf75e92828cbb4d9b75fa0be241a033a6520b0fd8303846f9d136be40",
+      "status": "approved",
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+    },
+    {
+      "file": "library/little-women/art/generated/items/jo-hair.png",
+      "sha256": "2e4888107ad76a98006b2f8e9f233fbaae0a852893af2daaea4cec02017f7b75",
+      "status": "approved",
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+    },
+    {
+      "file": "library/little-women/art/generated/items/jo-novel.png",
+      "sha256": "2dc02f37514d135f61276b64c383d05aebb7cccd6e73daab0a5c1e9b502d9bc9",
+      "status": "approved",
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+    },
+    {
+      "file": "library/little-women/art/generated/items/pilgrim-books.png",
+      "sha256": "458a31e6301ba179f8f444b5115c50ec4935d9e30d19b4102ef1b06c7b77d5d4",
+      "status": "approved",
+      "inspection": "Distinct item-specific illustration reviewed at full size for subject, period detail, anatomy, readable-text risk, and absence of watermark, modern objects, cartoon styling, or reused composition."
+    }
+  ]
+}
