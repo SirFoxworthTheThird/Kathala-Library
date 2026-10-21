@@ -18,7 +18,7 @@ const world=JSON.parse(inputBytes)
 const layout=JSON.parse(fs.readFileSync(path.join(root,'scripts/little-women/map-layout.json'),'utf8'))
 const browser=await chromium.launch({headless:true,args:['--no-proxy-server','--host-resolver-rules=MAP fonts.googleapis.com ~NOTFOUND, MAP fonts.gstatic.com ~NOTFOUND']})
 const page=await browser.newPage({viewport:{width:1600,height:1000}})
-const errors=[],failedAssets=[],shots=[],markerChecks=[]
+const errors=[],failedAssets=[],shots=[],markerChecks=[],servedImages=new Map();let imageRequests=0
 page.on('pageerror',e=>errors.push(String(e)))
 page.on('console',m=>{if(m.type()==='error'&&!/fonts\.|ERR_NAME_NOT_RESOLVED/.test(m.text()))errors.push(m.text())})
 page.on('response',r=>{if(r.url().includes('/library/little-women')&&r.status()>=400)failedAssets.push(r.url())})
@@ -26,7 +26,9 @@ await page.route('**/library/**',async route=>{
  const rel=decodeURIComponent(new URL(route.request().url()).pathname).replace(/^\//,'')
  const target=path.resolve(root,rel)
  if(!target.startsWith(path.join(root,'library')+path.sep)||!fs.existsSync(target))return route.fulfill({status:404,body:rel})
- await route.fulfill({status:200,contentType:target.endsWith('.png')?'image/png':'application/json',body:fs.readFileSync(target)})
+ const body=fs.readFileSync(target)
+ if(rel.startsWith('library/little-women/')&&target.endsWith('.webp')){imageRequests++;servedImages.set(rel,body.length)}
+ await route.fulfill({status:200,contentType:target.endsWith('.webp')?'image/webp':target.endsWith('.png')?'image/png':'application/json',body})
 })
 await page.addInitScript(()=>localStorage.setItem('kathala-tutorial',JSON.stringify({step:0,done:true})))
 try{
@@ -177,7 +179,10 @@ try{
  assert.deepEqual(failedAssets,[],'no failed Little Women image requests')
  assert.deepEqual(errors,[],'no page or relevant console errors')
  assert.ok(inputBytes.equals(fs.readFileSync(path.join(root,'library/little-women.pwk'))),'The export changed during UI validation; rerun against stable bytes')
- const report={date:new Date().toISOString(),worldSha256:(await import('node:crypto')).createHash('sha256').update(inputBytes).digest('hex'),reviewedCases,pageChecks,gatewayChecks,playbackChecks,revealChecks,scenarios:shots,bethRemainsDeceased:true,markerChecks,failedAssets,errors}
+ const imageDelivery={format:'WebP',requests:imageRequests,uniqueImages:servedImages.size,uniqueBytes:[...servedImages.values()].reduce((sum,n)=>sum+n,0)}
+ assert.equal(imageDelivery.uniqueImages,31,'all 31 WebP assets load in the exhaustive application pass')
+ assert.equal(imageDelivery.uniqueBytes,8853774,'served image bytes drifted')
+ const report={date:new Date().toISOString(),worldSha256:(await import('node:crypto')).createHash('sha256').update(inputBytes).digest('hex'),reviewedCases,pageChecks,gatewayChecks,playbackChecks,revealChecks,scenarios:shots,bethRemainsDeceased:true,markerChecks,imageDelivery,failedAssets,errors}
  fs.writeFileSync(path.join(out,'results.json'),JSON.stringify(report,null,2)+'\n')
  console.log(JSON.stringify(report,null,2))
 }catch(error){await page.screenshot({path:path.join(out,'failure.png'),fullPage:true});fs.writeFileSync(path.join(out,'failure.txt'),await page.locator('body').innerText());throw error}finally{await browser.close()}

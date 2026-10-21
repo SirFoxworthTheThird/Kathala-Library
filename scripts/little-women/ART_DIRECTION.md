@@ -5,3 +5,5 @@ All generated art uses a mature American-realist literary style grounded in the 
 Maps use hand-painted topography or architectural watercolor with deterministic labels added after generation. They must function as maps at normal Kathala zoom, maintain clear zones for markers, and avoid pseudo-text, modern geography, decorative-only compositions, and childlike treasure-map styling.
 
 Every final asset is generated separately or deliberately depicts a named inseparable group. No map is reused as an entity illustration. Visual approval is recorded against the exact file hash in `art-review.json`.
+
+Published artwork is encoded as WebP quality 85; final maps use quality 90 to preserve labels and fine routes. Lossless generated-art sources and unlabeled map bases live under this authoring directory rather than the public `library/` tree. The compression review compares every published image with its lossless source and records the exact before/after byte counts in `art-review.json`.

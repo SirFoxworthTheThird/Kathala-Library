@@ -97,3 +97,7 @@ Automated validation: all retained source, world, presence, art, catalogue, rele
 Visual validation: all six map layers; manuscript, calendar, characters, arc, relationships, items, maps, lore, factions, knowledge in reading and writing modes.
 Image validation: 31 checked, broken links = 0, duplicate used image hashes = 0.
 Exceptions: floor groups and custom calendar not used; overview-only minor locations and omniscient POV explained above.
+
+## WebP delivery pilot — 21 October 2026
+
+All 31 public images were visually compared side by side with their lossless originals after encoding. Artwork uses WebP quality 85 and maps use quality 90. Faces, objects, textures, map labels, routes, and room boundaries remain clear with no visible blocking, ringing, or colour shift at review scale. Every image exceeds 35 dB PSNR; the exact per-image size, quality, PSNR, hash, and approval are retained in `art-review.json`. Lossless artwork and map bases remain under the authoring scripts for deterministic regeneration, outside the public Library payload.

@@ -10,6 +10,12 @@ const cast = (title: string) => event(title).involvedCharacterIds.map((id: strin
   world.characters.find((row: any) => row.id === id).name).sort()
 
 describe('Little Women source presence regressions', () => {
+  it('ships every referenced image as compact WebP', () => {
+    expect(world.blobs).toHaveLength(31)
+    expect(world.blobs.every((blob: any) => blob.mimeType === 'image/webp')).toBe(true)
+    expect(world.blobs.every((blob: any) => blob.url.endsWith('.webp'))).toBe(true)
+  })
+
   it('reviews every scene and retains the explicit long intervals and parallel account', () => {
     expect(validatePresence(world)).toBe(641)
     expect(event('Three Years Later').inWorldTime - event('The Curtain Falls on Part One').inWorldTime).toBeGreaterThanOrEqual(1095)

@@ -9,7 +9,7 @@
     "id": "little-women-world",
     "name": "Little Women",
     "description": "Four sisters share work, play, ambitions, and small sacrifices in a New England household while their father serves away during the Civil War.",
-    "coverImageId": "little-women-image-art-generated-cover-png",
+    "coverImageId": "little-women-image-art-generated-cover-webp",
     "theme": "theme-historical",
     "readingMode": true,
     "wordTarget": 186395
@@ -29500,7 +29500,7 @@
       "name": "The Atlantic World",
       "description": "A reading map linking New England, New York, Washington, the coast, and the European journey.",
       "parentMapId": null,
-      "imageId": "little-women-image-maps-world-png",
+      "imageId": "little-women-image-maps-world-webp",
       "imageWidth": 1400,
       "imageHeight": 900,
       "scalePixelsPerUnit": null,
@@ -29517,7 +29517,7 @@
       "name": "Concord and Its Roads",
       "description": "An interpretive plan of the March neighborhood, river, town roads, school, and nearby homes.",
       "parentMapId": "little-women-map-world",
-      "imageId": "little-women-image-maps-concord-png",
+      "imageId": "little-women-image-maps-concord-webp",
       "imageWidth": 1400,
       "imageHeight": 900,
       "scalePixelsPerUnit": null,
@@ -29534,7 +29534,7 @@
       "name": "The March House",
       "description": "The modest family home, with its parlor, bedrooms, kitchen, dining room, hall, study, yard, and garret.",
       "parentMapId": "little-women-map-concord",
-      "imageId": "little-women-image-maps-march-house-png",
+      "imageId": "little-women-image-maps-march-house-webp",
       "imageWidth": 1400,
       "imageHeight": 900,
       "scalePixelsPerUnit": null,
@@ -29551,7 +29551,7 @@
       "name": "The Laurence Estate",
       "description": "The neighboring mansion, grounds, library, dining room, drawing room, hall, and Laurie’s rooms.",
       "parentMapId": "little-women-map-concord",
-      "imageId": "little-women-image-maps-laurence-estate-png",
+      "imageId": "little-women-image-maps-laurence-estate-webp",
       "imageWidth": 1400,
       "imageHeight": 900,
       "scalePixelsPerUnit": null,
@@ -29568,7 +29568,7 @@
       "name": "The Dovecote",
       "description": "Meg and John Brooke’s small home and garden.",
       "parentMapId": "little-women-map-concord",
-      "imageId": "little-women-image-maps-dovecote-png",
+      "imageId": "little-women-image-maps-dovecote-webp",
       "imageWidth": 1400,
       "imageHeight": 900,
       "scalePixelsPerUnit": null,
@@ -29585,7 +29585,7 @@
       "name": "The European Journey",
       "description": "An interpretive travel map of London, Paris, Germany, Switzerland, and Nice.",
       "parentMapId": "little-women-map-world",
-      "imageId": "little-women-image-maps-europe-png",
+      "imageId": "little-women-image-maps-europe-webp",
       "imageWidth": 1400,
       "imageHeight": 900,
       "scalePixelsPerUnit": null,
@@ -30689,7 +30689,7 @@
       "aliases": [],
       "description": "The second March sister, an aspiring writer whose blunt courage and fierce loyalty resist conventional expectations.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-jo-png",
+      "portraitImageId": "little-women-image-art-generated-characters-jo-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": [],
@@ -30709,7 +30709,7 @@
       "aliases": [],
       "description": "The eldest March sister, drawn toward beauty and domestic happiness while learning the costs of both.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-meg-png",
+      "portraitImageId": "little-women-image-art-generated-characters-meg-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": [],
@@ -30729,7 +30729,7 @@
       "aliases": [],
       "description": "The youngest March sister, artistically ambitious, socially observant, and determined to become accomplished.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-amy-png",
+      "portraitImageId": "little-women-image-art-generated-characters-amy-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": [],
@@ -30749,7 +30749,7 @@
       "aliases": [],
       "description": "The quiet third March sister, a musician whose gentle service anchors the household.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-beth-png",
+      "portraitImageId": "little-women-image-art-generated-characters-beth-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -30763,7 +30763,7 @@
       "aliases": [],
       "description": "The sisters’ mother and moral guide, managing a reduced household while her husband serves away.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-marmee-png",
+      "portraitImageId": "little-women-image-art-generated-characters-marmee-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -30777,7 +30777,7 @@
       "aliases": [],
       "description": "The sisters’ scholarly father, absent with the Union army when the story opens.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-mr-march-png",
+      "portraitImageId": "little-women-image-art-generated-characters-mr-march-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -30791,7 +30791,7 @@
       "aliases": [],
       "description": "The March family’s forthright longtime housekeeper and practical ally.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-hannah-png",
+      "portraitImageId": "little-women-image-art-generated-characters-hannah-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -30805,7 +30805,7 @@
       "aliases": [],
       "description": "The lively, lonely boy next door, heir to the Laurence household and eager for the March sisters’ companionship.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-laurie-png",
+      "portraitImageId": "little-women-image-art-generated-characters-laurie-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -30819,7 +30819,7 @@
       "aliases": [],
       "description": "Laurie’s formidable grandfather, a wealthy neighbor whose severity conceals deep affection.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-mr-laurence-png",
+      "portraitImageId": "little-women-image-art-generated-characters-mr-laurence-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -30833,7 +30833,7 @@
       "aliases": [],
       "description": "Laurie’s steady young tutor, introduced within the Laurence household.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-john-brooke-png",
+      "portraitImageId": "little-women-image-art-generated-characters-john-brooke-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": [],
@@ -30853,7 +30853,7 @@
       "aliases": [],
       "description": "Mr. March’s wealthy, sharp-tongued aunt, who employs Jo as a companion.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-aunt-march-png",
+      "portraitImageId": "little-women-image-art-generated-characters-aunt-march-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -31273,7 +31273,7 @@
       "aliases": [],
       "description": "Meg and John’s gentle young daughter.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-daisy-png",
+      "portraitImageId": "little-women-image-art-generated-characters-daisy-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": [],
@@ -31293,7 +31293,7 @@
       "aliases": [],
       "description": "Meg and John’s inquisitive young son.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-demi-png",
+      "portraitImageId": "little-women-image-art-generated-characters-demi-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": [],
@@ -31495,7 +31495,7 @@
       "aliases": [],
       "description": "A foreign gentleman whose kindness first attracts Jo’s attention in New York.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-professor-bhaer-png",
+      "portraitImageId": "little-women-image-art-generated-characters-professor-bhaer-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": [],
@@ -31613,7 +31613,7 @@
       "aliases": [],
       "description": "Jo and Friedrich’s younger son.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-teddy-bhaer-png",
+      "portraitImageId": "little-women-image-art-generated-characters-teddy-bhaer-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -31641,7 +31641,7 @@
       "aliases": [],
       "description": "Amy and Laurie’s little daughter.",
       "color": "#795d67",
-      "portraitImageId": "little-women-image-art-generated-characters-young-beth-png",
+      "portraitImageId": "little-women-image-art-generated-characters-young-beth-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": [],
@@ -64886,249 +64886,249 @@
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-maps-world-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/maps/world.png"
+      "id": "little-women-image-maps-world-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/maps/world.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-maps-concord-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/maps/concord.png"
+      "id": "little-women-image-maps-concord-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/maps/concord.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-maps-march-house-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/maps/march-house.png"
+      "id": "little-women-image-maps-march-house-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/maps/march-house.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-maps-laurence-estate-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/maps/laurence-estate.png"
+      "id": "little-women-image-maps-laurence-estate-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/maps/laurence-estate.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-maps-dovecote-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/maps/dovecote.png"
+      "id": "little-women-image-maps-dovecote-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/maps/dovecote.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-maps-europe-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/maps/europe.png"
+      "id": "little-women-image-maps-europe-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/maps/europe.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-jo-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/jo.png"
+      "id": "little-women-image-art-generated-characters-jo-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/jo.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-meg-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/meg.png"
+      "id": "little-women-image-art-generated-characters-meg-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/meg.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-amy-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/amy.png"
+      "id": "little-women-image-art-generated-characters-amy-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/amy.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-beth-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/beth.png"
+      "id": "little-women-image-art-generated-characters-beth-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/beth.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-marmee-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/marmee.png"
+      "id": "little-women-image-art-generated-characters-marmee-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/marmee.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-mr-march-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/mr-march.png"
+      "id": "little-women-image-art-generated-characters-mr-march-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/mr-march.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-hannah-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/hannah.png"
+      "id": "little-women-image-art-generated-characters-hannah-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/hannah.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-laurie-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/laurie.png"
+      "id": "little-women-image-art-generated-characters-laurie-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/laurie.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-mr-laurence-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/mr-laurence.png"
+      "id": "little-women-image-art-generated-characters-mr-laurence-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/mr-laurence.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-john-brooke-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/john-brooke.png"
+      "id": "little-women-image-art-generated-characters-john-brooke-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/john-brooke.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-aunt-march-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/aunt-march.png"
+      "id": "little-women-image-art-generated-characters-aunt-march-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/aunt-march.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-daisy-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/daisy.png"
+      "id": "little-women-image-art-generated-characters-daisy-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/daisy.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-demi-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/demi.png"
+      "id": "little-women-image-art-generated-characters-demi-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/demi.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-professor-bhaer-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/professor-bhaer.png"
+      "id": "little-women-image-art-generated-characters-professor-bhaer-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/professor-bhaer.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-teddy-bhaer-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/teddy-bhaer.png"
+      "id": "little-women-image-art-generated-characters-teddy-bhaer-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/teddy-bhaer.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-characters-young-beth-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/characters/young-beth.png"
+      "id": "little-women-image-art-generated-characters-young-beth-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/characters/young-beth.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-items-pilgrim-books-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/items/pilgrim-books.png"
+      "id": "little-women-image-art-generated-items-pilgrim-books-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/items/pilgrim-books.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-items-beth-piano-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/items/beth-piano.png"
+      "id": "little-women-image-art-generated-items-beth-piano-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/items/beth-piano.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-items-amy-ring-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/items/amy-ring.png"
+      "id": "little-women-image-art-generated-items-amy-ring-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/items/amy-ring.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-items-jo-hair-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/items/jo-hair.png"
+      "id": "little-women-image-art-generated-items-jo-hair-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/items/jo-hair.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-items-forged-letter-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/items/forged-letter.png"
+      "id": "little-women-image-art-generated-items-forged-letter-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/items/forged-letter.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-items-jo-novel-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/items/jo-novel.png"
+      "id": "little-women-image-art-generated-items-jo-novel-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/items/jo-novel.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-items-bhaer-shakespeare-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/items/bhaer-shakespeare.png"
+      "id": "little-women-image-art-generated-items-bhaer-shakespeare-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/items/bhaer-shakespeare.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-items-garret-poem-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/items/garret-poem.png"
+      "id": "little-women-image-art-generated-items-garret-poem-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/items/garret-poem.webp"
     },
     {
       "worldId": "little-women-world",
       "createdAt": 1792454400000,
       "updatedAt": 1792454400000,
-      "id": "little-women-image-art-generated-cover-png",
-      "mimeType": "image/png",
-      "url": "library/little-women/art/generated/cover.png"
+      "id": "little-women-image-art-generated-cover-webp",
+      "mimeType": "image/webp",
+      "url": "library/little-women/art/generated/cover.webp"
     }
   ],
   "plotThreads": [
@@ -65312,7 +65312,7 @@
       "description": "The four small books Marmee places beneath the sisters’ pillows, telling the beautiful old story of the best life ever lived.",
       "iconType": "book",
       "isCollective": true,
-      "imageId": "little-women-image-art-generated-items-pilgrim-books-png",
+      "imageId": "little-women-image-art-generated-items-pilgrim-books-webp",
       "tags": []
     },
     {
@@ -65324,7 +65324,7 @@
       "description": "The small piano Mr. Laurence gives Beth after learning of her gratitude.",
       "iconType": "instrument",
       "isCollective": false,
-      "imageId": "little-women-image-art-generated-items-beth-piano-png",
+      "imageId": "little-women-image-art-generated-items-beth-piano-webp",
       "tags": []
     },
     {
@@ -65336,7 +65336,7 @@
       "description": "Aunt March’s ring, worn by Amy as a reminder against selfishness.",
       "iconType": "artifact",
       "isCollective": false,
-      "imageId": "little-women-image-art-generated-items-amy-ring-png",
+      "imageId": "little-women-image-art-generated-items-amy-ring-webp",
       "tags": []
     },
     {
@@ -65348,7 +65348,7 @@
       "description": "The long lock Jo saves from her shorn hair and hands to Mother after telling how she earned the travel money.",
       "iconType": "artifact",
       "isCollective": false,
-      "imageId": "little-women-image-art-generated-items-jo-hair-png",
+      "imageId": "little-women-image-art-generated-items-jo-hair-webp",
       "tags": []
     },
     {
@@ -65360,7 +65360,7 @@
       "description": "Laurie’s imitation proposal to Meg, designed as a prank.",
       "iconType": "document",
       "isCollective": false,
-      "imageId": "little-women-image-art-generated-items-forged-letter-png",
+      "imageId": "little-women-image-art-generated-items-forged-letter-webp",
       "tags": []
     },
     {
@@ -65372,7 +65372,7 @@
       "description": "The long-worked manuscript Jo submits to publishers in hope of a literary career.",
       "iconType": "book",
       "isCollective": false,
-      "imageId": "little-women-image-art-generated-items-jo-novel-png",
+      "imageId": "little-women-image-art-generated-items-jo-novel-webp",
       "tags": []
     },
     {
@@ -65384,7 +65384,7 @@
       "description": "The valued volume Professor Bhaer gives Jo as a library in one book.",
       "iconType": "book",
       "isCollective": false,
-      "imageId": "little-women-image-art-generated-items-bhaer-shakespeare-png",
+      "imageId": "little-women-image-art-generated-items-bhaer-shakespeare-webp",
       "tags": []
     },
     {
@@ -65396,7 +65396,7 @@
       "description": "The worn newspaper poem Friedrich takes from his waistcoat pocket during the rainy walk.",
       "iconType": "document",
       "isCollective": false,
-      "imageId": "little-women-image-art-generated-items-garret-poem-png",
+      "imageId": "little-women-image-art-generated-items-garret-poem-webp",
       "tags": []
     }
   ],
