@@ -50,7 +50,10 @@ for(const record of review.assets){
 }
 
 assert.equal(world.mapLayers.filter(layer=>layer.imageId).length,6,'six illustrated map layers')
-assert.equal(world.characters.filter(character=>character.portraitImageId).length,16,'sixteen core and family portraits')
+assert.equal(world.characters.filter(character=>character.portraitImageId).length,world.characters.length,'every character has a portrait')
+assert.equal(new Set(world.characters.map(character=>character.portraitImageId)).size,world.characters.length,'every character portrait is distinct')
+assert.equal(world.locationMarkers.filter(marker=>marker.imageId).length,world.locationMarkers.length,'every location has an illustration')
+assert.equal(new Set(world.locationMarkers.map(marker=>marker.imageId)).size,world.locationMarkers.length,'every location illustration is distinct')
 assert.equal(world.items.filter(item=>item.imageId).length,8,'all story items illustrated')
 const originalBytes=[...used].reduce((sum,relative)=>sum+reviewed.get(relative).compression.originalBytes,0)
 const compressedBytes=[...used].reduce((sum,relative)=>sum+reviewed.get(relative).compression.compressedBytes,0)

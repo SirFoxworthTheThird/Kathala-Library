@@ -13,9 +13,9 @@ const blobs=[];function image(rel){const file=new URL(`../../library/little-wome
 
 const mapCoords=JSON.parse(fs.readFileSync(new URL('./map-layout.json',import.meta.url),'utf8'))
 const mapLayers=mapDefs.map(([key,parent,name,description],i)=>({...stamp,id:mid(key),name,description,parentMapId:parent?mid(parent):null,imageId:image(`maps/${key}.webp`),imageWidth:1400,imageHeight:900,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:null,levelIndex:i,levelLabel:null}))
-const locationMarkers=locationDefs.map(([key,map,name,description,linked])=>{const [x,imageY]=mapCoords[map][key];const y=900-imageY;return{...stamp,id:lid(key),name,description,mapLayerId:mid(map),linkedMapLayerId:linked?mid(linked):null,x,y,iconType:linked?'building':'landmark',imageId:null,tags:[],factionId:null}})
+const locationMarkers=locationDefs.map(([key,map,name,description,linked])=>{const [x,imageY]=mapCoords[map][key];const y=900-imageY;return{...stamp,id:lid(key),name,description,mapLayerId:mid(map),linkedMapLayerId:linked?mid(linked):null,x,y,iconType:linked?'building':'landmark',imageId:image(`art/generated/locations/${slug(key)}.webp`),tags:[],factionId:null}})
 const portraitFiles={jo:'jo.webp',meg:'meg.webp',amy:'amy.webp',beth:'beth.webp',marmee:'marmee.webp',mrMarch:'mr-march.webp',hannah:'hannah.webp',laurie:'laurie.webp',mrLaurence:'mr-laurence.webp',mrBrooke:'john-brooke.webp',auntMarch:'aunt-march.webp',professorBhaer:'professor-bhaer.webp',daisy:'daisy.webp',demi:'demi.webp',teddyBhaer:'teddy-bhaer.webp',youngBeth:'young-beth.webp'}
-const characters=characterDefs.map(([key,name,description])=>({...stamp,id:cid(key),name,aliases:[],description,color:'#795d67',portraitImageId:portraitFiles[key]?image(`art/generated/characters/${portraitFiles[key]}`):null,isAlive:true,birthDate:null,tags:[]}))
+const characters=characterDefs.map(([key,name,description])=>({...stamp,id:cid(key),name,aliases:[],description,color:'#795d67',portraitImageId:image(`art/generated/characters/${portraitFiles[key]??`${slug(key)}.webp`}`),isAlive:true,birthDate:null,tags:[]}))
 
 // Source order and historical time are independent for parallel accounts.
 const chapters=[],events=[],sceneTexts=[],characterSnapshots=[];let order=0,previous=0,bethHasDied=false

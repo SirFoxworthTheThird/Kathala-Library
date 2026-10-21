@@ -180,8 +180,10 @@ try{
  assert.deepEqual(errors,[],'no page or relevant console errors')
  assert.ok(inputBytes.equals(fs.readFileSync(path.join(root,'library/little-women.pwk'))),'The export changed during UI validation; rerun against stable bytes')
  const imageDelivery={format:'WebP',requests:imageRequests,uniqueImages:servedImages.size,uniqueBytes:[...servedImages.values()].reduce((sum,n)=>sum+n,0)}
- assert.equal(imageDelivery.uniqueImages,31,'all 31 WebP assets load in the exhaustive application pass')
- assert.equal(imageDelivery.uniqueBytes,8853774,'served image bytes drifted')
+ const expectedImages=world.blobs.filter(blob=>blob.mimeType==='image/webp')
+ const expectedBytes=expectedImages.reduce((sum,blob)=>sum+fs.statSync(path.join(root,blob.url)).size,0)
+ assert.equal(imageDelivery.uniqueImages,expectedImages.length,'all referenced WebP assets load in the exhaustive application pass')
+ assert.equal(imageDelivery.uniqueBytes,expectedBytes,'served image bytes drifted')
  const report={date:new Date().toISOString(),worldSha256:(await import('node:crypto')).createHash('sha256').update(inputBytes).digest('hex'),reviewedCases,pageChecks,gatewayChecks,playbackChecks,revealChecks,scenarios:shots,bethRemainsDeceased:true,markerChecks,imageDelivery,failedAssets,errors}
  fs.writeFileSync(path.join(out,'results.json'),JSON.stringify(report,null,2)+'\n')
  console.log(JSON.stringify(report,null,2))
