@@ -1,6 +1,6 @@
 [
   {
-    "path": "library/the-undersong/art/world.png",
+    "path": "library/the-undersong/art/world.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-068e22a9-5187-4dde-856b-8a8a39be3b32.png",
     "prompt": "Use case: historical-scene\nAsset type: world cover for The Undersong reading edition\nPrimary request: Book cover illustration for The Undersong: an Edwardian North Riding cliff village at an impossibly low tide, black rock scar leading toward a distant vertical wall of sea, tiny schoolmistress silhouette and mine workings under the cliff, a subtle held-note visual rhythm in water and stone; no text.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache, coastal gothic restraint\nComposition: vertical atmospheric composition\nLighting/mood: cold North Sea daylight, unsettling but humane\nConstraints: historically accurate 1911 clothing, buildings and objects; no text, logo, watermark; adult literary horror\nAvoid: photography, cartoon, anime, modern objects, fantasy ornament, caricature",
@@ -9,7 +9,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/ezra.png",
+    "path": "library/the-undersong/art/characters/ezra.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-16b16a4f-3c97-4748-8cbd-535cc539b93c.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Portrait of Ezra Coyle, fifty-one-year-old village doctor in 1911 North Riding England, weathered thoughtful face, dark Edwardian suit and waistcoat, medical bag and sea-facing surgery window, restrained grief and observational intelligence.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: vertical waist-up single-character portrait, distinct pose and setting\nLighting/mood: cold North Sea daylight or warm period lamplight, psychologically attentive\nConstraints: historically accurate 1911 clothing and objects; no text, logo, watermark; adult literary horror, no caricature\nAvoid: photography, cartoon, anime, glamour, modern objects, generic fantasy",
@@ -18,7 +18,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/agnes.png",
+    "path": "library/the-undersong/art/characters/agnes.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-407e9074-fb09-4c63-8b06-236875ca431b.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Portrait of Agnes Merriman, village schoolmistress in her late thirties in 1911 North Riding England, composed intelligent face, pinned dark hair, practical high-necked blouse and long skirt, chalk-dusted finger, marbled exercise book, empty coastal classroom.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: vertical waist-up single-character portrait, distinct pose and setting\nLighting/mood: cold North Sea daylight or warm period lamplight, psychologically attentive\nConstraints: historically accurate 1911 clothing and objects; no text, logo, watermark; adult literary horror, no caricature\nAvoid: photography, cartoon, anime, glamour, modern objects, generic fantasy",
@@ -27,7 +27,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/tom.png",
+    "path": "library/the-undersong/art/characters/tom.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-d3c9421f-2872-40be-8053-d9b3f1829080.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Portrait of Tom Hesketh, nineteen-year-old ironstone miner in 1911 North Riding England, lean soot-marked face, work shirt and braces, bandaged ears, listening posture, mine timber and dim lamp behind him; vulnerable rather than monstrous.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: vertical waist-up single-character portrait, distinct pose and setting\nLighting/mood: cold North Sea daylight or warm period lamplight, psychologically attentive\nConstraints: historically accurate 1911 clothing and objects; no text, logo, watermark; adult literary horror, no caricature\nAvoid: photography, cartoon, anime, glamour, modern objects, generic fantasy",
@@ -36,7 +36,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/ruth.png",
+    "path": "library/the-undersong/art/characters/ruth.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-38181a00-1072-4ce6-bc7d-9222a96e70a7.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Portrait of Ruth Hesketh, working-class miner’s mother in 1911 North Riding England, strong careworn face, dark shawl crossed over her chest, hands knotted in it, cottage doorway with the distant sea.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: vertical waist-up single-character portrait, distinct pose and setting\nLighting/mood: cold North Sea daylight or warm period lamplight, psychologically attentive\nConstraints: historically accurate 1911 clothing and objects; no text, logo, watermark; adult literary horror, no caricature\nAvoid: photography, cartoon, anime, glamour, modern objects, generic fantasy",
@@ -45,7 +45,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/pell.png",
+    "path": "library/the-undersong/art/characters/pell.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-a1c258a0-30c7-4620-a059-7c989a27fd96.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Jonah Pell, ironstone mine manager around forty-five, soot-dark work coat, hard practical face becoming absorbed, brass mine lamp and timbered heading, one hand on rough black rock.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: vertical waist-up single-character portrait, distinct pose and setting\nLighting/mood: cold North Sea daylight or period lamplight, psychologically attentive\nConstraints: historically accurate 1911 clothing and objects; no text, logo, watermark; no caricature\nAvoid: photography, cartoon, anime, glamour, modern objects, generic fantasy",
@@ -54,7 +54,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/wren.png",
+    "path": "library/the-undersong/art/characters/wren.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-8f7da654-caed-4c6c-b57d-f6cb7834dc3b.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Abel Wren, tall very thin pale surveyor apparently around fifty, prematurely white hair, unnaturally careful posture and long-fingered hand, excellent dark Edwardian coat, lifeboat memorial and gray sea behind him; enigmatic but human.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: vertical waist-up single-character portrait, distinct pose and setting\nLighting/mood: cold North Sea daylight or period lamplight, psychologically attentive\nConstraints: historically accurate 1911 clothing and objects; no text, logo, watermark; no caricature\nAvoid: photography, cartoon, anime, glamour, modern objects, generic fantasy",
@@ -63,7 +63,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/silas.png",
+    "path": "library/the-undersong/art/characters/silas.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-0d374eb2-0e73-416f-976f-ddfb1992a481.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Reverend Silas Tunstall, fifty-eight-year-old Church of England village vicar, worn thoughtful face, black cassock and white collar, standing in a small stone coastal church beside an old font, spiritual exhaustion.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: vertical waist-up single-character portrait, distinct pose and setting\nLighting/mood: cold North Sea daylight or period lamplight, psychologically attentive\nConstraints: historically accurate 1911 clothing and objects; no text, logo, watermark; no caricature\nAvoid: photography, cartoon, anime, glamour, modern objects, generic fantasy",
@@ -72,7 +72,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/harker.png",
+    "path": "library/the-undersong/art/characters/harker.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-01340797-a30c-4539-b15d-5c35545472df.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Old Harker, elderly North Riding coble fisherman, weather-beaten face, wool cap, heavy sea coat, holding a storm lantern on a black rock scar at low tide.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: vertical waist-up single-character portrait, distinct pose and setting\nLighting/mood: cold North Sea daylight or period lamplight, psychologically attentive\nConstraints: historically accurate 1911 clothing and objects; no text, logo, watermark; no caricature\nAvoid: photography, cartoon, anime, glamour, modern objects, generic fantasy",
@@ -81,7 +81,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/annie.png",
+    "path": "library/the-undersong/art/characters/annie.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-37313c2a-2952-4167-aaac-a795b085773b.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Annie Ward, six-year-old North Riding village schoolgirl in 1911, serious patient expression beyond her years, pinafore and boots, holding a black-crayon drawing of an inverted shore with no readable words, coastal classroom.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache, coastal gothic restraint\nComposition: vertical single-child portrait, age accurate and non-glamorized\nLighting/mood: cold North Sea daylight, unsettling but humane\nConstraints: historically accurate 1911 clothing, buildings and objects; no text, logo, watermark; adult literary horror\nAvoid: photography, cartoon, anime, modern objects, fantasy ornament, caricature",
@@ -90,7 +90,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/joseph.png",
+    "path": "library/the-undersong/art/characters/joseph.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-55d64227-5729-4aee-95b4-2453d3d8d16d.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong reading edition\nPrimary request: Joseph Ainsley, seven-year-old North Riding village schoolboy in 1911, short hair and simple school clothes, slate and pencil beside a drawing of dark sea, curious reserved expression, wooden desk.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache, coastal gothic restraint\nComposition: vertical single-child portrait, age accurate and non-glamorized\nLighting/mood: cold North Sea daylight, unsettling but humane\nConstraints: historically accurate 1911 clothing, buildings and objects; no text, logo, watermark; adult literary horror\nAvoid: photography, cartoon, anime, modern objects, fantasy ornament, caricature",
@@ -99,7 +99,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/factions/village.png",
+    "path": "library/the-undersong/art/factions/village.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-42b2ba5e-7a3f-4cbf-ab29-adff13d88ce2.png",
     "prompt": "Use case: historical-scene\nAsset type: faction illustration for The Undersong reading edition\nPrimary request: Faction emblem illustration for Hollin Staithe: a compact Edwardian cliff village of stone cottages, church tower, school, fishing cobles and ironstone winding gear above a black tidal scar, viewed in cold coastal weather, no people foreground.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache, coastal gothic restraint\nComposition: vertical atmospheric composition\nLighting/mood: cold North Sea daylight, unsettling but humane\nConstraints: historically accurate 1911 clothing, buildings and objects; no text, logo, watermark; adult literary horror\nAvoid: photography, cartoon, anime, modern objects, fantasy ornament, caricature",
@@ -108,7 +108,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/factions/mine.png",
+    "path": "library/the-undersong/art/factions/mine.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-dd2021f1-7fa5-4615-8b8b-6beb63881a30.png",
     "prompt": "Use case: historical-scene\nAsset type: faction illustration for The Undersong reading edition\nPrimary request: The Saltwick Ironstone Company in 1911: a North Riding cliffside ironstone mine mouth with timber winding gear, tram rails, ore wagons and a few small workmen in period clothes, black shale and wet stone, industrial power pressed against the sea; no text.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape establishing view, coherent industrial geography\nLighting/mood: cold North Sea daylight, grave and unsentimental\nConstraints: historically accurate 1911 mine workings, clothing and objects; no text, logo, watermark; adult literary horror\nAvoid: photography, cartoon, anime, modern machinery, fantasy architecture",
@@ -117,7 +117,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/factions/parish.png",
+    "path": "library/the-undersong/art/factions/parish.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-25739152-56e9-4792-8035-8085e659b0b1.png",
     "prompt": "Use case: historical-scene\nAsset type: faction illustration for The Undersong reading edition\nPrimary request: St Oswald's parish in Hollin Staithe, 1911: an austere stone church interior with octagonal font, worn pews, gathered coastal villagers and a narrow glimpse of grey sea through leaded glass; no text.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide interior establishing view with strong stone architecture\nLighting/mood: dim winter daylight and candle warmth, solemn communal tension\nConstraints: historically accurate Anglican church, clothing and objects circa 1911; no text, logo, watermark\nAvoid: photography, cartoon, anime, Catholic ornament, modern objects",
@@ -126,7 +126,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/items/daybook.png",
+    "path": "library/the-undersong/art/items/daybook.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-60c7c056-50a9-4b4f-8464-2b52b63d4fa9.png",
     "prompt": "Use case: historical object illustration\nAsset type: item artwork for The Undersong reading edition\nPrimary request: Dr Ezra Vale's 1911 medical daybook open on a scarred oak desk, cramped handwritten case notes, fountain pen, spectacles and a small brass desk clock, pages worn by anxious use; writing must remain indistinct and unreadable.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: close still life, three-quarter overhead\nLighting/mood: warm paraffin lamplight surrounded by darkness\nConstraints: historically accurate 1911 objects; no legible text, logo, watermark\nAvoid: photography, cartoon, modern stationery, magical glow",
@@ -135,7 +135,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/items/dark-stone.png",
+    "path": "library/the-undersong/art/items/dark-stone.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-eb23e742-dff6-4b33-a0b9-ca87f303465c.png",
     "prompt": "Use case: historical object illustration\nAsset type: item artwork for The Undersong reading edition\nPrimary request: a palm-sized dark ironstone fragment from the Saltwick drift, wet black surface marked by unnatural fine parallel striations, resting on folded brown paper beside a geologist's hand lens.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: close forensic still life\nLighting/mood: cold angled daylight revealing texture, unsettling restraint\nConstraints: plausible ironstone geology and 1911 objects; no text, logo, watermark\nAvoid: photography, cartoon, crystal, gemstone, occult symbols, magical glow",
@@ -144,7 +144,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/items/hydrophone.png",
+    "path": "library/the-undersong/art/items/hydrophone.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-ed2dee00-3524-437a-bc0e-ef0821069bdb.png",
     "prompt": "Use case: historical-scene\nAsset type: item illustration for The Undersong\nPrimary request: A fictional but materially plausible 1911 Admiralty hydrophone in an ironstone mine: squat bell-mouthed brass instrument on a short three-legged tripod, paired earpieces connected by long gutta-percha tubes, and a round glass-covered needle dial behind the bell. The complete instrument stands before rough wooden boards, wooden carrying case open beside it. Mature realistic Edwardian oil and gouache illustration, restrained coastal gothic, wide landscape. No text, modern electronics, headphones, box radio, steampunk ornament, watermark or cartoon.",
@@ -156,7 +156,7 @@
     "supersededSourceImage": "exec-28bb8600-8210-49af-ad9a-674496a77cdc.png"
   },
   {
-    "path": "library/the-undersong/art/items/dream-ledger.png",
+    "path": "library/the-undersong/art/items/dream-ledger.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-258b88e1-3d66-45ba-a845-b5569144b68e.png",
     "prompt": "Use case: historical object illustration\nAsset type: item artwork for The Undersong reading edition\nPrimary request: Agnes Vale's dream ledger, a clothbound school exercise book open beside a graphite pencil, pages dense with repeated wave-like marks and dates that remain indistinct, a pressed strand of sea grass between pages.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: intimate overhead still life\nLighting/mood: pale dawn light, obsessive quiet\nConstraints: historically accurate 1911 stationery; no legible text, logo, watermark\nAvoid: photography, cartoon, occult sigils, modern objects, magical glow",
@@ -165,7 +165,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/items/pell-book.png",
+    "path": "library/the-undersong/art/items/pell-book.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-8dba4490-e226-43bb-a792-e89d8ffa6db1.png",
     "prompt": "Use case: historical-scene\nAsset type: item illustration for The Undersong\nPrimary request: A small inexpensive 1911 miner's pocket notebook, small enough for a jacket pocket, open on a rough mine camp bed beside an unsharpened pencil tied to it by string. Thin worn dark cover, soft pages bearing indistinct hourly scientific observations, dusty ironstone grit and dim safety-lamp light. Make its pocket size unmistakable. Mature realistic oil and gouache Edwardian coastal gothic book illustration. Wide landscape. No legible text, clasp, heavy account ledger, ornate binding, modern objects, watermark, cartoon or magical glow.",
@@ -177,7 +177,7 @@
     "supersededSourceImage": "exec-a37fa4a5-f8f8-4248-bbab-cfbfc8ece1b2.png"
   },
   {
-    "path": "library/the-undersong/art/items/watch.png",
+    "path": "library/the-undersong/art/items/watch.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-8c22ba8e-7785-497b-92cb-20880a454ce3.png",
     "prompt": "Use case: historical object illustration\nAsset type: item artwork for The Undersong reading edition\nPrimary request: a worn silver Edwardian pocket watch stopped at a precise minute, open on black shale beside a short length of mine lamp wick and salt crystals.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: close forensic still life, watch face visible but without brand text\nLighting/mood: cold subterranean light, suspended time\nConstraints: historically accurate 1911 watch and mine materials; no logo, watermark, added writing\nAvoid: photography, cartoon, digital watch, ornate fantasy, magical glow",
@@ -186,7 +186,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/items/drawings.png",
+    "path": "library/the-undersong/art/items/drawings.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-f3fa4bd1-d88a-4c76-9695-9bd0336d0bd6.png",
     "prompt": "Use case: historical object illustration\nAsset type: item artwork for The Undersong reading edition\nPrimary request: a small stack of Edwardian schoolchildren's charcoal drawings on cream paper, each showing the same uncanny inverted shoreline and a vertical wall of sea; marks expressive but no written words.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: overhead still life on a worn classroom desk\nLighting/mood: grey window light, innocent repetition becoming ominous\nConstraints: historically accurate 1911 paper and drawing materials; no legible text, logo, watermark\nAvoid: photography, cartoon presentation, bright children's-book colors, modern objects",
@@ -195,7 +195,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/hollin.png",
+    "path": "library/the-undersong/art/locations/hollin.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-db0d03f9-a0d1-4ace-98e5-d02f92f94ee5.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Hollin Staithe in 1911, a fictional North Riding cliff village of weathered stone houses, steep lanes, church tower, school and ironstone winding gear above a black tidal scar and grey North Sea.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide elevated landscape, geographically coherent\nLighting/mood: cold overcast morning, inhabited but uneasy\nConstraints: historically accurate 1911 architecture, boats and industry; no text, logo, watermark\nAvoid: photography, cartoon, picturesque tourism, modern objects",
@@ -204,7 +204,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/whitby.png",
+    "path": "library/the-undersong/art/locations/whitby.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-cf48b2b4-dc55-456f-8c52-956370c3a974.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Whitby harbour circa 1911 seen from the quayside, stone piers, fishing cobles, steam vessel smoke and abbey heights under a hard North Sea sky.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide harbour landscape\nLighting/mood: brisk grey daylight, distant refuge\nConstraints: geographically and historically plausible Whitby, no text, logo, watermark\nAvoid: photography, cartoon, modern cars, holiday postcard color",
@@ -213,7 +213,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/loftus.png",
+    "path": "library/the-undersong/art/locations/loftus.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-d3a886ed-90d4-4664-b50b-25f61b8101d8.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Loftus in the North Riding circa 1911, stone market town street with ironstone workers, horse cart and distant moor edge under lowering weather.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide street landscape with depth\nLighting/mood: muted daylight, practical inland contrast\nConstraints: historically accurate 1911 Yorkshire clothing, street and transport; no text, logo, watermark\nAvoid: photography, cartoon, modern signs, cars, fantasy",
@@ -222,7 +222,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/surgery.png",
+    "path": "library/the-undersong/art/locations/surgery.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-19cef1de-cc53-4bf7-89c5-c8b6f8bfbe19.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Dr Ezra Vale's modest 1911 coastal surgery: examination couch, medicine cabinet, washstand, microscope and desk, one window looking toward a grey sea, carefully used rather than grand.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape or interior establishing view, coherent spatial detail\nLighting/mood: restrained natural or period lamplight, adult literary unease\nConstraints: historically accurate 1911 North Riding architecture, clothing and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern objects, generic fantasy",
@@ -231,7 +231,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/cliff-row.png",
+    "path": "library/the-undersong/art/locations/cliff-row.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-f6111554-f7ef-4ed3-a213-618ce15fce39.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Cliff Row in Hollin Staithe, a tight 1911 terrace of weathered stone miners' cottages pressed against the cliff, laundry lines, wet cobbles and mine headgear looming above.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape or interior establishing view, coherent spatial detail\nLighting/mood: restrained natural or period lamplight, adult literary unease\nConstraints: historically accurate 1911 North Riding architecture, clothing and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern objects, generic fantasy",
@@ -240,7 +240,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/hesketh-house.png",
+    "path": "library/the-undersong/art/locations/hesketh-house.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-5e791b63-999e-47c8-a47b-dcfc7d384947.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: The Hesketh family's cramped miner's cottage interior in 1911: iron range, scrubbed table, patched chairs, narrow stair, a mother keeping vigil by a pale son's bed.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape or interior establishing view, coherent spatial detail\nLighting/mood: restrained natural or period lamplight, adult literary unease\nConstraints: historically accurate 1911 North Riding architecture, clothing and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern objects, generic fantasy",
@@ -249,7 +249,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/school.png",
+    "path": "library/the-undersong/art/locations/school.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-a82435d6-a8c6-4649-bf9b-73c326c6be7b.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Hollin Staithe village schoolroom in 1911: tall windows, rows of scarred desks, slate boards, wall map and cold stove, the sea visible beyond the glass.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape or interior establishing view, coherent spatial detail\nLighting/mood: restrained natural or period lamplight, adult literary unease\nConstraints: historically accurate 1911 North Riding architecture, clothing and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern objects, generic fantasy",
@@ -258,7 +258,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/agnes-house.png",
+    "path": "library/the-undersong/art/locations/agnes-house.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-5abdcd03-5895-4a12-ba47-dcb087c5a0f9.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Agnes Vale's small schoolmistress's cottage interior in 1911: narrow bookcase, plain writing table with dream ledger, coal grate, neatly mended curtains and a view down toward the exposed shore.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide establishing view with coherent architecture and geography\nLighting/mood: restrained North Sea daylight or period lamplight, adult literary unease\nConstraints: historically accurate 1911 North Riding setting and objects; no legible text, logo, watermark\nAvoid: photography, cartoon, modern objects, picturesque tourism, generic fantasy",
@@ -267,7 +267,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/church.png",
+    "path": "library/the-undersong/art/locations/church.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-dbcd27d1-ec13-4e6c-8a1a-7b0f5f1e5049.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: St Oswald's church in Hollin Staithe, a severe medieval stone nave in 1911 with worn pews, octagonal font, modest pulpit and salt-grey light through leaded windows.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide establishing view with coherent architecture and geography\nLighting/mood: restrained North Sea daylight or period lamplight, adult literary unease\nConstraints: historically accurate 1911 North Riding setting and objects; no legible text, logo, watermark\nAvoid: photography, cartoon, modern objects, picturesque tourism, generic fantasy",
@@ -276,7 +276,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/churchyard.png",
+    "path": "library/the-undersong/art/locations/churchyard.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-ec0e8522-8b63-474c-8765-4c431789c125.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: The cliffside churchyard at Hollin Staithe in 1911, leaning headstones among coarse grass, low stone wall, church tower and the North Sea beyond under a racing sky.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide establishing view with coherent architecture and geography\nLighting/mood: restrained North Sea daylight or period lamplight, adult literary unease\nConstraints: historically accurate 1911 North Riding setting and objects; no legible text, logo, watermark\nAvoid: photography, cartoon, modern objects, picturesque tourism, generic fantasy",
@@ -285,7 +285,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/memorial.png",
+    "path": "library/the-undersong/art/locations/memorial.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-d8c201ee-d3b5-4b56-b5da-8da6872c0ee0.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: A weathered lifeboat memorial in the Hollin Staithe churchyard: carved local stone with a cluster of Victorian names rendered indistinct, sea spray, lichen and iron railings.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide establishing view with coherent architecture and geography\nLighting/mood: restrained North Sea daylight or period lamplight, adult literary unease\nConstraints: historically accurate 1911 North Riding setting and objects; no legible text, logo, watermark\nAvoid: photography, cartoon, modern objects, picturesque tourism, generic fantasy",
@@ -294,7 +294,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/staithe.png",
+    "path": "library/the-undersong/art/locations/staithe.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-721e4ffe-894f-4fc3-ba13-e70af0c727bc.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Hollin Staithe landing place at low tide in 1911: rough stone slipway, fishing cobles grounded on wet sand, capstan, lobster pots and steep village above, with the black scar beginning beyond.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape establishing view, coherent geography and human scale\nLighting/mood: cold North Sea daylight, adult literary horror held in restraint\nConstraints: historically accurate 1911 North Riding clothing, boats, architecture and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern objects, bright fantasy, disaster spectacle",
@@ -303,7 +303,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/long-scar.png",
+    "path": "library/the-undersong/art/locations/long-scar.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-87621c47-a6fa-492d-b31f-a8cc2edbd5fd.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Long Scar off Hollin Staithe at an extreme low tide: a long black ironstone reef exposed through shining tidal pools, tiny villagers crossing it toward mist while the sea horizon feels unnaturally distant.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape establishing view, coherent geography and human scale\nLighting/mood: cold North Sea daylight, adult literary horror held in restraint\nConstraints: historically accurate 1911 North Riding clothing, boats, architecture and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern objects, bright fantasy, disaster spectacle",
@@ -312,7 +312,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/seabed.png",
+    "path": "library/the-undersong/art/locations/seabed.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-960fc735-3337-492b-98ad-ce43ccd2a5d1.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: The newly exposed North Sea bed beyond Long Scar: rippled sand, stranded weed, old anchors and channels extending for miles beneath a vast grey sky, with an impossible dark wall of water far away.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape establishing view, coherent geography and human scale\nLighting/mood: cold North Sea daylight, adult literary horror held in restraint\nConstraints: historically accurate 1911 North Riding clothing, boats, architecture and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern objects, bright fantasy, disaster spectacle",
@@ -321,7 +321,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/village-square.png",
+    "path": "library/the-undersong/art/locations/village-square.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-3ad11a0f-3773-42b8-aa19-ab25f1f9e8bd.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Hollin Staithe village square in 1911 during evacuation: stone houses, handcarts, bundled families, miners, church tower and horse wagon under a dim noon sky, tense but orderly.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide landscape establishing view, coherent geography and human scale\nLighting/mood: cold North Sea daylight, adult literary horror held in restraint\nConstraints: historically accurate 1911 North Riding clothing, boats, architecture and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern objects, bright fantasy, disaster spectacle",
@@ -330,7 +330,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/whitby-road.png",
+    "path": "library/the-undersong/art/locations/whitby-road.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-c628ba80-d477-427e-9ff1-b6c47aaf5f3e.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: The steep road out of Hollin Staithe toward Whitby in 1911, winding between moor grass and dry stone walls, evacuees with handcarts and a horse wagon climbing away from the sea.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide establishing view with coherent spatial and engineering detail\nLighting/mood: cold daylight or period safety-lamp light, claustrophobic adult literary horror\nConstraints: historically accurate 1911 North Riding landscape, mine technology, clothing and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern mining equipment, fantasy cavern, supernatural glow",
@@ -339,7 +339,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/drift-mouth.png",
+    "path": "library/the-undersong/art/locations/drift-mouth.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-6228e0c1-4d7c-4ff4-b979-5d7305d00ed9.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: The Saltwick ironstone drift mouth in a cliff above the shore: timbered black portal, narrow-gauge rails, rusted ore tubs and water trickling over shale, abandoned in grey 1911 daylight.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide establishing view with coherent spatial and engineering detail\nLighting/mood: cold daylight or period safety-lamp light, claustrophobic adult literary horror\nConstraints: historically accurate 1911 North Riding landscape, mine technology, clothing and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern mining equipment, fantasy cavern, supernatural glow",
@@ -348,7 +348,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/adit.png",
+    "path": "library/the-undersong/art/locations/adit.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-c5a81afd-8fb1-4d28-8d8c-abdd27639c48.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: Inside the Saltwick adit near its entrance: low timbered mine passage, iron rails, drainage ditch and safety lamps receding into wet black stone, technically plausible Edwardian ironstone workings.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide establishing view with coherent spatial and engineering detail\nLighting/mood: cold daylight or period safety-lamp light, claustrophobic adult literary horror\nConstraints: historically accurate 1911 North Riding landscape, mine technology, clothing and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern mining equipment, fantasy cavern, supernatural glow",
@@ -357,7 +357,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/fourth-heading.png",
+    "path": "library/the-undersong/art/locations/fourth-heading.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-5af6afbe-fbcf-4ad7-aef2-422ef7f92d06.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: The Fourth Heading deep in Saltwick Drift: a narrow unsupported gallery ending at a fresh collapse, splintered props, crushed ore tub, black water and a surveyor's tripod abandoned in dust.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide establishing view with coherent spatial and engineering detail\nLighting/mood: cold daylight or period safety-lamp light, claustrophobic adult literary horror\nConstraints: historically accurate 1911 North Riding landscape, mine technology, clothing and objects; no text, logo, watermark\nAvoid: photography, cartoon, modern mining equipment, fantasy cavern, supernatural glow",
@@ -366,7 +366,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/locations/hollow.png",
+    "path": "library/the-undersong/art/locations/hollow.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-ab36c98b-e963-47f5-b1f6-8a7342e3ed52.png",
     "prompt": "Use case: historical place illustration\nAsset type: location artwork for The Undersong reading edition\nPrimary request: the Hollow beneath Saltwick Drift, a vast geological chamber reached through ironstone workings: curved black strata like the inside of a buried shell, shallow still water, tiny Edwardian figures with safety lamps, and a central stone surface suggesting pressure rather than a creature.\nStyle/medium: mature painterly Edwardian book illustration, realistic oil and gouache texture, coastal gothic restraint\nComposition: wide subterranean establishing view emphasizing scale and plausible geology\nLighting/mood: sparse safety-lamp amber against mineral darkness, awe and dread\nConstraints: geologically tactile, 1911 clothing and lamps; no text, logo, watermark; no visible monster\nAvoid: photography, cartoon, fantasy crystals, tentacles, magical glow, game concept art",
@@ -375,7 +375,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/maps/coast.png",
+    "path": "library/the-undersong/maps/coast.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-6084ab00-39d6-40d2-8d91-cd97a5b3948e.png",
     "prompt": "Use case: historical-scene\nAsset type: accurate regional topographic map illustration for The Undersong\nPrimary request: A professional Edwardian survey map, strict overhead and north at top, of the North Yorkshire coast from Loftus and Skinningrove in the northwest to Whitby in the southeast. North Sea on the RIGHT and upper right; land on LEFT and lower left. Coastline runs diagonally from upper left to lower right, with Whitby harbour and River Esk near the lower right coast and Loftus inland near the upper left, behind Skinningrove. Show realistic sea cliffs, deep stream valleys, moor contour lines, period roads and railway. One small fictional coastal village halfway down the coast represents Hollin Staithe. No labels, text, numbers, symbols, compass, decorative cartouche or border. Mature fine ink and restrained watercolor on cream paper, sober detailed topography, wide 1600 by 1000 landscape composition. No perspective, fantasy, kids drawing, modern highway or satellite photo.",
@@ -387,7 +387,7 @@
     "supersededSourceImage": "exec-a8c4c465-cdf3-4aee-89a5-8d6172146e93.png"
   },
   {
-    "path": "library/the-undersong/maps/village.png",
+    "path": "library/the-undersong/maps/village.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-0ea714a1-0558-4d67-89ce-e4e2e1619454.png",
     "prompt": "Use case: topographic map base\nAsset type: map artwork for The Undersong reading edition\nPrimary request: strict overhead illustrated topographic village plan of fictional Hollin Staithe circa 1911: compact stone village on steep cliff, church and churchyard on high ground, school, cliff row, doctor's surgery, staithe and cobles below, Long Scar reef extending seaward, exposed seabed, Whitby road leaving west, Saltwick drift mouth east.\nStyle/medium: mature Edwardian Ordnance Survey inspired plan on aged cream paper, fine ink contours and restrained watercolor, professional cartography\nComposition: exact orthographic overhead view, north at top, wide 8:5 landscape, all routes and terrain spatially coherent with clear areas for later labels\nLighting/mood: flat archival illumination, muted slate, moss and sea colors\nConstraints: NO labels, NO letters, NO numbers, NO decorative title, NO pins, NO legend, NO border text\nAvoid: perspective village illustration, fantasy map, children's drawing, treasure map, modern roads",
@@ -396,7 +396,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/maps/drift.png",
+    "path": "library/the-undersong/maps/drift.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-7dcb799e-2b05-459d-a826-5f0bbd5dd531.png",
     "prompt": "Use case: topographic map base\nAsset type: map artwork for The Undersong reading edition\nPrimary request: strict overhead technical plan of Saltwick ironstone mine circa 1911: drift entrance at southwest, narrow-gauge adit curving inland, branching worked galleries, Fourth Heading in the northeast, collapse zone and a larger natural hollow beyond, contour hachures and flooded seams.\nStyle/medium: mature Edwardian mining survey plate on aged cream paper, precise ink drafting with restrained earth watercolor, professional technical cartography\nComposition: exact orthographic overhead/cutaway plan, north at top, wide 8:5 landscape, clear routes and chambers for later labels\nLighting/mood: flat archival illumination, charcoal, umber and iron oxide palette\nConstraints: NO labels, NO letters, NO numbers, NO decorative title, NO pins, NO legend, NO border text; plausible ironstone mine engineering\nAvoid: perspective cave scene, fantasy dungeon map, children's drawing, treasure map, modern blueprint symbols",
@@ -405,7 +405,7 @@
     "promptProvenance": "Exact request recovered from the authoring session tool call."
   },
   {
-    "path": "library/the-undersong/art/characters/bower.png",
+    "path": "library/the-undersong/art/characters/bower.webp",
     "generator": "OpenAI ImageGen",
     "sourceImage": "exec-4b8bf939-1e3d-4afd-a89c-479b6f007e20.png",
     "prompt": "Use case: historical-scene\nAsset type: character portrait for The Undersong\nPrimary request: Jack Bower, an adult ironstone night-shift miner on the North Riding coast in 1911, wiry and desperate, dirt on his face, scraped hands gripping a broken wooden pick haft beside a collapsed timber adit. Plain wool shirt, waistcoat, work trousers and battered cap. Distinct individual face, vertical waist-up portrait. Mature realistic Edwardian oil and gouache, cold predawn light and safety-lamp amber, restrained literary horror. No text, modern equipment, cartoon, fantasy or watermark.",

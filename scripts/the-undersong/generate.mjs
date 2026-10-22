@@ -1,13 +1,14 @@
 import fs from 'node:fs'
+import {webpWidth,webpHeight} from '../lib/webp.mjs'
 import {state,holders} from './event-state.mjs'
 import {chapters as sourceChapters,narrativeText,countWords,normalize} from './source-text.mjs'
 import {plans,withEnds} from './story-ledger.mjs'
 import {characters as charDefs, maps as mapDefs, locations as locDefs, items as itemDefs} from './world-ledger.mjs'
 const W='the-undersong-world',T='the-undersong-timeline',now=Date.UTC(2026,9,17),stamp={worldId:W,createdAt:now,updatedAt:now},id=(k,v)=>`undersong-${k}-${v}`
 const root=new URL('../../',import.meta.url),blobs=[]
-function image(kind,key,path=`art/${kind}/${key}.png`){const url=`library/the-undersong/${path}`,p=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(p))throw Error(`Missing ${url}`);const b=fs.readFileSync(p),imageId=id('image',`${kind}-${key}`);blobs.push({...stamp,id:imageId,mimeType:'image/png',url});return{id:imageId,width:b.readUInt32BE(16),height:b.readUInt32BE(20)}}
+function image(kind,key,path=`art/${kind}/${key}.webp`){const url=`library/the-undersong/${path}`,p=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(p))throw Error(`Missing ${url}`);const b=fs.readFileSync(p),imageId=id('image',`${kind}-${key}`);blobs.push({...stamp,id:imageId,mimeType:'image/webp',url});return{id:imageId,width:webpWidth(b),height:webpHeight(b)}}
 const coords=JSON.parse(fs.readFileSync(new URL('./map-geometry.json',import.meta.url),'utf8')).locations
-const mapLayers=mapDefs.map(([k,parent,name,description],i)=>{const a=image('maps',k,`maps/${k}.png`);return{...stamp,id:id('map',k),name,description,parentMapId:parent?id('map',parent):null,imageId:a.id,imageWidth:a.width,imageHeight:a.height,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:null,levelIndex:i,levelLabel:null}})
+const mapLayers=mapDefs.map(([k,parent,name,description],i)=>{const a=image('maps',k,`maps/${k}.webp`);return{...stamp,id:id('map',k),name,description,parentMapId:parent?id('map',parent):null,imageId:a.id,imageWidth:a.width,imageHeight:a.height,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:null,levelIndex:i,levelLabel:null}})
 const locationMarkers=locDefs.map(([k,map,name,description,link])=>({...stamp,id:id('loc',k),name,description,mapLayerId:id('map',map),linkedMapLayerId:link?id('map',link):null,x:coords[map][k][0],y:coords[map][k][1],iconType:link?'building':'landmark',imageId:image('locations',k).id,tags:[],factionId:null}))
 const characters=charDefs.map(([k,name,aliases,description,color])=>({...stamp,id:id('char',k),name,aliases,description,color,portraitImageId:image('characters',k).id,isAlive:true,birthDate:null,tags:[],nameChanges:k==='wren'?[{eventId:id('event','6-2-1'),name:'Elias Coyle'}]:k==='tom'?[{eventId:id('event','5-1-1'),name:'The Listener'}]:[]}))
 const items=itemDefs.map(([k,name,description,iconType])=>({...stamp,id:id('item',k),name,description,iconType,imageId:image('items',k).id,tags:[],isCollective:k==='drawings'}))
@@ -46,7 +47,7 @@ const characterGoals=[['ezra','Record the wrong tides and determine what is happ
 const geometry=JSON.parse(fs.readFileSync(new URL('./map-geometry.json',import.meta.url),'utf8'))
 const mapRoutes=[['coast-road','Coastal road','coast'],['village-shore','Cliff Row to the Scar','village'],['drift-descent','Descent to the Fourth Heading','drift']].map(([k,name,map])=>({...stamp,id:id('route',k),mapLayerId:id('map',map),name,routeType:map==='coast'?'road':'foot',waypoints:geometry.routes[map][0].map(([x,y])=>({x,y})),color:'#8b674e',notes:'Path traced over the depicted road or gallery; the final breached connection into the Hollow is interpretive.'}))
 
-const cover=image('world','cover','art/world.png').id
+const cover=image('world','cover','art/world.webp').id
 const world={version:18,type:'world',exportedAt:now,world:{...stamp,id:W,name:'The Undersong',description:'In an Edwardian North Riding village, a wrong tide, a sound below hearing and records kept by doctor, teacher and mine manager draw the coast toward an impossible low water.',coverImageId:cover,theme:'theme-horror',readingMode:true,continuityStaleThreshold:5,wordTarget:countWords(narrativeText),calendar:{startYear:1911,yearSuffix:'',months:[{name:'September',days:30},{name:'October',days:31},{name:'November',days:30},{name:'December',days:31}]}},mapLayers,locationMarkers,characters,items,characterSnapshots,itemPlacements,chapters,events,sceneTexts,blobs,relationships,relationshipSnapshots,timelines,plotThreads,motifs,loreCategories,lorePages,knowledgeFacts,knowledgeReveals,factions,factionMemberships,characterGoals,mapRoutes,characterMovements:[],continuitySuppressions:[],crossTimelineArtifacts:[],factionRelationships:[],itemSnapshots:[],locationSnapshots:[],mapAnnotations:[],mapRegionSnapshots:[],mapRegions:[],sceneRevisions:[],timelineRelationships:[],travelModes:[],writingLogs:[]}
 if(normalize(sceneTexts.map(s=>s.text).join('\n\n'))!==normalize(narrativeText))throw Error('Narrative reconstruction failed')
 fs.writeFileSync(new URL('../../library/the-undersong.pwk',import.meta.url),JSON.stringify(world))

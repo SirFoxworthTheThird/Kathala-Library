@@ -1,3 +1,4 @@
+import {webpDimensions} from '../lib/webp.mjs'
 import fs from 'node:fs'
 import assert from 'node:assert/strict'
 import crypto from 'node:crypto'
@@ -36,6 +37,6 @@ for(const entity of [world.world,...world.characters,...world.items,...world.loc
 const manifest=JSON.parse(fs.readFileSync(new URL('./ARTWORK_MANIFEST.json',import.meta.url),'utf8'))
 assert.equal(manifest.assetCount,66,'artwork manifest count')
 assert.equal(manifest.assets.length,66,'artwork records')
-for(const asset of manifest.assets){assert.ok(asset.promptStatus.startsWith('exact submitted request'),`${asset.id}: exact prompt provenance`);const bytes=fs.readFileSync(new URL(`../../${asset.finalPath}`,import.meta.url));assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'),asset.sha256,`${asset.id}: artwork hash`);assert.equal(bytes.readUInt32BE(16),asset.width,`${asset.id}: width`);assert.equal(bytes.readUInt32BE(20),asset.height,`${asset.id}: height`)}
+for(const asset of manifest.assets){assert.ok(asset.promptStatus.startsWith('exact submitted request'),`${asset.id}: exact prompt provenance`);const bytes=fs.readFileSync(new URL(`../../${asset.finalPath}`,import.meta.url));assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'),asset.sha256,`${asset.id}: artwork hash`);assert.equal(webpDimensions(bytes)[0],asset.width,`${asset.id}: width`);assert.equal(webpDimensions(bytes)[1],asset.height,`${asset.id}: height`)}
 const bytes=fs.readFileSync(new URL('../../library/paradise-lost.pwk',import.meta.url));console.log(`PASS: Paradise Lost — 12 books, 164 scenes, ${verseLineCount.toLocaleString()} verse lines, ${countWords(verseText).toLocaleString()} words, ${world.characters.length} characters, ${world.characterSnapshots.length} snapshots, ${world.locationMarkers.length} locations, ${world.mapLayers.length} maps, ${world.blobs.length} images, ${bytes.length.toLocaleString()} bytes, SHA-256 ${crypto.createHash('sha256').update(bytes).digest('hex')}.`)
 

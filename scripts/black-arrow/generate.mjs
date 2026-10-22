@@ -1,3 +1,4 @@
+import {webpWidth,webpHeight} from '../lib/webp.mjs'
 import fs from 'node:fs'
 import { sections, retainedText, normalize, wordCount, sourceEdition, sourceUrl, sourceSha256 } from './source-text.mjs'
 import { plans } from './event-plan.mjs'
@@ -20,19 +21,19 @@ function image(url) {
   const file = new URL(`../../${url}`, import.meta.url)
   if (!fs.existsSync(file)) return null
   const id = `black-arrow-image-${slug(url)}`
-  blobs.push({ ...stamp, id, mimeType: url.endsWith('.svg') ? 'image/svg+xml' : 'image/png', url })
+  blobs.push({ ...stamp, id, mimeType: url.endsWith('.svg') ? 'image/svg+xml' : 'image/webp', url })
   return id
 }
 function mapSize(key) {
-  const bytes = fs.readFileSync(new URL(`../../library/black-arrow/maps/illustrated/${key}.png`, import.meta.url))
-  return [bytes.readUInt32BE(16), bytes.readUInt32BE(20)]
+  const bytes = fs.readFileSync(new URL(`../../library/black-arrow/maps/illustrated/${key}.webp`, import.meta.url))
+  return [webpWidth(bytes), webpHeight(bytes)]
 }
 const mapSizes = new Map(mapDefs.map(([key]) => [key, mapSize(key)]))
-const mapLayers = mapDefs.map(([key,parent,name,description],i)=>{ const [imageWidth,imageHeight]=mapSizes.get(key); return { ...stamp, id:mapId(key), name, description, parentMapId:parent?mapId(parent):null, imageId:image(`library/black-arrow/maps/illustrated/${key}.png`), imageWidth, imageHeight, scalePixelsPerUnit:null, scaleUnit:null, levelGroupId:null, levelIndex:i, levelLabel:null } })
+const mapLayers = mapDefs.map(([key,parent,name,description],i)=>{ const [imageWidth,imageHeight]=mapSizes.get(key); return { ...stamp, id:mapId(key), name, description, parentMapId:parent?mapId(parent):null, imageId:image(`library/black-arrow/maps/illustrated/${key}.webp`), imageWidth, imageHeight, scalePixelsPerUnit:null, scaleUnit:null, levelGroupId:null, levelIndex:i, levelLabel:null } })
 // Editorial coordinates in the ledger use a 1400 × 1000 bottom-origin grid.
 // Scale to each separately illustrated map's native dimensions for the PWK.
-const locationMarkers = locationDefs.map(([name,map,x,y,description,linked])=>{ const [width,height]=mapSizes.get(map); return { ...stamp, id:locId(name), name, description, mapLayerId:mapId(map), linkedMapLayerId:linked?mapId(linked):null, x:Math.round(x*width/1400), y:Math.round(y*height/1000), iconType:linked?'building':'landmark', imageId:image(`library/black-arrow/art/locations/${slug(name)}.png`), tags:[], factionId:null } })
-const characters = characterDefs.map(([name,description])=>({ ...stamp, id:charId(name), name, aliases:[], description, color:'#6d604a', portraitImageId:image(`library/black-arrow/art/characters/${slug(name)}.png`), isAlive:true, birthDate:null, tags:[] }))
+const locationMarkers = locationDefs.map(([name,map,x,y,description,linked])=>{ const [width,height]=mapSizes.get(map); return { ...stamp, id:locId(name), name, description, mapLayerId:mapId(map), linkedMapLayerId:linked?mapId(linked):null, x:Math.round(x*width/1400), y:Math.round(y*height/1000), iconType:linked?'building':'landmark', imageId:image(`library/black-arrow/art/locations/${slug(name)}.webp`), tags:[], factionId:null } })
+const characters = characterDefs.map(([name,description])=>({ ...stamp, id:charId(name), name, aliases:[], description, color:'#6d604a', portraitImageId:image(`library/black-arrow/art/characters/${slug(name)}.webp`), isAlive:true, birthDate:null, tags:[] }))
 const itemDefs = [
   ['black-arrow','Black-fletched arrows','The distinctive shafts used by Ellis Duckworth’s company as weapons and signatures.','arrow'],
   ['warning-rhyme','The warning rhyme','A written threat naming the four men marked by the Black Arrow.','document'],
@@ -42,8 +43,8 @@ const itemDefs = [
   ['shoreby-letter','Lord Shoreby’s secret letter','A sealed letter found in the wallet of Shoreby’s spy.','document'],
 ]
 const itemId = key => `black-arrow-item-${key}`
-const items = itemDefs.map(([key,name,description,iconType])=>({...stamp,id:itemId(key),name,description,iconType,isCollective:key==='black-arrow',imageId:image(`library/black-arrow/art/items/${key}.png`),tags:[]}))
-const coverImageId = image('library/black-arrow/art/world.png')
+const items = itemDefs.map(([key,name,description,iconType])=>({...stamp,id:itemId(key),name,description,iconType,isCollective:key==='black-arrow',imageId:image(`library/black-arrow/art/items/${key}.webp`),tags:[]}))
+const coverImageId = image('library/black-arrow/art/world.webp')
 const characterSnapshots = []
 const deathAt = new Map([
   ['Appleyard', 'Appleyard Falls'],

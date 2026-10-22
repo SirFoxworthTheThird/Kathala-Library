@@ -1,3 +1,4 @@
+import {webpDimensions} from '../lib/webp.mjs'
 import {sourceVerse} from './verse-format.mjs'
 import fs from 'node:fs'
 import assert from 'node:assert/strict'
@@ -82,7 +83,7 @@ for(const ref of imageRefs)assert.ok(world.blobs.some(blob=>blob.id===ref),`imag
 const manifest=JSON.parse(fs.readFileSync(new URL('scripts/inferno/ARTWORK_MANIFEST.json',root),'utf8'))
 assert.equal(manifest.assetCount,133)
 assert.equal(manifest.assets.length,133)
-for(const asset of manifest.assets){const bytes=fs.readFileSync(new URL(asset.finalPath,root));assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'),asset.sha256,`${asset.id}: artwork hash`);assert.equal(bytes.readUInt32BE(16),asset.width);assert.equal(bytes.readUInt32BE(20),asset.height);assert.ok(asset.prompt.length>100)}
+for(const asset of manifest.assets){const bytes=fs.readFileSync(new URL(asset.finalPath,root));assert.equal(crypto.createHash('sha256').update(bytes).digest('hex'),asset.sha256,`${asset.id}: artwork hash`);assert.equal(webpDimensions(bytes)[0],asset.width);assert.equal(webpDimensions(bytes)[1],asset.height);assert.ok(asset.prompt.length>100)}
 assert.equal(sourceSha256,'10fad2f10aaffec3bfe3fd63266544f7fd5bba576cd5c63afe68e8212849754d')
 const catalogue=JSON.parse(fs.readFileSync(new URL('library/index.json',root),'utf8')).entries.find(book=>book.id==='inferno')
 const pwkBytes=fs.readFileSync(new URL('library/inferno.pwk',root))

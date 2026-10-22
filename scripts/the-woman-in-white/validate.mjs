@@ -44,7 +44,7 @@ if (external.length) failures.push(`external non-map illustration blobs remain: 
 if (!entry) failures.push('catalogue entry missing');
 else {
   if (entry.dataBytes !== bytes.length) failures.push(`catalogue dataBytes ${entry.dataBytes} differs from ${bytes.length}`);
-  if (entry.cover !== 'library/the-woman-in-white/art/generated/cover.jpg') failures.push(`wrong catalogue cover: ${entry.cover}`);
+  if (entry.cover !== 'library/the-woman-in-white/art/generated/cover.webp') failures.push(`wrong catalogue cover: ${entry.cover}`);
 }
 const archivePath = path.join(root, 'scripts', slug, 'superseded-external-sources.json');
 if (!fs.existsSync(archivePath)) failures.push('missing superseded source archive');
@@ -57,7 +57,7 @@ for (const blob of generated) {
   const file = path.join(root, ...blob.url.split('/'));
   if (!fs.existsSync(file)) continue;
   const data = fs.readFileSync(file);
-  if (data.subarray(0, 2).toString('hex') !== 'ffd8' || data.subarray(-2).toString('hex') !== 'ffd9') failures.push(`${blob.url}: invalid JPEG boundary`);
+  if (data.toString('ascii',0,4) !== 'RIFF' || data.toString('ascii',8,12) !== 'WEBP') failures.push(`${blob.url}: invalid WebP boundary`);
   const hash = crypto.createHash('sha256').update(data).digest('hex');
   if (hashes.has(hash)) failures.push(`duplicate generated files: ${hashes.get(hash)} and ${blob.url}`);
   hashes.set(hash, blob.url);

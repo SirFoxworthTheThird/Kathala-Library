@@ -7,60 +7,60 @@
   "review": "All eight localized topographic map PNGs opened as a contact sheet and all eight layers loaded in Kathala QA import on 2026-10-11; labels and relief visible, no broken map image or browser console error.",
   "assets": [
     {
-      "path": "library/os-lusiadas-pt/maps/calicut-city.png",
+      "path": "library/os-lusiadas-pt/maps/calicut-city.webp",
       "entity": "calicut-city map",
       "source": "Natural Earth relief/land or interpretive terrain, rendered by render-maps.py --pt",
       "prompt": "Re-render the original reviewed topographic layer with unchanged geography, marker placement and maritime route; use Portuguese title, subtitle and labels from MAP_TEXT_PT.",
-      "sha256": "cf0873bb1250f1d439ee2ca7e315287298ee69a52ca1c606a8719c66a4ae053e"
+      "sha256": "58f13e091f45954b1d301445bdeb3809c409095b438b75e8e41e47de3d001634"
     },
     {
-      "path": "library/os-lusiadas-pt/maps/divine.png",
+      "path": "library/os-lusiadas-pt/maps/divine.webp",
       "entity": "divine map",
       "source": "Natural Earth relief/land or interpretive terrain, rendered by render-maps.py --pt",
       "prompt": "Re-render the original reviewed topographic layer with unchanged geography, marker placement and maritime route; use Portuguese title, subtitle and labels from MAP_TEXT_PT.",
-      "sha256": "e1f9a8700b8ccba3935a1191cd08d3ba9be51600b640c7ac2135faedb5d2aef1"
+      "sha256": "19bd469d7bd414416e04212d87f659883832da93f475912b1ad8e07a13baba94"
     },
     {
-      "path": "library/os-lusiadas-pt/maps/east-africa.png",
+      "path": "library/os-lusiadas-pt/maps/east-africa.webp",
       "entity": "east-africa map",
       "source": "Natural Earth relief/land or interpretive terrain, rendered by render-maps.py --pt",
       "prompt": "Re-render the original reviewed topographic layer with unchanged geography, marker placement and maritime route; use Portuguese title, subtitle and labels from MAP_TEXT_PT.",
-      "sha256": "7b7fe3a67c37ba014c8aac7e8229c303ce7f3605a7fb8faa5fb13cac95c1e2f1"
+      "sha256": "2eefd8f8dbbe67b387a3bfb663c43a18287707c7d2f8af4c932bba494bdee5e4"
     },
     {
-      "path": "library/os-lusiadas-pt/maps/england.png",
+      "path": "library/os-lusiadas-pt/maps/england.webp",
       "entity": "england map",
       "source": "Natural Earth relief/land or interpretive terrain, rendered by render-maps.py --pt",
       "prompt": "Re-render the original reviewed topographic layer with unchanged geography, marker placement and maritime route; use Portuguese title, subtitle and labels from MAP_TEXT_PT.",
-      "sha256": "efd72baa9dc39bca534c5ed1dc52fcb58d1cbf3ea1eebe31eadfc0f29527db82"
+      "sha256": "dcba06534f47ae79fe449478984d5879fbb63dc7f7a8df5b6e1b18856af4db72"
     },
     {
-      "path": "library/os-lusiadas-pt/maps/iberia.png",
+      "path": "library/os-lusiadas-pt/maps/iberia.webp",
       "entity": "iberia map",
       "source": "Natural Earth relief/land or interpretive terrain, rendered by render-maps.py --pt",
       "prompt": "Re-render the original reviewed topographic layer with unchanged geography, marker placement and maritime route; use Portuguese title, subtitle and labels from MAP_TEXT_PT.",
-      "sha256": "47b8728e54dc4c52cb75424330ea710ab04c9d18e5ed638e7923d6afd1ea8bf2"
+      "sha256": "b4b627536f8b82491d4a2772dc94809bc76ee6277bbce234e1b7a8ac745b67e9"
     },
     {
-      "path": "library/os-lusiadas-pt/maps/island.png",
+      "path": "library/os-lusiadas-pt/maps/island.webp",
       "entity": "island map",
       "source": "Natural Earth relief/land or interpretive terrain, rendered by render-maps.py --pt",
       "prompt": "Re-render the original reviewed topographic layer with unchanged geography, marker placement and maritime route; use Portuguese title, subtitle and labels from MAP_TEXT_PT.",
-      "sha256": "c536d472a7f4adbe4ee86b0852d970221e0611ca8492ae99b835a9eb5343dafd"
+      "sha256": "5f88f036224b8ac2040ef247b52c14203eb20166ac0682fa4472ef43dea04a62"
     },
     {
-      "path": "library/os-lusiadas-pt/maps/malabar.png",
+      "path": "library/os-lusiadas-pt/maps/malabar.webp",
       "entity": "malabar map",
       "source": "Natural Earth relief/land or interpretive terrain, rendered by render-maps.py --pt",
       "prompt": "Re-render the original reviewed topographic layer with unchanged geography, marker placement and maritime route; use Portuguese title, subtitle and labels from MAP_TEXT_PT.",
-      "sha256": "5153c45d16956471ace0e85fdbe3ac1eb3c83c1ec7d4b28d54f56f7aebdcec85"
+      "sha256": "e0be4fd607df8c9cb4cd6d3c03a6446841257befefabd40342b79fd231949bb7"
     },
     {
-      "path": "library/os-lusiadas-pt/maps/ocean.png",
+      "path": "library/os-lusiadas-pt/maps/ocean.webp",
       "entity": "ocean map",
       "source": "Natural Earth relief/land or interpretive terrain, rendered by render-maps.py --pt",
       "prompt": "Re-render the original reviewed topographic layer with unchanged geography, marker placement and maritime route; use Portuguese title, subtitle and labels from MAP_TEXT_PT.",
-      "sha256": "a155222b6304576fa53876d1b0d533d8f0e4c29a09b956f186aa4c4f8a0d896c"
+      "sha256": "82465c9bbaa44672c1cade128818aaf4c6a1e84a0354c27f8e9a0c12ed32f88e"
     }
   ]
 }

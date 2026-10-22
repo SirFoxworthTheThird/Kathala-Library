@@ -1,3 +1,4 @@
+import {webpWidth,webpHeight} from '../lib/webp.mjs'
 import fs from 'node:fs'
 import { chapters, events, sceneTexts, stamp, worldId, timelineId } from './manuscript.mjs'
 import { retainedText, wordCount, sourceEdition, sourceSha256, sourceUrl } from './source-text.mjs'
@@ -17,18 +18,18 @@ function image(path) {
   const file = new URL(`../../${path}`, import.meta.url)
   if (!fs.existsSync(file)) return null
   const id = `sign-four-image-${slug(path)}`
-  blobs.push({ ...stamp, id, mimeType: 'image/png', url: path })
+  blobs.push({ ...stamp, id, mimeType: 'image/webp', url: path })
   return id
 }
 function dimensions(path) {
   const bytes = fs.readFileSync(new URL(`../../${path}`, import.meta.url))
-  return [bytes.readUInt32BE(16), bytes.readUInt32BE(20)]
+  return [webpWidth(bytes), webpHeight(bytes)]
 }
-const mapSize = new Map(maps.map(([key]) => [key, dimensions(`library/sign-of-the-four/maps/${key}.png`)]))
+const mapSize = new Map(maps.map(([key]) => [key, dimensions(`library/sign-of-the-four/maps/${key}.webp`)]))
 const mapLayers = maps.map(([key, parent, name, description, levelGroup, levelIndex, levelLabel], index) => {
   const [imageWidth, imageHeight] = mapSize.get(key)
   return { ...stamp, id: mid(key), name, description, parentMapId: parent ? mid(parent) : null,
-    imageId: image(`library/sign-of-the-four/maps/${key}.png`), imageWidth, imageHeight,
+    imageId: image(`library/sign-of-the-four/maps/${key}.webp`), imageWidth, imageHeight,
     scalePixelsPerUnit: null, scaleUnit: null, levelGroupId: levelGroup ? `sign-four-levels-${levelGroup}` : null,
     levelIndex: levelIndex ?? 0, levelLabel: levelLabel ?? '' }
 })
@@ -36,13 +37,13 @@ const locationMarkers = locations.map(([name, map, x, y, description, linked]) =
   const [width, height] = mapSize.get(map)
   return { ...stamp, id: lid(name), name, description, mapLayerId: mid(map), linkedMapLayerId: linked ? mid(linked) : null,
     x: Math.round(x * width / 1400), y: Math.round(y * height / 1000), iconType: linked ? 'building' : 'landmark',
-    imageId: image(`library/sign-of-the-four/art/locations/${slug(name)}.png`), tags: [], factionId: null }
+    imageId: image(`library/sign-of-the-four/art/locations/${slug(name)}.webp`), tags: [], factionId: null }
 })
 const characters = characterDefs.map(([name, description]) => ({ ...stamp, id: cid(name), name, aliases: [],
   nameChanges: name === 'The bare-footed accomplice' ? [{ name: 'Tonga', eventId: eid('Small in Custody') }] : [],
   revealedAs: name === 'The old sailor' ? { characterId: cid('Sherlock Holmes'), eventId: eid('Holmes Revealed') } : undefined,
   description: name === 'The bare-footed accomplice' ? 'A small figure seen with the fugitives on the Aurora.' : description,
-  color: '#695b4f', portraitImageId: image(`library/sign-of-the-four/art/characters/${slug(name)}.png`),
+  color: '#695b4f', portraitImageId: image(`library/sign-of-the-four/art/characters/${slug(name)}.webp`),
   isAlive: !['Bartholomew Sholto', 'The bare-footed accomplice', 'Captain Arthur Morstan', 'Major John Sholto', 'Achmet'].includes(name), birthDate: null, tags: [] }))
 const itemDefs = [
   ['pearls', 'The anonymous pearls', 'One pearl arrives for Mary each year without a sender’s name.', 'jewelry'],
@@ -55,7 +56,7 @@ const itemDefs = [
   ['aurora-launch', 'The Aurora', 'Mordecai Smith’s black steam launch with two red stripes.', 'vehicle'],
 ]
 const items = itemDefs.map(([key, name, description, iconType]) => ({ ...stamp, id: iid(key), name, description, iconType,
-  isCollective: key === 'pearls' || key === 'creasote-bottle', imageId: image(`library/sign-of-the-four/art/items/${key}.png`), tags: [] }))
+  isCollective: key === 'pearls' || key === 'creasote-bottle', imageId: image(`library/sign-of-the-four/art/items/${key}.webp`), tags: [] }))
 const characterSnapshots = []
 let previousTime = null
 for (let chapterIndex = 0; chapterIndex < meta.length; chapterIndex++) {
@@ -217,7 +218,7 @@ for (const [title,beat] of [['Miss Morstan Arrives','hook'],['An Invitation','in
 const loreCategoryId='sign-four-lore-edition'
 const data = {
   version:18,type:'world',exportedAt:stamp.createdAt,
-  world:{...stamp,id:worldId,name:'The Sign of the Four',description:'A London mystery draws Holmes and Watson from an unexplained disappearance to a contested Indian treasure and a pursuit down the Thames.',coverImageId:image('library/sign-of-the-four/art/world.png'),theme:'theme-noir',readingMode:true,continuityStaleThreshold:5,wordTarget:wordCount(retainedText),calendar:{startYear:1888,yearSuffix:'',months:[{name:'January',days:31},{name:'February',days:29},{name:'March',days:31},{name:'April',days:30},{name:'May',days:31},{name:'June',days:30},{name:'July',days:31},{name:'August',days:31},{name:'September',days:30},{name:'October',days:31},{name:'November',days:30},{name:'December',days:31}]}},
+  world:{...stamp,id:worldId,name:'The Sign of the Four',description:'A London mystery draws Holmes and Watson from an unexplained disappearance to a contested Indian treasure and a pursuit down the Thames.',coverImageId:image('library/sign-of-the-four/art/world.webp'),theme:'theme-noir',readingMode:true,continuityStaleThreshold:5,wordTarget:wordCount(retainedText),calendar:{startYear:1888,yearSuffix:'',months:[{name:'January',days:31},{name:'February',days:29},{name:'March',days:31},{name:'April',days:30},{name:'May',days:31},{name:'June',days:30},{name:'July',days:31},{name:'August',days:31},{name:'September',days:30},{name:'October',days:31},{name:'November',days:30},{name:'December',days:31}]}},
   timelines:[{...stamp,id:timelineId,name:'The Sign of the Four',description:'Twelve source chapters in narrative order.',color:'#6b5543',dayOffset:0}],
   chapters,events,sceneTexts,mapLayers,locationMarkers,characters,characterSnapshots,items,itemPlacements,locationSnapshots,blobs,relationships,relationshipSnapshots,plotThreads,motifs,knowledgeFacts,knowledgeReveals,factions,factionMemberships,characterGoals,mapRoutes,
   loreCategories:[{...stamp,id:loreCategoryId,name:'Edition and Method',color:'#665347',sortOrder:0}],
@@ -227,7 +228,7 @@ const data = {
     {...stamp,id:'sign-four-lore-maps',categoryId:loreCategoryId,title:'Map Method',body:'The London and Thames charts represent the narrated route approximately. Baker Street and the Lodge plans are invented from described movement, not surveyed architecture. The Lodge’s three aligned views show its grounds, upper storey and roof; their dimensions are editorial approximations.',visibleFromEventId:events[0].id,tags:[],coverImageId:null,linkedEntityIds:[]},
     {...stamp,id:'sign-four-lore-art',categoryId:loreCategoryId,title:'Artwork Provenance',body:'The cover, character portraits, item studies, place paintings and six navigable maps were created with OpenAI imagegen for this edition. They accompany Arthur Conan Doyle’s public-domain text as new illustrations.',visibleFromEventId:events[0].id,tags:[],coverImageId:null,linkedEntityIds:[]},
     {...stamp,id:'sign-four-lore-disguise',categoryId:loreCategoryId,title:'The Old Sailor',body:'The elderly caller in Baker Street is Holmes in disguise. The visitor’s character card is revealed as Holmes at the unmasking scene.',visibleFromEventId:eid('Holmes Revealed'),tags:[],coverImageId:null,linkedEntityIds:[]},
-    {...stamp,id:'sign-four-lore-tonga',categoryId:loreCategoryId,title:'Tonga Revealed',body:'Small names the figure seen aboard the Aurora as Tonga. He identifies the companion who fled Pondicherry Lodge with him.',visibleFromEventId:eid('Small in Custody'),tags:[],coverImageId:image('library/sign-of-the-four/art/characters/tonga.png'),linkedEntityIds:[cid('The bare-footed accomplice')]},
+    {...stamp,id:'sign-four-lore-tonga',categoryId:loreCategoryId,title:'Tonga Revealed',body:'Small names the figure seen aboard the Aurora as Tonga. He identifies the companion who fled Pondicherry Lodge with him.',visibleFromEventId:eid('Small in Custody'),tags:[],coverImageId:image('library/sign-of-the-four/art/characters/tonga.webp'),linkedEntityIds:[cid('The bare-footed accomplice')]},
     {...stamp,id:'sign-four-lore-frame',categoryId:loreCategoryId,title:'Small’s Spoken Account',body:'Small tells the history of Agra and the Andaman Islands while speaking at Baker Street. The distant places and companions enter the story through his account.',visibleFromEventId:eid("Small's Early Life"),tags:[],coverImageId:null,linkedEntityIds:[]},
   ]
 }

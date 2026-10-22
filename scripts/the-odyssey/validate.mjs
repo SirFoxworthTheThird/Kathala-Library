@@ -40,11 +40,11 @@ function scan(value,label='world'){
 scan(world);
 const hashes=new Map();
 for(const blob of art){
-  if(!blob.url.startsWith(`library/${slug}/art/`)||!blob.url.endsWith('.jpg')){failures.push(`${blob.id}: wrong art URL ${blob.url}`);continue;}
+  if(!blob.url.startsWith(`library/${slug}/art/`)||!blob.url.endsWith('.webp')){failures.push(`${blob.id}: wrong art URL ${blob.url}`);continue;}
   const file=path.join(root,...blob.url.split('/'));
   if(!fs.existsSync(file)){failures.push(`${blob.id}: missing ${blob.url}`);continue;}
   const data=fs.readFileSync(file);
-  if(data.subarray(0,2).toString('hex')!=='ffd8'||data.subarray(-2).toString('hex')!=='ffd9')failures.push(`${blob.id}: invalid JPEG`);
+  if(data.toString('ascii',0,4)!=='RIFF'||data.toString('ascii',8,12)!=='WEBP')failures.push(`${blob.id}: invalid WebP`);
   const hash=crypto.createHash('sha256').update(data).digest('hex');
   if(hashes.has(hash))failures.push(`duplicate art: ${hashes.get(hash)} and ${blob.id}`);
   hashes.set(hash,blob.id);

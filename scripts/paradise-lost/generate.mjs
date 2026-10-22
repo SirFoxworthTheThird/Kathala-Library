@@ -1,3 +1,4 @@
+import {webpWidth,webpHeight} from '../lib/webp.mjs'
 import fs from 'node:fs'
 import crypto from 'node:crypto'
 import {books,verseText,countWords,normalize,sourceSha256} from './source-text.mjs'
@@ -6,7 +7,7 @@ import {reviewedBooks,reviewedBoundaries,sceneClock} from './reviewed-scenes.mjs
 
 const W='paradise-lost-world',now=Date.UTC(2026,9,18),stamp={worldId:W,createdAt:now,updatedAt:now},id=(kind,key)=>`paradise-lost-${kind}-${key}`
 const blobs=[]
-function png(kind,key,rel){const url=`library/paradise-lost/${rel}`,file=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(file))return null;const bytes=fs.readFileSync(file),imageId=id('image',`${kind}-${key}`);blobs.push({...stamp,id:imageId,mimeType:'image/png',url});return{id:imageId,width:bytes.readUInt32BE(16),height:bytes.readUInt32BE(20)}}
+function png(kind,key,rel){const url=`library/paradise-lost/${rel}`,file=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(file))return null;const bytes=fs.readFileSync(file),imageId=id('image',`${kind}-${key}`);blobs.push({...stamp,id:imageId,mimeType:'image/webp',url});return{id:imageId,width:webpWidth(bytes),height:webpHeight(bytes)}}
 
 const mapDefs={
  cosmos:['The Miltonic Cosmos','A cosmographic overview of Heaven above, the pendant created universe, surrounding Chaos, and Hell below.'],
@@ -14,7 +15,7 @@ const mapDefs={
  heaven:['Heaven and the Northern Field','A luminous relief map of the throne, northern mustering ground, battlefield, and outer gate.'],
  eden:['Eden and Its Eastern Bounds','A garden topography from Mount Niphates and the encircling wall to the bower, both central trees, the hill of vision, and eastern gate.'],
 }
-const mapLayers=Object.entries(mapDefs).map(([key,[name,description]],index)=>{const art=png('map',key,`maps/${key}.png`);return{...stamp,id:id('map',key),name,description,parentMapId:key==='cosmos'?null:id('map','cosmos'),imageId:art?.id??null,imageWidth:art?.width??1536,imageHeight:art?.height??1024,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:null,levelIndex:null,levelLabel:null}})
+const mapLayers=Object.entries(mapDefs).map(([key,[name,description]],index)=>{const art=png('map',key,`maps/${key}.webp`);return{...stamp,id:id('map',key),name,description,parentMapId:key==='cosmos'?null:id('map','cosmos'),imageId:art?.id??null,imageWidth:art?.width??1536,imageHeight:art?.height??1024,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:null,levelIndex:null,levelLabel:null}})
 const locDefs={
  'cosmos':['cosmos','The Created Universe','The finite starry universe hangs by a golden chain within the surrounding wild of Chaos.',770,470,null],
  'cosmos-gate':['cosmos','The Convex of the Universe','The outer shell where Satan first gains a view into created space.',990,440,null],
@@ -42,7 +43,7 @@ const locDefs={
  'vision-hill':['eden','The Hill of Vision','The garden’s highest summit, commanding a wide prospect beyond its enclosure.',860,880,null],
  'western-watch':['eden','The Western Watch','The western meeting of the northward and southward patrols along Paradise’s wooded perimeter.',370,450,null],
 }
-const locationMarkers=Object.entries(locDefs).map(([key,[map,name,description,x,y,linked]])=>({...stamp,id:id('loc',key),name,description,mapLayerId:id('map',map),linkedMapLayerId:linked?id('map',linked):null,x,y,iconType:'landmark',imageId:png('location',key,`art/locations/${key}.png`)?.id??null,tags:[],factionId:null}))
+const locationMarkers=Object.entries(locDefs).map(([key,[map,name,description,x,y,linked]])=>({...stamp,id:id('loc',key),name,description,mapLayerId:id('map',map),linkedMapLayerId:linked?id('map',linked):null,x,y,iconType:'landmark',imageId:png('location',key,`art/locations/${key}.webp`)?.id??null,tags:[],factionId:null}))
 
 const charDescriptions={
  azazel:'The fallen power entrusted with the imperial standard when the defeated host regroups.',
@@ -72,7 +73,7 @@ const charDescriptions={
  michael:'The warrior archangel sent at last to disclose human history and conduct the pair from Eden.',
 }
 const colors=['#866848','#70494a','#715b52','#8b4d3f','#72636e','#8a7144','#78495f','#47444f','#6b6260','#4f5269','#d0b56e','#ba8b4f','#d49a49','#8b765b','#9b715b','#6e7896','#81869b','#717998','#9b8060','#c5aa7b','#7b829a']
-const characters=Object.entries(characterNames).map(([key,name],index)=>({...stamp,id:id('char',key),name:key==='sin'?'The Gatekeeper':key==='death'?'The Armed Shape':name,aliases:[],description:charDescriptions[key],color:colors[index%colors.length],portraitImageId:png('character',key,`art/characters/${key}.png`)?.id??null,isAlive:true,birthDate:null,tags:[],nameChanges:[]}))
+const characters=Object.entries(characterNames).map(([key,name],index)=>({...stamp,id:id('char',key),name:key==='sin'?'The Gatekeeper':key==='death'?'The Armed Shape':name,aliases:[],description:charDescriptions[key],color:colors[index%colors.length],portraitImageId:png('character',key,`art/characters/${key}.webp`)?.id??null,isAlive:true,birthDate:null,tags:[],nameChanges:[]}))
 
 const itemDefs={
  spear:['Satan’s spear','An immense weapon carried across the burning marl and later into conflict.','weapon'],
@@ -83,7 +84,7 @@ const itemDefs={
  sword:['The flaming sword','The turning fiery guard established at Eden’s eastern gate.','weapon'],
  cannon:['Infernal artillery','Engines devised by the rebels from materials prepared beneath Heaven’s soil.','weapon'],
 }
-const items=Object.entries(itemDefs).map(([key,[name,description,iconType]])=>({...stamp,id:id('item',key),name,description,iconType,imageId:png('item',key,`art/items/${key}.png`)?.id??null,tags:[],isCollective:key==='cannon'}))
+const items=Object.entries(itemDefs).map(([key,[name,description,iconType]])=>({...stamp,id:id('item',key),name,description,iconType,imageId:png('item',key,`art/items/${key}.webp`)?.id??null,tags:[],isCollective:key==='cannon'}))
 
 const timelineDefs={
  address:['Poetic address','Invocations and direct reflections spoken from the poet’s act of composition.','#76634c',0],
@@ -123,7 +124,7 @@ const plotThreads=[
 ].map(([key,name,description])=>({...stamp,id:id('thread',key),name,description,color:'#806c51',status:'complete',tags:[]}))
 const motifs=[['height','Height and Descent','Mountains, thrones, gates, falls, flights, and rising paths repeatedly give moral action a vertical form.'],['garden','Fruit, Growth, and Cultivation','The garden joins abundance to deliberate care, appetite, and restraint.'],['light','Light and Darkness','Visible and inward light distinguish knowledge from the concealment that imitates it.'],['speech','Counsel and Persuasion','Public debate, private warning, temptation, confession, and prophecy change what action becomes possible.']].map(([key,name,description])=>({...stamp,id:id('motif',key),name,description,color:'#85765b',tags:[]}))
 const factionDefs={faithful:['Heavenly Host','Angels who remain obedient to the Creator.'],fallen:['Fallen Host','The rebel angels gathered under Satan after their expulsion.'],human:['Human Family','Adam and Eve as the first human household.'],infernal:['Powers at Hell Gate','The two terrible guardians at the threshold between Hell and Chaos.']}
-const factions=Object.entries(factionDefs).map(([key,[name,description]])=>({...stamp,id:id('faction',key),name,description,color:'#786b58',tags:[],coverImageId:png('faction',key,`art/factions/${key}.png`)?.id??null}))
+const factions=Object.entries(factionDefs).map(([key,[name,description]])=>({...stamp,id:id('faction',key),name,description,color:'#786b58',tags:[],coverImageId:png('faction',key,`art/factions/${key}.webp`)?.id??null}))
 const factionFor={azazel:'fallen',mulciber:'fallen',nisroch:'fallen',uzziel:'faithful',satan:'fallen',beelzebub:'fallen',moloch:'fallen',belial:'fallen',mammon:'fallen',sin:'infernal',death:'infernal',god:'faithful',son:'faithful',uriel:'faithful',gabriel:'faithful',ithuriel:'faithful',zephon:'faithful',raphael:'faithful',abdiel:'faithful',michael:'faithful',adam:'human',eve:'human'}
 const factionMemberships=Object.entries(factionFor).map(([character,faction],index)=>({...stamp,id:id('membership',index+1),factionId:id('faction',faction),characterId:id('char',character),role:faction==='fallen'?'Rebel power':faction==='faithful'?'Heavenly power':faction==='human'?'First parent':'Gate power',startEventId:firstEventByChar[character],endEventId:null,notes:''}))
 const relationships=[
@@ -172,7 +173,7 @@ const routes=[
  ['satan-outward','cosmos','Satan’s passage from Hell toward Earth',[[770,80],[350,390],[990,440],[680,580],[770,515]]],
  ['eden-exile','eden','Path to the eastern gate',[[805,375],[860,880],[805,375],[1410,680]]],
 ].map(([key,map,name,points])=>({...stamp,id:id('route',key),mapLayerId:id('map',map),name,routeType:key==='eden-exile'?'road':'flight',waypoints:points.map(([x,y])=>({x,y})),color:'#b28b53',notes:'Interpretive route derived from the poem’s ordered places.'}))
-const worldImage=png('world','cover','art/world.png')
+const worldImage=png('world','cover','art/world.webp')
 const out={version:18,type:'world',exportedAt:now,world:{...stamp,id:W,name:'Paradise Lost',description:'Heaven, Hell, Chaos, and a newly planted world stand around the first human freedom and the voices that seek to guide it.',coverImageId:worldImage?.id??null,theme:'theme-fantasy',readingMode:true,continuityStaleThreshold:5,wordTarget:countWords(verseText),calendar:{startYear:0,yearSuffix:'',months:[{name:'Epic sequence',days:365}]}},chapters,events,sceneTexts,timelines,mapLayers,locationMarkers,characters,items,characterSnapshots,itemPlacements,blobs,relationships,relationshipSnapshots,plotThreads,motifs,loreCategories,lorePages,knowledgeFacts:facts,knowledgeReveals:[],factions,factionMemberships,characterGoals:goals,mapRoutes:routes,characterMovements:[],continuitySuppressions:[],crossTimelineArtifacts:[],factionRelationships:[],itemSnapshots:[],locationSnapshots:[],mapAnnotations:[],mapRegionSnapshots:[],mapRegions:[],sceneRevisions:[],timelineRelationships:[],travelModes:[],writingLogs:[]}
 const dest=new URL('../../library/paradise-lost.pwk',import.meta.url);fs.writeFileSync(dest,JSON.stringify(out))
 const bytes=fs.readFileSync(dest);console.log(JSON.stringify({chapters:chapters.length,events:events.length,words:countWords(verseText),lines:books.reduce((sum,book)=>sum+book.lines.length,0),timelines:timelines.length,characters:characters.length,snapshots:characterSnapshots.length,locations:locationMarkers.length,maps:mapLayers.length,items:items.length,images:blobs.length,bytes:bytes.length,sha256:crypto.createHash('sha256').update(bytes).digest('hex')},null,2))

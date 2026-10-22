@@ -24,14 +24,14 @@ for(const job of manifest.jobs){
   const blob=blobs.get(id);
   if(!entity||entity.id!==job.entityId||!blob){failures.push(`${job.kind} ${job.index}: missing entity/blob`);continue;}
   if(id!==`dracula-generated-${job.kind}-${String(job.index+1).padStart(3,'0')}`)failures.push(`${job.name}: wrong image ID`);
-  if(blob.url!==job.url||blob.mimeType!=='image/jpeg')failures.push(`${job.name}: wrong image blob`);
+  if(blob.url!==job.url||blob.mimeType!=='image/webp')failures.push(`${job.name}: wrong image blob`);
   if(ids.has(id))failures.push(`Repeated image ID: ${id}`);
   if(urls.has(blob.url))failures.push(`Repeated image URL: ${blob.url}`);
   ids.add(id);urls.add(blob.url);
   const file=path.join(root,...blob.url.split('/'));
   if(!fs.existsSync(file)){failures.push(`Missing ${blob.url}`);continue;}
   const bytes=fs.readFileSync(file);
-  if(bytes.subarray(0,2).toString('hex')!=='ffd8'||bytes.subarray(-2).toString('hex')!=='ffd9')failures.push(`Invalid JPEG: ${blob.url}`);
+  if(bytes.toString('ascii',0,4)!=='RIFF'||bytes.toString('ascii',8,12)!=='WEBP')failures.push(`Invalid JPEG: ${blob.url}`);
   const hash=crypto.createHash('sha256').update(bytes).digest('hex');
   if(hashes.has(hash))failures.push(`Repeated image content: ${hashes.get(hash)} and ${job.name}`);
   hashes.set(hash,job.name);

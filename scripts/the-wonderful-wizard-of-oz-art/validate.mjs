@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import { webpDimensions } from '../lib/webp.mjs';
 
 const root = path.resolve(import.meta.dirname, '../..');
 const get = (name) => path.join(root, name);
@@ -8,18 +9,6 @@ const manifest = JSON.parse(fs.readFileSync(get('scripts/the-wonderful-wizard-of
 const book = JSON.parse(fs.readFileSync(get('library/the-wonderful-wizard-of-oz.pwk')));
 const index = JSON.parse(fs.readFileSync(get('library/index.json')));
 const assert = (okay, message) => { if (!okay) throw new Error(message); };
-const jpegDimensions = (bytes) => {
-  let offset = 2;
-  while (offset + 8 < bytes.length) {
-    assert(bytes[offset] === 0xff, 'Invalid JPEG segment');
-    while (bytes[offset] === 0xff) offset++;
-    const marker = bytes[offset++];
-    const length = bytes.readUInt16BE(offset);
-    if ([0xc0, 0xc1, 0xc2, 0xc3].includes(marker)) return [bytes.readUInt16BE(offset + 3), bytes.readUInt16BE(offset + 5)];
-    offset += length;
-  }
-  throw new Error('JPEG dimensions not found');
-};
 const ids = new Set();
 const hashes = new Set();
 const collections = { characters: book.characters, items: book.items, locations: book.locationMarkers, factions: book.factions, lore: book.lorePages };
@@ -28,7 +17,7 @@ for (const slot of manifest.slots) {
   const object = slot.kind === 'cover' ? book.world : collections[slot.kind]?.find((entry) => entry.id === slot.objectId);
   assert(object?.[slot.field] === slot.newBlobId, `Art reference mismatch: ${slot.objectId}`);
   const blob = book.blobs.find((entry) => entry.id === slot.newBlobId);
-  assert(blob?.url === slot.path && blob.mimeType === 'image/jpeg', `Blob mismatch: ${slot.objectId}`);
+  assert(blob?.url === slot.path && blob.mimeType === 'image/webp', `Blob mismatch: ${slot.objectId}`);
   assert(fs.existsSync(get(slot.path)), `Missing JPEG: ${slot.path}`);
   assert(!ids.has(blob.id), `Repeated art ID: ${blob.id}`);
   ids.add(blob.id);
@@ -43,10 +32,10 @@ for (const map of manifest.maps) {
   assert(layer?.imageId === map.blobId && layer.imageWidth === map.width && layer.imageHeight === map.height, `Map layer mismatch: ${map.name}`);
   assert(blob?.url === (map.newUrl || map.oldUrl), `Map blob mismatch: ${map.name}`);
   assert(fs.existsSync(get(blob.url)), `Missing map: ${blob.url}`);
-  assert(blob.mimeType === 'image/jpeg' && blob.url.endsWith('.jpg'), `Map type mismatch: ${map.name}`);
+  assert(blob.mimeType === 'image/webp' && blob.url.endsWith('.webp'), `Map type mismatch: ${map.name}`);
   const bytes = fs.readFileSync(get(blob.url));
-  assert(bytes[0] === 0xff && bytes[1] === 0xd8 && bytes.at(-2) === 0xff && bytes.at(-1) === 0xd9, `Invalid JPEG map: ${map.name}`);
-  const [height, width] = jpegDimensions(bytes);
+  assert(bytes.toString('ascii', 0, 4) === 'RIFF' && bytes.toString('ascii', 8, 12) === 'WEBP', `Invalid WebP map: ${map.name}`);
+  const [width, height] = webpDimensions(bytes);
   assert(width === map.width && height === map.height, `Map image dimensions mismatch: ${map.name}`);
   const hash = crypto.createHash('sha256').update(bytes).digest('hex');
   assert(!hashes.has(hash), `Repeated map bytes: ${map.name}`);
