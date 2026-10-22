@@ -9,7 +9,7 @@
     "id": "sign-of-the-four-world",
     "name": "The Sign of the Four",
     "description": "A London mystery draws Holmes and Watson from an unexplained disappearance to a contested Indian treasure and a pursuit down the Thames.",
-    "coverImageId": "sign-four-image-library-sign-of-the-four-art-world-png",
+    "coverImageId": "sign-four-image-library-sign-of-the-four-art-world-webp",
     "theme": "theme-noir",
     "readingMode": true,
     "continuityStaleThreshold": 5,
@@ -3927,7 +3927,7 @@
       "name": "London and Upper Norwood",
       "description": "Interpretive London chart of the southward journey, Baker Street, the Thames, and Pondicherry Lodge.",
       "parentMapId": null,
-      "imageId": "sign-four-image-library-sign-of-the-four-maps-london-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-maps-london-webp",
       "imageWidth": 1536,
       "imageHeight": 1024,
       "scalePixelsPerUnit": null,
@@ -3944,7 +3944,7 @@
       "name": "Baker Street Rooms",
       "description": "Invented plan of Holmes and Watson’s rooms and Mrs. Hudson’s approach.",
       "parentMapId": "sign-four-map-london",
-      "imageId": "sign-four-image-library-sign-of-the-four-maps-baker-street-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-maps-baker-street-webp",
       "imageWidth": 1774,
       "imageHeight": 887,
       "scalePixelsPerUnit": null,
@@ -3961,7 +3961,7 @@
       "name": "Pondicherry Lodge",
       "description": "Invented estate and ground-floor plan showing the walled grounds, gate, entrance and housekeeper’s room.",
       "parentMapId": "sign-four-map-london",
-      "imageId": "sign-four-image-library-sign-of-the-four-maps-pondicherry-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-maps-pondicherry-webp",
       "imageWidth": 1536,
       "imageHeight": 1024,
       "scalePixelsPerUnit": null,
@@ -3978,7 +3978,7 @@
       "name": "Pondicherry Lodge — Upper Floor",
       "description": "Invented upper-floor plan showing the passage, staircase and Bartholomew’s chamber.",
       "parentMapId": "sign-four-map-london",
-      "imageId": "sign-four-image-library-sign-of-the-four-maps-pondicherry-upper-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-maps-pondicherry-upper-webp",
       "imageWidth": 1536,
       "imageHeight": 1024,
       "scalePixelsPerUnit": null,
@@ -3995,7 +3995,7 @@
       "name": "Pondicherry Lodge — Roof",
       "description": "Invented roof plan showing the tiles, chimneys and trapdoor used in the escape.",
       "parentMapId": "sign-four-map-london",
-      "imageId": "sign-four-image-library-sign-of-the-four-maps-pondicherry-roof-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-maps-pondicherry-roof-webp",
       "imageWidth": 1536,
       "imageHeight": 1024,
       "scalePixelsPerUnit": null,
@@ -4012,7 +4012,7 @@
       "name": "The Thames",
       "description": "Interpretive chart of the investigation and pursuit along the river.",
       "parentMapId": "sign-four-map-london",
-      "imageId": "sign-four-image-library-sign-of-the-four-maps-thames-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-maps-thames-webp",
       "imageWidth": 2172,
       "imageHeight": 724,
       "scalePixelsPerUnit": null,
@@ -4035,7 +4035,7 @@
       "x": 428,
       "y": 778,
       "iconType": "building",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-webp",
       "tags": [],
       "factionId": null
     },
@@ -4051,7 +4051,7 @@
       "x": 361,
       "y": 346,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-sitting-room-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-sitting-room-webp",
       "tags": [],
       "factionId": null
     },
@@ -4067,7 +4067,7 @@
       "x": 881,
       "y": 621,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-stair-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-stair-webp",
       "tags": [],
       "factionId": null
     },
@@ -4083,7 +4083,7 @@
       "x": 1432,
       "y": 341,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-watson-s-room-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-watson-s-room-webp",
       "tags": [],
       "factionId": null
     },
@@ -4099,7 +4099,7 @@
       "x": 790,
       "y": 681,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lyceum-theatre-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lyceum-theatre-webp",
       "tags": [],
       "factionId": null
     },
@@ -4115,7 +4115,7 @@
       "x": 845,
       "y": 374,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-thaddeus-s-house-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-thaddeus-s-house-webp",
       "tags": [],
       "factionId": null
     },
@@ -4131,7 +4131,7 @@
       "x": 801,
       "y": 440,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-south-london-carriage-road-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-south-london-carriage-road-webp",
       "tags": [],
       "factionId": null
     },
@@ -4147,7 +4147,7 @@
       "x": 1086,
       "y": 174,
       "iconType": "building",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-pondicherry-lodge-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-pondicherry-lodge-webp",
       "tags": [],
       "factionId": null
     },
@@ -4163,7 +4163,7 @@
       "x": 938,
       "y": 72,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lodge-gate-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lodge-gate-webp",
       "tags": [],
       "factionId": null
     },
@@ -4179,7 +4179,7 @@
       "x": 439,
       "y": 497,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lodge-grounds-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lodge-grounds-webp",
       "tags": [],
       "factionId": null
     },
@@ -4195,7 +4195,7 @@
       "x": 1185,
       "y": 492,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-housekeeper-s-room-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-housekeeper-s-room-webp",
       "tags": [],
       "factionId": null
     },
@@ -4211,7 +4211,7 @@
       "x": 938,
       "y": 707,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-upper-passage-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-upper-passage-webp",
       "tags": [],
       "factionId": null
     },
@@ -4227,7 +4227,7 @@
       "x": 1130,
       "y": 543,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-bartholomew-s-chamber-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-bartholomew-s-chamber-webp",
       "tags": [],
       "factionId": null
     },
@@ -4243,7 +4243,7 @@
       "x": 1207,
       "y": 686,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lodge-roof-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lodge-roof-webp",
       "tags": [],
       "factionId": null
     },
@@ -4259,7 +4259,7 @@
       "x": 60,
       "y": 522,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lodge-boundary-wall-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-lodge-boundary-wall-webp",
       "tags": [],
       "factionId": null
     },
@@ -4275,7 +4275,7 @@
       "x": 856,
       "y": 282,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-camberwell-house-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-camberwell-house-webp",
       "tags": [],
       "factionId": null
     },
@@ -4291,7 +4291,7 @@
       "x": 669,
       "y": 348,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-pinchin-lane-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-pinchin-lane-webp",
       "tags": [],
       "factionId": null
     },
@@ -4307,7 +4307,7 @@
       "x": 856,
       "y": 307,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-south-london-trail-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-south-london-trail-webp",
       "tags": [],
       "factionId": null
     },
@@ -4323,7 +4323,7 @@
       "x": 922,
       "y": 410,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-timber-yard-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-timber-yard-webp",
       "tags": [],
       "factionId": null
     },
@@ -4339,7 +4339,7 @@
       "x": 987,
       "y": 579,
       "iconType": "building",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-the-thames-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-the-thames-webp",
       "tags": [],
       "factionId": null
     },
@@ -4355,7 +4355,7 @@
       "x": 698,
       "y": 453,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-smith-s-wharf-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-smith-s-wharf-webp",
       "tags": [],
       "factionId": null
     },
@@ -4371,7 +4371,7 @@
       "x": 582,
       "y": 507,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-westminster-stairs-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-westminster-stairs-webp",
       "tags": [],
       "factionId": null
     },
@@ -4387,7 +4387,7 @@
       "x": 1629,
       "y": 453,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-jacobson-s-yard-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-jacobson-s-yard-webp",
       "tags": [],
       "factionId": null
     },
@@ -4403,7 +4403,7 @@
       "x": 1319,
       "y": 434,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-police-launch-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-police-launch-webp",
       "tags": [],
       "factionId": null
     },
@@ -4419,7 +4419,7 @@
       "x": 1846,
       "y": 413,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-aurora-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-aurora-webp",
       "tags": [],
       "factionId": null
     },
@@ -4435,7 +4435,7 @@
       "x": 388,
       "y": 405,
       "iconType": "landmark",
-      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-vauxhall-landing-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-locations-vauxhall-landing-webp",
       "tags": [],
       "factionId": null
     }
@@ -4451,7 +4451,7 @@
       "nameChanges": [],
       "description": "A consulting detective whose close observation and appetite for difficult problems drive his work.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-sherlock-holmes-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-sherlock-holmes-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4466,7 +4466,7 @@
       "nameChanges": [],
       "description": "Holmes’s physician friend and the first-person narrator of the case.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-dr-john-watson-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-dr-john-watson-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4481,7 +4481,7 @@
       "nameChanges": [],
       "description": "A young governess seeking an explanation for her father’s disappearance and anonymous gifts.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mary-morstan-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mary-morstan-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4496,7 +4496,7 @@
       "nameChanges": [],
       "description": "The landlady who receives callers at the Baker Street rooms.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mrs-hudson-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mrs-hudson-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4511,7 +4511,7 @@
       "nameChanges": [],
       "description": "A nervous, wealthy young man who asks Mary Morstan to hear his account.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-thaddeus-sholto-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-thaddeus-sholto-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4526,7 +4526,7 @@
       "nameChanges": [],
       "description": "Thaddeus’s brother, living at Pondicherry Lodge and searching its grounds.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-bartholomew-sholto-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-bartholomew-sholto-webp",
       "isAlive": false,
       "birthDate": null,
       "tags": []
@@ -4541,7 +4541,7 @@
       "nameChanges": [],
       "description": "The former prize-fighter who guards the gate of Pondicherry Lodge.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mcmurdo-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mcmurdo-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4556,7 +4556,7 @@
       "nameChanges": [],
       "description": "The housekeeper at Pondicherry Lodge, worried by her master’s silence.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mrs-bernstone-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mrs-bernstone-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4571,7 +4571,7 @@
       "nameChanges": [],
       "description": "A Scotland Yard detective eager to turn the Norwood mystery into an arrest.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-athelney-jones-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-athelney-jones-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4586,7 +4586,7 @@
       "nameChanges": [],
       "description": "One of four names on the Indian diagram found among Captain Morstan’s effects.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-jonathan-small-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-jonathan-small-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4606,7 +4606,7 @@
       ],
       "description": "A small figure seen with the fugitives on the Aurora.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-the-bare-footed-accomplice-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-the-bare-footed-accomplice-webp",
       "isAlive": false,
       "birthDate": null,
       "tags": []
@@ -4621,7 +4621,7 @@
       "nameChanges": [],
       "description": "A Thames boatman who owns a fast steam launch.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mordecai-smith-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mordecai-smith-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4636,7 +4636,7 @@
       "nameChanges": [],
       "description": "The boatman’s wife, watching for news from the river.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mrs-smith-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mrs-smith-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4651,7 +4651,7 @@
       "nameChanges": [],
       "description": "The animal keeper in Pinchin Lane who lends Toby to Watson.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mr-sherman-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mr-sherman-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4666,7 +4666,7 @@
       "nameChanges": [],
       "description": "A brown-and-white scent dog whose nose follows creasote through London.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-toby-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-toby-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4681,7 +4681,7 @@
       "nameChanges": [],
       "description": "The leader of Holmes’s group of street boys, sent to look for the missing launch.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-wiggins-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-wiggins-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4696,7 +4696,7 @@
       "nameChanges": [],
       "description": "Mary’s employer and companion in the Camberwell house.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mrs-cecil-forrester-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mrs-cecil-forrester-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4715,7 +4715,7 @@
       },
       "description": "A weary, insistent caller who claims to know where the missing launch can be found.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-the-old-sailor-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-the-old-sailor-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4730,7 +4730,7 @@
       "nameChanges": [],
       "description": "Mary Morstan’s father, an army officer whose failure to meet her in London begins the mystery.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-captain-arthur-morstan-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-captain-arthur-morstan-webp",
       "isAlive": false,
       "birthDate": null,
       "tags": []
@@ -4745,7 +4745,7 @@
       "nameChanges": [],
       "description": "A retired officer associated with Captain Morstan during service in India.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-major-john-sholto-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-major-john-sholto-webp",
       "isAlive": false,
       "birthDate": null,
       "tags": []
@@ -4760,7 +4760,7 @@
       "nameChanges": [],
       "description": "A merchant whose journey to Agra Fort carries an iron chest.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-achmet-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-achmet-webp",
       "isAlive": false,
       "birthDate": null,
       "tags": []
@@ -4775,7 +4775,7 @@
       "nameChanges": [],
       "description": "One of the Sikh guards whose proposal Jonathan Small recounts.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-abdullah-khan-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-abdullah-khan-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4790,7 +4790,7 @@
       "nameChanges": [],
       "description": "A guard at Agra Fort and one of the four men in Small’s account.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mahomet-singh-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-mahomet-singh-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4805,7 +4805,7 @@
       "nameChanges": [],
       "description": "Another guard at Agra Fort, named in the agreement of four.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-dost-akbar-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-dost-akbar-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -4820,7 +4820,7 @@
       "nameChanges": [],
       "description": "A servant at Pondicherry Lodge named only in the case’s closing explanation.",
       "color": "#695b4f",
-      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-lal-rao-png",
+      "portraitImageId": "sign-four-image-library-sign-of-the-four-art-characters-lal-rao-webp",
       "isAlive": true,
       "birthDate": null,
       "tags": []
@@ -9390,7 +9390,7 @@
       "description": "One pearl arrives for Mary each year without a sender’s name.",
       "iconType": "jewelry",
       "isCollective": true,
-      "imageId": "sign-four-image-library-sign-of-the-four-art-items-pearls-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-items-pearls-webp",
       "tags": []
     },
     {
@@ -9402,7 +9402,7 @@
       "description": "A letter asks Mary to come to the Lyceum with two trusted companions.",
       "iconType": "document",
       "isCollective": false,
-      "imageId": "sign-four-image-library-sign-of-the-four-art-items-morstan-letter-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-items-morstan-letter-webp",
       "tags": []
     },
     {
@@ -9414,7 +9414,7 @@
       "description": "A marked diagram found among Captain Morstan’s effects bears the sign of four.",
       "iconType": "document",
       "isCollective": false,
-      "imageId": "sign-four-image-library-sign-of-the-four-art-items-agra-plan-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-items-agra-plan-webp",
       "tags": []
     },
     {
@@ -9426,7 +9426,7 @@
       "description": "A small pointed weapon found at Bartholomew’s death scene.",
       "iconType": "weapon",
       "isCollective": false,
-      "imageId": "sign-four-image-library-sign-of-the-four-art-items-poisoned-thorn-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-items-poisoned-thorn-webp",
       "tags": []
     },
     {
@@ -9438,7 +9438,7 @@
       "description": "The prosthesis leaves a distinctive track at Pondicherry Lodge.",
       "iconType": "other",
       "isCollective": false,
-      "imageId": "sign-four-image-library-sign-of-the-four-art-items-wooden-leg-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-items-wooden-leg-webp",
       "tags": []
     },
     {
@@ -9450,7 +9450,7 @@
       "description": "The strong scent on the escape route gives Toby a trail to follow.",
       "iconType": "other",
       "isCollective": true,
-      "imageId": "sign-four-image-library-sign-of-the-four-art-items-creasote-bottle-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-items-creasote-bottle-webp",
       "tags": []
     },
     {
@@ -9462,7 +9462,7 @@
       "description": "The elaborate locked box at the heart of the treasure dispute.",
       "iconType": "container",
       "isCollective": false,
-      "imageId": "sign-four-image-library-sign-of-the-four-art-items-iron-chest-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-items-iron-chest-webp",
       "tags": []
     },
     {
@@ -9474,7 +9474,7 @@
       "description": "Mordecai Smith’s black steam launch with two red stripes.",
       "iconType": "vehicle",
       "isCollective": false,
-      "imageId": "sign-four-image-library-sign-of-the-four-art-items-aurora-launch-png",
+      "imageId": "sign-four-image-library-sign-of-the-four-art-items-aurora-launch-webp",
       "tags": []
     }
   ],
@@ -9652,537 +9652,537 @@
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-maps-london-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/maps/london.png"
+      "id": "sign-four-image-library-sign-of-the-four-maps-london-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/maps/london.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-maps-baker-street-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/maps/baker-street.png"
+      "id": "sign-four-image-library-sign-of-the-four-maps-baker-street-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/maps/baker-street.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-maps-pondicherry-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/maps/pondicherry.png"
+      "id": "sign-four-image-library-sign-of-the-four-maps-pondicherry-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/maps/pondicherry.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-maps-pondicherry-upper-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/maps/pondicherry-upper.png"
+      "id": "sign-four-image-library-sign-of-the-four-maps-pondicherry-upper-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/maps/pondicherry-upper.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-maps-pondicherry-roof-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/maps/pondicherry-roof.png"
+      "id": "sign-four-image-library-sign-of-the-four-maps-pondicherry-roof-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/maps/pondicherry-roof.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-maps-thames-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/maps/thames.png"
+      "id": "sign-four-image-library-sign-of-the-four-maps-thames-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/maps/thames.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/baker-street.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/baker-street.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-sitting-room-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/baker-street-sitting-room.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-sitting-room-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/baker-street-sitting-room.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-stair-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/baker-street-stair.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-baker-street-stair-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/baker-street-stair.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-watson-s-room-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/watson-s-room.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-watson-s-room-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/watson-s-room.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-lyceum-theatre-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/lyceum-theatre.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-lyceum-theatre-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/lyceum-theatre.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-thaddeus-s-house-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/thaddeus-s-house.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-thaddeus-s-house-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/thaddeus-s-house.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-south-london-carriage-road-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/south-london-carriage-road.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-south-london-carriage-road-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/south-london-carriage-road.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-pondicherry-lodge-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/pondicherry-lodge.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-pondicherry-lodge-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/pondicherry-lodge.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-lodge-gate-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/lodge-gate.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-lodge-gate-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/lodge-gate.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-lodge-grounds-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/lodge-grounds.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-lodge-grounds-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/lodge-grounds.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-housekeeper-s-room-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/housekeeper-s-room.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-housekeeper-s-room-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/housekeeper-s-room.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-upper-passage-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/upper-passage.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-upper-passage-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/upper-passage.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-bartholomew-s-chamber-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/bartholomew-s-chamber.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-bartholomew-s-chamber-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/bartholomew-s-chamber.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-lodge-roof-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/lodge-roof.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-lodge-roof-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/lodge-roof.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-lodge-boundary-wall-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/lodge-boundary-wall.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-lodge-boundary-wall-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/lodge-boundary-wall.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-camberwell-house-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/camberwell-house.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-camberwell-house-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/camberwell-house.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-pinchin-lane-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/pinchin-lane.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-pinchin-lane-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/pinchin-lane.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-south-london-trail-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/south-london-trail.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-south-london-trail-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/south-london-trail.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-timber-yard-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/timber-yard.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-timber-yard-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/timber-yard.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-the-thames-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/the-thames.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-the-thames-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/the-thames.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-smith-s-wharf-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/smith-s-wharf.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-smith-s-wharf-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/smith-s-wharf.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-westminster-stairs-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/westminster-stairs.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-westminster-stairs-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/westminster-stairs.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-jacobson-s-yard-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/jacobson-s-yard.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-jacobson-s-yard-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/jacobson-s-yard.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-police-launch-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/police-launch.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-police-launch-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/police-launch.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-aurora-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/aurora.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-aurora-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/aurora.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-locations-vauxhall-landing-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/locations/vauxhall-landing.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-locations-vauxhall-landing-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/locations/vauxhall-landing.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-sherlock-holmes-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/sherlock-holmes.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-sherlock-holmes-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/sherlock-holmes.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-dr-john-watson-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/dr-john-watson.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-dr-john-watson-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/dr-john-watson.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mary-morstan-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mary-morstan.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mary-morstan-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mary-morstan.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mrs-hudson-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mrs-hudson.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mrs-hudson-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mrs-hudson.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-thaddeus-sholto-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/thaddeus-sholto.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-thaddeus-sholto-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/thaddeus-sholto.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-bartholomew-sholto-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/bartholomew-sholto.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-bartholomew-sholto-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/bartholomew-sholto.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mcmurdo-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mcmurdo.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mcmurdo-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mcmurdo.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mrs-bernstone-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mrs-bernstone.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mrs-bernstone-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mrs-bernstone.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-athelney-jones-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/athelney-jones.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-athelney-jones-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/athelney-jones.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-jonathan-small-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/jonathan-small.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-jonathan-small-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/jonathan-small.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-the-bare-footed-accomplice-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/the-bare-footed-accomplice.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-the-bare-footed-accomplice-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/the-bare-footed-accomplice.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mordecai-smith-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mordecai-smith.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mordecai-smith-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mordecai-smith.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mrs-smith-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mrs-smith.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mrs-smith-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mrs-smith.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mr-sherman-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mr-sherman.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mr-sherman-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mr-sherman.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-toby-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/toby.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-toby-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/toby.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-wiggins-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/wiggins.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-wiggins-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/wiggins.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mrs-cecil-forrester-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mrs-cecil-forrester.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mrs-cecil-forrester-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mrs-cecil-forrester.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-the-old-sailor-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/the-old-sailor.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-the-old-sailor-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/the-old-sailor.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-captain-arthur-morstan-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/captain-arthur-morstan.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-captain-arthur-morstan-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/captain-arthur-morstan.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-major-john-sholto-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/major-john-sholto.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-major-john-sholto-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/major-john-sholto.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-achmet-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/achmet.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-achmet-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/achmet.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-abdullah-khan-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/abdullah-khan.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-abdullah-khan-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/abdullah-khan.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-mahomet-singh-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/mahomet-singh.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-mahomet-singh-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/mahomet-singh.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-dost-akbar-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/dost-akbar.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-dost-akbar-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/dost-akbar.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-lal-rao-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/lal-rao.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-lal-rao-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/lal-rao.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-items-pearls-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/items/pearls.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-items-pearls-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/items/pearls.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-items-morstan-letter-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/items/morstan-letter.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-items-morstan-letter-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/items/morstan-letter.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-items-agra-plan-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/items/agra-plan.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-items-agra-plan-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/items/agra-plan.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-items-poisoned-thorn-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/items/poisoned-thorn.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-items-poisoned-thorn-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/items/poisoned-thorn.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-items-wooden-leg-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/items/wooden-leg.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-items-wooden-leg-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/items/wooden-leg.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-items-creasote-bottle-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/items/creasote-bottle.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-items-creasote-bottle-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/items/creasote-bottle.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-items-iron-chest-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/items/iron-chest.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-items-iron-chest-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/items/iron-chest.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-items-aurora-launch-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/items/aurora-launch.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-items-aurora-launch-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/items/aurora-launch.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-world-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/world.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-world-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/world.webp"
     },
     {
       "worldId": "sign-of-the-four-world",
       "createdAt": 1791072000000,
       "updatedAt": 1791072000000,
-      "id": "sign-four-image-library-sign-of-the-four-art-characters-tonga-png",
-      "mimeType": "image/png",
-      "url": "library/sign-of-the-four/art/characters/tonga.png"
+      "id": "sign-four-image-library-sign-of-the-four-art-characters-tonga-webp",
+      "mimeType": "image/webp",
+      "url": "library/sign-of-the-four/art/characters/tonga.webp"
     }
   ],
   "relationships": [
@@ -11650,7 +11650,7 @@
       "body": "Small names the figure seen aboard the Aurora as Tonga. He identifies the companion who fled Pondicherry Lodge with him.",
       "visibleFromEventId": "sign-four-event-11-1",
       "tags": [],
-      "coverImageId": "sign-four-image-library-sign-of-the-four-art-characters-tonga-png",
+      "coverImageId": "sign-four-image-library-sign-of-the-four-art-characters-tonga-webp",
       "linkedEntityIds": [
         "sign-four-char-the-bare-footed-accomplice"
       ]

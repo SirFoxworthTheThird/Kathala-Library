@@ -1,3 +1,4 @@
+import {webpDimensions} from '../lib/webp.mjs'
 import fs from 'node:fs'
 import {state,holders} from './event-state.mjs'
 import path from 'node:path'
@@ -61,7 +62,7 @@ assert.ok(d.characters.every(c=>ids.blobs.has(c.portraitImageId)));assert.ok(d.i
 const manifest=JSON.parse(fs.readFileSync(path.join(root,'library/the-undersong/ARTWORK_MANIFEST.json'),'utf8'))
 const review=JSON.parse(fs.readFileSync(new URL('./art-review.json',import.meta.url),'utf8'))
 assert.equal(manifest.assets.length,45);assert.ok(unique(manifest.assets.map(a=>a.path)));assert.ok(unique(manifest.assets.map(a=>a.sha256)),'No duplicate final artwork bytes')
-for(const a of manifest.assets){const p=path.join(root,a.path),bytes=fs.readFileSync(p),hash=crypto.createHash('sha256').update(bytes).digest('hex');assert.equal(hash,a.sha256,a.path);assert.equal(bytes.length,a.bytes);assert.equal(bytes.readUInt32BE(16),a.width);assert.equal(bytes.readUInt32BE(20),a.height);assert.equal(review[a.path]?.sha256,a.sha256);assert.ok(a.prompt&&a.sourceImage&&a.visualReview)}
+for(const a of manifest.assets){const p=path.join(root,a.path),bytes=fs.readFileSync(p),hash=crypto.createHash('sha256').update(bytes).digest('hex');assert.equal(hash,a.sha256,a.path);assert.equal(bytes.length,a.bytes);assert.equal(webpDimensions(bytes)[0],a.width);assert.equal(webpDimensions(bytes)[1],a.height);assert.equal(review[a.path]?.sha256,a.sha256);assert.ok(a.prompt&&a.sourceImage&&a.visualReview)}
 const audit=JSON.parse(fs.readFileSync(new URL('./scene-boundary-audit.json',import.meta.url),'utf8'))
 assert.equal(audit.length,42);for(let i=0;i<audit.length;i++){assert.equal(audit[i].eventTitle,ordered[i].title);assert.equal(audit[i].sha256,crypto.createHash('sha256').update(scenes[i].text).digest('hex'));assert.deepEqual(audit[i].physicalCast.map(x=>`undersong-char-${x}`).sort(),[...ordered[i].involvedCharacterIds].sort())}
 assert.ok(d.lorePages.find(p=>p.id==='undersong-lore-source').body.includes('Copyright © 2026 Solomon Darko. All rights reserved.'))

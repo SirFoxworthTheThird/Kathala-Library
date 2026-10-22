@@ -22,11 +22,11 @@ for(const [kind,name,id] of slots){
   if(ids.has(id))failures.push(`Repeated image ID: ${id}`);
   if(urls.has(blob.url))failures.push(`Repeated image URL: ${blob.url}`);
   ids.add(id);urls.add(blob.url);
-  if(!blob.url?.startsWith('library/')||!blob.url.endsWith('.jpg')||blob.mimeType!=='image/jpeg'){failures.push(`${name}: nonlocal or invalid illustration blob`);continue;}
+  if(!blob.url?.startsWith('library/')||!blob.url.endsWith('.webp')||blob.mimeType!=='image/webp'){failures.push(`${name}: nonlocal or invalid illustration blob`);continue;}
   const file=path.join(root,...blob.url.split('/'));
   if(!fs.existsSync(file)){failures.push(`${name}: missing ${blob.url}`);continue;}
   const bytes=fs.readFileSync(file);
-  if(bytes.subarray(0,2).toString('hex')!=='ffd8'||bytes.subarray(-2).toString('hex')!=='ffd9')failures.push(`${name}: invalid JPEG`);
+  if(bytes.toString('ascii',0,4)!=='RIFF'||bytes.toString('ascii',8,12)!=='WEBP')failures.push(`${name}: invalid WebP`);
   const hash=crypto.createHash('sha256').update(bytes).digest('hex');
   if(hashes.has(hash))failures.push(`Repeated image content: ${hashes.get(hash)} and ${name}`);
   hashes.set(hash,name);

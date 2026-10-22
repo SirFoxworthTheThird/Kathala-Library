@@ -54,7 +54,7 @@ for map_layer in data["mapLayers"]:
         "height": map_layer["imageHeight"],
         "blobId": old_id,
         "oldUrl": blobs[old_id]["url"],
-        "newUrl": ("library/the-wonderful-wizard-of-oz/maps/kansas.jpg" if map_layer["id"] == "oz-map-kansas" else f"library/the-wonderful-wizard-of-oz/maps/generated/{map_layer['id'].removeprefix('oz-map-')}.jpg"),
+        "newUrl": ("library/the-wonderful-wizard-of-oz/maps/kansas.webp" if map_layer["id"] == "oz-map-kansas" else f"library/the-wonderful-wizard-of-oz/maps/generated/{map_layer['id'].removeprefix('oz-map-')}.jpg"),
     })
 
 manifest = {

@@ -1,3 +1,4 @@
+import {webpWidth,webpHeight} from '../lib/webp.mjs'
 import fs from 'node:fs'
 import crypto from 'node:crypto'
 import {chapters as sourceChapters,narrativeText,countWords,normalize} from './source-text.mjs'
@@ -8,26 +9,26 @@ const W='the-cold-choir-world', now=Date.UTC(2026,9,17), stamp={worldId:W,create
 const id=(kind,key)=>`cold-choir-${kind}-${key}`
 const root=new URL('../../',import.meta.url)
 const blobs=[]
-function png(kind,key,path){const url=`library/the-cold-choir/${path}`;const file=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(file))return null;const b=fs.readFileSync(file),imageId=id('image',`${kind}-${key}`);blobs.push({...stamp,id:imageId,mimeType:'image/png',url});return{id:imageId,width:b.readUInt32BE(16),height:b.readUInt32BE(20)}}
+function png(kind,key,path){const url=`library/the-cold-choir/${path}`;const file=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(file))return null;const b=fs.readFileSync(file),imageId=id('image',`${kind}-${key}`);blobs.push({...stamp,id:imageId,mimeType:'image/webp',url});return{id:imageId,width:webpWidth(b),height:webpHeight(b)}}
 
-const worldImage=png('world','cover','art/world.png')
+const worldImage=png('world','cover','art/world.webp')
 const mapDefs={
  mercy:['The Mercy Before Landfall','A longitudinal cutaway of the generation ship during deceleration and landfall.'],
  compact:['Tolland Station, 310 AL','The Compact’s rings, Spine, institutions and docks built through and around the old Mercy.'],
  reach:['The Reach, 742 AL','An orbital navigator’s chart linking Hesper, Ninefold, the Hulk, the Scree and the Interdict Field.'],
  hold:['The Cold Rows beneath Ninefold','A topographic cutaway of the circular sleeper drum buried beneath 284 metres of ice.']
 }
-const mapLayers=Object.entries(mapDefs).map(([key,[name,description]],i)=>{const a=png('map',key,`maps/${key}.png`);if(!a)throw Error(`Missing map ${key}`);return{...stamp,id:id('map',key),name,description,parentMapId:key==='hold'?id('map','reach'):null,imageId:a.id,imageWidth:a.width,imageHeight:a.height,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:key==='hold'?id('map','reach'):null,levelIndex:key==='hold'?1:i,levelLabel:key==='hold'?'284 m below Ninefold ice':null}})
+const mapLayers=Object.entries(mapDefs).map(([key,[name,description]],i)=>{const a=png('map',key,`maps/${key}.webp`);if(!a)throw Error(`Missing map ${key}`);return{...stamp,id:id('map',key),name,description,parentMapId:key==='hold'?id('map','reach'):null,imageId:a.id,imageWidth:a.width,imageHeight:a.height,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:key==='hold'?id('map','reach'):null,levelIndex:key==='hold'?1:i,levelLabel:key==='hold'?'284 m below Ninefold ice':null}})
 const coords={
  mercy:{'deck-nine':[980,520],medbay:[285,650],'forward-hold':[515,700],store:[480,390],observation:[120,510],ducts:[680,770],bridge:[150,520],'archive-locker':[420,700],'tamsin-cabin':[760,420]},
  compact:{hall:[185,520],spine:[760,510],conservation:[310,650],'warden-residence':[250,400],'ring-b':[720,760],'shaft-twelve':[1340,700],'archive-stair':[390,360],'hal-rooms':[610,690],'watch-house':[970,660],obedient:[1380,530]},
  reach:{pelican:[1180,230],'counting-house':[300,270],'pelican-galley':[1160,270],'hulk-spine':[260,290],wreck:[1090,190],chapel:[320,330],gallows:[1330,680],'interdict-field':[1430,790],crawler:[1370,740],shaft:[1450,820]},
  hold:{'recovery-hatch':[770,920],'sleeper-hold':[770,560],'row-thirty-one':[1120,360],'cold-cell':[790,117]}
 }
-const locationMarkers=Object.entries(locDefs).map(([key,[map,name,description]])=>({...stamp,id:id('loc',key),name,description,mapLayerId:id('map',map),linkedMapLayerId:key==='shaft'?id('map','hold'):null,x:coords[map][key][0],y:coords[map][key][1],iconType:'landmark',imageId:png('location',key,`art/locations/${key}.png`)?.id??null,tags:[],factionId:null}))
+const locationMarkers=Object.entries(locDefs).map(([key,[map,name,description]])=>({...stamp,id:id('loc',key),name,description,mapLayerId:id('map',map),linkedMapLayerId:key==='shaft'?id('map','hold'):null,x:coords[map][key][0],y:coords[map][key][1],iconType:'landmark',imageId:png('location',key,`art/locations/${key}.webp`)?.id??null,tags:[],factionId:null}))
 
 const colors=['#7289a1','#a97665','#8b8478','#688278','#a88d58','#69788d','#7d6e85','#8d725e','#7b8b69','#746b91','#8a6f72','#9a825f','#6f8790','#8b6e55','#6d8172','#856f65','#777b86','#87735d','#8795a2','#8f7868','#667b87']
-const characters=Object.entries(charDefs).map(([key,[name,description]],i)=>({...stamp,id:id('char',key),name,aliases:[],description,color:colors[i%colors.length],portraitImageId:png('character',key,`art/characters/${key}.png`)?.id??null,isAlive:true,birthDate:null,tags:[],nameChanges:[]}))
+const characters=Object.entries(charDefs).map(([key,[name,description]],i)=>({...stamp,id:id('char',key),name,aliases:[],description,color:colors[i%colors.length],portraitImageId:png('character',key,`art/characters/${key}.webp`)?.id??null,isAlive:true,birthDate:null,tags:[],nameChanges:[]}))
 
 const itemDefs={
  key:['The Key','A long torque wrench with a pale composite handle, made to operate the ship’s manual lock-bolts when computers fail.','key'],
@@ -40,7 +41,7 @@ const itemDefs={
  card:['The Prime’s card','An archival card tied to the first line and the authority that suppressed it.','document'],
  letter:['Ilse’s letter to whoever comes','A signed grease-pencil message left by Ilse Varga in the pilot cell, including her instructions for the sleepers and her message to Ama about Bram.','document']
 }
-const items=Object.entries(itemDefs).map(([key,[name,description,iconType]])=>({...stamp,id:id('item',key),name,description,iconType,imageId:png('item',key,`art/items/${key}.png`)?.id??null,tags:[],isCollective:key==='drawings'}))
+const items=Object.entries(itemDefs).map(([key,[name,description,iconType]])=>({...stamp,id:id('item',key),name,description,iconType,imageId:png('item',key,`art/items/${key}.webp`)?.id??null,tags:[],isCollective:key==='drawings'}))
 // Reviewed per scene after paragraph splitting. This avoids carrying an object into
 // every child scene merely because it appears elsewhere in the source section.
 const itemByEvent={
@@ -134,7 +135,7 @@ const knowledgeFacts=[
  ['interdict','The old ban concealed a physical site','The prohibition points toward a field on Ninefold rather than only a legal tradition.','The Old Ban'],
  ['ama','Ama Okafor remains in the cold rows','Bram’s daughter is the child assigned to Row Thirty-One, berth twelve.','Row Thirty-One']
 ].map(([key,title,description,event])=>({...stamp,id:id('fact',key),title,description,readerLearnsAtEventId:first(event),originEventId:first(event),tags:[]}))
-const factions=[['mercy','Mercy crew','The working crew responsible for the ship and its sleeping passengers.'],['compact','The Compact','The station polity that organizes authority around charter, Watch and Warden.'],['kin','The Kin','A community whose songs preserve the unfinished count.'],['union','Ninefold Ice Union','Miners and delegates seeking safety, compensation and control of their work.'],['counting','Counting House','Fane’s network of debt, salvage claims and hired force.'],['navy','Compact Navy','The service in which Captain Rhee commands the Obedient.']].map(([key,name,description])=>({...stamp,id:id('faction',key),name,description,color:'#6e7880',tags:[],coverImageId:png('faction',key,`art/factions/${key}.png`)?.id??null}))
+const factions=[['mercy','Mercy crew','The working crew responsible for the ship and its sleeping passengers.'],['compact','The Compact','The station polity that organizes authority around charter, Watch and Warden.'],['kin','The Kin','A community whose songs preserve the unfinished count.'],['union','Ninefold Ice Union','Miners and delegates seeking safety, compensation and control of their work.'],['counting','Counting House','Fane’s network of debt, salvage claims and hired force.'],['navy','Compact Navy','The service in which Captain Rhee commands the Obedient.']].map(([key,name,description])=>({...stamp,id:id('faction',key),name,description,color:'#6e7880',tags:[],coverImageId:png('faction',key,`art/factions/${key}.webp`)?.id??null}))
 const relationshipDefs=[
  ['ilse-tamsin','ilse','tamsin','Warden and apprentice','positive','Ilse teaches Tamsin the physical knowledge of the ship while trusting her navigation at landfall.',8,'The Cold Rows'],
  ['ilse-bram','ilse','bram','Department keepers','positive','The warden and quartermaster share responsibility for the sleepers while disagreeing with command’s arithmetic.',7,"Lund's Arithmetic"],

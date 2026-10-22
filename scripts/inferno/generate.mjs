@@ -1,3 +1,4 @@
+import {webpWidth,webpHeight} from '../lib/webp.mjs'
 import {formatVerse,sourceVerse} from './verse-format.mjs'
 import fs from 'node:fs'
 import crypto from 'node:crypto'
@@ -7,7 +8,7 @@ import {cantoPlans,characterNames} from './scene-plan.mjs'
 
 const W='inferno-world',now=Date.UTC(2026,9,18),stamp={worldId:W,createdAt:now,updatedAt:now},id=(kind,key)=>`inferno-${kind}-${key}`
 const blobs=[]
-function png(kind,key,rel){const url=`library/inferno/${rel}`,file=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(file))return null;const bytes=fs.readFileSync(file),imageId=id('image',`${kind}-${key}`);if(bytes.subarray(1,4).toString()!=='PNG')throw Error(`Not a PNG: ${url}`);blobs.push({...stamp,id:imageId,mimeType:'image/png',url});return{id:imageId,width:bytes.readUInt32BE(16),height:bytes.readUInt32BE(20)}}
+function png(kind,key,rel){const url=`library/inferno/${rel}`,file=new URL(`../../${url}`,import.meta.url);if(!fs.existsSync(file))return null;const bytes=fs.readFileSync(file),imageId=id('image',`${kind}-${key}`);blobs.push({...stamp,id:imageId,mimeType:'image/webp',url});return{id:imageId,width:webpWidth(bytes),height:webpHeight(bytes)}}
 
 const mapDefs={
  overview:['The Descent Through Hell','A topographic cutaway of the dark wood, the funnel of Hell, the centre of Earth, and the hidden ascent.'],
@@ -17,7 +18,7 @@ const mapDefs={
  cocytus:['Cocytus and the Earth’s Centre','A topographic plan of the four frozen zones, Lucifer at the centre, and the upward passage.'],
  history:['Italy and the Western Sea','A historical topographic map for the poem’s embedded memories in Rimini, Mantua, Montefeltro, Rome, Pisa, and Ulysses’ western voyage.'],
 }
-const mapLayers=Object.entries(mapDefs).map(([key,[name,description]])=>{const art=png('map',key,`maps/${key}.png`);return{...stamp,id:id('map',key),name,description,parentMapId:['upper','lower','malebolge','cocytus'].includes(key)?id('map','overview'):null,imageId:art?.id??null,imageWidth:art?.width??1536,imageHeight:art?.height??1024,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:null,levelIndex:null,levelLabel:null}})
+const mapLayers=Object.entries(mapDefs).map(([key,[name,description]])=>{const art=png('map',key,`maps/${key}.webp`);return{...stamp,id:id('map',key),name,description,parentMapId:['upper','lower','malebolge','cocytus'].includes(key)?id('map','overview'):null,imageId:art?.id??null,imageWidth:art?.width??1536,imageHeight:art?.height??1024,scalePixelsPerUnit:null,scaleUnit:null,levelGroupId:null,levelIndex:null,levelLabel:null}})
 const locDefs={
  'dark-wood':['overview','The Dark Wood','A tangled woodland below the sunlit slope where the straight path is lost.',430,860,null],
  'sunlit-slope':['overview','The Sunlit Slope','The first rising ground above the wood, blocked by three beasts.',1080,870,null],
@@ -72,13 +73,13 @@ const locDefs={
  'lateran':['history','The Lateran','The papal court in Rome where Boniface demands fraudulent counsel.',760,400,null],
  'hunger-tower':['history','The Hunger Tower','The Pisan prison in which Ugolino remembers the sealed door and his children’s deaths.',650,520,null],
 }
-const locationMarkers=Object.entries(locDefs).map(([key,[map,name,description,x,y,linked]])=>({...stamp,id:id('loc',key),name,description,mapLayerId:id('map',map),linkedMapLayerId:linked?id('map',linked):null,x,y,iconType:'landmark',imageId:png('location',key,`art/locations/${key}.png`)?.id??null,tags:[],factionId:null}))
+const locationMarkers=Object.entries(locDefs).map(([key,[map,name,description,x,y,linked]])=>({...stamp,id:id('loc',key),name,description,mapLayerId:id('map',map),linkedMapLayerId:linked?id('map',linked):null,x,y,iconType:'landmark',imageId:png('location',key,`art/locations/${key}.webp`)?.id??null,tags:[],factionId:null}))
 
 const firstStateByCharacter={}
 for(const canto of reviewedCantos)for(const scene of canto)for(const [key,state] of Object.entries(scene.states))firstStateByCharacter[key]??=state
 const initialNames={geryon:'The Monster of Fraud',nicholas:'The Buried Pope'}
 const colors=['#6f473f','#87705a','#6a6478','#5a5662','#82574c','#79664b','#65494d','#8b7458','#4d5961','#745552','#8b6a42','#5c4750']
-const characters=Object.entries(characterNames).map(([key,name],index)=>({...stamp,id:id('char',key),name:initialNames[key]??name,aliases:[],description:`At first appearance, ${firstStateByCharacter[key][0].toLowerCase()}${firstStateByCharacter[key].slice(1)}`,color:colors[index%colors.length],portraitImageId:png('character',key,`art/characters/${key}.png`)?.id??null,isAlive:key==='dante',birthDate:null,tags:[],nameChanges:[]}))
+const characters=Object.entries(characterNames).map(([key,name],index)=>({...stamp,id:id('char',key),name:initialNames[key]??name,aliases:[],description:`At first appearance, ${firstStateByCharacter[key][0].toLowerCase()}${firstStateByCharacter[key].slice(1)}`,color:colors[index%colors.length],portraitImageId:png('character',key,`art/characters/${key}.webp`)?.id??null,isAlive:key==='dante',birthDate:null,tags:[],nameChanges:[]}))
 
 const itemDefs={
  cord:['Dante’s cord','A cord Dante once intended as a snare and gives Virgil to signal into the abyss.','rope'],
@@ -90,7 +91,7 @@ const itemDefs={
  florins:['Counterfeit florins','The false gold coins Master Adam made at Romena.','artifact'],
  horn:['Nimrod’s horn','The immense horn whose blast crosses the darkness above Cocytus.','instrument'],
 }
-const items=Object.entries(itemDefs).map(([key,[name,description,iconType]])=>({...stamp,id:id('item',key),name,description,iconType,imageId:png('item',key,`art/items/${key}.png`)?.id??null,tags:[],isCollective:['bow','purse','hook','florins'].includes(key)}))
+const items=Object.entries(itemDefs).map(([key,[name,description,iconType]])=>({...stamp,id:id('item',key),name,description,iconType,imageId:png('item',key,`art/items/${key}.webp`)?.id??null,tags:[],isCollective:['bow','purse','hook','florins'].includes(key)}))
 const itemByTitle={
  'The Cord Cast Down':['cord'],'Charon and the Crossing':['oar'],'The Centaur Patrol':['bow'],'Nessus Guides the Ford':['bow'],'The Usurers':['purse'],
  'The Ten Malebranche':['hook'],'Hooks Around the Prisoner':['hook'],'Ciampolo Escapes':['hook'],'Ulysses Leaves Home':['ship'],'Beyond the Pillars':['ship'],
@@ -199,7 +200,7 @@ const routes=[
  ['cocytus-exit','cocytus','Across Cocytus and upward',[[260,820],[410,720],[535,640],[630,575],[700,530],[745,500],[768,475],[1230,250]]],
  ['ulysses-voyage','history','Ulysses’ western voyage',[[520,430],[160,380]]],
 ].map(([key,map,name,points])=>({...stamp,id:id('route',key),mapLayerId:id('map',map),name,routeType:key==='ulysses-voyage'?'sea':'road',waypoints:points.map(([x,y])=>({x,y})),color:'#b08a62',notes:'Interpretive route derived from the poem’s ordered places.'}))
-const worldImage=png('world','cover','art/world.png')
+const worldImage=png('world','cover','art/world.webp')
 const out={version:18,type:'world',exportedAt:now,world:{...stamp,id:W,name:'Inferno',description:'A living traveller follows Virgil through the ordered depths beneath the world, where each encounter tests what can be understood, pitied, remembered, and changed.',coverImageId:worldImage?.id??null,theme:'theme-fantasy',readingMode:true,continuityStaleThreshold:5,wordTarget:countWords(verseText),calendar:{startYear:1300,yearSuffix:'',months:[{name:'Holy Week',days:3}]}},chapters,events,sceneTexts,timelines,mapLayers,locationMarkers,characters,items,characterSnapshots,itemPlacements,blobs,relationships,relationshipSnapshots,plotThreads,motifs,loreCategories,lorePages,knowledgeFacts:facts,knowledgeReveals:[],factions,factionMemberships,characterGoals:goals,mapRoutes:routes,characterMovements:[],continuitySuppressions:[],crossTimelineArtifacts:[],factionRelationships:[],itemSnapshots:[],locationSnapshots:[],mapAnnotations:[],mapRegionSnapshots:[],mapRegions:[],sceneRevisions:[],timelineRelationships:[],travelModes:[],writingLogs:[]}
 const dest=new URL('../../library/inferno.pwk',import.meta.url);fs.writeFileSync(dest,JSON.stringify(out))
 const bytes=fs.readFileSync(dest);console.log(JSON.stringify({chapters:chapters.length,events:events.length,words:countWords(verseText),lines:verseLineCount,timelines:timelines.length,characters:characters.length,snapshots:characterSnapshots.length,locations:locationMarkers.length,maps:mapLayers.length,items:items.length,images:blobs.length,bytes:bytes.length,sha256:crypto.createHash('sha256').update(bytes).digest('hex')},null,2))

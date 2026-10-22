@@ -101,7 +101,7 @@ const makeBlob = (id, url) => ({
 
 const generatedBlobs = [];
 const coverId = 'alice-wonderland-image-generated-cover';
-generatedBlobs.push(makeBlob(coverId, 'library/alice-in-wonderland/art/generated/cover.jpg'));
+generatedBlobs.push(makeBlob(coverId, 'library/alice-in-wonderland/art/generated/cover.webp'));
 world.world.coverImageId = coverId;
 
 for (const character of world.characters) {
@@ -152,7 +152,7 @@ fs.writeFileSync(pwkPath, serialized, 'utf8');
 const index = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
 const entry = index.entries.find((candidate) => candidate.id === 'alice-in-wonderland');
 if (!entry) throw new Error('Alice index entry not found');
-entry.cover = 'library/alice-in-wonderland/art/generated/cover.jpg';
+entry.cover = 'library/alice-in-wonderland/art/generated/cover.webp';
 entry.dataBytes = Buffer.byteLength(serialized);
 fs.writeFileSync(indexPath, `${JSON.stringify(index, null, 2)}\n`, 'utf8');
 

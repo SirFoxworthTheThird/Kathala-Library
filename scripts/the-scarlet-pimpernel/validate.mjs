@@ -38,7 +38,7 @@ for (const blob of generated) {
   const file = path.join(root, ...blob.url.split('/'));
   if (!fs.existsSync(file)) continue;
   const bytes = fs.readFileSync(file);
-  if (bytes.subarray(0, 2).toString('hex') !== 'ffd8') failures.push(`${blob.url}: not a JPEG signature`);
+  if (bytes.toString('ascii',0,4) !== 'RIFF') failures.push(`${blob.url}: not a WebP signature`);
   const hash = crypto.createHash('sha256').update(bytes).digest('hex');
   if (hashes.has(hash)) failures.push(`duplicate generated files: ${hashes.get(hash)} and ${blob.url}`);
   hashes.set(hash, blob.url);

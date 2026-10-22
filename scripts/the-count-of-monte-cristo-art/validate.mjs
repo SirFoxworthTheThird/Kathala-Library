@@ -27,11 +27,11 @@ for (const slot of manifest.slots) {
   if (!entity || entity[slot.field] !== slot.newBlobId || !blob) { failures.push(`Broken reference: ${slot.number} ${slot.name}`); continue; }
   if (ids.has(blob.id) || urls.has(blob.url)) failures.push(`Repeated image ID or URL: ${slot.number}`);
   ids.add(blob.id); urls.add(blob.url);
-  if (blob.url !== slot.path || blob.mimeType !== 'image/jpeg' || !blob.url.startsWith('library/')) { failures.push(`Invalid generated blob: ${slot.number}`); continue; }
+  if (blob.url !== slot.path || blob.mimeType !== 'image/webp' || !blob.url.startsWith('library/')) { failures.push(`Invalid generated blob: ${slot.number}`); continue; }
   const file = path.join(root, ...blob.url.split('/'));
   if (!fs.existsSync(file)) { failures.push(`Missing image: ${slot.path}`); continue; }
   const bytes = fs.readFileSync(file);
-  if (bytes.subarray(0, 2).toString('hex') !== 'ffd8' || bytes.subarray(-2).toString('hex') !== 'ffd9') failures.push(`Invalid JPEG: ${slot.path}`);
+  if (bytes.toString('ascii',0,4) !== 'RIFF' || bytes.toString('ascii',8,12) !== 'WEBP') failures.push(`Invalid JPEG: ${slot.path}`);
   const hash = crypto.createHash('sha256').update(bytes).digest('hex');
   if (hashes.has(hash)) failures.push(`Repeated image content: ${slot.number}`);
   hashes.add(hash);

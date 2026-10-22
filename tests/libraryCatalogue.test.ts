@@ -93,8 +93,8 @@ describe('the published library catalogue', () => {
 
   it('keeps the Odyssey manuscript cover readable without a cross-origin request', () => {
     const entry = index.entries.find((candidate) => candidate.id === 'the-odyssey')
-    expect(entry?.cover).toBe('library/the-odyssey/art/generated/cover.jpg')
-    expect(Object.keys(bundledImages).some((path) => path.endsWith('/the-odyssey/art/generated/cover.jpg'))).toBe(true)
+    expect(entry?.cover).toBe('library/the-odyssey/art/generated/cover.webp')
+    expect(Object.keys(bundledImages).some((path) => path.endsWith('/the-odyssey/art/generated/cover.webp'))).toBe(true)
   })
 
   for (const entry of index.entries) {

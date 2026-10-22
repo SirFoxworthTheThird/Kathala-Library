@@ -24,7 +24,7 @@ for(let i=0;i<requests.length;i++){
  if(!mapping){const literal=request.requestCode.match(/const specs\s*=\s*(\[[\s\S]*?\]);/)[1];const specs=new vm.Script(literal).runInNewContext();mapping=['characters',...specs.map(([id])=>aliases[id]??id)]}
  for(let j=0;j<prompts.length;j++){
   const kind=mapping[0], id=mapping[j+1],relative=kind==='mixed'?id:`${kind}/${id}`
-  const path=kind==='world'?'library/anne-of-green-gables/art/generated/cover.png':`library/anne-of-green-gables/art/generated/${relative}.png`
+  const path=kind==='world'?'library/anne-of-green-gables/art/generated/cover.webp':`library/anne-of-green-gables/art/generated/${relative}.png`
   rows.push({path,prompt:prompts[j],requestId:request.callId,recovery:'Exact tool request recovered from the authoring-session log.'})
  }
 }

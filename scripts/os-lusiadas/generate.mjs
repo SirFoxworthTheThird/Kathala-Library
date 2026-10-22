@@ -1,3 +1,4 @@
+import {webpWidth,webpHeight} from '../lib/webp.mjs'
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -20,23 +21,23 @@ const mapId=key=>`os-lusiadas-map-${key}`
 const imageId=kind=>`os-lusiadas-image-${kind}`
 const pngDimensions=file=>{
   const bytes=fs.readFileSync(file)
-  if(bytes.subarray(1,4).toString()!=='PNG') throw Error(`Not PNG: ${file}`)
-  return [bytes.readUInt32BE(16),bytes.readUInt32BE(20)]
+
+  return [webpWidth(bytes),webpHeight(bytes)]
 }
 const addPng=(id,relative)=>{
   const absolute=path.join(repo,relative)
   if(!fs.existsSync(absolute)) return null
-  data.blobs.push({...stamp,id:imageId(id),mimeType:'image/png',url:relative.replaceAll('\\','/')})
+  data.blobs.push({...stamp,id:imageId(id),mimeType:'image/webp',url:relative.replaceAll('\\','/')})
   return imageId(id)
 }
 
-data.world={...data.world,description:'A sea voyage to India unfolds amid remembered Portuguese history, classical gods, and a poet’s address to his king.',coverImageId:addPng('world','library/os-lusiadas/art/world.png'),calendar}
+data.world={...data.world,description:'A sea voyage to India unfolds amid remembered Portuguese history, classical gods, and a poet’s address to his king.',coverImageId:addPng('world','library/os-lusiadas/art/world.webp'),calendar}
 data.timelines=[
   {...stamp,id:'os-lusiadas-poem-order',name:'The poem in ten cantos',description:'The printed order in which the voyage, memories, myth, and poet’s voice are read.',color:'#31586b',dayOffset:0},
   ...timelineDefs.map(([key,name,description],index)=>({...stamp,id:`os-lusiadas-${key}`,name,description,color:['#4b7180','#886e58','#7a647c','#5b7598','#8b7558'][index],dayOffset:0})),
 ]
 data.mapLayers=mapDefs.map(([key,parent,name,description])=>{
-  const relative=`library/os-lusiadas/maps/${key}.png`
+  const relative=`library/os-lusiadas/maps/${key}.webp`
   const [imageWidth,imageHeight]=pngDimensions(path.join(repo,relative))
   return {...stamp,id:mapId(key),parentMapId:parent?mapId(parent):null,name,description,
     imageId:addPng(`map-${key}`,relative),imageWidth,imageHeight,scalePixelsPerUnit:null,scaleUnit:null,
@@ -44,7 +45,7 @@ data.mapLayers=mapDefs.map(([key,parent,name,description])=>{
 })
 data.locationMarkers=places.map(place=>({...stamp,id:locId(place.key),mapLayerId:mapId(place.map),
   linkedMapLayerId:place.child?mapId(place.child):null,name:place.name,description:place.description,
-  x:place.x,y:place.y,imageId:addPng(`place-${place.key}`,`library/os-lusiadas/art/places/${place.key}.png`),
+  x:place.x,y:place.y,imageId:addPng(`place-${place.key}`,`library/os-lusiadas/art/places/${place.key}.webp`),
   iconType:place.child?'city':'landmark',tags:[],factionId:null}))
 
 const usedCodes=new Set(sceneState.flat().flatMap(row=>row[2]?row[2].split(' '):[]))
@@ -132,7 +133,7 @@ data.characters=[...usedCodes].map((code,index)=>{
   const name=actorNames[code]
   const slug=name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')
   const record={...stamp,id:charId(code),name,aliases:[],description:characterDescriptions[code]??`A figure directly present in the ${code==='CH'?'vision':'remembered action'} of the poem.`,
-    portraitImageId:addPng(`character-${code.toLowerCase()}`,`library/os-lusiadas/art/characters/${slug}.png`),
+    portraitImageId:addPng(`character-${code.toLowerCase()}`,`library/os-lusiadas/art/characters/${slug}.webp`),
     color:['#526c78','#756c5a','#6e6680','#7a685a'][index%4],tags:[],isAlive:!['AH','DI','IN','FE','JI'].includes(code),birthDate:null}
   const nameReveals={AD:[5,51,'Adamastor'],AMP:[6,22,'Amphitrite'],MO:[7,26,'Monçaide'],SAM:[7,22,'Samorim']}
   if(nameReveals[code]) {const [canto,start,name]=nameReveals[code];record.nameChanges=[{eventId:eventId(canto,start),name}]}
@@ -279,7 +280,7 @@ const factionDefs=[
   ['island','Island nymphs','The sea and island figures gathered for the homeward sailors.','#6c8278',['TH','EP','IQ','SN']],
 ]
 data.factions=factionDefs.map(([key,name,description,color])=>({...stamp,id:`os-lusiadas-faction-${key}`,name,description,color,
-  coverImageId:addPng(`faction-${key}`,`library/os-lusiadas/art/factions/${key}.png`),tags:[]}))
+  coverImageId:addPng(`faction-${key}`,`library/os-lusiadas/art/factions/${key}.webp`),tags:[]}))
 const firstEventForCode=code=>{
   for(let canto=1;canto<=10;canto++) for(const [start,,cast] of sceneState[canto-1]) if(cast?.split(' ').includes(code)) return eventId(canto,start)
   throw Error(`Unused actor ${code}`)
@@ -325,7 +326,7 @@ const goalDefs=[
 data.characterGoals=goalDefs.map(([code,sc,ss,ec,es,type,text],index)=>({...stamp,id:`os-lusiadas-goal-${index+1}`,
   characterId:charId(code),startEventId:eventId(sc,ss),endEventId:eventId(ec,es),type,text}))
 
-// The surveyed coastline and editorial sea track are drawn in ocean.png.
+// The surveyed coastline and editorial sea track are drawn in ocean.webp.
 // Kathala's mapRoutes joins marker centres with straight lines, which would
 // falsely send the ships over Africa between the Cape and East African ports.
 data.mapRoutes=[]
@@ -340,7 +341,7 @@ const itemDefs=[
 ]
 data.items=itemDefs.map(([key,name,description,iconType,isCollective])=>({...stamp,
   id:`os-lusiadas-item-${key}`,name,description,iconType,isCollective,tags:[],
-  imageId:addPng(`item-${key}`,`library/os-lusiadas/art/items/${key}.png`)}))
+  imageId:addPng(`item-${key}`,`library/os-lusiadas/art/items/${key}.webp`)}))
 for(const [key,,,,,moments,firstPlace] of itemDefs) {
   const id=`os-lusiadas-item-${key}`
   for(const [canto,start] of moments) data.events.find(e=>e.id===eventId(canto,start)).involvedItemIds.push(id)

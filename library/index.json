@@ -7,7 +7,7 @@
       "author": "Lewis Carroll",
       "blurb": "A curious girl follows a hurried White Rabbit into a dream world where size, language, time, games, and authority refuse to behave.",
       "data": "alice-in-wonderland.pwk",
-      "dataBytes": 512130,
+      "dataBytes": 512216,
       "counts": {
         "characters": 24,
         "chapters": 12,
@@ -16,7 +16,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 11; Gutenberg packaging and decorative separators are excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore.",
       "worldId": "alice-wonderland-world",
-      "cover": "library/alice-in-wonderland/art/generated/cover.jpg",
+      "cover": "library/alice-in-wonderland/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -25,7 +25,7 @@
       "author": "L. M. Montgomery",
       "blurb": "An imaginative orphan arrives by mistake at a Prince Edward Island farm and grows into belonging through friendship, misadventure, study, grief, and chosen responsibility.",
       "data": "anne-of-green-gables.pwk",
-      "dataBytes": 1282788,
+      "dataBytes": 1282952,
       "counts": {
         "characters": 33,
         "chapters": 38,
@@ -34,7 +34,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. It includes the complete English text from Project Gutenberg eBook #45; Gutenberg packaging, licence, title display, and contents list are excluded. Editorial scene divisions, chronology, maps, and 82 distinct artwork assets are documented in the included Lore and authoring audits.",
       "worldId": "anne-of-green-gables-world",
-      "cover": "library/anne-of-green-gables/art/generated/cover.png",
+      "cover": "library/anne-of-green-gables/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -43,7 +43,7 @@
       "author": "Jules Verne",
       "blurb": "Phileas Fogg wagers that railways and steamships can carry him around the globe in eighty days, while a mistaken detective, missed connections, and acts of loyalty transform the race.",
       "data": "around-the-world-in-eighty-days.pwk",
-      "dataBytes": 905651,
+      "dataBytes": 905734,
       "counts": {
         "characters": 24,
         "chapters": 37,
@@ -52,7 +52,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete English novel text from Project Gutenberg eBook 103; Gutenberg packaging is excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore.",
       "worldId": "around-the-world-in-eighty-days-world",
-      "cover": "library/around-the-world-in-eighty-days/art/generated/cover.jpg",
+      "cover": "library/around-the-world-in-eighty-days/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -61,7 +61,7 @@
       "author": "Robert Louis Stevenson",
       "blurb": "A young ward pursues the truth about his father's death as a forest company, a threatened marriage, and the Wars of the Roses draw him from Tunstall to Shoreby.",
       "data": "black-arrow.pwk",
-      "dataBytes": 1084117,
+      "dataBytes": 1084303,
       "counts": {
         "characters": 32,
         "chapters": 33,
@@ -70,7 +70,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. It retains the complete narrative, authorial dedication, prologue, five books, and endnotes from Project Gutenberg eBook #848; Gutenberg packaging and licence text are excluded. Editorial scenes, chronology, maps, and artwork provenance are documented in Lore.",
       "worldId": "black-arrow-world",
-      "cover": "library/black-arrow/art/world.png",
+      "cover": "library/black-arrow/art/world.webp",
       "hasProse": true
     },
     {
@@ -79,7 +79,7 @@
       "author": "H. P. Lovecraft",
       "blurb": "Inherited papers draw a skeptical Boston scholar into a network of dreams, artifacts, police testimony, and maritime records whose fragments point beyond familiar history and geography.",
       "data": "call-of-cthulhu.pwk",
-      "dataBytes": 157850,
+      "dataBytes": 157943,
       "counts": {
         "characters": 11,
         "chapters": 3,
@@ -88,7 +88,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain story. It includes the complete text from Project Gutenberg eBook #68283, based on the February 1928 Weird Tales publication; Gutenberg packaging and licence text are excluded. Editorial scene divisions, chronology, maps, and 46 original generated illustrations are documented in Lore.",
       "worldId": "call-of-cthulhu-world",
-      "cover": "library/call-of-cthulhu/art/world.png",
+      "cover": "library/call-of-cthulhu/art/world.webp",
       "hasProse": true
     },
     {
@@ -97,7 +97,7 @@
       "author": "Jack London",
       "blurb": "Buck is stolen from California and remade by the Klondike trail, where labour, leadership, devotion, and loss draw him toward the wolf pack.",
       "data": "the-call-of-the-wild.pwk",
-      "dataBytes": 459059,
+      "dataBytes": 459111,
       "counts": {
         "characters": 21,
         "chapters": 7,
@@ -106,7 +106,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 215; Gutenberg packaging is excluded. Editorial structure, chronology, maps, and illustration provenance are documented in Lore.",
       "worldId": "call-wild-world",
-      "cover": "library/the-call-of-the-wild/art/world.jpg",
+      "cover": "library/the-call-of-the-wild/art/world.webp",
       "hasProse": true
     },
     {
@@ -115,7 +115,7 @@
       "author": "J. Sheridan Le Fanu",
       "blurb": "In an isolated Styrian schloss, a lonely young woman receives a beautiful and secretive guest whose arrival unsettles memory, affection, and the boundaries of ordinary illness.",
       "data": "carmilla.pwk",
-      "dataBytes": 402622,
+      "dataBytes": 402729,
       "counts": {
         "characters": 17,
         "chapters": 17,
@@ -124,7 +124,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novella. It includes the complete retained narrative from Project Gutenberg eBook #10007, updated 28 October 2024; Gutenberg packaging, licence text, contents list, and publisher advertisements are excluded. Editorial event divisions, chronology, maps, and 53 original generated illustrations are documented in Lore.",
       "worldId": "carmilla-world",
-      "cover": "library/carmilla/art/world.png",
+      "cover": "library/carmilla/art/world.webp",
       "hasProse": true
     },
     {
@@ -133,7 +133,7 @@
       "author": "Solomon Darko",
       "blurb": "Across three eras, the keepers of a generation ship inherit four thousand sleeping lives, an unfinished count, and a bone-handled Key whose passage through wardens, archivists, and salvagers can reveal what their societies chose to forget.",
       "data": "the-cold-choir.pwk",
-      "dataBytes": 516673,
+      "dataBytes": 516822,
       "counts": {
         "characters": 21,
         "chapters": 21,
@@ -142,7 +142,7 @@
       },
       "notice": "Authorized reading-mode edition of an original English manuscript by Solomon Darko. Copyright © 2026 Solomon Darko. All rights reserved. The complete creator-supplied manuscript is retained in source order; editorial scene boundaries, separated eras, maps, generated artwork, and validation provenance are documented in the included Lore and authoring audits.",
       "worldId": "the-cold-choir-world",
-      "cover": "library/the-cold-choir/art/world.png",
+      "cover": "library/the-cold-choir/art/world.webp",
       "hasProse": true
     },
     {
@@ -151,7 +151,7 @@
       "author": "Alexandre Dumas",
       "blurb": "Edmond Dantès returns from wrongful imprisonment with a new identity and immense fortune, setting reward and revenge in motion across Marseille, Rome, and Paris.",
       "data": "the-count-of-monte-cristo.pwk",
-      "dataBytes": 3483100,
+      "dataBytes": 3483226,
       "counts": {
         "characters": 42,
         "chapters": 117,
@@ -160,7 +160,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1184 across all 117 chapters; Gutenberg packaging and front matter are excluded. Original generated illustrations, six retained historical maps, and archived public-domain illustration sources are recorded in Lore.",
       "worldId": "count-of-monte-cristo-world",
-      "cover": "library/the-count-of-monte-cristo/art/generated/cover/001-the-count-of-monte-cristo.jpg",
+      "cover": "library/the-count-of-monte-cristo/art/generated/cover/001-the-count-of-monte-cristo.webp",
       "hasProse": true
     },
     {
@@ -169,7 +169,7 @@
       "author": "Bram Stoker",
       "blurb": "Journals, letters, logs, and telegrams converge as Dracula moves from Transylvania to England and the hunters follow him home.",
       "data": "dracula.pwk",
-      "dataBytes": 1359888,
+      "dataBytes": 1359991,
       "counts": {
         "characters": 25,
         "chapters": 27,
@@ -178,7 +178,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #345, divided among the original 27 chapters and modeled events; Gutenberg packaging and advertisements are excluded. Original generated illustrations accompany the world; functional historical map layers retain their source links.",
       "worldId": "dracula-1897-world",
-      "cover": "library/dracula/art/generated/cover/001-dracula.jpg",
+      "cover": "library/dracula/art/generated/cover/001-dracula.webp",
       "hasProse": true
     },
     {
@@ -187,7 +187,7 @@
       "author": "J.R.R. Tolkien",
       "blurb": "The Ring leaves the Shire. Track the Fellowship across Eriador and Moria, and see who knows what, and when.",
       "data": "the-fellowship-of-the-ring.pwk",
-      "dataBytes": 608322,
+      "dataBytes": 608495,
       "counts": {
         "characters": 45,
         "chapters": 22,
@@ -196,10 +196,10 @@
       },
       "notice": "Unofficial, fan-made reference. Structural notes only; no text from the book is included. Original book-based illustrations are shared where appropriate across the two volumes, with no repeated illustration within either book. Existing map layers remain available. Not affiliated with or endorsed by the author or publisher.",
       "images": "the-fellowship-of-the-ring.pwb",
-      "imagesBytes": 7918705,
+      "imagesBytes": 6687441,
       "worldId": "aX-7torL9Na4l4UvyLWIP",
       "hasProse": false,
-      "cover": "library/lotr-shared-art/generated/covers/001-the-fellowship-of-the-ring.jpg"
+      "cover": "library/lotr-shared-art/generated/covers/001-the-fellowship-of-the-ring.webp"
     },
     {
       "id": "frankenstein",
@@ -207,7 +207,7 @@
       "author": "Mary Shelley",
       "blurb": "Walton’s polar letters frame Victor Frankenstein’s confession and the Creature’s own history of creation, rejection, and revenge.",
       "data": "frankenstein.pwk",
-      "dataBytes": 872050,
+      "dataBytes": 872153,
       "counts": {
         "characters": 24,
         "chapters": 28,
@@ -216,7 +216,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #84 across four letters and 24 chapters; Gutenberg packaging is excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "frankenstein-world",
-      "cover": "library/frankenstein/art/generated/cover.jpg",
+      "cover": "library/frankenstein/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -243,7 +243,7 @@
       "author": "Arthur Conan Doyle",
       "blurb": "Holmes and Watson follow a family curse from London clues to Dartmoor, where an inheritance plot hides behind the legend of a spectral hound.",
       "data": "the-hound-of-the-baskervilles.pwk",
-      "dataBytes": 651757,
+      "dataBytes": 651821,
       "counts": {
         "characters": 20,
         "chapters": 15,
@@ -252,7 +252,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #2852 across all 15 chapters; Gutenberg packaging is excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "hound-world",
-      "cover": "library/the-hound-of-the-baskervilles/art/generated/cover.jpg",
+      "cover": "library/the-hound-of-the-baskervilles/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -261,7 +261,7 @@
       "author": "Homer",
       "blurb": "A quarrel over honour removes Achilles from the Achaean line as Troy’s defenders and the divided gods press the war toward the beached ships.",
       "data": "the-iliad.pwk",
-      "dataBytes": 1253097,
+      "dataBytes": 1253188,
       "counts": {
         "characters": 52,
         "chapters": 24,
@@ -270,7 +270,7 @@
       },
       "notice": "Unofficial reference for a public-domain ancient epic. Structural summaries and editorial chronology are original Kathala material; scene drafts reproduce Samuel Butler’s public-domain translation from Project Gutenberg eBook 2199; Gutenberg front matter, per-book prose summaries, and end matter are excluded. The cover is an original AI-generated interpretation created for Kathala; source, map sourcing, and editorial method are recorded in Lore.",
       "worldId": "iliad-world",
-      "cover": "library/the-iliad/art/cover.jpg",
+      "cover": "library/the-iliad/art/cover.webp",
       "hasProse": true
     },
     {
@@ -279,7 +279,7 @@
       "author": "Dante Alighieri; translated by Henry Wadsworth Longfellow",
       "blurb": "A living traveller follows Virgil through the ordered depths beneath the world, where each encounter tests what can be understood, pitied, remembered, and changed.",
       "data": "inferno.pwk",
-      "dataBytes": 777317,
+      "dataBytes": 777584,
       "counts": {
         "characters": 66,
         "chapters": 34,
@@ -288,7 +288,7 @@
       },
       "notice": "Unofficial reading-mode edition of Henry Wadsworth Longfellow’s complete public-domain English translation of Inferno from Project Gutenberg eBook #1001. All 34 cantos and 4,720 retained verse lines follow the source order; Gutenberg packaging, title material, contents, blank separators, and licence text are excluded. Scene divisions, chronology, descriptions, six topographic maps, and original generated illustrations are editorial.",
       "worldId": "inferno-world",
-      "cover": "library/inferno/art/world.png",
+      "cover": "library/inferno/art/world.webp",
       "hasProse": true
     },
     {
@@ -297,7 +297,7 @@
       "author": "H. G. Wells",
       "blurb": "A physicist who erases his visible body discovers that secrecy, hunger, weather, fear, and violence make invisibility a prison as much as a power.",
       "data": "the-invisible-man.pwk",
-      "dataBytes": 569252,
+      "dataBytes": 569317,
       "counts": {
         "characters": 18,
         "chapters": 29,
@@ -306,7 +306,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text from Project Gutenberg eBook #5230, covering Chapters I–XXVIII and the Epilogue; Gutenberg packaging and the contents list are excluded. Structural summaries, event divisions, chronology, maps, and state notes are editorial.",
       "worldId": "invisible-man-world",
-      "cover": "library/the-invisible-man/art/generated/cover/001-the-invisible-man.jpg",
+      "cover": "library/the-invisible-man/art/generated/cover/001-the-invisible-man.webp",
       "hasProse": true
     },
     {
@@ -315,7 +315,7 @@
       "author": "Charlotte Brontë",
       "blurb": "Jane Eyre moves from an unloved childhood through Lowood, Thornfield, the moors, and the discovery of family while insisting that love must preserve conscience and equality.",
       "data": "jane-eyre.pwk",
-      "dataBytes": 1405018,
+      "dataBytes": 1405081,
       "counts": {
         "characters": 23,
         "chapters": 38,
@@ -324,7 +324,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1260 across all 38 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "jane-eyre-world",
-      "cover": "library/jane-eyre/art/generated/cover.jpg",
+      "cover": "library/jane-eyre/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -333,7 +333,7 @@
       "author": "Wu Cheng’en",
       "blurb": "A monkey who fought Heaven, a monk who cannot tell a demon from a widow, and eighty-one disasters between Chang’an and Vulture Peak.",
       "data": "journey-to-the-west.pwk",
-      "dataBytes": 1495338,
+      "dataBytes": 1495843,
       "counts": {
         "characters": 121,
         "chapters": 100,
@@ -342,7 +342,7 @@
       },
       "notice": "Unofficial reference for a public-domain novel. This world contains original structural summaries and a reconstructed chronology, not the novel’s prose. The chapter titles are the book’s own couplets, rendered in English. The maps and illustrations are modern AI-generated interpretations: original artwork supplied by the world author, with additional illustrations generated at their request. The cover is a public-domain leaf of the 1592 Shidetang first edition.",
       "worldId": "journey-to-the-west-world",
-      "cover": "library/journey-to-the-west/art/cover.jpg",
+      "cover": "library/journey-to-the-west/art/cover.webp",
       "hasProse": false
     },
     {
@@ -351,7 +351,7 @@
       "author": "Robert Louis Stevenson",
       "blurb": "A young Lowlander cheated of his inheritance is carried to sea, cast ashore, and drawn into a perilous flight across the Highlands beside the Jacobite adventurer Alan Breck Stewart.",
       "data": "kidnapped.pwk",
-      "dataBytes": 815424,
+      "dataBytes": 815570,
       "counts": {
         "characters": 20,
         "chapters": 30,
@@ -360,7 +360,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. Scene drafts reproduce the complete retained text of Robert Louis Stevenson’s original English novel from Project Gutenberg eBook #421 (UTF-8 text updated 23 September 2024), including the dedication and all thirty author-supplied chapter headings. Gutenberg headers, licence, delimiters, and contents are excluded. Event divisions, chronology, maps, summaries, and all 73 original generated illustrations are editorial and documented in the book’s edition lore.",
       "worldId": "kidnapped-world",
-      "cover": "library/kidnapped/art/world.png",
+      "cover": "library/kidnapped/art/world.webp",
       "hasProse": true
     },
     {
@@ -387,7 +387,7 @@
       "author": "Arthur Conan Doyle",
       "blurb": "A reporter, two rival professors, and a veteran explorer cross into an isolated plateau where prehistoric life survives—and must return with proof the world cannot dismiss.",
       "data": "the-lost-world.pwk",
-      "dataBytes": 709348,
+      "dataBytes": 709395,
       "counts": {
         "characters": 10,
         "chapters": 16,
@@ -396,7 +396,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #139 across all 16 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore.",
       "worldId": "lost-world-world",
-      "cover": "library/the-lost-world/art/generated/cover.jpg",
+      "cover": "library/the-lost-world/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -405,7 +405,7 @@
       "author": "Luís de Camões; translated by Richard Francis Burton",
       "blurb": "A voyage to India unfolds through storms, courts, remembered Portuguese history, and the competing powers of the epic gods.",
       "data": "os-lusiadas.pwk",
-      "dataBytes": 1445707,
+      "dataBytes": 1446037,
       "counts": {
         "characters": 78,
         "chapters": 10,
@@ -414,7 +414,7 @@
       },
       "notice": "Unofficial reading-mode edition of Richard Francis Burton’s complete public-domain English verse translation (London, 1880), edited by Isabel Burton and transcribed in Project Gutenberg eBooks 77660 and 77661. All ten cantos and the 1,102 numbered stanzas follow the 1572 poem’s order. Stanza numbers, numeric note calls, ornamental dividers, and one unnumbered interpolation are excluded as documented in the source audit. Scene divisions, chronology, topographic maps, descriptions, and generated illustrations are editorial. The original Portuguese poem is offered in a separate entry.",
       "worldId": "os-lusiadas-world",
-      "cover": "library/os-lusiadas/art/world.png",
+      "cover": "library/os-lusiadas/art/world.webp",
       "hasProse": true
     },
     {
@@ -423,7 +423,7 @@
       "author": "Herman Melville",
       "blurb": "Ishmael joins the Pequod, where Captain Ahab turns a whaling voyage into a consuming hunt for the white sperm whale that maimed him.",
       "data": "moby-dick.pwk",
-      "dataBytes": 1811968,
+      "dataBytes": 1812104,
       "counts": {
         "characters": 21,
         "chapters": 136,
@@ -432,7 +432,7 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete narrative of all 135 chapters and the Epilogue from Project Gutenberg eBook 2701; Etymology, Extracts, Gutenberg front matter, and end matter are excluded.",
       "worldId": "moby-dick-world",
-      "cover": "library/moby-dick/art/world.png",
+      "cover": "library/moby-dick/art/world.webp",
       "hasProse": true
     },
     {
@@ -441,7 +441,7 @@
       "author": "Wilkie Collins",
       "blurb": "A sacred yellow diamond vanishes from Rachel Verinder's locked cabinet, drawing a chain of partial narrators through concealed love, material clues, financial pressure, and a missing memory.",
       "data": "the-moonstone.pwk",
-      "dataBytes": 1482546,
+      "dataBytes": 1482622,
       "counts": {
         "characters": 27,
         "chapters": 57,
@@ -450,7 +450,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #155 across all 57 modeled sections; Gutenberg packaging and front matter are excluded. The retained linked maps, superseded public-domain illustration reference set, and original generated artwork are recorded in Lore.",
       "worldId": "moonstone-world",
-      "cover": "library/the-moonstone/art/generated/cover.jpg",
+      "cover": "library/the-moonstone/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -459,7 +459,7 @@
       "author": "Patrick Rothfuss",
       "blurb": "Kvothe tells his own story over the first of three days — from the troupe, to Tarbean, to the University.",
       "data": "the-name-of-the-wind.pwk",
-      "dataBytes": 691355,
+      "dataBytes": 691477,
       "counts": {
         "characters": 56,
         "chapters": 94,
@@ -468,9 +468,9 @@
       },
       "notice": "Unofficial, fan-made reference. Structural notes only — no text from the book is included. Not affiliated with or endorsed by the author or publisher.",
       "images": "the-name-of-the-wind.pwb",
-      "imagesBytes": 1360,
+      "imagesBytes": 1368,
       "worldId": "10000000-0000-4000-a000-000000000000",
-      "cover": "library/the-name-of-the-wind/art/generated/worldRoad.jpg",
+      "cover": "library/the-name-of-the-wind/art/generated/worldRoad.webp",
       "hasProse": false
     },
     {
@@ -479,7 +479,7 @@
       "author": "William Gibson",
       "blurb": "A damaged console cowboy joins a physical and virtual heist that will decide whether two imprisoned artificial intelligences can become one.",
       "data": "neuromancer.pwk",
-      "dataBytes": 259535,
+      "dataBytes": 259621,
       "counts": {
         "characters": 17,
         "chapters": 24,
@@ -497,7 +497,7 @@
       "author": "Homer",
       "blurb": "Odysseus crosses a mythic Mediterranean while Telemachus and Penelope defend the household awaiting his return.",
       "data": "the-odyssey.pwk",
-      "dataBytes": 999460,
+      "dataBytes": 999569,
       "counts": {
         "characters": 43,
         "chapters": 24,
@@ -506,7 +506,7 @@
       },
       "notice": "Unofficial reference for a public-domain epic. Manuscript scenes contain Samuel Butler’s complete narrative prose from Project Gutenberg eBook 1727; Gutenberg front matter, per-book summaries, footnotes, appendices, and end matter are excluded.",
       "worldId": "odyssey-world",
-      "cover": "library/the-odyssey/art/generated/cover.jpg",
+      "cover": "library/the-odyssey/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -515,7 +515,7 @@
       "author": "Luís de Camões",
       "blurb": "A viagem à Índia entre tempestades, cortes, a história de Portugal e a intervenção dos deuses clássicos.",
       "data": "os-lusiadas-pt.pwk",
-      "dataBytes": 1417948,
+      "dataBytes": 1418278,
       "counts": {
         "characters": 78,
         "chapters": 10,
@@ -524,7 +524,7 @@
       },
       "notice": "Edição não oficial para leitura, em português europeu, do poema integral em domínio público transcrito no eBook n.º 27236 do Project Gutenberg, a partir da edição de 1572. Os dez cantos e todos os versos conservados seguem a ordem original. As divisões em cenas, a cronologia, as descrições e os mapas são editoriais; a fonte e a proveniência das imagens estão documentadas na edição. As ilustrações são partilhadas com a outra entrada de Os Lusíadas.",
       "worldId": "os-lusiadas-pt-world",
-      "cover": "library/os-lusiadas/art/world.png",
+      "cover": "library/os-lusiadas/art/world.webp",
       "hasProse": true
     },
     {
@@ -533,7 +533,7 @@
       "author": "Eça de Queirós",
       "blurb": "Três gerações, uma paixão impossível e o retrato mordaz da Lisboa oitocentista.",
       "data": "os-maias.pwk",
-      "dataBytes": 1652724,
+      "dataBytes": 1652807,
       "counts": {
         "characters": 30,
         "chapters": 18,
@@ -542,7 +542,7 @@
       },
       "notice": "Unofficial reference / referência não oficial de um romance em domínio público. As cenas reproduzem a original prose / prosa original integral dos 18 capítulos de Os Maias: episodios da vida romantica, edição Ernesto Chardron de 1888, transcrição Project Gutenberg n.º 40409; o aparato Gutenberg foi excluído. Títulos, resumos, calendário, estrutura e ilustrações originais geradas são editoriais.",
       "worldId": "os-maias-world",
-      "cover": "library/os-maias/art/world-cover.jpg",
+      "cover": "library/os-maias/art/world-cover.webp",
       "hasProse": true
     },
     {
@@ -551,7 +551,7 @@
       "author": "John Milton",
       "blurb": "The rebel host rises from Hell, humanity meets temptation in Eden, and celestial history frames the cost and promise of freedom.",
       "data": "paradise-lost.pwk",
-      "dataBytes": 916695,
+      "dataBytes": 916828,
       "counts": {
         "characters": 25,
         "chapters": 12,
@@ -560,7 +560,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain poem. It preserves all twelve books and every retained verse line of Project Gutenberg eBook #26 in source order; Gutenberg packaging, title and contents matter, transcriber notes, and license text are excluded. Editorial scene boundaries, six narrative timelines, four illustrated topographic and cosmographic maps, and 66 distinct artwork assets are documented in the included audits.",
       "worldId": "paradise-lost-world",
-      "cover": "library/paradise-lost/art/world.png",
+      "cover": "library/paradise-lost/art/world.webp",
       "hasProse": true
     },
     {
@@ -569,7 +569,7 @@
       "author": "Jane Austen",
       "blurb": "Anne Elliot moves from Kellynch toward a wider society, where rank, family pressure, and naval friendship test her judgment.",
       "data": "persuasion.pwk",
-      "dataBytes": 1053938,
+      "dataBytes": 928171,
       "counts": {
         "characters": 23,
         "chapters": 24,
@@ -578,7 +578,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. It includes the complete English narrative from Project Gutenberg eBook #105; Gutenberg packaging, the duplicated contents list, and the terminal Finis line are excluded. Editorial scene divisions, chronology, maps, and 62 distinct artwork assets are documented in the included Lore and authoring audits.",
       "worldId": "persuasion-world",
-      "cover": "library/persuasion/art/generated/cover.jpg",
+      "cover": "library/persuasion/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -587,7 +587,7 @@
       "author": "J. M. Barrie",
       "blurb": "Three London children fly to Neverland, where Peter Pan’s eternal childhood meets stories, pirates, loyalty, home, and the cost of time.",
       "data": "peter-pan.pwk",
-      "dataBytes": 622471,
+      "dataBytes": 622542,
       "counts": {
         "characters": 14,
         "chapters": 17,
@@ -596,7 +596,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text of the 1911 Peter and Wendy from Project Gutenberg eBook #16; Gutenberg packaging, its contents list, and the closing title are excluded. Structural summaries, event divisions, chronology, portraits, and maps are editorial. Public-domain F. D. Bedford plates and original Kathala artwork are credited in Lore.",
       "worldId": "peter-pan-world",
-      "cover": "library/peter-pan/art/bedford/icover.jpg",
+      "cover": "library/peter-pan/art/bedford/icover.webp",
       "hasProse": true
     },
     {
@@ -605,7 +605,7 @@
       "author": "Gaston Leroux",
       "blurb": "Beneath the splendor of the Paris Opera, a hidden musical genius draws a young soprano and her childhood love into a mystery of beauty, terror, obsession, and compassion.",
       "data": "the-phantom-of-the-opera.pwk",
-      "dataBytes": 841132,
+      "dataBytes": 841292,
       "counts": {
         "characters": 20,
         "chapters": 28,
@@ -614,7 +614,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text of The Phantom of the Opera, translated by Alexander Teixeira de Mattos, from Project Gutenberg eBook #175; Gutenberg packaging is excluded. The Prologue, 26 chapters, and Epilogue are preserved in source order. Structural summaries, event divisions, editorial chronology, maps, and generated illustrations are original additions documented in Lore.",
       "worldId": "phantom-opera-world",
-      "cover": "library/the-phantom-of-the-opera/art/world-cover.png",
+      "cover": "library/the-phantom-of-the-opera/art/world-cover.webp",
       "hasProse": true
     },
     {
@@ -623,7 +623,7 @@
       "author": "Oscar Wilde",
       "blurb": "A portrait bears the age and corruption hidden behind Dorian Gray’s unchanging beauty.",
       "data": "the-picture-of-dorian-gray.pwk",
-      "dataBytes": 848656,
+      "dataBytes": 848733,
       "counts": {
         "characters": 26,
         "chapters": 20,
@@ -632,7 +632,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete preface and narrative text of Project Gutenberg eBook #174 across all 20 chapters; Gutenberg packaging is excluded. Six linked historical and editorial maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "dorian-gray-world",
-      "cover": "library/the-picture-of-dorian-gray/art/generated/cover.jpg",
+      "cover": "library/the-picture-of-dorian-gray/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -641,7 +641,7 @@
       "author": "Jane Austen",
       "blurb": "Elizabeth Bennet and Fitzwilliam Darcy move through attraction, error, family crisis, and the difficult revision of first impressions.",
       "data": "pride-and-prejudice.pwk",
-      "dataBytes": 1203094,
+      "dataBytes": 1203170,
       "counts": {
         "characters": 34,
         "chapters": 61,
@@ -650,7 +650,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #1342 across all 61 chapters; Gutenberg packaging and illustrated-edition front matter are excluded. Six linked historical and editorial maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "pride-prejudice-world",
-      "cover": "library/pride-and-prejudice/art/generated/cover.jpg",
+      "cover": "library/pride-and-prejudice/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -659,7 +659,7 @@
       "author": "Edgar Rice Burroughs",
       "blurb": "An ageless Virginia soldier wakes beneath the twin moons of Barsoom, where ruined cities, rival nations, and unfamiliar customs turn survival into allegiance.",
       "data": "a-princess-of-mars.pwk",
-      "dataBytes": 850105,
+      "dataBytes": 850237,
       "counts": {
         "characters": 19,
         "chapters": 28,
@@ -668,7 +668,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. Scene drafts reproduce the complete retained text of Edgar Rice Burroughs’s original English novel from Project Gutenberg eBook #62 (UTF-8 text updated 12 January 2025), including the title, dedication, foreword, and all twenty-eight author-supplied chapter headings. Gutenberg headers, licence, delimiters, contents and illustrations lists, and illustration placeholders and captions are excluded. Event divisions, chronology, maps, summaries, and all 66 original generated illustrations are editorial and documented in the book’s edition lore.",
       "worldId": "a-princess-of-mars-world",
-      "cover": "library/a-princess-of-mars/art/world.png",
+      "cover": "library/a-princess-of-mars/art/world.webp",
       "hasProse": true
     },
     {
@@ -677,7 +677,7 @@
       "author": "Anthony Hope",
       "blurb": "An English traveller with a king's face must wear the crown, rescue his captive double, and surrender the princess he loves.",
       "data": "the-prisoner-of-zenda.pwk",
-      "dataBytes": 602055,
+      "dataBytes": 602119,
       "counts": {
         "characters": 18,
         "chapters": 22,
@@ -686,7 +686,7 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete original prose of all 22 chapters from Project Gutenberg eBook #95 (UTF-8 plain text, updated 21 December 2022; credits: Judith Boss); Gutenberg front and end matter are excluded. Scene divisions, summaries, calendar dates, fictional map geography, and all original generated illustrations are editorial.",
       "worldId": "prisoner-of-zenda-world",
-      "cover": "library/prisoner-of-zenda/art/world-cover.jpg",
+      "cover": "library/prisoner-of-zenda/art/world-cover.webp",
       "hasProse": true
     },
     {
@@ -695,7 +695,7 @@
       "author": "Dante Alighieri; translated by Henry Wadsworth Longfellow",
       "blurb": "Dante and Virgil climb the mountain where souls learn freedom through repentance, discipline, memory, and rightly ordered love.",
       "data": "purgatorio.pwk",
-      "dataBytes": 700653,
+      "dataBytes": 700840,
       "counts": {
         "characters": 50,
         "chapters": 33,
@@ -704,7 +704,7 @@
       },
       "notice": "Unofficial reading-mode edition of Henry Wadsworth Longfellow’s complete public-domain English translation of Purgatorio from Project Gutenberg eBook #1002. All 33 cantos, 4,755 poem verse lines, and eight lines of Longfellow’s translation note follow the source order; Gutenberg packaging, title material, contents, blank separators, and licence text are excluded. Scene divisions, chronology, four topographic maps, and 93 original generated illustrations are editorial.",
       "worldId": "purgatorio-world",
-      "cover": "library/purgatorio/art/world.png",
+      "cover": "library/purgatorio/art/world.webp",
       "hasProse": true
     },
     {
@@ -713,7 +713,7 @@
       "author": "Daniel Defoe",
       "blurb": "A restless voyager survives shipwreck and makes a life on an isolated island, where labour, faith, fear, encounter, and the hope of return transform twenty-eight years of exile.",
       "data": "robinson-crusoe.pwk",
-      "dataBytes": 1038889,
+      "dataBytes": 1038977,
       "counts": {
         "characters": 24,
         "chapters": 20,
@@ -722,7 +722,7 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete original prose of Project Gutenberg eBook 521; Gutenberg front matter, licence wrapper, contents, and end matter are excluded. The cover uses public-domain Walter Paget artwork; characters, locations, items, and maps use original generated period illustrations. Sources and editorial method are recorded in Lore.",
       "worldId": "robinson-crusoe-world",
-      "cover": "library/robinson-crusoe/art/paget-015.jpg",
+      "cover": "library/robinson-crusoe/art/paget-015.webp",
       "hasProse": true
     },
     {
@@ -731,7 +731,7 @@
       "author": "Baroness Orczy",
       "blurb": "A hidden English League races across revolutionary France while Marguerite Blakeney struggles to protect her brother, restore trust, and reach the Channel escape.",
       "data": "the-scarlet-pimpernel.pwk",
-      "dataBytes": 769071,
+      "dataBytes": 769107,
       "counts": {
         "characters": 15,
         "chapters": 31,
@@ -740,7 +740,7 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete narrative from Project Gutenberg eBook 60; Gutenberg front and end matter are excluded. Period cartography and public-domain illustration sources are linked in the file. Four linked historical and editorial maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "scarlet-pimpernel-world",
-      "cover": "library/the-scarlet-pimpernel/art/generated/cover.jpg",
+      "cover": "library/the-scarlet-pimpernel/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -749,7 +749,7 @@
       "author": "Frances Hodgson Burnett",
       "blurb": "An orphaned girl discovers a locked garden and a hidden cousin; restoring one hidden life awakens the other and draws a grieving family home.",
       "data": "the-secret-garden.pwk",
-      "dataBytes": 747636,
+      "dataBytes": 747686,
       "counts": {
         "characters": 12,
         "chapters": 27,
@@ -758,7 +758,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #17396, divided among the original 27 chapters and modeled events; Gutenberg packaging and editorial matter are excluded. Linked period maps, plans, and public-domain book illustrations are recorded in Lore. Four linked historical and editorial maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "secret-garden-world",
-      "cover": "library/the-secret-garden/art/generated/cover.jpg",
+      "cover": "library/the-secret-garden/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -767,7 +767,7 @@
       "author": "Arthur Conan Doyle",
       "blurb": "Mary Morstan’s missing father and anonymous pearls lead Holmes and Watson through a Norwood murder to an iron chest, the Agra treasure, and a pursuit on the Thames.",
       "data": "sign-of-the-four.pwk",
-      "dataBytes": 652986,
+      "dataBytes": 653120,
       "counts": {
         "characters": 25,
         "chapters": 12,
@@ -776,7 +776,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. Manuscript scenes reproduce the complete twelve-chapter narrative from Project Gutenberg eBook #2097, updated 6 April 2026; Gutenberg header, title/byline, contents list, end marker and licence are excluded. Structural divisions, chronology, six map layers and state notes are editorial. All 67 artwork and map assets were generated separately for this edition and documented in Lore and the artwork manifest.",
       "worldId": "sign-of-the-four-world",
-      "cover": "library/sign-of-the-four/art/world.png",
+      "cover": "library/sign-of-the-four/art/world.webp",
       "hasProse": true
     },
     {
@@ -785,7 +785,7 @@
       "author": "Robert Louis Stevenson",
       "blurb": "Utterson follows Hyde through doors, wills, murder evidence, chemical secrets, and sealed testimony toward Jekyll’s divided identity.",
       "data": "strange-case-of-dr-jekyll-and-mr-hyde.pwk",
-      "dataBytes": 386930,
+      "dataBytes": 386988,
       "counts": {
         "characters": 15,
         "chapters": 10,
@@ -794,7 +794,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text from Project Gutenberg eBook #43; Gutenberg packaging and the contents list are excluded. Structural summaries, event divisions, chronology, maps, and state notes are editorial. Four linked historical and editorial maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "jekyll-hyde-world",
-      "cover": "library/jekyll-hyde/art/generated/cover.jpg",
+      "cover": "library/jekyll-hyde/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -803,7 +803,7 @@
       "author": "Charles Dickens",
       "blurb": "Lucie Manette, Charles Darnay, and Sydney Carton are bound across London and Paris as private resurrection, inherited injustice, revolution, and chosen sacrifice converge.",
       "data": "a-tale-of-two-cities.pwk",
-      "dataBytes": 1132288,
+      "dataBytes": 1132357,
       "counts": {
         "characters": 25,
         "chapters": 45,
@@ -812,7 +812,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #98 across all 45 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore. The edition uses original generated illustrations, documented in Lore; linked historical maps are retained.",
       "worldId": "tale-of-two-cities-world",
-      "cover": "library/a-tale-of-two-cities/art/generated/cover.jpg",
+      "cover": "library/a-tale-of-two-cities/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -822,8 +822,8 @@
       "blurb": "A murdered agent’s cipher sends Richard Hannay from a London flat across the Galloway hills and back toward a secret waiting above the Kent coast.",
       "data": "the-thirty-nine-steps.pwk",
       "notice": "Unofficial reading-mode edition of a public-domain novel. Scene drafts reproduce the complete narrative text of John Buchan’s original English 1915 novel from Project Gutenberg eBook #558 (UTF-8 text updated 7 April 2021), including the dedication and all ten author-supplied chapter headings. Gutenberg packaging, duplicated title and contents, illustration placeholder, delimiters, and licence are excluded. Event divisions, intermediate chronology, maps, summaries, and all 77 original generated illustrations are editorial and documented in the book’s edition lore.",
-      "cover": "library/the-thirty-nine-steps/art/world.png",
-      "dataBytes": 542043,
+      "cover": "library/the-thirty-nine-steps/art/world.webp",
+      "dataBytes": 542197,
       "worldId": "thirty-nine-steps-world",
       "counts": {
         "characters": 21,
@@ -839,7 +839,7 @@
       "author": "Alexandre Dumas",
       "blurb": "A young Gascon joins Athos, Porthos, and Aramis as court secrets, English diamonds, Milady de Winter, and the siege of La Rochelle turn friendship into a test of loyalty.",
       "data": "the-three-musketeers.pwk",
-      "dataBytes": 1818826,
+      "dataBytes": 1818884,
       "counts": {
         "characters": 25,
         "chapters": 67,
@@ -848,7 +848,7 @@
       },
       "notice": "Unofficial reference for a public-domain novel. Manuscript scenes reproduce the complete English narrative from Project Gutenberg eBook 1257; Gutenberg front and end matter are excluded. Four linked historical maps are retained, and original generated artwork is documented in Lore.",
       "worldId": "three-musketeers-world",
-      "cover": "library/three-musketeers/art/generated/cover.jpg",
+      "cover": "library/three-musketeers/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -857,7 +857,7 @@
       "author": "H. G. Wells",
       "blurb": "A Victorian inventor travels to the year 802,701, where the Eloi, Morlocks, and a still more distant dying Earth overturn every simple faith in progress.",
       "data": "the-time-machine.pwk",
-      "dataBytes": 426821,
+      "dataBytes": 426861,
       "counts": {
         "characters": 14,
         "chapters": 17,
@@ -866,7 +866,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 35; Gutenberg packaging is excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore. Original generated illustrations and retained historical maps are documented in Lore.",
       "worldId": "time-machine-world",
-      "cover": "library/the-time-machine/art/generated/cover.jpg",
+      "cover": "library/the-time-machine/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -875,7 +875,7 @@
       "author": "Robert Louis Stevenson",
       "blurb": "Jim Hawkins follows a pirate map from the Admiral Benbow to the Hispaniola and a remote island where loyalty, mutiny, and buried treasure collide.",
       "data": "treasure-island.pwk",
-      "dataBytes": 787004,
+      "dataBytes": 787076,
       "counts": {
         "characters": 25,
         "chapters": 34,
@@ -884,7 +884,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #120 across all 34 chapters; Gutenberg packaging and front matter are excluded. Linked maps and public-domain illustrations are recorded in Lore. The original generated illustrations and four retained editorial maps are documented in Lore.",
       "worldId": "treasure-island-world",
-      "cover": "library/treasure-island/art/generated/cover.jpg",
+      "cover": "library/treasure-island/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -894,8 +894,8 @@
       "blurb": "A young governess’s uncanny reports at Bly entangle two children, an anxious housekeeper, and an absent guardian in a mystery of duty, suspicion, and uncertain testimony.",
       "data": "the-turn-of-the-screw.pwk",
       "notice": "Unofficial reading-mode edition containing the complete public-domain narrative from Project Gutenberg eBook 209. Original interpretive maps and generated illustrations are reading aids, not historical surveys. Approximate calendar placements and reported apparition presence are documented in Lore.",
-      "cover": "library/the-turn-of-the-screw/art/world.png",
-      "dataBytes": 472788,
+      "cover": "library/the-turn-of-the-screw/art/world.webp",
+      "dataBytes": 472910,
       "worldId": "turn-of-the-screw-world",
       "counts": {
         "characters": 10,
@@ -911,7 +911,7 @@
       "author": "Jules Verne",
       "blurb": "Aronnax, Conseil, and Ned Land become unwilling passengers aboard Captain Nemo’s Nautilus, crossing a hidden ocean world where discovery, captivity, compassion, and vengeance converge.",
       "data": "twenty-thousand-leagues-under-the-seas.pwk",
-      "dataBytes": 1231997,
+      "dataBytes": 1232100,
       "counts": {
         "characters": 16,
         "chapters": 46,
@@ -920,7 +920,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. The manuscript contains the complete narrative text of Project Gutenberg eBook #164 across all 46 chapters; Gutenberg packaging and front matter are excluded. The original generated illustrations, four retained maps, and archived public-domain illustration sources are recorded in Lore.",
       "worldId": "twenty-thousand-leagues-under-the-seas-world",
-      "cover": "library/twenty-thousand-leagues-under-the-seas/art/generated/cover.jpg",
+      "cover": "library/twenty-thousand-leagues-under-the-seas/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -929,7 +929,7 @@
       "author": "J.R.R. Tolkien",
       "blurb": "The Fellowship is broken. Follow three separate journeys as they diverge across Rohan, Fangorn and the Emyn Muil.",
       "data": "the-two-towers.pwk",
-      "dataBytes": 559816,
+      "dataBytes": 560032,
       "counts": {
         "characters": 67,
         "chapters": 21,
@@ -938,10 +938,10 @@
       },
       "notice": "Unofficial, fan-made reference. Structural notes only; no text from the book is included. Original book-based illustrations are shared where appropriate across the two volumes, with no repeated illustration within either book. Existing map layers remain available. Not affiliated with or endorsed by the author or publisher.",
       "images": "the-two-towers.pwb",
-      "imagesBytes": 7918693,
+      "imagesBytes": 6687429,
       "worldId": "mOlU8GWK_NGtK-STFFtqC",
       "hasProse": false,
-      "cover": "library/lotr-shared-art/generated/covers/174-the-two-towers.jpg"
+      "cover": "library/lotr-shared-art/generated/covers/174-the-two-towers.webp"
     },
     {
       "id": "the-undersong",
@@ -949,7 +949,7 @@
       "author": "Solomon Darko",
       "blurb": "In an Edwardian North Riding village, a wrong tide, a sound below hearing, and the records kept by a doctor, a schoolmistress, and a mine manager draw the coast toward an impossible low water.",
       "data": "the-undersong.pwk",
-      "dataBytes": 229753,
+      "dataBytes": 229844,
       "counts": {
         "characters": 11,
         "chapters": 8,
@@ -958,7 +958,7 @@
       },
       "notice": "Authorized reading-mode edition of an original English manuscript by Solomon Darko. Copyright © 2026 Solomon Darko. All rights reserved. The complete creator-supplied manuscript is retained in source order; editorial scene boundaries, chronology, maps, generated artwork, and validation provenance are documented in the included Lore and authoring audits.",
       "worldId": "the-undersong-world",
-      "cover": "library/the-undersong/art/world.png",
+      "cover": "library/the-undersong/art/world.webp",
       "hasProse": true
     },
     {
@@ -967,7 +967,7 @@
       "author": "H. G. Wells",
       "blurb": "Martian cylinders fall into the familiar landscape of Surrey and London, overturning Victorian confidence as separated witnesses struggle through invasion, flight, and occupation.",
       "data": "the-war-of-the-worlds.pwk",
-      "dataBytes": 645734,
+      "dataBytes": 645791,
       "counts": {
         "characters": 14,
         "chapters": 27,
@@ -976,7 +976,7 @@
       },
       "notice": "Unofficial reading-mode reference for a public-domain novel. It includes the complete novel text from Project Gutenberg eBook 36; Gutenberg packaging is excluded. Editorial scene divisions, chronology, maps, and illustration provenance are documented in Lore. The original generated illustrations and three retained period maps are documented in Lore.",
       "worldId": "war-of-the-worlds-world",
-      "cover": "library/the-war-of-the-worlds/art/generated/cover.jpg",
+      "cover": "library/the-war-of-the-worlds/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -985,7 +985,7 @@
       "author": "Patrick Rothfuss",
       "blurb": "The second day of Kvothe's telling: Vintas, the Eld, Ademre and Felurian.",
       "data": "the-wise-man-s-fear.pwk",
-      "dataBytes": 838231,
+      "dataBytes": 838429,
       "counts": {
         "characters": 80,
         "chapters": 154,
@@ -994,7 +994,7 @@
       },
       "notice": "Unofficial, fan-made reference. Structural notes only — no text from the book is included. Not affiliated with or endorsed by the author or publisher.",
       "worldId": "ag5-SfCGAP0HIVKimJBe7",
-      "cover": "library/the-wise-man-s-fear/art/generated/wmf01.jpg",
+      "cover": "library/the-wise-man-s-fear/art/generated/wmf01.webp",
       "hasProse": false
     },
     {
@@ -1003,7 +1003,7 @@
       "author": "Wilkie Collins",
       "blurb": "A drawing master, two half-sisters, and a woman escaped from confinement assemble the evidence behind a conspiracy of identity, inheritance, and law.",
       "data": "the-woman-in-white.pwk",
-      "dataBytes": 1784273,
+      "dataBytes": 1784325,
       "counts": {
         "characters": 18,
         "chapters": 62,
@@ -1012,7 +1012,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete narrative text from Project Gutenberg eBook #583, divided among all 62 modeled documentary sections; Gutenberg packaging and the contents list are excluded. Structural summaries, event divisions and chronology are editorial. Five historical maps remain linked in the file; superseded public-domain illustration sources are archived. The original generated illustrations and five retained historical maps are documented in Lore.",
       "worldId": "woman-in-white-world",
-      "cover": "library/the-woman-in-white/art/generated/cover.jpg",
+      "cover": "library/the-woman-in-white/art/generated/cover.webp",
       "hasProse": true
     },
     {
@@ -1021,7 +1021,7 @@
       "author": "L. Frank Baum",
       "blurb": "A cyclone, a road of yellow brick, and four travellers asking a wizard for the four things they already have.",
       "data": "the-wonderful-wizard-of-oz.pwk",
-      "dataBytes": 691614,
+      "dataBytes": 691730,
       "counts": {
         "characters": 21,
         "chapters": 24,
@@ -1030,7 +1030,7 @@
       },
       "notice": "Unofficial reading-mode edition of a public-domain novel. The manuscript contains the complete Project Gutenberg eBook #55 text, including Baum’s Introduction; Gutenberg packaging and illustration placeholders are excluded. Structural summaries, event divisions and the calendar are editorial. The 107 illustrations and six Oz maps were generated for this edition from the first book and are described in the book’s Lore. The Kansas map remains from the earlier edition.",
       "worldId": "wizard-of-oz-world",
-      "cover": "library/the-wonderful-wizard-of-oz/art/generated/cover/001-wizard-of-oz-world.jpg",
+      "cover": "library/the-wonderful-wizard-of-oz/art/generated/cover/001-wizard-of-oz-world.webp",
       "hasProse": true
     },
     {
@@ -1039,7 +1039,7 @@
       "author": "Emily Brontë",
       "blurb": "On the Yorkshire moors, the histories of the Earnshaw and Linton households are consumed by Heathcliff’s bond with Catherine and the revenge he carries into their children’s lives.",
       "data": "wuthering-heights.pwk",
-      "dataBytes": 915706,
+      "dataBytes": 915748,
       "counts": {
         "characters": 16,
         "chapters": 34,
@@ -1048,7 +1048,7 @@
       },
       "notice": "Unofficial reference for a public-domain novel. The original prose is public domain; manuscript scenes reproduce the complete narrative of all 34 chapters from Project Gutenberg eBook #768 (plain text, updated 6 May 2026; credits: David Price). Gutenberg front and end matter are excluded. Chapter titles, event descriptions, and the reconstructed calendar are editorial. All maps and entity artwork are original generated illustrations documented in Lore.",
       "worldId": "wuthering-heights-world",
-      "cover": "library/wuthering-heights/art/world-cover.jpg",
+      "cover": "library/wuthering-heights/art/world-cover.webp",
       "hasProse": true
     }
   ]

@@ -28,4 +28,4 @@ sheet("characters", sorted((ROOT / "library/inferno/art/characters").glob("*.png
 sheet("locations", sorted((ROOT / "library/inferno/art/locations").glob("*.png")), 5)
 sheet("items", sorted((ROOT / "library/inferno/art/items").glob("*.png")), 4)
 sheet("maps", sorted((ROOT / "library/inferno/maps").glob("*.png")), 3)
-sheet("world", [ROOT / "library/inferno/art/world.png"], 1)
+sheet("world", [ROOT / "library/inferno/art/world.webp"], 1)

@@ -1,3 +1,4 @@
+import {webpDimensions} from '../lib/webp.mjs'
 import fs from 'node:fs'
 import path from 'node:path'
 import crypto from 'node:crypto'
@@ -113,7 +114,7 @@ for (const map of data.mapLayers) {
   if (!blobs.has(map.imageId) || !map.imageWidth || !map.imageHeight) fail(`Map image invalid: ${map.id}`)
   const blob = data.blobs.find(x=>x.id===map.imageId)
   const png = fs.readFileSync(path.resolve(import.meta.dirname,'../..',blob.url))
-  if (blob.mimeType !== 'image/png' || png.toString('hex',0,8) !== '89504e470d0a1a0a' || png.readUInt32BE(16)!==map.imageWidth || png.readUInt32BE(20)!==map.imageHeight) fail(`Illustrated map dimensions invalid: ${map.id}`)
+  if (blob.mimeType !== 'image/webp' || png.toString('ascii',0,4) !== 'RIFF' || webpDimensions(png)[0]!==map.imageWidth || webpDimensions(png)[1]!==map.imageHeight) fail(`Illustrated map dimensions invalid: ${map.id}`)
   if (map.parentMapId) {
     const gates = data.locationMarkers.filter(x => x.linkedMapLayerId === map.id)
     if (!maps.has(map.parentMapId) || gates.length !== 1 || gates[0].mapLayerId !== map.parentMapId) fail(`Gateway invalid: ${map.id}`)

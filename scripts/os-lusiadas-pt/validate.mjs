@@ -1,3 +1,4 @@
+import {webpDimensions} from '../lib/webp.mjs'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import crypto from 'node:crypto'
@@ -86,8 +87,8 @@ for (const map of localized.mapLayers) {
   const blob = localized.blobs.find(row => row.id === map.imageId)
   assert.ok(blob?.url.startsWith('library/os-lusiadas-pt/maps/'), `Wrong map image ${map.id}`)
   const bytes = fs.readFileSync(path.join(root, blob.url))
-  assert.equal(bytes.readUInt32BE(16), map.imageWidth)
-  assert.equal(bytes.readUInt32BE(20), map.imageHeight)
+  assert.equal(webpDimensions(bytes)[0], map.imageWidth)
+  assert.equal(webpDimensions(bytes)[1], map.imageHeight)
 }
 assert.equal(artwork.sharedNonMapAssets, 158)
 assert.equal(artwork.assets.length, 8)

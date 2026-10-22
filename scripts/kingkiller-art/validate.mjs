@@ -27,11 +27,11 @@ for(const book of manifest.books){
     if(urls.has(blob.url))failures.push(`${book.short}: repeated URL ${blob.url}`);
     if(ids.has(id))failures.push(`${book.short}: repeated image ID ${id}`);
     urls.add(blob.url);ids.add(id);
-    if(!blob.url?.startsWith('library/')||!blob.url.endsWith('.jpg')||blob.mimeType!=='image/jpeg')failures.push(`${book.short}: invalid generated image blob ${id}`);
+    if(!blob.url?.startsWith('library/')||!blob.url.endsWith('.webp')||blob.mimeType!=='image/webp')failures.push(`${book.short}: invalid generated image blob ${id}`);
     const imageFile=path.join(root,...blob.url.split('/'));
     if(!fs.existsSync(imageFile)){failures.push(`${book.short}: missing ${blob.url}`);continue;}
     const bytes=fs.readFileSync(imageFile);
-    if(bytes.subarray(0,2).toString('hex')!=='ffd8'||bytes.subarray(-2).toString('hex')!=='ffd9')failures.push(`${book.short}: corrupt JPEG ${blob.url}`);
+    if(bytes.toString('ascii',0,4)!=='RIFF'||bytes.toString('ascii',8,12)!=='WEBP')failures.push(`${book.short}: corrupt WebP ${blob.url}`);
     const hash=crypto.createHash('sha256').update(bytes).digest('hex');
     if(hashes.has(hash))failures.push(`${book.short}: repeated image content ${hashes.get(hash)} and ${slot.name}`);
     hashes.set(hash,slot.name);

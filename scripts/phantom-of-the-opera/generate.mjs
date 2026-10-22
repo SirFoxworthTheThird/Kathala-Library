@@ -245,11 +245,11 @@ const goalData=[['christine','Protect Raoul without surrendering her conscience'
 const characterGoals=goalData.map(([c,text],i)=>({...stamp,id:ref('goal',String(i+1)),characterId:ref('char',c),startEventId:findEventForChar(c),endEventId:null,type:'primary',text}))
 
 const blobs=[]
-for(const [key] of mapDefs) blobs.push({id:ref('image',`map-${key}`),worldId:W,mimeType:'image/png',url:asset('maps',key),createdAt:now})
-for(const [key] of locations) blobs.push({id:ref('image',`location-${key}`),worldId:W,mimeType:'image/png',url:asset('art/locations',key),createdAt:now})
-for(const [key] of charDefs) blobs.push({id:ref('image',`character-${key}`),worldId:W,mimeType:'image/png',url:asset('art/characters',key),createdAt:now})
-for(const [key] of itemDefs) blobs.push({id:ref('image',`item-${key}`),worldId:W,mimeType:'image/png',url:asset('art/items',key),createdAt:now})
-blobs.push({id:ref('image','cover'),worldId:W,mimeType:'image/png',url:asset('art','world-cover'),createdAt:now})
+for(const [key] of mapDefs) blobs.push({id:ref('image',`map-${key}`),worldId:W,mimeType:'image/webp',url:asset('maps',key),createdAt:now})
+for(const [key] of locations) blobs.push({id:ref('image',`location-${key}`),worldId:W,mimeType:'image/webp',url:asset('art/locations',key),createdAt:now})
+for(const [key] of charDefs) blobs.push({id:ref('image',`character-${key}`),worldId:W,mimeType:'image/webp',url:asset('art/characters',key),createdAt:now})
+for(const [key] of itemDefs) blobs.push({id:ref('image',`item-${key}`),worldId:W,mimeType:'image/webp',url:asset('art/items',key),createdAt:now})
+blobs.push({id:ref('image','cover'),worldId:W,mimeType:'image/webp',url:asset('art','world-cover'),createdAt:now})
 
 const world={
  version:18,type:'world',exportedAt:now,

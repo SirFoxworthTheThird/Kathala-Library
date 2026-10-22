@@ -1,3 +1,4 @@
+import {webpDimensions} from '../lib/webp.mjs'
 import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import { mapDefs, places } from './map-model.mjs'
@@ -5,10 +6,11 @@ import { mapDefs, places } from './map-model.mjs'
 const maps=new Map(mapDefs.map(([key,parent])=>[key,{parent}]))
 assert.equal(maps.size,mapDefs.length)
 for(const [key,entry] of maps) {
-  const path=new URL(`../../library/os-lusiadas/maps/${key}.png`,import.meta.url)
+  const path=new URL(`../../library/os-lusiadas/maps/${key}.webp`,import.meta.url)
   const bytes=fs.readFileSync(path)
-  assert.equal(bytes.subarray(1,4).toString(),'PNG',`${key} PNG`)
-  entry.width=bytes.readUInt32BE(16);entry.height=bytes.readUInt32BE(20)
+  assert.equal(bytes.toString('ascii',0,4),'RIFF',`${key} WebP RIFF signature`)
+  assert.equal(bytes.toString('ascii',8,12),'WEBP',`${key} WebP format signature`)
+  entry.width=webpDimensions(bytes)[0];entry.height=webpDimensions(bytes)[1]
   assert.ok(entry.width>=1500&&entry.height>=1200,`${key} size`)
   if(entry.parent) {
     assert.ok(maps.has(entry.parent),`${key} parent exists`)
