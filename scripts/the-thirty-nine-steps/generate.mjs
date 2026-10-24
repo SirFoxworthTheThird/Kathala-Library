@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import {webpWidth,webpHeight} from '../lib/webp.mjs'
+import {repairWorldSnapshotStatuses} from '../lib/snapshot-status-quality.mjs'
 import { maps as mapDefs, locations as locationDefs, characters as characterDefs, items as itemDefs } from './world-ledger.mjs'
 import { sectionPlans } from './story-ledger.mjs'
 import { sourceSections, narrativeText, sourceEdition, sourceUrl, sourceSha256, normalize, countWords } from './source-text.mjs'
@@ -76,5 +77,6 @@ const cover=image('world','cover','art/world.webp').id
 const world={version:18,type:'world',exportedAt:now,world:{...stamp,id:W,name:'The Thirty-Nine Steps',description:'In the weeks before the First World War, a restless mining engineer inherits a murdered agent’s coded warning and races across Britain between police pursuit and a conspiracy hidden behind impeccable respectability.',coverImageId:cover,theme:'theme-action',readingMode:true,continuityStaleThreshold:5,wordTarget:countWords(narrativeText),calendar:{startYear:1914,yearSuffix:' (editorial chronology)',months:[['January',31],['February',28],['March',31],['April',30],['May',31],['June',30],['July',31],['August',31],['September',30],['October',31],['November',30],['December',31]].map(([name,days])=>({name,days}))}},mapLayers,locationMarkers,characters,items,characterSnapshots,itemPlacements,chapters,events,sceneTexts,blobs,relationships,relationshipSnapshots,timelines:[{...stamp,id:T,name:'Hannay’s Account',description:'The ten chapters in their original reading order, mapped onto the reconstructed calendar of May–August 1914.',color:'#765f46',dayOffset:0}],plotThreads,motifs,loreCategories,lorePages,knowledgeFacts,knowledgeReveals,factions,factionMemberships,characterGoals,mapRoutes}
 for(const k of ['characterMovements','locationSnapshots','itemSnapshots','travelModes','timelineRelationships','crossTimelineArtifacts','mapRegions','mapRegionSnapshots','mapAnnotations','factionRelationships','continuitySuppressions','writingLogs','sceneRevisions'])world[k]=[]
 if(normalize(sceneTexts.map(x=>x.text).join('\n\n'))!==normalize(narrativeText))throw Error('Source reconstruction failed')
+repairWorldSnapshotStatuses(world)
 fs.writeFileSync(new URL('../../library/the-thirty-nine-steps.pwk',import.meta.url),JSON.stringify(world,null,2)+'\n')
 console.log({chapters:chapters.length,events:events.length,words:sceneTexts.reduce((n,x)=>n+x.wordCount,0),characters:characters.length,locations:locationMarkers.length,maps:mapLayers.length,items:items.length,images:blobs.length,snapshots:characterSnapshots.length,sourceSha256})

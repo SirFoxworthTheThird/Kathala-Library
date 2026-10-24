@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import {webpWidth,webpHeight} from '../lib/webp.mjs'
+import {repairWorldSnapshotStatuses} from '../lib/snapshot-status-quality.mjs'
 import { maps, locations, characters as characterDefs, items as itemDefs } from './world-ledger.mjs'
 import { chapterPlans, withCuts } from './story-ledger.mjs'
 import { sourceSections, narrativeText, sourceEdition, sourceUrl, sourceFileSha256 as sourceSha256, normalize, countWords } from './source-text.mjs'
@@ -54,5 +55,6 @@ const cover=image('world','cover','art/world.webp').id
 const world={version:18,type:'world',exportedAt:now,world:{...stamp,id:W,name:'Kidnapped',description:'In Scotland after the Jacobite rising, a newly orphaned Lowland youth sets out to claim his place in a divided family and enters a country of dangerous seas, Highland loyalties, and contested law.',coverImageId:cover,theme:'theme-historical',readingMode:true,continuityStaleThreshold:5,wordTarget:countWords(narrativeText),calendar:{startYear:1751,yearSuffix:'',months:[{name:'January',days:31},{name:'February',days:28},{name:'March',days:31},{name:'April',days:30},{name:'May',days:31},{name:'June',days:30},{name:'July',days:31},{name:'August',days:31},{name:'September',days:30},{name:'October',days:31},{name:'November',days:30},{name:'December',days:31}]}},mapLayers,locationMarkers,characters,items,characterSnapshots,itemPlacements,chapters,events,sceneTexts,blobs,relationships,relationshipSnapshots,timelines:[{...stamp,id:T,name:'David Balfour’s Memoir',description:'The dedication and thirty chapters in their original reading order, using an editorial elapsed-day calendar.',color:'#5d704f',dayOffset:0}],plotThreads,motifs,loreCategories,lorePages,knowledgeFacts,knowledgeReveals,factions,factionMemberships,characterGoals,mapRoutes}
 for(const k of ['characterMovements','locationSnapshots','itemSnapshots','travelModes','timelineRelationships','crossTimelineArtifacts','mapRegions','mapRegionSnapshots','mapAnnotations','factionRelationships','continuitySuppressions','writingLogs','sceneRevisions'])world[k]=[]
 if(normalize(sceneTexts.map(x=>x.text).join('\n\n'))!==normalize(narrativeText))throw Error('Source reconstruction failed')
+repairWorldSnapshotStatuses(world)
 fs.writeFileSync(new URL('../../library/kidnapped.pwk',import.meta.url),JSON.stringify(world,null,2)+'\n')
 console.log({chapters:chapters.length,events:events.length,words:sceneTexts.reduce((n,x)=>n+x.wordCount,0),characters:characters.length,locations:locationMarkers.length,maps:mapLayers.length,items:items.length,images:blobs.length,snapshots:characterSnapshots.length,sourceSha256})

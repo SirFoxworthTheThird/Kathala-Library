@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import {webpWidth,webpHeight} from '../lib/webp.mjs'
+import {repairWorldSnapshotStatuses} from '../lib/snapshot-status-quality.mjs'
 import {maps,locations,characters as characterDefs,items as itemDefs} from './world-ledger.mjs'
 import {chapterPlans,withCuts} from './story-ledger.mjs'
 import {sourceSections,narrativeText,sourceEdition,sourceUrl,sourceFileSha256,normalize,countWords} from './source-text.mjs'
@@ -72,5 +73,6 @@ const mapRoutes=routeDefs.map(([k,name,map,points,routeType])=>({...stamp,id:id(
 const cover=image('world','cover','art/world.webp').id
 const world={version:18,type:'world',exportedAt:now,world:{...stamp,id:W,name:'The Call of Cthulhu',description:'Inherited papers draw a skeptical Boston scholar into a network of dreams, artifacts, police testimony, and maritime records whose fragments point beyond familiar history and geography.',coverImageId:cover,theme:'theme-horror',readingMode:true,continuityStaleThreshold:5,wordTarget:countWords(narrativeText),calendar:{startYear:1925,yearSuffix:'',months:[{name:'January',days:31},{name:'February',days:28},{name:'March',days:31},{name:'April',days:30},{name:'May',days:31},{name:'June',days:30},{name:'July',days:31},{name:'August',days:31},{name:'September',days:30},{name:'October',days:31},{name:'November',days:30},{name:'December',days:31}]}},mapLayers,locationMarkers,characters,items,characterSnapshots,itemPlacements,chapters,events,sceneTexts,blobs,relationships,relationshipSnapshots,timelines,plotThreads,motifs,loreCategories,lorePages,knowledgeFacts,knowledgeReveals,factions,factionMemberships,characterGoals,mapRoutes,characterMovements:[],continuitySuppressions:[],crossTimelineArtifacts:[],factionRelationships:[],itemSnapshots:[],locationSnapshots:[],mapAnnotations:[],mapRegionSnapshots:[],mapRegions:[],sceneRevisions:[],timelineRelationships:[],travelModes:[],writingLogs:[]}
 if(normalize(sceneTexts.map(s=>s.text).join('\n\n'))!==normalize(narrativeText))throw Error('Scene reconstruction failed')
+repairWorldSnapshotStatuses(world)
 fs.writeFileSync(new URL('../../library/call-of-cthulhu.pwk',import.meta.url),JSON.stringify(world))
 console.log(JSON.stringify({chapters:chapters.length,events:events.length,words:countWords(narrativeText),characters:characters.length,locations:locationMarkers.length,maps:mapLayers.length,items:items.length,images:blobs.length},null,2))

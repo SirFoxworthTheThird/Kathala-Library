@@ -1,5 +1,6 @@
 import fs from 'node:fs'
 import {webpWidth,webpHeight} from '../lib/webp.mjs'
+import {repairWorldSnapshotStatuses} from '../lib/snapshot-status-quality.mjs'
 import { maps, locations, characters as characterDefs, items as itemDefs } from './world-ledger.mjs'
 import { chapterPlans, withCuts } from './story-ledger.mjs'
 import { sourceSections, narrativeText, sourceEdition, sourceUrl, sourceSha256, normalize, countWords } from './source-text.mjs'
@@ -53,5 +54,6 @@ const cover=image('world','cover','art/world.webp').id
 const world={version:18,type:'world',exportedAt:now,world:{...stamp,id:W,name:'A Princess of Mars',description:'A Virginia soldier wakes beneath the twin moons of a dying world, where desert nations, airborne cities, and unfamiliar customs reshape every assumption he carries from Earth.',coverImageId:cover,theme:'theme-scifi',readingMode:true,continuityStaleThreshold:5,wordTarget:countWords(narrativeText),calendar:{startYear:0,yearSuffix:' A.B. (editorial)',months:[{name:'First Cycle',days:100},{name:'Second Cycle',days:100},{name:'Third Cycle',days:100},{name:'Fourth Cycle',days:100}]}},mapLayers,locationMarkers,characters,items,characterSnapshots,itemPlacements,chapters,events,sceneTexts,blobs,relationships,relationshipSnapshots,timelines:[{...stamp,id:T,name:'John Carter’s Account',description:'The foreword and twenty-eight chapters in their original reading order, using an editorial elapsed-day calendar.',color:'#9a553e',dayOffset:0}],plotThreads,motifs,loreCategories,lorePages,knowledgeFacts,knowledgeReveals,factions,factionMemberships,characterGoals,mapRoutes}
 for(const k of ['characterMovements','locationSnapshots','itemSnapshots','travelModes','timelineRelationships','crossTimelineArtifacts','mapRegions','mapRegionSnapshots','mapAnnotations','factionRelationships','continuitySuppressions','writingLogs','sceneRevisions'])world[k]=[]
 if(normalize(sceneTexts.map(x=>x.text).join('\n\n'))!==normalize(narrativeText))throw Error('Source reconstruction failed')
+repairWorldSnapshotStatuses(world)
 fs.writeFileSync(new URL('../../library/a-princess-of-mars.pwk',import.meta.url),JSON.stringify(world,null,2)+'\n')
 console.log({chapters:chapters.length,events:events.length,words:sceneTexts.reduce((n,x)=>n+x.wordCount,0),characters:characters.length,locations:locationMarkers.length,maps:mapLayers.length,items:items.length,images:blobs.length,snapshots:characterSnapshots.length,sourceSha256})
