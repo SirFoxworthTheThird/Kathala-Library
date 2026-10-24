@@ -1162,7 +1162,7 @@
       "inventoryNotes": "Carries or uses Mr Campbell’s Letter, David’s Purse.",
       "travelModeId": null,
       "sortKey": 1.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David leaves the minister who raised him and receives a letter for the House of Shaws."
+      "statusNotes": "Leaves Essendean with the letter identifying him to his uncle."
     },
     {
       "worldId": "kidnapped-world",
@@ -1178,7 +1178,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 1.01,
-      "statusNotes": "Mr Campbell guides David while david leaves the minister who raised him and receives a letter for the House of Shaws."
+      "statusNotes": "Gives David the letter for Shaws and counsel for his departure."
     },
     {
       "worldId": "kidnapped-world",
@@ -1196,7 +1196,7 @@
       "inventoryNotes": "Carries or uses Mr Campbell’s Letter.",
       "travelModeId": null,
       "sortKey": 1.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Travellers along the Edinburgh road react uneasily when David names his destination."
+      "statusNotes": "Hears uneasy responses to the name of Shaws along the road."
     },
     {
       "worldId": "kidnapped-world",
@@ -1214,7 +1214,7 @@
       "inventoryNotes": "Carries or uses Mr Campbell’s Letter.",
       "travelModeId": null,
       "sortKey": 1.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David reaches the neglected estate and calls through a barred door to its unseen master."
+      "statusNotes": "Calls at the barred door of the neglected estate."
     },
     {
       "worldId": "kidnapped-world",
@@ -1230,7 +1230,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 1.03,
-      "statusNotes": "Ebenezer Balfour protects his secret while david reaches the neglected estate and calls through a barred door to its unseen master."
+      "statusNotes": "Keeps the visitor outside while questioning him."
     },
     {
       "worldId": "kidnapped-world",
@@ -1246,7 +1246,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 2.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Neighbours describe Shaws and its solitary owner before David approaches the tower."
+      "statusNotes": "Learns that neighbours fear the house and its owner."
     },
     {
       "worldId": "kidnapped-world",
@@ -1264,7 +1264,7 @@
       "inventoryNotes": "Carries or uses Mr Campbell’s Letter.",
       "travelModeId": null,
       "sortKey": 2.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Ebenezer questions the stranger outside while keeping bolts and walls between them."
+      "statusNotes": "Answers his uncle through a door that remains bolted."
     },
     {
       "worldId": "kidnapped-world",
@@ -1280,7 +1280,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 2.02,
-      "statusNotes": "Ebenezer Balfour protects his secret while ebenezer questions the stranger outside while keeping bolts and walls between them."
+      "statusNotes": "Questions the stranger without admitting him."
     },
     {
       "worldId": "kidnapped-world",
@@ -1298,7 +1298,7 @@
       "inventoryNotes": "Carries or uses Mr Campbell’s Letter.",
       "travelModeId": null,
       "sortKey": 2.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The letter forces Ebenezer to acknowledge his nephew and offer grudging shelter."
+      "statusNotes": "Uses the letter to establish his claim to hospitality."
     },
     {
       "worldId": "kidnapped-world",
@@ -1314,7 +1314,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 2.03,
-      "statusNotes": "Ebenezer Balfour protects his secret while the letter forces Ebenezer to acknowledge his nephew and offer grudging shelter."
+      "statusNotes": "Acknowledges his nephew and reluctantly lets him in."
     },
     {
       "worldId": "kidnapped-world",
@@ -1330,7 +1330,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 3.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David studies his uncle’s meanness while Ebenezer probes what the boy knows."
+      "statusNotes": "Observes his uncle’s miserliness and suspicious questioning."
     },
     {
       "worldId": "kidnapped-world",
@@ -1348,7 +1348,7 @@
       "inventoryNotes": "Carries or uses Ebenezer’s Bible.",
       "travelModeId": null,
       "sortKey": 3.01,
-      "statusNotes": "Ebenezer Balfour protects his secret while david studies his uncle’s meanness while Ebenezer probes what the boy knows."
+      "statusNotes": "Probes the boy’s knowledge over a grudging supper."
     },
     {
       "worldId": "kidnapped-world",
@@ -1364,7 +1364,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 3.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Questions about David’s father expose fear beneath Ebenezer’s hostility."
+      "statusNotes": "Questions his uncle about his father and their family."
     },
     {
       "worldId": "kidnapped-world",
@@ -1380,7 +1380,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 3.02,
-      "statusNotes": "Ebenezer Balfour protects his secret while questions about David’s father expose fear beneath Ebenezer’s hostility."
+      "statusNotes": "Shows fear when David pursues the family history."
     },
     {
       "worldId": "kidnapped-world",
@@ -1396,7 +1396,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 3.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: From his sparse chamber, David weighs Ebenezer’s promise of information and money against the danger gathering in the house."
+      "statusNotes": "Weighs the promised information against the danger of remaining."
     },
     {
       "worldId": "kidnapped-world",
@@ -1412,7 +1412,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 3.03,
-      "statusNotes": "Ebenezer Balfour protects his secret while from his sparse chamber, David weighs Ebenezer’s promise of information and money against the danger gathering in the house."
+      "statusNotes": "Offers information and money while trying to control his nephew."
     },
     {
       "worldId": "kidnapped-world",
@@ -1428,7 +1428,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 4.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David climbs the unfinished tower stair without lamp or warning."
+      "statusNotes": "Climbs the unfinished stair without a lamp."
     },
     {
       "worldId": "kidnapped-world",
@@ -1444,7 +1444,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 4.01,
-      "statusNotes": "Ebenezer Balfour protects his secret while david climbs the unfinished tower stair without lamp or warning."
+      "statusNotes": "Sends David up a stair whose danger he does not disclose."
     },
     {
       "worldId": "kidnapped-world",
@@ -1460,7 +1460,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 4.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Wind and lightning reveal a fatal gap at the head of the stair just before David falls."
+      "statusNotes": "Sees the missing stair in a lightning flash and narrowly avoids falling."
     },
     {
       "worldId": "kidnapped-world",
@@ -1476,7 +1476,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 4.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David returns alive, forces Ebenezer to yield, and demands movement toward a lawyer."
+      "statusNotes": "Returns alive and insists on consulting a lawyer."
     },
     {
       "worldId": "kidnapped-world",
@@ -1492,7 +1492,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 4.03,
-      "statusNotes": "Ebenezer Balfour protects his secret while david returns alive, forces Ebenezer to yield, and demands movement toward a lawyer."
+      "statusNotes": "Loses control when his nephew survives the stair."
     },
     {
       "worldId": "kidnapped-world",
@@ -1508,7 +1508,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Ebenezer conducts David to the Forth while trying to recover control of their bargain."
+      "statusNotes": "Accompanies his uncle toward the Forth under their new agreement."
     },
     {
       "worldId": "kidnapped-world",
@@ -1524,7 +1524,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.01,
-      "statusNotes": "Ebenezer Balfour protects his secret while ebenezer conducts David to the Forth while trying to recover control of their bargain."
+      "statusNotes": "Leads David toward the port while seeking another advantage."
     },
     {
       "worldId": "kidnapped-world",
@@ -1540,7 +1540,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: A bruised cabin-boy brings Captain Hoseason’s invitation from the Covenant."
+      "statusNotes": "Meets the injured cabin-boy bearing an invitation."
     },
     {
       "worldId": "kidnapped-world",
@@ -1556,7 +1556,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.02,
-      "statusNotes": "Ebenezer Balfour protects his secret while a bruised cabin-boy brings Captain Hoseason’s invitation from the Covenant."
+      "statusNotes": "Receives Hoseason’s invitation in David’s company."
     },
     {
       "worldId": "kidnapped-world",
@@ -1572,7 +1572,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.02,
-      "statusNotes": "Ransome serves under fear while a bruised cabin-boy brings Captain Hoseason’s invitation from the Covenant."
+      "statusNotes": "Brings the captain’s message while showing signs of ill-treatment."
     },
     {
       "worldId": "kidnapped-world",
@@ -1588,7 +1588,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.02,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while a bruised cabin-boy brings Captain Hoseason’s invitation from the Covenant."
+      "statusNotes": "Sends an invitation from the Covenant through his cabin-boy."
     },
     {
       "worldId": "kidnapped-world",
@@ -1606,7 +1606,7 @@
       "inventoryNotes": "Carries or uses Mr Campbell’s Letter.",
       "travelModeId": null,
       "sortKey": 5.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Ebenezer and Hoseason confer while David learns that Rankeillor knows the Balfour family."
+      "statusNotes": "Learns that Rankeillor knows the family while his uncle speaks privately."
     },
     {
       "worldId": "kidnapped-world",
@@ -1622,7 +1622,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.03,
-      "statusNotes": "Ebenezer Balfour protects his secret while ebenezer and Hoseason confer while David learns that Rankeillor knows the Balfour family."
+      "statusNotes": "Confers with Hoseason away from his nephew."
     },
     {
       "worldId": "kidnapped-world",
@@ -1638,7 +1638,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.03,
-      "statusNotes": "Ransome serves under fear while ebenezer and Hoseason confer while David learns that Rankeillor knows the Balfour family."
+      "statusNotes": "Talks to David while the older men conduct their business."
     },
     {
       "worldId": "kidnapped-world",
@@ -1654,7 +1654,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 5.03,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while ebenezer and Hoseason confer while David learns that Rankeillor knows the Balfour family."
+      "statusNotes": "Negotiates privately with Ebenezer."
     },
     {
       "worldId": "kidnapped-world",
@@ -1670,7 +1670,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Hoseason coaxes David into visiting the brig before the tide changes."
+      "statusNotes": "Accepts the invitation to inspect the brig."
     },
     {
       "worldId": "kidnapped-world",
@@ -1686,7 +1686,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.01,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while hoseason coaxes David into visiting the brig before the tide changes."
+      "statusNotes": "Encourages David aboard before the tide changes."
     },
     {
       "worldId": "kidnapped-world",
@@ -1702,7 +1702,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.01,
-      "statusNotes": "Ransome serves under fear while hoseason coaxes David into visiting the brig before the tide changes."
+      "statusNotes": "Receives the visitor aboard the vessel where he serves."
     },
     {
       "worldId": "kidnapped-world",
@@ -1718,7 +1718,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David realizes the boat has left the quay while Hoseason delays every request to return."
+      "statusNotes": "Realizes the vessel is moving away and asks to return."
     },
     {
       "worldId": "kidnapped-world",
@@ -1734,7 +1734,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.02,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while david realizes the boat has left the quay while Hoseason delays every request to return."
+      "statusNotes": "Delays the requests to put his visitor ashore."
     },
     {
       "worldId": "kidnapped-world",
@@ -1750,7 +1750,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.02,
-      "statusNotes": "Ransome serves under fear while david realizes the boat has left the quay while Hoseason delays every request to return."
+      "statusNotes": "Remains aboard as the visitor becomes a captive."
     },
     {
       "worldId": "kidnapped-world",
@@ -1766,7 +1766,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: A blow ends David’s resistance as the Covenant gets under way with Ebenezer’s bargain complete."
+      "statusNotes": "Is struck down as the brig carries him away."
     },
     {
       "worldId": "kidnapped-world",
@@ -1782,7 +1782,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.03,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while a blow ends David’s resistance as the Covenant gets under way with Ebenezer’s bargain complete."
+      "statusNotes": "Takes the brig out with Ebenezer’s bargain fulfilled."
     },
     {
       "worldId": "kidnapped-world",
@@ -1798,7 +1798,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.03,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while a blow ends David’s resistance as the Covenant gets under way with Ebenezer’s bargain complete."
+      "statusNotes": "Is among the officers exercising violence aboard the brig."
     },
     {
       "worldId": "kidnapped-world",
@@ -1814,7 +1814,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 6.03,
-      "statusNotes": "Ransome serves under fear while a blow ends David’s resistance as the Covenant gets under way with Ebenezer’s bargain complete."
+      "statusNotes": "Sees the new captive brought under the crew’s power."
     },
     {
       "worldId": "kidnapped-world",
@@ -1830,7 +1830,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David wakes injured and desperately sick in the brig’s hold."
+      "statusNotes": "Wakes injured and seasick in the hold."
     },
     {
       "worldId": "kidnapped-world",
@@ -1846,7 +1846,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.01,
-      "statusNotes": "Mr Riach balances conscience and obedience while david wakes injured and desperately sick in the brig’s hold."
+      "statusNotes": "Finds the captive in a condition that threatens his life."
     },
     {
       "worldId": "kidnapped-world",
@@ -1862,7 +1862,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The second mate insists that David must have air and humane treatment if he is to live."
+      "statusNotes": "Needs air and care after confinement below."
     },
     {
       "worldId": "kidnapped-world",
@@ -1878,7 +1878,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.02,
-      "statusNotes": "Mr Riach balances conscience and obedience while the second mate insists that David must have air and humane treatment if he is to live."
+      "statusNotes": "Insists on humane treatment to keep David alive."
     },
     {
       "worldId": "kidnapped-world",
@@ -1894,7 +1894,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.02,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while the second mate insists that David must have air and humane treatment if he is to live."
+      "statusNotes": "Faces his second mate’s demand to improve the captive’s conditions."
     },
     {
       "worldId": "kidnapped-world",
@@ -1910,7 +1910,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Moved forward, David learns he is cargo intended for sale into colonial service."
+      "statusNotes": "Learns that he is to be sold into colonial service."
     },
     {
       "worldId": "kidnapped-world",
@@ -1926,7 +1926,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.03,
-      "statusNotes": "Mr Riach balances conscience and obedience while moved forward, David learns he is cargo intended for sale into colonial service."
+      "statusNotes": "Explains the fate intended for the captive."
     },
     {
       "worldId": "kidnapped-world",
@@ -1942,7 +1942,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.03,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while moved forward, David learns he is cargo intended for sale into colonial service."
+      "statusNotes": "Carries David toward sale under the kidnapping arrangement."
     },
     {
       "worldId": "kidnapped-world",
@@ -1958,7 +1958,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 7.03,
-      "statusNotes": "Ransome serves under fear while moved forward, David learns he is cargo intended for sale into colonial service."
+      "statusNotes": "Shares knowledge of shipboard life with the boy brought forward."
     },
     {
       "worldId": "kidnapped-world",
@@ -1974,7 +1974,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David recovers among sailors and observes the fear surrounding Mr Shuan."
+      "statusNotes": "Recovers among the sailors and notices their fear of Shuan."
     },
     {
       "worldId": "kidnapped-world",
@@ -1990,7 +1990,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.01,
-      "statusNotes": "Mr Riach balances conscience and obedience while david recovers among sailors and observes the fear surrounding Mr Shuan."
+      "statusNotes": "Maintains contact with the recovering captive."
     },
     {
       "worldId": "kidnapped-world",
@@ -2006,7 +2006,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.01,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while david recovers among sailors and observes the fear surrounding Mr Shuan."
+      "statusNotes": "Inspires fear among the men and the cabin-boy."
     },
     {
       "worldId": "kidnapped-world",
@@ -2022,7 +2022,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.01,
-      "statusNotes": "Ransome serves under fear while david recovers among sailors and observes the fear surrounding Mr Shuan."
+      "statusNotes": "Works under the threat of Shuan’s violence."
     },
     {
       "worldId": "kidnapped-world",
@@ -2038,7 +2038,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Ransome’s wounds and obedience reveal the violence he endures."
+      "statusNotes": "Sees how Ransome’s injuries and obedience reflect repeated abuse."
     },
     {
       "worldId": "kidnapped-world",
@@ -2054,7 +2054,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.02,
-      "statusNotes": "Ransome serves under fear while ransome’s wounds and obedience reveal the violence he endures."
+      "statusNotes": "Bears injuries and obeys out of fear."
     },
     {
       "worldId": "kidnapped-world",
@@ -2070,7 +2070,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.02,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while ransome’s wounds and obedience reveal the violence he endures."
+      "statusNotes": "Threatens the cabin-boy through his drunken violence."
     },
     {
       "worldId": "kidnapped-world",
@@ -2086,7 +2086,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.02,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while ransome’s wounds and obedience reveal the violence he endures."
+      "statusNotes": "Allows the brutal shipboard hierarchy to continue under his command."
     },
     {
       "worldId": "kidnapped-world",
@@ -2102,7 +2102,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Shuan kills Ransome during a drunken rage, and the officers close ranks around the death."
+      "statusNotes": "Learns that the cabin-boy has been killed."
     },
     {
       "worldId": "kidnapped-world",
@@ -2118,7 +2118,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.03,
-      "statusNotes": "Ransome serves under fear while shuan kills Ransome during a drunken rage, and the officers close ranks around the death."
+      "statusNotes": "Dies from Shuan’s drunken assault."
     },
     {
       "worldId": "kidnapped-world",
@@ -2134,7 +2134,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.03,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while shuan kills Ransome during a drunken rage, and the officers close ranks around the death."
+      "statusNotes": "Kills the cabin-boy in a drunken rage."
     },
     {
       "worldId": "kidnapped-world",
@@ -2150,7 +2150,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.03,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while shuan kills Ransome during a drunken rage, and the officers close ranks around the death."
+      "statusNotes": "Contains the consequences of a death aboard his vessel."
     },
     {
       "worldId": "kidnapped-world",
@@ -2166,7 +2166,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 8.03,
-      "statusNotes": "Mr Riach balances conscience and obedience while shuan kills Ransome during a drunken rage, and the officers close ranks around the death."
+      "statusNotes": "Joins the officers dealing with the killing."
     },
     {
       "worldId": "kidnapped-world",
@@ -2182,7 +2182,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David assumes the dead boy’s work as weather and tempers worsen."
+      "statusNotes": "Takes over the dead boy’s galley duties."
     },
     {
       "worldId": "kidnapped-world",
@@ -2198,7 +2198,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.01,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while david assumes the dead boy’s work as weather and tempers worsen."
+      "statusNotes": "Uses David to fill the vacant place in the crew."
     },
     {
       "worldId": "kidnapped-world",
@@ -2214,7 +2214,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.01,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while david assumes the dead boy’s work as weather and tempers worsen."
+      "statusNotes": "Remains aboard after killing the former cabin-boy."
     },
     {
       "worldId": "kidnapped-world",
@@ -2230,7 +2230,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.01,
-      "statusNotes": "Mr Riach balances conscience and obedience while david assumes the dead boy’s work as weather and tempers worsen."
+      "statusNotes": "Continues serving while David assumes the galley work."
     },
     {
       "worldId": "kidnapped-world",
@@ -2246,7 +2246,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The Covenant rescues Alan Breck Stewart, who bargains for passage while the officers mark the belt beneath his coat."
+      "statusNotes": "Meets the man rescued from the sea."
     },
     {
       "worldId": "kidnapped-world",
@@ -2262,7 +2262,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.02,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while the Covenant rescues Alan Breck Stewart, who bargains for passage while the officers mark the belt beneath his coat."
+      "statusNotes": "Agrees passage while noticing the rescued man’s gold."
     },
     {
       "worldId": "kidnapped-world",
@@ -2282,7 +2282,7 @@
       "inventoryNotes": "Carries or uses Belt of Gold, Alan’s Sword, Alan’s Pistols.",
       "travelModeId": null,
       "sortKey": 9.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the Covenant rescues Alan Breck Stewart, who bargains for passage while the officers mark the belt beneath his coat."
+      "statusNotes": "Bargains for passage after rescue from the wrecked boat."
     },
     {
       "worldId": "kidnapped-world",
@@ -2300,7 +2300,7 @@
       "inventoryNotes": "Carries or uses David’s Dirk.",
       "travelModeId": null,
       "sortKey": 9.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David overhears the murder plan, warns Alan, and helps prepare the round-house for defence."
+      "statusNotes": "Warns Alan of the plot and helps prepare the round-house."
     },
     {
       "worldId": "kidnapped-world",
@@ -2320,7 +2320,7 @@
       "inventoryNotes": "Carries or uses Belt of Gold, Alan’s Sword, Alan’s Pistols.",
       "travelModeId": null,
       "sortKey": 9.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david overhears the murder plan, warns Alan, and helps prepare the round-house for defence."
+      "statusNotes": "Trusts David’s warning and organizes their defence."
     },
     {
       "worldId": "kidnapped-world",
@@ -2336,7 +2336,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.03,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while david overhears the murder plan, warns Alan, and helps prepare the round-house for defence."
+      "statusNotes": "Plots against the passenger whose money he covets."
     },
     {
       "worldId": "kidnapped-world",
@@ -2352,7 +2352,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.03,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while david overhears the murder plan, warns Alan, and helps prepare the round-house for defence."
+      "statusNotes": "Is among the officers preparing the attack."
     },
     {
       "worldId": "kidnapped-world",
@@ -2368,7 +2368,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 9.03,
-      "statusNotes": "Mr Riach balances conscience and obedience while david overhears the murder plan, warns Alan, and helps prepare the round-house for defence."
+      "statusNotes": "Is implicated in the officers’ plan against Alan."
     },
     {
       "worldId": "kidnapped-world",
@@ -2386,7 +2386,7 @@
       "inventoryNotes": "Carries or uses David’s Dirk.",
       "travelModeId": null,
       "sortKey": 10.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The crew rushes the round-house and meets Alan’s sword and David’s fire."
+      "statusNotes": "Defends the round-house with firearms."
     },
     {
       "worldId": "kidnapped-world",
@@ -2405,7 +2405,7 @@
       "inventoryNotes": "Carries or uses Alan’s Sword, Alan’s Pistols.",
       "travelModeId": null,
       "sortKey": 10.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the crew rushes the round-house and meets Alan’s sword and David’s fire."
+      "statusNotes": "Meets the attackers with his sword."
     },
     {
       "worldId": "kidnapped-world",
@@ -2421,7 +2421,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 10.01,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while the crew rushes the round-house and meets Alan’s sword and David’s fire."
+      "statusNotes": "Commands the crew attempting to overcome the defenders."
     },
     {
       "worldId": "kidnapped-world",
@@ -2437,7 +2437,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 10.01,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while the crew rushes the round-house and meets Alan’s sword and David’s fire."
+      "statusNotes": "Takes part in the attack on the round-house."
     },
     {
       "worldId": "kidnapped-world",
@@ -2453,7 +2453,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 10.01,
-      "statusNotes": "Mr Riach balances conscience and obedience while the crew rushes the round-house and meets Alan’s sword and David’s fire."
+      "statusNotes": "Joins the officers opposing the two defenders."
     },
     {
       "worldId": "kidnapped-world",
@@ -2471,7 +2471,7 @@
       "inventoryNotes": "Carries or uses David’s Dirk.",
       "travelModeId": null,
       "sortKey": 10.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan holds the entrance while David guards the skylight and reloads."
+      "statusNotes": "Watches the skylight and reloads the weapons."
     },
     {
       "worldId": "kidnapped-world",
@@ -2490,7 +2490,7 @@
       "inventoryNotes": "Carries or uses Alan’s Sword, Alan’s Pistols.",
       "travelModeId": null,
       "sortKey": 10.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan holds the entrance while David guards the skylight and reloads."
+      "statusNotes": "Holds the entrance with his sword."
     },
     {
       "worldId": "kidnapped-world",
@@ -2506,7 +2506,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 10.02,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while alan holds the entrance while David guards the skylight and reloads."
+      "statusNotes": "Confronts the armed defence at the round-house."
     },
     {
       "worldId": "kidnapped-world",
@@ -2522,7 +2522,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 10.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Shuan falls and the surviving officers withdraw, leaving the defenders in command of the stern."
+      "statusNotes": "Survives the assault holding the stern with Alan."
     },
     {
       "worldId": "kidnapped-world",
@@ -2540,7 +2540,7 @@
       "inventoryNotes": "Carries or uses Alan’s Sword.",
       "travelModeId": null,
       "sortKey": 10.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while shuan falls and the surviving officers withdraw, leaving the defenders in command of the stern."
+      "statusNotes": "Wins control of the stern after repelling the crew."
     },
     {
       "worldId": "kidnapped-world",
@@ -2556,7 +2556,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 10.03,
-      "statusNotes": "Mr Shuan brings dangerous volatility to while shuan falls and the surviving officers withdraw, leaving the defenders in command of the stern."
+      "statusNotes": "Falls in the fighting."
     },
     {
       "worldId": "kidnapped-world",
@@ -2572,7 +2572,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 10.03,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while shuan falls and the surviving officers withdraw, leaving the defenders in command of the stern."
+      "statusNotes": "Withdraws after the attack fails."
     },
     {
       "worldId": "kidnapped-world",
@@ -2588,7 +2588,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 10.03,
-      "statusNotes": "Mr Riach balances conscience and obedience while shuan falls and the surviving officers withdraw, leaving the defenders in command of the stern."
+      "statusNotes": "Retreats with the surviving officers."
     },
     {
       "worldId": "kidnapped-world",
@@ -2604,7 +2604,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 11.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Hoseason negotiates food, movement, and safety with the men he tried to murder."
+      "statusNotes": "Receives terms for food and safety after the fight."
     },
     {
       "worldId": "kidnapped-world",
@@ -2620,7 +2620,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 11.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while hoseason negotiates food, movement, and safety with the men he tried to murder."
+      "statusNotes": "Negotiates from the position won by their defence."
     },
     {
       "worldId": "kidnapped-world",
@@ -2636,7 +2636,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 11.01,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while hoseason negotiates food, movement, and safety with the men he tried to murder."
+      "statusNotes": "Bargains with the passengers his crew failed to kill."
     },
     {
       "worldId": "kidnapped-world",
@@ -2652,7 +2652,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 11.01,
-      "statusNotes": "Mr Riach balances conscience and obedience while hoseason negotiates food, movement, and safety with the men he tried to murder."
+      "statusNotes": "Helps maintain the guarded truce after the failed attack."
     },
     {
       "worldId": "kidnapped-world",
@@ -2670,7 +2670,7 @@
       "inventoryNotes": "Carries or uses Silver Button.",
       "travelModeId": null,
       "sortKey": 11.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan and David exchange histories while a guarded truce settles over the brig."
+      "statusNotes": "Exchanges his history with his new ally."
     },
     {
       "worldId": "kidnapped-world",
@@ -2688,7 +2688,7 @@
       "inventoryNotes": "Carries or uses Belt of Gold.",
       "travelModeId": null,
       "sortKey": 11.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan and David exchange histories while a guarded truce settles over the brig."
+      "statusNotes": "Tells David his own history during the truce."
     },
     {
       "worldId": "kidnapped-world",
@@ -2704,7 +2704,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 11.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The Covenant turns toward the western islands under an agreement to land Alan."
+      "statusNotes": "Travels toward the islands under the new agreement."
     },
     {
       "worldId": "kidnapped-world",
@@ -2720,7 +2720,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 11.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the Covenant turns toward the western islands under an agreement to land Alan."
+      "statusNotes": "Has secured an agreement to be landed in the west."
     },
     {
       "worldId": "kidnapped-world",
@@ -2736,7 +2736,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 11.03,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while the Covenant turns toward the western islands under an agreement to land Alan."
+      "statusNotes": "Changes course under the negotiated landing arrangement."
     },
     {
       "worldId": "kidnapped-world",
@@ -2752,7 +2752,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan explains the divided Highlands and his hatred of Colin Campbell."
+      "statusNotes": "Learns the clan grievances behind Alan’s hostility."
     },
     {
       "worldId": "kidnapped-world",
@@ -2768,7 +2768,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan explains the divided Highlands and his hatred of Colin Campbell."
+      "statusNotes": "Explains his hatred of Glenure and the divisions in the Highlands."
     },
     {
       "worldId": "kidnapped-world",
@@ -2784,7 +2784,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.01,
-      "statusNotes": "Colin Campbell of Glenure represents Crown authority while alan explains the divided Highlands and his hatred of Colin Campbell."
+      "statusNotes": "Is described in Alan’s account as the hated Red Fox."
     },
     {
       "worldId": "kidnapped-world",
@@ -2800,7 +2800,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.01,
-      "statusNotes": "James Stewart weighs clan duty while alan explains the divided Highlands and his hatred of Colin Campbell."
+      "statusNotes": "Is identified through the account of Stewart loyalties and grievances."
     },
     {
       "worldId": "kidnapped-world",
@@ -2816,7 +2816,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David’s Whig principles and Alan’s Jacobitism test their new friendship."
+      "statusNotes": "Defends his Whig principles to his Jacobite companion."
     },
     {
       "worldId": "kidnapped-world",
@@ -2832,7 +2832,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david’s Whig principles and Alan’s Jacobitism test their new friendship."
+      "statusNotes": "Argues for the loyalty that divides him politically from David."
     },
     {
       "worldId": "kidnapped-world",
@@ -2848,7 +2848,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The brig enters dangerous waters while Hoseason relies on Alan’s local knowledge."
+      "statusNotes": "Faces an increasingly dangerous passage among the islands."
     },
     {
       "worldId": "kidnapped-world",
@@ -2864,7 +2864,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the brig enters dangerous waters while Hoseason relies on Alan’s local knowledge."
+      "statusNotes": "Supplies local knowledge for the difficult navigation."
     },
     {
       "worldId": "kidnapped-world",
@@ -2880,7 +2880,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.03,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while the brig enters dangerous waters while Hoseason relies on Alan’s local knowledge."
+      "statusNotes": "Relies on his passenger’s knowledge of the waters."
     },
     {
       "worldId": "kidnapped-world",
@@ -2896,7 +2896,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 12.03,
-      "statusNotes": "Mr Riach balances conscience and obedience while the brig enters dangerous waters while Hoseason relies on Alan’s local knowledge."
+      "statusNotes": "Serves on the brig as uncertain navigation brings it near the reefs."
     },
     {
       "worldId": "kidnapped-world",
@@ -2912,7 +2912,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Wind, darkness, and uncertain bearings drive the Covenant into the reef."
+      "statusNotes": "Endures the approach to the rocks in darkness."
     },
     {
       "worldId": "kidnapped-world",
@@ -2928,7 +2928,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while wind, darkness, and uncertain bearings drive the Covenant into the reef."
+      "statusNotes": "Tries to help guide the vessel through familiar waters."
     },
     {
       "worldId": "kidnapped-world",
@@ -2944,7 +2944,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.01,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while wind, darkness, and uncertain bearings drive the Covenant into the reef."
+      "statusNotes": "Attempts to navigate the brig amid uncertain bearings."
     },
     {
       "worldId": "kidnapped-world",
@@ -2960,7 +2960,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.01,
-      "statusNotes": "Mr Riach balances conscience and obedience while wind, darkness, and uncertain bearings drive the Covenant into the reef."
+      "statusNotes": "Works aboard the ship as the reef danger closes."
     },
     {
       "worldId": "kidnapped-world",
@@ -2976,7 +2976,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The hull breaks upon the rocks and every alliance gives way to survival."
+      "statusNotes": "Is caught in the wreck of the Covenant."
     },
     {
       "worldId": "kidnapped-world",
@@ -2992,7 +2992,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the hull breaks upon the rocks and every alliance gives way to survival."
+      "statusNotes": "Loses the security of the truce when the hull breaks."
     },
     {
       "worldId": "kidnapped-world",
@@ -3008,7 +3008,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.02,
-      "statusNotes": "Captain Elias Hoseason asserts a captain’s authority while the hull breaks upon the rocks and every alliance gives way to survival."
+      "statusNotes": "Must confront the wreck of the ship he commands."
     },
     {
       "worldId": "kidnapped-world",
@@ -3024,7 +3024,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.02,
-      "statusNotes": "Mr Riach balances conscience and obedience while the hull breaks upon the rocks and every alliance gives way to survival."
+      "statusNotes": "Faces the struggle to survive the breaking vessel."
     },
     {
       "worldId": "kidnapped-world",
@@ -3040,7 +3040,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 13.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David clings to wreckage and loses sight of Alan and the ship in the surf."
+      "statusNotes": "Clings to wreckage and loses sight of Alan in the surf."
     },
     {
       "worldId": "kidnapped-world",
@@ -3058,7 +3058,7 @@
       "inventoryNotes": "Carries or uses David’s Purse.",
       "travelModeId": null,
       "sortKey": 14.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David wakes on a barren islet with little food and no clear way ashore."
+      "statusNotes": "Wakes isolated with little food and no apparent route off the islet."
     },
     {
       "worldId": "kidnapped-world",
@@ -3074,7 +3074,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 14.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Repeated efforts to escape fail because David mistakes a tidal channel for open sea."
+      "statusNotes": "Fails to recognize that the channel can be crossed at low tide."
     },
     {
       "worldId": "kidnapped-world",
@@ -3090,7 +3090,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 14.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Local fishers show that the strait can be crossed on foot when the tide withdraws."
+      "statusNotes": "Learns from fishers that he can leave on foot when the tide falls."
     },
     {
       "worldId": "kidnapped-world",
@@ -3108,7 +3108,7 @@
       "inventoryNotes": "Carries or uses Silver Button.",
       "travelModeId": null,
       "sortKey": 15.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David walks through wet country seeking news of Alan and a route to the mainland."
+      "statusNotes": "Walks across Mull in search of Alan and a mainland passage."
     },
     {
       "worldId": "kidnapped-world",
@@ -3124,7 +3124,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 15.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The catechist feeds David and explains local names, dangers, and sympathies."
+      "statusNotes": "Receives food and information from the catechist."
     },
     {
       "worldId": "kidnapped-world",
@@ -3140,7 +3140,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 15.02,
-      "statusNotes": "Henderland takes a distinct part while the catechist feeds David and explains local names, dangers, and sympathies."
+      "statusNotes": "Feeds David and explains the district and its loyalties."
     },
     {
       "worldId": "kidnapped-world",
@@ -3159,7 +3159,7 @@
       "inventoryNotes": "Carries or uses Silver Button, Button Messages.",
       "travelModeId": null,
       "sortKey": 15.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: A chain of guarded messages directs David onward without openly naming Alan."
+      "statusNotes": "Follows guarded directions connected to Alan’s token."
     },
     {
       "worldId": "kidnapped-world",
@@ -3175,7 +3175,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 15.03,
-      "statusNotes": "Henderland takes a distinct part while a chain of guarded messages directs David onward without openly naming Alan."
+      "statusNotes": "Helps direct David toward those who can assist him."
     },
     {
       "worldId": "kidnapped-world",
@@ -3191,7 +3191,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 15.03,
-      "statusNotes": "John Breck MacColl takes a distinct part while a chain of guarded messages directs David onward without openly naming Alan."
+      "statusNotes": "Becomes a link in the route leading David onward."
     },
     {
       "worldId": "kidnapped-world",
@@ -3209,7 +3209,7 @@
       "inventoryNotes": "Carries or uses Silver Button.",
       "travelModeId": null,
       "sortKey": 16.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Boatmen and sympathizers carry David across water and along watched tracks."
+      "statusNotes": "Travels with help through watched country and crossings."
     },
     {
       "worldId": "kidnapped-world",
@@ -3225,7 +3225,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 16.01,
-      "statusNotes": "John Breck MacColl takes a distinct part while boatmen and sympathizers carry David across water and along watched tracks."
+      "statusNotes": "Helps guide the traveler toward his next passage."
     },
     {
       "worldId": "kidnapped-world",
@@ -3241,7 +3241,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 16.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The blind catechist welcomes David with Gaelic music and questions."
+      "statusNotes": "Receives hospitality in the blind catechist’s home."
     },
     {
       "worldId": "kidnapped-world",
@@ -3257,7 +3257,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 16.02,
-      "statusNotes": "Duncan Mackiegh takes a distinct part while the blind catechist welcomes David with Gaelic music and questions."
+      "statusNotes": "Welcomes David with questions and Gaelic music."
     },
     {
       "worldId": "kidnapped-world",
@@ -3276,7 +3276,7 @@
       "inventoryNotes": "Carries or uses Silver Button, Button Messages.",
       "travelModeId": null,
       "sortKey": 16.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Neil Roy recognizes the token and arranges the final steps toward Appin."
+      "statusNotes": "Presents the token that confirms his connection to Alan."
     },
     {
       "worldId": "kidnapped-world",
@@ -3292,7 +3292,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 16.03,
-      "statusNotes": "Neil Roy Macrob takes a distinct part while neil Roy recognizes the token and arranges the final steps toward Appin."
+      "statusNotes": "Recognizes the token and arranges David’s onward route."
     },
     {
       "worldId": "kidnapped-world",
@@ -3308,7 +3308,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 17.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David enters a district tense with evictions, soldiers, and clan resentment."
+      "statusNotes": "Enters the tense district where evictions have deepened clan resentment."
     },
     {
       "worldId": "kidnapped-world",
@@ -3324,7 +3324,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 17.01,
-      "statusNotes": "Colin Campbell of Glenure represents Crown authority while david enters a district tense with evictions, soldiers, and clan resentment."
+      "statusNotes": "Travels through the district where his work has made him hated."
     },
     {
       "worldId": "kidnapped-world",
@@ -3340,7 +3340,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 17.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Colin Campbell is killed on the road as David stands nearby."
+      "statusNotes": "Witnesses the road ambush from nearby."
     },
     {
       "worldId": "kidnapped-world",
@@ -3356,7 +3356,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 17.02,
-      "statusNotes": "Colin Campbell of Glenure represents Crown authority while colin Campbell is killed on the road as David stands nearby."
+      "statusNotes": "Is killed by the shot from the wood."
     },
     {
       "worldId": "kidnapped-world",
@@ -3372,7 +3372,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 17.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan pulls David away before soldiers can seize them as suspects."
+      "statusNotes": "Is pulled away before soldiers can arrest him."
     },
     {
       "worldId": "kidnapped-world",
@@ -3388,7 +3388,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 17.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan pulls David away before soldiers can seize them as suspects."
+      "statusNotes": "Takes David into flight from the murder scene."
     },
     {
       "worldId": "kidnapped-world",
@@ -3404,7 +3404,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 17.03,
-      "statusNotes": "Colin Campbell of Glenure represents Crown authority while alan pulls David away before soldiers can seize them as suspects."
+      "statusNotes": "Lies dead at the scene from which the two men flee."
     },
     {
       "worldId": "kidnapped-world",
@@ -3420,7 +3420,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 18.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David demands to know whether Alan had foreknowledge of the killing."
+      "statusNotes": "Demands to know whether Alan knew of the murder plan."
     },
     {
       "worldId": "kidnapped-world",
@@ -3436,7 +3436,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 18.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david demands to know whether Alan had foreknowledge of the killing."
+      "statusNotes": "Faces questions about his knowledge of Glenure’s death."
     },
     {
       "worldId": "kidnapped-world",
@@ -3452,7 +3452,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 18.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan denies participation but refuses the kind of answer David wants."
+      "statusNotes": "Is dissatisfied with the limits of Alan’s denial."
     },
     {
       "worldId": "kidnapped-world",
@@ -3468,7 +3468,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 18.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan denies participation but refuses the kind of answer David wants."
+      "statusNotes": "Denies taking part while withholding the answer David seeks."
     },
     {
       "worldId": "kidnapped-world",
@@ -3484,7 +3484,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 18.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David accepts the immediate need to flee while reserving judgment."
+      "statusNotes": "Accepts the need to flee without settling his doubts."
     },
     {
       "worldId": "kidnapped-world",
@@ -3500,7 +3500,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 18.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david accepts the immediate need to flee while reserving judgment."
+      "statusNotes": "Continues the escape with a companion who still questions him."
     },
     {
       "worldId": "kidnapped-world",
@@ -3516,7 +3516,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 19.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: James of the Glens receives the fugitives while messengers report the tightening search."
+      "statusNotes": "Finds temporary refuge while the search tightens."
     },
     {
       "worldId": "kidnapped-world",
@@ -3532,7 +3532,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 19.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while james of the Glens receives the fugitives while messengers report the tightening search."
+      "statusNotes": "Seeks shelter from James for himself and David."
     },
     {
       "worldId": "kidnapped-world",
@@ -3548,7 +3548,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 19.01,
-      "statusNotes": "James Stewart weighs clan duty while james of the Glens receives the fugitives while messengers report the tightening search."
+      "statusNotes": "Receives the fugitives despite the danger to his household."
     },
     {
       "worldId": "kidnapped-world",
@@ -3564,7 +3564,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 19.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Clan funds and French gold become entangled with the danger created by the murder."
+      "statusNotes": "Needs resources for the escape after the murder."
     },
     {
       "worldId": "kidnapped-world",
@@ -3582,7 +3582,7 @@
       "inventoryNotes": "Carries or uses Belt of Gold.",
       "travelModeId": null,
       "sortKey": 19.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while clan funds and French gold become entangled with the danger created by the murder."
+      "statusNotes": "Must resolve the use of clan funds and the gold he carries."
     },
     {
       "worldId": "kidnapped-world",
@@ -3598,7 +3598,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 19.02,
-      "statusNotes": "James Stewart weighs clan duty while clan funds and French gold become entangled with the danger created by the murder."
+      "statusNotes": "Helps the fugitives amid the risk attached to their money."
     },
     {
       "worldId": "kidnapped-world",
@@ -3616,7 +3616,7 @@
       "inventoryNotes": "Carries or uses Silver Button.",
       "travelModeId": null,
       "sortKey": 19.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David and Alan leave before dawn with soldiers moving through Appin."
+      "statusNotes": "Leaves before dawn to evade the approaching soldiers."
     },
     {
       "worldId": "kidnapped-world",
@@ -3632,7 +3632,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 19.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david and Alan leave before dawn with soldiers moving through Appin."
+      "statusNotes": "Leads the next stage of the flight from Appin."
     },
     {
       "worldId": "kidnapped-world",
@@ -3648,7 +3648,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 19.03,
-      "statusNotes": "James Stewart weighs clan duty while david and Alan leave before dawn with soldiers moving through Appin."
+      "statusNotes": "Parts from the men he has sheltered as the search spreads."
     },
     {
       "worldId": "kidnapped-world",
@@ -3664,7 +3664,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 20.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The fugitives hide among exposed rocks while troops search below."
+      "statusNotes": "Hides on exposed ground above searching troops."
     },
     {
       "worldId": "kidnapped-world",
@@ -3680,7 +3680,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 20.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the fugitives hide among exposed rocks while troops search below."
+      "statusNotes": "Keeps David concealed while soldiers pass below."
     },
     {
       "worldId": "kidnapped-world",
@@ -3696,7 +3696,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 20.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Sun, lack of water, and enforced stillness wear down David’s strength."
+      "statusNotes": "Weakens under the sun without adequate water."
     },
     {
       "worldId": "kidnapped-world",
@@ -3712,7 +3712,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 20.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while sun, lack of water, and enforced stillness wear down David’s strength."
+      "statusNotes": "Must keep both fugitives concealed despite thirst."
     },
     {
       "worldId": "kidnapped-world",
@@ -3728,7 +3728,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 20.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Darkness permits a dangerous descent beyond the nearest patrols."
+      "statusNotes": "Descends from hiding under cover of darkness."
     },
     {
       "worldId": "kidnapped-world",
@@ -3744,7 +3744,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 20.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while darkness permits a dangerous descent beyond the nearest patrols."
+      "statusNotes": "Guides the dangerous descent beyond the patrols."
     },
     {
       "worldId": "kidnapped-world",
@@ -3760,7 +3760,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 21.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David and Alan conceal themselves in a narrow hollow with soldiers close at hand."
+      "statusNotes": "Lies concealed in the narrow hollow near the soldiers."
     },
     {
       "worldId": "kidnapped-world",
@@ -3776,7 +3776,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 21.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david and Alan conceal themselves in a narrow hollow with soldiers close at hand."
+      "statusNotes": "Uses the hollow to keep the pair out of sight."
     },
     {
       "worldId": "kidnapped-world",
@@ -3792,7 +3792,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 21.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan contrives to bring water while David lies exhausted and feverish."
+      "statusNotes": "Lies feverish and exhausted while Alan obtains water."
     },
     {
       "worldId": "kidnapped-world",
@@ -3808,7 +3808,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 21.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan contrives to bring water while David lies exhausted and feverish."
+      "statusNotes": "Brings water to the companion too weak to fetch it."
     },
     {
       "worldId": "kidnapped-world",
@@ -3824,7 +3824,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 21.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The search moves onward and the fugitives prepare for another night march."
+      "statusNotes": "Waits for the search to move before attempting another march."
     },
     {
       "worldId": "kidnapped-world",
@@ -3840,7 +3840,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 21.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the search moves onward and the fugitives prepare for another night march."
+      "statusNotes": "Prepares a route for the next night’s movement."
     },
     {
       "worldId": "kidnapped-world",
@@ -3856,7 +3856,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 22.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The pair crosses open moor by night, steering between roads and settlements."
+      "statusNotes": "Crosses the open moor at night while avoiding settlements."
     },
     {
       "worldId": "kidnapped-world",
@@ -3872,7 +3872,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 22.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the pair crosses open moor by night, steering between roads and settlements."
+      "statusNotes": "Steers the pair between roads and inhabited places."
     },
     {
       "worldId": "kidnapped-world",
@@ -3888,7 +3888,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 22.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Hunger, sleeplessness, and wet ground push David toward collapse."
+      "statusNotes": "Approaches collapse from hunger, wet, and sleeplessness."
     },
     {
       "worldId": "kidnapped-world",
@@ -3904,7 +3904,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 22.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while hunger, sleeplessness, and wet ground push David toward collapse."
+      "statusNotes": "Must adapt the flight to David’s failing strength."
     },
     {
       "worldId": "kidnapped-world",
@@ -3920,7 +3920,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 22.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan aims for the concealed refuge of the outlawed Cluny Macpherson."
+      "statusNotes": "Struggles toward the prospect of food and shelter."
     },
     {
       "worldId": "kidnapped-world",
@@ -3936,7 +3936,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 22.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan aims for the concealed refuge of the outlawed Cluny Macpherson."
+      "statusNotes": "Aims for Cluny’s concealed refuge."
     },
     {
       "worldId": "kidnapped-world",
@@ -3952,7 +3952,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 22.03,
-      "statusNotes": "Cluny Macpherson offers outlaw hospitality while alan aims for the concealed refuge of the outlawed Cluny Macpherson."
+      "statusNotes": "His hidden refuge becomes the fugitives’ intended destination."
     },
     {
       "worldId": "kidnapped-world",
@@ -3968,7 +3968,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 23.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Guides lead the travellers through a hidden approach beneath Ben Alder."
+      "statusNotes": "Follows the hidden approach beneath Ben Alder."
     },
     {
       "worldId": "kidnapped-world",
@@ -3984,7 +3984,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 23.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while guides lead the travellers through a hidden approach beneath Ben Alder."
+      "statusNotes": "Brings his exhausted companion toward Cluny’s refuge."
     },
     {
       "worldId": "kidnapped-world",
@@ -4000,7 +4000,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 23.01,
-      "statusNotes": "Cluny Macpherson offers outlaw hospitality while guides lead the travellers through a hidden approach beneath Ben Alder."
+      "statusNotes": "Receives visitors through the concealed route to his hiding place."
     },
     {
       "worldId": "kidnapped-world",
@@ -4016,7 +4016,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 23.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The outlawed chief welcomes Alan and provides food, shelter, and news."
+      "statusNotes": "Obtains the food and shelter needed after the flight."
     },
     {
       "worldId": "kidnapped-world",
@@ -4032,7 +4032,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 23.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the outlawed chief welcomes Alan and provides food, shelter, and news."
+      "statusNotes": "Is welcomed by the outlawed chief."
     },
     {
       "worldId": "kidnapped-world",
@@ -4048,7 +4048,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 23.02,
-      "statusNotes": "Cluny Macpherson offers outlaw hospitality while the outlawed chief welcomes Alan and provides food, shelter, and news."
+      "statusNotes": "Provides hospitality and news from his hidden refuge."
     },
     {
       "worldId": "kidnapped-world",
@@ -4066,7 +4066,7 @@
       "inventoryNotes": "Carries or uses David’s Purse.",
       "travelModeId": null,
       "sortKey": 23.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan loses much of their money gambling and pride makes the loss harder to repair."
+      "statusNotes": "Finds their resources diminished by Alan’s gambling."
     },
     {
       "worldId": "kidnapped-world",
@@ -4084,7 +4084,7 @@
       "inventoryNotes": "Carries or uses Belt of Gold.",
       "travelModeId": null,
       "sortKey": 23.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan loses much of their money gambling and pride makes the loss harder to repair."
+      "statusNotes": "Loses money at cards and struggles with the humiliation."
     },
     {
       "worldId": "kidnapped-world",
@@ -4100,7 +4100,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 23.03,
-      "statusNotes": "Cluny Macpherson offers outlaw hospitality while alan loses much of their money gambling and pride makes the loss harder to repair."
+      "statusNotes": "Plays host during the gambling that causes the quarrel."
     },
     {
       "worldId": "kidnapped-world",
@@ -4116,7 +4116,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 24.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David condemns Alan’s losses while Alan resents the Lowlander’s judgment."
+      "statusNotes": "Condemns the loss of money needed for their escape."
     },
     {
       "worldId": "kidnapped-world",
@@ -4132,7 +4132,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 24.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david condemns Alan’s losses while Alan resents the Lowlander’s judgment."
+      "statusNotes": "Resents the judgment on his conduct and pride."
     },
     {
       "worldId": "kidnapped-world",
@@ -4148,7 +4148,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 24.01,
-      "statusNotes": "Cluny Macpherson offers outlaw hospitality while david condemns Alan’s losses while Alan resents the Lowlander’s judgment."
+      "statusNotes": "Witnesses the disagreement arising from the play in his refuge."
     },
     {
       "worldId": "kidnapped-world",
@@ -4164,7 +4164,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 24.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Fatigue turns grievance into cruel words after they leave the refuge."
+      "statusNotes": "Speaks bitterly as illness and grievance wear him down."
     },
     {
       "worldId": "kidnapped-world",
@@ -4180,7 +4180,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 24.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while fatigue turns grievance into cruel words after they leave the refuge."
+      "statusNotes": "Answers the insults and deepens the quarrel."
     },
     {
       "worldId": "kidnapped-world",
@@ -4196,7 +4196,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 24.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan’s attempt to provoke a duel ends when David’s illness and exhaustion become undeniable."
+      "statusNotes": "Can no longer conceal how ill and exhausted he is."
     },
     {
       "worldId": "kidnapped-world",
@@ -4212,7 +4212,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 24.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan’s attempt to provoke a duel ends when David’s illness and exhaustion become undeniable."
+      "statusNotes": "Abandons the quarrel when David’s physical collapse becomes clear."
     },
     {
       "worldId": "kidnapped-world",
@@ -4228,7 +4228,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 25.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David recovers under shelter while Alan seeks contacts and a safer road."
+      "statusNotes": "Recovers under shelter from the illness brought on by the flight."
     },
     {
       "worldId": "kidnapped-world",
@@ -4244,7 +4244,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 25.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david recovers under shelter while Alan seeks contacts and a safer road."
+      "statusNotes": "Seeks contacts and a safer onward route while David rests."
     },
     {
       "worldId": "kidnapped-world",
@@ -4260,7 +4260,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 25.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Alan and Robin measure clan honour through boasts and the possibility of steel."
+      "statusNotes": "Watches the rivalry threaten another violent encounter."
     },
     {
       "worldId": "kidnapped-world",
@@ -4276,7 +4276,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 25.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while alan and Robin measure clan honour through boasts and the possibility of steel."
+      "statusNotes": "Answers Robin’s challenge to his clan honour."
     },
     {
       "worldId": "kidnapped-world",
@@ -4292,7 +4292,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 25.02,
-      "statusNotes": "Robin Oig defends clan honour while alan and Robin measure clan honour through boasts and the possibility of steel."
+      "statusNotes": "Tests Alan with boasts that threaten a duel."
     },
     {
       "worldId": "kidnapped-world",
@@ -4308,7 +4308,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 25.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Music replaces violence and lets both Highlanders preserve their pride."
+      "statusNotes": "Sees the rivalry settled through music instead of a fight."
     },
     {
       "worldId": "kidnapped-world",
@@ -4324,7 +4324,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 25.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while music replaces violence and lets both Highlanders preserve their pride."
+      "statusNotes": "Competes on the pipes without surrendering his pride."
     },
     {
       "worldId": "kidnapped-world",
@@ -4342,7 +4342,7 @@
       "inventoryNotes": "Carries or uses Highland Pipes.",
       "travelModeId": null,
       "sortKey": 25.03,
-      "statusNotes": "Robin Oig defends clan honour while music replaces violence and lets both Highlanders preserve their pride."
+      "statusNotes": "Matches Alan in the musical contest replacing violence."
     },
     {
       "worldId": "kidnapped-world",
@@ -4358,7 +4358,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David and Alan pass through more settled country while avoiding warrants and questions."
+      "statusNotes": "Moves into settled country while avoiding questions."
     },
     {
       "worldId": "kidnapped-world",
@@ -4374,7 +4374,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david and Alan pass through more settled country while avoiding warrants and questions."
+      "statusNotes": "Travels under warrants that make every encounter dangerous."
     },
     {
       "worldId": "kidnapped-world",
@@ -4390,7 +4390,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: An innkeeper’s household understands their danger and quietly arranges a boat."
+      "statusNotes": "Receives discreet help toward a crossing."
     },
     {
       "worldId": "kidnapped-world",
@@ -4406,7 +4406,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while an innkeeper’s household understands their danger and quietly arranges a boat."
+      "statusNotes": "Relies on the household’s willingness to aid hunted men."
     },
     {
       "worldId": "kidnapped-world",
@@ -4422,7 +4422,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.02,
-      "statusNotes": "Limekilns Innkeeper takes a distinct part while an innkeeper’s household understands their danger and quietly arranges a boat."
+      "statusNotes": "Provides the setting for discreet assistance to the fugitives."
     },
     {
       "worldId": "kidnapped-world",
@@ -4438,7 +4438,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.02,
-      "statusNotes": "Innkeeper’s Daughter takes a distinct part while an innkeeper’s household understands their danger and quietly arranges a boat."
+      "statusNotes": "Understands their danger and helps arrange the boat."
     },
     {
       "worldId": "kidnapped-world",
@@ -4454,7 +4454,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: The fugitives cross by night and separate the Highland danger from David’s legal business."
+      "statusNotes": "Crosses at night toward the lawyer and his inheritance."
     },
     {
       "worldId": "kidnapped-world",
@@ -4470,7 +4470,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while the fugitives cross by night and separate the Highland danger from David’s legal business."
+      "statusNotes": "Crosses with David while keeping his own flight concealed."
     },
     {
       "worldId": "kidnapped-world",
@@ -4486,7 +4486,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 26.03,
-      "statusNotes": "Innkeeper’s Daughter takes a distinct part while the fugitives cross by night and separate the Highland danger from David’s legal business."
+      "statusNotes": "Helps the fugitives obtain their nighttime passage."
     },
     {
       "worldId": "kidnapped-world",
@@ -4502,7 +4502,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 27.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David reaches the lawyer, who listens carefully before accepting his identity."
+      "statusNotes": "Gives the lawyer the history of his kidnapping and journey."
     },
     {
       "worldId": "kidnapped-world",
@@ -4518,7 +4518,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 27.01,
-      "statusNotes": "Mr Rankeillor tests evidence while david reaches the lawyer, who listens carefully before accepting his identity."
+      "statusNotes": "Tests the story before accepting the visitor as David Balfour."
     },
     {
       "worldId": "kidnapped-world",
@@ -4534,7 +4534,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 27.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Rankeillor explains the brothers’ rivalry, marriage bargain, and the ownership of Shaws."
+      "statusNotes": "Learns why his father’s family history determines his claim."
     },
     {
       "worldId": "kidnapped-world",
@@ -4552,7 +4552,7 @@
       "inventoryNotes": "Carries or uses Alexander Balfour’s Will.",
       "travelModeId": null,
       "sortKey": 27.02,
-      "statusNotes": "Mr Rankeillor tests evidence while rankeillor explains the brothers’ rivalry, marriage bargain, and the ownership of Shaws."
+      "statusNotes": "Explains the brothers’ rivalry and David’s ownership of Shaws."
     },
     {
       "worldId": "kidnapped-world",
@@ -4568,7 +4568,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 27.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Lawyer and heir devise a way to make Ebenezer confess without exposing Alan."
+      "statusNotes": "Agrees to obtain evidence of his uncle’s bargain."
     },
     {
       "worldId": "kidnapped-world",
@@ -4584,7 +4584,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 27.03,
-      "statusNotes": "Mr Rankeillor tests evidence while lawyer and heir devise a way to make Ebenezer confess without exposing Alan."
+      "statusNotes": "Devises a confession trap that need not expose Alan."
     },
     {
       "worldId": "kidnapped-world",
@@ -4600,7 +4600,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 27.03,
-      "statusNotes": "Torrance takes a distinct part while lawyer and heir devise a way to make Ebenezer confess without exposing Alan."
+      "statusNotes": "Prepares to serve as a witness to the planned disclosure."
     },
     {
       "worldId": "kidnapped-world",
@@ -4616,7 +4616,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring. At this moment: From the party’s base at Newhalls, Alan takes an English name and carries their story toward Shaws."
+      "statusNotes": "Takes an English name for the approach to Shaws."
     },
     {
       "worldId": "kidnapped-world",
@@ -4634,7 +4634,7 @@
       "inventoryNotes": "Carries or uses Silver Button.",
       "travelModeId": null,
       "sortKey": 28.01,
-      "statusNotes": "David Balfour experiences the immediate action while from the party’s base at Newhalls, Alan takes an English name and carries their story toward Shaws."
+      "statusNotes": "Waits while Alan undertakes the deceptive approach."
     },
     {
       "worldId": "kidnapped-world",
@@ -4650,7 +4650,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.01,
-      "statusNotes": "Mr Rankeillor tests evidence while from the party’s base at Newhalls, Alan takes an English name and carries their story toward Shaws."
+      "statusNotes": "Coordinates the plan for securing admissible evidence."
     },
     {
       "worldId": "kidnapped-world",
@@ -4666,7 +4666,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.01,
-      "statusNotes": "Torrance takes a distinct part while from the party’s base at Newhalls, Alan takes an English name and carries their story toward Shaws."
+      "statusNotes": "Accompanies the party preparing to witness the confession."
     },
     {
       "worldId": "kidnapped-world",
@@ -4682,7 +4682,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring. At this moment: Alan leads Ebenezer into bargaining over what he supposedly paid to have David carried away."
+      "statusNotes": "Draws Ebenezer into bargaining over his nephew’s fate."
     },
     {
       "worldId": "kidnapped-world",
@@ -4698,7 +4698,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.02,
-      "statusNotes": "Ebenezer Balfour protects his secret while alan leads Ebenezer into bargaining over what he supposedly paid to have David carried away."
+      "statusNotes": "Negotiates without knowing his nephew’s allies are setting a trap."
     },
     {
       "worldId": "kidnapped-world",
@@ -4714,7 +4714,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David, Rankeillor, and Torrance listen from concealment as the trap closes."
+      "statusNotes": "Listens from concealment for proof of the kidnapping."
     },
     {
       "worldId": "kidnapped-world",
@@ -4730,7 +4730,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.03,
-      "statusNotes": "Mr Rankeillor tests evidence while david, Rankeillor, and Torrance listen from concealment as the trap closes."
+      "statusNotes": "Waits in hiding to hear Ebenezer’s own admission."
     },
     {
       "worldId": "kidnapped-world",
@@ -4746,7 +4746,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.03,
-      "statusNotes": "Torrance takes a distinct part while david, Rankeillor, and Torrance listen from concealment as the trap closes."
+      "statusNotes": "Stands ready to corroborate what is said."
     },
     {
       "worldId": "kidnapped-world",
@@ -4762,7 +4762,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david, Rankeillor, and Torrance listen from concealment as the trap closes."
+      "statusNotes": "Keeps the conversation moving toward the paid kidnapping."
     },
     {
       "worldId": "kidnapped-world",
@@ -4778,7 +4778,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 28.03,
-      "statusNotes": "Ebenezer Balfour protects his secret while david, Rankeillor, and Torrance listen from concealment as the trap closes."
+      "statusNotes": "Speaks without knowing that witnesses are nearby."
     },
     {
       "worldId": "kidnapped-world",
@@ -4794,7 +4794,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring. At this moment: Ebenezer names Hoseason and the kidnapping payment loudly enough for the witnesses."
+      "statusNotes": "Elicits the name and price needed for the trap."
     },
     {
       "worldId": "kidnapped-world",
@@ -4810,7 +4810,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.01,
-      "statusNotes": "Ebenezer Balfour protects his secret while ebenezer names Hoseason and the kidnapping payment loudly enough for the witnesses."
+      "statusNotes": "Names Hoseason and admits paying for David’s removal."
     },
     {
       "worldId": "kidnapped-world",
@@ -4826,7 +4826,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.01,
-      "statusNotes": "David Balfour experiences the immediate action while ebenezer names Hoseason and the kidnapping payment loudly enough for the witnesses."
+      "statusNotes": "Hears his uncle admit the arrangement against him."
     },
     {
       "worldId": "kidnapped-world",
@@ -4842,7 +4842,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.01,
-      "statusNotes": "Mr Rankeillor tests evidence while ebenezer names Hoseason and the kidnapping payment loudly enough for the witnesses."
+      "statusNotes": "Obtains the evidence for confronting Ebenezer."
     },
     {
       "worldId": "kidnapped-world",
@@ -4858,7 +4858,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.01,
-      "statusNotes": "Torrance takes a distinct part while ebenezer names Hoseason and the kidnapping payment loudly enough for the witnesses."
+      "statusNotes": "Hears the admission as a corroborating witness."
     },
     {
       "worldId": "kidnapped-world",
@@ -4874,7 +4874,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David reveals himself and the lawyer converts Ebenezer’s panic into negotiation."
+      "statusNotes": "Reveals himself alive before his uncle."
     },
     {
       "worldId": "kidnapped-world",
@@ -4890,7 +4890,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.02,
-      "statusNotes": "Ebenezer Balfour protects his secret while david reveals himself and the lawyer converts Ebenezer’s panic into negotiation."
+      "statusNotes": "Faces the nephew whose disappearance he purchased."
     },
     {
       "worldId": "kidnapped-world",
@@ -4906,7 +4906,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.02,
-      "statusNotes": "Mr Rankeillor tests evidence while david reveals himself and the lawyer converts Ebenezer’s panic into negotiation."
+      "statusNotes": "Turns the exposed bargain into terms for a settlement."
     },
     {
       "worldId": "kidnapped-world",
@@ -4922,7 +4922,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.02,
-      "statusNotes": "Torrance takes a distinct part while david reveals himself and the lawyer converts Ebenezer’s panic into negotiation."
+      "statusNotes": "Witnesses the confrontation following the admission."
     },
     {
       "worldId": "kidnapped-world",
@@ -4938,7 +4938,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david reveals himself and the lawyer converts Ebenezer’s panic into negotiation."
+      "statusNotes": "Sees the deception achieve David’s legal purpose."
     },
     {
       "worldId": "kidnapped-world",
@@ -4956,7 +4956,7 @@
       "inventoryNotes": "Carries or uses Ebenezer’s Memorandum.",
       "travelModeId": null,
       "sortKey": 29.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Ebenezer signs terms granting David income and recognition while accounts remain to be settled."
+      "statusNotes": "Secures recognition and an income under the signed terms."
     },
     {
       "worldId": "kidnapped-world",
@@ -4972,7 +4972,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.03,
-      "statusNotes": "Ebenezer Balfour protects his secret while ebenezer signs terms granting David income and recognition while accounts remain to be settled."
+      "statusNotes": "Signs the settlement acknowledging his nephew’s claim."
     },
     {
       "worldId": "kidnapped-world",
@@ -4990,7 +4990,7 @@
       "inventoryNotes": "Carries or uses Alexander Balfour’s Will.",
       "travelModeId": null,
       "sortKey": 29.03,
-      "statusNotes": "Mr Rankeillor tests evidence while ebenezer signs terms granting David income and recognition while accounts remain to be settled."
+      "statusNotes": "Arranges the agreement and remaining accounts."
     },
     {
       "worldId": "kidnapped-world",
@@ -5006,7 +5006,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.03,
-      "statusNotes": "Torrance takes a distinct part while ebenezer signs terms granting David income and recognition while accounts remain to be settled."
+      "statusNotes": "Witnesses the settlement reached at Shaws."
     },
     {
       "worldId": "kidnapped-world",
@@ -5022,7 +5022,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 29.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while ebenezer signs terms granting David income and recognition while accounts remain to be settled."
+      "statusNotes": "Has helped David recover his position while remaining a fugitive himself."
     },
     {
       "worldId": "kidnapped-world",
@@ -5038,7 +5038,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 30.01,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David asks Rankeillor how he can help Alan and James without joining them in the dock."
+      "statusNotes": "Asks how to help Alan and James without destroying his own usefulness."
     },
     {
       "worldId": "kidnapped-world",
@@ -5054,7 +5054,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 30.01,
-      "statusNotes": "Mr Rankeillor tests evidence while david asks Rankeillor how he can help Alan and James without joining them in the dock."
+      "statusNotes": "Explains the legal dangers of assisting the accused men."
     },
     {
       "worldId": "kidnapped-world",
@@ -5070,7 +5070,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 30.01,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david asks Rankeillor how he can help Alan and James without joining them in the dock."
+      "statusNotes": "Still needs a way out despite David’s recovered inheritance."
     },
     {
       "worldId": "kidnapped-world",
@@ -5088,7 +5088,7 @@
       "inventoryNotes": "Carries or uses Ebenezer’s Memorandum.",
       "travelModeId": null,
       "sortKey": 30.02,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: Rankeillor prepares introductions that can aid Alan’s escape and David’s testimony."
+      "statusNotes": "Obtains introductions that may help his friend and his own testimony."
     },
     {
       "worldId": "kidnapped-world",
@@ -5104,7 +5104,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 30.02,
-      "statusNotes": "Mr Rankeillor tests evidence while rankeillor prepares introductions that can aid Alan’s escape and David’s testimony."
+      "statusNotes": "Prepares letters for the next stage of David’s efforts."
     },
     {
       "worldId": "kidnapped-world",
@@ -5120,7 +5120,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 30.02,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while rankeillor prepares introductions that can aid Alan’s escape and David’s testimony."
+      "statusNotes": "Can use the introductions in seeking escape."
     },
     {
       "worldId": "kidnapped-world",
@@ -5138,7 +5138,7 @@
       "inventoryNotes": "Carries or uses Silver Button.",
       "travelModeId": null,
       "sortKey": 30.03,
-      "statusNotes": "David Balfour experiences the immediate action. At this moment: David and Alan reach the capital and part with friendship tested but intact."
+      "statusNotes": "Parts from Alan after reaching the capital."
     },
     {
       "worldId": "kidnapped-world",
@@ -5154,7 +5154,7 @@
       "inventoryNotes": "",
       "travelModeId": null,
       "sortKey": 30.03,
-      "statusNotes": "Alan Breck Stewart acts with Highland daring while david and Alan reach the capital and part with friendship tested but intact."
+      "statusNotes": "Leaves his Lowland friend with their tested friendship intact."
     }
   ],
   "itemPlacements": [

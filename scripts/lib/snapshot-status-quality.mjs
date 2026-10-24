@@ -1,3 +1,5 @@
+import { applyAuthoredSnapshotStates } from './authored-snapshot-states.mjs'
+
 const escapeRegExp = value => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 
 const directTitlePatterns = title => {
@@ -29,10 +31,6 @@ function cleanEnglish(note) {
     .replace(/\s+in\s+(?=[,.;:]|$)/gi, ' ')
     .replace(/[.,]\s*specifically as\s+/gi, ' while ')
     .replace(/,\s*where\s+/gi, ' while ')
-    .replace(/acts at the center of\s*[.,]?/gi, 'leads the immediate action. ')
-    .replace(/narrates and endures\s*[.,]?/gi, 'experiences the immediate action. ')
-    .replace(/is physically present and acts from a distinct position\s*[.,]?/gi, 'takes a distinct part in the immediate action. ')
-    .replace(/the immediate action\.\s+while\b/gi, 'the immediate action while')
     .replace(/shares the danger of\s+while\b/gi, 'shares the danger while')
     .replace(/immediate position in\s*:/gi, 'immediate position:')
     .replace(/\s+([,.;:])/g, '$1')
@@ -57,15 +55,6 @@ function cleanPortuguese(note) {
     .trim()
 }
 
-function hasEventSpecificClause(note, description) {
-  if (/\b(?:at this moment|neste momento|while|where|quando|enquanto)\b/i.test(note)) return true
-  if (/\b(?:acts at the center|takes a distinct part|observing events while trying to reason and survive|guards and assists|watches familiar stories turn real|observes Kote and records|faces the danger unfolding|uses (?:his|her) skill and knowledge|supports Kvothe|stays beside Kvothe|physically present)\b/i.test(note)) return false
-  if (!description?.trim()) return note.length >= 100
-  const needle = description.toLocaleLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim().slice(0, 48)
-  const haystack = note.toLocaleLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ')
-  return needle.length >= 20 && haystack.includes(needle)
-}
-
 export function repairSnapshotStatus(note, event, characterName) {
   if (!directlyInterpolatesSceneTitle(note, event?.title)) return note
 
@@ -73,18 +62,16 @@ export function repairSnapshotStatus(note, event, characterName) {
   repaired = removeDirectTitle(repaired, event.title)
   repaired = cleanPortuguese(cleanEnglish(repaired))
 
-  if (!repaired || repaired === characterName || !hasEventSpecificClause(repaired, event.description)) {
-    let description = event.description?.trim()
-    if (!description) throw new Error(`Cannot repair snapshot without an event description: ${event.id}`)
-    description = removeDirectTitle(description, event.title)
-    description = cleanPortuguese(cleanEnglish(description))
-    repaired = `${repaired.replace(/[.:;\s]+$/g, '')}. At this moment: ${description}`
+  if (!repaired || repaired === characterName || /acts at the center of|narrates and endures|distinct (?:part|position)|physically present|central action/i.test(repaired)) {
+    throw new Error(`An individual authored state is required for ${event.id}: ${characterName}`)
   }
 
   return repaired.replace(/\s+([,.;:])/g, '$1').replace(/\.{2,}/g, '.').trim()
 }
 
 export function repairWorldSnapshotStatuses(world) {
+  const authored = applyAuthoredSnapshotStates(world)
+  if (authored !== null) return authored
   const events = new Map((world.events ?? []).map(event => [event.id, event]))
   const characters = new Map((world.characters ?? []).map(character => [character.id, character]))
   let changed = 0
