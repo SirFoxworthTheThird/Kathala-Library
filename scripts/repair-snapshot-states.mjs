@@ -24,7 +24,6 @@ for (const slug of [...targets].sort()) {
   const original = fs.readFileSync(filename, 'utf8')
   const world = JSON.parse(original)
   const changed = repairWorldSnapshotStatuses(world)
-  if (!changed) throw new Error(`${slug}: expected scene-title-derived snapshots but repaired none`)
 
   const events = new Map(world.events.map(event => [event.id, event]))
   const remaining = world.characterSnapshots.filter(snapshot => {
