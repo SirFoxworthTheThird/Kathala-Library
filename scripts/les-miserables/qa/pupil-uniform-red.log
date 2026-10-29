@@ -1,0 +1,76 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesPupilUniform.test.ts (1 test | 1 failed) 6ms
+   × carries the source uniform into individual convent-pupil art plans 5ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesPupilUniform.test.ts > carries the source uniform into individual convent-pupil art plans
+AssertionError: alix-schoolgirl: expected 'One finished individual character ill…' to contain 'blue dress'
+
+- Expected
++ Received
+
+- blue dress
++ One finished individual character illustration for Victor Hugo’s Les Misérables reading companion. No text, labels, border or collage. Refined literary ink crosshatching and restrained watercolor wash on warm cream paper, coherent with a mature illustrated nineteenth-century novel. Natural anatomy, distinct ordinary human face, historically grounded clothing and materials appropriate to the subject’s country, role and narrated period. Do not dress foreign military figures as French civilians. No recognizable actor, no photograph, no caricature, no fantasy costume.
++
++ SUBJECT ONLY: Alix. A schoolgirl whose way of questioning her companion troubles a lesson in French history.
++
++ Use the age, occupation and clothing supported by the source context. Do not assume that every subject is a young adult or a wealthy person.
++
++ The subject’s first reviewed action: Explains that she opened at random and asked what happened after that.
++
++ Make the subject the clear single focus. Other people mentioned in the source below are CONTEXT, not the portrait subject. Do not illustrate the whole scene or add the faces of other characters. Portrait or waist-up framing with a restrained contextual background. For a child, use a fully clothed, non-glamorous, age-appropriate depiction.
++
++ Background must have NO cathedral, tower, dome or spire and NO identifiable Paris landmark: avoid the anachronistic 1859 Notre-Dame spire. A few modest plaster walls, ordinary rooftops, landscape or interior details are enough. No modern objects. No depiction of a later outcome, injury, execution or death. Do not exaggerate the narrator’s animal metaphors into anatomy.
++
++ Source context for this introduction (the supplied role identifies which person to depict):
++ It was here, too, that this memorable dialogue took place:—
++
++ _A Vocal Mother_. Why are you weeping, my child?
++
++ _The child_ (aged six). I told Alix that I knew my French history. She
++ says that I do not know it, but I do.
++
++ _Alix_, the big girl (aged nine). No; she does not know it.
++
++ _The Mother_. How is that, my child?
++
++ _Alix_. She told me to open the book at random and to ask her any
++ question in the book, and she would answer it.
++
++ “Well?”
++
++
++ “She did not answer it.”
++
++
++ “Let us see about it. What did you ask her?”
++
++
++ “I opened the book at random, as she proposed, and I put the first
++ question that I came across.”
++
++
++ “And what was the question?”
++
++
++ “It was, ‘What happened after that?’”
+
+ ❯ tests/lesMiserablesPupilUniform.test.ts:9:27
+      7|  for(const key of['alix-schoolgirl','bouchard-schoolgirl','petit-picpu…
+      8|   const plan=characterArtPlan(key)
+      9|   expect(plan.prompt,key).toContain('blue dress')
+       |                           ^
+     10|   expect(plan.prompt,key).toContain('white linen cap')
+     11|   expect(plan.prompt,key).toContain('Holy Spirit')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  10:45:25
+   Duration  613ms (transform 280ms, setup 0ms, import 457ms, tests 6ms, environment 0ms)
+

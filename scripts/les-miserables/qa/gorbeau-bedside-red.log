@@ -1,0 +1,53 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesGorbeauBedside.test.ts (2 tests | 2 failed) 2221ms
+   × retains the particular bedside morning before the narrator interprets their affection 1137ms
+   × sends Cosette to her inner bedroom while Valjean listens in the outer room 1083ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesGorbeauBedside.test.ts > retains the particular bedside morning before the narrator interprets their affection
+AssertionError: expected [] to deeply equal [ …(2) ]
+
+- Expected
++ Received
+
+- [
+-   "lesmis-world-review-character-cosette",
+-   "lesmis-world-review-character-valjean",
+- ]
++ []
+
+ ❯ tests/lesMiserablesGorbeauBedside.test.ts:9:48
+      7|  const {world}=buildWorldReview({embedded:false}),prefix='lesmis-world…
+      8|  const rows=world.characterSnapshots.filter(row=>row.eventId===`${pref…
+      9|  expect(rows.map(row=>row.characterId).sort()).toEqual(['cosette','val…
+       |                                                ^
+     10|  for(const row of rows)expect(row.currentLocationMarkerId).toBe(`${pre…
+     11| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesGorbeauBedside.test.ts > sends Cosette to her inner bedroom while Valjean listens in the outer room
+AssertionError: expected 'lesmis-world-review-location-gorbeau-…' to be 'lesmis-world-review-location-gorbeau-…' // Object.is equality
+
+Expected: "lesmis-world-review-location-gorbeau-cosette-chamber"
+Received: "lesmis-world-review-location-gorbeau-valjean-rooms"
+
+ ❯ tests/lesMiserablesGorbeauBedside.test.ts:16:98
+     14|  const {world}=buildWorldReview({embedded:false}),prefix='lesmis-world…
+     15|  const rows=world.characterSnapshots.filter(row=>row.eventId===`${pref…
+     16|  expect(rows.find(row=>row.characterId===`${prefix}-character-cosette`…
+       |                                                                                                  ^
+     17|  expect(rows.find(row=>row.characterId===`${prefix}-character-valjean`…
+     18| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  01:26:31
+   Duration  2.99s (transform 412ms, setup 0ms, import 604ms, tests 2.22s, environment 0ms)
+

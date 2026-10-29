@@ -1,0 +1,59 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "forty-four",
+  "images": [
+    {
+      "key": "trip",
+      "imageId": "lesmis-world-review-art-characters-trip-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "uxbridge",
+      "imageId": "lesmis-world-review-art-characters-uxbridge-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "wathier",
+      "imageId": "lesmis-world-review-art-characters-wathier-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "wilda",
+      "imageId": "lesmis-world-review-art-characters-wilda-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gavroche-fallen-national-guard-lancer",
+      "imageId": "lesmis-world-review-art-characters-gavroche-fallen-national-guard-lancer-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "saint-antoine-beggar-girl",
+      "imageId": "lesmis-world-review-art-characters-saint-antoine-beggar-girl-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "infirmary-yard-girl",
+      "imageId": "lesmis-world-review-art-characters-infirmary-yard-girl-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "d06fe662871c987a9dd20b3250aaab0732783c287fc190666afc6bace20dea19",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-infirmary-yard-girl",
+  "currentImageId": "lesmis-world-review-art-characters-infirmary-yard-girl-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

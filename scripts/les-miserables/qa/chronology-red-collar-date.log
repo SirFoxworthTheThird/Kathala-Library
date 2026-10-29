@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesChronology.test.ts (3 tests | 1 failed | 2 skipped) 15ms
+   × keeps the waking frame, dated collar incident and delayed note separate from their retrospects 14ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 skipped (3)
+   Start at  08:35:06
+   Duration  599ms (transform 276ms, setup 0ms, import 426ms, tests 15ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesChronology.test.ts > keeps the waking frame, dated collar incident and delayed note separate from their retrospects
+AssertionError: expected -7156 to be -7100 // Object.is equality
+
+- Expected
++ Received
+
+- -7100
++ -7156
+
+ ❯ tests/lesMiserablesChronology.test.ts:14:43
+     12|  expect(plan.get(key(20,'start')).isFlashback).toBe(false)
+     13|  expect(plan.get(key(20,7)).inWorldTime).toBeLessThan(plan.get(key(20,…
+     14|  expect(plan.get(key(20,10)).inWorldTime).toBe(relativeDay('1796-04-22…
+       |                                           ^
+     15|  expect(chapters[19].paragraphs[10].text).toContain('22d of April, 179…
+     16|  expect(plan.get(key(341,62)).inWorldTime).toBe(relativeDay('1832-06-0…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

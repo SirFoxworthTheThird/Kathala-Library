@@ -1,0 +1,52 @@
+{
+  "key": "gorbeau-lodgings",
+  "width": 1600,
+  "height": 1000,
+  "image": "gorbeau-lodgings.webp",
+  "source": [
+    "II.IV.I paragraphs 5–7",
+    "II.IV.II paragraphs 1–2",
+    "II.IV.IV paragraphs 5–8",
+    "III.VIII.V paragraphs 6–8",
+    "III.VIII.VI paragraphs 2–7",
+    "III.VIII.XV paragraph 32"
+  ],
+  "locations": {
+    "gorbeau-valjean-rooms": [
+      300,
+      400
+    ],
+    "gorbeau-early-corridor": [
+      365,
+      575
+    ],
+    "gorbeau-cosette-chamber": [
+      550,
+      450
+    ],
+    "gorbeau-unoccupied-room": [
+      255,
+      700
+    ],
+    "gorbeau-marius-room": [
+      850,
+      510
+    ],
+    "gorbeau-marius-doorway": [
+      850,
+      660
+    ],
+    "gorbeau-jondrette-attic": [
+      1120,
+      550
+    ],
+    "gorbeau-house-corridor": [
+      1125,
+      710
+    ],
+    "gorbeau-partition-aperture": [
+      955,
+      300
+    ]
+  }
+}

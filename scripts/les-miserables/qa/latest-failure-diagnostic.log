@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesRooftopObservers.test.ts (2 tests | 1 failed) 22ms
+   × does not place the departing rooftop observers inside the street barricade 9ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesRooftopObservers.test.ts > does not place the departing rooftop observers inside the street barricade
+AssertionError: expected 28 to be 27 // Object.is equality
+
+- Expected
++ Received
+
+- 27
++ 28
+
+ ❯ tests/lesMiserablesRooftopObservers.test.ts:15:54
+     13|  const review=enrichedReview(),row=review.get(309).find(r=>r.at===7)
+     14|  for(const key of['chanvrerie-rooftop-fireman','chanvrerie-rooftop-off…
+     15|  expect(validateUnlocatedPositions(review).approved).toBe(27)
+       |                                                      ^
+     16| })
+     17|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 passed (2)
+   Start at  02:49:50
+   Duration  574ms (transform 264ms, setup 0ms, import 404ms, tests 22ms, environment 0ms)
+

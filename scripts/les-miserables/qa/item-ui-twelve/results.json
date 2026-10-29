@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twelve",
+  "images": [
+    {
+      "key": "marius-gorbeau-entrance-key",
+      "imageId": "lesmis-world-review-art-items-marius-gorbeau-entrance-key-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "marius-love-notebook",
+      "imageId": "lesmis-world-review-art-items-marius-love-notebook-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "marius-two-chairs",
+      "imageId": "lesmis-world-review-art-items-marius-two-chairs-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "milk-jar",
+      "imageId": "lesmis-world-review-art-items-milk-jar-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "miners-candlestick",
+      "imageId": "lesmis-world-review-art-items-miners-candlestick-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "montparnasse-dagger-cane",
+      "imageId": "lesmis-world-review-art-items-montparnasse-dagger-cane-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "musain-republic-map",
+      "imageId": "lesmis-world-review-art-items-musain-republic-map-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "plumet-bench-stone",
+      "imageId": "lesmis-world-review-art-items-plumet-bench-stone-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "12adf8fd9c69f8a799933cd4bcaaeb82dc5c42ecc68cbe9d0e08458b20be2467",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-plumet-bench-stone",
+  "currentImageId": "lesmis-world-review-art-items-plumet-bench-stone-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

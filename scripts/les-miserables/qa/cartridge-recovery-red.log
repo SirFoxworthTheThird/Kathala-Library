@@ -1,0 +1,89 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesCartridgeRecovery.test.ts (2 tests | 2 failed) 7ms
+   × follows the ammunition basket from collection and spill to Combeferre’s recovery 5ms
+   × separates finding the powder-flask from its later joint use without guessing whose hand holds it 1ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesCartridgeRecovery.test.ts > follows the ammunition basket from collection and spill to Combeferre’s recovery
+AssertionError: expected [] to deeply equal [ Array(5) ]
+
+- Expected
++ Received
+
+- [
+-   [
+-     313,
+-     "start",
+-     "held",
+-     "gavroche",
+-   ],
+-   [
+-     313,
+-     19,
+-     "held",
+-     "gavroche",
+-   ],
+-   [
+-     313,
+-     38,
+-     "placed",
+-     "rue-chanvrerie",
+-   ],
+-   [
+-     315,
+-     "start",
+-     "held",
+-     "combeferre",
+-   ],
+-   [
+-     315,
+-     6,
+-     "held",
+-     "combeferre",
+-   ],
+- ]
++ []
+
+ ❯ tests/lesMiserablesCartridgeRecovery.test.ts:5:68
+      3| test('follows the ammunition basket from collection and spill to Combe…
+      4|  const rows=itemStateChanges.filter(r=>r.item==='gavroche-cartridge-ba…
+      5|  expect(rows.map(r=>[r.chapter,r.at,r.kind,r.holder??r.location])).toE…
+       |                                                                    ^
+      6|   [313,'start','held','gavroche'],[313,19,'held','gavroche'],[313,38,'…
+      7|   [315,'start','held','combeferre'],[315,6,'held','combeferre'],
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesCartridgeRecovery.test.ts > separates finding the powder-flask from its later joint use without guessing whose hand holds it
+AssertionError: expected undefined to match object { chapter: 313, at: 12, …(2) }
+
+- Expected:
+{
+  "at": 12,
+  "chapter": 313,
+  "evidenceParagraph": 18,
+  "holder": "gavroche",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesCartridgeRecovery.test.ts:12:65
+     10| })
+     11| test('separates finding the powder-flask from its later joint use with…
+     12|  expect(itemStateChanges.find(r=>r.key==='powder-flask-found')).toMatc…
+       |                                                                 ^
+     13|  expect(itemStateChanges.find(r=>r.key==='powder-flask-shared-use')).t…
+     14| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  00:55:28
+   Duration  209ms (transform 26ms, setup 0ms, import 41ms, tests 7ms, environment 0ms)
+

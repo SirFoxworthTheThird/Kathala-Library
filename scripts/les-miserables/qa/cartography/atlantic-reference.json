@@ -1,0 +1,30 @@
+{
+  "bounds": [
+    -130,
+    -60,
+    35,
+    72
+  ],
+  "points": [
+    {
+      "key": "france-context",
+      "name": "France",
+      "longitude": 2.35,
+      "latitude": 48.86,
+      "referencePoint": [
+        1401.521212121212,
+        290.8818181818182
+      ]
+    },
+    {
+      "key": "guernsey-context",
+      "name": "Guernsey",
+      "longitude": -2.54,
+      "latitude": 49.45,
+      "referencePoint": [
+        1352.3248484848484,
+        285.25
+      ]
+    }
+  ]
+}

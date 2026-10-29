@@ -1,0 +1,56 @@
+{
+  "selected": [
+    [
+      "auguste-rohan",
+      "exec-758ee353-f18e-49f3-a532-b4e07ebf87c6.png"
+    ],
+    [
+      "austerlitz-tollkeeper",
+      "exec-6ac938d7-6238-43f2-a28f-e6f08d721774.png"
+    ],
+    [
+      "bahorel-window-observer",
+      "exec-2a6754ff-9191-4154-871f-8d2b9ee38f6d.png"
+    ],
+    [
+      "bertrand",
+      "exec-4f8a666b-2b7c-462a-9fab-1ef82250d988.png"
+    ],
+    [
+      "boulevard-cab-driver",
+      "exec-1e4f0249-bd5e-4fea-8436-d186797616f5.png"
+    ],
+    [
+      "voltaire-provincial-guest",
+      "exec-bdd070e1-2beb-4525-bf61-44acb23a0b78.png"
+    ],
+    [
+      "luxembourg-basin-father",
+      "exec-f5d26da9-bd1f-484b-aa5e-e2c8a4a942f6.png"
+    ],
+    [
+      "bourgaillard",
+      "exec-145695cb-5cbd-4962-908e-16588bb76406.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "auguste-rohan",
+      "prompt": "Keep this young French priest's exact face, pulpit, pose and literary ink/watercolor style. This is BEFORE he became cardinal. Remove red skullcap, red cloak, gold pectoral cross and episcopal ornaments. Bareheaded young priest in plain black cassock with white linen clerical bands and a simple white surplice. No mitre, no red hat, no cardinal robes, no bishop's insignia.",
+      "original": "exec-36bdf95c-8f03-4a07-ab12-62eb995ca094.png",
+      "selected": "exec-758ee353-f18e-49f3-a532-b4e07ebf87c6.png"
+    },
+    {
+      "key": "austerlitz-tollkeeper",
+      "prompt": "Keep this exact old soldier tollkeeper's face, booth, coins and literary ink/watercolor. Remove his later-style cap entirely; show him bareheaded with sparse gray hair. Keep his worn dark coat and cloak, no insignia. No other change.",
+      "original": "exec-256bbf53-cb33-43e2-896b-5214b666ab7a.png",
+      "selected": "exec-6ac938d7-6238-43f2-a28f-e6f08d721774.png"
+    },
+    {
+      "key": "luxembourg-basin-father",
+      "prompt": "Make this an individual portrait of the SAME adult father ONLY. Remove the boy entirely and remove the father's hand holding the child's hand; let that arm rest naturally beside his own coat. Preserve father's forty-year-old face, prominent stomach, clothing, lecturing raised forefinger, basin and literary ink/watercolor. No other people or extra limbs.",
+      "original": "exec-58b7f08f-5ea1-423a-8d6e-6594192cdeb5.png",
+      "selected": "exec-f5d26da9-bd1f-484b-aa5e-e2c8a4a942f6.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "288-2 feuilly: Corinthe",
+    "295-3 cosette: The back-court bedroom",
+    "295-6 toussaint: The dining room",
+    "296-5 valjean: The house threshold"
+  ],
+  "errors": [],
+  "fixtureSha256": "4a5bc9cebceb01858e6ed759b5ab2d90b0b44970e2e9a9caa653074287c428ac",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

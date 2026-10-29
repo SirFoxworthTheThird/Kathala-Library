@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch seven in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "d06fe662871c987a9dd20b3250aaab0732783c287fc190666afc6bace20dea19",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "montreuil-townhall",
+      "imageId": "lesmis-world-review-art-locations-montreuil-townhall-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-barber-shop",
+      "imageId": "lesmis-world-review-art-locations-montreuil-barber-shop-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-post-office",
+      "imageId": "lesmis-world-review-art-locations-montreuil-post-office-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-city-prison",
+      "imageId": "lesmis-world-review-art-locations-montreuil-city-prison-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-cemetery",
+      "imageId": "lesmis-world-review-art-locations-montreuil-cemetery-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-countryside",
+      "imageId": "lesmis-world-review-art-locations-montreuil-countryside-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-hesdin-road",
+      "imageId": "lesmis-world-review-art-locations-montreuil-hesdin-road-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-paris-road",
+      "imageId": "lesmis-world-review-art-locations-montreuil-paris-road-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

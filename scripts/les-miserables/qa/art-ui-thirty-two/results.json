@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-two",
+  "images": [
+    {
+      "key": "five-franc-carter",
+      "imageId": "lesmis-world-review-art-characters-five-franc-carter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "fontevrault-centenarian",
+      "imageId": "lesmis-world-review-art-characters-fontevrault-centenarian-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gavroche-auvergnat-cart-owner",
+      "imageId": "lesmis-world-review-art-characters-gavroche-auvergnat-cart-owner-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "german-carter",
+      "imageId": "lesmis-world-review-art-characters-german-carter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "richefeu-domino-opponent",
+      "imageId": "lesmis-world-review-art-characters-richefeu-domino-opponent-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "royal-printing-national-guard-sergeant",
+      "imageId": "lesmis-world-review-art-characters-royal-printing-national-guard-sergeant-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "royal-route-police-agent",
+      "imageId": "lesmis-world-review-art-characters-royal-route-police-agent-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "saint-antoine-baker",
+      "imageId": "lesmis-world-review-art-characters-saint-antoine-baker-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "99a0d5750e497fce3c584a7462bfabe0fc93994d1a86d1495262008941789d6c",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-saint-antoine-baker",
+  "currentImageId": "lesmis-world-review-art-characters-saint-antoine-baker-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

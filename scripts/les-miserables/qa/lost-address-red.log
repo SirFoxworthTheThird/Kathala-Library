@@ -1,0 +1,35 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesLostAddress.test.ts (1 test | 1 failed) 1753ms
+   × preserves the lost refuge address without inventing a meeting with Barge or a present paper holder 1752ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesLostAddress.test.ts > preserves the lost refuge address without inventing a meeting with Barge or a present paper holder
+AssertionError: expected undefined to match object { iconType: 'document' }
+
+- Expected:
+{
+  "iconType": "document",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesLostAddress.test.ts:7:45
+      5|  const{world}=buildWorldReview({embedded:false})
+      6|  const itemId='lesmis-world-review-item-barge-address-paper'
+      7|  expect(world.items.find(r=>r.id===itemId)).toMatchObject({iconType:'d…
+       |                                             ^
+      8|  const changes=world.itemSnapshots.filter(r=>r.itemId===itemId)
+      9|  expect(changes).toHaveLength(1)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  11:34:47
+   Duration  2.49s (transform 395ms, setup 0ms, import 580ms, tests 1.75s, environment 0ms)
+

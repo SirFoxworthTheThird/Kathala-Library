@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "five",
+  "images": [
+    {
+      "key": "javert-service-note",
+      "imageId": "lesmis-world-review-art-items-javert-service-note-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "baptistine-letter",
+      "imageId": "lesmis-world-review-art-items-baptistine-letter-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "baptistine-supper-letter",
+      "imageId": "lesmis-world-review-art-items-baptistine-supper-letter-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "bobbies-writing-sample",
+      "imageId": "lesmis-world-review-art-items-bobbies-writing-sample-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "brujon-rue-plumet-note",
+      "imageId": "lesmis-world-review-art-items-brujon-rue-plumet-note-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "key": "chanvrerie-reserve-powder-barrel",
+      "imageId": "lesmis-world-review-art-items-chanvrerie-reserve-powder-barrel-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "coerced-fabre-summons",
+      "imageId": "lesmis-world-review-art-items-coerced-fabre-summons-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "cosette-blotting-book",
+      "imageId": "lesmis-world-review-art-items-cosette-blotting-book-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "2f208e912a39ef89d6acc7b760268a929fd63694bec9b7492a105923d4d64fbe",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-cosette-blotting-book",
+  "currentImageId": "lesmis-world-review-art-items-cosette-blotting-book-webp",
+  "currentDecoded": {
+    "width": 1536,
+    "height": 1024,
+    "type": "image/webp"
+  }
+}

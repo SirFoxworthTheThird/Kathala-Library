@@ -1,0 +1,68 @@
+{
+  "selected": [
+    [
+      "thenardier-young-son",
+      "exec-7c663abd-772a-4e3e-b8d1-b3891d8d937d.png"
+    ],
+    [
+      "thenardier-younger-boy",
+      "exec-bac63fd4-c0a7-47de-92f6-7bbbbd4bfeb4.png"
+    ],
+    [
+      "thenardier-youngest-boy",
+      "exec-f8ab92b8-9576-47ec-87bc-2375d52bfd6a.png"
+    ],
+    [
+      "alix-schoolgirl",
+      "exec-d3993175-0022-41c1-9966-c85479089ac1.png"
+    ],
+    [
+      "bouchard-schoolgirl",
+      "exec-a4140109-2b32-450d-8bff-2e6884f08c27.png"
+    ],
+    [
+      "luxembourg-basin-son",
+      "exec-aa9854a0-45a5-4a6b-8212-208e15adce38.png"
+    ],
+    [
+      "luxembourg-brioche-father",
+      "exec-889f85a4-2984-42df-be16-7d2c433f7a39.png"
+    ],
+    [
+      "luxembourg-brioche-son",
+      "exec-b95898ef-ee3b-44a5-9ef6-95b3999fb28a.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "luxembourg-basin-son",
+      "prompt": "Remove the adult's hand, arm and body entirely. Show this same five-year-old boy alone with both his own arms naturally down at his sides. Preserve his face, cap, clothes, basin and illustration style. No extra people or limbs.",
+      "original": "exec-482ddb6f-93f9-453f-b3c7-6925530915df.png",
+      "selected": "exec-aa9854a0-45a5-4a6b-8212-208e15adce38.png"
+    },
+    {
+      "key": "luxembourg-brioche-father",
+      "prompt": "Remove the child entirely from this individual portrait. The SAME fifty-year-old bourgeois father stands alone, with his free hand naturally at his side. Preserve his face, clothing, partly open smile, cane, hat, basin and literary ink/watercolor. No other person or extra limbs.",
+      "original": "exec-3c0a20c1-1871-4408-b619-b57f010762a7.png",
+      "selected": "exec-889f85a4-2984-42df-be16-7d2c433f7a39.png"
+    },
+    {
+      "key": "luxembourg-brioche-son",
+      "prompt": "Remove the later-style peaked cap and its badge entirely. The SAME six-year-old boy is bareheaded with natural curly light-brown hair, still wearing his small early1830s National Guard costume and holding his partly eaten brioche. Preserve his face, pose, uniform and literary ink/watercolor. No hat or other person.",
+      "original": "exec-a607c1ea-809d-478f-a7c8-1ca857482c22.png",
+      "selected": "exec-b95898ef-ee3b-44a5-9ef6-95b3999fb28a.png"
+    },
+    {
+      "key": "alix-schoolgirl",
+      "prompt": "Keep this SAME individual schoolgirl's exact face, age, pose and literary ink/watercolor. Correct the convent uniform to Hugo's explicit chapter121 paragraph3 description: blue early1820s dress, simple WHITE LINEN CAP covering the hair, small silver-gilt Holy Spirit dove pendant on the chest. Remove black hair ribbon; Alix may retain the book. Narrow long sleeves and modest neckline. No other person, no modern uniform, no text.",
+      "original": "exec-52ec698d-cd81-4462-bed3-87da54adca6a.png",
+      "selected": "exec-d3993175-0022-41c1-9966-c85479089ac1.png"
+    },
+    {
+      "key": "bouchard-schoolgirl",
+      "prompt": "Keep this SAME individual schoolgirl's exact face, age, pose and literary ink/watercolor. Correct the convent uniform to Hugo's explicit chapter121 paragraph3 description: blue early1820s dress, simple WHITE LINEN CAP covering the hair, small silver-gilt Holy Spirit dove pendant on the chest. Remove black hair ribbon; Alix may retain the book. Narrow long sleeves and modest neckline. No other person, no modern uniform, no text.",
+      "original": "exec-84b3fd9d-3152-4c82-982b-dc5bd48a7727.png",
+      "selected": "exec-a4140109-2b32-450d-8bff-2e6884f08c27.png"
+    }
+  ]
+}

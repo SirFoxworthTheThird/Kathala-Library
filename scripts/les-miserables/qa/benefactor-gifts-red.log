@@ -1,0 +1,40 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesBenefactorGifts.test.ts (1 test | 1 failed) 5ms
+   × keeps the visitor’s parcel and first coin on the table and his coat with its actual recipient 4ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesBenefactorGifts.test.ts > keeps the visitor’s parcel and first coin on the table and his coat with its actual recipient
+AssertionError: expected undefined to match object { item: 'leblanc-relief-parcel', …(5) }
+
+- Expected:
+{
+  "at": 14,
+  "chapter": 208,
+  "evidenceParagraph": 25,
+  "item": "leblanc-relief-parcel",
+  "kind": "placed",
+  "location": "gorbeau-jondrette-attic",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesBenefactorGifts.test.ts:6:40
+      4| test('keeps the visitor’s parcel and first coin on the table and his c…
+      5|  const row=(key:string)=>itemStateChanges.find(change=>change.key===ke…
+      6|  expect(row('relief-parcel-set-down')).toMatchObject({item:'leblanc-re…
+       |                                        ^
+      7|  expect(row('leblanc-five-francs-set-down')).toMatchObject({item:'lebl…
+      8|  expect(row('brown-greatcoat-accepted')).toMatchObject({item:'leblanc-…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  09:24:59
+   Duration  200ms (transform 21ms, setup 0ms, import 35ms, tests 5ms, environment 0ms)
+

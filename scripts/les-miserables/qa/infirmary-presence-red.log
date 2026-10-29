@@ -1,0 +1,39 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesInfirmaryPresence.test.ts (2 tests | 2 failed) 5ms
+   × keeps the actual yard singer distinct from the absent child and leaves her departure unlocated 4ms
+   × retains the two nurses at the body and the protesting portress outside the hiding room 1ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesInfirmaryPresence.test.ts > keeps the actual yard singer distinct from the absent child and leaves her departure unlocated
+AssertionError: expected [ 'fantine', 'valjean', …(1) ] to include 'infirmary-yard-girl'
+ ❯ tests/lesMiserablesInfirmaryPresence.test.ts:8:15
+      6| test('keeps the actual yard singer distinct from the absent child and …
+      7|  const scene=row(67,22),cast=scene.present.map(([key])=>key)
+      8|  expect(cast).toContain('infirmary-yard-girl')
+       |               ^
+      9|  expect(cast).not.toContain('cosette')
+     10|  expect(cast).not.toContain('fantine-doctor')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesInfirmaryPresence.test.ts > retains the two nurses at the body and the protesting portress outside the hiding room
+AssertionError: expected [ 'madeleine-portress' ] to include 'sister-perpetue'
+ ❯ tests/lesMiserablesInfirmaryPresence.test.ts:19:49
+     17|  const evening=row(70,7)
+     18|  for(const key of ['sister-perpetue','sister-simplice']){
+     19|   expect(evening.present.map(([actor])=>actor)).toContain(key)
+       |                                                 ^
+     20|   expect(evening.actorLocations[key]).toBe('montreuil-factory-infirmar…
+     21|  }
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  19:58:44
+   Duration  1.02s (transform 276ms, setup 0ms, import 452ms, tests 5ms, environment 0ms)
+

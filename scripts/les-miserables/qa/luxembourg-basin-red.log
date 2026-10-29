@@ -1,0 +1,30 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesLuxembourgBasin.test.ts (1 test | 1 failed) 16ms
+   × separates the father and child at the basin from the pair on the secluded bench 15ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesLuxembourgBasin.test.ts > separates the father and child at the basin from the pair on the secluded bench
+AssertionError: expected 'luxembourg-pepiniere-alley' to be 'luxembourg-grand-basin' // Object.is equality
+
+Expected: "luxembourg-grand-basin"
+Received: "luxembourg-pepiniere-alley"
+
+ ❯ tests/lesMiserablesLuxembourgBasin.test.ts:8:25
+      6|  expect(chapters[190].paragraphs[3].text.replace(/\s+/g,' ')).toContai…
+      7|  const rows=enrichedReview().get(191),basin=rows.find(row=>row.at===3)…
+      8|  expect(basin.location).toBe('luxembourg-grand-basin')
+       |                         ^
+      9|  expect(basin.present.map(([key])=>key).sort()).toEqual(['luxembourg-b…
+     10|  expect(walk.present.map(([key])=>key).sort()).toEqual(['mademoiselle-…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  09:01:33
+   Duration  552ms (transform 250ms, setup 0ms, import 387ms, tests 16ms, environment 0ms)
+

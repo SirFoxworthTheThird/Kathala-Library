@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-five",
+  "images": [
+    {
+      "key": "chanvrerie-rooftop-fireman",
+      "imageId": "lesmis-world-review-art-characters-chanvrerie-rooftop-fireman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "chanvrerie-rooftop-officer",
+      "imageId": "lesmis-world-review-art-characters-chanvrerie-rooftop-officer-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "fannicot",
+      "imageId": "lesmis-world-review-art-characters-fannicot-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "father-hucheloup",
+      "imageId": "lesmis-world-review-art-characters-father-hucheloup-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "widow-hucheloup",
+      "imageId": "lesmis-world-review-art-characters-widow-hucheloup-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "matelote",
+      "imageId": "lesmis-world-review-art-characters-matelote-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "gibelotte",
+      "imageId": "lesmis-world-review-art-characters-gibelotte-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "navet",
+      "imageId": "lesmis-world-review-art-characters-navet-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "41c127b5bbfae0786918f100eb40c9ca878fb3b1f7a43241c777fb33c20d3673",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-navet",
+  "currentImageId": "lesmis-world-review-art-characters-navet-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

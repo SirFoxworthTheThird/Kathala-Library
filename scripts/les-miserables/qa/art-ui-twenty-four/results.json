@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-four",
+  "images": [
+    {
+      "key": "seine-ragged-fugitive",
+      "imageId": "lesmis-world-review-art-characters-seine-ragged-fugitive-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "seine-official-pursuer",
+      "imageId": "lesmis-world-review-art-characters-seine-official-pursuer-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "seine-following-coachman",
+      "imageId": "lesmis-world-review-art-characters-seine-following-coachman-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "gillenormand-house-porter",
+      "imageId": "lesmis-world-review-art-characters-gillenormand-house-porter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "homme-arme-porter",
+      "imageId": "lesmis-world-review-art-characters-homme-arme-porter-webp",
+      "width": 1199,
+      "height": 1312
+    },
+    {
+      "key": "homme-arme-portress",
+      "imageId": "lesmis-world-review-art-characters-homme-arme-portress-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "homme-arme-doctor",
+      "imageId": "lesmis-world-review-art-characters-homme-arme-doctor-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gillenormand-doctor",
+      "imageId": "lesmis-world-review-art-characters-gillenormand-doctor-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "008a445871770aa9798358c8f26f9ac30190d278ecf0801100ba49e46526824e",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-gillenormand-doctor",
+  "currentImageId": "lesmis-world-review-art-characters-gillenormand-doctor-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

@@ -6,3 +6,10 @@ scripts/persuasion/source/pg105.txt -text -diff
 scripts/inferno/source/pg1001.txt -text -diff
 scripts/purgatorio/source/pg1002.txt -text -diff
 scripts/little-women/source/pg514.txt -text -diff
+scripts/les-miserables/**/*.png filter=lfs diff=lfs merge=lfs -text
+scripts/les-miserables/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+scripts/les-miserables/**/*.webp filter=lfs diff=lfs merge=lfs -text
+scripts/les-miserables/qa/*.pwk filter=lfs diff=lfs merge=lfs -text
+# Preserve captured terminal output and downloaded cartography verbatim.
+scripts/les-miserables/qa/** -whitespace
+scripts/les-miserables/source/cartography/** -whitespace

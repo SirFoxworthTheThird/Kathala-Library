@@ -1,0 +1,59 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesItemStates.test.ts (8 tests | 2 failed) 93ms
+   × distinguishes gifts, storage and bequests from physically carrying the object 40ms
+   × keeps the lost bread coin in the spring and transfers the bucket through the actual hands 2ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > distinguishes gifts, storage and bequests from physically carrying the object
+AssertionError: expected 27 to be 33 // Object.is equality
+
+- Expected
++ Received
+
+- 33
++ 27
+
+ ❯ tests/lesMiserablesItemStates.test.ts:7:55
+      5|
+      6| test('distinguishes gifts, storage and bequests from physically carryi…
+      7|   expect(validateItemStates().sourceConfirmedChanges).toBe(33)
+       |                                                       ^
+      8|   expect(itemStateChanges.find(row => row.key === 'catherine-set-befor…
+      9|   expect(itemStateChanges.find(row => row.key === 'catherine-in-sleepi…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > keeps the lost bread coin in the spring and transfers the bucket through the actual hands
+AssertionError: expected undefined to match object { chapter: 95, at: 21, …(3) }
+
+- Expected:
+{
+  "at": 21,
+  "chapter": 95,
+  "evidenceParagraph": 36,
+  "holder": "cosette",
+  "kind": "held",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesItemStates.test.ts:19:67
+     17|
+     18| test('keeps the lost bread coin in the spring and transfers the bucket…
+     19|  expect(itemStateChanges.find(row=>row.key==='bread-coin-given')).toMa…
+       |                                                                   ^
+     20|  expect(itemStateChanges.find(row=>row.key==='bread-coin-lost')).toMat…
+     21|  const bucket=itemStateChanges.filter(row=>row.item==='cosette-water-b…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed | 6 passed (8)
+   Start at  01:14:44
+   Duration  725ms (transform 308ms, setup 0ms, import 463ms, tests 93ms, environment 0ms)
+

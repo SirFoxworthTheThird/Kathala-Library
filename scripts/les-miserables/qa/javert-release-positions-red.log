@@ -1,0 +1,30 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesJavertReleasePositions.test.ts (1 test | 1 failed) 1849ms
+   × ends the sham execution with Valjean back at the barricade and Javert alive at an unobserved onward position 1848ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesJavertReleasePositions.test.ts > ends the sham execution with Valjean back at the barricade and Javert alive at an unobserved onward position
+AssertionError: expected 'lesmis-world-review-location-mondetou…' to be 'lesmis-world-review-location-chanvrer…' // Object.is equality
+
+Expected: "lesmis-world-review-location-chanvrerie-barricade"
+Received: "lesmis-world-review-location-mondetour-lane-outside"
+
+ ❯ tests/lesMiserablesJavertReleasePositions.test.ts:7:52
+      5|  const{world}=buildWorldReview({embedded:false})
+      6|  const state=(actor:string)=>world.characterSnapshots.find(r=>r.eventI…
+      7|  expect(state('valjean')?.currentLocationMarkerId).toBe('lesmis-world-…
+       |                                                    ^
+      8|  expect(state('javert')?.currentLocationMarkerId).toBeNull()
+      9|  expect(state('javert')?.currentMapLayerId).toBeNull()
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  19:28:52
+   Duration  2.59s (transform 401ms, setup 0ms, import 586ms, tests 1.85s, environment 0ms)
+

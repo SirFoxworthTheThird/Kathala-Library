@@ -1,0 +1,56 @@
+{
+  "selected": [
+    [
+      "patagon",
+      "exec-55f0fe0e-6266-4b8e-b7dc-7227643b69b1.png"
+    ],
+    [
+      "marius-white-haired-inquirer",
+      "exec-5e0fa78a-abe9-4a2a-a4f7-2855b5fcc06b.png"
+    ],
+    [
+      "montfermeil-treasure-digger",
+      "exec-f39039e8-8f70-4e27-8da6-a1791ca00c43.png"
+    ],
+    [
+      "corinthe-javert-guard",
+      "exec-65daac61-9960-4c71-9057-b7f48c7f017b.png"
+    ],
+    [
+      "the-changer",
+      "exec-a0aacc59-96b9-438a-a985-2c80701cdce9.png"
+    ],
+    [
+      "gribier-wife",
+      "exec-4b332246-8415-47e0-8986-f6f3780f9184.png"
+    ],
+    [
+      "arras-police-messenger",
+      "exec-f580a346-2440-4ee8-9842-461ac79417cc.png"
+    ],
+    [
+      "arras-postman",
+      "exec-6626292e-90ee-44d7-ba9d-903363c1ee11.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "gribier-wife",
+      "prompt": "Remove both children completely from this individual portrait. Show the same thin adult mother alone seated with her empty hands resting on her own lap, same tired tearful face, modest fully covering dress, torn carpet and garret. Preserve literary ink/watercolor style. No other people, no extra limbs.",
+      "original": "exec-f688221c-10c6-490f-b3e2-587ee121c13b.png",
+      "selected": "exec-4b332246-8415-47e0-8986-f6f3780f9184.png"
+    },
+    {
+      "key": "arras-police-messenger",
+      "prompt": "Remove the later-style peaked cap and its badge. Show this same adult messenger BAREHEADED with natural short brown hair. Preserve dark early nineteenth-century civilian wool coat and plain folded paper, face and literary ink/watercolor style. No uniform insignia, no hat, no new props.",
+      "original": "exec-dbb9d9d7-b9b9-4279-8111-1ad74e147ac9.png",
+      "selected": "exec-f580a346-2440-4ee8-9842-461ac79417cc.png"
+    },
+    {
+      "key": "arras-postman",
+      "prompt": "Remove the later-style peaked cap and its badge. Show the same adult mail driver BAREHEADED with natural wavy brown hair. Preserve his cloak, face, raised hand, yellow two-wheeled cabriolet and black dispatch box. Same literary ink/watercolor. No hat, no insignia, no other changes.",
+      "original": "exec-72f21685-7f92-4d3e-acdb-7a9cb0ed7ba0.png",
+      "selected": "exec-6626292e-90ee-44d7-ba9d-903363c1ee11.png"
+    }
+  ]
+}

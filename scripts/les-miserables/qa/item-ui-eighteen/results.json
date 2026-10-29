@@ -1,0 +1,23 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "eighteen",
+  "images": [
+    {
+      "key": "marius-prison-payment-coin",
+      "imageId": "lesmis-world-review-art-items-marius-prison-payment-coin-webp",
+      "width": 1374,
+      "height": 1145
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "7866a40ba0731d87e6a42401590e2f815d32b9c047b357db0cf86ac3079f8c76",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-marius-prison-payment-coin",
+  "currentImageId": "lesmis-world-review-art-items-marius-prison-payment-coin-webp",
+  "currentDecoded": {
+    "width": 1374,
+    "height": 1145,
+    "type": "image/webp"
+  }
+}

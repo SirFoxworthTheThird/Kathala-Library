@@ -1,0 +1,168 @@
+[
+  [
+    {
+      "nom": "Hesdin-la-Forêt",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          2.0247,
+          50.3784
+        ]
+      },
+      "code": "62447",
+      "_score": 0.7812547611933209
+    },
+    {
+      "nom": "Campagne-lès-Hesdin",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          1.8601,
+          50.4009
+        ]
+      },
+      "code": "62204",
+      "_score": 0.7394887218346825
+    },
+    {
+      "nom": "Vieil-Hesdin",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          2.1127,
+          50.3641
+        ]
+      },
+      "code": "62850",
+      "_score": 0.7354531149501082
+    },
+    {
+      "nom": "Hesdin-l'Abbé",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          1.6856,
+          50.6688
+        ]
+      },
+      "code": "62448",
+      "_score": 0.7312717711412986
+    },
+    {
+      "nom": "Capelle-lès-Hesdin",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          1.99,
+          50.3453
+        ]
+      },
+      "code": "62212",
+      "_score": 0.7081422895011829
+    }
+  ],
+  [
+    {
+      "nom": "Saint-Pol-sur-Ternoise",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          2.3517,
+          50.3876
+        ]
+      },
+      "code": "62767",
+      "_score": 0.2610143672197974
+    }
+  ],
+  [
+    {
+      "nom": "Tincques",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          2.4943,
+          50.3612
+        ]
+      },
+      "code": "62820",
+      "_score": 1.00818
+    }
+  ],
+  [
+    {
+      "nom": "Carency",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          2.6959,
+          50.3809
+        ]
+      },
+      "code": "62213",
+      "_score": 1.00819
+    }
+  ],
+  [
+    {
+      "nom": "Moulins",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          3.3255,
+          46.5591
+        ]
+      },
+      "code": "03190",
+      "_score": 1.1920600000000001
+    },
+    {
+      "nom": "Moulins",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          -1.3667,
+          48.0079
+        ]
+      },
+      "code": "35198",
+      "_score": 1.00724
+    },
+    {
+      "nom": "Moulins",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          3.6789,
+          49.4209
+        ]
+      },
+      "code": "02530",
+      "_score": 1.00074
+    },
+    {
+      "nom": "Pont-les-Moulins",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          6.3633,
+          47.3268
+        ]
+      },
+      "code": "25465",
+      "_score": 0.7122440115375314
+    },
+    {
+      "nom": "Moulins-lès-Metz",
+      "centre": {
+        "type": "Point",
+        "coordinates": [
+          6.1192,
+          49.0929
+        ]
+      },
+      "code": "57487",
+      "_score": 0.6741485241204533
+    }
+  ]
+]

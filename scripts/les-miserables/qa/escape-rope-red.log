@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesEscapeRope.test.ts (1 test | 1 failed) 2140ms
+   × distinguishes the remaining escape rope from its detached fragment until the pieces are rejoined 2139ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesEscapeRope.test.ts > distinguishes the remaining escape rope from its detached fragment until the pieces are rejoined
+AssertionError: expected false to be true // Object.is equality
+
+- Expected
++ Received
+
+- true
++ false
+
+ ❯ tests/lesMiserablesEscapeRope.test.ts:8:43
+      6|  const main='lesmis-world-review-item-brujon-escape-rope'
+      7|  const fragment='lesmis-world-review-item-brujon-rope-fragment'
+      8|  expect(world.items.some(r=>r.id===main)).toBe(true)
+       |                                           ^
+      9|  expect(world.items.some(r=>r.id===fragment)).toBe(true)
+     10|  const mainStates=world.itemSnapshots.filter(r=>r.itemId===main)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  01:54:10
+   Duration  2.91s (transform 420ms, setup 0ms, import 615ms, tests 2.14s, environment 0ms)
+

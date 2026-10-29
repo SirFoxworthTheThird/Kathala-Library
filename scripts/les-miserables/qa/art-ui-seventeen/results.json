@@ -1,0 +1,41 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "seventeen",
+  "images": [
+    {
+      "key": "horse-pedlar",
+      "imageId": "lesmis-world-review-art-characters-horse-pedlar-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "lagny-coachman",
+      "imageId": "lesmis-world-review-art-characters-lagny-coachman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montfermeil-night-woman",
+      "imageId": "lesmis-world-review-art-characters-montfermeil-night-woman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "toy-merchant",
+      "imageId": "lesmis-world-review-art-characters-toy-merchant-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "153e57e2586135b168ab764b7dc7e626c6194cd39662a53fc74105d0394cbfbf",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-toy-merchant",
+  "currentImageId": "lesmis-world-review-art-characters-toy-merchant-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

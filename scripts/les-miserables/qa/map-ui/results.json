@@ -1,0 +1,2223 @@
+{
+  "scope": "Staged full-data map fixture only; not final book or scene visibility/playback QA",
+  "worldId": "les-miserables-map-review",
+  "maps": [
+    {
+      "key": "atlantic-context",
+      "positions": [
+        {
+          "key": "france-context",
+          "screenErrorPixels": 0.33
+        },
+        {
+          "key": "america",
+          "screenErrorPixels": 0.2
+        },
+        {
+          "key": "hauteville-house",
+          "screenErrorPixels": 0.338
+        }
+      ]
+    },
+    {
+      "key": "france",
+      "positions": [
+        {
+          "key": "digne-diocese",
+          "screenErrorPixels": 0.259
+        },
+        {
+          "key": "france-digne-gateway",
+          "screenErrorPixels": 0.19
+        },
+        {
+          "key": "vernon",
+          "screenErrorPixels": 0.443
+        },
+        {
+          "key": "montreuil-sur-mer",
+          "screenErrorPixels": 0.267
+        },
+        {
+          "key": "arras",
+          "screenErrorPixels": 0.603
+        },
+        {
+          "key": "toulon",
+          "screenErrorPixels": 0.406
+        },
+        {
+          "key": "waterloo-battlefield",
+          "screenErrorPixels": 0.329
+        },
+        {
+          "key": "faverolles-setting",
+          "screenErrorPixels": 0.483
+        },
+        {
+          "key": "paris-environs-region",
+          "screenErrorPixels": 0.492
+        },
+        {
+          "key": "villers-abbey",
+          "screenErrorPixels": 0.449
+        },
+        {
+          "key": "bas-boulonnais",
+          "screenErrorPixels": 0.506
+        },
+        {
+          "key": "hesdin-inn-front",
+          "screenErrorPixels": 0.427
+        },
+        {
+          "key": "saint-pol-inn",
+          "screenErrorPixels": 0.399
+        },
+        {
+          "key": "tinques-road",
+          "screenErrorPixels": 0.515
+        },
+        {
+          "key": "carency-arras-detour",
+          "screenErrorPixels": 0.279
+        },
+        {
+          "key": "moulins-college",
+          "screenErrorPixels": 0.417
+        }
+      ]
+    },
+    {
+      "key": "montreuil-town",
+      "positions": [
+        {
+          "key": "madeleine-factory",
+          "screenErrorPixels": 0.321
+        },
+        {
+          "key": "montreuil-townhall",
+          "screenErrorPixels": 0.667
+        },
+        {
+          "key": "montreuil-square",
+          "screenErrorPixels": 0.471
+        },
+        {
+          "key": "montreuil-police-station",
+          "screenErrorPixels": 0.204
+        },
+        {
+          "key": "montreuil-officers-cafe-front",
+          "screenErrorPixels": 0.243
+        },
+        {
+          "key": "montreuil-unpaved-alley",
+          "screenErrorPixels": 0.496
+        },
+        {
+          "key": "montreuil-barber-shop",
+          "screenErrorPixels": 0.634
+        },
+        {
+          "key": "montreuil-parsonage-door",
+          "screenErrorPixels": 0.51
+        },
+        {
+          "key": "scaufflaire-hire-yard",
+          "screenErrorPixels": 0.705
+        },
+        {
+          "key": "montreuil-post-office",
+          "screenErrorPixels": 0.509
+        },
+        {
+          "key": "montreuil-city-prison",
+          "screenErrorPixels": 0.634
+        },
+        {
+          "key": "montreuil-cemetery",
+          "screenErrorPixels": 0.332
+        },
+        {
+          "key": "montreuil-countryside",
+          "screenErrorPixels": 0.516
+        },
+        {
+          "key": "montreuil-hesdin-road",
+          "screenErrorPixels": 0.164
+        },
+        {
+          "key": "montreuil-paris-road",
+          "screenErrorPixels": 0.558
+        },
+        {
+          "key": "javert-montreuil-lodging",
+          "screenErrorPixels": 0.471
+        },
+        {
+          "key": "montreuil-lodging-quarter",
+          "screenErrorPixels": 0.465
+        }
+      ]
+    },
+    {
+      "key": "arras-town",
+      "positions": [
+        {
+          "key": "arras-hotel-poste",
+          "screenErrorPixels": 0.554
+        },
+        {
+          "key": "arras-posting-office",
+          "screenErrorPixels": 0.42
+        },
+        {
+          "key": "arras-prefecture-square",
+          "screenErrorPixels": 0.463
+        },
+        {
+          "key": "arras-prefecture",
+          "screenErrorPixels": 0.189
+        }
+      ]
+    },
+    {
+      "key": "waterloo-country",
+      "positions": [
+        {
+          "key": "hougomont",
+          "screenErrorPixels": 0.537
+        },
+        {
+          "key": "nivelles-la-hulpe-road",
+          "screenErrorPixels": 0.688
+        },
+        {
+          "key": "mont-saint-jean-crossroads",
+          "screenErrorPixels": 0.595
+        },
+        {
+          "key": "mont-saint-jean-mill",
+          "screenErrorPixels": 0.39
+        },
+        {
+          "key": "mont-saint-jean-plateau",
+          "screenErrorPixels": 0.585
+        },
+        {
+          "key": "mont-saint-jean-plateau-foot",
+          "screenErrorPixels": 0.264
+        },
+        {
+          "key": "belle-alliance-mont-saint-jean-slope",
+          "screenErrorPixels": 0.585
+        },
+        {
+          "key": "ohain-hollow-road",
+          "screenErrorPixels": 0.133
+        },
+        {
+          "key": "plancenoit-front",
+          "screenErrorPixels": 0.474
+        },
+        {
+          "key": "wavre-plancenoit-route",
+          "screenErrorPixels": 0.427
+        },
+        {
+          "key": "rossomme-heights",
+          "screenErrorPixels": 0.402
+        },
+        {
+          "key": "rossomme-outposts",
+          "screenErrorPixels": 0.196
+        },
+        {
+          "key": "rossomme-command-table",
+          "screenErrorPixels": 0.762
+        },
+        {
+          "key": "rossomme-deployment-ground",
+          "screenErrorPixels": 0.174
+        },
+        {
+          "key": "napoleon-waterloo-command-post",
+          "screenErrorPixels": 0.551
+        },
+        {
+          "key": "napoleon-waterloo-observation-post",
+          "screenErrorPixels": 0.388
+        },
+        {
+          "key": "waterloo-genappe-retreat",
+          "screenErrorPixels": 0.41
+        },
+        {
+          "key": "genappe-meadow",
+          "screenErrorPixels": 0.346
+        }
+      ]
+    },
+    {
+      "key": "toulon-harbour",
+      "positions": [
+        {
+          "key": "toulon-harbour",
+          "screenErrorPixels": 0.445
+        },
+        {
+          "key": "toulon-galleys",
+          "screenErrorPixels": 0.329
+        },
+        {
+          "key": "toulon-townhall",
+          "screenErrorPixels": 0.729
+        },
+        {
+          "key": "orion-at-anchor",
+          "screenErrorPixels": 0.335
+        },
+        {
+          "key": "toulon-orion-algesiras-water",
+          "screenErrorPixels": 0.505
+        }
+      ]
+    },
+    {
+      "key": "southern-country",
+      "positions": [
+        {
+          "key": "senez-gate",
+          "screenErrorPixels": 0.436
+        },
+        {
+          "key": "ubaye-district",
+          "screenErrorPixels": 0.473
+        },
+        {
+          "key": "grasse",
+          "screenErrorPixels": 0.274
+        },
+        {
+          "key": "southern-localities",
+          "screenErrorPixels": 0.427
+        }
+      ]
+    },
+    {
+      "key": "vernon-details",
+      "positions": [
+        {
+          "key": "pontmercy-vernon-house",
+          "screenErrorPixels": 0.468
+        },
+        {
+          "key": "vernon-coach-relay",
+          "screenErrorPixels": 0.61
+        },
+        {
+          "key": "vernon-church-approach",
+          "screenErrorPixels": 0.537
+        },
+        {
+          "key": "pontmercy-vernon-grave",
+          "screenErrorPixels": 0.115
+        }
+      ]
+    },
+    {
+      "key": "faverolles-village",
+      "positions": [
+        {
+          "key": "faverolles",
+          "screenErrorPixels": 0.662
+        },
+        {
+          "key": "faverolles-bakery",
+          "screenErrorPixels": 0.648
+        }
+      ]
+    },
+    {
+      "key": "paris-environs",
+      "positions": [
+        {
+          "key": "paris",
+          "screenErrorPixels": 0.108
+        },
+        {
+          "key": "montfermeil-region",
+          "screenErrorPixels": 0.314
+        },
+        {
+          "key": "saint-cloud",
+          "screenErrorPixels": 0.425
+        },
+        {
+          "key": "saint-cloud-park",
+          "screenErrorPixels": 0.249
+        },
+        {
+          "key": "saint-cloud-chestnut-walk",
+          "screenErrorPixels": 0.614
+        },
+        {
+          "key": "saint-cloud-kings-square",
+          "screenErrorPixels": 0.581
+        },
+        {
+          "key": "issy-park-swing",
+          "screenErrorPixels": 0.37
+        },
+        {
+          "key": "sceaux-ball",
+          "screenErrorPixels": 0.479
+        },
+        {
+          "key": "ecouen-school",
+          "screenErrorPixels": 0.615
+        },
+        {
+          "key": "bicetre-courtyard",
+          "screenErrorPixels": 0.085
+        },
+        {
+          "key": "chelles-abbey-inn-front",
+          "screenErrorPixels": 0.476
+        },
+        {
+          "key": "paris-outskirts",
+          "screenErrorPixels": 0.596
+        }
+      ]
+    },
+    {
+      "key": "villers-source-details",
+      "positions": [
+        {
+          "key": "villers-abbey-dungeons",
+          "screenErrorPixels": 0.441
+        }
+      ]
+    },
+    {
+      "key": "digne",
+      "positions": [
+        {
+          "key": "digne",
+          "screenErrorPixels": 0.73
+        },
+        {
+          "key": "digne-palace",
+          "screenErrorPixels": 0.673
+        },
+        {
+          "key": "digne-palace-gallery",
+          "screenErrorPixels": 0.463
+        },
+        {
+          "key": "digne-hospital",
+          "screenErrorPixels": 0.451
+        },
+        {
+          "key": "digne-bishop-house-gateway",
+          "screenErrorPixels": 0.755
+        },
+        {
+          "key": "digne-cathedral",
+          "screenErrorPixels": 0.535
+        },
+        {
+          "key": "digne-cathedral-door",
+          "screenErrorPixels": 0.338
+        },
+        {
+          "key": "digne-printing-office-door",
+          "screenErrorPixels": 0.164
+        },
+        {
+          "key": "digne-prefecture-dining-room",
+          "screenErrorPixels": 0.468
+        },
+        {
+          "key": "cross-colbas",
+          "screenErrorPixels": 0.367
+        },
+        {
+          "key": "cross-colbas-kitchen",
+          "screenErrorPixels": 0.472
+        },
+        {
+          "key": "chaffaut-public-house",
+          "screenErrorPixels": 0.248
+        },
+        {
+          "key": "digne-prison-door",
+          "screenErrorPixels": 0.2
+        },
+        {
+          "key": "digne-prison-cell",
+          "screenErrorPixels": 0.378
+        },
+        {
+          "key": "digne-artisan-house",
+          "screenErrorPixels": 0.381
+        },
+        {
+          "key": "digne-kennel-garden",
+          "screenErrorPixels": 0.41
+        },
+        {
+          "key": "digne-drawing-room",
+          "screenErrorPixels": 0.364
+        },
+        {
+          "key": "digne-outskirts",
+          "screenErrorPixels": 0.348
+        },
+        {
+          "key": "digne-civic-setting",
+          "screenErrorPixels": 0.359
+        }
+      ]
+    },
+    {
+      "key": "madeleine-premises",
+      "positions": [
+        {
+          "key": "madeleine-women-workroom",
+          "screenErrorPixels": 0.491
+        },
+        {
+          "key": "madeleine-factory-lodge",
+          "screenErrorPixels": 0.265
+        },
+        {
+          "key": "madeleine-study",
+          "screenErrorPixels": 0.224
+        },
+        {
+          "key": "madeleine-bedroom",
+          "screenErrorPixels": 0.466
+        },
+        {
+          "key": "madeleine-bedroom-door",
+          "screenErrorPixels": 0.114
+        },
+        {
+          "key": "madeleine-cashier-room",
+          "screenErrorPixels": 0.603
+        },
+        {
+          "key": "montreuil-factory-infirmary",
+          "screenErrorPixels": 0.299
+        },
+        {
+          "key": "montreuil-infirmary-antechamber",
+          "screenErrorPixels": 0.474
+        },
+        {
+          "key": "montreuil-infirmary-laboratory",
+          "screenErrorPixels": 0.471
+        }
+      ]
+    },
+    {
+      "key": "fantine-rented-rooms",
+      "positions": [
+        {
+          "key": "fantine-montreuil-room",
+          "screenErrorPixels": 0.414
+        },
+        {
+          "key": "fantine-montreuil-attic",
+          "screenErrorPixels": 0.413
+        }
+      ]
+    },
+    {
+      "key": "arras-court",
+      "positions": [
+        {
+          "key": "arras-assize-hall",
+          "screenErrorPixels": 0.51
+        },
+        {
+          "key": "arras-council-chamber",
+          "screenErrorPixels": 0.851
+        },
+        {
+          "key": "arras-court-antechamber",
+          "screenErrorPixels": 0.346
+        },
+        {
+          "key": "arras-court-corridor",
+          "screenErrorPixels": 0.777
+        },
+        {
+          "key": "arras-private-conference-room",
+          "screenErrorPixels": 0.694
+        }
+      ]
+    },
+    {
+      "key": "montfermeil-country",
+      "positions": [
+        {
+          "key": "montfermeil",
+          "screenErrorPixels": 0.341
+        },
+        {
+          "key": "thenardier-inn",
+          "screenErrorPixels": 0.24
+        },
+        {
+          "key": "thenardier-inn-front",
+          "screenErrorPixels": 0.397
+        },
+        {
+          "key": "montfermeil-church-square",
+          "screenErrorPixels": 0.758
+        },
+        {
+          "key": "montfermeil-toy-stall",
+          "screenErrorPixels": 0.138
+        },
+        {
+          "key": "montfermeil-forest",
+          "screenErrorPixels": 0.231
+        },
+        {
+          "key": "montfermeil-chelles-path",
+          "screenErrorPixels": 0.441
+        },
+        {
+          "key": "montfermeil-forest-spring",
+          "screenErrorPixels": 0.578
+        },
+        {
+          "key": "montfermeil-spring-return-path",
+          "screenErrorPixels": 0.275
+        },
+        {
+          "key": "montfermeil-marked-clearing",
+          "screenErrorPixels": 0.214
+        },
+        {
+          "key": "montfermeil-gagny-road",
+          "screenErrorPixels": 0.054
+        },
+        {
+          "key": "montfermeil-livry-road",
+          "screenErrorPixels": 0.222
+        },
+        {
+          "key": "montfermeil-livry-bondy-forest",
+          "screenErrorPixels": 0.489
+        },
+        {
+          "key": "montfermeil-aqueduct-turf-path",
+          "screenErrorPixels": 0.475
+        }
+      ]
+    },
+    {
+      "key": "hougomont-details",
+      "positions": [
+        {
+          "key": "hougomont-courtyard",
+          "screenErrorPixels": 0.363
+        },
+        {
+          "key": "hougomont-south-door",
+          "screenErrorPixels": 0.178
+        },
+        {
+          "key": "hougomont-farmhouse",
+          "screenErrorPixels": 0.464
+        },
+        {
+          "key": "hougomont-orchard",
+          "screenErrorPixels": 0.446
+        },
+        {
+          "key": "hougomont-well",
+          "screenErrorPixels": 0.698
+        }
+      ]
+    },
+    {
+      "key": "orion-deck",
+      "positions": [
+        {
+          "key": "orion-deck",
+          "screenErrorPixels": 0.274
+        }
+      ]
+    },
+    {
+      "key": "orion-main-yard",
+      "positions": [
+        {
+          "key": "orion-main-yard",
+          "screenErrorPixels": 0.344
+        }
+      ]
+    },
+    {
+      "key": "southern-local-details",
+      "positions": [
+        {
+          "key": "chastelar",
+          "screenErrorPixels": 0.245
+        },
+        {
+          "key": "chastelar-mountain-route",
+          "screenErrorPixels": 0.741
+        },
+        {
+          "key": "chastelar-priest-house",
+          "screenErrorPixels": 0.744
+        },
+        {
+          "key": "mountain-presbytery",
+          "screenErrorPixels": 0.624
+        },
+        {
+          "key": "g-valley-path",
+          "screenErrorPixels": 0.096
+        },
+        {
+          "key": "g-hut-door",
+          "screenErrorPixels": 0.561
+        },
+        {
+          "key": "gervais-plain",
+          "screenErrorPixels": 0.427
+        },
+        {
+          "key": "gervais-plain-path",
+          "screenErrorPixels": 0.408
+        },
+        {
+          "key": "gervais-three-paths",
+          "screenErrorPixels": 0.125
+        },
+        {
+          "key": "grasse-distillery",
+          "screenErrorPixels": 0.66
+        }
+      ]
+    },
+    {
+      "key": "digne-civic-details",
+      "positions": [
+        {
+          "key": "digne-execution-route",
+          "screenErrorPixels": 0.039
+        },
+        {
+          "key": "digne-scaffold",
+          "screenErrorPixels": 0.475
+        }
+      ]
+    },
+    {
+      "key": "paris",
+      "positions": [
+        {
+          "key": "bastille-elephant",
+          "screenErrorPixels": 0.275
+        },
+        {
+          "key": "la-force",
+          "screenErrorPixels": 0.535
+        },
+        {
+          "key": "paris-sewer-network",
+          "screenErrorPixels": 0.432
+        },
+        {
+          "key": "seine-right-bank-beyond-invalides",
+          "screenErrorPixels": 0.49
+        },
+        {
+          "key": "petit-picpus-quarter",
+          "screenErrorPixels": 0.321
+        },
+        {
+          "key": "gillenormand-house",
+          "screenErrorPixels": 0.471
+        },
+        {
+          "key": "rue-plumet-house",
+          "screenErrorPixels": 0.519
+        },
+        {
+          "key": "rue-plumet-gate",
+          "screenErrorPixels": 0.112
+        },
+        {
+          "key": "rue-plumet-boulevard-invalides-corner",
+          "screenErrorPixels": 0.093
+        },
+        {
+          "key": "rue-babylone-secret-door",
+          "screenErrorPixels": 0.434
+        },
+        {
+          "key": "homme-arme-house",
+          "screenErrorPixels": 0.293
+        },
+        {
+          "key": "paris-gorbeau-quarter-gateway",
+          "screenErrorPixels": 0.622
+        },
+        {
+          "key": "paris-halles-gateway",
+          "screenErrorPixels": 0.548
+        },
+        {
+          "key": "paris-marais",
+          "screenErrorPixels": 0.546
+        },
+        {
+          "key": "paris-latin-quarter",
+          "screenErrorPixels": 0.546
+        },
+        {
+          "key": "luxembourg-gardens",
+          "screenErrorPixels": 0.356
+        },
+        {
+          "key": "champs-elysees",
+          "screenErrorPixels": 0.129
+        },
+        {
+          "key": "boulevard-du-temple",
+          "screenErrorPixels": 0.298
+        },
+        {
+          "key": "paris-town-hall",
+          "screenErrorPixels": 0.389
+        },
+        {
+          "key": "faubourg-saint-antoine",
+          "screenErrorPixels": 0.472
+        },
+        {
+          "key": "paris-mouffetard-quarter",
+          "screenErrorPixels": 0.189
+        },
+        {
+          "key": "saint-sulpice",
+          "screenErrorPixels": 0.201
+        },
+        {
+          "key": "seine-paris",
+          "screenErrorPixels": 0.624
+        },
+        {
+          "key": "vaugirard-cemetery",
+          "screenErrorPixels": 0.405
+        },
+        {
+          "key": "cafe-musain",
+          "screenErrorPixels": 0.311
+        },
+        {
+          "key": "rue-pavee",
+          "screenErrorPixels": 0.317
+        },
+        {
+          "key": "hotel-lamoignon-street",
+          "screenErrorPixels": 0.162
+        },
+        {
+          "key": "rue-lesdiguieres",
+          "screenErrorPixels": 0.438
+        },
+        {
+          "key": "rue-billettes",
+          "screenErrorPixels": 0.488
+        },
+        {
+          "key": "rue-chaume",
+          "screenErrorPixels": 0.153
+        },
+        {
+          "key": "rue-clocheperce",
+          "screenErrorPixels": 0.453
+        },
+        {
+          "key": "rue-des-ballets-archway",
+          "screenErrorPixels": 0.421
+        },
+        {
+          "key": "rue-jean-jacques-rousseau",
+          "screenErrorPixels": 0.282
+        },
+        {
+          "key": "rue-menilmontant",
+          "screenErrorPixels": 0.41
+        },
+        {
+          "key": "rue-mouffetard",
+          "screenErrorPixels": 0.346
+        },
+        {
+          "key": "rue-pont-aux-choux",
+          "screenErrorPixels": 0.343
+        },
+        {
+          "key": "boulevard-pont-aux-choux",
+          "screenErrorPixels": 0.563
+        },
+        {
+          "key": "rue-rivoli",
+          "screenErrorPixels": 0.311
+        },
+        {
+          "key": "rue-saint-honore",
+          "screenErrorPixels": 0.458
+        },
+        {
+          "key": "rue-saint-antoine",
+          "screenErrorPixels": 0.217
+        },
+        {
+          "key": "rue-saint-louis",
+          "screenErrorPixels": 0.323
+        },
+        {
+          "key": "rue-thorigny-doorway",
+          "screenErrorPixels": 0.504
+        },
+        {
+          "key": "rue-verrerie",
+          "screenErrorPixels": 0.3
+        },
+        {
+          "key": "rue-vieilles-haudriettes",
+          "screenErrorPixels": 0.484
+        },
+        {
+          "key": "royal-printing-guard-post",
+          "screenErrorPixels": 0.532
+        },
+        {
+          "key": "enfants-rouges-street-post",
+          "screenErrorPixels": 0.31
+        },
+        {
+          "key": "quai-morland",
+          "screenErrorPixels": 0.626
+        },
+        {
+          "key": "notre-dame-paris",
+          "screenErrorPixels": 0.093
+        },
+        {
+          "key": "pont-austerlitz",
+          "screenErrorPixels": 0.327
+        },
+        {
+          "key": "pont-notre-dame-parapet",
+          "screenErrorPixels": 0.251
+        },
+        {
+          "key": "place-de-greve",
+          "screenErrorPixels": 0.215
+        },
+        {
+          "key": "saint-paul-church",
+          "screenErrorPixels": 0.491
+        },
+        {
+          "key": "marche-saint-jean",
+          "screenErrorPixels": 0.422
+        },
+        {
+          "key": "marais-streets",
+          "screenErrorPixels": 0.661
+        },
+        {
+          "key": "rue-reuilly-building-site",
+          "screenErrorPixels": 0.547
+        },
+        {
+          "key": "mabeuf-austerlitz-cottage",
+          "screenErrorPixels": 0.511
+        },
+        {
+          "key": "paris-cafe-spaces",
+          "screenErrorPixels": 0.187
+        },
+        {
+          "key": "picpus-street-approaches",
+          "screenErrorPixels": 0.331
+        },
+        {
+          "key": "chatelet-police-post",
+          "screenErrorPixels": 0.479
+        },
+        {
+          "key": "barriere-maine-road",
+          "screenErrorPixels": 0.28
+        },
+        {
+          "key": "barriere-maine-route",
+          "screenErrorPixels": 0.377
+        },
+        {
+          "key": "barriere-maine-timber-yard",
+          "screenErrorPixels": 0.594
+        },
+        {
+          "key": "boulevard-du-maine",
+          "screenErrorPixels": 0.509
+        },
+        {
+          "key": "boulevard-invalides-vicinity",
+          "screenErrorPixels": 0.481
+        },
+        {
+          "key": "champ-de-mars-moat",
+          "screenErrorPixels": 0.584
+        },
+        {
+          "key": "champ-de-mars-slope",
+          "screenErrorPixels": 0.583
+        },
+        {
+          "key": "beaujon-russian-mountains",
+          "screenErrorPixels": 0.133
+        },
+        {
+          "key": "paris-barrier-monceaux",
+          "screenErrorPixels": 0.374
+        },
+        {
+          "key": "jardin-plantes-quay-route",
+          "screenErrorPixels": 0.333
+        },
+        {
+          "key": "paris-carrefour-rollin",
+          "screenErrorPixels": 0.205
+        },
+        {
+          "key": "paris-observatoire-hopital-streets",
+          "screenErrorPixels": 0.359
+        },
+        {
+          "key": "salpetriere-adjoining-plains",
+          "screenErrorPixels": 0.23
+        },
+        {
+          "key": "paris-rue-pontoise",
+          "screenErrorPixels": 0.443
+        },
+        {
+          "key": "rue-pontoise-police-office",
+          "screenErrorPixels": 0.199
+        },
+        {
+          "key": "rue-pontoise-police-route",
+          "screenErrorPixels": 0.572
+        },
+        {
+          "key": "saint-medard-well",
+          "screenErrorPixels": 0.456
+        },
+        {
+          "key": "rue-mouffetard-pursuit-route",
+          "screenErrorPixels": 0.368
+        },
+        {
+          "key": "rue-beautreillis-costume-shop",
+          "screenErrorPixels": 0.624
+        },
+        {
+          "key": "saint-antoine-bakery",
+          "screenErrorPixels": 0.462
+        },
+        {
+          "key": "mabeuf-rue-mesieres-home",
+          "screenErrorPixels": 0.297
+        },
+        {
+          "key": "magnon-rue-clocheperce-home",
+          "screenErrorPixels": 0.355
+        },
+        {
+          "key": "orme-saint-gervais-barber-shop",
+          "screenErrorPixels": 0.317
+        },
+        {
+          "key": "plat-etain-coach-office",
+          "screenErrorPixels": 0.501
+        },
+        {
+          "key": "rue-roi-sicile-ruin",
+          "screenErrorPixels": 0.3
+        },
+        {
+          "key": "paris-lodgings",
+          "screenErrorPixels": 0.355
+        },
+        {
+          "key": "larks-meadow-approach",
+          "screenErrorPixels": 0.528
+        },
+        {
+          "key": "pere-lachaise-cemetery",
+          "screenErrorPixels": 0.524
+        },
+        {
+          "key": "paris-private-rooms",
+          "screenErrorPixels": 0.39
+        },
+        {
+          "key": "paris-public-rooms",
+          "screenErrorPixels": 0.24
+        },
+        {
+          "key": "paris-carriages",
+          "screenErrorPixels": 0.421
+        },
+        {
+          "key": "chemin-vert-fruit-seller",
+          "screenErrorPixels": 0.347
+        },
+        {
+          "key": "paris-boulevards",
+          "screenErrorPixels": 0.345
+        },
+        {
+          "key": "paris-prisons",
+          "screenErrorPixels": 0.621
+        },
+        {
+          "key": "paris-public-festival",
+          "screenErrorPixels": 0.495
+        },
+        {
+          "key": "paris-theatres",
+          "screenErrorPixels": 0.312
+        }
+      ]
+    },
+    {
+      "key": "bishop-ground-floor",
+      "positions": [
+        {
+          "key": "bishop-house",
+          "screenErrorPixels": 0.611
+        },
+        {
+          "key": "bishop-house-entrance",
+          "screenErrorPixels": 0.642
+        },
+        {
+          "key": "bishop-dining-room",
+          "screenErrorPixels": 0.462
+        },
+        {
+          "key": "bishop-bedroom",
+          "screenErrorPixels": 0.396
+        },
+        {
+          "key": "bishop-house-library",
+          "screenErrorPixels": 0.437
+        },
+        {
+          "key": "bishop-oratory-door",
+          "screenErrorPixels": 0.456
+        },
+        {
+          "key": "bishop-oratory-alcove",
+          "screenErrorPixels": 0.654
+        },
+        {
+          "key": "bishop-garden",
+          "screenErrorPixels": 0.522
+        }
+      ]
+    },
+    {
+      "key": "bishop-first-floor",
+      "positions": [
+        {
+          "key": "bishop-upstairs-drawing-room",
+          "screenErrorPixels": 0.281
+        }
+      ]
+    },
+    {
+      "key": "thenardier-inn-details",
+      "positions": [
+        {
+          "key": "thenardier-inn-public-room",
+          "screenErrorPixels": 0.413
+        },
+        {
+          "key": "thenardier-inn-guest-room",
+          "screenErrorPixels": 0.502
+        },
+        {
+          "key": "thenardier-inn-stairs",
+          "screenErrorPixels": 0.857
+        },
+        {
+          "key": "thenardier-understairs-recess",
+          "screenErrorPixels": 0.435
+        },
+        {
+          "key": "thenardier-children-hearth-room",
+          "screenErrorPixels": 0.327
+        },
+        {
+          "key": "thenardier-couple-bedroom",
+          "screenErrorPixels": 0.684
+        }
+      ]
+    },
+    {
+      "key": "plumet-house",
+      "positions": [
+        {
+          "key": "rue-plumet-street",
+          "screenErrorPixels": 0.357
+        },
+        {
+          "key": "rue-plumet-street-corner",
+          "screenErrorPixels": 0.457
+        },
+        {
+          "key": "rue-plumet-garden",
+          "screenErrorPixels": 0.389
+        },
+        {
+          "key": "rue-plumet-garden-bench",
+          "screenErrorPixels": 0.179
+        },
+        {
+          "key": "rue-plumet-garden-gate",
+          "screenErrorPixels": 0.521
+        },
+        {
+          "key": "rue-plumet-garden-steps",
+          "screenErrorPixels": 0.506
+        },
+        {
+          "key": "rue-plumet-pavilion",
+          "screenErrorPixels": 0.445
+        },
+        {
+          "key": "rue-plumet-rear-lodge",
+          "screenErrorPixels": 0.791
+        },
+        {
+          "key": "rue-plumet-cosette-room",
+          "screenErrorPixels": 0.618
+        }
+      ]
+    },
+    {
+      "key": "homme-arme-rooms",
+      "positions": [
+        {
+          "key": "homme-arme-apartment",
+          "screenErrorPixels": 0.535
+        },
+        {
+          "key": "homme-arme-dining-room",
+          "screenErrorPixels": 0.704
+        },
+        {
+          "key": "homme-arme-cosette-room",
+          "screenErrorPixels": 0.617
+        },
+        {
+          "key": "homme-arme-cosette-room-window",
+          "screenErrorPixels": 0.539
+        },
+        {
+          "key": "homme-arme-valjean-room",
+          "screenErrorPixels": 0.334
+        },
+        {
+          "key": "homme-arme-doorstep",
+          "screenErrorPixels": 0.333
+        },
+        {
+          "key": "homme-arme-street-entrance",
+          "screenErrorPixels": 0.427
+        },
+        {
+          "key": "homme-arme-stair-landing",
+          "screenErrorPixels": 0.477
+        }
+      ]
+    },
+    {
+      "key": "gillenormand-details",
+      "positions": [
+        {
+          "key": "gillenormand-bedroom",
+          "screenErrorPixels": 0.209
+        },
+        {
+          "key": "gillenormand-bedroom-window",
+          "screenErrorPixels": 0.659
+        },
+        {
+          "key": "gillenormand-bedroom-anteroom",
+          "screenErrorPixels": 0.488
+        },
+        {
+          "key": "gillenormand-drawing-room",
+          "screenErrorPixels": 0.624
+        },
+        {
+          "key": "gillenormand-dining-room",
+          "screenErrorPixels": 0.558
+        },
+        {
+          "key": "gillenormand-elder-daughter-room",
+          "screenErrorPixels": 0.418
+        },
+        {
+          "key": "gillenormand-garden",
+          "screenErrorPixels": 0.079
+        },
+        {
+          "key": "gillenormand-house-entrance",
+          "screenErrorPixels": 0.268
+        },
+        {
+          "key": "gillenormand-lower-waiting-room",
+          "screenErrorPixels": 0.359
+        },
+        {
+          "key": "gillenormand-study",
+          "screenErrorPixels": 0.199
+        },
+        {
+          "key": "marius-gillenormand-attic",
+          "screenErrorPixels": 0.425
+        },
+        {
+          "key": "marius-recovery-room",
+          "screenErrorPixels": 0.309
+        }
+      ]
+    },
+    {
+      "key": "petit-picpus-site",
+      "positions": [
+        {
+          "key": "petit-picpus-garden",
+          "screenErrorPixels": 0.123
+        },
+        {
+          "key": "petit-picpus-arched-window",
+          "screenErrorPixels": 0.507
+        },
+        {
+          "key": "petit-picpus-melon-beds",
+          "screenErrorPixels": 0.529
+        },
+        {
+          "key": "petit-picpus-ruined-shed",
+          "screenErrorPixels": 0.526
+        },
+        {
+          "key": "petit-picpus-convent",
+          "screenErrorPixels": 0.569
+        },
+        {
+          "key": "petit-picpus-little-convent",
+          "screenErrorPixels": 0.243
+        },
+        {
+          "key": "petit-picpus-school",
+          "screenErrorPixels": 0.225
+        },
+        {
+          "key": "petit-picpus-school-garden",
+          "screenErrorPixels": 0.346
+        },
+        {
+          "key": "petit-picpus-courtyard",
+          "screenErrorPixels": 0.708
+        },
+        {
+          "key": "petit-picpus-entrance",
+          "screenErrorPixels": 0.181
+        },
+        {
+          "key": "droit-mur-garden-wall",
+          "screenErrorPixels": 0.214
+        },
+        {
+          "key": "droit-mur-petit-picpus-sentinel-post",
+          "screenErrorPixels": 0.884
+        },
+        {
+          "key": "rue-droit-mur",
+          "screenErrorPixels": 0.692
+        },
+        {
+          "key": "rue-polonceau",
+          "screenErrorPixels": 0.117
+        },
+        {
+          "key": "rue-polonceau-droit-mur-junction",
+          "screenErrorPixels": 0.307
+        }
+      ]
+    },
+    {
+      "key": "paris-sewers",
+      "positions": [
+        {
+          "key": "chanvrerie-subterranean-corridor",
+          "screenErrorPixels": 0.358
+        },
+        {
+          "key": "montmartre-sewer",
+          "screenErrorPixels": 0.297
+        },
+        {
+          "key": "montmartre-service-crossroads",
+          "screenErrorPixels": 0.389
+        },
+        {
+          "key": "grand-sewer-junction",
+          "screenErrorPixels": 0.269
+        },
+        {
+          "key": "grand-sewer",
+          "screenErrorPixels": 0.175
+        },
+        {
+          "key": "grand-sewer-airhole-rest",
+          "screenErrorPixels": 0.348
+        },
+        {
+          "key": "grand-sewer-fontis",
+          "screenErrorPixels": 0.442
+        },
+        {
+          "key": "grand-sewer-fontis-far-side",
+          "screenErrorPixels": 0.271
+        },
+        {
+          "key": "grand-sewer-outlet-approach",
+          "screenErrorPixels": 0.639
+        },
+        {
+          "key": "jena-sewer-outlet",
+          "screenErrorPixels": 0.38
+        },
+        {
+          "key": "jena-sewer-outlet-shore",
+          "screenErrorPixels": 0.442
+        }
+      ]
+    },
+    {
+      "key": "bastille-elephant-exterior",
+      "positions": [
+        {
+          "key": "bastille-elephant-enclosure",
+          "screenErrorPixels": 0.416
+        },
+        {
+          "key": "bastille-elephant-entrance",
+          "screenErrorPixels": 0.292
+        }
+      ]
+    },
+    {
+      "key": "bastille-elephant-interior",
+      "positions": [
+        {
+          "key": "bastille-elephant-interior",
+          "screenErrorPixels": 0.199
+        }
+      ]
+    },
+    {
+      "key": "la-force-details",
+      "positions": [
+        {
+          "key": "la-force-charlemagne-yard",
+          "screenErrorPixels": 0.626
+        },
+        {
+          "key": "la-force-new-building",
+          "screenErrorPixels": 0.574
+        },
+        {
+          "key": "la-force-fine-air",
+          "screenErrorPixels": 0.541
+        }
+      ]
+    },
+    {
+      "key": "vaugirard-cemetery",
+      "positions": [
+        {
+          "key": "vaugirard-cemetery-approach",
+          "screenErrorPixels": 0.517
+        },
+        {
+          "key": "vaugirard-cemetery-gate",
+          "screenErrorPixels": 0.226
+        },
+        {
+          "key": "vaugirard-open-grave",
+          "screenErrorPixels": 0.465
+        }
+      ]
+    },
+    {
+      "key": "cafe-musain",
+      "positions": [
+        {
+          "key": "cafe-musain-entrance",
+          "screenErrorPixels": 0.638
+        },
+        {
+          "key": "cafe-musain-back-room",
+          "screenErrorPixels": 0.46
+        }
+      ]
+    },
+    {
+      "key": "mabeuf-cottage",
+      "positions": [
+        {
+          "key": "mabeuf-austerlitz-garden",
+          "screenErrorPixels": 0.419
+        },
+        {
+          "key": "mabeuf-garden-hedge",
+          "screenErrorPixels": 0.435
+        },
+        {
+          "key": "mabeuf-garden-lane",
+          "screenErrorPixels": 0.415
+        }
+      ]
+    },
+    {
+      "key": "paris-cafe-details",
+      "positions": [
+        {
+          "key": "bombarda-upper-room",
+          "screenErrorPixels": 0.246
+        },
+        {
+          "key": "cafe-voltaire",
+          "screenErrorPixels": 0.179
+        },
+        {
+          "key": "richefeu-smoking-room",
+          "screenErrorPixels": 0.206
+        }
+      ]
+    },
+    {
+      "key": "luxembourg-details",
+      "positions": [
+        {
+          "key": "luxembourg-pepiniere-alley",
+          "screenErrorPixels": 0.508
+        },
+        {
+          "key": "luxembourg-pepiniere-bench",
+          "screenErrorPixels": 0.41
+        },
+        {
+          "key": "luxembourg-grand-basin",
+          "screenErrorPixels": 0.37
+        }
+      ]
+    },
+    {
+      "key": "picpus-approaches",
+      "positions": [
+        {
+          "key": "chemin-vert-saint-antoine-entrance",
+          "screenErrorPixels": 0.586
+        },
+        {
+          "key": "cul-de-sac-genrot",
+          "screenErrorPixels": 0.226
+        },
+        {
+          "key": "cul-de-sac-genrot-lantern",
+          "screenErrorPixels": 0.407
+        },
+        {
+          "key": "droit-mur-wall-recess",
+          "screenErrorPixels": 0.486
+        },
+        {
+          "key": "paris-pursuit-route",
+          "screenErrorPixels": 0.424
+        }
+      ]
+    },
+    {
+      "key": "roi-sicile-ruin",
+      "positions": [
+        {
+          "key": "rue-roi-sicile-ruin-enclosure",
+          "screenErrorPixels": 0.744
+        },
+        {
+          "key": "rue-roi-sicile-ruin-wall",
+          "screenErrorPixels": 0.76
+        }
+      ]
+    },
+    {
+      "key": "paris-lodging-details",
+      "positions": [
+        {
+          "key": "courfeyrac-rue-verrerie-lodgings",
+          "screenErrorPixels": 0.196
+        },
+        {
+          "key": "courfeyrac-house-entrance",
+          "screenErrorPixels": 0.179
+        },
+        {
+          "key": "hotel-porte-saint-jacques",
+          "screenErrorPixels": 0.314
+        },
+        {
+          "key": "rue-ouest-leblanc-house",
+          "screenErrorPixels": 0.513
+        },
+        {
+          "key": "rue-ouest-leblanc-house-gate",
+          "screenErrorPixels": 0.623
+        }
+      ]
+    },
+    {
+      "key": "larks-meadow",
+      "positions": [
+        {
+          "key": "larks-meadow",
+          "screenErrorPixels": 0.508
+        },
+        {
+          "key": "larks-meadow-departure",
+          "screenErrorPixels": 0.334
+        }
+      ]
+    },
+    {
+      "key": "pere-lachaise-corner",
+      "positions": [
+        {
+          "key": "pere-lachaise-valjean-grave",
+          "screenErrorPixels": 0.661
+        }
+      ]
+    },
+    {
+      "key": "paris-room-details",
+      "positions": [
+        {
+          "key": "fantine-paris-room",
+          "screenErrorPixels": 0.457
+        },
+        {
+          "key": "gribier-garret-87-vaugirard",
+          "screenErrorPixels": 0.193
+        },
+        {
+          "key": "madame-t-salon",
+          "screenErrorPixels": 0.1
+        },
+        {
+          "key": "paris-taproom",
+          "screenErrorPixels": 0.303
+        }
+      ]
+    },
+    {
+      "key": "paris-public-room-details",
+      "positions": [
+        {
+          "key": "fesch-antechamber",
+          "screenErrorPixels": 0.662
+        },
+        {
+          "key": "paris-prelate-house",
+          "screenErrorPixels": 0.536
+        },
+        {
+          "key": "paris-law-school-library",
+          "screenErrorPixels": 0.382
+        }
+      ]
+    },
+    {
+      "key": "paris-carriage-details",
+      "positions": [
+        {
+          "key": "seine-right-bank-coach",
+          "screenErrorPixels": 0.466
+        },
+        {
+          "key": "seine-right-bank-reunion-coach",
+          "screenErrorPixels": 0.404
+        },
+        {
+          "key": "carnival-cart",
+          "screenErrorPixels": 0.184
+        }
+      ]
+    },
+    {
+      "key": "paris-les-halles",
+      "positions": [
+        {
+          "key": "halles-chanvrerie-gateway",
+          "screenErrorPixels": 0.2
+        },
+        {
+          "key": "paris-halles-quarter",
+          "screenErrorPixels": 0.568
+        },
+        {
+          "key": "rue-saint-denis",
+          "screenErrorPixels": 0.523
+        },
+        {
+          "key": "rue-prouvaires-entrance",
+          "screenErrorPixels": 0.193
+        },
+        {
+          "key": "rue-bethisy",
+          "screenErrorPixels": 0.38
+        },
+        {
+          "key": "rue-poterie-abandoned-barricade",
+          "screenErrorPixels": 0.063
+        },
+        {
+          "key": "rue-contrat-social",
+          "screenErrorPixels": 0.457
+        }
+      ]
+    },
+    {
+      "key": "paris-hospital-quarter",
+      "positions": [
+        {
+          "key": "gorbeau-house",
+          "screenErrorPixels": 0.61
+        },
+        {
+          "key": "gorbeau-house-entrance",
+          "screenErrorPixels": 0.149
+        },
+        {
+          "key": "gorbeau-adjoining-boulevard",
+          "screenErrorPixels": 0.217
+        },
+        {
+          "key": "gorbeau-police-ambush",
+          "screenErrorPixels": 0.633
+        },
+        {
+          "key": "barriere-gobelins-wall",
+          "screenErrorPixels": 0.385
+        },
+        {
+          "key": "rue-petit-banquier-corner",
+          "screenErrorPixels": 0.329
+        },
+        {
+          "key": "rue-petit-banquier-low-wall",
+          "screenErrorPixels": 0.267
+        },
+        {
+          "key": "paris-boulevard-hopital",
+          "screenErrorPixels": 0.311
+        }
+      ]
+    },
+    {
+      "key": "petit-picpus-interiors",
+      "positions": [
+        {
+          "key": "petit-picpus-parlor",
+          "screenErrorPixels": 0.663
+        },
+        {
+          "key": "petit-picpus-business-parlor",
+          "screenErrorPixels": 0.507
+        },
+        {
+          "key": "petit-picpus-chapel",
+          "screenErrorPixels": 0.274
+        },
+        {
+          "key": "petit-picpus-classroom",
+          "screenErrorPixels": 0.435
+        },
+        {
+          "key": "petit-picpus-refectory",
+          "screenErrorPixels": 0.287
+        },
+        {
+          "key": "fauchelevent-hut",
+          "screenErrorPixels": 0.302
+        }
+      ]
+    },
+    {
+      "key": "gorbeau-lodgings",
+      "positions": [
+        {
+          "key": "gorbeau-valjean-rooms",
+          "screenErrorPixels": 0.542
+        },
+        {
+          "key": "gorbeau-early-corridor",
+          "screenErrorPixels": 0.485
+        },
+        {
+          "key": "gorbeau-cosette-chamber",
+          "screenErrorPixels": 0.382
+        },
+        {
+          "key": "gorbeau-unoccupied-room",
+          "screenErrorPixels": 0.548
+        },
+        {
+          "key": "gorbeau-marius-room",
+          "screenErrorPixels": 0.166
+        },
+        {
+          "key": "gorbeau-marius-doorway",
+          "screenErrorPixels": 0.21
+        },
+        {
+          "key": "gorbeau-jondrette-attic",
+          "screenErrorPixels": 0.446
+        },
+        {
+          "key": "gorbeau-house-corridor",
+          "screenErrorPixels": 0.578
+        },
+        {
+          "key": "gorbeau-partition-aperture",
+          "screenErrorPixels": 0.569
+        }
+      ]
+    },
+    {
+      "key": "chanvrerie-streets",
+      "positions": [
+        {
+          "key": "rue-chanvrerie",
+          "screenErrorPixels": 0.382
+        },
+        {
+          "key": "chanvrerie-barricade",
+          "screenErrorPixels": 0.057
+        },
+        {
+          "key": "chanvrerie-barricade-opening",
+          "screenErrorPixels": 0.011
+        },
+        {
+          "key": "chanvrerie-barricade-cut",
+          "screenErrorPixels": 0.444
+        },
+        {
+          "key": "chanvrerie-barricade-exterior",
+          "screenErrorPixels": 0.409
+        },
+        {
+          "key": "chanvrerie-barricade-torch",
+          "screenErrorPixels": 0.393
+        },
+        {
+          "key": "rue-chanvrerie-artillery-position",
+          "screenErrorPixels": 0.486
+        },
+        {
+          "key": "mondetour-small-barricade",
+          "screenErrorPixels": 0.4
+        },
+        {
+          "key": "mondetour-open-approach",
+          "screenErrorPixels": 0.317
+        },
+        {
+          "key": "mondetour-lane-outside",
+          "screenErrorPixels": 0.515
+        },
+        {
+          "key": "chanvrerie-tall-house",
+          "screenErrorPixels": 0.245
+        },
+        {
+          "key": "corinthe",
+          "screenErrorPixels": 0.445
+        },
+        {
+          "key": "corinthe-door",
+          "screenErrorPixels": 0.45
+        },
+        {
+          "key": "corinthe-exterior",
+          "screenErrorPixels": 0.448
+        },
+        {
+          "key": "corinthe-sheltered-angle",
+          "screenErrorPixels": 0.447
+        },
+        {
+          "key": "chanvrerie-sewer-grating",
+          "screenErrorPixels": 0.338
+        }
+      ]
+    },
+    {
+      "key": "corinthe-ground-floor",
+      "positions": [
+        {
+          "key": "corinthe-taproom",
+          "screenErrorPixels": 0.488
+        },
+        {
+          "key": "corinthe-taproom-door",
+          "screenErrorPixels": 0.39
+        },
+        {
+          "key": "corinthe-kitchen",
+          "screenErrorPixels": 0.13
+        },
+        {
+          "key": "corinthe-cellar-trap",
+          "screenErrorPixels": 0.455
+        }
+      ]
+    },
+    {
+      "key": "corinthe-first-floor",
+      "positions": [
+        {
+          "key": "corinthe-first-floor",
+          "screenErrorPixels": 0.409
+        },
+        {
+          "key": "corinthe-first-floor-window",
+          "screenErrorPixels": 0.405
+        }
+      ]
+    }
+  ],
+  "gateways": [
+    {
+      "location": "lesmis-map-review-location-madeleine-factory",
+      "from": "lesmis-map-review-map-montreuil-town",
+      "to": "lesmis-map-review-map-madeleine-premises"
+    },
+    {
+      "location": "lesmis-map-review-location-montreuil-lodging-quarter",
+      "from": "lesmis-map-review-map-montreuil-town",
+      "to": "lesmis-map-review-map-fantine-rented-rooms"
+    },
+    {
+      "location": "lesmis-map-review-location-arras-prefecture",
+      "from": "lesmis-map-review-map-arras-town",
+      "to": "lesmis-map-review-map-arras-court"
+    },
+    {
+      "location": "lesmis-map-review-location-montfermeil-region",
+      "from": "lesmis-map-review-map-paris-environs",
+      "to": "lesmis-map-review-map-montfermeil-country"
+    },
+    {
+      "location": "lesmis-map-review-location-thenardier-inn",
+      "from": "lesmis-map-review-map-montfermeil-country",
+      "to": "lesmis-map-review-map-thenardier-inn-details"
+    },
+    {
+      "location": "lesmis-map-review-location-hougomont",
+      "from": "lesmis-map-review-map-waterloo-country",
+      "to": "lesmis-map-review-map-hougomont-details"
+    },
+    {
+      "location": "lesmis-map-review-location-rue-plumet-house",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-plumet-house"
+    },
+    {
+      "location": "lesmis-map-review-location-homme-arme-house",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-homme-arme-rooms"
+    },
+    {
+      "location": "lesmis-map-review-location-gillenormand-house",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-gillenormand-details"
+    },
+    {
+      "location": "lesmis-map-review-location-petit-picpus-quarter",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-petit-picpus-site"
+    },
+    {
+      "location": "lesmis-map-review-location-petit-picpus-convent",
+      "from": "lesmis-map-review-map-petit-picpus-site",
+      "to": "lesmis-map-review-map-petit-picpus-interiors"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-sewer-network",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-paris-sewers"
+    },
+    {
+      "location": "lesmis-map-review-location-orion-at-anchor",
+      "from": "lesmis-map-review-map-toulon-harbour",
+      "to": "lesmis-map-review-map-orion-deck"
+    },
+    {
+      "location": "lesmis-map-review-location-digne-diocese",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-southern-country"
+    },
+    {
+      "location": "lesmis-map-review-location-southern-localities",
+      "from": "lesmis-map-review-map-southern-country",
+      "to": "lesmis-map-review-map-southern-local-details"
+    },
+    {
+      "location": "lesmis-map-review-location-bastille-elephant",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-bastille-elephant-exterior"
+    },
+    {
+      "location": "lesmis-map-review-location-la-force",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-la-force-details"
+    },
+    {
+      "location": "lesmis-map-review-location-vaugirard-cemetery",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-vaugirard-cemetery"
+    },
+    {
+      "location": "lesmis-map-review-location-cafe-musain",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-cafe-musain"
+    },
+    {
+      "location": "lesmis-map-review-location-mabeuf-austerlitz-cottage",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-mabeuf-cottage"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-cafe-spaces",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-paris-cafe-details"
+    },
+    {
+      "location": "lesmis-map-review-location-picpus-street-approaches",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-picpus-approaches"
+    },
+    {
+      "location": "lesmis-map-review-location-france-context",
+      "from": "lesmis-map-review-map-atlantic-context",
+      "to": "lesmis-map-review-map-france"
+    },
+    {
+      "location": "lesmis-map-review-location-rue-roi-sicile-ruin",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-roi-sicile-ruin"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-lodgings",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-paris-lodging-details"
+    },
+    {
+      "location": "lesmis-map-review-location-faverolles-setting",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-faverolles-village"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-environs-region",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-paris-environs"
+    },
+    {
+      "location": "lesmis-map-review-location-larks-meadow-approach",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-larks-meadow"
+    },
+    {
+      "location": "lesmis-map-review-location-pere-lachaise-cemetery",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-pere-lachaise-corner"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-private-rooms",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-paris-room-details"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-public-rooms",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-paris-public-room-details"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-carriages",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-paris-carriage-details"
+    },
+    {
+      "location": "lesmis-map-review-location-villers-abbey",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-villers-source-details"
+    },
+    {
+      "location": "lesmis-map-review-location-digne-civic-setting",
+      "from": "lesmis-map-review-map-digne",
+      "to": "lesmis-map-review-map-digne-civic-details"
+    },
+    {
+      "location": "lesmis-map-review-location-halles-chanvrerie-gateway",
+      "from": "lesmis-map-review-map-paris-les-halles",
+      "to": "lesmis-map-review-map-chanvrerie-streets"
+    },
+    {
+      "location": "lesmis-map-review-location-paris",
+      "from": "lesmis-map-review-map-paris-environs",
+      "to": "lesmis-map-review-map-paris"
+    },
+    {
+      "location": "lesmis-map-review-location-france-digne-gateway",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-digne"
+    },
+    {
+      "location": "lesmis-map-review-location-vernon",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-vernon-details"
+    },
+    {
+      "location": "lesmis-map-review-location-montreuil-sur-mer",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-montreuil-town"
+    },
+    {
+      "location": "lesmis-map-review-location-arras",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-arras-town"
+    },
+    {
+      "location": "lesmis-map-review-location-toulon",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-toulon-harbour"
+    },
+    {
+      "location": "lesmis-map-review-location-waterloo-battlefield",
+      "from": "lesmis-map-review-map-france",
+      "to": "lesmis-map-review-map-waterloo-country"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-gorbeau-quarter-gateway",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-paris-hospital-quarter"
+    },
+    {
+      "location": "lesmis-map-review-location-paris-halles-gateway",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-paris-les-halles"
+    },
+    {
+      "location": "lesmis-map-review-location-luxembourg-gardens",
+      "from": "lesmis-map-review-map-paris",
+      "to": "lesmis-map-review-map-luxembourg-details"
+    },
+    {
+      "location": "lesmis-map-review-location-gorbeau-house-entrance",
+      "from": "lesmis-map-review-map-paris-hospital-quarter",
+      "to": "lesmis-map-review-map-gorbeau-lodgings"
+    },
+    {
+      "location": "lesmis-map-review-location-digne-bishop-house-gateway",
+      "from": "lesmis-map-review-map-digne",
+      "to": "lesmis-map-review-map-bishop-ground-floor"
+    },
+    {
+      "location": "lesmis-map-review-location-corinthe",
+      "from": "lesmis-map-review-map-chanvrerie-streets",
+      "to": "lesmis-map-review-map-corinthe-ground-floor"
+    }
+  ],
+  "floorGroups": [
+    {
+      "map": "lesmis-map-review-map-orion-deck",
+      "group": "lesmis-map-review-floor-orion",
+      "index": 0
+    },
+    {
+      "map": "lesmis-map-review-map-orion-main-yard",
+      "group": "lesmis-map-review-floor-orion",
+      "index": 1
+    },
+    {
+      "map": "lesmis-map-review-map-bishop-ground-floor",
+      "group": "lesmis-map-review-floor-bishop-house",
+      "index": 0
+    },
+    {
+      "map": "lesmis-map-review-map-bishop-first-floor",
+      "group": "lesmis-map-review-floor-bishop-house",
+      "index": 1
+    },
+    {
+      "map": "lesmis-map-review-map-bastille-elephant-exterior",
+      "group": "lesmis-map-review-floor-bastille-elephant",
+      "index": 0
+    },
+    {
+      "map": "lesmis-map-review-map-bastille-elephant-interior",
+      "group": "lesmis-map-review-floor-bastille-elephant",
+      "index": 1
+    },
+    {
+      "map": "lesmis-map-review-map-corinthe-ground-floor",
+      "group": "lesmis-map-review-floor-corinthe",
+      "index": 0
+    },
+    {
+      "map": "lesmis-map-review-map-corinthe-first-floor",
+      "group": "lesmis-map-review-floor-corinthe",
+      "index": 1
+    }
+  ],
+  "errors": [],
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "fixtureSha256": "1fff0a40812cb1f1f4fabb38821a1054802ec93764798830a287e87cfccef349"
+}

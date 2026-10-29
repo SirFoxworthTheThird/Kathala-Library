@@ -1,0 +1,47 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-five",
+  "images": [
+    {
+      "key": "mamselle-miss",
+      "imageId": "lesmis-world-review-art-characters-mamselle-miss-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "cambronne",
+      "imageId": "lesmis-world-review-art-characters-cambronne-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "chanvrerie-unknown-resolve-speaker",
+      "imageId": "lesmis-world-review-art-characters-chanvrerie-unknown-resolve-speaker-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "clinton",
+      "imageId": "lesmis-world-review-art-characters-clinton-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "derlon",
+      "imageId": "lesmis-world-review-art-characters-derlon-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "5b74c387cb0d787d4a9536ce94e89c7aa1c9dd59ee13ef8572c48a0e8c073744",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-derlon",
+  "currentImageId": "lesmis-world-review-art-characters-derlon-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

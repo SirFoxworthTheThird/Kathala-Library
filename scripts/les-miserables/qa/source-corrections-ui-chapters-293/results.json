@@ -1,0 +1,11 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "293-4 gavroche: The captive’s musket",
+    "293-5 marius: The letter for Marius"
+  ],
+  "errors": [],
+  "fixtureSha256": "d36414c5f1f3c979e3f361441202e68d95d47bc8c802dfac1091837b6cfe24fd",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

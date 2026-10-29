@@ -1,0 +1,38 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesItemStates.test.ts (6 tests | 1 failed) 85ms
+   × follows the posted letter and surviving evidence without rebuilding the burned cudgel 4ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > follows the posted letter and surviving evidence without rebuilding the burned cudgel
+AssertionError: expected undefined to match object { chapter: 68, at: 'start', …(2) }
+
+- Expected:
+{
+  "at": "start",
+  "chapter": 68,
+  "custodian": null,
+  "kind": "custody-report",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesItemStates.test.ts:42:69
+     40|
+     41| test('follows the posted letter and surviving evidence without rebuild…
+     42|  expect(itemStateChanges.find(r=>r.key==='laffitte-letter-posted')).to…
+       |                                                                     ^
+     43|  expect(itemStateChanges.find(r=>r.key==='gervais-coin-displayed')).to…
+     44|  expect(itemStateChanges.find(r=>r.key==='cudgel-tips-displayed')).toM…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 5 passed (6)
+   Start at  20:02:31
+   Duration  673ms (transform 276ms, setup 0ms, import 426ms, tests 85ms, environment 0ms)
+

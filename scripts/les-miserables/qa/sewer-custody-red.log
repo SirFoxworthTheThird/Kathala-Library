@@ -1,0 +1,65 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesSewerCustody.test.ts (2 tests | 2 failed) 6ms
+   × returns the captured musket only when Gavroche returns from the letter errand 4ms
+   × keeps the rescue pocket-book and offered rope in the hands actually shown 0ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesSewerCustody.test.ts > returns the captured musket only when Gavroche returns from the letter errand
+AssertionError: expected undefined to match object { chapter: 306, at: 14, …(4) }
+
+- Expected:
+{
+  "at": 14,
+  "chapter": 306,
+  "evidenceParagraph": 15,
+  "holder": "gavroche",
+  "item": "javert-captured-musket",
+  "kind": "held",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesSewerCustody.test.ts:5:71
+      3|
+      4| test('returns the captured musket only when Gavroche returns from the …
+      5|  expect(itemStateChanges.find(r=>r.key==='captured-musket-returned')).…
+       |                                                                       ^
+      6| })
+      7|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesSewerCustody.test.ts > keeps the rescue pocket-book and offered rope in the hands actually shown
+AssertionError: expected undefined to match object { chapter: 332, at: 9, …(2) }
+
+- Expected:
+{
+  "at": 9,
+  "chapter": 332,
+  "evidenceParagraph": 12,
+  "holder": "marius",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesSewerCustody.test.ts:9:73
+      7|
+      8| test('keeps the rescue pocket-book and offered rope in the hands actua…
+      9|  expect(itemStateChanges.find(r=>r.key==='return-pocketbook-replaced')…
+       |                                                                         ^
+     10|  expect(itemStateChanges.find(r=>r.key==='sewer-rope-accepted')).toMat…
+     11|  expect(itemStateChanges.find(r=>r.key==='return-pocketbook-kept-by-ja…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  20:38:00
+   Duration  213ms (transform 25ms, setup 0ms, import 39ms, tests 6ms, environment 0ms)
+

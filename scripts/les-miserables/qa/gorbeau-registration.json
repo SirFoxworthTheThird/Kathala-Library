@@ -1,0 +1,53 @@
+{
+  "width": 1586,
+  "height": 992,
+  "locations": {
+    "gorbeau-valjean-rooms": [
+      335,
+      450
+    ],
+    "gorbeau-early-corridor": [
+      380,
+      565
+    ],
+    "gorbeau-cosette-chamber": [
+      570,
+      470
+    ],
+    "gorbeau-unoccupied-room": [
+      300,
+      800
+    ],
+    "gorbeau-marius-room": [
+      900,
+      550
+    ],
+    "gorbeau-marius-doorway": [
+      900,
+      680
+    ],
+    "gorbeau-jondrette-attic": [
+      1260,
+      490
+    ],
+    "gorbeau-house-corridor": [
+      1270,
+      785
+    ],
+    "gorbeau-partition-aperture": [
+      995,
+      300
+    ]
+  },
+  "landmarks": {
+    "gorbeau-valjean-rooms": "Clear floor in the main chamber of the separate left-hand lodging arrangement.",
+    "gorbeau-early-corridor": "The passage below the left-hand main and small chambers.",
+    "gorbeau-cosette-chamber": "Clear floor at the foot of the folding bed in the small chamber.",
+    "gorbeau-unoccupied-room": "The empty room below the left-hand corridor.",
+    "gorbeau-marius-room": "Clear floor below the commode in the narrow left garret of the right-hand arrangement.",
+    "gorbeau-marius-doorway": "The threshold from the right-hand corridor into the small garret.",
+    "gorbeau-jondrette-attic": "Clear floor between the table and hearth in the large garret.",
+    "gorbeau-house-corridor": "The shared corridor below both garret doors.",
+    "gorbeau-partition-aperture": "The shared partition above the commode; no aperture is painted, so later scene visibility controls its reveal."
+  }
+}

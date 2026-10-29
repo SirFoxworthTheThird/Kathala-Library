@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-one",
+  "images": [
+    {
+      "key": "luxembourg-disabled-veteran",
+      "imageId": "lesmis-world-review-art-characters-luxembourg-disabled-veteran-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "madame-albertine",
+      "imageId": "lesmis-world-review-art-characters-madame-albertine-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "pontmercy-doctor",
+      "imageId": "lesmis-world-review-art-characters-pontmercy-doctor-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "pontmercy-servant",
+      "imageId": "lesmis-world-review-art-characters-pontmercy-servant-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "rue-ouest-porter",
+      "imageId": "lesmis-world-review-art-characters-rue-ouest-porter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "thorigny-second-portress",
+      "imageId": "lesmis-world-review-art-characters-thorigny-second-portress-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "thorigny-third-portress",
+      "imageId": "lesmis-world-review-art-characters-thorigny-third-portress-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "vaugirard-funeral-priest",
+      "imageId": "lesmis-world-review-art-characters-vaugirard-funeral-priest-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "f90f51da164e3f5f2936d721cc8a2f3a2097fd5fc308073ce5f7683b58281903",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-vaugirard-funeral-priest",
+  "currentImageId": "lesmis-world-review-art-characters-vaugirard-funeral-priest-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

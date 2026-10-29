@@ -1,0 +1,14 @@
+{
+  "scope": "Complete rendered manuscript text and scene order; not character, art or playback approval",
+  "errors": [],
+  "fixtureSha256": "4a86aa73c3c38931c8a88ec58b1ec22d016e7d86087a8b4c6f72c9bcc1b01422",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "chapters": 365,
+  "scenes": 1535,
+  "mismatches": [],
+  "readingCursors": {
+    "opening": "lesmis-world-review-event-1-2",
+    "ending": "lesmis-world-review-event-365-3"
+  }
+}

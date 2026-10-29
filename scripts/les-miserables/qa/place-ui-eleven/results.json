@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch eleven in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "4744177ec5c9803e9302ca89606b8ef6927acd6923bbf3aed75a8f5795d46f2a",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "montfermeil-spring-return-path",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-spring-return-path-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-marked-clearing",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-marked-clearing-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-gagny-road",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-gagny-road-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-livry-road",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-livry-road-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-livry-bondy-forest",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-livry-bondy-forest-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-aqueduct-turf-path",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-aqueduct-turf-path-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "thenardier-inn-stairs",
+      "imageId": "lesmis-world-review-art-locations-thenardier-inn-stairs-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "thenardier-couple-bedroom",
+      "imageId": "lesmis-world-review-art-locations-thenardier-couple-bedroom-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

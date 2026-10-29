@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesLamothe.test.ts (2 tests | 1 failed) 5ms
+   × identifies Wilda as the Hanoverian lieutenant at the farmhouse door 2ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesLamothe.test.ts > identifies Wilda as the Hanoverian lieutenant at the farmhouse door
+AssertionError: expected 'A witness named in the account of Hou…' to match /Hanoverian lieutenant/
+
+- Expected:
+/Hanoverian lieutenant/
+
++ Received:
+"A witness named in the account of Hougomont’s well."
+
+ ❯ tests/lesMiserablesLamothe.test.ts:18:30
+     16| test('identifies Wilda as the Hanoverian lieutenant at the farmhouse d…
+     17|  const person=characterIntroductions.get('wilda')
+     18|  expect(person?.description).toMatch(/Hanoverian lieutenant/)
+       |                              ^
+     19|  expect(person?.description).toMatch(/farmhouse door/)
+     20|  expect(person?.description).not.toMatch(/well|witness/)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 passed (2)
+   Start at  21:56:17
+   Duration  613ms (transform 271ms, setup 0ms, import 451ms, tests 5ms, environment 0ms)
+

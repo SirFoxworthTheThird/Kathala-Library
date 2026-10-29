@@ -1,0 +1,35 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesHougomontVisit.test.ts (1 test | 1 failed) 18ms
+   × keeps the present-day observer in the observed ruins without importing the historical combatants into his cast 16ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesHougomontVisit.test.ts > keeps the present-day observer in the observed ruins without importing the historical combatants into his cast
+AssertionError: expected [] to deeply equal [ 'narrator-traveller' ]
+
+- Expected
++ Received
+
+- [
+-   "narrator-traveller",
+- ]
++ []
+
+ ❯ tests/lesMiserablesHougomontVisit.test.ts:8:43
+      6|  for(const at of [4,15,23]){
+      7|   const scene=scenes.find(s=>s.at===at)
+      8|   expect(scene.present.map(([key])=>key)).toEqual(['narrator-traveller…
+       |                                           ^
+      9|   expect(scene.present[0][1]).toMatch(/1861|visits|surveys/)
+     10|  }
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  21:01:57
+   Duration  584ms (transform 257ms, setup 0ms, import 401ms, tests 18ms, environment 0ms)
+

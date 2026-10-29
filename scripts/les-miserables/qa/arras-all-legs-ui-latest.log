@@ -1,0 +1,60 @@
+{
+  scope: 'Actual Play/Pause across all five Arras stage transitions and six modeled movements; not exhaustive full-book playback',
+  checks: [],
+  errors: [],
+  fixtureSha256: 'e351e53e50ee80f01f98360efbc6d97348ff342388499efecd6936d8def4adfd',
+  applicationCommit: 'e920677e47ad79ea110c37855f0e0e05749e52e2',
+  applicationDiffSha256: '19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76',
+  playbacks: [
+    {
+      fromEventId: 'lesmis-world-review-event-59-1',
+      toEventId: 'lesmis-world-review-event-59-2',
+      fromMapLayerId: 'lesmis-world-review-map-montreuil-town',
+      eventId: 'lesmis-world-review-event-59-2',
+      mapLayerId: 'lesmis-world-review-map-france',
+      playing: false,
+      animating: false,
+      movements: [Array]
+    },
+    {
+      fromEventId: 'lesmis-world-review-event-59-3',
+      toEventId: 'lesmis-world-review-event-59-4',
+      fromMapLayerId: 'lesmis-world-review-map-france',
+      eventId: 'lesmis-world-review-event-59-4',
+      mapLayerId: 'lesmis-world-review-map-france',
+      playing: false,
+      animating: false,
+      movements: [Array]
+    },
+    {
+      fromEventId: 'lesmis-world-review-event-59-4',
+      toEventId: 'lesmis-world-review-event-59-5',
+      fromMapLayerId: 'lesmis-world-review-map-france',
+      eventId: 'lesmis-world-review-event-59-5',
+      mapLayerId: 'lesmis-world-review-map-france',
+      playing: false,
+      animating: false,
+      movements: [Array]
+    },
+    {
+      fromEventId: 'lesmis-world-review-event-59-6',
+      toEventId: 'lesmis-world-review-event-59-7',
+      fromMapLayerId: 'lesmis-world-review-map-france',
+      eventId: 'lesmis-world-review-event-59-7',
+      mapLayerId: 'lesmis-world-review-map-france',
+      playing: false,
+      animating: false,
+      movements: [Array]
+    },
+    {
+      fromEventId: 'lesmis-world-review-event-60-3',
+      toEventId: 'lesmis-world-review-event-61-1',
+      fromMapLayerId: 'lesmis-world-review-map-madeleine-premises',
+      eventId: 'lesmis-world-review-event-61-1',
+      mapLayerId: 'lesmis-world-review-map-arras-town',
+      playing: false,
+      animating: false,
+      movements: [Array]
+    }
+  ]
+}

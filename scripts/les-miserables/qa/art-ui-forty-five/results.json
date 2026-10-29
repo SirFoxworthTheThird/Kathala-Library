@@ -1,0 +1,41 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "forty-five",
+  "images": [
+    {
+      "key": "convoy-escort-captain",
+      "imageId": "lesmis-world-review-art-characters-convoy-escort-captain-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "convoy-hooked-cudgel-guard",
+      "imageId": "lesmis-world-review-art-characters-convoy-hooked-cudgel-guard-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "convoy-warning-woman",
+      "imageId": "lesmis-world-review-art-characters-convoy-warning-woman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "convoy-warning-boy",
+      "imageId": "lesmis-world-review-art-characters-convoy-warning-boy-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "02e5364d6df969bab43ff8a96863b11a0c9d761e1af38a2cbd2166798a532414",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-convoy-warning-boy",
+  "currentImageId": "lesmis-world-review-art-characters-convoy-warning-boy-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

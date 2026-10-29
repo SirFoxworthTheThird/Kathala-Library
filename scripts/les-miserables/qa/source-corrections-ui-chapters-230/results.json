@@ -1,0 +1,12 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "230-4 brujon: La Force",
+    "230-4 la-force-night-watchman: The lower New Building dormitory",
+    "230-4 la-force-watch-superintendent: La Force"
+  ],
+  "errors": [],
+  "fixtureSha256": "f90f51da164e3f5f2936d721cc8a2f3a2097fd5fc308073ce5f7683b58281903",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

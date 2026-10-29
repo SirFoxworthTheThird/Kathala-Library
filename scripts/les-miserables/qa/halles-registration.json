@@ -1,0 +1,43 @@
+{
+  "width": 1322,
+  "height": 1190,
+  "locations": {
+    "halles-chanvrerie-gateway": [
+      1000,
+      475
+    ],
+    "paris-halles-quarter": [
+      770,
+      620
+    ],
+    "rue-saint-denis": [
+      1010,
+      540
+    ],
+    "rue-prouvaires-entrance": [
+      440,
+      540
+    ],
+    "rue-bethisy": [
+      540,
+      731
+    ],
+    "rue-poterie-abandoned-barricade": [
+      650,
+      780
+    ],
+    "rue-contrat-social": [
+      550,
+      573
+    ]
+  },
+  "landmarks": {
+    "halles-chanvrerie-gateway": "The eastern mouth of the short Chanvrerie lane at Saint-Denis; opens the closer, differently oriented street plan.",
+    "paris-halles-quarter": "A lane inside the old market sheds south of Saint-Eustache; general quarter setting rather than a particular incident.",
+    "rue-saint-denis": "The long street east of the market, below the Chanvrerie turning.",
+    "rue-prouvaires-entrance": "The lower market-side approach where Prouvaires meets the surrounding streets; approximate entry within the source-described approach.",
+    "rue-bethisy": "The southern market approach near Bourdonnais; no exact turn-by-turn track is asserted.",
+    "rue-poterie-abandoned-barricade": "The lower market lane labeled Poterie, with no wagon or barricade painted; source street identification and precise position are uncertain.",
+    "rue-contrat-social": "The short connector between Prouvaires and Tonnellerie; the shot position is approximate and source street identification tentative."
+  }
+}

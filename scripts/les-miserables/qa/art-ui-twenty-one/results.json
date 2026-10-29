@@ -1,0 +1,71 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-one",
+  "images": [
+    {
+      "key": "jondrette",
+      "imageId": "lesmis-world-review-art-characters-jondrette-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "madame-jondrette",
+      "imageId": "lesmis-world-review-art-characters-madame-jondrette-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "jondrette-elder-daughter",
+      "imageId": "lesmis-world-review-art-characters-jondrette-elder-daughter-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "monsieur-leblanc",
+      "imageId": "lesmis-world-review-art-characters-monsieur-leblanc-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "mademoiselle-lanoire",
+      "imageId": "lesmis-world-review-art-characters-mademoiselle-lanoire-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "pontoise-substitute-inspector",
+      "imageId": "lesmis-world-review-art-characters-pontoise-substitute-inspector-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "panchaud",
+      "imageId": "lesmis-world-review-art-characters-panchaud-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "demi-liard",
+      "imageId": "lesmis-world-review-art-characters-demi-liard-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mabeuf-garden-helper",
+      "imageId": "lesmis-world-review-art-characters-mabeuf-garden-helper-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "2f3aa1d68a8a0d418b5462c5c3ae498218170f0fe4e3611e01c14b1f71a25de4",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-mabeuf-garden-helper",
+  "currentImageId": "lesmis-world-review-art-characters-mabeuf-garden-helper-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

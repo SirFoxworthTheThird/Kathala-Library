@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch nine in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "ca9f7ad2ca32ce6ac7d118001bb7633e05bff4109cf133db77dc48dd8999bdfa",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "arras-hotel-poste",
+      "imageId": "lesmis-world-review-art-locations-arras-hotel-poste-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "arras-posting-office",
+      "imageId": "lesmis-world-review-art-locations-arras-posting-office-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "arras-prefecture-square",
+      "imageId": "lesmis-world-review-art-locations-arras-prefecture-square-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "arras-prefecture",
+      "imageId": "lesmis-world-review-art-locations-arras-prefecture-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "arras-assize-hall",
+      "imageId": "lesmis-world-review-art-locations-arras-assize-hall-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "arras-council-chamber",
+      "imageId": "lesmis-world-review-art-locations-arras-council-chamber-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "arras-court-antechamber",
+      "imageId": "lesmis-world-review-art-locations-arras-court-antechamber-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "arras-court-corridor",
+      "imageId": "lesmis-world-review-art-locations-arras-court-corridor-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ]
+}

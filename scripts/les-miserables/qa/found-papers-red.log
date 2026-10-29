@@ -1,0 +1,75 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesFoundPapers.test.ts (2 tests | 2 failed) 7ms
+   × tracks the found packet through reading, setting aside and actual return 5ms
+   × does not embroider the unembroidered handkerchief or make Ursule its owner 1ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesFoundPapers.test.ts > tracks the found packet through reading, setting aside and actual return
+AssertionError: expected [] to deeply equal [ [ 202, 13, 'held', 'marius' ], …(3) ]
+
+- Expected
++ Received
+
+- [
+-   [
+-     202,
+-     13,
+-     "held",
+-     "marius",
+-   ],
+-   [
+-     203,
+-     "start",
+-     "held",
+-     "marius",
+-   ],
+-   [
+-     203,
+-     36,
+-     "placed",
+-     "gorbeau-marius-room",
+-   ],
+-   [
+-     204,
+-     46,
+-     "held",
+-     "jondrette-elder-daughter",
+-   ],
+- ]
++ []
+
+ ❯ tests/lesMiserablesFoundPapers.test.ts:7:80
+      5| test('tracks the found packet through reading, setting aside and actua…
+      6|  const rows=itemStateChanges.filter(row=>row.item==='four-petitions-pa…
+      7|  expect(rows.map(row=>[row.chapter,row.at,row.kind,row.holder??row.loc…
+       |                                                                                ^
+      8|   [202,13,'held','marius'],[203,'start','held','marius'],[203,36,'plac…
+      9|  ])
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesFoundPapers.test.ts > does not embroider the unembroidered handkerchief or make Ursule its owner
+AssertionError: expected 'The dropped handkerchief whose embroi…' not to contain 'embroidered initials'
+
+Expected: "embroidered initials"
+Received: "The dropped handkerchief whose embroidered initials attract Marius’s attention in the Luxembourg."
+
+ ❯ tests/lesMiserablesFoundPapers.test.ts:13:73
+     11|
+     12| test('does not embroider the unembroidered handkerchief or make Ursule…
+     13|  expect(itemDefinitions.get('leblanc-uf-handkerchief').description).no…
+       |                                                                         ^
+     14|  expect(itemStateChanges.find(row=>row.key==='uf-handkerchief-found'))…
+     15|  expect(itemStateChanges.find(row=>row.key==='marius-five-franc-gift-g…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  09:04:18
+   Duration  203ms (transform 27ms, setup 0ms, import 42ms, tests 7ms, environment 0ms)
+

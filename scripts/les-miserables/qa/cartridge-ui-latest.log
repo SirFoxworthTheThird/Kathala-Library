@@ -1,0 +1,15 @@
+{
+  scope: 'Targeted source-correction character states and inventories; not full-book playback approval',
+  checks: [
+    '313-1 gavroche: Gavroche’s cartridge basket',
+    '313-2 gavroche: The powder-flask outside',
+    '313-3 gavroche: Gavroche’s cartridge basket',
+    '315-1 combeferre: Gavroche’s cartridge basket',
+    '315-2 combeferre: Gavroche’s cartridge basket',
+    '181-4 hotel-porte-saint-jacques-proprietor: The Hôtel de la Porte-Saint-Jacques chamber'
+  ],
+  errors: [],
+  fixtureSha256: '008a445871770aa9798358c8f26f9ac30190d278ecf0801100ba49e46526824e',
+  applicationCommit: 'e920677e47ad79ea110c37855f0e0e05749e52e2',
+  applicationDiffSha256: '19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76'
+}

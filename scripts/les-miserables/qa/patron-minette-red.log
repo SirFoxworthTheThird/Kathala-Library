@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesStoryFeatures.test.ts (3 tests | 1 failed) 3133ms
+   × models Patron-Minette as distinct leaders and named associates without making every accomplice a leader 1060ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesStoryFeatures.test.ts > models Patron-Minette as distinct leaders and named associates without making every accomplice a leader
+AssertionError: expected undefined to be 'Patron-Minette' // Object.is equality
+
+- Expected:
+"Patron-Minette"
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesStoryFeatures.test.ts:9:24
+      7|  const{world}=buildWorldReview({embedded:false})
+      8|  const faction=world.factions.find(row=>row.id===`${p}-faction-patron-…
+      9|  expect(faction?.name).toBe('Patron-Minette')
+       |                        ^
+     10|  const members=world.factionMemberships.filter(row=>row.factionId===fa…
+     11|  expect(members).toHaveLength(7)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 passed (3)
+   Start at  00:50:08
+   Duration  3.89s (transform 424ms, setup 0ms, import 610ms, tests 3.13s, environment 0ms)
+

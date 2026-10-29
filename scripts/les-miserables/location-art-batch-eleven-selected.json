@@ -1,0 +1,48 @@
+{
+  "selected": [
+    [
+      "montfermeil-spring-return-path",
+      "exec-c99ee989-c4ec-42a6-8ad0-e88e3b98718a.png"
+    ],
+    [
+      "montfermeil-marked-clearing",
+      "exec-c584babe-9371-4734-bdb0-3342cd741b75.png"
+    ],
+    [
+      "montfermeil-gagny-road",
+      "exec-9765b185-64e2-4b5f-ab67-07acd65eb112.png"
+    ],
+    [
+      "montfermeil-livry-road",
+      "exec-9855e94d-e3a8-4c00-ab20-7a89ff88b67a.png"
+    ],
+    [
+      "montfermeil-livry-bondy-forest",
+      "exec-98fb6af6-c630-4ce8-9f85-c399e5aacf40.png"
+    ],
+    [
+      "montfermeil-aqueduct-turf-path",
+      "exec-2fd71696-8a32-40cd-b745-d432bfa1ed97.png"
+    ],
+    [
+      "thenardier-inn-stairs",
+      "exec-b59abd71-2f17-4415-ab7c-fe2e338d2a6f.png"
+    ],
+    [
+      "thenardier-couple-bedroom",
+      "exec-f163325b-1e9e-42fe-9c11-d71c90cae54b.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "montfermeil-marked-clearing",
+      "prompt": "Edit only the night sky and its illumination: remove the bright full moon completely, replacing its disk with the surrounding dark misty clouded sky. Keep the clearing naturally dim with subdued ambient night light so the whitish stones remain visible. Preserve the same rough-barked tree, stone heap, empty clearing and ink/watercolor style. No new lamps, stars in a pattern, symbols, markings, buried object, person or later action.",
+      "original": "exec-26f4f4fd-93f6-4379-b720-a4d86b00c519.png"
+    },
+    {
+      "key": "montfermeil-livry-road",
+      "prompt": "Remove ALL snow and frost from this rural road illustration. Replace the white patches on the fields, road margins, stone wall and hedges with ordinary muted brown earth, fallen leaves and sparse dull winter grass. Preserve the road turn, long open plateau view, bare hedges, small village-edge wall, morning sky and ink/watercolor style. Mild snow-free December weather; no other change, people, tracks as clues, vehicles or signs.",
+      "original": "exec-692413c4-8036-4a79-a858-ab05fe3d2b09.png"
+    }
+  ]
+}

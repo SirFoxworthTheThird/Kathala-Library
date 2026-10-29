@@ -1,0 +1,2229 @@
+{
+  "pillow": "12.3.0",
+  "libwebp": "1.6.0",
+  "images": [
+    {
+      "source": "image-sources/characters/arras-defence-lawyer.png",
+      "target": "art-staging/characters/arras-defence-lawyer.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3455063,
+      "encodedBytes": 444864,
+      "sourceSha256": "d6ba55314b55ec21130e4fba0e761cd594d00b2a0c2097adb2b54077c0b0589e",
+      "encodedSha256": "fe46dff431e08473ddad9e4cd3dc66717fb2a2d2b76b4f8900eac9577b7d09b2"
+    },
+    {
+      "source": "image-sources/characters/arras-hall-lawyer.png",
+      "target": "art-staging/characters/arras-hall-lawyer.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3160918,
+      "encodedBytes": 359538,
+      "sourceSha256": "141ab6b97b9d065f0090acb4dec00f3b0b577697fbe7afaa93d7ef8224cb32a4",
+      "encodedSha256": "a042f31bf3fba8f67db1e637bcaaff7a78c4961bba92646cc13095ee88e4feda"
+    },
+    {
+      "source": "image-sources/characters/arras-landlady.png",
+      "target": "art-staging/characters/arras-landlady.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3589026,
+      "encodedBytes": 498226,
+      "sourceSha256": "8409df1a882bae3c30651548df78c9fd03884021bc434594a49e2f839bbe643e",
+      "encodedSha256": "86a608a8bfa16dcd4452a2471a3b91b2a783edabd94b45fa8fa216f7cd17e9f3"
+    },
+    {
+      "source": "image-sources/characters/arras-lantern-citizen.png",
+      "target": "art-staging/characters/arras-lantern-citizen.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3197895,
+      "encodedBytes": 394896,
+      "sourceSha256": "947159ede858fb83bb43b134d0f738c43eb260ba95159775f8c3d46d06e7ee3f",
+      "encodedSha256": "43332d43ad5f558d4d27f9f291cf642fa980ce351a5874e167b84bc403713fe7"
+    },
+    {
+      "source": "image-sources/characters/arras-posting-clerk.png",
+      "target": "art-staging/characters/arras-posting-clerk.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3070867,
+      "encodedBytes": 366672,
+      "sourceSha256": "f2a28c551608e32263d6d25f3c26ed42df267ac79c148595a0d116598396e4c3",
+      "encodedSha256": "1df049c38261dd4fb84d96fc22c61a7e6a614afe764d77b0a4b136077179bf60"
+    },
+    {
+      "source": "image-sources/characters/arras-president.png",
+      "target": "art-staging/characters/arras-president.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3364024,
+      "encodedBytes": 430400,
+      "sourceSha256": "b9eda4c907db1d9f19947e007e43f5ff8f932cbb3f9cd3656ecaef57b6a61c5c",
+      "encodedSha256": "349454d9dbe718efd3a6c368c3077a35b5b7c908df217cd5341b5fcb88e2f93e"
+    },
+    {
+      "source": "image-sources/characters/arras-prosecutor.png",
+      "target": "art-staging/characters/arras-prosecutor.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3179700,
+      "encodedBytes": 357888,
+      "sourceSha256": "f30c57cb9a68df84f52b86eb7abc2e3b335c6f7c73cf54adfb226daa19425024",
+      "encodedSha256": "7a8e4d2d393b0369d70cb8c480ee096171ab995bacd08ed250448ea7c11bd9f0"
+    },
+    {
+      "source": "image-sources/characters/arras-usher.png",
+      "target": "art-staging/characters/arras-usher.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3370522,
+      "encodedBytes": 398026,
+      "sourceSha256": "5c23bbcfd02f7041d1252acc0850f7b7dd1005978fde3fbd708c2adc6fdbeb4e",
+      "encodedSha256": "b858acadf4c3df0c6d6262d6c91a85444dffcbfeda11f70aef7cbbd0196cdbb7"
+    },
+    {
+      "source": "image-sources/characters/azelma.png",
+      "target": "art-staging/characters/azelma.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3411802,
+      "encodedBytes": 436656,
+      "sourceSha256": "a957c298a752c62ab14a40b07dc4d26493c84136f657aca9b9169e8f00049a69",
+      "encodedSha256": "155a0b94bc957c5da1012dd2b0053d6e3a861f49ca885945377f11ebc279e869"
+    },
+    {
+      "source": "image-sources/characters/babet.png",
+      "target": "art-staging/characters/babet.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3484116,
+      "encodedBytes": 472590,
+      "sourceSha256": "df9833a21b5012cb37c49fd0f82b820e5f1df9040aaa715f0f0d91aa7d0a1462",
+      "encodedSha256": "7c877f90ae2191579cfa5619c0e4ef3315f0a14623f77dc8b2622c3a81abc0cb"
+    },
+    {
+      "source": "image-sources/characters/bahorel.png",
+      "target": "art-staging/characters/bahorel.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3602560,
+      "encodedBytes": 494758,
+      "sourceSha256": "e5fa6285d87620a9f3d5beb9b85aa252e96aa86e9c5847725b5a0f3d392ec6ad",
+      "encodedSha256": "508d4c50baf79fa64e153d012de817933c7f5f2cc99fdf9d2abac00360ec0c35"
+    },
+    {
+      "source": "image-sources/characters/bamatabois.png",
+      "target": "art-staging/characters/bamatabois.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3560413,
+      "encodedBytes": 489540,
+      "sourceSha256": "ac48c5e1ed2b5ff23a30477cfe4fe78466dda0a5bf63c386b9696aa229771af3",
+      "encodedSha256": "1a16d06eb309247eed36466135a66945fd42a897369a340725d576b98767d614"
+    },
+    {
+      "source": "image-sources/characters/baptistine.png",
+      "target": "art-staging/characters/baptistine.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 2922599,
+      "encodedBytes": 295464,
+      "sourceSha256": "255e1e26367bcf08e6f9bc0f2b20f2892a77119108fcf82e13db595da5d3414e",
+      "encodedSha256": "d43bf455764763025ff361900c8d7a42a24cac534a5ae3550503689d294271d9"
+    },
+    {
+      "source": "image-sources/characters/basque.png",
+      "target": "art-staging/characters/basque.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3516618,
+      "encodedBytes": 453688,
+      "sourceSha256": "400aa00a6186caaae3d1a2a27ddff9ca43b532dcb93e553bcb4cc50d47df1b74",
+      "encodedSha256": "792a9f2c2d4a67732ec98cd668f13e4871493c5a2f3b5eb774180827dc328356"
+    },
+    {
+      "source": "image-sources/characters/blachevelle.png",
+      "target": "art-staging/characters/blachevelle.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3295428,
+      "encodedBytes": 393654,
+      "sourceSha256": "cb0c54a1732e9dfd9f2eb472450bdd657b82468970dd3b2d21b3e6da20e7a6d8",
+      "encodedSha256": "3b313ae26717d074be4ee4a5a32bcb9bb5e04a4fe42c12710f39cecded5f7a15"
+    },
+    {
+      "source": "image-sources/characters/boischevron.png",
+      "target": "art-staging/characters/boischevron.webp",
+      "dimensions": [
+        1144,
+        1375
+      ],
+      "quality": 88,
+      "sourceBytes": 3023677,
+      "encodedBytes": 327316,
+      "sourceSha256": "059b7218ea71614563c4d1a9e680e182d0cd64f1938382817f2fc9b3e22a4be8",
+      "encodedSha256": "12bad6d69e37e06d9cf60bae6d262d531c5065d175d491f3ae392cae5830bfec"
+    },
+    {
+      "source": "image-sources/characters/bombarda-waiter.png",
+      "target": "art-staging/characters/bombarda-waiter.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3555446,
+      "encodedBytes": 486732,
+      "sourceSha256": "5b42e8332201f655ea7590dab1e75cb6bf171e89bef55d57731f9007de936c98",
+      "encodedSha256": "38366abbc35666447044681dd189929b7fd6b449d31040e53546a096db44125c"
+    },
+    {
+      "source": "image-sources/characters/bossuet.png",
+      "target": "art-staging/characters/bossuet.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3397046,
+      "encodedBytes": 440072,
+      "sourceSha256": "b858da66423603e74b71dd3b35fa20b645e72bd2d1f9deb7bd21c66b8a4e127e",
+      "encodedSha256": "8f000de0a92726d765c7d1110e2e531cc8c9ee32b9ac2912754248767edf0736"
+    },
+    {
+      "source": "image-sources/characters/brevet.png",
+      "target": "art-staging/characters/brevet.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3199843,
+      "encodedBytes": 363954,
+      "sourceSha256": "c4843a1d7f3f6ff69ee6ce192f89e04581550097e4baf2e59e80bc60497d2156",
+      "encodedSha256": "6249ae2d47458f4a74b4f681c938bb457df189056b40bc49ca64aa7086df4f96"
+    },
+    {
+      "source": "image-sources/characters/brujon.png",
+      "target": "art-staging/characters/brujon.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3661208,
+      "encodedBytes": 508710,
+      "sourceSha256": "331d06a8a18241c3d1a5b92258e0d0bc256ade42ccc163dfbd5bfb7d23d43234",
+      "encodedSha256": "eb0e52d51bcf872f9271cac053fdb205a696b0e29c837e057b72a3c006e054e4"
+    },
+    {
+      "source": "image-sources/characters/chaffaut-tavernkeeper.png",
+      "target": "art-staging/characters/chaffaut-tavernkeeper.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3443487,
+      "encodedBytes": 487856,
+      "sourceSha256": "50b20bd25009081197fcc8ca7514d7d8e0adb797dc1b8b7ed105b065965c4932",
+      "encodedSha256": "6191131e702b10214cc0b4a3c77152a47a006b529ab60fe8b206e96d1f27be93"
+    },
+    {
+      "source": "image-sources/characters/champmathieu.png",
+      "target": "art-staging/characters/champmathieu.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3820993,
+      "encodedBytes": 543960,
+      "sourceSha256": "3aca2fb289df54eab137a77da0888c9c678221c37f16f577802a8b418515a72b",
+      "encodedSha256": "dab8a02780d25808c32e148f3cd6f3c3a947d9684c3ef8baacf7a478c914938a"
+    },
+    {
+      "source": "image-sources/characters/champtercier.png",
+      "target": "art-staging/characters/champtercier.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3551937,
+      "encodedBytes": 470708,
+      "sourceSha256": "e24cc8b87a1e58317343405ee5a05d3a114c627fb1207a3c4e041d1d1dc493c4",
+      "encodedSha256": "121e7d069268f336cb18b462c073492fd4d73bd3a6f8b5c751176fe5d614d01e"
+    },
+    {
+      "source": "image-sources/characters/chastelar-mayor.png",
+      "target": "art-staging/characters/chastelar-mayor.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3510122,
+      "encodedBytes": 455828,
+      "sourceSha256": "9e36a438fc6a1d6987870f4bd126eb543f86731ac48ba266332f714c785570a5",
+      "encodedSha256": "89deb8381ec1b81c27fe679119765d645311c5ec8584ce8ac5e7f1531922a5c8"
+    },
+    {
+      "source": "image-sources/characters/chatelet-police-sergeant.png",
+      "target": "art-staging/characters/chatelet-police-sergeant.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3170709,
+      "encodedBytes": 407498,
+      "sourceSha256": "4c2f3b3c3bc90d497dbd80d82018a89f8977f3930f4fca7e8b2b62c2e3681144",
+      "encodedSha256": "4753efe160a3a66a58a8277bc360a3b33bb5ea965d9587396b1c74e8177821d6"
+    },
+    {
+      "source": "image-sources/characters/chenildieu.png",
+      "target": "art-staging/characters/chenildieu.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3383464,
+      "encodedBytes": 438092,
+      "sourceSha256": "537091c3caa845bdd1679694d42ad18ce4035acf523d4d5c97e818446b9dc02e",
+      "encodedSha256": "e23d30d5f0c1b495d493b010c3fd9eb3a505c9be115456129e5874bb8cddaa94"
+    },
+    {
+      "source": "image-sources/characters/claquesous.png",
+      "target": "art-staging/characters/claquesous.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3128440,
+      "encodedBytes": 370510,
+      "sourceSha256": "f25994e854eaffad594c12b748db7a2ee8e01fd767188b86e3c7564430c67d8b",
+      "encodedSha256": "345b6fab023977c13beba627a2aab8886a5d28f0c96d692edd243f0704badfb8"
+    },
+    {
+      "source": "image-sources/characters/cochepaille.png",
+      "target": "art-staging/characters/cochepaille.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3470170,
+      "encodedBytes": 488150,
+      "sourceSha256": "3bae715562e63c918ca0f1124e1ef40d43a9609ebf3a596764097dc84739abb6",
+      "encodedSha256": "279af30ede9d9d3de4de83f360f8fa7ae506f0a14741697da2ada6850e5c899a"
+    },
+    {
+      "source": "image-sources/characters/combeferre.png",
+      "target": "art-staging/characters/combeferre.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 2986878,
+      "encodedBytes": 330954,
+      "sourceSha256": "5223bcb9f30a6ba97dd964b69806a456e4b8ea4119ddeb16375423fb81ae0b72",
+      "encodedSha256": "d4810c1094e6fc9fc9399c0eeac79e6ae048afae62668844911722a0d4d30cef"
+    },
+    {
+      "source": "image-sources/characters/comtesse-de-lo.png",
+      "target": "art-staging/characters/comtesse-de-lo.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3149189,
+      "encodedBytes": 360598,
+      "sourceSha256": "77f5ab6ce39d7faea6a6d6b04a8197b9010e6b952c2e69bdefe72a01d1367421",
+      "encodedSha256": "a802f76958246c912e7a62a0491eb706ed40a6135f07e1bdee22a12953c038b5"
+    },
+    {
+      "source": "image-sources/characters/condemned-prisoner.png",
+      "target": "art-staging/characters/condemned-prisoner.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3636752,
+      "encodedBytes": 492864,
+      "sourceSha256": "ee02c96d32d33effd9f83c1c32e5c3842b6d5d7da2e98ac425a688285eb7a37e",
+      "encodedSha256": "0ded0a842c59c3922bc607b2ff4cba7a4efad0730e3e0046d22492b18230697b"
+    },
+    {
+      "source": "image-sources/characters/conventionary-g.png",
+      "target": "art-staging/characters/conventionary-g.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3830397,
+      "encodedBytes": 558294,
+      "sourceSha256": "6997d2975f0c792377c990993b65becf834d9281e2862ddf1b1a0dd5ffb75b13",
+      "encodedSha256": "a29a7b519558534fe0d3d867868500196f6a78badb63fb28ba79bc6a040930c9"
+    },
+    {
+      "source": "image-sources/characters/cosette.png",
+      "target": "art-staging/characters/cosette.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3791233,
+      "encodedBytes": 529824,
+      "sourceSha256": "59ca138d8da4802311b9a82eb0e45f02f0d8d42da77b6b7b8a76bf722d8a5775",
+      "encodedSha256": "d11267b08cbe5e0d8b4bf465235d5a6f4e019738672793f585b818266e5cec0c"
+    },
+    {
+      "source": "image-sources/characters/courfeyrac.png",
+      "target": "art-staging/characters/courfeyrac.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3603559,
+      "encodedBytes": 502476,
+      "sourceSha256": "ae8dda0996e7c9466e745650dfc2425bc8b4bffee509b3ec4e48b829e58ec9cf",
+      "encodedSha256": "d2f0381aa7aad757aa12553242d0229cd9ba0119b4426cf0705617994b519d33"
+    },
+    {
+      "source": "image-sources/characters/cravatte.png",
+      "target": "art-staging/characters/cravatte.webp",
+      "dimensions": [
+        1144,
+        1375
+      ],
+      "quality": 88,
+      "sourceBytes": 3257464,
+      "encodedBytes": 392502,
+      "sourceSha256": "1d15f396083183be283bdda95259046ea5436657567075f992a9f4aad153d2ea",
+      "encodedSha256": "cefd4758753ed76c152a329ef986758c44ca634efe658e518334b7e0ce5cd804"
+    },
+    {
+      "source": "image-sources/characters/dahlia.png",
+      "target": "art-staging/characters/dahlia.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3673793,
+      "encodedBytes": 518810,
+      "sourceSha256": "749922dd917cb2abf56136a8eaf03052efe7e564d33a0b68e30477959b0a7ffc",
+      "encodedSha256": "30c095af3a4a0c6bc02e88884d980de0f1268ef5d859304882f5fc99632df6e7"
+    },
+    {
+      "source": "image-sources/characters/digne-armed-householder.png",
+      "target": "art-staging/characters/digne-armed-householder.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3507747,
+      "encodedBytes": 500122,
+      "sourceSha256": "bb385d3410eda4cf89dca20f819594c047c7a022efb944be89295128cccafc25",
+      "encodedSha256": "0e4486916024d162662ab629dc2bf6e726a8666c8b93cf17f8a8a81488d85e76"
+    },
+    {
+      "source": "image-sources/characters/digne-fishmonger.png",
+      "target": "art-staging/characters/digne-fishmonger.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3268525,
+      "encodedBytes": 425160,
+      "sourceSha256": "cd5bb6009a9195b0e44391bfe8dc43a7d5e21960861cec18f9a91ef208eab91f",
+      "encodedSha256": "9c963b3e01e9b4859ada26daf1dbedbdf4a3f8c638a63ddfb90883680384907b"
+    },
+    {
+      "source": "image-sources/characters/digne-householder-wife.png",
+      "target": "art-staging/characters/digne-householder-wife.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3396359,
+      "encodedBytes": 444590,
+      "sourceSha256": "286ccd3fb6fb4a20bd82b62c7f2e15c0b145c2048ef40f3b92874c0d2861deec",
+      "encodedSha256": "8b6a2e7013f6fa7208e743ed112815667f9cf1c51bf2c4e917898896910d802b"
+    },
+    {
+      "source": "image-sources/characters/digne-prefect.png",
+      "target": "art-staging/characters/digne-prefect.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 2890985,
+      "encodedBytes": 287016,
+      "sourceSha256": "1a0a23e8b4258cd3c71310200ba4815e04ae64805a5586bb7aa0a62988cb2aff",
+      "encodedSha256": "11b9fb8eebf4cf7ea2c7614055fdc508999e0e0cae84e7de0636fa218cf3bce7"
+    },
+    {
+      "source": "image-sources/characters/digne-return-brigadier.png",
+      "target": "art-staging/characters/digne-return-brigadier.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3027494,
+      "encodedBytes": 322414,
+      "sourceSha256": "7c7531840a61b356382f699e7a8f2a3706f3c64d9c6017ff468605895f43fa97",
+      "encodedSha256": "4d167459a03e630ebcc9018455fa20972b43395b2d59c24cccea48ce2a1f9903"
+    },
+    {
+      "source": "image-sources/characters/digne-townhall-gendarme.png",
+      "target": "art-staging/characters/digne-townhall-gendarme.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3105199,
+      "encodedBytes": 352672,
+      "sourceSha256": "7ebd76683dc276556342d1f1a007ee6d327b527038593d297d8c4c37e1746089",
+      "encodedSha256": "1558aa7e28c7c2860a36b62a2408e6d205f84fd53597d91a0a8c5b7e33e8e914"
+    },
+    {
+      "source": "image-sources/characters/digne-turnkey.png",
+      "target": "art-staging/characters/digne-turnkey.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3376112,
+      "encodedBytes": 455680,
+      "sourceSha256": "773274c93c792f7ec06edd906dc6bd4f55c1a5f76dd9e8d6693d6ebb38e85589",
+      "encodedSha256": "1bd9d1243a9ade67897b4c02ad4d955d36a238533cc5af319780c216eac9f312"
+    },
+    {
+      "source": "image-sources/characters/enjolras.png",
+      "target": "art-staging/characters/enjolras.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3216728,
+      "encodedBytes": 379534,
+      "sourceSha256": "208443744d85a2dd29f5f304da40c02cd3a953260576741ebd3368ae06862b30",
+      "encodedSha256": "a75675577ff275d8927d6e1a81b16f77be6b7a4f9e05ae82903e50052f4fda17"
+    },
+    {
+      "source": "image-sources/characters/eponine.png",
+      "target": "art-staging/characters/eponine.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3711872,
+      "encodedBytes": 549218,
+      "sourceSha256": "972e4e45b5965f7d50520dc905bf201a48e1923ced0d39c6cbe898a04c4e4154",
+      "encodedSha256": "a406b64f82564f63b74c6010b495af7418fee132a880318d34fc59ff7cda14be"
+    },
+    {
+      "source": "image-sources/characters/fameuil.png",
+      "target": "art-staging/characters/fameuil.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3362364,
+      "encodedBytes": 402580,
+      "sourceSha256": "fb1392c469928330ddf1b6e3abd331904873bd1bea1ee5f1142cd0f222005d66",
+      "encodedSha256": "36869a24e1a2aab342e21f6e539559574e5562f341a55e0969405d0218a6c518"
+    },
+    {
+      "source": "image-sources/characters/fantine-doctor.png",
+      "target": "art-staging/characters/fantine-doctor.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3083597,
+      "encodedBytes": 317926,
+      "sourceSha256": "ef5e86b501ee62657a249e6ae191fac38840026f413aec6c40da3db18ce60c2d",
+      "encodedSha256": "184de6d7f36a070923c74e2fcbb54e16f88b4f14c01ce26a1b9c505c5029f23f"
+    },
+    {
+      "source": "image-sources/characters/fantine-furniture-dealer.png",
+      "target": "art-staging/characters/fantine-furniture-dealer.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3410185,
+      "encodedBytes": 461196,
+      "sourceSha256": "d9552847e4d04c39bb91a9a3b0d8f95d525f16cbaff46d592af26532e1666093",
+      "encodedSha256": "c8bafc75d6ec7285e927f7b3afbe113eda7dd793e7997c5ec85e4d1c75bbe3db"
+    },
+    {
+      "source": "image-sources/characters/fantine-landlord.png",
+      "target": "art-staging/characters/fantine-landlord.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3445206,
+      "encodedBytes": 452268,
+      "sourceSha256": "2e9f77ad416fb4ee85b39e381cae7ff8601bbe75f456d8bd756989b364ad4f78",
+      "encodedSha256": "e63f4c85e91d820720fa44a3ea0c8e9e59791545e66d7f649b75c7216b815351"
+    },
+    {
+      "source": "image-sources/characters/fantine.png",
+      "target": "art-staging/characters/fantine.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3220961,
+      "encodedBytes": 386504,
+      "sourceSha256": "ed388804a60fe7ebe0bcac1612a4b849d4f08e7d7bb395c3c7df73cc5f602024",
+      "encodedSha256": "342e1450bd475e38b21e9dd26327496efddfd6ad6c56801f52161138b335bc47"
+    },
+    {
+      "source": "image-sources/characters/fauchelevent.png",
+      "target": "art-staging/characters/fauchelevent.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3219497,
+      "encodedBytes": 409768,
+      "sourceSha256": "4f5e17cf260407d843eda2e5a646c0a641fd60a76bb683ad749064b8c2c852bd",
+      "encodedSha256": "3697253054db1d70d9f3751917e5871dfda8a4daf2ada34c110748ae64d076b3"
+    },
+    {
+      "source": "image-sources/characters/favourite-actor-neighbour.png",
+      "target": "art-staging/characters/favourite-actor-neighbour.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3361853,
+      "encodedBytes": 409684,
+      "sourceSha256": "133bab0a0e2cc11ef81bd17ff43e54d34f755daa98544e3669b3f873c907f21f",
+      "encodedSha256": "95863b00fb9d918fa28a1bc79e9629811f839795ad7953523f5bf7b0ff3e22b7"
+    },
+    {
+      "source": "image-sources/characters/favourite.png",
+      "target": "art-staging/characters/favourite.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3563695,
+      "encodedBytes": 481672,
+      "sourceSha256": "e98b0c9f700eec5320f210fe9556e90c40598d8475cc0ee5d2c91448a2bae926",
+      "encodedSha256": "02220e6e4c4b06a7680001012a5f81ff9def17f0e91253dedc2583eeddda3e61"
+    },
+    {
+      "source": "image-sources/characters/fesch.png",
+      "target": "art-staging/characters/fesch.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3313149,
+      "encodedBytes": 437206,
+      "sourceSha256": "b5b432e6f34d4bd3313a9656bec44f1b2e96aa4170c7cca38a0b0d6a0d8d69e9",
+      "encodedSha256": "3ef9de8eea74267aaa0db0c075a73951954d1f475e6e4c802d30d8830f7253c8"
+    },
+    {
+      "source": "image-sources/characters/feuilly.png",
+      "target": "art-staging/characters/feuilly.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3286280,
+      "encodedBytes": 408526,
+      "sourceSha256": "6adf5e7cfb289af129d8007f2f70da850d3b3d1d7d3fd6399fd9becb5def8b92",
+      "encodedSha256": "b2b7daee09e4e8e9fffbbab52dccb7190391c010fceff3e331d1411a6db69703"
+    },
+    {
+      "source": "image-sources/characters/former-townhall-porter.png",
+      "target": "art-staging/characters/former-townhall-porter.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3523861,
+      "encodedBytes": 444714,
+      "sourceSha256": "f1818e2cad7c9cd0f1fbc885ec7d49e0db71140cbdf092016559cb5d256d34cb",
+      "encodedSha256": "375875a25e53930317fb851ee1a1a868e96b25ad7086e3ef557d85e70a42a709"
+    },
+    {
+      "source": "image-sources/characters/g-shepherd.png",
+      "target": "art-staging/characters/g-shepherd.webp",
+      "dimensions": [
+        1144,
+        1375
+      ],
+      "quality": 88,
+      "sourceBytes": 3494406,
+      "encodedBytes": 470148,
+      "sourceSha256": "ca37bfcc6db664e663c60d8054a0c31d1f9c69c8f01f9403ddba7890558bbcf5",
+      "encodedSha256": "74d0fca46b3a7d9349c6f7a71710291ca1d903380ed0c14a4b908db0a4210c55"
+    },
+    {
+      "source": "image-sources/characters/gavroche.png",
+      "target": "art-staging/characters/gavroche.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3561225,
+      "encodedBytes": 483296,
+      "sourceSha256": "e850d022e1f92e963f23c30d2b62aaec125bca8cd7d3157c99fca8d4ea9e7df1",
+      "encodedSha256": "2e67f37ce23fc5af865aa3421f37aef2945c4fba9899516460988d5b59c8c6b8"
+    },
+    {
+      "source": "image-sources/characters/geborand.png",
+      "target": "art-staging/characters/geborand.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3327458,
+      "encodedBytes": 402338,
+      "sourceSha256": "c65bf9c949aa5eb635448daea750c000395d8bc49048fcfca3ff5c7c07e648d0",
+      "encodedSha256": "ca51eb09ddf5f24208179ecd0eddffa955fedb0e21612d2a4a045bb55c413f98"
+    },
+    {
+      "source": "image-sources/characters/gervais-road-priest.png",
+      "target": "art-staging/characters/gervais-road-priest.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3490489,
+      "encodedBytes": 434156,
+      "sourceSha256": "852540ef76f2b524437782425c5c5f6fa4b75240f80f97fee58150c53ea3cd51",
+      "encodedSha256": "284b14fb1a811beaad89479847cb5afdc0ce34961b012277c6e37453835af6c2"
+    },
+    {
+      "source": "image-sources/characters/gillenormand-elder-daughter.png",
+      "target": "art-staging/characters/gillenormand-elder-daughter.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3537714,
+      "encodedBytes": 482824,
+      "sourceSha256": "4c042bf5cbffdbb8bc1393eacb27fc271e96f7c2ad13fa16c33c696dbfc556d3",
+      "encodedSha256": "f1edcb8f8ad52e3d4dbdc8d4b7c2fc5220f2a5abe1eac5c2f670e4a544c17159"
+    },
+    {
+      "source": "image-sources/characters/gillenormand.png",
+      "target": "art-staging/characters/gillenormand.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3749860,
+      "encodedBytes": 515744,
+      "sourceSha256": "ce785a7d1cf7d9225e964728e32558ef51f7a9ca5a93fbf39c2683168cb0f2fd",
+      "encodedSha256": "5a6efd3b6752fc739fc9bcdaa33840372f1ccf894b58d949fbb65b1fb7f5a209"
+    },
+    {
+      "source": "image-sources/characters/grantaire.png",
+      "target": "art-staging/characters/grantaire.webp",
+      "dimensions": [
+        1311,
+        1200
+      ],
+      "quality": 88,
+      "sourceBytes": 3049542,
+      "encodedBytes": 350796,
+      "sourceSha256": "598358d45e7008b9a0a6720c02afbeffafd24d44a030d10884be6372b46f9bdb",
+      "encodedSha256": "c141e644c3ebf86c5aaac2b14001f1ae58b03cebc07645ee9028184fc060b91b"
+    },
+    {
+      "source": "image-sources/characters/grasse-distillery-owner.png",
+      "target": "art-staging/characters/grasse-distillery-owner.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3061777,
+      "encodedBytes": 344414,
+      "sourceSha256": "9e2501ca73da58d37a2fbfa5d0707d345a575019ab00a0fa0fff4a1cfa881f73",
+      "encodedSha256": "cba6e6190a63acd3488b80ec81d74064d092a52130b4ff99604dbb79ce96a542"
+    },
+    {
+      "source": "image-sources/characters/grasse-gendarme.png",
+      "target": "art-staging/characters/grasse-gendarme.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3082717,
+      "encodedBytes": 353088,
+      "sourceSha256": "a9e0fbd7c488930ea1d3a7cc112a274392d4a1aac453147840c60d1495cfb3f5",
+      "encodedSha256": "7c5ca70b4620636ed7cd9380c8b08fef10f5ee239edb133758452b1317f83ee0"
+    },
+    {
+      "source": "image-sources/characters/grasse-workman.png",
+      "target": "art-staging/characters/grasse-workman.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3447901,
+      "encodedBytes": 449226,
+      "sourceSha256": "4365e4b13b3fc392e72db0ccc5d2f2a984e218c7d7f292ac631b59f5da752f0c",
+      "encodedSha256": "ca303358fbc11e62f7540c2e34330fbdf2c010a3f45072d8f2d20b959b1d35a3"
+    },
+    {
+      "source": "image-sources/characters/gueulemer.png",
+      "target": "art-staging/characters/gueulemer.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3385923,
+      "encodedBytes": 439818,
+      "sourceSha256": "53008308748340c35577a1fa0da2de761822f98aff5f28a8692c31593fba6417",
+      "encodedSha256": "89671d1049a73a569bd76c7c8a79cad05f0468e5ae6b776c30ae65fad9d661fa"
+    },
+    {
+      "source": "image-sources/characters/hesdin-cart-boy.png",
+      "target": "art-staging/characters/hesdin-cart-boy.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3487345,
+      "encodedBytes": 487892,
+      "sourceSha256": "88072fb39170f00e3b0e6f9697605f1b2c4e1e3eb8fe67ab3c5cfb0352969c71",
+      "encodedSha256": "bfa806930f957de509e1827947b9d37b97be19a4523f428aca779a694d64c42b"
+    },
+    {
+      "source": "image-sources/characters/hesdin-cart-woman.png",
+      "target": "art-staging/characters/hesdin-cart-woman.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3337937,
+      "encodedBytes": 429724,
+      "sourceSha256": "4f09f3241a5b386454b8821e62f3bc65658175ec77d322b73a3d7b04edfb799e",
+      "encodedSha256": "6190fff7c3d9ecd592d407a7ddf02f09751db29a238af9542eb23a54b2dbf6af"
+    },
+    {
+      "source": "image-sources/characters/hesdin-stableman.png",
+      "target": "art-staging/characters/hesdin-stableman.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3407959,
+      "encodedBytes": 445002,
+      "sourceSha256": "261da0c8078d48844c8eef6bb24c3312e188af261af0214a01e13496a5bf9c16",
+      "encodedSha256": "97da07189ea5866e1d4e94496c1467c1a143d2fd269c67fac30048b3ec16615e"
+    },
+    {
+      "source": "image-sources/characters/horse-pedlar.png",
+      "target": "art-staging/characters/horse-pedlar.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3401946,
+      "encodedBytes": 454876,
+      "sourceSha256": "1b7d2aeb18cc5ef3002d48844bf14c9d6f455cc6f7115ac1a1a1c7a53fde27f9",
+      "encodedSha256": "eec8d13a98e9fbf4f8a3b3b496dbff663eb6e9f28b9ae3ebf25209ced698c9f3"
+    },
+    {
+      "source": "image-sources/characters/hospital-director.png",
+      "target": "art-staging/characters/hospital-director.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3490185,
+      "encodedBytes": 474036,
+      "sourceSha256": "6794b116a4901e83558cb817bfd029ecf4cc30933e9366db5c1bd6a77e7ea3ec",
+      "encodedSha256": "21a669800dc447516fd85cce6457262a9ad78bd8bc8b47d0c855c3857d789a91"
+    },
+    {
+      "source": "image-sources/characters/hougomont-gardener-granddaughter.png",
+      "target": "art-staging/characters/hougomont-gardener-granddaughter.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3552809,
+      "encodedBytes": 488982,
+      "sourceSha256": "77efa8e3def9c1b1a155815564c4903e06313921f509910a7d82ae6b94a4b4b5",
+      "encodedSha256": "5c7b596203b3ff5633a4b9a7d4872885e98a9eafe01e269a5f3d2ef5d44f5df1"
+    },
+    {
+      "source": "image-sources/characters/hougomont-peasant-woman.png",
+      "target": "art-staging/characters/hougomont-peasant-woman.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3522138,
+      "encodedBytes": 465854,
+      "sourceSha256": "deee02c55dd3bebc484589615ab20c950ff5f9d93f4e294d6e643ae419d8b25f",
+      "encodedSha256": "f33dd23504d3286722532581f4bb1e8eac47a13c26b41b18d4a5de17c1117eef"
+    },
+    {
+      "source": "image-sources/characters/imperial-senator.png",
+      "target": "art-staging/characters/imperial-senator.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 2899133,
+      "encodedBytes": 288222,
+      "sourceSha256": "3a4c3ebbb0ca099edffbf73530854793149a799aa624a6b9ad53ddd88a7316fb",
+      "encodedSha256": "995059aacbddc8a2c978d5e4790476a6c35baa80758fae4af6ea33a9f5bb820d"
+    },
+    {
+      "source": "image-sources/characters/impertinent-dowager.png",
+      "target": "art-staging/characters/impertinent-dowager.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3153268,
+      "encodedBytes": 374574,
+      "sourceSha256": "272dc5a71d39fbea09941fa446218482773cc95e7ca611c7afe6f0b403d255eb",
+      "encodedSha256": "e9e86360015845d474c010c71337ef107d13a519e5cee54d956b5ddb83222114"
+    },
+    {
+      "source": "image-sources/characters/jacquin-labarre.png",
+      "target": "art-staging/characters/jacquin-labarre.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3394283,
+      "encodedBytes": 450350,
+      "sourceSha256": "43419a52221cdd35c5db5912e2d14b1c849a65d9a9c3e9fb19649cc2d7735d3c",
+      "encodedSha256": "92f6c74fae12270cad75eade5d08edac3ad374ad95097f3096a1b156e69a3e14"
+    },
+    {
+      "source": "image-sources/characters/javert.png",
+      "target": "art-staging/characters/javert.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3501935,
+      "encodedBytes": 441084,
+      "sourceSha256": "354bc66e10d4846df53016af577499a87da64b01a1f33022a77a169c877b0f9f",
+      "encodedSha256": "fbc9287fb8ed5036d5207b44132164f4090fa2b627cb6fd1059c0a504ffd6e8f"
+    },
+    {
+      "source": "image-sources/characters/jean-prouvaire.png",
+      "target": "art-staging/characters/jean-prouvaire.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3539731,
+      "encodedBytes": 484438,
+      "sourceSha256": "160a651e01e6a88bb540714f0b86390c58793276a9f661145d61f97108a3d7cb",
+      "encodedSha256": "3a1d366b71b64ee91ea77447f16af1f37d936d243b0bd0b86d5561a19283ecf7"
+    },
+    {
+      "source": "image-sources/characters/joly.png",
+      "target": "art-staging/characters/joly.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3699266,
+      "encodedBytes": 539678,
+      "sourceSha256": "3ba65b781a6e8a7027816173d1e24ef00b05a3f13d3db6d70637fb24bbcb49b2",
+      "encodedSha256": "522336b789e1f35a7371eed5eacfb8e5550ce56fef589b9703e6b11ef8487ade"
+    },
+    {
+      "source": "image-sources/characters/labarre-scullion.png",
+      "target": "art-staging/characters/labarre-scullion.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3377290,
+      "encodedBytes": 435974,
+      "sourceSha256": "6f359ef7d9bbe60744144886129504871e4ed120f380c5ec7560414badb86c8b",
+      "encodedSha256": "6ab90d0e76cb11b3bfaae2be60b7aa980f862d0d0c6818ea11b1bea8c2a5fa18"
+    },
+    {
+      "source": "image-sources/characters/labouisse.png",
+      "target": "art-staging/characters/labouisse.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3879721,
+      "encodedBytes": 562436,
+      "sourceSha256": "efbaa393616c966060e098fbfdc5e814bdfeda2df9b1fe1466a962fe5fddda83",
+      "encodedSha256": "40aafc6466ce00e52e0f7588f8ca71d20d97e741d0dfc27a54dce3beffaea908"
+    },
+    {
+      "source": "image-sources/characters/lagny-coachman.png",
+      "target": "art-staging/characters/lagny-coachman.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3307887,
+      "encodedBytes": 417632,
+      "sourceSha256": "1e2e00bae85425372cae64a9294450a1d4e2bab28d95083a92e95614166ae68e",
+      "encodedSha256": "5e1f0e0d76ffbe6485d53e62a2b46b0cd42f84767266e294c8d022a5c3cebbbb"
+    },
+    {
+      "source": "image-sources/characters/listolier.png",
+      "target": "art-staging/characters/listolier.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3323693,
+      "encodedBytes": 423052,
+      "sourceSha256": "11befe1ba978dcb35b130c2ecea929efa0c29b949cbd4fff8f8c6ca912f3a1e5",
+      "encodedSha256": "7657c24a5c421f081df192bc3eb80e3f407f1f9850a2c0f35cdc6bb5da69fa7f"
+    },
+    {
+      "source": "image-sources/characters/little-gervais.png",
+      "target": "art-staging/characters/little-gervais.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3531475,
+      "encodedBytes": 492640,
+      "sourceSha256": "93079fae0fd392c79f5f79ef35a4e50a8248f49df4b4c0c3d2cb48ef0302f88a",
+      "encodedSha256": "bedaed7762dfd30df7204d40c8c49d421729513dbcdbc9d9814a74773bdaaccf"
+    },
+    {
+      "source": "image-sources/characters/mabeuf.png",
+      "target": "art-staging/characters/mabeuf.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3725854,
+      "encodedBytes": 523240,
+      "sourceSha256": "01ba77da9365225fdb776c4e38620c5a7ed4db4b6cf13e737c9c0df8d08173de",
+      "encodedSha256": "01b088b3efe72a7c2f778503e552d8a834a94d9abf69056d3a9024d8b747b153"
+    },
+    {
+      "source": "image-sources/characters/madame-scaufflaire.png",
+      "target": "art-staging/characters/madame-scaufflaire.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3233220,
+      "encodedBytes": 397592,
+      "sourceSha256": "7f9cf287a7a2c6a1fcd23276e9c73dd461fcf3907b66021efcfa2dedd9dd0a37",
+      "encodedSha256": "ed968c6b71990045641ce8a78fe5c6a0cd335cc831f8e64836ee02930cabd6e0"
+    },
+    {
+      "source": "image-sources/characters/madame-thenardier.png",
+      "target": "art-staging/characters/madame-thenardier.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3696328,
+      "encodedBytes": 523214,
+      "sourceSha256": "6287032ebdc9705e0ec239d1b070b650c81d872b5b6f11e8dd6dd7e4d3cbad8e",
+      "encodedSha256": "57bcdd96145df7a50041efb94df33eeb170ab8bdea1759eeb1c9f1dd1085d361"
+    },
+    {
+      "source": "image-sources/characters/madeleine-cashier.png",
+      "target": "art-staging/characters/madeleine-cashier.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 2851964,
+      "encodedBytes": 311730,
+      "sourceSha256": "75905defea18c82c42de98fe536298a7459b82a5ea2c88071e9d3ad5f9a906d9",
+      "encodedSha256": "7eb89f8f6548fc4a76f5fc0bc81d32406007250afb72a58701917a5ed47b37f0"
+    },
+    {
+      "source": "image-sources/characters/madeleine-portress.png",
+      "target": "art-staging/characters/madeleine-portress.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3225661,
+      "encodedBytes": 386250,
+      "sourceSha256": "939f6f10cf5722ed2430f704d0887b28bbe44883b806abaf1d58e3c05c196db3",
+      "encodedSha256": "feda5951b5585cc9a22e7b31c645f35a08a2b5926110b8d1b3e0e29c32ef3d75"
+    },
+    {
+      "source": "image-sources/characters/madeleine-superintendent.png",
+      "target": "art-staging/characters/madeleine-superintendent.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3102228,
+      "encodedBytes": 346636,
+      "sourceSha256": "269a8c05359e33271e4ba1cf79206d33b50e988ab16411b8598139aa56e90f51",
+      "encodedSha256": "616e8bb26717805c4ec55a8887370009e17d5fa2646df1eafd317e6dcefc4a7c"
+    },
+    {
+      "source": "image-sources/characters/madeleine.png",
+      "target": "art-staging/characters/madeleine.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3511820,
+      "encodedBytes": 488738,
+      "sourceSha256": "a34a571704ebde284c0971db270b6e585bb7d31616c70e4ccd0feb5f296ca97c",
+      "encodedSha256": "fed458384f8bbd68c0d648cd86e9cdcb26e733e915f302aca4787a6e4bdd3801"
+    },
+    {
+      "source": "image-sources/characters/magloire.png",
+      "target": "art-staging/characters/magloire.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3352726,
+      "encodedBytes": 421876,
+      "sourceSha256": "e7a583bb31e8df0ad2f1d69efa2c85a09facee461e5d0fee6bd120edeb582785",
+      "encodedSha256": "53ec7dee7b1d7551b76b2ac85f58135de2a9060e916a913e8e75343c51ba9906"
+    },
+    {
+      "source": "image-sources/characters/magnon.png",
+      "target": "art-staging/characters/magnon.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3463651,
+      "encodedBytes": 464694,
+      "sourceSha256": "9343cfd2afbfcf46bef83684df84aef35936d20a6e7eeecdc5d7a3dbd342e69d",
+      "encodedSha256": "d6259f73fa3bb6bd62981d3812ff1e5601a301b49f01a84fcf1ef1c1ddb76055"
+    },
+    {
+      "source": "image-sources/characters/marguerite.png",
+      "target": "art-staging/characters/marguerite.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3297845,
+      "encodedBytes": 424154,
+      "sourceSha256": "b69cececa905219cdcd7c66f3f4b8f1e52924bdc8f52d1fcfd1c4795649176f6",
+      "encodedSha256": "09476cb14d5144666fc1589d11be7b687d912fc569a6b8553e7df81260b21efa"
+    },
+    {
+      "source": "image-sources/characters/marie-claude.png",
+      "target": "art-staging/characters/marie-claude.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3494611,
+      "encodedBytes": 456222,
+      "sourceSha256": "3537b24291322c56742be3a847830e7ae11c0960e6ed787d88e237aa5baee929",
+      "encodedSha256": "1b4edf346a2db1f4d3c3314cdeef6e736b88f821b5d1944a0f6271ef33465f04"
+    },
+    {
+      "source": "image-sources/characters/marius.png",
+      "target": "art-staging/characters/marius.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3338351,
+      "encodedBytes": 424394,
+      "sourceSha256": "15757a2e569d7ee1223fefde9c9df8c6a650dcdf382cc07b0c9c38cc4ae0ac3a",
+      "encodedSha256": "f366ee271f36cf690eead6d87b0663dae31758ea17c31c2beb74677038a54d14"
+    },
+    {
+      "source": "image-sources/characters/marquise-r.png",
+      "target": "art-staging/characters/marquise-r.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3070576,
+      "encodedBytes": 341916,
+      "sourceSha256": "c0bcefa655ceca5a5f61b28d94d2a96d47b890e795f2419aa9aa4dd48753d7aa",
+      "encodedSha256": "577b0f07cae7fc3739b975c035cf5303dbb84b6fd4cff95fd034de06e6eafeb6"
+    },
+    {
+      "source": "image-sources/characters/maubert-isabeau.png",
+      "target": "art-staging/characters/maubert-isabeau.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3591642,
+      "encodedBytes": 503220,
+      "sourceSha256": "ff2d22fc15b08ca6b1f9d18555d490b791f131352a2ca2a2aaefcdbd5913ffd0",
+      "encodedSha256": "16903da86c7d0f5b3745753ec860b62d928911fe8d99f7e4d5d263653199b885"
+    },
+    {
+      "source": "image-sources/characters/montfermeil-night-woman.png",
+      "target": "art-staging/characters/montfermeil-night-woman.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3106635,
+      "encodedBytes": 347110,
+      "sourceSha256": "fa058a517d72ca1db63479e12414d27f7b0d1d1598f631468e31ec4ad3c48d0b",
+      "encodedSha256": "c78ae9d11ba703ee9293af6b3e4866948a5c545513ea357133fd8504a16c2350"
+    },
+    {
+      "source": "image-sources/characters/montparnasse.png",
+      "target": "art-staging/characters/montparnasse.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3617207,
+      "encodedBytes": 480928,
+      "sourceSha256": "322bd8b7442db7be4d7dd93233d9924abe80dd9d469db6547ccc9d773ae5fdf3",
+      "encodedSha256": "2c240a23c58e3bf781b4647888c5a059fecda1dae33a9ee7ad73b40e466323f5"
+    },
+    {
+      "source": "image-sources/characters/montreuil-barber.png",
+      "target": "art-staging/characters/montreuil-barber.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3842969,
+      "encodedBytes": 563580,
+      "sourceSha256": "6bd36b0f5b0ea2d15926e66029a9409ba482d0441b36cc3e88a696b658e47540",
+      "encodedSha256": "388b65d938a62800b2eb93d686642847a1d445d4212b1a46d62fe915d6d351e6"
+    },
+    {
+      "source": "image-sources/characters/montreuil-guard-sergeant.png",
+      "target": "art-staging/characters/montreuil-guard-sergeant.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 2996533,
+      "encodedBytes": 310928,
+      "sourceSha256": "20d8c124a1deafd7249e8d9aa7ea05c386e15ffc864a6c0e5670d1ebc1a986ad",
+      "encodedSha256": "e1acb32bdce81d146870c8ad2f474953a3c35518efd5b802638a1a60fd195ba1"
+    },
+    {
+      "source": "image-sources/characters/montreuil-old-woman.png",
+      "target": "art-staging/characters/montreuil-old-woman.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3509961,
+      "encodedBytes": 484742,
+      "sourceSha256": "8be6338db6ebaf52ac6a45961471d1b3059e6e17f5d58747927b3bfca5268b2e",
+      "encodedSha256": "43aa0ace75ad8110ed12d2f16f2b4d1efef62e34c2185b0d7581d2bfa3032bda"
+    },
+    {
+      "source": "image-sources/characters/montreuil-postmistress.png",
+      "target": "art-staging/characters/montreuil-postmistress.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3206104,
+      "encodedBytes": 389932,
+      "sourceSha256": "94d6c17e4b023b5328cd534787aae5d261529a5122aadc7d68d810c37510d930",
+      "encodedSha256": "35c621f8a100be7fb573f854eca24fa36a2c6c97081d00e1261230d37204e64b"
+    },
+    {
+      "source": "image-sources/characters/montreuil-public-writer.png",
+      "target": "art-staging/characters/montreuil-public-writer.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3096948,
+      "encodedBytes": 367718,
+      "sourceSha256": "d663533b35a4b51b57e3dbd127bd698994a3f43bb7a50489a7d5f64bf020e0f3",
+      "encodedSha256": "d4ad85a05cbced62b4faa8b51c749edf26070784631e26b85e436f53c9c7825e"
+    },
+    {
+      "source": "image-sources/characters/mother-gerbaud.png",
+      "target": "art-staging/characters/mother-gerbaud.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3633785,
+      "encodedBytes": 509348,
+      "sourceSha256": "2e10a6fda9fe446e8ad98ab611e8d46cf32f4d2d3e4b4e94d05345d6823194f3",
+      "encodedSha256": "d4335611fd8dc43ddc7f517ac79add95ae6ebe25b032bdd312425e090d629924"
+    },
+    {
+      "source": "image-sources/characters/mother-innocente.png",
+      "target": "art-staging/characters/mother-innocente.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3253944,
+      "encodedBytes": 369956,
+      "sourceSha256": "86e0fee0da8228a5f7bc033db29df3f5012844378aba3b749c2ae4a9d57aa05b",
+      "encodedSha256": "075f1e651f70707c61607cfd3370126d373d9afeb880e291429a18e94b958348"
+    },
+    {
+      "source": "image-sources/characters/mountain-cure.png",
+      "target": "art-staging/characters/mountain-cure.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3504835,
+      "encodedBytes": 476750,
+      "sourceSha256": "ac0b3a3c098e02414491c71558d234aa553cf15b016f136106094e28fe686645",
+      "encodedSha256": "78fc0b9f4ea62fc8233844c460849b3f2050a96d27352f6f6e95a17f03f81557"
+    },
+    {
+      "source": "image-sources/characters/mountain-guide-child.png",
+      "target": "art-staging/characters/mountain-guide-child.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3865099,
+      "encodedBytes": 564692,
+      "sourceSha256": "dabf835c489e0abc4e29ff2a9d33a26fa06e29f4f4a726b0a89d73c23519a201",
+      "encodedSha256": "0be378f5d0ee7700da171f0f219476cbbcae77d933fe26b2567b9ff3f13b113a"
+    },
+    {
+      "source": "image-sources/characters/myriel.png",
+      "target": "art-staging/characters/myriel.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3238384,
+      "encodedBytes": 388324,
+      "sourceSha256": "daadef5593bacc3bb9dfc430f64734feefe370ab4c4ddbbf80b66a974fd857bb",
+      "encodedSha256": "17072a0d33feec85aa955d7b3af0e807afd082eb385198dba78eb024b1b45dfd"
+    },
+    {
+      "source": "image-sources/characters/napoleon.png",
+      "target": "art-staging/characters/napoleon.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3252419,
+      "encodedBytes": 404502,
+      "sourceSha256": "07d8b474292d36c8027694c6fd598f166faf81dd85359b052bf15de97ce824a1",
+      "encodedSha256": "44aa45f6e5700658fab5db6af7f3eb2446abeaa50287ace37e7fa63bbf68288b"
+    },
+    {
+      "source": "image-sources/characters/narrator-traveller.png",
+      "target": "art-staging/characters/narrator-traveller.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3624940,
+      "encodedBytes": 512352,
+      "sourceSha256": "e71fd3efcd69add842b7a4e0dc1ea7646cd12a63f0263eb1eefa51fe38f2dad8",
+      "encodedSha256": "c936d32910e1026b7ed89e2b95110f3a96fd4881ff00b13bccbd604214717c0f"
+    },
+    {
+      "source": "image-sources/characters/nicolette.png",
+      "target": "art-staging/characters/nicolette.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3264531,
+      "encodedBytes": 389902,
+      "sourceSha256": "bd66e0f4e228e7166c09d76cb1195e0c21ddefd1405b3d64af4bdf27088c183c",
+      "encodedSha256": "ab9ceec7ff2f24b3e7e2b6667bdb7c12a365a0093f2b1d3e13f00d2f888515aa"
+    },
+    {
+      "source": "image-sources/characters/opulent-colleague.png",
+      "target": "art-staging/characters/opulent-colleague.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3313545,
+      "encodedBytes": 407414,
+      "sourceSha256": "b2b22e1e3dab943c6a3257b6648c4b0c6edb29e678ca1804f08fb3831c431ae7",
+      "encodedSha256": "183f2148f9210ebe5d9e81955408c9c36cc84b5cbd4391c175ea50f8866759a3"
+    },
+    {
+      "source": "image-sources/characters/paulin-musebois.png",
+      "target": "art-staging/characters/paulin-musebois.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3434649,
+      "encodedBytes": 476672,
+      "sourceSha256": "33ed9f8ae510a7ad77d9f2e3174a99e96bbca7884e5dbeedf9f814d548da6d8e",
+      "encodedSha256": "bfe065fcdd7312db1e1f2dabacafcdfd96118e6326b778cb5dc88a87d1a30549"
+    },
+    {
+      "source": "image-sources/characters/pontmercy.png",
+      "target": "art-staging/characters/pontmercy.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3441460,
+      "encodedBytes": 451926,
+      "sourceSha256": "cb944198b0141da6fd9a8509cf0b6ecdc585a91dffa20f25d8404ba16c1e5f38",
+      "encodedSha256": "dd10bb4adec74cc432a83eb4ae492fecf68ee6cbdb23636bf014a3e6e783a521"
+    },
+    {
+      "source": "image-sources/characters/saint-pol-landlady.png",
+      "target": "art-staging/characters/saint-pol-landlady.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3433624,
+      "encodedBytes": 465672,
+      "sourceSha256": "5ebe00f2f69bc6f0158f9d247aba320c7e90e325e3e481e49452c21939516908",
+      "encodedSha256": "3572e1efac672ec9082edfd3e116dd2d52ad16d4a19861b935aa47f04da80d7f"
+    },
+    {
+      "source": "image-sources/characters/saint-pol-servant.png",
+      "target": "art-staging/characters/saint-pol-servant.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3117678,
+      "encodedBytes": 379734,
+      "sourceSha256": "536a481d30ff8d116af7785cbc88ae83951a9ce5e4faef9f54c5a4cc6dd1403f",
+      "encodedSha256": "c759949debcf8301182b7706de4375bd261abe8fa7f6d47aeb15e28823d5eaee"
+    },
+    {
+      "source": "image-sources/characters/scaufflaire.png",
+      "target": "art-staging/characters/scaufflaire.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3254987,
+      "encodedBytes": 414438,
+      "sourceSha256": "745aac21439004e41711734ef002f1483ea45e573f72262d4a20aa229975cd51",
+      "encodedSha256": "65e8a4f2a668244ece2a86c8e3665947108690228b571094c53421f43970347b"
+    },
+    {
+      "source": "image-sources/characters/senez-mayor.png",
+      "target": "art-staging/characters/senez-mayor.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3609254,
+      "encodedBytes": 481116,
+      "sourceSha256": "95e9a1cf1a618c8e5fa59d8a1c54ef1da1760f3f11033321be6cb3d1f8d76cdf",
+      "encodedSha256": "e89160c87c73aa98b481dba2150532111dc3541696f77c1154f00801e84924dc"
+    },
+    {
+      "source": "image-sources/characters/sister-perpetue.png",
+      "target": "art-staging/characters/sister-perpetue.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3159909,
+      "encodedBytes": 345780,
+      "sourceSha256": "66c621dfb7eb53000df79973c090dc02d63ac78dc2d9dc41a3e86e19d841a668",
+      "encodedSha256": "b8b1f41fda8a7263be0a9d7ed8565f0ed9c84bb36b80c473744d1a44ace5ec01"
+    },
+    {
+      "source": "image-sources/characters/sister-simplice.png",
+      "target": "art-staging/characters/sister-simplice.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3482514,
+      "encodedBytes": 454950,
+      "sourceSha256": "7dca114ae6b79e4171d057e097f244003ac072c9205f320ba4dc988f889f1ce9",
+      "encodedSha256": "3f8a2bdd04b289d4156ce5f9dd818401038189544313e57b758f4c51aa2dbcdc"
+    },
+    {
+      "source": "image-sources/characters/thenardier-neighbour.png",
+      "target": "art-staging/characters/thenardier-neighbour.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3303027,
+      "encodedBytes": 402442,
+      "sourceSha256": "c18efb81ad34c3c3a8b33fe7b5f6bef8f680fcdc430c68e736daded5753af28b",
+      "encodedSha256": "743464f8b4066881399325db6be2f8e4adf5cdbb14ecc8389c3880d2923138f4"
+    },
+    {
+      "source": "image-sources/characters/thenardier.png",
+      "target": "art-staging/characters/thenardier.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3389488,
+      "encodedBytes": 441384,
+      "sourceSha256": "abddfb729289b88934c0c293f70c1018a20aa16cf02bd249e44f5f569bf2b051",
+      "encodedSha256": "a956f1527c9cdccd11f5bb74fdbdd2a1a6e2141ae662f5c89d67a7faf72b02fe"
+    },
+    {
+      "source": "image-sources/characters/tholomyes.png",
+      "target": "art-staging/characters/tholomyes.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3734483,
+      "encodedBytes": 536704,
+      "sourceSha256": "58251a0bb7c709a3b4ff34cbc4e24a7804dcc656db5920b38584590052af4c85",
+      "encodedSha256": "8b370914153db1e5d2b789318446ade37477ac5483648a54dd3790fba30fa726"
+    },
+    {
+      "source": "image-sources/characters/tinques-postilion.png",
+      "target": "art-staging/characters/tinques-postilion.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 2851806,
+      "encodedBytes": 312576,
+      "sourceSha256": "202221437caee08babba34e4decb46c184632a8ed1bde0f9981b8ae2a093f5f8",
+      "encodedSha256": "c40be19c4cb8696fe05ac58f25f0e621aff636578bfe3c2c53cf22443e10c1b4"
+    },
+    {
+      "source": "image-sources/characters/tinques-roadmender.png",
+      "target": "art-staging/characters/tinques-roadmender.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3460161,
+      "encodedBytes": 467120,
+      "sourceSha256": "4c76e0004fc57c7c82f91e0710506fcb29fa82dd93d352436f7877fae3fbcb32",
+      "encodedSha256": "62800550a44c0193cb505b0c6300f841dc8db84307f7a731e531a80b3ab67425"
+    },
+    {
+      "source": "image-sources/characters/toothless-woman.png",
+      "target": "art-staging/characters/toothless-woman.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3521985,
+      "encodedBytes": 469474,
+      "sourceSha256": "d581985f7ec4f7e806f67e7064e55f00bded5de0bdda324572beda27bcd94608",
+      "encodedSha256": "34271fa66158dbee22054d2d69c6b79a1a576327687645d1824fb0cecf629b47"
+    },
+    {
+      "source": "image-sources/characters/toussaint.png",
+      "target": "art-staging/characters/toussaint.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3507398,
+      "encodedBytes": 469168,
+      "sourceSha256": "202b1cbc30a1bca06254c9155d0fb583001a96d35d5b546ce4442852599b295e",
+      "encodedSha256": "5c7fbfc5e640a622a4f0968a24ffe527d9526ed06e710bea3dc4022b6d5ac97b"
+    },
+    {
+      "source": "image-sources/characters/toy-merchant.png",
+      "target": "art-staging/characters/toy-merchant.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3163032,
+      "encodedBytes": 401628,
+      "sourceSha256": "6354c56ba390a41a211349ab33efddbed7f7ad61b45ca40713cdf37a613a7d6a",
+      "encodedSha256": "1bbe07cc4b0df13fddb3967b2469a658054b57171b60e6ee7efa95233d17ff45"
+    },
+    {
+      "source": "image-sources/characters/travelling-dentist.png",
+      "target": "art-staging/characters/travelling-dentist.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3494281,
+      "encodedBytes": 473380,
+      "sourceSha256": "b8895564b8bf54d273233f9a78eef0bae9d94606e5d0366597a9268531df9610",
+      "encodedSha256": "9f0ab880edf06cef7bc294ca5d660e9687e3025f903293e0df02ad8643567d87"
+    },
+    {
+      "source": "image-sources/characters/valjean-sister.png",
+      "target": "art-staging/characters/valjean-sister.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3319234,
+      "encodedBytes": 418796,
+      "sourceSha256": "a612ba10900edbbad8dece4fd025e261a45c4587f3ee8c0b717d3d1a4717069a",
+      "encodedSha256": "262123d2f1157b68e2c1ba465fc95456e4b5583f61816272fca02f82912cb524"
+    },
+    {
+      "source": "image-sources/characters/valjean.png",
+      "target": "art-staging/characters/valjean.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3613500,
+      "encodedBytes": 493478,
+      "sourceSha256": "484730edf85d0118516abb26ccfc8b80b327497e0fd9d7c56c0939d8512efef0",
+      "encodedSha256": "81777d990d20bc7f52f5b94d2f19c0806848b80a2827a07e3dc3ac84bc2ede5a"
+    },
+    {
+      "source": "image-sources/characters/victurnien.png",
+      "target": "art-staging/characters/victurnien.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3406673,
+      "encodedBytes": 433402,
+      "sourceSha256": "13c5a6dd30a934c79dd44b9fef090121c141beb4bf9d4659ec3b40a684021b90",
+      "encodedSha256": "5fedb80feee3f0c155329e7ab7b46c638a85fbf9693b6e343a9a1c9cb16c048e"
+    },
+    {
+      "source": "image-sources/characters/visiting-cure.png",
+      "target": "art-staging/characters/visiting-cure.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3158749,
+      "encodedBytes": 356992,
+      "sourceSha256": "5e6ff8b5849339fde0bb1f838c95a3c00886bcecb3b1d2098b9a81d173b75db7",
+      "encodedSha256": "d7bab441599075c262f0bceadade5086aa1c181f1948bdab73be2770142a7e3b"
+    },
+    {
+      "source": "image-sources/characters/zephine.png",
+      "target": "art-staging/characters/zephine.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3560722,
+      "encodedBytes": 502194,
+      "sourceSha256": "42c11f0c032ed2e423668594786bb83a0367071efb8adb0f1dbc378c1b42d2c0",
+      "encodedSha256": "d098fa009d2ba3c926866ec62fa6b63317a4347ade7a62bb70c8dbbbf316bb90"
+    },
+    {
+      "source": "image-sources/cover.png",
+      "target": "art-staging/cover.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 88,
+      "sourceBytes": 3204381,
+      "encodedBytes": 438828,
+      "sourceSha256": "ed92bf5610cbda20c221d7c44fa9f3ad67de682fb24a5645cbf7560631ef5229",
+      "encodedSha256": "35570afeab218319732bd443e5c1dd43b5e88d39c95efe4060e10afb5440fd27"
+    },
+    {
+      "source": "image-sources/items/catherine-doll.png",
+      "target": "art-staging/items/catherine-doll.webp",
+      "dimensions": [
+        1145,
+        1374
+      ],
+      "quality": 88,
+      "sourceBytes": 3245383,
+      "encodedBytes": 400522,
+      "sourceSha256": "f68a519238d6f529cf6deac9ef5d7f8f1d725f140e3ddc880af4fcbf0bf7d4aa",
+      "encodedSha256": "579da33c25aeac6de9425e4d897cfb8744ad093d527a05e32c1762b268075cfb"
+    },
+    {
+      "source": "image-sources/items/cosette-lead-sword.png",
+      "target": "art-staging/items/cosette-lead-sword.webp",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "quality": 88,
+      "sourceBytes": 3048129,
+      "encodedBytes": 369286,
+      "sourceSha256": "82a1e97586de5a250f5067a54fbe69d7df9fff59d0dd18274c96c6df18f30db4",
+      "encodedSha256": "3860d908afd6406aced22d8c79611ff1ef6516baf49837f523e42973d4fe13e5"
+    },
+    {
+      "source": "image-sources/items/cosette-outfit.png",
+      "target": "art-staging/items/cosette-outfit.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3340648,
+      "encodedBytes": 434904,
+      "sourceSha256": "0a4818dc9ea7f1c639854afd9352fe513622e3b3c463384887294c80d487abf6",
+      "encodedSha256": "1e7896214d53eba4b824a5f02ac8230be93ad8c90fbf7c29b6b1c063bfc70b64"
+    },
+    {
+      "source": "image-sources/items/cosette-stockings.png",
+      "target": "art-staging/items/cosette-stockings.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3870203,
+      "encodedBytes": 583140,
+      "sourceSha256": "db47061cfd28a3e3069e336a6ebe9d2ecdfad8e3be64824baf54482f39c073bd",
+      "encodedSha256": "32b1f5497be1baa3862dcd888cc48a162592159f0d804db94469a6d6cf405f58"
+    },
+    {
+      "source": "image-sources/items/cosette-water-bucket.png",
+      "target": "art-staging/items/cosette-water-bucket.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3614567,
+      "encodedBytes": 503770,
+      "sourceSha256": "ca9138f8665d6b7c6b7852bd320224b0eda6845d3818b898df607d14d45e3a76",
+      "encodedSha256": "7778d5ffc3dc9cb64ea877a221bf658a02ae843577550617914be9c55b82293c"
+    },
+    {
+      "source": "image-sources/items/gervais-forty-sous.png",
+      "target": "art-staging/items/gervais-forty-sous.webp",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "quality": 88,
+      "sourceBytes": 3274229,
+      "encodedBytes": 407164,
+      "sourceSha256": "0c29a33b852125c1ab652334dd0a2cd22349fb1add41173e205fc57fcaf1598a",
+      "encodedSha256": "182e73bde7ac730b400130a890934292600e814f860d110f7f22eec2a5042cf2"
+    },
+    {
+      "source": "image-sources/items/green-watering-pot.png",
+      "target": "art-staging/items/green-watering-pot.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3400209,
+      "encodedBytes": 461616,
+      "sourceSha256": "449af2298941cc3491fcc11cf5fa26212b9140d6216d8ae511bc44b758c5140f",
+      "encodedSha256": "33ca96cfb46d046ad3c891ad4a6153e530b4cae3762f112f897dff9b5df704af"
+    },
+    {
+      "source": "image-sources/items/gribier-cemetery-card.png",
+      "target": "art-staging/items/gribier-cemetery-card.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3190666,
+      "encodedBytes": 399292,
+      "sourceSha256": "c9d8a74d5167f9cd9c23099a10b09a3263f715554eef0d69d00418034b1df9d3",
+      "encodedSha256": "cab4feefcde8ef8bd69415f5e28535768d7d3e365e57c41abf36aa1b5c389192"
+    },
+    {
+      "source": "image-sources/items/madeleine-route-slip.png",
+      "target": "art-staging/items/madeleine-route-slip.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3005275,
+      "encodedBytes": 328542,
+      "sourceSha256": "f0448da0008ed6d4fe433d4eeac9ef9953b1b7e140c6df5a7c5c1e01e0ebbb96",
+      "encodedSha256": "ae4dbe48b2cc8ab6242a103588745dbf9068f17155a6fc06b6c781e0b2047ca4"
+    },
+    {
+      "source": "image-sources/items/mother-crucifixion-own-coffin.png",
+      "target": "art-staging/items/mother-crucifixion-own-coffin.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3917005,
+      "encodedBytes": 618948,
+      "sourceSha256": "7c23110c999034fba5e0e08778643ee323a413f6e1718ee02a761bc79132a26b",
+      "encodedSha256": "be0adc95b367517f215ca853e567154315a9e998678a76703f5d9b75a4ca4c6e"
+    },
+    {
+      "source": "image-sources/items/municipal-burial-coffin.png",
+      "target": "art-staging/items/municipal-burial-coffin.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3825117,
+      "encodedBytes": 540318,
+      "sourceSha256": "2a4df925246fa5c2690aff176e37f2f97cabda9910a6ffe74b369d59b6f34191",
+      "encodedSha256": "0f459b5d5a223ceb29c86679216b203542e84d1d83f0554eeeb8a7f78eb20662"
+    },
+    {
+      "source": "image-sources/items/pontmercy-legion-cross.png",
+      "target": "art-staging/items/pontmercy-legion-cross.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3121626,
+      "encodedBytes": 351284,
+      "sourceSha256": "2f4d2b5b0d32bdb6eaca6dc2d76f57f92df27c9403ec66e5c62a5a8a83f8247f",
+      "encodedSha256": "b748475328a33c304346bc0d4960a7fe5de0602f393133ebec2e8b58bafd1fbe"
+    },
+    {
+      "source": "image-sources/items/pontmercy-purse.png",
+      "target": "art-staging/items/pontmercy-purse.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3109653,
+      "encodedBytes": 360936,
+      "sourceSha256": "bcbb432a963c994cb1ad9e3a42c1c4ae40731f1909671906e0ca0508ea9af731",
+      "encodedSha256": "2ed0464bd6d8dccf55e8f5146284c1da6bfe98e5ae8e0f7d392fb0bff2790f60"
+    },
+    {
+      "source": "image-sources/items/pontmercy-ring.png",
+      "target": "art-staging/items/pontmercy-ring.webp",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "quality": 88,
+      "sourceBytes": 3022088,
+      "encodedBytes": 345354,
+      "sourceSha256": "e2a1ffd312e6c7c3440d8de4afebd6f76d81c6dc78237041210828d2556b6826",
+      "encodedSha256": "5b22ffc17f8ea91ea764de1f563a9c51fec5bc902cf3ccb7706f0eace0c69dc3"
+    },
+    {
+      "source": "image-sources/items/pontmercy-watch.png",
+      "target": "art-staging/items/pontmercy-watch.webp",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "quality": 88,
+      "sourceBytes": 3471587,
+      "encodedBytes": 443970,
+      "sourceSha256": "9ffc15c440ae2cfaffcffe1dcff4b4ac7bd4ab4eb3d591549fc8092a420437fc",
+      "encodedSha256": "6ba510b020645e180b8d5e0df755fa512a1630418c04e5d0f7cce6219a1e3683"
+    },
+    {
+      "source": "image-sources/items/silver-candlesticks.png",
+      "target": "art-staging/items/silver-candlesticks.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3109582,
+      "encodedBytes": 327188,
+      "sourceSha256": "65a3fbef92da42b4ebad1373b4ee8c8f991ff3d774cb6be11b289e2139234fa2",
+      "encodedSha256": "dd900927bba4ee0c4ae977f013cb8703eaf9389ea24cb7e838f2cdbd09bcf0ca"
+    },
+    {
+      "source": "image-sources/items/silver-tableware.png",
+      "target": "art-staging/items/silver-tableware.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3377406,
+      "encodedBytes": 436174,
+      "sourceSha256": "2f1c7ca64cbfb9c202fe7e095792991307a75e594c80cf06fdb3233e8295092a",
+      "encodedSha256": "f11e7f29a836b8983cf5baec4d2f81c672b1781a8803a7a734a8105a3e22f2c9"
+    },
+    {
+      "source": "image-sources/items/valjean-old-outfit.png",
+      "target": "art-staging/items/valjean-old-outfit.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3190318,
+      "encodedBytes": 390276,
+      "sourceSha256": "b30621d9a1875eeed215a8c97449438f042f70f5c051257f9f6c2ed0235a7a1e",
+      "encodedSha256": "cb265dd3a97ac8f8b9b968ca80bdecf3f929ef07dfc5ed9e0c25ca102bb1e080"
+    },
+    {
+      "source": "image-sources/items/valjean-property-note.png",
+      "target": "art-staging/items/valjean-property-note.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 2598302,
+      "encodedBytes": 235976,
+      "sourceSha256": "81b19cd34ab67da948648080c5c0519f0d576e5e2c5f8a7f4be7aef99aa3fb9e",
+      "encodedSha256": "cc5c40189d1b69cd9b11df0eb4dfee559dec02449795487ec626f26dbc2eb56c"
+    },
+    {
+      "source": "image-sources/items/valjean-thorn-cudgel.png",
+      "target": "art-staging/items/valjean-thorn-cudgel.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 4027603,
+      "encodedBytes": 590606,
+      "sourceSha256": "cb9940e5111f9b4b4867561bfd04738133fa43590f1df731c608fb80c8f7dae3",
+      "encodedSha256": "ae8b6636933ec1da13e79351a0fe72fdd2c44b191154a79713ad3fbed618caef"
+    },
+    {
+      "source": "image-sources/items/yellow-passport.png",
+      "target": "art-staging/items/yellow-passport.webp",
+      "dimensions": [
+        1374,
+        1145
+      ],
+      "quality": 88,
+      "sourceBytes": 2788063,
+      "encodedBytes": 313056,
+      "sourceSha256": "97c1187365fd4c863ef1060a7e14214bbf48df3eb4e75be3bf9025a65d0f928b",
+      "encodedSha256": "04f181a6111405c9f7675116cb92445ab6b128c4ac04b3be872d95c75635cfa7"
+    },
+    {
+      "source": "image-sources/locations/bishop-bedroom.png",
+      "target": "art-staging/locations/bishop-bedroom.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3304725,
+      "encodedBytes": 452106,
+      "sourceSha256": "7d9b79a992c698e31456fa32b01c2f664a032341d09f1556d408940c8e27dc34",
+      "encodedSha256": "8abab435bc4f62d8e85e1b141b77b7ec8716f10fe666ed4a04da88d2f897d847"
+    },
+    {
+      "source": "image-sources/locations/bishop-dining-room.png",
+      "target": "art-staging/locations/bishop-dining-room.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3329609,
+      "encodedBytes": 443180,
+      "sourceSha256": "9ceb1c3cac65ff6a642cfe7a73c1c1d6bda68a91fcdf9aa15f85fd3ab47eedd6",
+      "encodedSha256": "f5dc787665d2d6b573fa41c34ec7304d7cde3e570b4dd89378b4e5e9a8893b07"
+    },
+    {
+      "source": "image-sources/locations/bishop-garden.png",
+      "target": "art-staging/locations/bishop-garden.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 4343453,
+      "encodedBytes": 729446,
+      "sourceSha256": "533779c4780355159ece2f838ec6e8001a86dee1835e3bf48a25bb7491e2ad3e",
+      "encodedSha256": "9460fef7e5f019870882a6ca5cf6f7c827f2ea846e0346e79809c86859b464ad"
+    },
+    {
+      "source": "image-sources/locations/bishop-oratory-alcove.png",
+      "target": "art-staging/locations/bishop-oratory-alcove.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3418859,
+      "encodedBytes": 471464,
+      "sourceSha256": "476da9c1af09073b385a1aabf8b520f50e08dfedf839fb5552aba8e483aecfe3",
+      "encodedSha256": "6945a6a7dc0c9587fd2180ad9b2db5a29949ef92e7783ba6d5c9a78a05f70f29"
+    },
+    {
+      "source": "image-sources/locations/cross-colbas-kitchen.png",
+      "target": "art-staging/locations/cross-colbas-kitchen.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3521721,
+      "encodedBytes": 563068,
+      "sourceSha256": "11a04fb34f32a7e6e7642ed018eceb78e062809a9ab952d3b1293e9f3e7a94b1",
+      "encodedSha256": "f69ed4848d4d870c7c8f8b944c41b1c956a3d42f46a548f0cc70b98efa2964f5"
+    },
+    {
+      "source": "image-sources/locations/digne-printing-office-door.png",
+      "target": "art-staging/locations/digne-printing-office-door.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3454578,
+      "encodedBytes": 500760,
+      "sourceSha256": "d57d794fcb79d49650be46fb1ed584f093f1139e54e4b0b55fefdd39b2ca583c",
+      "encodedSha256": "f5d0de40aadc37aa29124e361c9b54d0823d9266fcab84cfb79410b15f8783bd"
+    },
+    {
+      "source": "image-sources/locations/montfermeil-forest-spring.png",
+      "target": "art-staging/locations/montfermeil-forest-spring.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3739060,
+      "encodedBytes": 547698,
+      "sourceSha256": "933ea7f3dd248c0a616e9459494fbd84b41e2677d71dc1084a11b71cde1345f1",
+      "encodedSha256": "4e25b323611f00fa21b01fba09b81a92c7130be1d6f5cdd437d072ce53847fb7"
+    },
+    {
+      "source": "image-sources/locations/montfermeil-toy-stall.png",
+      "target": "art-staging/locations/montfermeil-toy-stall.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 2516272,
+      "encodedBytes": 317118,
+      "sourceSha256": "9dbe0eaaad5f11eb655ba981d04717135434db08ad7148a80ca50a85025ae2b2",
+      "encodedSha256": "3137d16ba9a9cdb892a512f3ffaf54845718c1f910fcd0341a9143745a9231ad"
+    },
+    {
+      "source": "image-sources/locations/thenardier-children-hearth-room.png",
+      "target": "art-staging/locations/thenardier-children-hearth-room.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3584984,
+      "encodedBytes": 501664,
+      "sourceSha256": "038ef576a4a7c2f0816e90608fda8b989c2adc142d67cce76a031a833888552b",
+      "encodedSha256": "49ff609fcdf1a03a3efd25db465f1f0230d93546eaf79577ff63784ada4e5675"
+    },
+    {
+      "source": "image-sources/locations/thenardier-inn-guest-room.png",
+      "target": "art-staging/locations/thenardier-inn-guest-room.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 3391482,
+      "encodedBytes": 518370,
+      "sourceSha256": "623679c4af21808364bf8fdddda274d43ca49089e3dca494be7fbf45a8a6c191",
+      "encodedSha256": "069cd0052870947149988624231869faeb8c7a4805c095b069ab8ac266246c1a"
+    },
+    {
+      "source": "image-sources/locations/thenardier-inn-public-room.png",
+      "target": "art-staging/locations/thenardier-inn-public-room.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 88,
+      "sourceBytes": 2813490,
+      "encodedBytes": 373152,
+      "sourceSha256": "7fbf8e8e1b4c51aaaa1daaee8d31b6c869a5b230a5a5a69afd01e7803c0cc0c3",
+      "encodedSha256": "3bbb45d2562daf54f7f3975432c9e741749cfc074a850c4f4f8d7af2bd511847"
+    },
+    {
+      "source": "image-sources/locations/thenardier-understairs-recess.png",
+      "target": "art-staging/locations/thenardier-understairs-recess.webp",
+      "dimensions": [
+        1312,
+        1199
+      ],
+      "quality": 88,
+      "sourceBytes": 3711333,
+      "encodedBytes": 536550,
+      "sourceSha256": "4775254988be514146c21800ed45511ce9a7d69aa46928fae5acdf16d0970acc",
+      "encodedSha256": "a32934d1604f40b79053bec16f9cbb98c363db72d227d6e8676caea3c9a508df"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesArrasCourt.test.ts (2 tests | 2 failed) 23ms
+   × separates the usher’s return from the explicitly solitary council chamber 16ms
+   × retains the seated court participants through the continuous hearing 6ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesArrasCourt.test.ts > separates the usher’s return from the explicitly solitary council chamber
+AssertionError: expected 'arras-council-chamber' to be 'arras-court-antechamber' // Object.is equality
+
+Expected: "arras-court-antechamber"
+Received: "arras-council-chamber"
+
+ ❯ tests/lesMiserablesArrasCourt.test.ts:7:29
+      5|
+      6| test('separates the usher’s return from the explicitly solitary counci…
+      7|  expect(row(62,2).location).toBe('arras-court-antechamber')
+       |                             ^
+      8|  expect(cast(62,2)).toContain('arras-usher')
+      9|  expect(row(62,6)).toBeDefined()
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesArrasCourt.test.ts > retains the seated court participants through the continuous hearing
+AssertionError: 63:start: arras-defence-lawyer: expected [ 'valjean', 'champmathieu', …(3) ] to include 'arras-defence-lawyer'
+ ❯ tests/lesMiserablesArrasCourt.test.ts:19:38
+     17|   const here=cast(n,at)
+     18|   for(const key of ['arras-president','arras-prosecutor','arras-defenc…
+     19|    expect(here,`${n}:${at}: ${key}`).toContain(key)
+       |                                      ^
+     20|   expect(new Set(here).size).toBe(here.length)
+     21|   expect(here).not.toContain('javert')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  19:44:42
+   Duration  1.74s (transform 437ms, setup 0ms, import 632ms, tests 23ms, environment 0ms)
+

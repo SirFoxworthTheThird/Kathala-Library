@@ -1,0 +1,47 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesSourceIntroductions.test.ts (2 tests | 2 failed) 5ms
+   × describes Mother Veuvain as Courfeyrac’s concierge rather than a nun 4ms
+   × introduces Musichetta through Joly without disclosing Bossuet’s later connection 0ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesSourceIntroductions.test.ts > describes Mother Veuvain as Courfeyrac’s concierge rather than a nun
+AssertionError: expected 'A convent figure remembered in the ac…' to contain 'Courfeyrac'
+
+Expected: "Courfeyrac"
+Received: "A convent figure remembered in the account of Petit-Picpus."
+
+ ❯ tests/lesMiserablesSourceIntroductions.test.ts:8:22
+      6|  expect(chapters[275].text).toContain('I’m the concierge; my name is M…
+      7|  const description=characterIntroductions.get('mother-veuvain').descri…
+      8|  expect(description).toContain('Courfeyrac')
+       |                      ^
+      9|  expect(description).not.toMatch(/convent|Petit-Picpus/)
+     10| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesSourceIntroductions.test.ts > introduces Musichetta through Joly without disclosing Bossuet’s later connection
+AssertionError: expected 'The woman whose company is a shared i…' not to contain 'Bossuet'
+
+Expected: "Bossuet"
+Received: "The woman whose company is a shared interest in the friendship of Joly and Bossuet."
+
+ ❯ tests/lesMiserablesSourceIntroductions.test.ts:15:26
+     13|  const description=characterIntroductions.get('musichetta').description
+     14|  expect(description).toContain('Joly')
+     15|  expect(description).not.toContain('Bossuet')
+       |                          ^
+     16| })
+     17|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  09:54:58
+   Duration  249ms (transform 31ms, setup 0ms, import 91ms, tests 5ms, environment 0ms)
+

@@ -1,0 +1,406 @@
+{
+  "scope": "Initial complete-text review-fixture UI checks; not final release or exhaustive playback review",
+  "checks": [
+    "Complete-text fixture imports and manuscript opening renders",
+    "Traveller name is withheld before paragraph49 and displayed after its disclosure",
+    "Opening goal is readable without revealing the later child-protection objective or future convent membership badge",
+    "Current State changes from Alive to Deceased/Unknown at the report, without an absent-character snapshot",
+    "Relationship screen renders late-book records",
+    "Source-based associations and their distinct roles render in the reader view",
+    "Burned clothes and cudgel render as destroyed; spared candlesticks render intact at the later cut",
+    "Tinques guide has a source-specific Current State when he joins before the breakdown",
+    "Courtroom continuity retains the juror; the council-chamber state is explicitly solitary after the usher leaves",
+    "Separate infirmary/lodge/doorway positions render; the departed singer has no invented sickroom position",
+    "The watch officer stays on deck beneath the rescue; the unsupported newspaper drowning conclusion does not certify Valjean dead",
+    "In full-data view, thirty recent portraits and eighteen object illustrations load and open full-size using the actual image controls",
+    "Six ordinary place illustrations open full-size from the actual map location inspectors, separate from the map backgrounds"
+  ],
+  "errors": [],
+  "fixtureSha256": "4092c94bab7b064e4b6515d2a421d7ef7dba39c765cc9fdb21ee90b19c968c6b",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "bishopStateText": {
+    "before": "Status\nAlive\nCurrent Location\n\nThe bishop’s dining room\n\nStatus Notes\n\nSpeaks softly of withdrawing his brother from evil and giving his soul to God.",
+    "after": "Status\nDeceased\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nThe newspapers announce that Bishop Myriel has died at eighty-two. Baptistine had remained beside him through his blindness."
+  },
+  "illustrations": [
+    {
+      "kind": "characters",
+      "key": "montreuil-public-writer",
+      "imageId": "lesmis-world-review-art-characters-montreuil-public-writer-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "fantine-furniture-dealer",
+      "imageId": "lesmis-world-review-art-characters-fantine-furniture-dealer-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "fantine-landlord",
+      "imageId": "lesmis-world-review-art-characters-fantine-landlord-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "montreuil-barber",
+      "imageId": "lesmis-world-review-art-characters-montreuil-barber-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "travelling-dentist",
+      "imageId": "lesmis-world-review-art-characters-travelling-dentist-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "toothless-woman",
+      "imageId": "lesmis-world-review-art-characters-toothless-woman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "montreuil-guard-sergeant",
+      "imageId": "lesmis-world-review-art-characters-montreuil-guard-sergeant-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "kind": "characters",
+      "key": "montreuil-postmistress",
+      "imageId": "lesmis-world-review-art-characters-montreuil-postmistress-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "characters",
+      "key": "scaufflaire",
+      "imageId": "lesmis-world-review-art-characters-scaufflaire-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "madame-scaufflaire",
+      "imageId": "lesmis-world-review-art-characters-madame-scaufflaire-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "arras-president",
+      "imageId": "lesmis-world-review-art-characters-arras-president-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "characters",
+      "key": "arras-prosecutor",
+      "imageId": "lesmis-world-review-art-characters-arras-prosecutor-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "characters",
+      "key": "arras-defence-lawyer",
+      "imageId": "lesmis-world-review-art-characters-arras-defence-lawyer-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "kind": "characters",
+      "key": "arras-usher",
+      "imageId": "lesmis-world-review-art-characters-arras-usher-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "kind": "characters",
+      "key": "arras-hall-lawyer",
+      "imageId": "lesmis-world-review-art-characters-arras-hall-lawyer-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "kind": "characters",
+      "key": "arras-lantern-citizen",
+      "imageId": "lesmis-world-review-art-characters-arras-lantern-citizen-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "characters",
+      "key": "arras-landlady",
+      "imageId": "lesmis-world-review-art-characters-arras-landlady-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "arras-posting-clerk",
+      "imageId": "lesmis-world-review-art-characters-arras-posting-clerk-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "characters",
+      "key": "madeleine-portress",
+      "imageId": "lesmis-world-review-art-characters-madeleine-portress-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "madeleine-cashier",
+      "imageId": "lesmis-world-review-art-characters-madeleine-cashier-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "characters",
+      "key": "hesdin-cart-boy",
+      "imageId": "lesmis-world-review-art-characters-hesdin-cart-boy-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "hesdin-cart-woman",
+      "imageId": "lesmis-world-review-art-characters-hesdin-cart-woman-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "kind": "characters",
+      "key": "hesdin-stableman",
+      "imageId": "lesmis-world-review-art-characters-hesdin-stableman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "saint-pol-landlady",
+      "imageId": "lesmis-world-review-art-characters-saint-pol-landlady-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "saint-pol-servant",
+      "imageId": "lesmis-world-review-art-characters-saint-pol-servant-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "tinques-postilion",
+      "imageId": "lesmis-world-review-art-characters-tinques-postilion-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "tinques-roadmender",
+      "imageId": "lesmis-world-review-art-characters-tinques-roadmender-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "narrator-traveller",
+      "imageId": "lesmis-world-review-art-characters-narrator-traveller-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "hougomont-peasant-woman",
+      "imageId": "lesmis-world-review-art-characters-hougomont-peasant-woman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "characters",
+      "key": "hougomont-gardener-granddaughter",
+      "imageId": "lesmis-world-review-art-characters-hougomont-gardener-granddaughter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "items",
+      "key": "silver-candlesticks",
+      "imageId": "lesmis-world-review-art-items-silver-candlesticks-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "silver-tableware",
+      "imageId": "lesmis-world-review-art-items-silver-tableware-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "yellow-passport",
+      "imageId": "lesmis-world-review-art-items-yellow-passport-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "kind": "items",
+      "key": "gervais-forty-sous",
+      "imageId": "lesmis-world-review-art-items-gervais-forty-sous-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "kind": "items",
+      "key": "valjean-thorn-cudgel",
+      "imageId": "lesmis-world-review-art-items-valjean-thorn-cudgel-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "items",
+      "key": "valjean-old-outfit",
+      "imageId": "lesmis-world-review-art-items-valjean-old-outfit-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "items",
+      "key": "cosette-outfit",
+      "imageId": "lesmis-world-review-art-items-cosette-outfit-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "cosette-water-bucket",
+      "imageId": "lesmis-world-review-art-items-cosette-water-bucket-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "cosette-stockings",
+      "imageId": "lesmis-world-review-art-items-cosette-stockings-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "cosette-lead-sword",
+      "imageId": "lesmis-world-review-art-items-cosette-lead-sword-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "kind": "items",
+      "key": "catherine-doll",
+      "imageId": "lesmis-world-review-art-items-catherine-doll-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "kind": "items",
+      "key": "green-watering-pot",
+      "imageId": "lesmis-world-review-art-items-green-watering-pot-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "pontmercy-ring",
+      "imageId": "lesmis-world-review-art-items-pontmercy-ring-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "kind": "items",
+      "key": "pontmercy-legion-cross",
+      "imageId": "lesmis-world-review-art-items-pontmercy-legion-cross-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "pontmercy-watch",
+      "imageId": "lesmis-world-review-art-items-pontmercy-watch-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "kind": "items",
+      "key": "pontmercy-purse",
+      "imageId": "lesmis-world-review-art-items-pontmercy-purse-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "madeleine-route-slip",
+      "imageId": "lesmis-world-review-art-items-madeleine-route-slip-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "items",
+      "key": "valjean-property-note",
+      "imageId": "lesmis-world-review-art-items-valjean-property-note-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-dining-room",
+      "imageId": "lesmis-world-review-art-locations-bishop-dining-room-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-bedroom",
+      "imageId": "lesmis-world-review-art-locations-bishop-bedroom-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-oratory-alcove",
+      "imageId": "lesmis-world-review-art-locations-bishop-oratory-alcove-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-garden",
+      "imageId": "lesmis-world-review-art-locations-bishop-garden-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "cross-colbas-kitchen",
+      "imageId": "lesmis-world-review-art-locations-cross-colbas-kitchen-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "digne-printing-office-door",
+      "imageId": "lesmis-world-review-art-locations-digne-printing-office-door-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

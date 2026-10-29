@@ -1,0 +1,63 @@
+{
+  "bishop-ground-floor": {
+    "width": 1400,
+    "height": 1000,
+    "levelGroup": "bishop-house",
+    "levelIndex": 0,
+    "source": [
+      "I.I.VI paragraphs 0–20"
+    ],
+    "image": "bishop-ground-floor.webp",
+    "locations": {
+      "bishop-house": [
+        305,
+        640
+      ],
+      "bishop-house-entrance": [
+        240,
+        724
+      ],
+      "bishop-dining-room": [
+        380,
+        780
+      ],
+      "bishop-bedroom": [
+        665,
+        780
+      ],
+      "bishop-house-library": [
+        560,
+        770
+      ],
+      "bishop-oratory-door": [
+        810,
+        725
+      ],
+      "bishop-oratory-alcove": [
+        1050,
+        680
+      ],
+      "bishop-garden": [
+        500,
+        480
+      ]
+    }
+  },
+  "bishop-first-floor": {
+    "width": 1400,
+    "height": 1000,
+    "levelGroup": "bishop-house",
+    "levelIndex": 1,
+    "source": [
+      "I.I.VI paragraphs 0, 8, 13–14",
+      "I.II.IV paragraphs 20–21"
+    ],
+    "image": "bishop-first-floor.webp",
+    "locations": {
+      "bishop-upstairs-drawing-room": [
+        700,
+        600
+      ]
+    }
+  }
+}

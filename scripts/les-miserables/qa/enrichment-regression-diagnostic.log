@@ -1,0 +1,56 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesEnrichment.test.ts (24 tests | 2 failed) 198ms
+   × rejects restoring an exposed actor key and rejects an unresolved reader reference 22ms
+   × rejects approvals that drift onto another passage after a new cut 12ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesEnrichment.test.ts > rejects restoring an exposed actor key and rejects an unresolved reader reference
+AssertionError: Stale reported-scene decision: 178-3
+
+- Expected
++ Received
+
+- true
++ false
+
+ ❯ validateReportedDispositions scripts/les-miserables/validate-enrichment.mjs:17:12
+     15|   for (const [id, decision] of decisions) {
+     16|     const scene = audit.scenes.find(row => row.scene === id)
+     17|     assert.ok(scene?.quotedReportedProse, `Stale reported-scene decisi…
+       |            ^
+     18|     assert.deepEqual([scene.chapter, scene.at, scene.title],
+     19|       [decision.chapter, decision.at, decision.title], `Reported decis…
+ ❯ validateReaderProjection scripts/les-miserables/validate-enrichment.mjs:60:3
+ ❯ tests/lesMiserablesEnrichment.test.ts:123:10
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesEnrichment.test.ts > rejects approvals that drift onto another passage after a new cut
+AssertionError: Stale reported-scene decision: 178-3
+
+- Expected
++ Received
+
+- true
++ false
+
+ ❯ validateReportedDispositions scripts/les-miserables/validate-enrichment.mjs:17:12
+     15|   for (const [id, decision] of decisions) {
+     16|     const scene = audit.scenes.find(row => row.scene === id)
+     17|     assert.ok(scene?.quotedReportedProse, `Stale reported-scene decisi…
+       |            ^
+     18|     assert.deepEqual([scene.chapter, scene.at, scene.title],
+     19|       [decision.chapter, decision.at, decision.title], `Reported decis…
+ ❯ tests/lesMiserablesEnrichment.test.ts:209:10
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed | 22 passed (24)
+   Start at  08:56:34
+   Duration  851ms (transform 313ms, setup 0ms, import 503ms, tests 198ms, environment 0ms)
+

@@ -1,0 +1,39 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesSeparateRooms.test.ts (2 tests | 2 failed) 26ms
+   × keeps the singer outside the Musain back room 18ms
+   × keeps Toussaint upstairs and Éponine at the defended gate 7ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesSeparateRooms.test.ts > keeps the singer outside the Musain back room
+AssertionError: expected [ 'marius', 'enjolras' ] to include 'combeferre'
+ ❯ tests/lesMiserablesSeparateRooms.test.ts:6:40
+      4| test('keeps the singer outside the Musain back room',()=>{
+      5|  const row=enrichedReview().get(180).find(row=>row.at===21)
+      6|  expect(row.present.map(([key])=>key)).toContain('combeferre')
+       |                                        ^
+      7|  expect(row.actorLocations.combeferre).toBe('cafe-musain')
+      8|  expect(row.present.find(([key])=>key==='combeferre')[1]).toMatch(/sta…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesSeparateRooms.test.ts > keeps Toussaint upstairs and Éponine at the defended gate
+AssertionError: expected [ 'eponine', 'thenardier', …(5) ] to include 'toussaint'
+ ❯ tests/lesMiserablesSeparateRooms.test.ts:14:42
+     12|  const rows=enrichedReview().get(259)
+     13|  const linen=rows.find(row=>row.at===32)
+     14|  expect(linen.present.map(([key])=>key)).toContain('toussaint')
+       |                                          ^
+     15|  expect(linen.actorLocations.toussaint).toBe('rue-plumet-pavilion')
+     16|  expect(rows.find(row=>row.at===109).actorLocations.eponine).toBe('rue…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  19:36:47
+   Duration  2.78s (transform 1.71s, setup 0ms, import 2.06s, tests 26ms, environment 0ms)
+

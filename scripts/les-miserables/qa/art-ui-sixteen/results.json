@@ -1,0 +1,77 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "sixteen",
+  "images": [
+    {
+      "key": "grasse-distillery-owner",
+      "imageId": "lesmis-world-review-art-characters-grasse-distillery-owner-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "grasse-gendarme",
+      "imageId": "lesmis-world-review-art-characters-grasse-gendarme-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "grasse-workman",
+      "imageId": "lesmis-world-review-art-characters-grasse-workman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "digne-return-brigadier",
+      "imageId": "lesmis-world-review-art-characters-digne-return-brigadier-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "gervais-road-priest",
+      "imageId": "lesmis-world-review-art-characters-gervais-road-priest-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "labouisse",
+      "imageId": "lesmis-world-review-art-characters-labouisse-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "favourite-actor-neighbour",
+      "imageId": "lesmis-world-review-art-characters-favourite-actor-neighbour-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bombarda-waiter",
+      "imageId": "lesmis-world-review-art-characters-bombarda-waiter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "thenardier-neighbour",
+      "imageId": "lesmis-world-review-art-characters-thenardier-neighbour-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montreuil-old-woman",
+      "imageId": "lesmis-world-review-art-characters-montreuil-old-woman-webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "238a6c05b4aca0a77c5f263dc0e83254c9b7c86768575713f4d5cfe092482b2f",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-montreuil-old-woman",
+  "currentImageId": "lesmis-world-review-art-characters-montreuil-old-woman-webp",
+  "currentDecoded": {
+    "width": 1024,
+    "height": 1536,
+    "type": "image/webp"
+  }
+}

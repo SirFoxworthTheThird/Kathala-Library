@@ -1,0 +1,46 @@
+{
+  "key": "paris-hospital-quarter",
+  "width": 1600,
+  "height": 1100,
+  "image": "gorbeau-surroundings.webp",
+  "source": [
+    "II.IV.I paragraphs 2–9 and 19–23",
+    "III.VIII.X paragraph 18",
+    "III.VIII.XIII",
+    "III.VIII.XXI paragraph 0"
+  ],
+  "locations": {
+    "gorbeau-house": [
+      655,
+      310
+    ],
+    "gorbeau-house-entrance": [
+      618,
+      438
+    ],
+    "gorbeau-adjoining-boulevard": [
+      655,
+      515
+    ],
+    "gorbeau-police-ambush": [
+      630,
+      650
+    ],
+    "barriere-gobelins-wall": [
+      880,
+      700
+    ],
+    "rue-petit-banquier-corner": [
+      285,
+      515
+    ],
+    "rue-petit-banquier-low-wall": [
+      175,
+      350
+    ],
+    "paris-boulevard-hopital": [
+      1130,
+      515
+    ]
+  }
+}

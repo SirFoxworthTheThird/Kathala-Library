@@ -1,0 +1,8 @@
+{
+  scope: 'Targeted source-correction character states and inventories; not full-book playback approval',
+  checks: [ '317-5 valjean: The Chanvrerie barrier', '317-5 javert: Unknown' ],
+  errors: [],
+  fixtureSha256: 'e50ba57339415a079bdb607a9ae8ed3f586803a92bf3680960759403ec2cfada',
+  applicationCommit: 'e920677e47ad79ea110c37855f0e0e05749e52e2',
+  applicationDiffSha256: '19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76'
+}

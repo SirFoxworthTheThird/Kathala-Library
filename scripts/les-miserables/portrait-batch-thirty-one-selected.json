@@ -1,0 +1,50 @@
+{
+  "selected": [
+    [
+      "luxembourg-disabled-veteran",
+      "exec-8fe59e55-86cb-490c-be36-778011f9911f.png"
+    ],
+    [
+      "madame-albertine",
+      "exec-d980ed9f-f4d0-49bc-9687-86e6f881258f.png"
+    ],
+    [
+      "pontmercy-doctor",
+      "exec-673947ba-6129-4f37-b1be-4a9810995d3e.png"
+    ],
+    [
+      "pontmercy-servant",
+      "exec-cf7ce166-63c0-492f-873e-8474e0139acf.png"
+    ],
+    [
+      "rue-ouest-porter",
+      "exec-ff86e644-aec4-4a79-b114-6783a260bd61.png"
+    ],
+    [
+      "thorigny-second-portress",
+      "exec-a866f867-43fa-44c7-8c6d-3223958dd017.png"
+    ],
+    [
+      "thorigny-third-portress",
+      "exec-c9b28df3-13b5-4dd1-934f-68897aa7786d.png"
+    ],
+    [
+      "vaugirard-funeral-priest",
+      "exec-854389df-e002-426c-9587-0bb21d5bd865.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "luxembourg-disabled-veteran",
+      "prompt": "Preserve this respectful natural elderly veteran portrait, empty sleeve, wooden leg, cane, uniform and ink/watercolor. Add the source's silver chin: a small smooth dull silver-colored prosthetic chin cup fitting over only the front of his chin below his closed mouth. No wounds, blood, exposed tissue, grotesque anatomy or robot features. Simple discreet period metal support; keep his face human.",
+      "original": "exec-ba8d867a-b807-40f1-b502-ae4d9df5ca3d.png",
+      "selected": "exec-8fe59e55-86cb-490c-be36-778011f9911f.png"
+    },
+    {
+      "key": "pontmercy-servant",
+      "prompt": "Keep this same servant's face, tears, clothing, doorway and ink/watercolor. Replace the tall glass-chimney lamp with a small simple early nineteenth-century open brass oil hand-lamp: shallow rounded reservoir, short projecting wick spout with a little flame, loop handle, no glass chimney or adjustment wheel. Preserve warm light and no other person.",
+      "original": "exec-9a75f6fc-fe5c-4a5f-a952-74d81f55d6da.png",
+      "selected": "exec-cf7ce166-63c0-492f-873e-8474e0139acf.png"
+    }
+  ]
+}

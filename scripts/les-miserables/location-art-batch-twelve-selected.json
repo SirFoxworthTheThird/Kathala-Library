@@ -1,0 +1,43 @@
+{
+  "selected": [
+    [
+      "montreuil-infirmary-laboratory",
+      "exec-936f5e8b-d624-4cf7-9c3e-c156b6132768.png"
+    ],
+    [
+      "arras-private-conference-room",
+      "exec-57b57ee3-356a-4071-af96-e2fe4b08e357.png"
+    ],
+    [
+      "montfermeil-region",
+      "exec-a3b62028-c532-4ab4-9e64-443f210ca654.png"
+    ],
+    [
+      "paris-boulevards",
+      "exec-3bb2a2a1-bd10-4ff7-aa17-ce985bd179b8.png"
+    ],
+    [
+      "paris-public-festival",
+      "exec-f2c2bf76-b9cf-43e5-b074-074d770e82e4.png"
+    ],
+    [
+      "paris-theatres",
+      "exec-89df9134-17bd-4691-a512-5dfc8e3ed9e7.png"
+    ],
+    [
+      "hougomont",
+      "exec-fe83356e-438b-43c6-a9c7-411dd0622dbc.png"
+    ],
+    [
+      "nivelles-la-hulpe-road",
+      "exec-4bd19a15-eed2-45ba-8e04-eafb88a16824.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "paris-boulevards",
+      "original": "exec-95b407b9-e372-496f-9ff1-68672c13df6a.png",
+      "prompt": "Edit only the distant background across this Paris boulevard. Remove the stone arched bridge and its dark iron railing completely. Continue the ordinary wet street into the distance with small irregular pre-Haussmann Paris building frontages and bare trees, fading into the same gray rainy atmosphere. There is NO visible bridge, canal, river or elevated crossing in this view. Preserve the street, puddles, foreground trees, lamps, existing near buildings and literary ink/watercolor style. No new monument, people, vehicles, signs or text."
+    }
+  ]
+}

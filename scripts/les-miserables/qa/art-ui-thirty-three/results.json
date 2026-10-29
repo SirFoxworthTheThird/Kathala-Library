@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-three",
+  "images": [
+    {
+      "key": "la-force-night-watchman",
+      "imageId": "lesmis-world-review-art-characters-la-force-night-watchman-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "la-force-watch-superintendent",
+      "imageId": "lesmis-world-review-art-characters-la-force-watch-superintendent-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "vaugirard-choir-boy",
+      "imageId": "lesmis-world-review-art-characters-vaugirard-choir-boy-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "petit-picpus-history-child",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-history-child-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "petit-picpus-brunette-pupil",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-brunette-pupil-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "vernon-flower-girl",
+      "imageId": "lesmis-world-review-art-characters-vernon-flower-girl-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gorbeau-returning-boy",
+      "imageId": "lesmis-world-review-art-characters-gorbeau-returning-boy-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montreuil-curious-young-woman",
+      "imageId": "lesmis-world-review-art-characters-montreuil-curious-young-woman-webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "74f15743ed9967705a11f25036b2d553cf56fc36f87bcbd585cac8d5f5577b73",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-montreuil-curious-young-woman",
+  "currentImageId": "lesmis-world-review-art-characters-montreuil-curious-young-woman-webp",
+  "currentDecoded": {
+    "width": 1024,
+    "height": 1536,
+    "type": "image/webp"
+  }
+}

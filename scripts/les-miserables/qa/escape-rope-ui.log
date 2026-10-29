@@ -1,0 +1,18 @@
+{
+  scope: 'Targeted source-correction character states and inventories; not full-book playback approval',
+  checks: [
+    '251-4 babet: La Force',
+    '251-7 thenardier: The surviving high wall',
+    '251-8 thenardier: The surviving high wall',
+    '251-8 brujon: Brujon’s escape rope',
+    '251-8 thenardier: does not hold The broken rope fragment',
+    '251-9 thenardier: The surviving high wall',
+    '251-10 gueulemer: The ruined-house enclosure',
+    '251-10 thenardier: The Rue du Roi-de-Sicile ruin',
+    '251-10 gavroche: does not hold Brujon’s escape rope'
+  ],
+  errors: [],
+  fixtureSha256: 'baaa35b4df65d98dcee68bf70c5378dc9357fda60d69fc75e9ed03d384bcf71d',
+  applicationCommit: 'e920677e47ad79ea110c37855f0e0e05749e52e2',
+  applicationDiffSha256: '19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76'
+}

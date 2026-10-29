@@ -1,0 +1,36 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesWorldReview.test.ts (3 tests | 1 failed | 2 skipped) 846ms
+   × gates identities, reported deaths and unequal knowledge without manufacturing absent snapshots 845ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 skipped (3)
+   Start at  08:52:08
+   Duration  1.59s (transform 410ms, setup 0ms, import 589ms, tests 846ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesWorldReview.test.ts > gates identities, reported deaths and unequal knowledge without manufacturing absent snapshots
+AssertionError: expected undefined to deeply equal { …(2) }
+
+- Expected:
+{
+  "characterId": "lesmis-world-review-character-valjean",
+  "eventId": "lesmis-world-review-event-57-1",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesWorldReview.test.ts:26:92
+     24| test('gates identities, reported deaths and unequal knowledge without …
+     25|  const{world}=model()
+     26|  expect(world.characters.find((r:any)=>r.id===`${prefix}-character-mad…
+       |                                                                                            ^
+     27|  const death=world.knowledgeFacts.find((r:any)=>r.id===`${prefix}-fact…
+     28|  expect(death.tags).toContain(`offstage-death:${prefix}-character-myri…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

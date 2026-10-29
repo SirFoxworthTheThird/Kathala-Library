@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesWorldReview.test.ts (4 tests | 1 failed) 3411ms
+   × exports application item conditions so destroyed belongings cannot remain usable 789ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesWorldReview.test.ts > exports application item conditions so destroyed belongings cannot remain usable
+AssertionError: expected false to be true // Object.is equality
+
+- Expected
++ Received
+
+- true
++ false
+
+ ❯ tests/lesMiserablesWorldReview.test.ts:12:76
+     10|  const{world}=model()
+     11|  const allowed=['intact','damaged','destroyed','repaired','lost','foun…
+     12|  expect(world.itemSnapshots.every((r:any)=>allowed.includes(r.conditio…
+       |                                                                            ^
+     13|  for(const key of ['old-outfit-burned','thorn-cudgel-burned'])
+     14|   expect(world.itemSnapshots.find((r:any)=>r.id===`${prefix}-item-stat…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 3 passed (4)
+   Start at  19:28:48
+   Duration  4.14s (transform 395ms, setup 0ms, import 578ms, tests 3.41s, environment 0ms)
+

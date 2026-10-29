@@ -1,0 +1,52 @@
+{
+  "scope": "Targeted six Montfermeil place illustrations in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "a9fdcd0477b51a321a5abaeaf72e29b2e4a4a0802e900491350c36a84fa3d219",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "thenardier-inn-public-room",
+      "imageId": "lesmis-world-review-art-locations-thenardier-inn-public-room-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "thenardier-inn-guest-room",
+      "imageId": "lesmis-world-review-art-locations-thenardier-inn-guest-room-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "thenardier-understairs-recess",
+      "imageId": "lesmis-world-review-art-locations-thenardier-understairs-recess-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "thenardier-children-hearth-room",
+      "imageId": "lesmis-world-review-art-locations-thenardier-children-hearth-room-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-toy-stall",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-toy-stall-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-forest-spring",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-forest-spring-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

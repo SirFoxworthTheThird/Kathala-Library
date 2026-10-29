@@ -1,0 +1,11 @@
+
+> gate
+> node scripts/gate.mjs
+
+gate: 1385 tests, 1 failing, 0 of them expected
+
+gate: 1 test(s) that were passing now fail:
+
+  records the hidden man during the search rather than accepting the nun declaration
+
+This change broke something. Fix it rather than adding it to the baseline.

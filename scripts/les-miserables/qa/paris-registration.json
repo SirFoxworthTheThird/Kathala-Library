@@ -1,0 +1,68 @@
+{
+  "width": 1624,
+  "height": 969,
+  "locations": {
+    "paris-gorbeau-quarter-gateway": [
+      1000,
+      820
+    ],
+    "paris-halles-gateway": [
+      810,
+      315
+    ],
+    "paris-marais": [
+      1030,
+      385
+    ],
+    "paris-latin-quarter": [
+      830,
+      590
+    ],
+    "luxembourg-gardens": [
+      755,
+      710
+    ],
+    "champs-elysees": [
+      480,
+      235
+    ],
+    "boulevard-du-temple": [
+      1195,
+      230
+    ],
+    "paris-town-hall": [
+      1040,
+      465
+    ],
+    "faubourg-saint-antoine": [
+      1410,
+      600
+    ],
+    "paris-mouffetard-quarter": [
+      910,
+      735
+    ],
+    "saint-sulpice": [
+      547,
+      577
+    ],
+    "seine-paris": [
+      1260,
+      800
+    ]
+  },
+  "landmarks": {
+    "paris-gorbeau-quarter-gateway": "The hospital-quarter interior road west of the Salpêtrière, south of the Jardin des Plantes; opens the closer source-based boulevard reconstruction.",
+    "paris-halles-gateway": "The market blocks just southeast of Saint-Eustache; a district-scale gateway, not the Corinthe building.",
+    "paris-marais": "The dense right-bank quarter northeast of the central islands.",
+    "paris-latin-quarter": "The left-bank blocks between the Luxembourg and the river.",
+    "luxembourg-gardens": "Inside the formal garden south of its palace, rather than on a surrounding street.",
+    "champs-elysees": "The tree-lined western promenade above the river bend.",
+    "boulevard-du-temple": "The curving boulevard along the northeastern edge of the dense old city.",
+    "paris-town-hall": "The municipal-building footprint on the right bank beside its riverside square.",
+    "faubourg-saint-antoine": "The district east of the Bastille open place.",
+    "paris-mouffetard-quarter": "The southern neighborhood west of the Jardin des Plantes, represented at district scale.",
+    "saint-sulpice": "The church block west of the Luxembourg gardens.",
+    "seine-paris": "The broad watercourse beside the Jardin des Plantes and Salpêtrière; a general river setting, not a claimed exact incident site."
+  }
+}

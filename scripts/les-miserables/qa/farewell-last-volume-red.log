@@ -1,0 +1,44 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesLastVolume.test.ts (1 test | 1 failed) 2190ms
+   × retains Mabeuf’s particular Diogenes volume through the reported sale without inventing a medicine purchase 2189ms
+ ❯ tests/lesMiserablesFarewellPositions.test.ts (1 test | 1 failed) 2132ms
+   × leaves Eponine outside while Marius reaches the taproom candle after their farewell 2131ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesFarewellPositions.test.ts > leaves Eponine outside while Marius reaches the taproom candle after their farewell
+AssertionError: expected 'lesmis-world-review-location-mondetou…' to be 'lesmis-world-review-location-corinthe…' // Object.is equality
+
+Expected: "lesmis-world-review-location-corinthe-taproom"
+Received: "lesmis-world-review-location-mondetour-small-barricade"
+
+ ❯ tests/lesMiserablesFarewellPositions.test.ts:7:104
+      5|  const{world}=buildWorldReview({embedded:false})
+      6|  const rows=world.characterSnapshots.filter(r=>r.eventId==='lesmis-wor…
+      7|  expect(rows.find(r=>r.characterId==='lesmis-world-review-character-ma…
+       |                                                                                                        ^
+      8|  expect(rows.find(r=>r.characterId==='lesmis-world-review-character-ep…
+      9| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesLastVolume.test.ts > retains Mabeuf’s particular Diogenes volume through the reported sale without inventing a medicine purchase
+AssertionError: expected undefined to be defined
+ ❯ tests/lesMiserablesLastVolume.test.ts:7:15
+      5|  const{world}=buildWorldReview({embedded:false})
+      6|  const item=world.items.find(r=>r.id==='lesmis-world-review-item-mabeu…
+      7|  expect(item).toBeDefined()
+       |               ^
+      8|  expect(item?.description).toMatch(/Lyons in 1644/)
+      9|  expect(item?.description).not.toMatch(/sold|hundred|Plutarque/)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  2 failed (2)
+      Tests  2 failed (2)
+   Start at  02:30:06
+   Duration  5.42s (transform 418ms, setup 0ms, import 793ms, tests 4.32s, environment 0ms)
+

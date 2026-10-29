@@ -1,0 +1,58 @@
+{
+  "selected": [
+    [
+      "guillaume-van-kylsom",
+      "exec-cae4555f-8622-4d23-9114-8e6921473044.png"
+    ],
+    [
+      "guilleminot",
+      "exec-55b8d682-1e90-4c31-bf71-ccd77c471601.png"
+    ],
+    [
+      "harlet",
+      "exec-43066fa7-3c3e-43ca-ab1a-b8fe781a958c.png"
+    ],
+    [
+      "haxo",
+      "exec-57ddead8-5d82-46f5-b929-776081beede7.png"
+    ],
+    [
+      "jerome-bonaparte",
+      "exec-b2fc8e74-fc85-4cb5-9701-20c4e5f2b419.png"
+    ],
+    [
+      "kellermann",
+      "exec-990cd863-6968-46fc-a797-284939f5b335.png"
+    ],
+    [
+      "kempt",
+      "exec-51115b2c-2fd5-4840-af4d-fb949a2b3281.png"
+    ],
+    [
+      "lafayette",
+      "exec-78cbc162-d0aa-4472-b471-252aafb1a042.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "guillaume-van-kylsom",
+      "original": "exec-011c3233-31dd-4f89-9b0d-385944ebf947.png",
+      "prompt": "Edit this single literary watercolor portrait, preserving the subject's face, hair, pose, period clothes, background and painting style. Remove all signature-like writing and marks at the lower right, replace with matching plain painted ground. No text, border or signature.",
+      "revision": "exec-5952b1b3-7dd6-4c75-8317-66453716a104.png",
+      "secondPrompt": "Remove the small cursive signature at the extreme BOTTOM RIGHT EDGE of this illustration. It is just under and to the right of the gardener's hanging cap, about x1050 y1350. Replace the entire bottom-right corner below the cap with plain irregular watercolor washes of old ground; no dark strokes shaped as letters. Preserve the rest of the image exactly, including the man and cap. Absolutely no signature, writing, watermark or text anywhere.",
+      "secondRevision": "exec-cae4555f-8622-4d23-9114-8e6921473044.png"
+    },
+    {
+      "key": "haxo",
+      "original": "exec-c3afa625-fd95-4fdc-a6d6-e7390b0f936d.png",
+      "prompt": "Edit this single literary watercolor portrait, preserving the subject's face, hair, pose, period clothes, background and painting style. Remove the paired binoculars entirely. Replace them with ONE small closed single-tube brass pocket telescope with a single objective, held naturally in the same hand. This is1815: no twin barrels, bridge, paired eyepieces, straps or binocular form. Preserve natural fingers. No text, border or signature.",
+      "revision": "exec-57ddead8-5d82-46f5-b929-776081beede7.png"
+    },
+    {
+      "key": "kempt",
+      "original": "exec-16ff04fc-bde9-4c67-b6fc-976a31d63afd.png",
+      "prompt": "Edit this single literary watercolor portrait, preserving the subject's face, hair, pose, period clothes, background and painting style. Remove the paired binoculars entirely. Replace them with ONE small closed single-tube brass pocket telescope with a single objective, held naturally in the same hand. This is1815: no twin barrels, bridge, paired eyepieces, straps or binocular form. Preserve natural fingers. Also remove all signature-like writing at the lower right and replace with matching plain landscape. No text, border or signature.",
+      "revision": "exec-51115b2c-2fd5-4840-af4d-fb949a2b3281.png"
+    }
+  ]
+}

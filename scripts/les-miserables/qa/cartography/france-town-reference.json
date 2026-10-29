@@ -1,0 +1,80 @@
+{
+  "bounds": [
+    -6,
+    41,
+    10,
+    52
+  ],
+  "cities": [
+    {
+      "key": "paris",
+      "name": "Paris",
+      "longitude": 2.35,
+      "latitude": 48.86,
+      "referencePoint": [
+        727.5625,
+        429.67272727272734
+      ]
+    },
+    {
+      "key": "france-digne-gateway",
+      "name": "Digne",
+      "longitude": 6.24,
+      "latitude": 44.09,
+      "referencePoint": [
+        1033.9,
+        976.0545454545451
+      ]
+    },
+    {
+      "key": "vernon",
+      "name": "Vernon",
+      "longitude": 1.49,
+      "latitude": 49.09,
+      "referencePoint": [
+        659.8375,
+        403.3272727272724
+      ]
+    },
+    {
+      "key": "montreuil-sur-mer",
+      "name": "Montreuil-sur-Mer",
+      "longitude": 1.76,
+      "latitude": 50.46,
+      "referencePoint": [
+        681.1,
+        246.39999999999992
+      ]
+    },
+    {
+      "key": "arras",
+      "name": "Arras",
+      "longitude": 2.78,
+      "latitude": 50.29,
+      "referencePoint": [
+        761.425,
+        265.8727272727274
+      ]
+    },
+    {
+      "key": "toulon",
+      "name": "Toulon",
+      "longitude": 5.93,
+      "latitude": 43.12,
+      "referencePoint": [
+        1009.4875,
+        1087.1636363636367
+      ]
+    },
+    {
+      "key": "waterloo-battlefield",
+      "name": "Waterloo",
+      "longitude": 4.4,
+      "latitude": 50.68,
+      "referencePoint": [
+        889,
+        221.20000000000002
+      ]
+    }
+  ]
+}

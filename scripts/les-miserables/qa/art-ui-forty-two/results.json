@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "forty-two",
+  "images": [
+    {
+      "key": "lamarque",
+      "imageId": "lesmis-world-review-art-characters-lamarque-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "lefebvre-desnouettes",
+      "imageId": "lesmis-world-review-art-characters-lefebvre-desnouettes-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "legros",
+      "imageId": "lesmis-world-review-art-characters-legros-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "lobau",
+      "imageId": "lesmis-world-review-art-characters-lobau-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "louis-philippe",
+      "imageId": "lesmis-world-review-art-characters-louis-philippe-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mallet",
+      "imageId": "lesmis-world-review-art-characters-mallet-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mestienne",
+      "imageId": "lesmis-world-review-art-characters-mestienne-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "michel",
+      "imageId": "lesmis-world-review-art-characters-michel-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "48cd56986218e04e1e25b269cc450dde5df215d2836bf3fd8d96c849d0f46d5e",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-michel",
+  "currentImageId": "lesmis-world-review-art-characters-michel-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

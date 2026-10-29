@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-seven",
+  "images": [
+    {
+      "key": "auguste-rohan",
+      "imageId": "lesmis-world-review-art-characters-auguste-rohan-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "austerlitz-tollkeeper",
+      "imageId": "lesmis-world-review-art-characters-austerlitz-tollkeeper-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bahorel-window-observer",
+      "imageId": "lesmis-world-review-art-characters-bahorel-window-observer-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bertrand",
+      "imageId": "lesmis-world-review-art-characters-bertrand-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "boulevard-cab-driver",
+      "imageId": "lesmis-world-review-art-characters-boulevard-cab-driver-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "voltaire-provincial-guest",
+      "imageId": "lesmis-world-review-art-characters-voltaire-provincial-guest-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "luxembourg-basin-father",
+      "imageId": "lesmis-world-review-art-characters-luxembourg-basin-father-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bourgaillard",
+      "imageId": "lesmis-world-review-art-characters-bourgaillard-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "f5c47bb219a3f0f242175a78de5a2b493ee6eccc49b1faee06efe2cb551b978f",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-bourgaillard",
+  "currentImageId": "lesmis-world-review-art-characters-bourgaillard-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

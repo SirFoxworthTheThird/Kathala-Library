@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesPacing.test.ts (2 tests | 1 failed | 1 skipped) 16ms
+   × distinguishes physical crisis, emotional revelation, quiet preparation and historical apparatus 15ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 skipped (2)
+   Start at  08:40:07
+   Duration  579ms (transform 272ms, setup 0ms, import 412ms, tests 16ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesPacing.test.ts > distinguishes physical crisis, emotional revelation, quiet preparation and historical apparatus
+AssertionError: expected 2 to be 5 // Object.is equality
+
+- Expected
++ Received
+
+- 5
++ 2
+
+ ❯ tests/lesMiserablesPacing.test.ts:9:36
+      7|  expect(plan.size).toBe(1521)
+      8|  expect([...plan.values()].every((r:any)=>Number.isInteger(r.tension)&…
+      9|  expect(plan.get('313-5').tension).toBe(5)
+       |                                    ^
+     10|  expect(plan.get('334-2').tension).toBe(5)
+     11|  expect(plan.get('363-13').tension).toBe(5)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

@@ -1,0 +1,23 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty",
+  "images": [
+    {
+      "key": "mabeuf-diogenes-volume",
+      "imageId": "lesmis-world-review-art-items-mabeuf-diogenes-volume-webp",
+      "width": 1374,
+      "height": 1145
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "9c7e417f01c8a80c75a334e44b79b61212ce8a02f29eb0efed2ce15c5dd69183",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-mabeuf-diogenes-volume",
+  "currentImageId": "lesmis-world-review-art-items-mabeuf-diogenes-volume-webp",
+  "currentDecoded": {
+    "width": 1374,
+    "height": 1145,
+    "type": "image/webp"
+  }
+}

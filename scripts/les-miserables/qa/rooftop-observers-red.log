@@ -1,0 +1,46 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesRooftopObservers.test.ts (2 tests | 2 failed) 20ms
+   × includes the directly visible fireman before the first shot 13ms
+   × does not place the departing rooftop observers inside the street barricade 6ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesRooftopObservers.test.ts > includes the directly visible fireman before the first shot
+TypeError: .toMatch() expects to receive a string, but got undefined
+ ❯ tests/lesMiserablesRooftopObservers.test.ts:7:77
+      5| test('includes the directly visible fireman before the first shot',()=…
+      6|  const row=enrichedReview().get(309).find(r=>r.at===5)
+      7|  expect(row.present.find(([key])=>key==='chanvrerie-rooftop-fireman')?…
+       |                                                                             ^
+      8|  expect(row.mentioned??[]).not.toContain('chanvrerie-rooftop-fireman')
+      9|  expect(row.actorLocations?.['chanvrerie-rooftop-fireman']).toBeNull()
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesRooftopObservers.test.ts > does not place the departing rooftop observers inside the street barricade
+AssertionError: expected undefined to be null
+
+- Expected:
+null
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesRooftopObservers.test.ts:14:112
+     12| test('does not place the departing rooftop observers inside the street…
+     13|  const review=enrichedReview(),row=review.get(309).find(r=>r.at===7)
+     14|  for(const key of['chanvrerie-rooftop-fireman','chanvrerie-rooftop-off…
+       |                                                                                                                ^
+     15|  expect(validateUnlocatedPositions(review).approved).toBe(24)
+     16| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  01:54:13
+   Duration  586ms (transform 263ms, setup 0ms, import 409ms, tests 20ms, environment 0ms)
+

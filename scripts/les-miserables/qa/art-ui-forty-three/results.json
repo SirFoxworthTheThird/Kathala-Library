@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "forty-three",
+  "images": [
+    {
+      "key": "milhaud",
+      "imageId": "lesmis-world-review-art-characters-milhaud-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "picton",
+      "imageId": "lesmis-world-review-art-characters-picton-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "poret-de-morvan",
+      "imageId": "lesmis-world-review-art-characters-poret-de-morvan-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "prince-orange",
+      "imageId": "lesmis-world-review-art-characters-prince-orange-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "reille",
+      "imageId": "lesmis-world-review-art-characters-reille-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "roguet",
+      "imageId": "lesmis-world-review-art-characters-roguet-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "somerset",
+      "imageId": "lesmis-world-review-art-characters-somerset-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "soye",
+      "imageId": "lesmis-world-review-art-characters-soye-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "e401b25b26a8a515a85bc0b7b3976337bd13ac85dc9d6b2de8e3499271f45dfa",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-soye",
+  "currentImageId": "lesmis-world-review-art-characters-soye-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

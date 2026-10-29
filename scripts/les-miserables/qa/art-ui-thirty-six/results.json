@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-six",
+  "images": [
+    {
+      "key": "duc-havre",
+      "imageId": "lesmis-world-review-art-characters-duc-havre-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "hill",
+      "imageId": "lesmis-world-review-art-characters-hill-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "lacoste",
+      "imageId": "lesmis-world-review-art-characters-lacoste-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "louis-xviii",
+      "imageId": "lesmis-world-review-art-characters-louis-xviii-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "louison",
+      "imageId": "lesmis-world-review-art-characters-louison-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "ney",
+      "imageId": "lesmis-world-review-art-characters-ney-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "soult",
+      "imageId": "lesmis-world-review-art-characters-soult-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "waterloo-aide-bernard",
+      "imageId": "lesmis-world-review-art-characters-waterloo-aide-bernard-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "b4eb27a82c6cbe062616ca8d8a47cfccb162627b80c5a6034baccf1ecc90ee2a",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-waterloo-aide-bernard",
+  "currentImageId": "lesmis-world-review-art-characters-waterloo-aide-bernard-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

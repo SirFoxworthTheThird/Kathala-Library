@@ -1,0 +1,10 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "262-10 gillenormand: The grandfather’s chamber"
+  ],
+  "errors": [],
+  "fixtureSha256": "e83dfda1d2c02e9784eccf0c53831a74f3bfac3673d6aa416ee0981954945aae",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

@@ -1,0 +1,56 @@
+{
+  "selected": [
+    [
+      "chanvrerie-rooftop-fireman",
+      "exec-92a4b2cb-142b-4546-8f0c-49d4bc749801.png"
+    ],
+    [
+      "chanvrerie-rooftop-officer",
+      "exec-beea1c63-29d1-47bd-9d59-a3cd763f4811.png"
+    ],
+    [
+      "fannicot",
+      "exec-61090577-0958-4f83-b155-daeb20f9dfb7.png"
+    ],
+    [
+      "father-hucheloup",
+      "exec-f7fadf07-027a-4f69-b219-8a2a13ecdb2e.png"
+    ],
+    [
+      "widow-hucheloup",
+      "exec-f64eb40a-a297-4f64-afbb-73f7bb86b343.png"
+    ],
+    [
+      "matelote",
+      "exec-b06e895f-ffca-4b5f-9dff-62d3305f5389.png"
+    ],
+    [
+      "gibelotte",
+      "exec-5d8b6641-ed37-42e2-b915-f18a80299e7b.png"
+    ],
+    [
+      "navet",
+      "exec-85ec5a24-d164-4834-9a32-9d760194dff1.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "father-hucheloup",
+      "prompt": "Keep this exact illustration, face, clothes, kitchen, style and composition. Add the substantial dark graying moustache explicitly described by Hugo. No other change.",
+      "original": "exec-507046c3-639e-4c02-8cac-c504e6c1c173.png",
+      "selected": "exec-f7fadf07-027a-4f69-b219-8a2a13ecdb2e.png"
+    },
+    {
+      "key": "widow-hucheloup",
+      "prompt": "Keep this exact respectful natural human portrait and illustration style. Add visible coarse sparse dark facial hair along upper lip and chin, as the source explicitly describes Mother Hucheloup as bearded. Natural facial hair, no caricature, no exaggeration. Preserve clothing, face and wine-shop.",
+      "original": "exec-d8a06249-ddef-4e66-b56b-a3b5cee72a9f.png",
+      "selected": "exec-f64eb40a-a297-4f64-afbb-73f7bb86b343.png"
+    },
+    {
+      "key": "fannicot",
+      "prompt": "Keep this exact French National Guard captain portrait and literary ink/watercolor style. Remove his anachronistic short peaked cap completely; show him bareheaded with natural dark wavy hair. Keep uniform and rest of composition. No headgear or extra figures.",
+      "original": "exec-06a928b7-2c21-48f9-999d-6c04a5ae1a47.png",
+      "selected": "exec-61090577-0958-4f83-b155-daeb20f9dfb7.png"
+    }
+  ]
+}

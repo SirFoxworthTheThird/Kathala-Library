@@ -1,0 +1,48 @@
+{
+  "selected": [
+    [
+      "fantine-montreuil-room",
+      "exec-c38404e6-7091-4a84-9761-db3a79516b95.png"
+    ],
+    [
+      "fantine-montreuil-attic",
+      "exec-8fa6da3c-8408-4b9d-86cc-4d427375526d.png"
+    ],
+    [
+      "montfermeil",
+      "exec-727fcd30-dbdb-4dfd-9ea6-e2b7fafb4e45.png"
+    ],
+    [
+      "thenardier-inn",
+      "exec-5a3900f2-b522-4b7e-956e-37abb93e0cd9.png"
+    ],
+    [
+      "thenardier-inn-front",
+      "exec-66b01867-7f20-4c5f-ad75-187fc0776be8.png"
+    ],
+    [
+      "montfermeil-church-square",
+      "exec-3c3f333a-c2f4-426f-83db-040f5db6ce2c.png"
+    ],
+    [
+      "montfermeil-forest",
+      "exec-7a969819-abad-4840-a25b-299046baf132.png"
+    ],
+    [
+      "montfermeil-chelles-path",
+      "exec-9aa3c606-0aca-42c1-9344-59640ca2d8b1.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "thenardier-inn",
+      "prompt": "Edit only the painted signboard above the doorway. Remove the recognizable horse, rider and all distinct figures or lettering. Replace the painting with extremely faded and flaked irregular muted gray, ochre and dull red paint traces, too worn to resolve any subject. Keep its existing wood board and frame, exact inn facade, door, shutters, lane, bench, barrel and ink/watercolor style. No other changes, no text or people.",
+      "original": "exec-bf3ea2da-ff7a-436d-a94f-b42152b2e559.png"
+    },
+    {
+      "key": "thenardier-inn-front",
+      "prompt": "Edit this night lane illustration only to make the inn wall on the LEFT a simple flat old stone-and-plaster village frontage, with plain recessed wooden door and blue-gray shutters. Remove the large projecting timber brackets, beams, overhanging porch roof and wooden balcony-like structure above the left doorway. Reconstruct a flat weathered plaster-and-stone wall there, consistent with a modest village cook-shop. Preserve the doorway position, candle lantern, lower window, dark lane, merchant stalls, mild snow-free December setting and ink/watercolor style. No sign text, people or new structure.",
+      "original": "exec-a9fb7dd1-8ba5-4b61-80ec-d3508f28ad19.png"
+    }
+  ]
+}

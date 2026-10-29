@@ -1,0 +1,56 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesHotelBalance.test.ts (2 tests | 2 failed) 18ms
+   × restores the spoken hotel reckoning after the separately summarized sales 16ms
+   × separates selling the gold watch from refusing the later family remittance 2ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesHotelBalance.test.ts > restores the spoken hotel reckoning after the separately summarized sales
+AssertionError: expected 'reported' to be 'scene' // Object.is equality
+
+Expected: "scene"
+Received: "reported"
+
+ ❯ tests/lesMiserablesHotelBalance.test.ts:6:17
+      4| test('restores the spoken hotel reckoning after the separately summari…
+      5|  const r=enrichedReview().get(181).find(r=>r.at===43)
+      6|  expect(r.kind).toBe('scene')
+       |                 ^
+      7|  expect(r.present.map(p=>p[0])).toEqual(['marius','courfeyrac','hotel-…
+      8|  expect(r.present[2][1]).toContain('seventy francs')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesHotelBalance.test.ts > separates selling the gold watch from refusing the later family remittance
+AssertionError: expected undefined to match object { chapter: 181, at: 43, …(3) }
+
+- Expected:
+{
+  "at": 43,
+  "chapter": 181,
+  "custodian": null,
+  "evidenceParagraph": 43,
+  "kind": "custody-report",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesHotelBalance.test.ts:11:64
+      9| })
+     10| test('separates selling the gold watch from refusing the later family …
+     11|  expect(itemStateChanges.find(r=>r.key==='marius-watch-sold')).toMatch…
+       |                                                                ^
+     12|  expect(itemStateChanges.find(r=>r.key==='family-remittance-returned')…
+     13| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  00:36:31
+   Duration  600ms (transform 269ms, setup 0ms, import 416ms, tests 18ms, environment 0ms)
+

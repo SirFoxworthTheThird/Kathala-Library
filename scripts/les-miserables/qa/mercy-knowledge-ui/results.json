@@ -1,0 +1,33 @@
+{
+  "scope": "The actual Knowledge page at four narrative cursors; not full-book disclosure approval",
+  "checks": [
+    {
+      "eventId": "lesmis-world-review-event-317-2",
+      "label": "before-release",
+      "javertKnows": false,
+      "mariusKnows": false
+    },
+    {
+      "eventId": "lesmis-world-review-event-317-3",
+      "label": "release",
+      "javertKnows": true,
+      "mariusKnows": false
+    },
+    {
+      "eventId": "lesmis-world-review-event-363-12",
+      "label": "before-proof",
+      "javertKnows": true,
+      "mariusKnows": false
+    },
+    {
+      "eventId": "lesmis-world-review-event-363-13",
+      "label": "printed-proof",
+      "javertKnows": true,
+      "mariusKnows": true
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "04d991e301501ad4432e2bb26eb44b0e56d44e7379890355ccc98ae04171355f",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

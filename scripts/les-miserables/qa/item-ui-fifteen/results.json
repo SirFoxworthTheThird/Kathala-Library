@@ -1,0 +1,59 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "fifteen",
+  "images": [
+    {
+      "key": "valjean-clothes-valise",
+      "imageId": "lesmis-world-review-art-items-valjean-clothes-valise-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "valjean-copper-crucifix",
+      "imageId": "lesmis-world-review-art-items-valjean-copper-crucifix-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "valjean-dream-account",
+      "imageId": "lesmis-world-review-art-items-valjean-dream-account-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "valjean-gavroche-five-franc-gift",
+      "imageId": "lesmis-world-review-art-items-valjean-gavroche-five-franc-gift-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "valjean-laffitte-letter",
+      "imageId": "lesmis-world-review-art-items-valjean-laffitte-letter-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "valjean-last-letter",
+      "imageId": "lesmis-world-review-art-items-valjean-last-letter-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "valjean-national-guard-equipment",
+      "imageId": "lesmis-world-review-art-items-valjean-national-guard-equipment-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "63c8dff26485125c71cb32efc49cff731d4edd023ce88f8a448775a2d99ba479",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-valjean-national-guard-equipment",
+  "currentImageId": "lesmis-world-review-art-items-valjean-national-guard-equipment-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-seven",
+  "images": [
+    {
+      "key": "wellington",
+      "imageId": "lesmis-world-review-art-characters-wellington-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "abbe-banes",
+      "imageId": "lesmis-world-review-art-characters-abbe-banes-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "ansiaux",
+      "imageId": "lesmis-world-review-art-characters-ansiaux-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bachelu",
+      "imageId": "lesmis-world-review-art-characters-bachelu-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "baloup",
+      "imageId": "lesmis-world-review-art-characters-baloup-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "baronne-de-t",
+      "imageId": "lesmis-world-review-art-characters-baronne-de-t-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bauduin",
+      "imageId": "lesmis-world-review-art-characters-bauduin-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "blackmann",
+      "imageId": "lesmis-world-review-art-characters-blackmann-webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "d6dc9f157eb558c5589f04b1bce5acbb5331882fa63ce9221f2250bd554aae06",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-blackmann",
+  "currentImageId": "lesmis-world-review-art-characters-blackmann-webp",
+  "currentDecoded": {
+    "width": 1024,
+    "height": 1536,
+    "type": "image/webp"
+  }
+}

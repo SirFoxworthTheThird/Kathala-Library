@@ -1,0 +1,68 @@
+{
+  "selected": [
+    [
+      "digne-palace",
+      "exec-59643b90-af88-47c4-90da-cf68c530cba9.png"
+    ],
+    [
+      "digne-palace-gallery",
+      "exec-af322eeb-794f-4c1e-9215-9c6c3a685663.png"
+    ],
+    [
+      "digne-hospital",
+      "exec-496685f3-1023-4d73-94a4-fde7979132b4.png"
+    ],
+    [
+      "bishop-house",
+      "exec-dbbe20f9-9691-41af-809a-7037e4a98d7e.png"
+    ],
+    [
+      "bishop-house-entrance",
+      "exec-4accff02-cb86-40b2-9da7-a2c2943e8de9.png"
+    ],
+    [
+      "bishop-house-library",
+      "exec-1b117d1a-5f46-40a8-8f22-b84edaf4d7ee.png"
+    ],
+    [
+      "bishop-oratory-door",
+      "exec-350dde52-4632-423d-bc88-abd17e955943.png"
+    ],
+    [
+      "bishop-upstairs-drawing-room",
+      "exec-69e921fa-2846-43f9-89e0-7599c7fcf3c2.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "digne-palace-gallery",
+      "original": "exec-86b467d6-7d47-49a7-89bb-26becd8aff1d.png",
+      "selected": "exec-af322eeb-794f-4c1e-9215-9c6c3a685663.png",
+      "prompt": "Keep this empty palace dining gallery and its FIVE currently visible framed portraits. Add exactly TWO additional small framed old clerical portraits on the FAR END WALL, one directly below each of its two existing portraits, beside the central doorway. Leave all five existing portraits where they are. Result: far end wall four portraits, long right wall three portraits, total SEVEN visible portraits. Preserve all architecture, furniture, garden doors, style and blank marble tablet. No other changes, no people, no readable text."
+    },
+    {
+      "key": "bishop-house",
+      "original": "exec-1f6da9a2-498d-4825-80b5-f02b1480436f.png",
+      "selected": "exec-dbbe20f9-9691-41af-809a-7037e4a98d7e.png",
+      "prompt": "Keep the small TWO-STOREY bishop house, attic roof, annex, stable, garden beds, paths and literary ink-watercolor style exactly as shown. Remove the giant Gothic cathedral in the upper-right background completely. Replace it with quiet mature leafy trees above a plain low perimeter wall and a little pale sky. No cathedral, church tower, spire or other landmark. No added people or text. The modest house and garden must remain the focus; this is an interpretive house view, not an asserted reconstruction of a monumental cathedral facade."
+    },
+    {
+      "key": "bishop-house-entrance",
+      "original": "exec-2d61723e-7bbd-4c91-b3f9-f05987ad8787.png",
+      "selected": "exec-4accff02-cb86-40b2-9da7-a2c2943e8de9.png",
+      "prompt": "Preserve this literary ink-watercolor close view of the plain slightly open wooden street door with simple thumb latch, stone frame and modest dining room with red brick floor. Remove the ornate Gothic cathedral facade from the right background entirely. Replace that background area with a simple pale plaster wall on the far side of the quiet square, some ordinary low tiled rooftops and a little sky. No church, cathedral, tower, spire, identifiable landmark, people or text. Do not add locks, keyholes or bolts."
+    },
+    {
+      "key": "bishop-oratory-door",
+      "original": "exec-36091348-2cd8-4cd0-9c7e-ddff20d987bc.png",
+      "selected": "exec-350dde52-4632-423d-bc88-abd17e955943.png",
+      "prompt": "Preserve this literary ink-watercolor empty bishop bedroom/oratory doorway view, whitewashed walls, red brick floor, faux-marble-painted wooden mantel and worn crucifix. In the oratory beyond the door, replace the little chair with RED UPHOLSTERY with a plain modest STRAW-SEATED WOODEN PRAYER KNEELER. No velvet, padded or upholstered furniture. Keep the simple linen-covered old sideboard altar and quiet daylight. No people, readable text, new treasure or other changes. The source specifies straw prayer furniture."
+    },
+    {
+      "key": "digne-palace-gallery",
+      "original": "exec-86b467d6-7d47-49a7-89bb-26becd8aff1d.png",
+      "intermediate": "exec-04c8b359-013e-46fa-a918-3501ab681d48.png",
+      "prompt": "Correct the number of framed paintings in this empty literary ink-and-watercolor palace dining gallery. Remove all existing portrait frames and replace them with EXACTLY SEVEN small framed old clerical portraits in total: TWO on the far end wall, and FIVE spaced along the long right-side wall between the garden windows. One painted face per frame, indistinct. There must be no other paintings or portraits anywhere. Preserve the long ground-floor gallery, garden openings, dining table, period furniture, white marble tablet with only indistinct gold flecks and no readable lettering, and the existing style. No living people. The source explicitly specifies seven portraits, not eleven."
+    }
+  ]
+}

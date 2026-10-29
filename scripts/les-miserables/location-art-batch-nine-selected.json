@@ -1,0 +1,48 @@
+{
+  "selected": [
+    [
+      "arras-hotel-poste",
+      "exec-bed48ecc-6e19-4764-9a5e-1e981824d57a.png"
+    ],
+    [
+      "arras-posting-office",
+      "exec-d8d63db6-bacc-4f20-835b-75c834275758.png"
+    ],
+    [
+      "arras-prefecture-square",
+      "exec-9f618b8d-3cec-4293-aea0-0cdf286935ad.png"
+    ],
+    [
+      "arras-prefecture",
+      "exec-83ee4d60-f28f-43a7-a116-398d1548bfcb.png"
+    ],
+    [
+      "arras-assize-hall",
+      "exec-f5982e0c-e3a4-4241-9fc8-8f93ff24e40c.png"
+    ],
+    [
+      "arras-council-chamber",
+      "exec-de55f799-be8d-4714-8ab0-226053a6ee62.png"
+    ],
+    [
+      "arras-court-antechamber",
+      "exec-87d6430f-49f0-4e52-b094-d0dcbbd67932.png"
+    ],
+    [
+      "arras-court-corridor",
+      "exec-b99b392a-7234-4034-b84f-b8c9bc0fec9c.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "arras-prefecture-square",
+      "prompt": "Edit only the window illumination in this illustration. There must be exactly FOUR long brightly illuminated windows: preserve the central group of four tall glowing windows above the main doorway. Make the extra shorter glowing window immediately to their LEFT completely dark, matching the other unlit windows. All other windows must be dark. Preserve the exact building, square, perspective, night lighting, ink and watercolor style. No people, lettering or added architecture.",
+      "original": "exec-8dfa0391-a11c-49f9-893a-d59fa1fdb84f.png"
+    },
+    {
+      "key": "arras-hotel-poste",
+      "prompt": "Edit only the billiard-room light fittings visible through the ground-floor doorway on the right. Remove the modern paired conical billiard-light shades and their horizontal bar. Replace them with one small simple early nineteenth-century oil lantern hanging from a plain iron hook, softly illuminating the existing billiard table. Preserve the inn courtyard, stable, facade, windows, empty room, paper/ink/watercolor style and everything else. No electric cable, electric light, gas pipe, people or text.",
+      "original": "exec-7b83c268-2375-41b8-be9b-d5e140770048.png"
+    }
+  ]
+}

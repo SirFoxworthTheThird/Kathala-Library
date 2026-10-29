@@ -1,0 +1,43 @@
+{
+  "width": 1254,
+  "height": 1254,
+  "locations": {
+    "paris": [
+      663,
+      389
+    ],
+    "france-digne-gateway": [
+      926,
+      874
+    ],
+    "vernon": [
+      593,
+      360
+    ],
+    "montreuil-sur-mer": [
+      613,
+      216
+    ],
+    "arras": [
+      690,
+      236
+    ],
+    "toulon": [
+      899,
+      971
+    ],
+    "waterloo-battlefield": [
+      800,
+      191
+    ]
+  },
+  "landmarks": {
+    "paris": "The town cluster near the center-north of the mainland, southeast of Vernon.",
+    "france-digne-gateway": "The inland town cluster in Provence, north of Toulon and west of the high Alpine relief.",
+    "vernon": "The smaller town cluster northwest of Paris; river drainage is omitted from this regional illustration.",
+    "montreuil-sur-mer": "The northern coastal-country town cluster west of Arras, inland from the Channel coast.",
+    "arras": "The inland northern town cluster southeast of Montreuil.",
+    "toulon": "The port cluster on the Mediterranean coast, south of Digne.",
+    "waterloo-battlefield": "The northern inland marker near Waterloo; local battlefield movement needs a separate detailed map."
+  }
+}

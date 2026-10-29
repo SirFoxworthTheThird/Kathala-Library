@@ -1,0 +1,41 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesItemStates.test.ts (11 tests | 1 failed) 88ms
+   × leaves the burned Touquet copy in the Musain fireplace rather than Courfeyrac’s inventory 5ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > leaves the burned Touquet copy in the Musain fireplace rather than Courfeyrac’s inventory
+AssertionError: expected undefined to match object { item: 'touquet-charter-copy', …(6) }
+
+- Expected:
+{
+  "at": 42,
+  "chapter": 179,
+  "condition": "burned",
+  "evidenceParagraph": 44,
+  "item": "touquet-charter-copy",
+  "kind": "placed",
+  "location": "cafe-musain-back-room",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesItemStates.test.ts:8:14
+      6| test('leaves the burned Touquet copy in the Musain fireplace rather th…
+      7|  const row=itemStateChanges.find(change=>change.key==='touquet-charter…
+      8|  expect(row).toMatchObject({item:'touquet-charter-copy',chapter:179,at…
+       |              ^
+      9|  expect(row).not.toHaveProperty('holder')
+     10| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 10 passed (11)
+   Start at  08:59:43
+   Duration  650ms (transform 269ms, setup 0ms, import 411ms, tests 88ms, environment 0ms)
+

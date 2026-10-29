@@ -1,0 +1,109 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesEnrichment.test.ts (24 tests | 3 failed) 183ms
+   × rejects restoring an exposed actor key and rejects an unresolved reader reference 9ms
+   × rejects approvals that drift onto another passage after a new cut 12ms
+   × requires every remaining quoted report to have an explicit source-reviewed disposition 13ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesEnrichment.test.ts > rejects restoring an exposed actor key and rejects an unresolved reader reference
+AssertionError: Unreviewed actor position: brujon
+
+- Expected
++ Received
+
+- true
++ false
+
+ ❯ validateReaderProjection scripts/les-miserables/validate-enrichment.mjs:32:14
+     30|     for (const [actor, location] of Object.entries(row.actorLocations …
+     31|       assert.ok(row.present.some(([key]) => key === actor), `Position …
+     32|       assert.ok(actorPositionEvidence.some(source => source.chapter ==…
+       |              ^
+     33|         source.actor === actor && source.location === location), `Unre…
+     34|     }
+ ❯ tests/lesMiserablesEnrichment.test.ts:123:10
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+ FAIL  tests/lesMiserablesEnrichment.test.ts > rejects approvals that drift onto another passage after a new cut
+AssertionError: Stale reported-scene decision: 230-5
+
+- Expected
++ Received
+
+- true
++ false
+
+ ❯ validateReportedDispositions scripts/les-miserables/validate-enrichment.mjs:17:12
+     15|   for (const [id, decision] of decisions) {
+     16|     const scene = audit.scenes.find(row => row.scene === id)
+     17|     assert.ok(scene?.quotedReportedProse, `Stale reported-scene decisi…
+       |            ^
+     18|     assert.deepEqual([scene.chapter, scene.at, scene.title],
+     19|       [decision.chapter, decision.at, decision.title], `Reported decis…
+ ❯ tests/lesMiserablesEnrichment.test.ts:209:10
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/3]⎯
+
+ FAIL  tests/lesMiserablesEnrichment.test.ts > requires every remaining quoted report to have an explicit source-reviewed disposition
+AssertionError: expected [ { scene: '230-6', …(15) } ] to deeply equal []
+
+- Expected
++ Received
+
+- []
++ [
++   {
++     "actorLocations": {},
++     "at": 23,
++     "cast": [],
++     "chapter": 230,
++     "closing": "hat moment, as proofs were wanting in
++ the investigation directed against Thénardier in the matter of his
++ daughters, Éponine and Azelma were released. When Éponine came out,
++ Magnon, who was watching the gate of the Madelonettes, handed her
++ Brujon’s note to Babet, charging her to look into the matter.",
++     "end": 1904410,
++     "items": [
++       "brujon-rue-plumet-note",
++     ],
++     "kind": "reported",
++     "location": null,
++     "mentioned": [
++       "babet",
++       "magnon",
++       "eponine",
++       "azelma",
++     ],
++     "opening": "In spite of male and female searchers, Babet managed to pass the note
++ on from La Force to the Salpêtrière, to a “good friend” whom he had and
++ who was shut up there. This woman in turn transmitted the note to
++ another woman of her acquaintance, a certain Magnon, who was strongly
++ suspected by the polic",
++     "quotedReportedProse": true,
++     "reason": "Paragraphs 23–24 establish successive handoffs across different institutions. Magnon is suspected but not arrested. The girls’ release for lack of evidence does not release their father, Babet or Brujon.",
++     "scene": "230-6",
++     "start": 1903511,
++     "title": "Magnon’s Bridge",
++   },
++ ]
+
+ ❯ tests/lesMiserablesEnrichment.test.ts:253:120
+    251|
+    252| test('requires every remaining quoted report to have an explicit sourc…
+    253|   expect(buildEnrichmentAudit().scenes.filter(row => row.quotedReporte…
+       |                                                                                                                        ^
+    254| })
+    255|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/3]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  3 failed | 21 passed (24)
+   Start at  10:35:37
+   Duration  864ms (transform 333ms, setup 0ms, import 529ms, tests 183ms, environment 0ms)
+

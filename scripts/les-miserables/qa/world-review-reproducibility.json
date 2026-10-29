@@ -1,0 +1,24 @@
+{
+  "scope": "local review fixture only; not final release",
+  "sha256": "4ab91d87ba9d5c76d07330157f6279d970c804593020eb33d4a6639eab86cd73",
+  "bytes": 381609065,
+  "regeneration": "byte-for-byte identical after two consecutive CLI regenerations; manuscript, chronology and pacing also identical",
+  "files": {
+    "manuscript-draft.pwk": {
+      "sha256": "d2344b550b0411dd0320069f763c82e45d4412c776b64df6697b958ce6136b1a",
+      "bytes": 5090400
+    },
+    "CHRONOLOGY_REVIEW.json": {
+      "sha256": "eb672df7a4e3ae1c3bc7104b990ba13696c0fa108aebcb549973a9926430f5ee",
+      "bytes": 533995
+    },
+    "PACING_REVIEW.json": {
+      "sha256": "c4606a75cc7ab32d852821aa445819b172c0020b3ad788cf923fb0a194ad3e48",
+      "bytes": 360362
+    },
+    "qa/world-review.pwk": {
+      "sha256": "4ab91d87ba9d5c76d07330157f6279d970c804593020eb33d4a6639eab86cd73",
+      "bytes": 381609065
+    }
+  }
+}

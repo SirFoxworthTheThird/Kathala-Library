@@ -1,0 +1,13 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "294-1 marius: The tap-room",
+    "294-1 eponine: The smaller Mondétour barrier",
+    "294-5 marius: Marius’s farewell letter",
+    "294-6 gavroche: Marius’s farewell letter"
+  ],
+  "errors": [],
+  "fixtureSha256": "9c7e417f01c8a80c75a334e44b79b61212ce8a02f29eb0efed2ce15c5dd69183",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

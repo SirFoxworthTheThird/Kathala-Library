@@ -1,0 +1,61 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesGardenListeners.test.ts (2 tests | 2 failed) 21ms
+   × models both speakers and their concealed listener on opposite sides of the hedge 15ms
+   × the purse crosses the hedge while its former holder stays in the lane 6ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesGardenListeners.test.ts > models both speakers and their concealed listener on opposite sides of the hedge
+AssertionError: expected [ 'gavroche' ] to deeply equal [ 'gavroche', 'mabeuf', …(1) ]
+
+- Expected
++ Received
+
+  [
+    "gavroche",
+-   "mabeuf",
+-   "mother-plutarque",
+  ]
+
+ ❯ tests/lesMiserablesGardenListeners.test.ts:7:44
+      5|  const rows=enrichedReview().get(242)
+      6|  const opening=rows.find(row=>row.at==='start')
+      7|  expect(opening.present.map(([key])=>key)).toEqual(['gavroche','mabeuf…
+       |                                            ^
+      8|  expect(opening.actorLocations).toMatchObject({mabeuf:'mabeuf-austerli…
+      9|  const talk=rows.find(row=>row.at===12)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesGardenListeners.test.ts > the purse crosses the hedge while its former holder stays in the lane
+AssertionError: expected undefined to match object { …(4) }
+
+- Expected:
+{
+  "gavroche": null,
+  "mabeuf": "mabeuf-austerlitz-garden",
+  "montparnasse": "mabeuf-garden-lane",
+  "mother-plutarque": null,
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesGardenListeners.test.ts:17:29
+     15| test('the purse crosses the hedge while its former holder stays in the…
+     16|  const row=enrichedReview().get(242).find(row=>row.at===73)
+     17|  expect(row.actorLocations).toMatchObject({mabeuf:'mabeuf-austerlitz-g…
+       |                             ^
+     18| })
+     19|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  10:49:24
+   Duration  558ms (transform 248ms, setup 0ms, import 384ms, tests 21ms, environment 0ms)
+

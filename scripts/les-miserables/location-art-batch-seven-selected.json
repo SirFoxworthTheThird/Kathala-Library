@@ -1,0 +1,53 @@
+{
+  "selected": [
+    [
+      "montreuil-townhall",
+      "exec-98408814-fad3-4508-9e0a-a3a57cd49556.png"
+    ],
+    [
+      "montreuil-barber-shop",
+      "exec-a3cc8fa9-64ff-4fbf-842d-ef180f722b7f.png"
+    ],
+    [
+      "montreuil-post-office",
+      "exec-003cdcfd-de28-4f5b-b0c1-d3bb172430da.png"
+    ],
+    [
+      "montreuil-city-prison",
+      "exec-443db765-2f34-4843-aeea-21e97a6655d8.png"
+    ],
+    [
+      "montreuil-cemetery",
+      "exec-8ecac26f-670f-4c0c-b83c-8e30eb9b4132.png"
+    ],
+    [
+      "montreuil-countryside",
+      "exec-88168c17-12ce-4068-9c99-56ae4c403225.png"
+    ],
+    [
+      "montreuil-hesdin-road",
+      "exec-7989e714-4c01-4f1b-9c21-1ebe4f23f181.png"
+    ],
+    [
+      "montreuil-paris-road",
+      "exec-d4211c7a-ce8e-48d9-aed9-e4e0ddffea1e.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "montreuil-barber-shop",
+      "original": "exec-c6bb9af8-f505-4275-a749-cc712a002337.png",
+      "prompt": "Edit this single nineteenth-century literary watercolor place illustration. Preserve composition, perspective, palette, light, materials and all other details. At the FAR LEFT of the shop interior, remove the shiny modern-looking metal faucet and plumbed sink. Replace with one simple freestanding dull cream earthenware washing bowl and a plain ceramic water jug on a small wooden washstand. Absolutely no tap, spout, pipe, modern plumbing, metal sink or modern fixture. Preserve the empty chair, mirror, open doorway and evening street. No people, readable text, signature or later story event."
+    },
+    {
+      "key": "montreuil-countryside",
+      "original": "exec-b8e50fd1-0f49-4a12-af02-57a5a551089a.png",
+      "prompt": "Edit this single nineteenth-century literary watercolor place illustration. Preserve composition, perspective, palette, light, materials and all other details. Remove ALL buildings, town silhouettes, church towers and spires from the distant horizon. Replace with indistinct low fields, ordinary hedgerows and distant trees fading into natural haze. No skyline or identifiable landmark. Preserve the road or nettles and all foreground vegetation exactly. No people, readable text, signature or later story event."
+    },
+    {
+      "key": "montreuil-paris-road",
+      "original": "exec-96090cba-accb-4f22-9212-910396a509b4.png",
+      "prompt": "Edit this single nineteenth-century literary watercolor place illustration. Preserve composition, perspective, palette, light, materials and all other details. Remove ALL buildings, town silhouettes, church towers and spires from the distant horizon. Replace with indistinct low fields, ordinary hedgerows and distant trees fading into natural haze. No skyline or identifiable landmark. Preserve the road or nettles and all foreground vegetation exactly. No people, readable text, signature or later story event."
+    }
+  ]
+}

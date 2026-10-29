@@ -1,0 +1,138 @@
+{
+  "paris-hospital-quarter": {
+    "width": 1512,
+    "height": 1040,
+    "locations": {
+      "gorbeau-house": [
+        620,
+        245
+      ],
+      "gorbeau-house-entrance": [
+        578,
+        414
+      ],
+      "gorbeau-adjoining-boulevard": [
+        620,
+        510
+      ],
+      "gorbeau-police-ambush": [
+        579,
+        617
+      ],
+      "barriere-gobelins-wall": [
+        806,
+        680
+      ],
+      "rue-petit-banquier-corner": [
+        284,
+        455
+      ],
+      "rue-petit-banquier-low-wall": [
+        198,
+        325
+      ],
+      "paris-boulevard-hopital": [
+        1180,
+        510
+      ]
+    },
+    "landmarks": {
+      "gorbeau-house": "The narrow tiled-roof building between the two garden properties, above its street end.",
+      "gorbeau-house-entrance": "The gap and short approach at the lower edge of the Gorbeau property.",
+      "gorbeau-adjoining-boulevard": "The open road directly before the house.",
+      "gorbeau-police-ambush": "Among the three trees opposite, beside the partly bare elm.",
+      "barriere-gobelins-wall": "The street side of the separate wall east of the downward branch.",
+      "rue-petit-banquier-corner": "The rounded corner at the upper edge of the boulevard.",
+      "rue-petit-banquier-low-wall": "The street-facing low boundary of the waste-ground enclosure west of Petit-Banquier.",
+      "paris-boulevard-hopital": "An unobstructed point on the broad boulevard, beyond the lettering."
+    }
+  },
+  "chanvrerie-streets": {
+    "width": 1484,
+    "height": 1060,
+    "locations": {
+      "rue-chanvrerie": [
+        460,
+        605
+      ],
+      "chanvrerie-barricade": [
+        690,
+        600
+      ],
+      "chanvrerie-barricade-opening": [
+        690,
+        504
+      ],
+      "chanvrerie-barricade-cut": [
+        690,
+        523
+      ],
+      "chanvrerie-barricade-exterior": [
+        565,
+        605
+      ],
+      "chanvrerie-barricade-torch": [
+        730,
+        622
+      ],
+      "rue-chanvrerie-artillery-position": [
+        360,
+        600
+      ],
+      "mondetour-small-barricade": [
+        1085,
+        850
+      ],
+      "mondetour-open-approach": [
+        1060,
+        180
+      ],
+      "mondetour-lane-outside": [
+        1085,
+        930
+      ],
+      "chanvrerie-tall-house": [
+        1165,
+        580
+      ],
+      "corinthe": [
+        860,
+        700
+      ],
+      "corinthe-door": [
+        850,
+        638
+      ],
+      "corinthe-exterior": [
+        850,
+        600
+      ],
+      "corinthe-sheltered-angle": [
+        1025,
+        790
+      ],
+      "chanvrerie-sewer-grating": [
+        1040,
+        825
+      ]
+    },
+    "landmarks": {
+      "rue-chanvrerie": "The main funnel-shaped road west of the wine-shop.",
+      "chanvrerie-barricade": "The road near the western side of the wine-shop enclosure; the barrier itself is not painted.",
+      "chanvrerie-barricade-opening": "The northern street edge at the end of the planned barrier.",
+      "chanvrerie-barricade-cut": "The narrow approach immediately within that northern end.",
+      "chanvrerie-barricade-exterior": "The exposed road west of the barrier position.",
+      "chanvrerie-barricade-torch": "The enclosed street beside the western part of the wine-shop frontage.",
+      "rue-chanvrerie-artillery-position": "The Saint-Denis end of the street, facing the barrier position.",
+      "mondetour-small-barricade": "The lower Mondétour branch beside the wine-shop block; the barrier itself is not painted.",
+      "mondetour-open-approach": "The upper Mondétour passage toward Rue des Prêcheurs.",
+      "mondetour-lane-outside": "The lower passage beyond the smaller barrier position.",
+      "chanvrerie-tall-house": "The high house row closing the street immediately east of the junction.",
+      "corinthe": "The wine-shop roof footprint below-left of the junction.",
+      "corinthe-door": "The frontage threshold on the upper edge of the wine-shop footprint.",
+      "corinthe-exterior": "The road immediately outside the wine-shop frontage.",
+      "corinthe-sheltered-angle": "The recess screened from the western approach by the wine-shop corner.",
+      "chanvrerie-sewer-grating": "The ground near the inner base of the small barrier; the hidden grating is not painted."
+    }
+  }
+}

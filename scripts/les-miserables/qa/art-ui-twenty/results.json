@@ -1,0 +1,77 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty",
+  "images": [
+    {
+      "key": "mother-cineres",
+      "imageId": "lesmis-world-review-art-characters-mother-cineres-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-veuvain",
+      "imageId": "lesmis-world-review-art-characters-mother-veuvain-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gribier",
+      "imageId": "lesmis-world-review-art-characters-gribier-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gillenormand-younger-daughter",
+      "imageId": "lesmis-world-review-art-characters-gillenormand-younger-daughter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gillenormand-grandson",
+      "imageId": "lesmis-world-review-art-characters-gillenormand-grandson-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "abbe-mabeuf",
+      "imageId": "lesmis-world-review-art-characters-abbe-mabeuf-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-plutarque",
+      "imageId": "lesmis-world-review-art-characters-mother-plutarque-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "theodule",
+      "imageId": "lesmis-world-review-art-characters-theodule-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "musichetta",
+      "imageId": "lesmis-world-review-art-characters-musichetta-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "madame-bourgon",
+      "imageId": "lesmis-world-review-art-characters-madame-bourgon-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "1b6c53cec58a0770721a1da23cef3404e9d2a4b43d123cd728e95352d2e6319f",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-madame-bourgon",
+  "currentImageId": "lesmis-world-review-art-characters-madame-bourgon-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

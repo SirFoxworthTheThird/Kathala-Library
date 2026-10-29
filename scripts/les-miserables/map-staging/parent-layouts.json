@@ -1,0 +1,1901 @@
+{
+  "paris-carriage-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "paris-carriage-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 337–339, 350 and 363",
+      "Separate mobile vehicles, no fixed addresses; compartment construction editorial"
+    ],
+    "locations": {
+      "seine-right-bank-coach": [
+        355,
+        523
+      ],
+      "seine-right-bank-reunion-coach": [
+        1154,
+        256
+      ],
+      "carnival-cart": [
+        1109,
+        722
+      ]
+    }
+  },
+  "villers-source-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "villers-source-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 131 paragraph 6",
+      "Narrator’s description, not authenticated archaeological survey; site geometry editorial"
+    ],
+    "locations": {
+      "villers-abbey-dungeons": [
+        619,
+        551
+      ]
+    }
+  },
+  "digne-civic-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "digne-civic-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 4 paragraphs 24–25",
+      "Independent street/platform details, no asserted actual town site or itinerary"
+    ],
+    "locations": {
+      "digne-execution-route": [
+        409,
+        553
+      ],
+      "digne-scaffold": [
+        1262,
+        597
+      ]
+    }
+  },
+  "paris-room-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "paris-room-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 29:20, 36:41, 144:126–129 and 168:1–2",
+      "Independent source rooms; unspecified dimensions and furnishings editorial"
+    ],
+    "locations": {
+      "fantine-paris-room": [
+        393,
+        288
+      ],
+      "gribier-garret-87-vaugirard": [
+        1177,
+        353
+      ],
+      "madame-t-salon": [
+        548,
+        835
+      ],
+      "paris-taproom": [
+        1160,
+        761
+      ]
+    }
+  },
+  "paris-public-room-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "paris-public-room-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 1:4, 11:5 and 173:1–2",
+      "Independent source spaces; unknown address, floor and dimensions not inferred"
+    ],
+    "locations": {
+      "fesch-antechamber": [
+        402,
+        398
+      ],
+      "paris-prelate-house": [
+        1301,
+        368
+      ],
+      "paris-law-school-library": [
+        1156,
+        786
+      ]
+    }
+  },
+  "larks-meadow": {
+    "width": 1536,
+    "height": 1024,
+    "image": "larks-meadow-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 229 paragraphs 24–26 and 232 paragraphs 4–5, 66–67",
+      "Local meadow/river/parapet; bearings and lengths editorial"
+    ],
+    "locations": {
+      "larks-meadow": [
+        1256,
+        623
+      ],
+      "larks-meadow-departure": [
+        1386,
+        919
+      ]
+    }
+  },
+  "pere-lachaise-corner": {
+    "width": 1536,
+    "height": 1024,
+    "image": "pere-lachaise-corner-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 365 paragraphs 0–3",
+      "Source neglected corner; no identifiable real grave or painted name"
+    ],
+    "locations": {
+      "pere-lachaise-valjean-grave": [
+        670,
+        512
+      ]
+    }
+  },
+  "paris-environs": {
+    "width": 1302,
+    "height": 1208,
+    "image": "paris-environs-illustrated.webp",
+    "source": [
+      "Pinned official API Geo town centres and Natural Earth 1:10m rivers; render-paris-region-reference.mjs",
+      "Town positions approximate in illustration; roads, relief, boundaries and source parcels schematic"
+    ],
+    "locations": {
+      "paris": [
+        601,
+        614
+      ],
+      "montfermeil-region": [
+        1025,
+        576
+      ],
+      "saint-cloud": [
+        240,
+        724
+      ],
+      "saint-cloud-park": [
+        165,
+        781
+      ],
+      "saint-cloud-chestnut-walk": [
+        114,
+        754
+      ],
+      "saint-cloud-kings-square": [
+        205,
+        783
+      ],
+      "issy-park-swing": [
+        412,
+        805
+      ],
+      "sceaux-ball": [
+        448,
+        936
+      ],
+      "ecouen-school": [
+        641,
+        200
+      ],
+      "bicetre-courtyard": [
+        618,
+        843
+      ],
+      "chelles-abbey-inn-front": [
+        1100,
+        646
+      ],
+      "paris-outskirts": [
+        727,
+        741
+      ]
+    }
+  },
+  "paris-lodging-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "paris-lodging-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 177, 181, 196, 229 and 276",
+      "Separate source rooms and entrance; unknown floors unspecified"
+    ],
+    "locations": {
+      "courfeyrac-rue-verrerie-lodgings": [
+        423,
+        358
+      ],
+      "courfeyrac-house-entrance": [
+        428,
+        803
+      ],
+      "hotel-porte-saint-jacques": [
+        1163,
+        309
+      ],
+      "rue-ouest-leblanc-house": [
+        993,
+        638
+      ],
+      "rue-ouest-leblanc-house-gate": [
+        1198,
+        807
+      ]
+    }
+  },
+  "faverolles-village": {
+    "width": 1024,
+    "height": 1536,
+    "image": "faverolles-village-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 20 paragraphs 1, 5 and 7",
+      "Source rural relationships; modern village identification unestablished"
+    ],
+    "locations": {
+      "faverolles": [
+        145,
+        686
+      ],
+      "faverolles-bakery": [
+        661,
+        487
+      ]
+    }
+  },
+  "atlantic-context": {
+    "width": 1422,
+    "height": 1106,
+    "image": "atlantic-context-illustrated.webp",
+    "source": [
+      "Pinned Natural Earth 1:50m land geometry; render-atlantic-reference.mjs",
+      "Physical coast and qualitative relief, no national borders; America remains unspecified"
+    ],
+    "locations": {
+      "france-context": [
+        1112,
+        236
+      ],
+      "america": [
+        350,
+        222
+      ],
+      "hauteville-house": [
+        1067,
+        228
+      ]
+    }
+  },
+  "roi-sicile-ruin": {
+    "width": 1536,
+    "height": 1024,
+    "image": "roi-sicile-ruin-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 251 paragraphs 31–34",
+      "Separate ground plan and high-wall elevation; no conjectured escape route"
+    ],
+    "locations": {
+      "rue-roi-sicile-ruin-enclosure": [
+        412,
+        480
+      ],
+      "rue-roi-sicile-ruin-wall": [
+        1240,
+        146
+      ]
+    }
+  },
+  "luxembourg-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "luxembourg-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 188–195 and 314",
+      "Separate source walk and basin; relative placement editorial"
+    ],
+    "locations": {
+      "luxembourg-pepiniere-alley": [
+        570,
+        548
+      ],
+      "luxembourg-pepiniere-bench": [
+        109,
+        369
+      ],
+      "luxembourg-grand-basin": [
+        1310,
+        687
+      ]
+    }
+  },
+  "picpus-approaches": {
+    "width": 1536,
+    "height": 1024,
+    "image": "picpus-approaches-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 111–113 and 118",
+      "Source Y, crossbar and blind alley; historical-fiction topology, not surveyed modern streets"
+    ],
+    "locations": {
+      "chemin-vert-saint-antoine-entrance": [
+        745,
+        820
+      ],
+      "cul-de-sac-genrot": [
+        1371,
+        145
+      ],
+      "cul-de-sac-genrot-lantern": [
+        1131,
+        231
+      ],
+      "droit-mur-wall-recess": [
+        907,
+        487
+      ],
+      "paris-pursuit-route": [
+        751,
+        708
+      ]
+    }
+  },
+  "mabeuf-cottage": {
+    "width": 1536,
+    "height": 1024,
+    "image": "mabeuf-cottage-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 185, 231 and 242",
+      "Source cottage, hedge, lane and garden features; exact layout editorial"
+    ],
+    "locations": {
+      "mabeuf-austerlitz-garden": [
+        800,
+        500
+      ],
+      "mabeuf-garden-hedge": [
+        1150,
+        752
+      ],
+      "mabeuf-garden-lane": [
+        802,
+        860
+      ]
+    }
+  },
+  "vernon-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "vernon-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 169, 171, 174 and 175",
+      "Separate source sites; no invented connecting streets or bearings"
+    ],
+    "locations": {
+      "pontmercy-vernon-house": [
+        198,
+        238
+      ],
+      "vernon-coach-relay": [
+        893,
+        235
+      ],
+      "vernon-church-approach": [
+        998,
+        743
+      ],
+      "pontmercy-vernon-grave": [
+        1416,
+        321
+      ]
+    }
+  },
+  "paris-cafe-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "paris-cafe-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 32, 193 and 228",
+      "Source room features with unspecified furniture and geometry editorial"
+    ],
+    "locations": {
+      "bombarda-upper-room": [
+        391,
+        608
+      ],
+      "cafe-voltaire": [
+        1260,
+        301
+      ],
+      "richefeu-smoking-room": [
+        1285,
+        734
+      ]
+    }
+  },
+  "vaugirard-cemetery": {
+    "width": 1536,
+    "height": 1024,
+    "image": "vaugirard-cemetery-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 142 paragraphs 2–5 and 38",
+      "Source garden cemetery and paired gates; exact plot layout editorial"
+    ],
+    "locations": {
+      "vaugirard-cemetery-approach": [
+        747,
+        838
+      ],
+      "vaugirard-cemetery-gate": [
+        855,
+        753
+      ],
+      "vaugirard-open-grave": [
+        1275,
+        170
+      ]
+    }
+  },
+  "cafe-musain": {
+    "width": 1536,
+    "height": 1024,
+    "image": "cafe-musain-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 176 paragraphs 6–8",
+      "Source room connections and private exit; relative bearings editorial"
+    ],
+    "locations": {
+      "cafe-musain-entrance": [
+        160,
+        443
+      ],
+      "cafe-musain-back-room": [
+        1135,
+        425
+      ]
+    }
+  },
+  "bastille-elephant-exterior": {
+    "width": 1536,
+    "height": 1024,
+    "image": "bastille-elephant-exterior-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 250 paragraphs 182–217",
+      "Source model enclosure and underbelly approach; dimensions reconstructed"
+    ],
+    "locations": {
+      "bastille-elephant-enclosure": [
+        748,
+        662
+      ],
+      "bastille-elephant-entrance": [
+        812,
+        551
+      ]
+    },
+    "levelGroup": "bastille-elephant",
+    "levelIndex": 0
+  },
+  "bastille-elephant-interior": {
+    "width": 1536,
+    "height": 1024,
+    "image": "bastille-elephant-interior-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 250 paragraphs 217–239",
+      "Hollow upper-body cutaway, wooden ribs and weighted three-pole mesh bed"
+    ],
+    "locations": {
+      "bastille-elephant-interior": [
+        731,
+        491
+      ]
+    },
+    "levelGroup": "bastille-elephant",
+    "levelIndex": 1
+  },
+  "la-force-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "la-force-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 230 and 251",
+      "Separate source court and known lower/top levels, without invented intervening plans"
+    ],
+    "locations": {
+      "la-force-charlemagne-yard": [
+        316,
+        480
+      ],
+      "la-force-new-building": [
+        702,
+        620
+      ],
+      "la-force-fine-air": [
+        1287,
+        375
+      ]
+    }
+  },
+  "southern-country": {
+    "width": 1403,
+    "height": 1121,
+    "image": "southern-country-illustrated.webp",
+    "source": [
+      "Pinned Natural Earth physical coast and approximate town reference; render-southern-reference.mjs",
+      "Qualitative relief and reconstructed town footprints/roads; no surveyed elevation or diocesan boundary"
+    ],
+    "locations": {
+      "senez-gate": [
+        592,
+        642
+      ],
+      "ubaye-district": [
+        791,
+        267
+      ],
+      "grasse": [
+        885,
+        823
+      ],
+      "southern-localities": [
+        644,
+        745
+      ]
+    }
+  },
+  "southern-local-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "southern-local-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 3, 7, 10, 23 and 27; southern-location-plan.mjs",
+      "Separate source localities with unestablished exact addresses and editorial dimensions"
+    ],
+    "locations": {
+      "chastelar": [
+        307,
+        389
+      ],
+      "chastelar-mountain-route": [
+        380,
+        153
+      ],
+      "chastelar-priest-house": [
+        408,
+        341
+      ],
+      "mountain-presbytery": [
+        790,
+        318
+      ],
+      "g-valley-path": [
+        1290,
+        371
+      ],
+      "g-hut-door": [
+        1249,
+        274
+      ],
+      "gervais-plain": [
+        256,
+        699
+      ],
+      "gervais-plain-path": [
+        418,
+        722
+      ],
+      "gervais-three-paths": [
+        605,
+        810
+      ],
+      "grasse-distillery": [
+        1174,
+        832
+      ]
+    }
+  },
+  "toulon-harbour": {
+    "width": 1536,
+    "height": 1024,
+    "image": "toulon-harbour-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 20–21 and 92; official heritage inventory IA83001934 and maritime museum context",
+      "Two older basins; land-based bagne; schematic property parcels and ship berths"
+    ],
+    "locations": {
+      "toulon-harbour": [
+        530,
+        343
+      ],
+      "toulon-galleys": [
+        850,
+        400
+      ],
+      "toulon-townhall": [
+        1192,
+        241
+      ],
+      "orion-at-anchor": [
+        483,
+        397
+      ],
+      "toulon-orion-algesiras-water": [
+        480,
+        437
+      ]
+    }
+  },
+  "orion-deck": {
+    "width": 1942,
+    "height": 809,
+    "image": "orion-deck-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 92",
+      "Editorial wooden ship deck reconstruction, not a measured surviving plan"
+    ],
+    "locations": {
+      "orion-deck": [
+        1100,
+        480
+      ]
+    },
+    "levelGroup": "orion",
+    "levelIndex": 0
+  },
+  "orion-main-yard": {
+    "width": 1536,
+    "height": 1024,
+    "image": "orion-main-yard-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 92 paragraphs 22, 26, 28",
+      "Elevated rigging level; proportions editorial, no exact height asserted"
+    ],
+    "locations": {
+      "orion-main-yard": [
+        768,
+        800
+      ]
+    },
+    "levelGroup": "orion",
+    "levelIndex": 1
+  },
+  "paris-sewers": {
+    "width": 1774,
+    "height": 887,
+    "image": "paris-sewers-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 329–336; sewer-location-plan.mjs",
+      "Narrated underground sequence only; no surveyed bearings or complete side network"
+    ],
+    "locations": {
+      "chanvrerie-subterranean-corridor": [
+        1622,
+        636
+      ],
+      "montmartre-sewer": [
+        1413,
+        520
+      ],
+      "montmartre-service-crossroads": [
+        1412,
+        419
+      ],
+      "grand-sewer-junction": [
+        1420,
+        251
+      ],
+      "grand-sewer": [
+        1093,
+        257
+      ],
+      "grand-sewer-airhole-rest": [
+        424,
+        255
+      ],
+      "grand-sewer-fontis": [
+        280,
+        285
+      ],
+      "grand-sewer-fontis-far-side": [
+        191,
+        288
+      ],
+      "grand-sewer-outlet-approach": [
+        131,
+        392
+      ],
+      "jena-sewer-outlet": [
+        157,
+        549
+      ],
+      "jena-sewer-outlet-shore": [
+        179,
+        645
+      ]
+    }
+  },
+  "petit-picpus-site": {
+    "width": 1536,
+    "height": 1024,
+    "image": "petit-picpus-site-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 126 paragraph 1 and chapters 114–119",
+      "Fictionalized source enclosure and neutral first-arrival labels; not modern cemetery geography"
+    ],
+    "locations": {
+      "petit-picpus-garden": [
+        850,
+        585
+      ],
+      "petit-picpus-arched-window": [
+        325,
+        224
+      ],
+      "petit-picpus-melon-beds": [
+        460,
+        493
+      ],
+      "petit-picpus-ruined-shed": [
+        201,
+        782
+      ],
+      "petit-picpus-convent": [
+        750,
+        185
+      ],
+      "petit-picpus-little-convent": [
+        1340,
+        730
+      ],
+      "petit-picpus-school": [
+        1323,
+        202
+      ],
+      "petit-picpus-school-garden": [
+        1336,
+        366
+      ],
+      "petit-picpus-courtyard": [
+        1124,
+        229
+      ],
+      "petit-picpus-entrance": [
+        1126,
+        139
+      ],
+      "droit-mur-garden-wall": [
+        365,
+        862
+      ],
+      "droit-mur-petit-picpus-sentinel-post": [
+        72,
+        58
+      ],
+      "rue-droit-mur": [
+        54,
+        474
+      ],
+      "rue-polonceau": [
+        718,
+        904
+      ],
+      "rue-polonceau-droit-mur-junction": [
+        44,
+        894
+      ]
+    }
+  },
+  "petit-picpus-interiors": {
+    "width": 1536,
+    "height": 1024,
+    "image": "petit-picpus-interiors-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 115, 119–123, 138–139; picpus-location-plan.mjs",
+      "Separate source spaces; only visitor parlour floor established"
+    ],
+    "locations": {
+      "petit-picpus-parlor": [
+        294,
+        235
+      ],
+      "petit-picpus-business-parlor": [
+        785,
+        255
+      ],
+      "petit-picpus-chapel": [
+        1272,
+        325
+      ],
+      "petit-picpus-classroom": [
+        848,
+        825
+      ],
+      "petit-picpus-refectory": [
+        250,
+        760
+      ],
+      "fauchelevent-hut": [
+        1328,
+        806
+      ]
+    }
+  },
+  "gillenormand-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "gillenormand-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 161, 173–175, 262, 338–363; gillenormand-location-plan.mjs",
+      "Separate stated floors; only established bedroom/drawing-room doorway joined"
+    ],
+    "locations": {
+      "gillenormand-bedroom": [
+        272,
+        270
+      ],
+      "gillenormand-bedroom-window": [
+        246,
+        310
+      ],
+      "gillenormand-bedroom-anteroom": [
+        872,
+        257
+      ],
+      "gillenormand-drawing-room": [
+        484,
+        260
+      ],
+      "gillenormand-dining-room": [
+        502,
+        556
+      ],
+      "gillenormand-elder-daughter-room": [
+        1324,
+        859
+      ],
+      "gillenormand-garden": [
+        1190,
+        232
+      ],
+      "gillenormand-house-entrance": [
+        1421,
+        245
+      ],
+      "gillenormand-lower-waiting-room": [
+        303,
+        846
+      ],
+      "gillenormand-study": [
+        895,
+        566
+      ],
+      "marius-gillenormand-attic": [
+        850,
+        858
+      ],
+      "marius-recovery-room": [
+        1367,
+        570
+      ]
+    }
+  },
+  "plumet-house": {
+    "width": 1536,
+    "height": 1024,
+    "image": "plumet-house-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 233–237 and 258; paris-homes-location-plan.mjs",
+      "Overgrown enclosure and separate upper-room detail; no inferred corridor course"
+    ],
+    "locations": {
+      "rue-plumet-street": [
+        621,
+        949
+      ],
+      "rue-plumet-street-corner": [
+        899,
+        946
+      ],
+      "rue-plumet-garden": [
+        550,
+        585
+      ],
+      "rue-plumet-garden-bench": [
+        171,
+        477
+      ],
+      "rue-plumet-garden-gate": [
+        545,
+        850
+      ],
+      "rue-plumet-garden-steps": [
+        563,
+        413
+      ],
+      "rue-plumet-pavilion": [
+        561,
+        280
+      ],
+      "rue-plumet-rear-lodge": [
+        637,
+        58
+      ],
+      "rue-plumet-cosette-room": [
+        1348,
+        637
+      ]
+    }
+  },
+  "homme-arme-rooms": {
+    "width": 1536,
+    "height": 1024,
+    "image": "homme-arme-rooms-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 295, 308, 339 and 362",
+      "Dining/antechamber same room; distinct first-floor landing and second-floor apartment"
+    ],
+    "locations": {
+      "homme-arme-apartment": [
+        576,
+        426
+      ],
+      "homme-arme-dining-room": [
+        789,
+        461
+      ],
+      "homme-arme-cosette-room": [
+        1188,
+        474
+      ],
+      "homme-arme-cosette-room-window": [
+        1363,
+        344
+      ],
+      "homme-arme-valjean-room": [
+        319,
+        433
+      ],
+      "homme-arme-doorstep": [
+        194,
+        831
+      ],
+      "homme-arme-street-entrance": [
+        268,
+        735
+      ],
+      "homme-arme-stair-landing": [
+        828,
+        767
+      ]
+    }
+  },
+  "waterloo-country": {
+    "width": 1536,
+    "height": 1024,
+    "image": "waterloo-country-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 71–89; waterloo-location-plan.mjs",
+      "Pre-monument relief and A road pattern; approximate local positions"
+    ],
+    "locations": {
+      "hougomont": [
+        233,
+        606
+      ],
+      "nivelles-la-hulpe-road": [
+        424,
+        524
+      ],
+      "mont-saint-jean-crossroads": [
+        790,
+        111
+      ],
+      "mont-saint-jean-mill": [
+        665,
+        114
+      ],
+      "mont-saint-jean-plateau": [
+        716,
+        248
+      ],
+      "mont-saint-jean-plateau-foot": [
+        713,
+        471
+      ],
+      "belle-alliance-mont-saint-jean-slope": [
+        830,
+        543
+      ],
+      "ohain-hollow-road": [
+        730,
+        351
+      ],
+      "plancenoit-front": [
+        1338,
+        464
+      ],
+      "wavre-plancenoit-route": [
+        1454,
+        324
+      ],
+      "rossomme-heights": [
+        1186,
+        804
+      ],
+      "rossomme-outposts": [
+        1191,
+        754
+      ],
+      "rossomme-command-table": [
+        1149,
+        725
+      ],
+      "rossomme-deployment-ground": [
+        1002,
+        798
+      ],
+      "napoleon-waterloo-command-post": [
+        1088,
+        738
+      ],
+      "napoleon-waterloo-observation-post": [
+        1012,
+        664
+      ],
+      "waterloo-genappe-retreat": [
+        1043,
+        900
+      ],
+      "genappe-meadow": [
+        926,
+        913
+      ]
+    }
+  },
+  "hougomont-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "hougomont-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 72",
+      "Source enclosure and orchard; geometry reconstructed"
+    ],
+    "locations": {
+      "hougomont-courtyard": [
+        566,
+        381
+      ],
+      "hougomont-south-door": [
+        322,
+        811
+      ],
+      "hougomont-farmhouse": [
+        864,
+        720
+      ],
+      "hougomont-orchard": [
+        1287,
+        427
+      ],
+      "hougomont-well": [
+        677,
+        449
+      ]
+    }
+  },
+  "montfermeil-country": {
+    "width": 1536,
+    "height": 1024,
+    "image": "montfermeil-country-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 93, 97–102",
+      "Village, spring slope and outward roads; local geometry schematic"
+    ],
+    "locations": {
+      "montfermeil": [
+        896,
+        188
+      ],
+      "thenardier-inn": [
+        1336,
+        302
+      ],
+      "thenardier-inn-front": [
+        1381,
+        340
+      ],
+      "montfermeil-church-square": [
+        1009,
+        272
+      ],
+      "montfermeil-toy-stall": [
+        1063,
+        289
+      ],
+      "montfermeil-forest": [
+        748,
+        648
+      ],
+      "montfermeil-chelles-path": [
+        1024,
+        429
+      ],
+      "montfermeil-forest-spring": [
+        1045,
+        656
+      ],
+      "montfermeil-spring-return-path": [
+        1021,
+        583
+      ],
+      "montfermeil-marked-clearing": [
+        925,
+        774
+      ],
+      "montfermeil-gagny-road": [
+        604,
+        113
+      ],
+      "montfermeil-livry-road": [
+        505,
+        270
+      ],
+      "montfermeil-livry-bondy-forest": [
+        180,
+        526
+      ],
+      "montfermeil-aqueduct-turf-path": [
+        368,
+        640
+      ]
+    }
+  },
+  "thenardier-inn-details": {
+    "width": 1536,
+    "height": 1024,
+    "image": "thenardier-inn-details-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 100 paragraphs 196, 208, 213, 218–219",
+      "Only guest room floor established; conjectured parents-room connection omitted"
+    ],
+    "locations": {
+      "thenardier-inn-public-room": [
+        394,
+        352
+      ],
+      "thenardier-inn-guest-room": [
+        1061,
+        328
+      ],
+      "thenardier-inn-stairs": [
+        1432,
+        184
+      ],
+      "thenardier-understairs-recess": [
+        164,
+        770
+      ],
+      "thenardier-children-hearth-room": [
+        502,
+        774
+      ],
+      "thenardier-couple-bedroom": [
+        1307,
+        744
+      ]
+    }
+  },
+  "arras-town": {
+    "width": 1536,
+    "height": 1024,
+    "image": "arras-town-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapter 61 paragraphs 0–27",
+      "Schematic town sites; no surveyed street geometry"
+    ],
+    "locations": {
+      "arras-hotel-poste": [
+        284,
+        807
+      ],
+      "arras-posting-office": [
+        331,
+        842
+      ],
+      "arras-prefecture-square": [
+        1261,
+        268
+      ],
+      "arras-prefecture": [
+        1252,
+        158
+      ]
+    }
+  },
+  "arras-court": {
+    "width": 1536,
+    "height": 1024,
+    "image": "arras-court-illustrated.webp",
+    "source": [
+      "Pinned Hapgood chapters 61–63 and 68; arras-location-plan.mjs",
+      "Room connections from source; unlocated conference room shown separately"
+    ],
+    "locations": {
+      "arras-assize-hall": [
+        759,
+        542
+      ],
+      "arras-council-chamber": [
+        690,
+        190
+      ],
+      "arras-court-antechamber": [
+        245,
+        557
+      ],
+      "arras-court-corridor": [
+        337,
+        172
+      ],
+      "arras-private-conference-room": [
+        1350,
+        738
+      ]
+    }
+  },
+  "montreuil-town": {
+    "width": 1448,
+    "height": 1086,
+    "image": "montreuil-town-illustrated.webp",
+    "source": [
+      "Pinned Hapgood source chapters 40–70; montreuil-location-plan.mjs paragraph evidence",
+      "Editorial arrangement with source-specified relationships only; physical addresses and unspecified floors remain unknown"
+    ],
+    "locations": {
+      "madeleine-factory": [
+        430,
+        670
+      ],
+      "montreuil-townhall": [
+        1000,
+        278
+      ],
+      "montreuil-square": [
+        1030,
+        395
+      ],
+      "montreuil-police-station": [
+        1185,
+        391
+      ],
+      "montreuil-officers-cafe-front": [
+        972,
+        429
+      ],
+      "montreuil-unpaved-alley": [
+        399,
+        845
+      ],
+      "montreuil-barber-shop": [
+        955,
+        541
+      ],
+      "montreuil-parsonage-door": [
+        1230,
+        633
+      ],
+      "scaufflaire-hire-yard": [
+        1290,
+        794
+      ],
+      "montreuil-post-office": [
+        1105,
+        505
+      ],
+      "montreuil-city-prison": [
+        801,
+        242
+      ],
+      "montreuil-cemetery": [
+        1285,
+        970
+      ],
+      "montreuil-countryside": [
+        815,
+        947
+      ],
+      "montreuil-hesdin-road": [
+        1344,
+        154
+      ],
+      "montreuil-paris-road": [
+        1124,
+        986
+      ],
+      "javert-montreuil-lodging": [
+        1030,
+        691
+      ],
+      "montreuil-lodging-quarter": [
+        300,
+        808
+      ]
+    }
+  },
+  "madeleine-premises": {
+    "width": 1536,
+    "height": 1024,
+    "image": "madeleine-premises-illustrated.webp",
+    "source": [
+      "Pinned Hapgood source chapters 40–70; montreuil-location-plan.mjs paragraph evidence",
+      "Editorial arrangement with source-specified relationships only; physical addresses and unspecified floors remain unknown"
+    ],
+    "locations": {
+      "madeleine-women-workroom": [
+        295,
+        330
+      ],
+      "madeleine-factory-lodge": [
+        170,
+        859
+      ],
+      "madeleine-study": [
+        700,
+        860
+      ],
+      "madeleine-bedroom": [
+        1208,
+        261
+      ],
+      "madeleine-bedroom-door": [
+        1001,
+        252
+      ],
+      "madeleine-cashier-room": [
+        1217,
+        424
+      ],
+      "montreuil-factory-infirmary": [
+        1015,
+        759
+      ],
+      "montreuil-infirmary-antechamber": [
+        1020,
+        820
+      ],
+      "montreuil-infirmary-laboratory": [
+        1420,
+        828
+      ]
+    }
+  },
+  "fantine-rented-rooms": {
+    "width": 1774,
+    "height": 887,
+    "image": "fantine-rented-rooms-illustrated.webp",
+    "source": [
+      "Pinned Hapgood source chapters 40–70; montreuil-location-plan.mjs paragraph evidence",
+      "Editorial arrangement with source-specified relationships only; physical addresses and unspecified floors remain unknown"
+    ],
+    "locations": {
+      "fantine-montreuil-room": [
+        470,
+        520
+      ],
+      "fantine-montreuil-attic": [
+        1350,
+        535
+      ]
+    }
+  },
+  "paris-les-halles": {
+    "width": 1322,
+    "height": 1190,
+    "image": "paris-les-halles-illustrated.webp",
+    "source": [
+      "Girard, Paris plan revised 1830; inspected market-quarter crop",
+      "Hapgood IV.XII.I paragraphs 5–8 and IV.XIII.I paragraphs 8–14; Lazare 1844 Contrat-Social endpoints for historical context"
+    ],
+    "locations": {
+      "halles-chanvrerie-gateway": [
+        1000,
+        475
+      ],
+      "paris-halles-quarter": [
+        770,
+        620
+      ],
+      "rue-saint-denis": [
+        1010,
+        540
+      ],
+      "rue-prouvaires-entrance": [
+        440,
+        540
+      ],
+      "rue-bethisy": [
+        540,
+        731
+      ],
+      "rue-poterie-abandoned-barricade": [
+        650,
+        780
+      ],
+      "rue-contrat-social": [
+        550,
+        573
+      ]
+    }
+  },
+  "france": {
+    "width": 1254,
+    "height": 1254,
+    "image": "france-illustrated.webp",
+    "source": [
+      "Natural Earth 1:50m physical land geometry; approximate geographical town centers",
+      "Pinned source: Digne opening, Montreuil books, Waterloo account, Toulon harbor episode, Vernon/Paris chapters; no local movement inferred"
+    ],
+    "locations": {
+      "digne-diocese": [
+        953,
+        853
+      ],
+      "france-digne-gateway": [
+        926,
+        874
+      ],
+      "vernon": [
+        593,
+        360
+      ],
+      "montreuil-sur-mer": [
+        613,
+        216
+      ],
+      "arras": [
+        690,
+        236
+      ],
+      "toulon": [
+        899,
+        971
+      ],
+      "waterloo-battlefield": [
+        800,
+        191
+      ],
+      "faverolles-setting": [
+        710,
+        430
+      ],
+      "paris-environs-region": [
+        663,
+        389
+      ],
+      "villers-abbey": [
+        817,
+        205
+      ],
+      "bas-boulonnais": [
+        601,
+        194
+      ],
+      "hesdin-inn-front": [
+        637,
+        233
+      ],
+      "saint-pol-inn": [
+        660,
+        235
+      ],
+      "tinques-road": [
+        674,
+        240
+      ],
+      "carency-arras-detour": [
+        685,
+        226
+      ],
+      "moulins-college": [
+        739,
+        621
+      ]
+    }
+  },
+  "paris": {
+    "width": 1624,
+    "height": 969,
+    "image": "paris-illustrated.webp",
+    "source": [
+      "Girard, Paris plan revised 1830; BnF btv1b53025224x",
+      "Source chapters 28, 30, 147–158, 277, 285–286; geographical overview only"
+    ],
+    "locations": {
+      "bastille-elephant": [
+        1158,
+        538
+      ],
+      "la-force": [
+        1100,
+        443
+      ],
+      "paris-sewer-network": [
+        867,
+        287
+      ],
+      "seine-right-bank-beyond-invalides": [
+        122,
+        389
+      ],
+      "petit-picpus-quarter": [
+        1370,
+        620
+      ],
+      "gillenormand-house": [
+        1157,
+        318
+      ],
+      "rue-plumet-house": [
+        434,
+        609
+      ],
+      "rue-plumet-gate": [
+        445,
+        621
+      ],
+      "rue-plumet-boulevard-invalides-corner": [
+        479,
+        612
+      ],
+      "rue-babylone-secret-door": [
+        499,
+        546
+      ],
+      "homme-arme-house": [
+        1071,
+        395
+      ],
+      "paris-gorbeau-quarter-gateway": [
+        1000,
+        820
+      ],
+      "paris-halles-gateway": [
+        810,
+        315
+      ],
+      "paris-marais": [
+        1030,
+        385
+      ],
+      "paris-latin-quarter": [
+        830,
+        590
+      ],
+      "luxembourg-gardens": [
+        755,
+        710
+      ],
+      "champs-elysees": [
+        480,
+        235
+      ],
+      "boulevard-du-temple": [
+        1195,
+        230
+      ],
+      "paris-town-hall": [
+        1040,
+        465
+      ],
+      "faubourg-saint-antoine": [
+        1410,
+        600
+      ],
+      "paris-mouffetard-quarter": [
+        910,
+        735
+      ],
+      "saint-sulpice": [
+        547,
+        577
+      ],
+      "seine-paris": [
+        1260,
+        800
+      ],
+      "vaugirard-cemetery": [
+        398,
+        836
+      ],
+      "cafe-musain": [
+        847,
+        630
+      ],
+      "rue-pavee": [
+        1114,
+        420
+      ],
+      "hotel-lamoignon-street": [
+        1120,
+        425
+      ],
+      "rue-lesdiguieres": [
+        1190,
+        540
+      ],
+      "rue-billettes": [
+        1060,
+        419
+      ],
+      "rue-chaume": [
+        1101,
+        353
+      ],
+      "rue-clocheperce": [
+        1123,
+        469
+      ],
+      "rue-des-ballets-archway": [
+        1148,
+        481
+      ],
+      "rue-jean-jacques-rousseau": [
+        812,
+        258
+      ],
+      "rue-menilmontant": [
+        1308,
+        299
+      ],
+      "rue-mouffetard": [
+        911,
+        750
+      ],
+      "rue-pont-aux-choux": [
+        1190,
+        324
+      ],
+      "boulevard-pont-aux-choux": [
+        1220,
+        320
+      ],
+      "rue-rivoli": [
+        659,
+        337
+      ],
+      "rue-saint-honore": [
+        662,
+        297
+      ],
+      "rue-saint-antoine": [
+        1198,
+        508
+      ],
+      "rue-saint-louis": [
+        1168,
+        361
+      ],
+      "rue-thorigny-doorway": [
+        1146,
+        365
+      ],
+      "rue-verrerie": [
+        1047,
+        439
+      ],
+      "rue-vieilles-haudriettes": [
+        1074,
+        322
+      ],
+      "royal-printing-guard-post": [
+        1093,
+        344
+      ],
+      "enfants-rouges-street-post": [
+        1145,
+        300
+      ],
+      "quai-morland": [
+        1113,
+        604
+      ],
+      "notre-dame-paris": [
+        998,
+        533
+      ],
+      "pont-austerlitz": [
+        1156,
+        685
+      ],
+      "pont-notre-dame-parapet": [
+        944,
+        427
+      ],
+      "place-de-greve": [
+        1028,
+        474
+      ],
+      "saint-paul-church": [
+        1146,
+        507
+      ],
+      "marche-saint-jean": [
+        1079,
+        445
+      ],
+      "marais-streets": [
+        1088,
+        394
+      ],
+      "rue-reuilly-building-site": [
+        1470,
+        679
+      ],
+      "mabeuf-austerlitz-cottage": [
+        1148,
+        878
+      ],
+      "paris-cafe-spaces": [
+        748,
+        500
+      ],
+      "picpus-street-approaches": [
+        1324,
+        641
+      ],
+      "chatelet-police-post": [
+        928,
+        419
+      ],
+      "barriere-maine-road": [
+        553,
+        848
+      ],
+      "barriere-maine-route": [
+        572,
+        824
+      ],
+      "barriere-maine-timber-yard": [
+        545,
+        825
+      ],
+      "boulevard-du-maine": [
+        585,
+        809
+      ],
+      "boulevard-invalides-vicinity": [
+        482,
+        616
+      ],
+      "champ-de-mars-moat": [
+        232,
+        599
+      ],
+      "champ-de-mars-slope": [
+        251,
+        575
+      ],
+      "beaujon-russian-mountains": [
+        255,
+        225
+      ],
+      "paris-barrier-monceaux": [
+        290,
+        175
+      ],
+      "jardin-plantes-quay-route": [
+        1102,
+        699
+      ],
+      "paris-carrefour-rollin": [
+        900,
+        645
+      ],
+      "paris-observatoire-hopital-streets": [
+        845,
+        843
+      ],
+      "salpetriere-adjoining-plains": [
+        1115,
+        882
+      ],
+      "paris-rue-pontoise": [
+        980,
+        618
+      ],
+      "rue-pontoise-police-office": [
+        989,
+        617
+      ],
+      "rue-pontoise-police-route": [
+        976,
+        628
+      ],
+      "saint-medard-well": [
+        899,
+        785
+      ],
+      "rue-mouffetard-pursuit-route": [
+        928,
+        777
+      ],
+      "rue-beautreillis-costume-shop": [
+        1181,
+        497
+      ],
+      "saint-antoine-bakery": [
+        1212,
+        507
+      ],
+      "mabeuf-rue-mesieres-home": [
+        588,
+        603
+      ],
+      "magnon-rue-clocheperce-home": [
+        1119,
+        476
+      ],
+      "orme-saint-gervais-barber-shop": [
+        1101,
+        486
+      ],
+      "plat-etain-coach-office": [
+        1040,
+        204
+      ],
+      "rue-roi-sicile-ruin": [
+        1131,
+        459
+      ],
+      "paris-lodgings": [
+        838,
+        562
+      ],
+      "larks-meadow-approach": [
+        943,
+        849
+      ],
+      "pere-lachaise-cemetery": [
+        1393,
+        340
+      ],
+      "paris-private-rooms": [
+        760,
+        490
+      ],
+      "paris-public-rooms": [
+        753,
+        515
+      ],
+      "paris-carriages": [
+        789,
+        530
+      ],
+      "chemin-vert-fruit-seller": [
+        1330,
+        385
+      ],
+      "paris-boulevards": [
+        1135,
+        310
+      ],
+      "paris-prisons": [
+        1050,
+        350
+      ],
+      "paris-public-festival": [
+        340,
+        450
+      ],
+      "paris-theatres": [
+        1178,
+        290
+      ]
+    }
+  }
+}

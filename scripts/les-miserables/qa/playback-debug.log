@@ -1,0 +1,231 @@
+{
+  scope: 'Targeted Montfermeil state and Arras first-leg playback review; not exhaustive full-book approval',
+  checks: [
+    'Actual Play advances the reading cursor from59-1 to59-2 and Pause retains that scene; animation/layer evidence recorded separately'
+  ],
+  errors: [],
+  fixtureSha256: '31c68165526417b7418b3332484795f7c438fca51df5730e31ae2abfbdd52915',
+  applicationCommit: 'e920677e47ad79ea110c37855f0e0e05749e52e2',
+  applicationDiffSha256: '19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76',
+  mapButtons: [
+    { text: 'Kathala', title: '', label: 'Go to world list' },
+    { text: '', title: 'Previous moment', label: 'Previous moment' },
+    {
+      text: 'Ch.59 · A Collision Before Dawn',
+      title: 'Ch.59 · Volume I · Book SEVENTH · CHAPTER V—HINDRANCES — A Collision Before Dawn (open timeline)',
+      label: null
+    },
+    { text: '', title: 'Next moment', label: 'Next moment' },
+    {
+      text: '',
+      title: 'View all chapters',
+      label: 'View all chapters'
+    },
+    {
+      text: 'Not backed up',
+      title: 'This world exists only in this browser. Choose a folder and Kathala will keep a copy there as you write.',
+      label: 'Backup: Not backed up'
+    },
+    {
+      text: 'Ctrl+K',
+      title: 'Search (Ctrl+K)',
+      label: 'Search (Ctrl+K)'
+    },
+    { text: '', title: 'Help', label: 'Help' },
+    {
+      text: 'Pin open',
+      title: 'Pin navigation open',
+      label: 'Pin navigation open'
+    },
+    { text: '', title: 'Play story on the map', label: null },
+    {
+      text: '1×',
+      title: 'Playback speed',
+      label: 'Playback speed: 1×'
+    },
+    { text: '', title: 'Clear where you have read to', label: null },
+    {
+      text: '',
+      title: 'Hide the chapter bar',
+      label: 'Hide the chapter bar'
+    },
+    { text: '', title: '', label: 'Previous scene in this chapter' },
+    { text: '', title: '', label: 'Next scene in this chapter' },
+    { text: '', title: 'Earlier chapters', label: 'Earlier chapters' },
+    { text: '', title: 'Later chapters', label: 'Later chapters' },
+    { text: '', title: 'Preface', label: null },
+    { text: '', title: 'The Bishop of D——', label: null },
+    { text: '', title: 'In the Cardinal’s Anteroom', label: null },
+    { text: '', title: 'An Appointment Reported', label: null },
+    { text: '', title: 'The Town’s Rumours', label: null },
+    { text: '', title: 'The Episcopal Household', label: null },
+    { text: '', title: 'Palace and Hospital', label: null },
+    { text: '', title: 'A Visit to the Wards', label: null },
+    { text: '', title: 'A Dining Room for Beds', label: null },
+    { text: '', title: 'The Household Budget', label: null },
+    { text: '', title: 'An Unclaimed Allowance', label: null },
+    { text: '', title: 'The Carriage Grant', label: null },
+    { text: '', title: 'Magloire Counts the Gain', label: null },
+    { text: '', title: 'A Second Memorandum', label: null },
+    { text: '', title: 'The Name Bienvenu', label: null },
+    { text: '', title: 'The Mountain Diocese', label: null },
+    { text: '', title: 'A Donkey at Senez', label: null },
+    { text: '', title: 'Examples from Other Valleys', label: null },
+    { text: '', title: 'A Book Beyond His Reach', label: null },
+    { text: '', title: 'The Countess’s Expectations', label: null },
+    { text: '', title: 'Titles on a Death Notice', label: null },
+    { text: '', title: 'A Sou at the Cathedral', label: null },
+    { text: '', title: 'The Marquis’s Own Poor', label: null },
+    { text: '', title: 'The Price of Air', label: null },
+    { text: '', title: 'Circumstances Before Judgment', label: null },
+    { text: '', title: 'The Advocate’s Cleverness', label: null },
+    { text: '', title: 'A Chaplain Refuses', label: null },
+    { text: '', title: 'A Day in the Cell', label: null },
+    { text: '', title: 'Beside the Tumbril', label: null },
+    { text: '', title: 'On the Scaffold', label: null },
+    { text: '', title: 'The Instrument of Justice', label: null },
+    { text: '', title: 'A Question Overheard', label: null },
+    { text: '', title: 'Consolation and Hope', label: null },
+    { text: '', title: 'A Day of Work and Alms', label: null },
+    { text: '', title: 'Rooms and Silver', label: null },
+    { text: '', title: 'Flowers in the Fourth Plot', label: null },
+    { text: '', title: 'The Evening Watering', label: null },
+    { text: '', title: 'The Unbolted Door', label: null },
+    { text: '', title: 'A Visitor Questions the Latch', label: null },
+    { text: '', title: 'A Band in the Mountains', label: null },
+    { text: '', title: 'The Mayor’s Warning', label: null },
+    { text: '', title: 'Only a Child to Guide Him', label: null },
+    { text: '', title: 'A Poor Sacristy', label: null },
+    { text: '', title: 'A Chest from Cravatte', label: null },
+    { text: '', title: 'A Return to Chastelar', label: null },
+    { text: '', title: 'The Dangers Within', label: null },
+    { text: '', title: 'The Uncertain Destination', label: null },
+    { text: '', title: 'The Senator’s Philosophy', label: null },
+    { text: '', title: 'Dessert at the Prefect’s', label: null },
+    { text: '', title: 'Baptistine’s December Letter', label: null },
+    { text: '', title: 'The Women’s Quiet Consent', label: null },
+    { text: '', title: 'The Man in the Valley', label: null },
+    { text: '', title: 'The Walk at Evening', label: null },
+    { text: '', title: 'Milk at the Door', label: null },
+    { text: '', title: 'Justice and Innocence', label: null },
+    { text: '', title: 'The Bishop Is Questioned', label: null },
+    { text: '', title: 'The Measure of Violence', label: null },
+    { text: '', title: 'A Profession of Faith', label: null },
+    { text: '', title: 'The Last Request', label: null },
+    { text: '', title: 'A Night of Prayer', label: null },
+    { text: '', title: 'The Visit Retold', label: null },
+    { text: '', title: 'A Red Cap', label: null },
+    { text: '', title: 'A Return to Earlier Years', label: null },
+    { text: '', title: 'The Paris Synod', label: null },
+    { text: '', title: 'At a Colleague’s House', label: null },
+    {
+      text: '',
+      title: 'Poverty and Political Bitterness',
+      label: null
+    },
+    { text: '', title: 'A Place for the Old Soldier', label: null },
+    { text: '', title: 'The Town’s Reverence', label: null },
+    { text: '', title: 'A Bishop Without a Court', label: null },
+    { text: '', title: 'Faith Without Hypocrisy', label: null },
+    { text: '', title: 'A Spider in the Garden', label: null },
+    { text: '', title: 'An Ant Underfoot', label: null },
+    {
+      text: '',
+      title: 'The Countenance of Seventy-Five Years',
+      label: null
+    },
+    { text: '', title: 'The Garden Beneath the Stars', label: null },
+    { text: '', title: 'The Gospel’s Path', label: null },
+    { text: '', title: 'The Senator’s Objection', label: null },
+    { text: '', title: 'Respect for the Unknown', label: null },
+    { text: '', title: 'A Traveller Enters D——', label: null },
+    {
+      text: '',
+      title: 'The Reputation of the Cross of Colbas',
+      label: null
+    },
+    { text: '', title: 'A Place by the Kitchen Fire', label: null },
+    { text: '', title: 'The Name on the Reply', label: null },
+    { text: '', title: 'Another Hearth, Another Refusal', label: null },
+    { text: '', title: 'Stones and a Closed Wicket', label: null },
+    ... 1583 more items
+  ],
+  playback: {
+    eventId: 'lesmis-world-review-event-59-2',
+    mapLayerId: 'lesmis-world-review-map-france',
+    isAnimating: false,
+    isPlaying: false
+  },
+  playbackTrace: [
+    {
+      at: 50791,
+      eventId: 'lesmis-world-review-event-59-1',
+      mapLayerId: 'lesmis-world-review-map-montreuil-town',
+      playing: true,
+      animating: false
+    },
+    {
+      at: 51056.800000000745,
+      eventId: 'lesmis-world-review-event-59-1',
+      mapLayerId: 'lesmis-world-review-map-montreuil-town',
+      playing: true,
+      animating: true
+    },
+    {
+      at: 55062.699999999255,
+      eventId: 'lesmis-world-review-event-59-1',
+      mapLayerId: 'lesmis-world-review-map-montreuil-town',
+      playing: true,
+      animating: false
+    },
+    {
+      at: 55208.699999999255,
+      eventId: 'lesmis-world-review-event-59-1',
+      mapLayerId: 'lesmis-world-review-map-montreuil-town',
+      playing: true,
+      animating: true
+    },
+    {
+      at: 57212.800000000745,
+      eventId: 'lesmis-world-review-event-59-1',
+      mapLayerId: 'lesmis-world-review-map-montreuil-town',
+      playing: true,
+      animating: false
+    },
+    {
+      at: 64680,
+      eventId: 'lesmis-world-review-event-59-2',
+      mapLayerId: 'lesmis-world-review-map-montreuil-town',
+      playing: true,
+      animating: false
+    },
+    {
+      at: 65412.39999999851,
+      eventId: 'lesmis-world-review-event-59-2',
+      mapLayerId: 'lesmis-world-review-map-montreuil-town',
+      playing: true,
+      animating: true
+    },
+    {
+      at: 65412.39999999851,
+      eventId: 'lesmis-world-review-event-59-2',
+      mapLayerId: 'lesmis-world-review-map-france',
+      playing: true,
+      animating: true
+    },
+    {
+      at: 66787.80000000075,
+      eventId: 'lesmis-world-review-event-59-2',
+      mapLayerId: 'lesmis-world-review-map-france',
+      playing: false,
+      animating: true
+    },
+    {
+      at: 67092.89999999851,
+      eventId: 'lesmis-world-review-event-59-2',
+      mapLayerId: 'lesmis-world-review-map-france',
+      playing: false,
+      animating: false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "four",
+  "images": [
+    {
+      "key": "mother-crucifixion-own-coffin",
+      "imageId": "lesmis-world-review-art-items-mother-crucifixion-own-coffin-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "municipal-burial-coffin",
+      "imageId": "lesmis-world-review-art-items-municipal-burial-coffin-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "gribier-cemetery-card",
+      "imageId": "lesmis-world-review-art-items-gribier-cemetery-card-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "8734f4eedf898eba4008e7de24035bd60245facc3f722d2edab0c789a6509de1",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-gribier-cemetery-card",
+  "currentImageId": "lesmis-world-review-art-items-gribier-cemetery-card-webp",
+  "currentDecoded": {
+    "width": 1536,
+    "height": 1024,
+    "type": "image/webp"
+  }
+}

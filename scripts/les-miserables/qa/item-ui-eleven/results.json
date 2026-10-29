@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "eleven",
+  "images": [
+    {
+      "key": "madeleine-admission-note",
+      "imageId": "lesmis-world-review-art-items-madeleine-admission-note-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "madeleine-current-passport",
+      "imageId": "lesmis-world-review-art-items-madeleine-current-passport-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "marius-baron-cards",
+      "imageId": "lesmis-world-review-art-items-marius-baron-cards-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "key": "marius-body-return-pocketbook",
+      "imageId": "lesmis-world-review-art-items-marius-body-return-pocketbook-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "marius-courfeyrac-address-inscription",
+      "imageId": "lesmis-world-review-art-items-marius-courfeyrac-address-inscription-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "marius-farewell-letter-to-cosette",
+      "imageId": "lesmis-world-review-art-items-marius-farewell-letter-to-cosette-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "marius-five-franc-gift",
+      "imageId": "lesmis-world-review-art-items-marius-five-franc-gift-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "marius-gold-watch",
+      "imageId": "lesmis-world-review-art-items-marius-gold-watch-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "2e02ceebd5b0c91da627cc3c7051cae168522b44225e2335b45686ed6103c225",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-marius-gold-watch",
+  "currentImageId": "lesmis-world-review-art-items-marius-gold-watch-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

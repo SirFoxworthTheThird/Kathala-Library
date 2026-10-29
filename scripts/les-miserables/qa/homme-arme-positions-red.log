@@ -1,0 +1,39 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesHommeArmePositions.test.ts (2 tests | 2 failed) 21ms
+   × keeps the withdrawn daughter and answering servant inside while Valjean moves out 13ms
+   × does not make Valjean follow Gavroche down Rue du Chaume 6ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesHommeArmePositions.test.ts > keeps the withdrawn daughter and answering servant inside while Valjean moves out
+TypeError: Cannot read properties of undefined (reading 'cosette')
+ ❯ tests/lesMiserablesHommeArmePositions.test.ts:6:37
+      4| test('keeps the withdrawn daughter and answering servant inside while …
+      5|  const rows=enrichedReview().get(295)
+      6|  expect(rows.find(row=>row.at===14).actorLocations.cosette).toBe('homm…
+       |                                     ^
+      7|  expect(rows.find(row=>row.at===42).actorLocations.toussaint).toBe('ho…
+      8| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesHommeArmePositions.test.ts > does not make Valjean follow Gavroche down Rue du Chaume
+TypeError: Cannot read properties of undefined (reading 'valjean')
+ ❯ tests/lesMiserablesHommeArmePositions.test.ts:13:28
+     11|  const row=enrichedReview().get(296).find(row=>row.at===64)
+     12|  expect(row.location).toBe('rue-chaume')
+     13|  expect(row.actorLocations.valjean).toBe('homme-arme-doorstep')
+       |                            ^
+     14| })
+     15|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  20:12:35
+   Duration  618ms (transform 282ms, setup 0ms, import 430ms, tests 21ms, environment 0ms)
+

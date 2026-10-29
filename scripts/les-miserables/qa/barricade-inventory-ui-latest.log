@@ -1,0 +1,18 @@
+{
+  scope: 'Targeted source-correction character states and inventories; not full-book playback approval',
+  checks: [
+    '288-2 feuilly: Corinthe',
+    '296-5 valjean: The house threshold',
+    '288-1 gavroche: The captive’s musket',
+    '290-3 gavroche: The captive’s musket',
+    '293-5 marius: The letter for Marius',
+    '294-5 marius: Marius’s farewell letter',
+    '294-6 gavroche: Marius’s farewell letter',
+    '296-4 valjean: Marius’s farewell letter',
+    '296-3 gavroche: The gift to the messenger'
+  ],
+  errors: [],
+  fixtureSha256: '629a0ff1294989348a19f412f36451b4c326874941c52a62bc8d03f9610b6137',
+  applicationCommit: 'e920677e47ad79ea110c37855f0e0e05749e52e2',
+  applicationDiffSha256: '19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76'
+}

@@ -1,0 +1,47 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "sixteen",
+  "images": [
+    {
+      "key": "mabeuf-bloodied-coat",
+      "imageId": "lesmis-world-review-art-items-mabeuf-bloodied-coat-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "marius-bloodied-coat",
+      "imageId": "lesmis-world-review-art-items-marius-bloodied-coat-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "marius-torn-coat-fragment",
+      "imageId": "lesmis-world-review-art-items-marius-torn-coat-fragment-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "panchaud-misfiring-pistol",
+      "imageId": "lesmis-world-review-art-items-panchaud-misfiring-pistol-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "valjean-purse",
+      "imageId": "lesmis-world-review-art-items-valjean-purse-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "046a31a52074fb4acd099e53e614025b6df567d994b0f60a32aaf4965ec8b9b2",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-valjean-purse",
+  "currentImageId": "lesmis-world-review-art-items-valjean-purse-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

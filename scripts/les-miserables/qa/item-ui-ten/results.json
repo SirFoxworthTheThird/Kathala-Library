@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "ten",
+  "images": [
+    {
+      "key": "jondrette-dream-engraving",
+      "imageId": "lesmis-world-review-art-items-jondrette-dream-engraving-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "jondrette-rope-ladder",
+      "imageId": "lesmis-world-review-art-items-jondrette-rope-ladder-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "jondrette-turned-wooden-panel",
+      "imageId": "lesmis-world-review-art-items-jondrette-turned-wooden-panel-webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "labarre-inquiry",
+      "imageId": "lesmis-world-review-art-items-labarre-inquiry-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "leblanc-five-franc-piece",
+      "imageId": "lesmis-world-review-art-items-leblanc-five-franc-piece-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "leblanc-seized-handkerchief",
+      "imageId": "lesmis-world-review-art-items-leblanc-seized-handkerchief-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "leblanc-uf-handkerchief",
+      "imageId": "lesmis-world-review-art-items-leblanc-uf-handkerchief-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "mabeuf-lane-gift-purse",
+      "imageId": "lesmis-world-review-art-items-mabeuf-lane-gift-purse-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "e83dfda1d2c02e9784eccf0c53831a74f3bfac3673d6aa416ee0981954945aae",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-mabeuf-lane-gift-purse",
+  "currentImageId": "lesmis-world-review-art-items-mabeuf-lane-gift-purse-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

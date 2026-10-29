@@ -1,0 +1,80 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesItemStates.test.ts (10 tests | 3 failed) 94ms
+   × distinguishes gifts, storage and bequests from physically carrying the object 36ms
+   × keeps the lost bread coin in the spring and transfers the bucket through the actual hands 17ms
+   × tracks the cemetery card as a theft followed by surrender at the gate 1ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > distinguishes gifts, storage and bequests from physically carrying the object
+AssertionError: expected 44 to be 46 // Object.is equality
+
+- Expected
++ Received
+
+- 46
++ 44
+
+ ❯ tests/lesMiserablesItemStates.test.ts:7:55
+      5|
+      6| test('distinguishes gifts, storage and bequests from physically carryi…
+      7|   expect(validateItemStates().sourceConfirmedChanges).toBe(46)
+       |                                                       ^
+      8|   expect(itemStateChanges.find(row => row.key === 'catherine-set-befor…
+      9|   expect(itemStateChanges.find(row => row.key === 'catherine-in-sleepi…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > keeps the lost bread coin in the spring and transfers the bucket through the actual hands
+AssertionError: expected 44 to be 46 // Object.is equality
+
+- Expected
++ Received
+
+- 46
++ 44
+
+ ❯ tests/lesMiserablesItemStates.test.ts:23:54
+     21|  const bucket=itemStateChanges.filter(row=>row.item==='cosette-water-b…
+     22|  expect(bucket.map(row=>[row.chapter,row.at,row.holder])).toEqual([[97…
+     23|  expect(validateItemStates().sourceConfirmedChanges).toBe(46)
+       |                                                      ^
+     24| })
+     25|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/3]⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > tracks the cemetery card as a theft followed by surrender at the gate
+AssertionError: expected undefined to match object { item: 'gribier-cemetery-card', …(5) }
+
+- Expected:
+{
+  "at": 35,
+  "chapter": 144,
+  "evidenceParagraph": 38,
+  "holder": "fauchelevent",
+  "item": "gribier-cemetery-card",
+  "kind": "held",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesItemStates.test.ts:27:71
+     25|
+     26| test('tracks the cemetery card as a theft followed by surrender at the…
+     27|  expect(itemStateChanges.find(row=>row.key==='cemetery-card-stolen')).…
+       |                                                                       ^
+     28|  const gate=itemStateChanges.find(row=>row.key==='cemetery-card-surren…
+     29|  expect(gate).toMatchObject({item:'gribier-cemetery-card',chapter:144,…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/3]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  3 failed | 7 passed (10)
+   Start at  01:50:24
+   Duration  693ms (transform 282ms, setup 0ms, import 432ms, tests 94ms, environment 0ms)
+

@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesItemStates.test.ts (7 tests | 1 failed) 85ms
+   × records the Waterloo robbery before the wounded officer offers possessions already taken 5ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > records the Waterloo robbery before the wounded officer offers possessions already taken
+AssertionError: expected [] to have a length of 4 but got +0
+
+- Expected
++ Received
+
+- 4
++ 0
+
+ ❯ tests/lesMiserablesItemStates.test.ts:27:18
+     25| test('records the Waterloo robbery before the wounded officer offers p…
+     26|  const changes=itemStateChanges.filter(row=>row.key.startsWith('waterl…
+     27|  expect(changes).toHaveLength(4)
+       |                  ^
+     28|  expect(changes.map(row=>row.item).sort()).toEqual(['pontmercy-ring','…
+     29|  for(const change of changes){
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 6 passed (7)
+   Start at  00:19:13
+   Duration  1.27s (transform 423ms, setup 0ms, import 589ms, tests 85ms, environment 0ms)
+

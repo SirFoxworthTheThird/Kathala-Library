@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "six",
+  "images": [
+    {
+      "key": "four-petitions-packet",
+      "imageId": "lesmis-world-review-art-items-four-petitions-packet-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "jondrette-marius-appeal",
+      "imageId": "lesmis-world-review-art-items-jondrette-marius-appeal-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "leblanc-relief-parcel",
+      "imageId": "lesmis-world-review-art-items-leblanc-relief-parcel-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "leblanc-brown-greatcoat",
+      "imageId": "lesmis-world-review-art-items-leblanc-brown-greatcoat-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "jondrette-cold-chisel",
+      "imageId": "lesmis-world-review-art-items-jondrette-cold-chisel-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "jondrette-charcoal-brazier",
+      "imageId": "lesmis-world-review-art-items-jondrette-charcoal-brazier-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "jondrette-kitchen-knife",
+      "imageId": "lesmis-world-review-art-items-jondrette-kitchen-knife-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "leblanc-four-louis-relief",
+      "imageId": "lesmis-world-review-art-items-leblanc-four-louis-relief-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "53e3ff5d91f5f7d96a3696629fe10529203750306717e1ba4e2ed2646d2932e6",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-leblanc-four-louis-relief",
+  "currentImageId": "lesmis-world-review-art-items-leblanc-four-louis-relief-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

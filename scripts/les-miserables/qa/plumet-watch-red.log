@@ -1,0 +1,77 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesPlumetWatch.test.ts (3 tests | 3 failed) 25ms
+   × separates the drawing-room song from the first-floor search 15ms
+   × keeps the night watcher below the girl at her first-floor shutter 5ms
+   × the next-morning breakfast is distinct from the window exchange 5ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesPlumetWatch.test.ts > separates the drawing-room song from the first-floor search
+AssertionError: expected undefined to match object { …(2) }
+
+- Expected:
+{
+  "location": "rue-plumet-cosette-room",
+  "present": [
+    [
+      "cosette",
+      Any<String>,
+    ],
+  ],
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesPlumetWatch.test.ts:7:37
+      5|  const rows=enrichedReview().get(244)
+      6|  expect(rows.find(row=>row.at===2).location).toBe('rue-plumet-pavilion…
+      7|  expect(rows.find(row=>row.at===7)).toMatchObject({location:'rue-plume…
+       |                                     ^
+      8| })
+      9|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+ FAIL  tests/lesMiserablesPlumetWatch.test.ts > keeps the night watcher below the girl at her first-floor shutter
+TypeError: Cannot read properties of undefined (reading 'actorLocations')
+ ❯ tests/lesMiserablesPlumetWatch.test.ts:14:14
+     12|  for(const at of[29,31]){
+     13|   const row=rows.find(row=>row.at===at)
+     14|   expect(row.actorLocations).toMatchObject({cosette:'rue-plumet-cosett…
+       |              ^
+     15|  }
+     16| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/3]⎯
+
+ FAIL  tests/lesMiserablesPlumetWatch.test.ts > the next-morning breakfast is distinct from the window exchange
+AssertionError: expected undefined to match object { …(2) }
+
+- Expected:
+{
+  "kind": "scene",
+  "location": "rue-plumet-pavilion",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesPlumetWatch.test.ts:20:14
+     18| test('the next-morning breakfast is distinct from the window exchange'…
+     19|  const row=enrichedReview().get(244).find(row=>row.at===37)
+     20|  expect(row).toMatchObject({location:'rue-plumet-pavilion',kind:'scene…
+       |              ^
+     21|  expect(row.present.map(([key])=>key)).toEqual(['cosette','valjean'])
+     22| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/3]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  3 failed (3)
+   Start at  10:32:19
+   Duration  565ms (transform 248ms, setup 0ms, import 385ms, tests 25ms, environment 0ms)
+

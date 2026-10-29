@@ -1,0 +1,51 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesAmbushCustody.test.ts (2 tests | 2 failed) 16ms
+   × retains Marius’s direct return and pistol handling on his own side of the wall 14ms
+   × keeps the two morning gifts distinct and exchanges the key for signal pistols 2ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesAmbushCustody.test.ts > retains Marius’s direct return and pistol handling on his own side of the wall
+AssertionError: expected [] to include 'marius'
+ ❯ tests/lesMiserablesAmbushCustody.test.ts:8:41
+      6|  for(const at of ['start',37]){
+      7|   const row=enrichedReview().get(217).find(row=>row.at===at)
+      8|   expect(row.present.map(([key])=>key)).toContain('marius')
+       |                                         ^
+      9|   expect(row.actorLocations.marius).toBe('gorbeau-partition-aperture')
+     10|  }
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesAmbushCustody.test.ts > keeps the two morning gifts distinct and exchanges the key for signal pistols
+AssertionError: expected undefined to match object { …(4) }
+
+- Expected:
+{
+  "at": 55,
+  "chapter": 212,
+  "holder": "madame-jondrette",
+  "item": "leblanc-five-franc-piece",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesAmbushCustody.test.ts:15:42
+     13| test('keeps the two morning gifts distinct and exchanges the key for s…
+     14|  const row=(key:string)=>itemStateChanges.find(change=>change.key===ke…
+     15|  expect(row('benefactor-coin-assigned')).toMatchObject({item:'leblanc-…
+       |                                          ^
+     16|  expect(row('neighbor-coin-assigned')).toMatchObject({item:'marius-fiv…
+     17|  expect(row('entrance-key-lent')).toMatchObject({chapter:214,at:26,hol…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  09:31:57
+   Duration  562ms (transform 255ms, setup 0ms, import 392ms, tests 16ms, environment 0ms)
+

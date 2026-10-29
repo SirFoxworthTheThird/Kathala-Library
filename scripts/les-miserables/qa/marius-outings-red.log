@@ -1,0 +1,60 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesMariusOutings.test.ts (3 tests | 3 failed) 24ms
+   × keeps the sweeping portress at Gorbeau rather than moving her to the girls’ encounter 14ms
+   × includes the provincial guest Marius actually embraces at breakfast 5ms
+   × records the specific Sceaux outing with its four friends without the absent girl 4ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesMariusOutings.test.ts > keeps the sweeping portress at Gorbeau rather than moving her to the girls’ encounter
+AssertionError: expected 'gorbeau-adjoining-boulevard' to be 'gorbeau-house' // Object.is equality
+
+Expected: "gorbeau-house"
+Received: "gorbeau-adjoining-boulevard"
+
+ ❯ tests/lesMiserablesMariusOutings.test.ts:6:24
+      4| test('keeps the sweeping portress at Gorbeau rather than moving her to…
+      5|  const rows=enrichedReview().get(202),door=rows.find(row=>row.at===4),…
+      6|  expect(door.location).toBe('gorbeau-house')
+       |                        ^
+      7|  expect(door.present.map(([key])=>key).sort()).toEqual(['madame-bourgo…
+      8|  expect(street.present.map(([key])=>key).sort()).toEqual(['boulevard-s…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+ FAIL  tests/lesMiserablesMariusOutings.test.ts > includes the provincial guest Marius actually embraces at breakfast
+AssertionError: expected [ 'marius', 'courfeyrac', …(1) ] to include 'voltaire-provincial-guest'
+ ❯ tests/lesMiserablesMariusOutings.test.ts:13:40
+     11| test('includes the provincial guest Marius actually embraces at breakf…
+     12|  const row=enrichedReview().get(193).find(row=>row.at===9)
+     13|  expect(row.present.map(([key])=>key)).toContain('voltaire-provincial-…
+       |                                        ^
+     14| })
+     15|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/3]⎯
+
+ FAIL  tests/lesMiserablesMariusOutings.test.ts > records the specific Sceaux outing with its four friends without the absent girl
+AssertionError: expected 'reported' to be 'scene' // Object.is equality
+
+Expected: "scene"
+Received: "reported"
+
+ ❯ tests/lesMiserablesMariusOutings.test.ts:18:19
+     16| test('records the specific Sceaux outing with its four friends without…
+     17|  const row=enrichedReview().get(201).find(row=>row.at===3)
+     18|  expect(row.kind).toBe('scene')
+       |                   ^
+     19|  expect(row.present.map(([key])=>key).sort()).toEqual(['bossuet','cour…
+     20| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/3]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  3 failed (3)
+   Start at  09:21:29
+   Duration  563ms (transform 247ms, setup 0ms, import 383ms, tests 24ms, environment 0ms)
+

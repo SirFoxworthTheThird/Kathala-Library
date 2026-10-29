@@ -1,0 +1,650 @@
+{
+  "pillow": "12.3.0",
+  "libwebp": "1.6.0",
+  "images": [
+    {
+      "key": "arras-court",
+      "source": "map-image-sources/arras-court.png",
+      "image": "arras-court-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 2859736,
+      "encodedBytes": 381534,
+      "sourceSha256": "fb29d2a7b0379d3f1ae82765fa61b054a916fffdbdf8d84f52d2eb30345e0436",
+      "encodedSha256": "5d9aff5061740fa719661a66dadc3c591bfeae7ffbb23cbdc5600f7392c66375"
+    },
+    {
+      "key": "arras-town",
+      "source": "map-image-sources/arras-town.png",
+      "image": "arras-town-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3814154,
+      "encodedBytes": 640760,
+      "sourceSha256": "2ffe726090e7bb3510abd0ab7d244ba08c67f6d653747489c798dbf4ee288d69",
+      "encodedSha256": "9971869b1a7d4c6b4ec1cd4d4fdb8a41c44aa717613d334126e41deb2901cec5"
+    },
+    {
+      "key": "atlantic-context",
+      "source": "map-image-sources/atlantic-context.png",
+      "image": "atlantic-context-illustrated.webp",
+      "dimensions": [
+        1422,
+        1106
+      ],
+      "quality": 90,
+      "sourceBytes": 2459456,
+      "encodedBytes": 225014,
+      "sourceSha256": "414eaa6b0a8dfd24d3a7f243f3eafbbec7f011b7660410e94774fe33609f826f",
+      "encodedSha256": "269d96592763e54f6935fee062e39a1d1e295618b2fe9d0d7d1fb260fbc09729"
+    },
+    {
+      "key": "bastille-elephant-exterior",
+      "source": "map-image-sources/bastille-elephant-exterior.png",
+      "image": "bastille-elephant-exterior-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3841332,
+      "encodedBytes": 639884,
+      "sourceSha256": "a15fa90868605de9e80eb86d327be98957466b9fb2e955f27c65f58b7992136d",
+      "encodedSha256": "d1068bdbff787876b9575d3f46fdd69acd4d8992b0054c252b2c1f32140e166c"
+    },
+    {
+      "key": "bastille-elephant-interior",
+      "source": "map-image-sources/bastille-elephant-interior.png",
+      "image": "bastille-elephant-interior-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 2994473,
+      "encodedBytes": 377682,
+      "sourceSha256": "94b94b004ec97d18f123739f0e61a89fcf053da5b75e09d4c81a7ce94ee98fae",
+      "encodedSha256": "5ed3f16271564a66e391f0f9ea0d41b40e1fc2d1f242b6b7db833c25825bdb33"
+    },
+    {
+      "key": "bishop-first-floor",
+      "source": "map-image-sources/bishop-first-floor.png",
+      "image": "bishop-first-floor-illustrated.webp",
+      "dimensions": [
+        1484,
+        1060
+      ],
+      "quality": 90,
+      "sourceBytes": 2723174,
+      "encodedBytes": 312512,
+      "sourceSha256": "8eb11664b71396de4841190756a83e99e2449e67f116d62596af79d806cb1477",
+      "encodedSha256": "ad1baab4378634a8d414b5d324caebfc85ed828f6628286e66470a428b99936c"
+    },
+    {
+      "key": "bishop-ground-floor",
+      "source": "map-image-sources/bishop-ground-floor.png",
+      "image": "bishop-ground-floor-illustrated.webp",
+      "dimensions": [
+        1484,
+        1060
+      ],
+      "quality": 90,
+      "sourceBytes": 3367069,
+      "encodedBytes": 517232,
+      "sourceSha256": "8e1950e933c18a755a1702b583db30f756302984ea141ac532166d4e08f3c58b",
+      "encodedSha256": "37c7054add51a13e557e561886e643feee4dac11e29a46c8ef5274ef7257bcdd"
+    },
+    {
+      "key": "cafe-musain",
+      "source": "map-image-sources/cafe-musain.png",
+      "image": "cafe-musain-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 2893816,
+      "encodedBytes": 334696,
+      "sourceSha256": "a68c1b0d37b52af569a8aad7181c53b09e17d768e3a373f0cba3385a87ba861f",
+      "encodedSha256": "0555d7954d84db45e3099e8409b10ac2b91575783a059a12e78d3987fb602da5"
+    },
+    {
+      "key": "chanvrerie-streets",
+      "source": "map-image-sources/chanvrerie-streets.png",
+      "image": "chanvrerie-streets-illustrated.webp",
+      "dimensions": [
+        1484,
+        1060
+      ],
+      "quality": 90,
+      "sourceBytes": 3513885,
+      "encodedBytes": 578582,
+      "sourceSha256": "8d8b4478c89b673bba722639fe0f99c229e8b4358e4f6d9cd54491282ab5629b",
+      "encodedSha256": "aaa8f8ac0e3f3ae40066f9f2af457d414a848ac13445a57b8e22bf76bea8ef41"
+    },
+    {
+      "key": "corinthe-first-floor",
+      "source": "map-image-sources/corinthe-first-floor.png",
+      "image": "corinthe-first-floor-illustrated.webp",
+      "dimensions": [
+        1484,
+        1060
+      ],
+      "quality": 90,
+      "sourceBytes": 2689956,
+      "encodedBytes": 318276,
+      "sourceSha256": "d7f16c486c8fe7bce18984096041682ef918a3fef921ea479d4a8db8bd66cb8c",
+      "encodedSha256": "c8149c4f0a021873ce4af178def8b5d154300c2552d13ccd639d65d437e722f9"
+    },
+    {
+      "key": "corinthe-ground-floor",
+      "source": "map-image-sources/corinthe-ground-floor.png",
+      "image": "corinthe-ground-floor-illustrated.webp",
+      "dimensions": [
+        1484,
+        1060
+      ],
+      "quality": 90,
+      "sourceBytes": 2968010,
+      "encodedBytes": 409662,
+      "sourceSha256": "48b4175e4df23040bec5d073eefc0fb8c465c641abb0f4169873175d2ef96041",
+      "encodedSha256": "825f56a0f4227b9ff0f161d5c417ecd957af8c21c475233f44567e9e00f27003"
+    },
+    {
+      "key": "digne",
+      "source": "map-image-sources/digne.png",
+      "image": "digne-illustrated.webp",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "quality": 90,
+      "sourceBytes": 4481472,
+      "encodedBytes": 806100,
+      "sourceSha256": "1751ee932ec8ed931a57f46f96b54b3993be85a509ce75b4bf70b85bdcf385c8",
+      "encodedSha256": "89ccd7f74859653d7f151bbe28cd552b7a4c1ae7fd3b4dee3fc16665781bacba"
+    },
+    {
+      "key": "fantine-rented-rooms",
+      "source": "map-image-sources/fantine-rented-rooms.png",
+      "image": "fantine-rented-rooms-illustrated.webp",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "quality": 90,
+      "sourceBytes": 2628337,
+      "encodedBytes": 273860,
+      "sourceSha256": "7cbf9faa8ee26fff51b0b0f1aadd5dd762061076763398638c06d7e1e7c2dc51",
+      "encodedSha256": "dc3f487e5cc6f3b487c1c6a18210a442acd00a3de3b10827fa7d28476d2201f6"
+    },
+    {
+      "key": "faverolles-village",
+      "source": "map-image-sources/faverolles-village.png",
+      "image": "faverolles-village-illustrated.webp",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "quality": 90,
+      "sourceBytes": 4327880,
+      "encodedBytes": 812642,
+      "sourceSha256": "cdbd06a984d760c3051facc1b4dad3f9b05a4384f9c17660a5eec9ac46fbe6f0",
+      "encodedSha256": "69b47d92273b6bbb720aa16971c1779db0627dc93086d8b6cc5ad9e634c3a70d"
+    },
+    {
+      "key": "france",
+      "source": "map-image-sources/france.png",
+      "image": "france-illustrated.webp",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "quality": 90,
+      "sourceBytes": 3213979,
+      "encodedBytes": 474834,
+      "sourceSha256": "f7c8f87e92fa398a5b719c2fda07ecae53d7dd82cd5a4fce5b53f89b623b3c68",
+      "encodedSha256": "33fb72fe6b28add6212f5679c3a94309adb2861b9ebafcd65f1df505a275652f"
+    },
+    {
+      "key": "gillenormand-details",
+      "source": "map-image-sources/gillenormand-details.png",
+      "image": "gillenormand-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 2446426,
+      "encodedBytes": 292464,
+      "sourceSha256": "564cdbd552f06277827e8a6b24b44ceec11233676277e784dae9ecf0ed302e25",
+      "encodedSha256": "c79deb7b289f745781812a836fe39a1b1bf39e1c2363f746049ce62631e1782b"
+    },
+    {
+      "key": "gorbeau-lodgings",
+      "source": "map-image-sources/gorbeau-lodgings.png",
+      "image": "gorbeau-lodgings-illustrated.webp",
+      "dimensions": [
+        1586,
+        992
+      ],
+      "quality": 90,
+      "sourceBytes": 2910522,
+      "encodedBytes": 373820,
+      "sourceSha256": "77d126bd5d67fe2711c3a2a7e7dbd503968141f81f26fb9bfea8334f35c9a0c5",
+      "encodedSha256": "f3e43f177d93710a7eaf8d20cc7dfc43746d0c9dc63143d330b2474e254b9466"
+    },
+    {
+      "key": "homme-arme-rooms",
+      "source": "map-image-sources/homme-arme-rooms.png",
+      "image": "homme-arme-rooms-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3129783,
+      "encodedBytes": 462892,
+      "sourceSha256": "cd723bd1e8a04c08d8dda40d81dc139616c24e14e76b78cd3889b312ee632536",
+      "encodedSha256": "acb7f4bf9ecca5b2e1ad4beb49280b308ba2819427b726479ad70d938caad1ef"
+    },
+    {
+      "key": "hougomont-details",
+      "source": "map-image-sources/hougomont-details.png",
+      "image": "hougomont-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3394371,
+      "encodedBytes": 565626,
+      "sourceSha256": "da780457b90bb76f1cb8c403fb99e59d61cc0a8cf332f15b8ed5d67725b8fa4f",
+      "encodedSha256": "cb874421a8a2aa54bd90a35171b9127b96561e46c18710ec8a263033f583211e"
+    },
+    {
+      "key": "la-force-details",
+      "source": "map-image-sources/la-force-details.png",
+      "image": "la-force-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 2941246,
+      "encodedBytes": 392646,
+      "sourceSha256": "3728d78e4592483ea3cdf6782b4ad5fac9cd413190b3ca7781f1e0bc5131d1d5",
+      "encodedSha256": "ed0e96d8610837d482c0b49d47613bf526f1278f0cd3b17f7ed86b67def924b5"
+    },
+    {
+      "key": "luxembourg-details",
+      "source": "map-image-sources/luxembourg-details.png",
+      "image": "luxembourg-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3432954,
+      "encodedBytes": 601144,
+      "sourceSha256": "482a87a4ad4bad81a65d633db2899f27d22d4e85b7e05d05f201e995e91049ff",
+      "encodedSha256": "c7653bd04a355df3b502bbf708f6cd525eba6e499707bef7ee0ff406cd20b75f"
+    },
+    {
+      "key": "mabeuf-cottage",
+      "source": "map-image-sources/mabeuf-cottage.png",
+      "image": "mabeuf-cottage-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3844181,
+      "encodedBytes": 664614,
+      "sourceSha256": "da4a84b1e033b96aa48f10981991353c1d7326ed876c2a56c88407ade391d39a",
+      "encodedSha256": "2498974e806399cbd8599b0be2ca6d88c6db3d1a12c423d47dbfe1f70271af15"
+    },
+    {
+      "key": "madeleine-premises",
+      "source": "map-image-sources/madeleine-premises.png",
+      "image": "madeleine-premises-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3061986,
+      "encodedBytes": 406678,
+      "sourceSha256": "fdd38d65f52f8c40db465121cbad422408003fecb891478084834f62384f97fb",
+      "encodedSha256": "4d6bebd1a5219277926b52b4d3e22c349258ca6fc6c2a90e4bf35c3f02738f23"
+    },
+    {
+      "key": "montfermeil-country",
+      "source": "map-image-sources/montfermeil-country.png",
+      "image": "montfermeil-country-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3967948,
+      "encodedBytes": 692338,
+      "sourceSha256": "ec5dee4db7f0fee86aa137393261de6df262c0764d5cb927c1de281fbd875c6c",
+      "encodedSha256": "eac317e436670362d461e6b841b2b504babd9c8fe4070d49b49014f91fee08bc"
+    },
+    {
+      "key": "montreuil-town",
+      "source": "map-image-sources/montreuil-town.png",
+      "image": "montreuil-town-illustrated.webp",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "quality": 90,
+      "sourceBytes": 4052413,
+      "encodedBytes": 719714,
+      "sourceSha256": "d31cd5ef72c3cd5af4272ec509040c747c30ba3820b1064fafec17fe6ef883bf",
+      "encodedSha256": "44b3164126efe3f88e3321f03a70fbc3343b6205ff499fa3af0e9a213ff2814b"
+    },
+    {
+      "key": "orion-deck",
+      "source": "map-image-sources/orion-deck.png",
+      "image": "orion-deck-illustrated.webp",
+      "dimensions": [
+        1942,
+        809
+      ],
+      "quality": 90,
+      "sourceBytes": 2841422,
+      "encodedBytes": 386350,
+      "sourceSha256": "78431cc660c52ac6491f694f5b0d242bdb1b4735e46b25d68ddea9cef4e11334",
+      "encodedSha256": "dac39bca0cfd8d4644d7c77254d14f536691653504370d40b7586c574ecc3e57"
+    },
+    {
+      "key": "orion-main-yard",
+      "source": "map-image-sources/orion-main-yard.png",
+      "image": "orion-main-yard-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 2833393,
+      "encodedBytes": 301580,
+      "sourceSha256": "5ff83d0ca16adb60786ecbe1b0ebbc1b43b1654828f5d0567a121d472f8ea34e",
+      "encodedSha256": "41dfabe7a21e2e3b9045ad67bdc5f5139dca554e692f71444a54884c7c50553f"
+    },
+    {
+      "key": "paris-cafe-details",
+      "source": "map-image-sources/paris-cafe-details.png",
+      "image": "paris-cafe-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 2972733,
+      "encodedBytes": 390406,
+      "sourceSha256": "1de6a947ceb696650a668ca59c1ef6b71a0a881d428a43f73e80270edd9286a4",
+      "encodedSha256": "0a0a7037fd39cf34d921cd2b36bf8ba7448941e91a3a2ca23806532fdbfdf472"
+    },
+    {
+      "key": "paris-environs",
+      "source": "map-image-sources/paris-environs.png",
+      "image": "paris-environs-illustrated.webp",
+      "dimensions": [
+        1302,
+        1208
+      ],
+      "quality": 90,
+      "sourceBytes": 3832476,
+      "encodedBytes": 635182,
+      "sourceSha256": "b544459320454f755273e05ad8bb0c4691d4f10ab0b101e9c546f7f55210322d",
+      "encodedSha256": "74de54ebaca7fea8699435ec2e5ebe0b7c40f5a40a10d34afc97bbd4a6c0fa21"
+    },
+    {
+      "key": "paris-hospital-quarter",
+      "source": "map-image-sources/paris-hospital-quarter.png",
+      "image": "paris-hospital-quarter-illustrated.webp",
+      "dimensions": [
+        1512,
+        1040
+      ],
+      "quality": 90,
+      "sourceBytes": 3105522,
+      "encodedBytes": 467114,
+      "sourceSha256": "6708c6e5935824acc5a3ffac5de458fe0365f0512b017e6844ebb9042b7699c4",
+      "encodedSha256": "0a2f5ae621c9a06cf22cbbe49f135f066996afcc2ce425dd238037023de6f7a7"
+    },
+    {
+      "key": "paris-les-halles",
+      "source": "map-image-sources/paris-les-halles.png",
+      "image": "paris-les-halles-illustrated.webp",
+      "dimensions": [
+        1322,
+        1190
+      ],
+      "quality": 90,
+      "sourceBytes": 3773660,
+      "encodedBytes": 626502,
+      "sourceSha256": "736ae826933aaa6a9ea364d37f5e67340e2c3814f80d9ce59e0318f859abea6a",
+      "encodedSha256": "cdeb524f28ebf76bb204f414eadb43a08a8a85f07fe90af8a0a5e50466800014"
+    },
+    {
+      "key": "paris-lodging-details",
+      "source": "map-image-sources/paris-lodging-details.png",
+      "image": "paris-lodging-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3086536,
+      "encodedBytes": 419458,
+      "sourceSha256": "91a4ac0540d035a2aec83f174aadbfeb1620809777c152cd6c0a2d54897963f8",
+      "encodedSha256": "4c79f122958e1fbf7a1f0aa2cef87d4a3225aeb24362472aafb7dc0e948ac625"
+    },
+    {
+      "key": "paris-sewers",
+      "source": "map-image-sources/paris-sewers.png",
+      "image": "paris-sewers-illustrated.webp",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "quality": 90,
+      "sourceBytes": 2684877,
+      "encodedBytes": 304688,
+      "sourceSha256": "3be68f7c05d58802ad21dc3907328e971de70ea1fa086504b17d710faf1164ff",
+      "encodedSha256": "5795a4b299f14819ba373b5e7b7b6aa60382c70b5e97e2d59da809987e0c96ef"
+    },
+    {
+      "key": "paris",
+      "source": "map-image-sources/paris.png",
+      "image": "paris-illustrated.webp",
+      "dimensions": [
+        1624,
+        969
+      ],
+      "quality": 90,
+      "sourceBytes": 3802312,
+      "encodedBytes": 628422,
+      "sourceSha256": "c8c5e0552f14798b9e16d099bc23413e6565f9d5a5ea8beb00fff6f575c8634a",
+      "encodedSha256": "47d3317d41bdb0c8f241d07372f118085925e2fba6aafd5f7c9b3df6fab5e3a3"
+    },
+    {
+      "key": "petit-picpus-interiors",
+      "source": "map-image-sources/petit-picpus-interiors.png",
+      "image": "petit-picpus-interiors-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 2480961,
+      "encodedBytes": 296532,
+      "sourceSha256": "d10b010502ad0603c8aa049947440f27b14337988a8af56da401e5ce72d60489",
+      "encodedSha256": "2430af3cba80633af078ba5005f3d37b76736a7118c273ad40fcdde93d8e4f31"
+    },
+    {
+      "key": "petit-picpus-site",
+      "source": "map-image-sources/petit-picpus-site.png",
+      "image": "petit-picpus-site-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3241271,
+      "encodedBytes": 523416,
+      "sourceSha256": "7924d08bd8d409e1b3a7dbaabdedc0c70a6e1dd010d8f3a7f1addf900e7884f8",
+      "encodedSha256": "86c94c99aff31423f70c6fd1357b8e2bfc852a741d9c3083e63e1ea3e3de9b20"
+    },
+    {
+      "key": "picpus-approaches",
+      "source": "map-image-sources/picpus-approaches.png",
+      "image": "picpus-approaches-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3962276,
+      "encodedBytes": 691472,
+      "sourceSha256": "ff3d166ee6c60880498effdca37e7935710e00e4fc7c0b0f227c5c9935c469e6",
+      "encodedSha256": "8db083e693e53b260c708effea69ad4206a2a86ee8cb1142cfce16d311c619d7"
+    },
+    {
+      "key": "plumet-house",
+      "source": "map-image-sources/plumet-house.png",
+      "image": "plumet-house-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3656546,
+      "encodedBytes": 592292,
+      "sourceSha256": "4fc4379bd1ea11657326c6e053ebcc2f19af60ba5ded252de6ba2eca9fb248bd",
+      "encodedSha256": "50b0b07b0fbb21ba9f75867b69ed30ca8c7ca087fa7da34dceda8c20c4c4ac2e"
+    },
+    {
+      "key": "roi-sicile-ruin",
+      "source": "map-image-sources/roi-sicile-ruin.png",
+      "image": "roi-sicile-ruin-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3406285,
+      "encodedBytes": 542232,
+      "sourceSha256": "fd7c53a01a979736e24a59ef30fa984fb8aa9904ab1336ad74725fc098cd3203",
+      "encodedSha256": "9208517d54ef70d95cc0dc832a7ae1e573e9f2820feec1ed587e1094eeeff60f"
+    },
+    {
+      "key": "southern-country",
+      "source": "map-image-sources/southern-country.png",
+      "image": "southern-country-illustrated.webp",
+      "dimensions": [
+        1403,
+        1121
+      ],
+      "quality": 90,
+      "sourceBytes": 3469826,
+      "encodedBytes": 574964,
+      "sourceSha256": "9c381c0cf023085fd263b36eb71a737b295632a9e4825af590c3f2597ec95362",
+      "encodedSha256": "6c543fc0425216a2cc0eb6005f76648116cab50800536943d70f18a7daf149cb"
+    },
+    {
+      "key": "southern-local-details",
+      "source": "map-image-sources/southern-local-details.png",
+      "image": "southern-local-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3853962,
+      "encodedBytes": 677188,
+      "sourceSha256": "a98a59e7978dddf5ad78e110116d80bafa7b1c77102e744d22f71ce92b1344e5",
+      "encodedSha256": "6a080b8bdbff69c7da59c4d28e73f3ba1ae26aedb621bdc8325b88678b1a025d"
+    },
+    {
+      "key": "thenardier-inn-details",
+      "source": "map-image-sources/thenardier-inn-details.png",
+      "image": "thenardier-inn-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3256841,
+      "encodedBytes": 456648,
+      "sourceSha256": "6830ecf4d0c6ecf826e1d3753cfcba6d2e79e2c48fd4eb30e730cd161c7b66ae",
+      "encodedSha256": "162b1bb77c87a9a7944e99d1862ee2296279d2b00336f279edfed933c4387a16"
+    },
+    {
+      "key": "toulon-harbour",
+      "source": "map-image-sources/toulon-harbour.png",
+      "image": "toulon-harbour-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3650898,
+      "encodedBytes": 620038,
+      "sourceSha256": "cabcbf89ff4dbb58fee317f40f22f80c9a172c6412cbfb59d81626db9b22c702",
+      "encodedSha256": "992adb3442fb4dab631f52cfe7d74aadff2e1732246af60b7f6d1f3bea83a0af"
+    },
+    {
+      "key": "vaugirard-cemetery",
+      "source": "map-image-sources/vaugirard-cemetery.png",
+      "image": "vaugirard-cemetery-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3986869,
+      "encodedBytes": 691154,
+      "sourceSha256": "450c80e4195049e458c6d63c08e15c121cf12d748a4b15cb9b28e906e657d006",
+      "encodedSha256": "4232f2645c142af1fd49d6e7bafc214120e43df7acebc7562e3f93de1ef0fa21"
+    },
+    {
+      "key": "vernon-details",
+      "source": "map-image-sources/vernon-details.png",
+      "image": "vernon-details-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 3791775,
+      "encodedBytes": 677860,
+      "sourceSha256": "74462a91c5dc55b0a3d62a57567a8712d893384122b8af1c0a6edd097f8cffba",
+      "encodedSha256": "57a83090c8fd8293319996217d562f2c1df43fa935db53e535a8d59f4759fc48"
+    },
+    {
+      "key": "waterloo-country",
+      "source": "map-image-sources/waterloo-country.png",
+      "image": "waterloo-country-illustrated.webp",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "sourceBytes": 4031583,
+      "encodedBytes": 685910,
+      "sourceSha256": "426e273e1a29944867fef69cda816f9b05cfca4618af118135e89f708e72481c",
+      "encodedSha256": "6581991e7d764e8cd41687dc4624623e3cce658bd16eed04ce30524b5bb80058"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "chanvrerie-streets": {
+    "width": 1400,
+    "height": 1000,
+    "image": "chanvrerie-streets.webp",
+    "source": [
+      "IV.XII.I paragraphs 5–12",
+      "IV.XII.III paragraphs 0–4",
+      "IV.XII.V paragraphs 0–4",
+      "V.I.XXIV paragraphs 5–16"
+    ],
+    "locations": {
+      "rue-chanvrerie": [
+        480,
+        600
+      ],
+      "chanvrerie-barricade": [
+        650,
+        560
+      ],
+      "chanvrerie-barricade-opening": [
+        650,
+        465
+      ],
+      "chanvrerie-barricade-cut": [
+        650,
+        485
+      ],
+      "chanvrerie-barricade-exterior": [
+        550,
+        560
+      ],
+      "chanvrerie-barricade-torch": [
+        690,
+        620
+      ],
+      "rue-chanvrerie-artillery-position": [
+        350,
+        560
+      ],
+      "mondetour-small-barricade": [
+        1020,
+        790
+      ],
+      "mondetour-open-approach": [
+        1000,
+        285
+      ],
+      "mondetour-lane-outside": [
+        1020,
+        845
+      ],
+      "chanvrerie-tall-house": [
+        1115,
+        600
+      ],
+      "corinthe": [
+        800,
+        650
+      ],
+      "corinthe-door": [
+        800,
+        650
+      ],
+      "corinthe-exterior": [
+        800,
+        625
+      ],
+      "corinthe-sheltered-angle": [
+        980,
+        690
+      ],
+      "chanvrerie-sewer-grating": [
+        1020,
+        765
+      ]
+    }
+  },
+  "corinthe-ground-floor": {
+    "width": 1400,
+    "height": 1000,
+    "image": "corinthe-ground-floor.webp",
+    "levelGroup": "corinthe",
+    "levelIndex": 0,
+    "source": [
+      "IV.XII.I paragraph 12"
+    ],
+    "locations": {
+      "corinthe-taproom": [
+        540,
+        500
+      ],
+      "corinthe-taproom-door": [
+        520,
+        795
+      ],
+      "corinthe-kitchen": [
+        1050,
+        650
+      ],
+      "corinthe-cellar-trap": [
+        312,
+        710
+      ]
+    }
+  },
+  "corinthe-first-floor": {
+    "width": 1400,
+    "height": 1000,
+    "image": "corinthe-first-floor.webp",
+    "levelGroup": "corinthe",
+    "levelIndex": 1,
+    "source": [
+      "IV.XII.I paragraph 12",
+      "IV.XII.II",
+      "IV.XII.III"
+    ],
+    "locations": {
+      "corinthe-first-floor": [
+        950,
+        500
+      ],
+      "corinthe-first-floor-window": [
+        700,
+        785
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+
+> catalogue:check
+> node scripts/build-index.mjs --check
+
+build-index: catalogue matches the 58 worlds on disk

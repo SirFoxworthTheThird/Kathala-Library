@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch five in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "e50ba57339415a079bdb607a9ae8ed3f586803a92bf3680960759403ec2cfada",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "digne",
+      "imageId": "lesmis-world-review-art-locations-digne-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "cross-colbas",
+      "imageId": "lesmis-world-review-art-locations-cross-colbas-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "chaffaut-public-house",
+      "imageId": "lesmis-world-review-art-locations-chaffaut-public-house-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "digne-prison-door",
+      "imageId": "lesmis-world-review-art-locations-digne-prison-door-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "digne-artisan-house",
+      "imageId": "lesmis-world-review-art-locations-digne-artisan-house-webp",
+      "width": 1422,
+      "height": 1106
+    },
+    {
+      "kind": "locations",
+      "key": "digne-kennel-garden",
+      "imageId": "lesmis-world-review-art-locations-digne-kennel-garden-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "digne-outskirts",
+      "imageId": "lesmis-world-review-art-locations-digne-outskirts-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "digne-bishop-house-gateway",
+      "imageId": "lesmis-world-review-art-locations-digne-bishop-house-gateway-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

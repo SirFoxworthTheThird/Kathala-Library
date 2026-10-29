@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesNarrativeRecords.test.ts (3 tests | 1 failed | 2 skipped) 110ms
+   × requires a chronology and pacing plan instead of silently inventing them from source order 109ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 skipped (3)
+   Start at  01:02:27
+   Duration  1.14s (transform 358ms, setup 0ms, import 865ms, tests 110ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesNarrativeRecords.test.ts > requires a chronology and pacing plan instead of silently inventing them from source order
+AssertionError: expected [Function] to throw an error
+
+- Expected:
+null
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesNarrativeRecords.test.ts:43:75
+     41|
+     42| test('requires a chronology and pacing plan instead of silently invent…
+     43|   expect(()=>buildNarrativeRecords({...options,resolveTiming:undefined…
+       |                                                                           ^
+     44|   expect(()=>buildNarrativeRecords({...options,resolveTension:undefine…
+     45|   expect(()=>buildNarrativeRecords({...options,resolveTiming:()=>({inW…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

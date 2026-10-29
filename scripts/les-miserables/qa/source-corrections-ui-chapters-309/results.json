@@ -1,0 +1,12 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "309-2 chanvrerie-rooftop-fireman: Unknown",
+    "309-3 chanvrerie-rooftop-fireman: Unknown",
+    "309-3 chanvrerie-rooftop-officer: Unknown"
+  ],
+  "errors": [],
+  "fixtureSha256": "d8b3d214545ccef0219c818e4553f88fa5c545828a11bc7327d152ec7f8787d9",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

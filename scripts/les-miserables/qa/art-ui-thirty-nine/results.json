@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-nine",
+  "images": [
+    {
+      "key": "duchesse-choiseul",
+      "imageId": "lesmis-world-review-art-characters-duchesse-choiseul-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "duchesse-serent",
+      "imageId": "lesmis-world-review-art-characters-duchesse-serent-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "duhesme",
+      "imageId": "lesmis-world-review-art-characters-duhesme-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "duplat",
+      "imageId": "lesmis-world-review-art-characters-duplat-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "fantine-musician-lover",
+      "imageId": "lesmis-world-review-art-characters-fantine-musician-lover-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "foy",
+      "imageId": "lesmis-world-review-art-characters-foy-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "friant",
+      "imageId": "lesmis-world-review-art-characters-friant-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "grouchy",
+      "imageId": "lesmis-world-review-art-characters-grouchy-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "631b3dcb34e59d544115c78df2ca6ff26c682cb8778a54877e7952fb11a591b4",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-grouchy",
+  "currentImageId": "lesmis-world-review-art-characters-grouchy-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

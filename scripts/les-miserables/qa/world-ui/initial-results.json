@@ -1,0 +1,9 @@
+{
+  "scope": "Initial complete-text review-fixture UI checks; not final release or exhaustive playback review",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "9f7ffd7f1f49cae18335e5f708b137c1ec38188472f4de162f3aab6267a46c2d",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "29a9b73eaca6fb7ced5189509123f24b71f69788c3218fd05ef04c93669887c7",
+  "failure": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByText('Les Misérables — Work Review', { exact: true }).first() to be visible\u001b[22m\n"
+}

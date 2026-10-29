@@ -1,0 +1,58 @@
+{
+  "selected": [
+    [
+      "javert-montreuil-lodging",
+      "exec-b9c461a4-c46f-4bc0-8462-4f34611e500d.png"
+    ],
+    [
+      "montreuil-lodging-quarter",
+      "exec-a3e9c5e3-e2b9-4b9f-a88f-361a5759920a.png"
+    ],
+    [
+      "madeleine-women-workroom",
+      "exec-d54860af-ec13-4073-831c-d8d8abd41a33.png"
+    ],
+    [
+      "madeleine-factory-lodge",
+      "exec-e4d3b9f0-7198-4283-a7e0-445ec2c12cc9.png"
+    ],
+    [
+      "madeleine-study",
+      "exec-5909d924-6559-4b9f-8323-2400af7428d4.png"
+    ],
+    [
+      "madeleine-bedroom-door",
+      "exec-ec4707ad-74ac-4c54-86f2-e97c63636e4b.png"
+    ],
+    [
+      "madeleine-cashier-room",
+      "exec-6f0b0de2-2ec1-4780-a170-7de303420854.png"
+    ],
+    [
+      "montreuil-infirmary-antechamber",
+      "exec-923a4c84-44a2-4f90-aaa1-88e9919b04c3.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "javert-montreuil-lodging",
+      "original": "exec-0261f925-f43e-4d75-80ec-54989ff16c0e.png",
+      "prompt": "Edit this single literary watercolor room illustration, preserving all furniture, perspective, surfaces, objects, palette and illustration style. Remove all church towers, spires, domes, castles and landmark structures visible through the windows. Replace their portions with modest ordinary low rooftops and quiet sky only, without a church skyline. Preserve the windows and their reflections, interior and ordinary nearby roofs. No person, text or signature."
+    },
+    {
+      "key": "madeleine-women-workroom",
+      "original": "exec-8c046032-4867-465d-95d3-ed969a16633d.png",
+      "prompt": "Edit this single literary watercolor room illustration, preserving all furniture, perspective, surfaces, objects, palette and illustration style. Remove all church towers, spires, domes, castles and landmark structures visible through the windows. Replace their portions with modest ordinary low rooftops and quiet sky only, without a church skyline. Preserve the windows and their reflections, interior and ordinary nearby roofs. No person, text or signature."
+    },
+    {
+      "key": "madeleine-study",
+      "original": "exec-06403c3f-c374-463e-b39e-83b2bbfe707a.png",
+      "prompt": "Edit this single literary watercolor room illustration, preserving all furniture, perspective, surfaces, objects, palette and illustration style. Remove all church towers, spires, domes, castles and landmark structures visible through the windows. Replace their portions with modest ordinary low rooftops and quiet sky only, without a church skyline. Preserve the windows and their reflections, interior and ordinary nearby roofs. No person, text or signature."
+    },
+    {
+      "key": "madeleine-cashier-room",
+      "original": "exec-3a077a0a-a148-4adb-a543-5440d110f094.png",
+      "prompt": "Edit this single literary watercolor room illustration, preserving all furniture, perspective, surfaces, objects, palette and illustration style. Remove the orange window-grid reflection from the interior wall COMPLETELY: no bright four-pane rectangle, mullion grid or window-frame shadow. Make the wall naturally dim with a soft unpatterned diffuse night illumination. Also make the visible opposite window outside unlit in cool night tones. Keep the room's ordinary window itself unchanged; no visible fire, person or dramatic light event. No person, text or signature."
+    }
+  ]
+}

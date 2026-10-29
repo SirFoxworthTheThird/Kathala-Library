@@ -1,0 +1,39 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesItemStates.test.ts (5 tests | 1 failed) 79ms
+   × tracks the abandoned route slip and separates burnt belongings from spared candlesticks 4ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > tracks the abandoned route slip and separates burnt belongings from spared candlesticks
+AssertionError: expected undefined to match object { kind: 'placed', chapter: 56, …(3) }
+
+- Expected:
+{
+  "at": 64,
+  "chapter": 56,
+  "evidenceParagraph": 65,
+  "kind": "placed",
+  "location": "scaufflaire-hire-yard",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesItemStates.test.ts:26:71
+     24|
+     25| test('tracks the abandoned route slip and separates burnt belongings f…
+     26|   expect(itemStateChanges.find(row => row.key === 'route-slip-left')).…
+       |                                                                       ^
+     27|     kind:'placed', chapter:56, at:64, location:'scaufflaire-hire-yard'…
+     28|   })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 4 passed (5)
+   Start at  19:19:50
+   Duration  1.61s (transform 427ms, setup 0ms, import 604ms, tests 79ms, environment 0ms)
+

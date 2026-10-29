@@ -1,0 +1,50 @@
+{
+  "selected": [
+    [
+      "digne",
+      "exec-02a456d1-24e7-477b-ba7e-9a1460ef57d3.png"
+    ],
+    [
+      "cross-colbas",
+      "exec-bb906667-fa67-43d3-9730-d84d7daf7b44.png"
+    ],
+    [
+      "chaffaut-public-house",
+      "exec-cb528b7a-3299-4132-a528-860cf088295c.png"
+    ],
+    [
+      "digne-prison-door",
+      "exec-5107f79c-3557-480c-a203-e6b669bc9fdd.png"
+    ],
+    [
+      "digne-artisan-house",
+      "exec-9b34e333-7403-41d0-8463-460f867455d8.png"
+    ],
+    [
+      "digne-kennel-garden",
+      "exec-77c3d16f-a16a-40a3-8e20-3e9b9f231683.png"
+    ],
+    [
+      "digne-outskirts",
+      "exec-e8f7095c-7827-4e26-b5ff-5b04c4267900.png"
+    ],
+    [
+      "digne-bishop-house-gateway",
+      "exec-c46e6e54-1dab-42fd-a782-f43e34ffdaef.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "digne-bishop-house-gateway",
+      "original": "exec-5b27edf2-53fa-4ad8-84c4-43f32e573a4c.png",
+      "selected": "exec-e62db78e-47f6-4d63-8cf8-b91a887bafd0.png",
+      "prompt": "Correct this literary watercolor-and-ink place illustration. The small plain bishop's house in the center must have TWO occupied levels: ground floor with its simple entrance, one full upper floor with three modest chamber windows, and a small attic above under the tiled roof. Keep it a modest house, substantially shorter and plainer than the adjacent tall palace wall. Keep the warm cream-paper style, quiet early nineteenth-century southern French square and empty scene. No people, readable signs, modern fittings or elaborate palace ornament. Source chapter6 explicitly states ground floor, one storey above and an attic. Do not retain the single-storey cottage."
+    },
+    {
+      "key": "digne-bishop-house-gateway",
+      "original": "exec-e62db78e-47f6-4d63-8cf8-b91a887bafd0.png",
+      "selected": "exec-c46e6e54-1dab-42fd-a782-f43e34ffdaef.png",
+      "reason": "Remove keyhole and knocker; retain only simple thumb-latch per6:20."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch four in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "e351e53e50ee80f01f98360efbc6d97348ff342388499efecd6936d8def4adfd",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "bas-boulonnais",
+      "imageId": "lesmis-world-review-art-locations-bas-boulonnais-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "hesdin-inn-front",
+      "imageId": "lesmis-world-review-art-locations-hesdin-inn-front-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "saint-pol-inn",
+      "imageId": "lesmis-world-review-art-locations-saint-pol-inn-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "tinques-road",
+      "imageId": "lesmis-world-review-art-locations-tinques-road-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "carency-arras-detour",
+      "imageId": "lesmis-world-review-art-locations-carency-arras-detour-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "moulins-college",
+      "imageId": "lesmis-world-review-art-locations-moulins-college-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "chemin-vert-fruit-seller",
+      "imageId": "lesmis-world-review-art-locations-chemin-vert-fruit-seller-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "madeleine-factory",
+      "imageId": "lesmis-world-review-art-locations-madeleine-factory-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+const exposition = (at, title, description, reason) => ({
+  at, title, description, location: null, present: [], kind: 'exposition', reason,
+})
+
+export const volumeFiveBookFirstReview = [
+  [299, [
+    exposition('start', 'The Later Barricades', 'The narrator introduces two barricades of June 1848, expressly outside the period of the main action.',
+      'Paragraphs 0–9 open Volume V with political reflection and an explicit historical departure. These are not the June 1832 works, and the narrator’s judgment of the later revolt is argument rather than a current decision by Enjolras.'),
+    exposition(10, 'Saint-Antoine’s Colossal Heap', 'The first barricade is described as an immense, improvised mass of buildings, vehicles and household debris.',
+      'Paragraphs 10–14 describe the 1848 Saint-Antoine barrier. Its three-story height, seven-hundred-foot width and nineteen rear barricades must not replace Chanvrerie’s measurements. Claims of three houses demolished are attributed to some speakers. Sisyphus, Job and Sinai are analogies, not participants or locations of the main action.'),
+    exposition(15, 'The Silent Wall of the Temple', 'The second barricade appears as a precisely built stone wall above a deserted approach.',
+      'Paragraphs 15–18 locate the later Temple barricade beyond the canal. Its second-story height belongs to this site, not Corinthe. A geometrician or spectre describes the observer’s impression, not a confirmed supernatural builder.'),
+    exposition(19, 'The Hidden Fire', 'The narrator recalls lethal fire from the Temple barricade, improvised cannon and the attackers sheltering by the canal.',
+      'Paragraphs 19–25 record the historical fighting, including Monteynard’s fall and the eventual capture through houses and roofs. His fall is not independently called death here. The reported eighty defenders, ten thousand attackers and all-but-one deaths belong to 1848, not the novel’s 1832 cast. The butterfly is part of the narrator’s recollection.'),
+    exposition(26, 'Two Works and Two Builders', 'The contrast between the barriers is associated with Cournet and Barthélemy, whose temperaments are then sketched.',
+      'Paragraphs 26–30 name the respective builders and recount Barthélemy’s earlier conviction. Cournet is distinct from Courfeyrac; Barthélemy is not identified with the earlier tavern bearing that name. Dragon, sphinx, tempest and Hercules remain comparisons.'),
+    exposition(31, 'Their Later Ends', 'The interlude closes with Barthélemy’s killing of Cournet in London and his own later execution.',
+      'Paragraph 31 narrates events still later than the 1848 barricades. The duel and hanging are historical biography, not events during the Chanvrerie siege. No specific date or account of the intervening catastrophe is supplied here; do not fill those gaps from conjecture.'),
+  ]],
+  [300, [
+    { at: 'start', title: 'The Night’s Repairs', description: 'Returning to 1832, the narrator recounts the strengthened barrier, reorganized rooms and gathered supplies.', location: 'chanvrerie-barricade', kind: 'reported', present: [],
+      reason: 'Paragraphs 0–5 explicitly return from the 1848 comparison. The barrier is raised two feet beyond its earlier height; no twenty-foot structure exists yet. Dead are moved to Mondétour, and uniforms from four dead suburban National Guards are reserved. Only three or four follow the sleep order.', mentioned: ['enjolras', 'marius'] },
+    { at: 6, title: 'The Inscription and the Departures', description: 'Feuilly engraves his slogan, and the three women find refuge in a neighboring house.', location: 'corinthe', kind: 'reported', present: [],
+      reason: 'Paragraphs 6–10 actually confirm the women’s departure from Corinthe after their earlier cellar refuge. Feuilly’s inscription is made during the respite; its visibility in 1848 is later hindsight.', mentioned: ['feuilly', 'widow-hucheloup', 'matelote', 'gibelotte'] },
+    { at: 11, title: 'The Wounded in the Kitchen', description: 'Five gravely wounded men lie in the kitchen, with the two Municipal Guards treated first.', location: 'corinthe-kitchen', kind: 'reported', present: [],
+      reason: 'Paragraph 11 surveys the unnamed wounded and their treatment. These men are background casualties, not automatically identified with the named defenders.' },
+    { at: 12, title: 'The Hall of the Dead', description: 'Enjolras names the room where the bound Javert stands before the table holding Mabeuf’s body.', location: 'corinthe-taproom', kind: 'scene',
+      reason: 'Paragraphs 12–14 stage a room distinct from the kitchen. The cross image does not kill Javert; Mabeuf’s death has already been established.', present: [
+        ['enjolras', 'Calls the tap-room the hall of the dead while the prisoner stands before the mortuary table.'],
+        ['javert', 'Remains alive and bound to the post in front of the dead man’s table.'],
+        ['mabeuf', 'Lies dead beneath the black cloth on the table behind Javert.'],
+      ] },
+    { at: 15, title: 'The Coat on the Pole', description: 'Enjolras fastens Mabeuf’s pierced coat to the surviving omnibus pole.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 15–16 move outside and complete the earlier promise. The coat is mounted on the damaged pole; no new death occurs.', present: [
+        ['enjolras', 'Attaches the bloodied, bullet-riddled coat to the still-upright omnibus pole.'],
+      ], items: ['mabeuf-bloodied-coat'] },
+    { at: 17, title: 'Hunger and the Reserved Bottles', description: 'Food is exhausted, Enjolras restricts drinking, and fifteen sealed bottles are set beneath Mabeuf’s table.', location: 'corinthe-taproom', kind: 'scene',
+      reason: 'Paragraphs 17–20 do not identify the sealed contents beyond the speakers’ guesses. Grantaire remains asleep. Jeanne’s three-and-four-o’clock reply belongs to the separate Saint-Merry site, not Chanvrerie’s timetable. Thirty-seven remain at the two-o’clock reckoning.', timeHint: 'Early June 6, 1832; strength counted about two in the morning', mentioned: ['grantaire', 'mabeuf'], present: [
+        ['enjolras', 'Forbids wine, portions brandy and reserves the fifteen sealed bottles.'],
+        ['combeferre', 'Examines the bottles and attributes them to the old grocery stock.'],
+        ['bossuet', 'Speculates that the bottles contain real wine.'],
+      ] },
+    { at: 21, title: 'Dawn Over the Dead Porter', description: 'The torch goes out as daylight reaches the roofs, and the defenders begin talking.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 21–25 keep the porter dead at the third-floor window. Courfeyrac’s comparison of trembling light with cowardice and Joly’s cat philosophy are conversation, not supernatural causation or new battle action.', present: [
+        ['courfeyrac', 'Tells Feuilly he welcomes the torch’s extinction.'],
+        ['feuilly', 'Hears Courfeyrac’s remark as daylight grows.'],
+        ['joly', 'Notices a cat in a gutter and turns it into a philosophical joke.'],
+      ], mentioned: ['chanvrerie-tall-house-porter'] },
+    { at: 26, title: 'Remorse, Poetry and Antiquity', description: 'Combeferre discusses the dead, civic killing and poetry, while Bossuet answers with a longing for ancient Greek recitation.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 26–31 now list Prouvaire among the dead, confirming the earlier conclusion. Historical figures remain subjects of conversation. Bossuet holds a rifle atop stones; no shot or new injury occurs.', mentioned: ['jean-prouvaire', 'bahorel', 'mabeuf', 'le-cabuc', 'enjolras'], present: [
+        ['combeferre', 'Moves from mourning and remorse to translations of the Georgics and the death of Caesar.'],
+        ['bossuet', 'Calls out from a heap of paving-stones with rifle in hand.'],
+      ] },
+  ]],
+  [301, [
+    { at: 'start', title: 'Hopes During the Reconnaissance', description: 'Enjolras scouts beyond Mondétour while the defenders forecast a regiment’s defection and a citywide rising.', location: 'chanvrerie-barricade', kind: 'reported', present: [],
+      reason: 'Paragraphs 0–3 distinguish actual reconnaissance from predictions of six-o’clock, noon and sunset success. The Saint-Merry bell is taken as evidence of continued resistance there, not a message promising aid.', mentioned: ['enjolras'] },
+    { at: 4, title: 'You Are Abandoned', description: 'Enjolras returns and reports approaching forces and the absence of any help from the populace or regiments.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 4–7 deliver his reconnaissance assessment and one-hour attack estimate. This overturns the defenders’ hopes without recording the next attack as already begun. His eagle flight is metaphor.', present: [
+        ['enjolras', 'Names the troops he has seen and tells the defenders no relief is coming.'],
+      ] },
+    { at: 8, title: 'The Unknown Voice Resolves to Stay', description: 'An unnamed worker calls for staying and raising the barrier, and the group responds with acclamation.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 8–13 explicitly leave the speaker’s name unknown. Twenty feet is a proposed height, not a finished measurement. The parallel Saint-Merry cry is separately documented; the claim of communication does not describe a physical messenger or signal between sites.', present: [
+        ['chanvrerie-unknown-resolve-speaker', 'Calls for remaining to the end and raising the barricade higher.'],
+      ] },
+  ]],
+  [302, [
+    { at: 'start', title: 'Not Everyone Must Remain', description: 'Enjolras argues against needless deaths and points out the still-open route toward the Halles.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–14 contrast the crowd’s resolve with the leader’s economy of lives. The reported danger of capture in working clothes is an objection, not an arrest or execution. Enjolras explicitly confirms Mondétour and Prêcheurs remain passable.', present: [
+        ['enjolras', 'Insists that thirty suffice and that others should fulfil the duty of departure.'],
+      ] },
+    { at: 15, title: 'Four Uniforms and the Families Outside', description: 'Enjolras and Combeferre fetch the reserved uniforms, and Combeferre appeals for those with dependants to leave.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 15–21 actually bring four uniforms with belts and shakos from the taproom. The watched window may contain someone’s mother, not an identified relative. The child at Necker is Combeferre’s recalled case, not a child currently present. His own anticipated death is not yet completed.', present: [
+        ['enjolras', 'Lays out the four reserved uniforms as disguises for escape.'],
+        ['combeferre', 'Carries the belts and shakos and urges consideration for mothers and children.'],
+      ] },
+    { at: 22, title: 'Choose Those Who Must Leave', description: 'Marius joins the appeal, and the defenders select five men whose families depend on them.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 22–35 distinguish Enjolras as head and Marius as savior. Five are unanimously selected, not yet departed. The men identify one another’s responsibilities, rather than volunteering through fear.', present: [
+        ['marius', 'Emerges from his absorption to plead for the family supporters’ departure.'],
+        ['enjolras', 'Orders selection and asks the defenders to designate the men themselves.'],
+        ['courfeyrac', 'Urges haste before the route becomes too dangerous.'],
+      ] },
+    { at: 36, title: 'Five Men, Four Disguises', description: 'The selected men each offer to stay, and Marius is asked to choose the one without a uniform.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 36–49 leave the five unnamed. Quoted family circumstances do not support assigning them to named friends. Marius does not select a man to remain before the interruption.', present: [
+        ['marius', 'Counts the five and recoils from deciding which one must stay.'],
+        ['courfeyrac', 'Repeats the demand for speed.'],
+      ] },
+    { at: 50, title: 'The Fifth Uniform', description: 'Valjean arrives through Mondétour and silently adds his coat to the four uniforms.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 50–56 explicitly establish Valjean’s arrival and gift. His route to Mondétour is left to inquiries, instinct or chance; do not invent a guide. The sentinel permits entry rather than capturing him. Marius recognizes M. Fauchelevent, not the convict identity.', items: ['valjean-national-guard-equipment'], present: [
+        ['valjean', 'Enters in National Guard dress, removes his coat and throws it onto the pile.'],
+        ['marius', 'Recognizes Cosette’s father as the source of the fifth disguise.'],
+      ] },
+    { at: 57, title: 'A Welcome and a Warning', description: 'The friends accept Marius’s guarantee, and Valjean helps the fifth man into his uniform.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 57–67 show the disguise being donned but not the five men’s completed escape. Enjolras’s warning that they will die is a forecast; Valjean does not state his purpose in reply. Combeferre praises saving others without learning Valjean’s history.', present: [
+        ['bossuet', 'Asks who the newcomer is.'],
+        ['combeferre', 'Describes him as a man who saves others.'],
+        ['marius', 'Vouches that he knows the newcomer.'],
+        ['enjolras', 'Welcomes the citizen and warns of the expected death.'],
+        ['valjean', 'Answers by helping the selected man put on his uniform.'],
+      ] },
+  ]],
+  [303, [
+    exposition('start', 'The Broadening of Enjolras', 'The narrator describes Combeferre’s influence on Enjolras’s movement from a narrowly French republic toward a human republic.',
+      'Paragraphs 0–1 combine characterization with his stance on the stone steps. Saint-Just and Cloots are comparisons, not present advisers. The source’s Eighty-three wording remains unchanged; prophetic breaths and angelic imagery are figurative.'),
+    { at: 2, title: 'The Radiance of the Future', description: 'Enjolras addresses the defenders with a vision of education, equality, peace and human solidarity.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 2–3 preserve the complete speech and its quiet aftermath. The twentieth-century happiness and disappearance of war are his vision, not established future facts. Hydra, griffin and chimera stand for technology; Feuilly’s imminent death is anticipated, not performed. The barricade’s ideas and woes do not replace its physical materials.', present: [
+        ['enjolras', 'Speaks from the barricade steps and pauses with his lips still moving.'],
+        ['feuilly', 'Is directly addressed and honored as an artisan whose cause is humanity.'],
+      ] },
+  ]],
+  [304, [
+    exposition('start', 'Marius Does Not Ask', 'The narrator explains why Marius neither questions Valjean’s presence nor approaches him.',
+      'Paragraphs 0–5 describe despair and social hesitation, not death or a conversation with Cosette’s father. Valjean does not answer or look at Marius. Marius knows him as Fauchelevent and does not learn his past.'),
+    { at: 6, title: 'The Five Depart', description: 'The five selected men embrace those remaining and leave by Mondétour in National Guard disguise.', location: 'mondetour-open-approach', kind: 'reported', present: [],
+      reason: 'Paragraphs 6–7 now complete departure from the barricade. Resemblance to guards is disguise, not enlistment. No subsequent passage through the army lines or arrival at their homes is shown.' },
+    { at: 8, title: 'Water for the Prisoner', description: 'Enjolras gives Javert water, and the prisoner asks to be laid on a table instead of kept against the post.', location: 'corinthe-taproom', kind: 'scene',
+      reason: 'Paragraphs 8–17 keep Javert alive while execution is deferred. Enjolras actually helps him drink because his hands remain bound. The free ammunition table is distinct from Mabeuf’s mortuary table; all powder used refers to this preparation, not proof that every cartridge has been fired.', mentioned: ['mabeuf'], present: [
+        ['enjolras', 'Offers water and helps the bound prisoner drink.'],
+        ['javert', 'Asks about his death, drinks and requests a less uncomfortable position.'],
+      ] },
+    { at: 18, title: 'Javert Recognizes Valjean', description: 'The guards move Javert to the table under tighter restraints, and he recognizes Valjean watching from the threshold.', location: 'corinthe-taproom', kind: 'scene',
+      reason: 'Paragraphs 18–21 unfasten Javert from the post without freeing him. His hands stay tied, his feet are hobbled and further ropes secure him to the table. He explicitly recognizes Jean Valjean; no spoken explanation shares that history with Marius or the defenders.', present: [
+        ['javert', 'Is transferred under guard and recognizes the man whose shadow falls from the doorway.'],
+        ['valjean', 'Watches Javert’s rebinding attentively from the threshold.'],
+      ] },
+  ]],
+  [305, [
+    { at: 'start', title: 'The Last Open Branch Closed', description: 'All sentinels return, the works rise further and Enjolras closes the formerly open Mondétour route.', location: 'chanvrerie-barricade', kind: 'reported', present: [],
+      reason: 'Paragraphs 0–5 actually close the route that earlier allowed escape and entry. Three fronts now have no exit; the exact final height is not supplied. About thirty spare paving-stones are piled near the tavern, and brandy is distributed.', mentioned: ['enjolras', 'courfeyrac', 'bossuet'] },
+    exposition(6, 'Order Before Danger', 'The narrator reflects on the selection of fighting positions and the discipline brought by imminent danger.',
+      'Paragraphs 6–10 include a later 1848 marksman as an example, not a current defender. Enjolras takes his position and weapons are cocked, without firing yet. Coffins and shipwrecks are metaphors for desperate resolve.'),
+    { at: 11, title: 'The Cannon Brought Up', description: 'An artillery crew brings a cannon into position, survives the defenders’ volley unharmed and receives their applause.', location: 'rue-chanvrerie-artillery-position', kind: 'scene',
+      reason: 'Paragraphs 11–19 show the barricade firing without hitting a single gunner. The weapon is actually positioned; the gunners are not killed by this volley. Metallic jaws describe the cannon, not an animal.', present: [
+        ['enjolras', 'Orders the opening volley against the approaching cannon.'],
+        ['bossuet', 'Praises the unshaken gunners.'],
+      ] },
+    { at: 20, title: 'Waiting for the Ball', description: 'The friends discuss artillery while both sides reload.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 20–26 contain Combeferre’s technical account as spoken opinion, not independently verified engineering specifications. The possibility of bursting does not make this cannon burst. Enjolras orders reloading.', present: [
+        ['courfeyrac', 'Warns that cannon fire will test the barrier more severely.'],
+        ['combeferre', 'Identifies the gun and discusses historical artillery and ballistics.'],
+        ['bossuet', 'Adds a remark about sixteenth-century rifled cannon.'],
+        ['enjolras', 'Calls for the defenders to reload.'],
+      ] },
+    { at: 27, title: 'Gavroche Returns with the Shot', description: 'Gavroche climbs the auxiliary barrier as the first ball strikes and causes limited material damage.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 27–33 now complete his return by the Rue du Cygne side. The ball breaks an omnibus wheel and destroys Anceau’s dray but does not breach the works or cause a stated bodily casualty. The dray is not Gavroche’s impounded hand-cart.', present: [
+        ['gavroche', 'Climbs back over the auxiliary barrier and announces his presence.'],
+        ['bossuet', 'Calls out to the artillery after the limited damage.'],
+      ] },
+  ]],
+  [306, [
+    { at: 'start', title: 'The Delivery Story', description: 'Marius questions Gavroche, who invents delivery to the porter and does not recognize Valjean when pointed out.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–13 explicitly call the porter account a lie. Cosette’s receipt is not confirmed. Gavroche genuinely fails to identify the man seen only in darkness, and Marius’s guess that Fauchelevent is republican remains conjecture.', mentioned: ['cosette', 'valjean'], present: [
+        ['marius', 'Questions the return and the delivery, then points out Cosette’s father.'],
+        ['gavroche', 'Claims he left the note with a porter and denies knowing the indicated man.'],
+      ] },
+    { at: 14, title: 'Blocked on Every Side', description: 'Courfeyrac returns Gavroche’s gun, and the child reports the forces blocking the surrounding streets.', location: 'chanvrerie-barricade', kind: 'scene', items: ['javert-captured-musket'],
+      reason: 'Paragraphs 14–18 actually return the gun to Gavroche without creating a second weapon. His route report places line troops toward Cygne, Municipal Guards at Prêcheurs and the main army in front. He does not claim the earlier escape branch remains free.', present: [
+        ['gavroche', 'Asks for his gun and describes the difficult route through the encircling forces.'],
+        ['courfeyrac', 'Has the gun returned to him.'],
+      ] },
+    { at: 19, title: 'The Grapeshot Rebound', description: 'The attackers build a low protective work and fire grapeshot before all defenders can obey Enjolras’s warning.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 19–27 confirm the ammunition after Enjolras first suspects it. The rebound at the cut kills two and wounds three, all unnamed here. Do not assign those casualties to named friends or confuse the attackers’ eighteen-inch cover with the defenders’ main height.', present: [
+        ['enjolras', 'Watches the changed gun elevation and orders heads down just before the discharge.'],
+      ] },
+    { at: 28, title: 'The Young Artilleryman', description: 'Combeferre pleads against killing the gun’s young commander, but Enjolras shoots him to delay the next discharge.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 28–38 explicitly establish the artilleryman’s death and replacement after a few minutes. Combeferre’s imagined family and love are conjectural. Brother expresses shared humanity, not biological kinship. The killing does not silence the gun permanently.', stateChanges: [{ character: 'chanvrerie-young-artillery-sergeant', isAlive: false, evidenceParagraph: 37 }], present: [
+        ['enjolras', 'Sheds a tear and fires the fatal rifle shot despite the appeal.'],
+        ['combeferre', 'Asks him to look at the young man and spare him.'],
+        ['chanvrerie-young-artillery-sergeant', 'Adjusts the gun before being shot through the breast and dying against it.'],
+      ] },
+  ]],
+  [307, [
+    { at: 'start', title: 'A Mattress Needed', description: 'The defenders seek protection from the rebounding grapeshot, but their mattresses are occupied by the wounded.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–6 identify the neighbor’s suspended mattress as a separate resource. Valjean has not yet fired or participated directly; the remembered woman’s attic is on a six-story house beyond the barrier.', present: [
+        ['enjolras', 'Orders a mattress placed against the dangerous rebound.'],
+        ['combeferre', 'Explains that the available bedding holds the wounded.'],
+        ['valjean', 'Rises from the corner post at the order.'],
+      ] },
+    { at: 7, title: 'Two Ropes Cut', description: 'Valjean borrows Enjolras’s loaded double-barrelled gun and shoots through the two supporting ropes.', location: 'chanvrerie-barricade', kind: 'scene', items: ['enjolras-borrowed-rifle'],
+      reason: 'Paragraphs 7–16 show two shots at ropes, not at the woman or the soldiers. The mattress falls outside the barrier; acquisition is not complete until it is retrieved. The borrowed weapon is distinct from Valjean’s own gun.', present: [
+        ['valjean', 'Cuts one rope with each shot and drops the mattress into the street.'],
+        ['enjolras', 'Hands over his freshly loaded double-barrelled weapon.'],
+        ['combeferre', 'Asks who will fetch the mattress from the exposed street.'],
+      ] },
+    { at: 17, title: 'Across the Fire', description: 'Valjean walks out under musketry, carries the mattress back and fixes it against the wall in the cut.', location: 'chanvrerie-barricade-cut', kind: 'scene',
+      reason: 'Paragraphs 17–20 establish actual retrieval and placement. The soldiers’ musketry continues while the cannon crew reorganizes; the defenders withhold reply to save ammunition. Valjean is not stated to be hit.', present: [
+        ['valjean', 'Crosses the exposed street, shoulders the mattress and places it out of the gunners’ sight.'],
+      ] },
+    { at: 21, title: 'No Rebound', description: 'The next grapeshot discharge strikes without the earlier rebound, and the defenders thank Valjean.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 21–25 confirm the intended protection against this discharge. The cannon is not destroyed or permanently silenced; the barricade saved describes the immediate result, not final survival.', present: [
+        ['enjolras', 'Thanks Valjean in the Republic’s name.'],
+        ['bossuet', 'Celebrates the mattress’s yielding resistance.'],
+        ['valjean', 'Receives the defenders’ thanks after the successful placement.'],
+      ] },
+  ]],
+  [308, [
+    { at: 'start', title: 'Cosette Wakes in Hope', description: 'At dawn Cosette wakes from dreams of Marius and expects him to find her.', location: 'homme-arme-cosette-room', kind: 'scene',
+      reason: 'Paragraphs 0–7 explicitly deny her knowledge of events in Paris. Marius in the dream is not a visitor. Her certainty that he received the note and will arrive is hopeful inference, not a new delivery or appointment fulfilled. The three-day interval is preserved as her account.', present: [
+        ['cosette', 'Wakes reassured, struggles to remember the explanation for Marius’s absence and rises to pray and dress.'],
+      ] },
+    exposition(8, 'The Narrator at the Chamber Door', 'The narrator pauses over the privacy of a young woman dressing and declines to describe it further.',
+      'Paragraphs 8–12 are authorial reflection. The rose and Adam belong to a quoted tale, not the room’s events; lily, star and butterfly are comparisons. This does not establish a spectator entering Cosette’s chamber.'),
+    { at: 13, title: 'A Window Without a Street View', description: 'Cosette opens the window but can see only gardens; her hope gives way to tears and returns.', location: 'homme-arme-cosette-room-window', kind: 'scene',
+      reason: 'Paragraphs 13–15 establish a back-court outlook without sight of the street. Marius coming from heaven is an association that frightens her, not evidence she knows him dead or sees an apparition.', present: [
+        ['cosette', 'Looks for a view of the street, weeps and then recovers a quiet hope.'],
+      ] },
+    { at: 16, title: 'Gates That Are Cannon', description: 'Cosette assumes her father is asleep, misidentifies distant cannon reports and watches a martin family below the window.', location: 'homme-arme-cosette-room-window', kind: 'scene',
+      reason: 'Paragraphs 16–17 keep Toussaint asleep and the lodge closed. Cosette’s belief that Valjean is sleeping is false to his known location. The narrator identifies cannon fire; Cosette hears imagined carriage gates and gains no knowledge of the battle. The birds are real, not a vision of Marius.', mentioned: ['toussaint', 'valjean', 'marius'], present: [
+        ['cosette', 'Listens without understanding the shots and gazes down into the martin’s nest.'],
+      ] },
+  ]],
+  [309, [
+    { at: 'start', title: 'Silence Under Fire', description: 'The defenders withhold fire while incoming shot damages Corinthe’s upper windows and forces their occupants back.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–4 specify material damage and withdrawal from upper firing positions, not named casualties. The silence is ammunition discipline, not absence of defenders. Gavroche and Courfeyrac mock the bombardment.', present: [
+        ['gavroche', 'Pulls faces and jokes about shot making lint.'],
+        ['courfeyrac', 'Mocks the cannon’s scattered effects.'],
+      ] },
+    { at: 5, title: 'A Watcher Above', description: 'A fireman on a neighboring roof looks directly into the defended space, and Enjolras points out the danger.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 5–6 make the watcher’s presence and view actual, while the attackers’ motive for sending him remains probable. He is distinct from the later officer who replaces him.', present: [
+        ['enjolras', 'Calls attention to the rooftop observer.'],
+        ['chanvrerie-rooftop-fireman', 'Stands with his back against a tall chimney and looks down into the barricade.'],
+      ] },
+    { at: 7, title: 'Two Helmets', description: 'Using his own gun, Valjean shoots away the fireman’s helmet and then the replacement officer’s casque, driving both away.', location: 'chanvrerie-barricade', kind: 'scene', items: ['valjean-national-guard-equipment', 'enjolras-borrowed-rifle'],
+      reason: 'Paragraphs 7–8 explicitly return Enjolras’s borrowed weapon and distinguish Valjean’s own gun. Each shot hits headgear, not the man; the title and retreat establish no killing. The roof is no longer used for observation after the warning.', present: [
+        ['valjean', 'Reloads between two precise shots that remove the observers’ headgear.'],
+        ['chanvrerie-rooftop-fireman', 'Retreats after the bullet smashes his helmet.'],
+        ['chanvrerie-rooftop-officer', 'Replaces the first observer and withdraws after losing his casque.'],
+      ] },
+    { at: 9, title: 'The Unanswered Question', description: 'Bossuet asks why Valjean spared the observer, and Valjean remains silent.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 9–10 give no spoken explanation of motive. Do not turn the silence into a confession, agreement or disclosure of his history.', present: [
+        ['bossuet', 'Asks why the man was not killed.'],
+        ['valjean', 'Does not answer the question.'],
+      ] },
+  ]],
+  [310, [
+    { at: 'start', title: 'Good by Gunshots', description: 'Bossuet notes the unanswered question, and Combeferre characterizes Valjean’s action as doing good.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–2 are a private comment between the friends, not an answer from Valjean himself.', mentioned: ['valjean'], present: [
+        ['bossuet', 'Murmurs that his question went unanswered.'],
+        ['combeferre', 'Describes the stranger as doing good by gunshots.'],
+      ] },
+    exposition(3, 'Zeal Without Discipline', 'The narrator analyzes suburban National Guard enthusiasm and improvised violence on behalf of order.',
+      'Paragraphs 3–8 mix social argument with examples. The text now explicitly attributes Prouvaire’s death to an improvised execution. Garnier’s escape from misidentification is a separate example, not his death or presence at Chanvrerie.'),
+    { at: 9, title: 'Fannicot’s Unauthorized Attack', description: 'Fannicot launches his company too early, and the defenders’ volleys drive it back into its own artillery’s fire.', location: 'rue-chanvrerie', kind: 'reported', present: [],
+      reason: 'Paragraphs 9–11 identify this company as Prouvaire’s killers. The fifteen corpses left during the retreat precede further destructive fire; do not treat fifteen as the final total. Fannicot is explicitly killed by the supporting cannon’s grapeshot, not by a named insurgent. The cannon crew lacks notice of the charge; friendly fire is not proof of deliberate execution.', mentioned: ['fannicot', 'jean-prouvaire'] },
+    { at: 12, title: 'Ammunition Spent', description: 'Enjolras condemns the waste, and the narrator contrasts the resources of insurgents and the army.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 12–13 distinguish Enjolras’s actual complaint from general analysis. The possible revolutionary reversal is a conditional example, not relief arriving at this barricade. The archangel’s sword and lion are metaphors.', present: [
+        ['enjolras', 'Complains that the rash attack kills its own men and wastes the defenders’ ammunition.'],
+      ] },
+  ]],
+  [311, [
+    { at: 'start', title: 'Paris Seems to Wake', description: 'Enjolras hears signs that briefly renew the defenders’ hope.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–2 describe a moment of perceived possibility, not verified relief reaching the position.', present: [
+        ['enjolras', 'Calls attention to sounds that seem to indicate Paris waking.'],
+      ] },
+    { at: 3, title: 'Scattered Renewals', description: 'The narrator surveys renewed resistance, arrests and attacks elsewhere in Paris.', location: null, kind: 'reported', present: [],
+      reason: 'Paragraphs 3–5 distinguish separate sites and unnamed actors. The young rifleman kills a cavalry commander and is then killed; the arrested fourteen-year-old is not identified as Gavroche. Pottery thrown from roofs is separate from Soult’s quoted memory of Saragossa.' },
+    { at: 6, title: 'The Gleam Extinguished', description: 'Troops suppress the renewed movement, and the hope heard at Chanvrerie fades.', location: 'chanvrerie-barricade', kind: 'reported', present: [],
+      reason: 'Paragraphs 6–8 explain that the delayed attacks serve to isolate the remaining barriers. Enjolras notices wounded from elsewhere but does not identify them. The brief citywide movement does not become the promised general rising.', mentioned: ['enjolras', 'courfeyrac'] },
+    { at: 9, title: 'Without Food', description: 'As the sun rises, a defender asks whether they must die hungry and receives Enjolras’s silent assent.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 9–12 show continuing hunger and a grim response, not a death already occurring or provisions arriving. The questioner remains unnamed.', present: [
+        ['enjolras', 'Nods without looking away from the street.'],
+      ] },
+  ]],
+  [312, [
+    { at: 'start', title: 'Patria', description: 'Courfeyrac and Bossuet joke under fire while Enjolras quietly names his devotion to his country.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–5 use mistress and widowhood figuratively for Enjolras’s political devotion. Patria is not a woman physically present or evidence of a hidden romantic relationship. The cannon’s cough is metaphor.', present: [
+        ['courfeyrac', 'Mocks each burst of grapeshot to sustain morale.'],
+        ['bossuet', 'Marvels at Enjolras’s courage without a mistress.'],
+        ['enjolras', 'Mutters Patria while apparently ignoring the conversation.'],
+      ] },
+    { at: 6, title: 'The Second Cannon', description: 'A second gun is placed beside the first and both bombard Chanvrerie while separate guns attack Saint-Merry.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 6–16 distinguish two guns at Chanvrerie from two at Saint-Merry. Eight-Pounder is Courfeyrac’s theatrical introduction to artillery, not a recruit. One local gun fires grape and the other ball; neither is permanently silenced.', present: [
+        ['courfeyrac', 'Announces the arrival of the new eight-pounder in an usher’s voice.'],
+      ] },
+    exposition(17, 'Driving the Defenders Inward', 'The narrator explains how balls crumble the crest while grapeshot clears the windows in preparation for an assault.',
+      'Paragraphs 17–19 distinguish actual bombardment from the projected advantage of a later charge. The tactical explanation does not establish that the barricade has already been stormed.'),
+    { at: 20, title: 'Success at a Cost', description: 'Enjolras orders fire on the gunners, then warns that the successful volleys are exhausting the cartridges.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 20–25 describe two thirds of the gunners lying under the wheels without individually distinguishing dead from wounded. Remaining men continue serving the guns at a slower rate. A quarter-hour to exhaustion is Enjolras’s estimate; Gavroche’s overhearing is qualified by it appears.', mentioned: ['gavroche'], present: [
+        ['enjolras', 'Orders concentrated fire and warns of the ammunition cost.'],
+        ['bossuet', 'Calls the reduced gunfire a success.'],
+      ] },
+  ]],
+  [313, [
+    { at: 'start', title: 'The Basket Outside', description: 'Courfeyrac discovers Gavroche gathering cartridges from dead guards outside the barrier and orders him back.', location: 'chanvrerie-barricade-exterior', kind: 'scene',
+      reason: 'Paragraphs 0–11 show Gavroche leaving by the cut with a wine-shop bottle basket. His answer does not produce a return; he moves farther into the street. Twenty corpses are now specified, distinct from the earlier fifteen counted during the charge.', items: ['gavroche-cartridge-basket'], present: [
+        ['courfeyrac', 'Calls from the barrier and warns the child about the incoming shot.'],
+        ['gavroche', 'Empties cartridge-boxes into the basket and continues outward despite the order.'],
+      ] },
+    { at: 12, title: 'Hidden by Smoke', description: 'Gavroche crawls among the first bodies and pockets a powder-flask while the smoke conceals him.', location: 'rue-chanvrerie', kind: 'scene',
+      reason: 'Paragraphs 12–18 explicitly give seven or eight boxes emptied before serious exposure. The smoke’s deliberate tactical purpose is only probable. For thirst is a joke about the powder-flask, not drinking powder or receiving water.', items: ['gavroche-cartridge-basket', 'gavroche-found-powder-flask'], present: [
+        ['gavroche', 'Moves low from body to body and takes the corporal’s powder-flask.'],
+      ] },
+    { at: 19, title: 'The Marksmen See Him', description: 'Bullets strike near Gavroche and overturn his basket; he gathers the cartridges again and answers the firing with songs.', location: 'rue-chanvrerie', kind: 'scene',
+      reason: 'Paragraphs 19–33 preserve each couplet and its translation. Early shots hit a corpse, paving and the basket, not Gavroche. He recovers the spilled cartridges; Voltaire and Rousseau are song references, not causes established by the narrative.', items: ['gavroche-cartridge-basket'], present: [
+        ['gavroche', 'Stands to sing, gathers the fallen cartridges and resumes emptying the boxes.'],
+      ] },
+    { at: 34, title: 'The First Hit', description: 'Gavroche continues evading fire until a bullet strikes him; he sits bleeding and begins another verse.', location: 'rue-chanvrerie', kind: 'scene',
+      reason: 'Paragraphs 34–37 describe agility metaphorically as fairy-like invulnerability, then explicitly undo that appearance with a wound. The first hit does not kill him: he raises his arms and sings. No exact wound location beyond the visible blood on his face is established.', stateChanges: [{ character: 'gavroche', injury: 'Struck by a bullet, falls and sits up with blood streaking his face, still conscious and singing.', evidenceParagraph: 35 }], present: [
+        ['gavroche', 'Falls at the first hit, sits up and sings the unfinished final couplet.'],
+      ] },
+    { at: 38, title: 'The Song Ends', description: 'A second bullet from the same marksman kills Gavroche before he can finish the verse.', location: 'rue-chanvrerie', kind: 'scene',
+      reason: 'Paragraph 38 explicitly ends his life after the first nonfatal hit. The marksman remains unnamed; the soul’s flight is the narrator’s death image, not a physical escape. Neither body nor basket has yet been carried back to the defenders.', stateChanges: [{ character: 'gavroche', isAlive: false, evidenceParagraph: 38 }], items: ['gavroche-cartridge-basket'], present: [
+        ['gavroche', 'Falls face downward after the second hit and moves no more.'],
+      ] },
+  ]],
+  [314, [
+    { at: 'start', title: 'The Lost Brothers in the Garden', description: 'The two younger Thénardier boys walk through the closed Luxembourg gardens, hungry and unseen by the distracted inspectors.', location: 'luxembourg-gardens', kind: 'scene',
+      reason: 'Paragraphs 0–7 explicitly identify the same children sheltered by Gavroche. Their route from a guard-house, booth or overnight hiding place remains alternative speculation. They are alive, not adopted by new guardians, and do not know of Gavroche’s death.', present: [
+        ['thenardier-younger-boy', 'Leads his brother by the hand while carrying a small stick.'],
+        ['thenardier-youngest-boy', 'Walks beside his brother and says he is hungry.'],
+      ] },
+    exposition(8, 'Beauty That Can Forget Hunger', 'The narrator contrasts the garden’s restored beauty with contemplation that ignores human suffering.',
+      'Paragraphs 8–18 are a sustained natural and philosophical interlude. June 6 about eleven is explicit; the veteran’s remark is an illustrative observation from outside the fence. Mythological references and personified nature do not create physical cast or feed the hungry boys.'),
+    { at: 19, title: 'Behind the Swan-Hutch', description: 'The brothers hide near the basin as a prosperous man and a well-fed child approach.', location: 'luxembourg-grand-basin', kind: 'scene', timeHint: 'June 6, 1832, about eleven in the morning',
+      reason: 'Paragraphs 19–28 distinguish the boys from the arriving father-and-son pair. The latter’s access by a private garden key is inferred, and identification with Marius’s earlier overheard bourgeois is only perhaps. The boy’s National Guard costume is clothing, not military service.', present: [
+        ['thenardier-younger-boy', 'Keeps with his brother behind the green swan-hutch.'],
+        ['thenardier-youngest-boy', 'Repeats his hunger while watching the approaching pair.'],
+        ['luxembourg-brioche-father', 'Leads the well-dressed child to the swans at the basin.'],
+        ['luxembourg-brioche-son', 'Carries a partly eaten brioche despite being satiated.'],
+      ] },
+    { at: 29, title: 'Compassion for the Swans', description: 'The father dismisses the ragged boys, throws his son’s unwanted cake to the swans and then hurries away at the sounds of battle.', location: 'luxembourg-grand-basin', kind: 'scene',
+      reason: 'Paragraphs 29–68 show the father throwing the brioche, not donating it to the children. His Tuileries attack and expected shower of shots are interpretations of distant sounds, not verified events. The swans have not eaten the cake before the pair leaves.', present: [
+        ['luxembourg-brioche-father', 'Calls the boys anarchy, tosses the cake into the water and leads his son away.'],
+        ['luxembourg-brioche-son', 'Rejects the stale cake and regrets not seeing the swans eat it.'],
+        ['thenardier-younger-boy', 'Waits near the basin while the prosperous pair withdraws.'],
+        ['thenardier-youngest-boy', 'Remains hungry beside his brother.'],
+      ] },
+    { at: 69, title: 'The Larger Share', description: 'Once the pair is out of sight, the elder brother fishes out the brioche and divides it with the younger.', location: 'luxembourg-grand-basin', kind: 'scene',
+      reason: 'Paragraphs 69–72 actually retrieve the cake before the swans reach it. The elder risks falling but does not fall into the water. He keeps the small portion and gives the large one away; the fatherhood in the title describes protective conduct, not changed biological parentage.', present: [
+        ['thenardier-younger-boy', 'Leans over the curb, retrieves the wet brioche with his stick and takes the smaller share.'],
+        ['thenardier-youngest-boy', 'Receives the larger portion from his brother.'],
+      ] },
+  ]],
+  [315, [
+    { at: 'start', title: 'The Child and the Basket Brought Back', description: 'Marius carries Gavroche inside while Combeferre retrieves the cartridges, and Courfeyrac binds Marius’s grazed brow.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–5 explicitly confirm Gavroche is dead and place him beside Mabeuf beneath the shawl. Marius’s thought that Thénardier saved his father remains his inherited belief, not a revision of the earlier robbery. The bullet graze occurs during lifting, not a new shot at the table.', stateChanges: [{ character: 'marius', injury: 'Bullet grazed his head while lifting Gavroche; Courfeyrac bandages his brow with a cravat.', evidenceParagraph: 3 }], present: [
+        ['marius', 'Returns bloodied with Gavroche’s body after the unnoticed graze.'],
+        ['combeferre', 'Brings the recovered cartridge basket into the redoubt.'],
+        ['courfeyrac', 'Uses his cravat to bandage Marius’s brow.'],
+        ['gavroche', 'Is laid dead beside Mabeuf under the black shawl.'],
+      ], mentioned: ['mabeuf', 'thenardier', 'pontmercy'], items: ['gavroche-cartridge-basket'] },
+    { at: 6, title: 'Fifteen Rounds Refused', description: 'Combeferre distributes the recovered cartridges, but Valjean refuses his share.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 6–13 establish fifteen rounds per offered share, not unlimited replenishment. Valjean refuses the cartridges, not the defense of the position; Enjolras makes that distinction aloud.', present: [
+        ['combeferre', 'Distributes the ammunition and remarks on Valjean’s refusal.'],
+        ['valjean', 'Shakes his head when offered fifteen cartridges.'],
+        ['enjolras', 'Replies that the man defends the barricade despite not fighting as the others do.'],
+        ['courfeyrac', 'Contrasts him with Mabeuf.'],
+      ], items: ['gavroche-cartridge-basket'] },
+    exposition(14, 'Calm Within the Convulsion', 'The narrator reflects on quiet intervals inside a barricade under fire.',
+      'Paragraph 14 mixes general recollection and the current position. The bachelor-breakfast anecdote is not a new meal served at Corinthe; the Spartan sacrifice is an image for Enjolras.'),
+    { at: 15, title: 'Work During the Respite', description: 'The defenders tend wounds, make cartridges from the recovered powder and arrange their weapons while Marius thinks of his father.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraph 15 has simultaneous activities in the kitchen and redoubt, not a single table gathering. The crusts are a newly found scant remnant, not a replenished food supply. Another planet is Bossuet’s death joke; Marius’s father is a thought, not physically present.', items: ['gavroche-found-powder-flask'], mentioned: ['pontmercy'], present: [
+        ['combeferre', 'Dresses wounds while wearing an apron.'],
+        ['bossuet', 'Makes cartridges with Feuilly and jokes about another planet.'],
+        ['feuilly', 'Uses the powder Gavroche found to prepare more cartridges.'],
+        ['courfeyrac', 'Arranges his sword-cane, gun, pistols and cudgel near Enjolras.'],
+        ['enjolras', 'Remains near the prepared weapon position.'],
+        ['valjean', 'Stares silently at the opposite wall.'],
+        ['joly', 'Examines his tongue in the widow’s mirror.'],
+        ['marius', 'Worries about the imagined judgment of his father.'],
+      ] },
+  ]],
+  [316, [
+    exposition('start', 'The Dreamlike War', 'The narrator reflects on the altered perception and memory of people within a barricade.',
+      'Paragraphs 0–5 are general psychological framing. Apocalypse, sphinxes and phantoms are figures; memory uncertainty does not erase events or create supernatural participants.'),
+    { at: 6, title: 'Noon and the Final Works', description: 'As sappers appear, Enjolras orders stones carried upstairs and prepares Corinthe for a final defense.', location: 'corinthe', kind: 'scene', timeHint: 'Noon, June 6, 1832',
+      reason: 'Paragraphs 6–20 actually fortify the windows, move the sealed bottles upstairs and stop the outlet. The bottles’ contents remain unnamed. Both cannons now fire ball at the main barrier; the tavern is an inner stronghold, not a literal dungeon newly built.', present: [
+        ['combeferre', 'Identifies the striking hour as midday.'],
+        ['enjolras', 'Orders the stones up and directs the final arrangements.'],
+        ['feuilly', 'Plans loopholes in the half-height window walls.'],
+        ['bossuet', 'Asks who is to drink the reserved bottles.'],
+      ] },
+    { at: 21, title: 'Twenty-Six Still on Foot', description: 'Marius takes the lookout while Enjolras secures the wounded and allocates defenders and weapons.', location: 'corinthe-taproom', kind: 'scene',
+      reason: 'Paragraphs 21–32 give twenty-six mobile combatants and thirty-four guns, not twenty-six total people alive. Twenty are assigned below and six to upper loopholes. Cutting the stair is prepared with two axes and a pole-axe, not yet done. The kitchen door is nailed to protect the wounded.', present: [
+        ['enjolras', 'Issues the internal orders and has the kitchen door secured.'],
+        ['feuilly', 'Reports available tools and guns and answers for the defenders.'],
+        ['marius', 'Takes the crest lookout under the leaders’ division of duties.'],
+      ] },
+    { at: 33, title: 'Valjean Requests the Prisoner', description: 'Enjolras orders Javert’s eventual execution, and Valjean asks to perform it and receives the prisoner and pistol.', location: 'corinthe-taproom', kind: 'scene',
+      reason: 'Paragraphs 33–56 grant possession but do not kill Javert. The small Mondétour barrier is described as scalable and four feet high despite the blocked routes. Valjean’s request states an apparent intention; the chapter does not yet show what he will actually do.', present: [
+        ['enjolras', 'Leaves a pistol and authorizes Valjean to take the spy.'],
+        ['valjean', 'Claims the requested recompense, sits by the captive and cocks the pistol.'],
+        ['javert', 'Acknowledges the request with the words that is just.'],
+      ] },
+    { at: 57, title: 'The Trumpets Sound', description: 'Marius warns from above and the insurgents rush out while Javert taunts their expected fate.', location: 'corinthe-taproom', kind: 'scene',
+      reason: 'Paragraphs 57–63 end with the defenders leaving the room for the alarm, not Javert being shot. His prediction of meeting them shortly is a taunt, not confirmation of anyone’s death.', present: [
+        ['marius', 'Calls a warning from the crest at the trumpet blast.'],
+        ['enjolras', 'Orders the defenders out.'],
+        ['javert', 'Laughs and predicts that their plight is no better than his.'],
+      ] },
+  ]],
+  [317, [
+    { at: 'start', title: 'Over the Small Barrier', description: 'Valjean loosens Javert from the table and leads him, still partly bound, across the little Mondétour barrier.', location: 'mondetour-small-barricade', kind: 'scene',
+      reason: 'Paragraphs 0–6 loosen the body rope only; wrists, feet and martingale remain until the later cutting. Marius sees their passage, but the other defenders face outward. Crossing a scalable barrier does not reopen the whole route for the defenders.', mentioned: ['marius'], present: [
+        ['valjean', 'Leads the hobbled prisoner with pistol in hand and helps him over the small works.'],
+        ['javert', 'Obeys and crosses with short steps constrained by the remaining bonds.'],
+      ] },
+    { at: 7, title: 'Alone Beside Éponine', description: 'Hidden from the defenders by a corner, the two men pause near Éponine’s body and Javert invites revenge.', location: 'mondetour-lane-outside', kind: 'scene',
+      reason: 'Paragraphs 7–13 keep Éponine dead and place her body outside, distinct from Gavroche and Mabeuf inside. Javert says only that he thinks he knows the girl; no certainty or new identification for others is established. The look interpreted by the narrator is not spoken disclosure.', mentioned: ['eponine'], present: [
+        ['javert', 'Glances at the dead girl and tells Valjean to take revenge.'],
+        ['valjean', 'Places the pistol under his arm and looks steadily at his captive.'],
+      ] },
+    { at: 14, title: 'The Cords Cut', description: 'Valjean uses his knife to cut Javert’s remaining bonds and declares him free.', location: 'mondetour-lane-outside', kind: 'scene',
+      reason: 'Paragraphs 14–18 explicitly free the prisoner rather than stab him. Javert’s assumption about the clasp-knife is disproved by the action. No defender witnesses the release.', present: [
+        ['valjean', 'Cuts the neck, wrist and foot cords and releases Javert.'],
+        ['javert', 'Starts in astonishment and remains momentarily motionless.'],
+      ] },
+    { at: 19, title: 'An Address Freely Given', description: 'Valjean tells Javert the Fauchelevent name and his address, which Javert repeats.', location: 'mondetour-lane-outside', kind: 'scene',
+      reason: 'Paragraphs 19–27 directly give Javert the alias and No. 7 Rue de l’Homme Armé. Valjean’s doubt about survival is a forecast, not a death. Marius and Enjolras do not hear this private exchange.', present: [
+        ['valjean', 'Gives his current name and lodging in case he survives.'],
+        ['javert', 'Warns him and repeats the name and number.'],
+      ] },
+    { at: 28, title: 'A Shot into the Air', description: 'Javert leaves toward the Halles; after he disappears, Valjean fires upward and returns saying it is done.', location: 'mondetour-lane-outside', kind: 'scene',
+      reason: 'Paragraphs 28–36 show Javert alive as he turns into Rue des Prêcheurs. His request to be killed is refused. The pistol shot is explicitly into the air after departure, not at Javert; it does not confirm an execution.', present: [
+        ['javert', 'Walks away, turns to ask for death instead and finally disappears around the corner.'],
+        ['valjean', 'Sends him away, fires into the air and returns to the barricade.'],
+      ] },
+    { at: 37, title: 'What Marius Hears', description: 'The narrator returns to Marius recognizing the prisoner and asking Enjolras for his name just before the report.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 37–56 replay overlapping time, not a second departure or shot. Enjolras confirms Javert’s name, resolving Marius’s tentative recognition. Neither sees the release beyond the corner. Marius’s chill follows the report and Valjean’s words, not knowledge that Javert has actually died.', present: [
+        ['marius', 'Recalls the inspector who gave him the pistols and asks for confirmation of his name.'],
+        ['enjolras', 'Answers that the police agent is Javert.'],
+        ['valjean', 'Reappears after the shot with the words it is done.'],
+      ] },
+  ]],
+  [318, [
+    exposition('start', 'Closed Houses Before the Assault', 'The narrator frames the impending last struggle through the silent houses and the difference between supported and abandoned insurrections.',
+      'Paragraphs 0–4 pause before the final attack. Houses are personified as judges but contain living families; their tomb-like appearance does not establish deaths inside. General examples of refused shelter are not newly identified encounters for the principal cast.'),
+    exposition(5, 'The Pace of Peoples', 'The argument considers responsibility for abandonment and the intermittent advance of progress.',
+      'Paragraphs 5–18 are philosophical exposition. The recalled conversation with Gérard de Nerval is a separate authorial memory, not a visitor at Chanvrerie. Progress sleeping, growing and awakening is personification; its predicted advance is not a guarantee about the imminent battle.'),
+    exposition(19, 'Violence and the Vanquished', 'The narrator criticizes the violence used by Utopia while defending compassion for defeated idealists and urging peaceful remedies.',
+      'Paragraphs 19–25 distinguish admiration from approval of every means. The general statement that insurrection shoots spies does not reverse Javert’s actual release. Brown, Washington, Pisacane and Garibaldi are historical comparisons, not current participants.'),
+    exposition(26, 'The Ideal and the People’s Consent', 'The essay distinguishes accepted revolutions from refused ones and explains the broader aim attributed to the insurgents of 1832.',
+      'Paragraphs 26–33 discuss political motives and public reluctance. The first-person plural expresses an argumentative collective voice, not a new roster or dialogue. Thermopylae and shipwrecks are analogies rather than changes of setting.'),
+    exposition(34, 'Art, Science and a Nation’s Relapses', 'The narrator links imagination and scientific precision with civilization while describing national advances and retreats.',
+      'Paragraphs 34–43 preserve the source’s national judgments as the narrator’s historical and political claims. Greece’s torch, Eden reconstructed by algebra, eclipses and resurrection are metaphors, not literal technological or supernatural events. No nation-level game state is inferred from this rhetoric.'),
+    exposition(44, 'The Book’s Declared Movement', 'Before returning to combat, the narrator states the work’s guiding movement from injustice and appetite toward conscience and the soul.',
+      'Paragraphs 44–48 are an authorial interpretation of the entire novel, not a new scene or completed resolution. The hydra and angel describe its moral arc and do not add creatures to the world.'),
+  ]],
+  [319, [
+    { at: 'start', title: 'The Charge Repulsed', description: 'The attacking column charges in daylight, briefly overruns the crest and is forced back before returning fire.', location: 'chanvrerie-barricade', kind: 'reported', present: [],
+      reason: 'Paragraphs 0–6 describe actual repeated combat and unnamed casualties. Boa, hurricane, lion, foam and lightning are comparisons. The first repulse is not final victory or the end of the assault.' },
+    { at: 7, title: 'Two Ends of the Barrier', description: 'Enjolras fights from shelter while Marius exposes himself, and the friends trade remarks about lost hats and absent allies.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 7–16 place the leaders at different ends, not side by side. Enjolras brings down three soldiers whose names and individual final states are not supplied. Feuilly’s cited allies remain unnamed in the text; their promised help has not arrived.', present: [
+        ['enjolras', 'Fights from his protected embrasure while directing the defense.'],
+        ['marius', 'Exposes much of his body above the works as he fires.'],
+        ['courfeyrac', 'Jokes that cannon-balls have taken his hat.'],
+        ['bossuet', 'Asks about Courfeyrac’s missing hat.'],
+        ['feuilly', 'Denounces the allies who promised aid and failed to come.'],
+        ['combeferre', 'Replies that some observe honor only from far away.'],
+      ] },
+    { at: 17, title: 'Assault After Assault', description: 'The attackers renew their pressure while hungry, wounded defenders hold the barrier with dwindling ammunition.', location: 'chanvrerie-barricade', kind: 'reported', present: [],
+      reason: 'Paragraphs 17–25 retain the ten attacks and continuing defense without assigning a minute-by-minute sequence to every movement. General hunger and sleeplessness do not erase the previously found crusts or limited sleepers. Titans, salamanders, Troy and the Forest of Swords are epic imagery, not new beings or settings.' },
+    { at: 26, title: 'Four Friends Killed', description: 'Bossuet, Feuilly and Courfeyrac are killed; Combeferre dies of bayonet wounds while lifting a wounded soldier.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraph 26 explicitly confirms all four deaths. Only Combeferre’s immediate cause and action are specified; do not invent weapons, killers or last words for the other three. The soldier he tries to lift is unnamed and not thereby declared dead.', stateChanges: [
+        { character: 'bossuet', isAlive: false, evidenceParagraph: 26 },
+        { character: 'feuilly', isAlive: false, evidenceParagraph: 26 },
+        { character: 'courfeyrac', isAlive: false, evidenceParagraph: 26 },
+        { character: 'combeferre', isAlive: false, evidenceParagraph: 26 },
+      ], present: [
+        ['bossuet', 'Is killed in the final fighting at the works.'],
+        ['feuilly', 'Is killed during the repeated assaults.'],
+        ['courfeyrac', 'Dies in the defense of the barricade.'],
+        ['combeferre', 'Is struck three times in the breast by a bayonet while raising a wounded soldier and expires.'],
+      ] },
+    { at: 27, title: 'Wounded and Unstruck', description: 'Marius continues fighting through many wounds while Enjolras, still unhit, takes replacement weapons from the defenders.', location: 'chanvrerie-barricade', kind: 'scene',
+      reason: 'Paragraphs 27–28 distinguish Marius’s grave wounds from death and explicitly leave Enjolras unstruck. Four sword stumps are his exhausted weapons, not four bodily wounds. The Homeric roll and other epic examples belong to the narrator’s comparison, not additional casualties in this street.', stateChanges: [{ character: 'marius', injury: 'Multiple wounds, especially to the head, leave his face covered in blood while he continues fighting.', evidenceParagraph: 27 }], present: [
+        ['marius', 'Keeps fighting with his face obscured by blood from multiple wounds.'],
+        ['enjolras', 'Remains unhit and fights with arms thrust into his hands when each weapon is spent.'],
+      ] },
+  ]],
+  [320, [
+    { at: 'start', title: 'The Centre Gives Way', description: 'The final assault reaches the lowered centre and forces the defenders back.', location: 'chanvrerie-barricade', kind: 'reported', present: [],
+      reason: 'Paragraphs 0–1 now leave only Enjolras and Marius alive among the leaders, adding the confirmation of Joly’s death to the preceding named losses. The cannon’s hollow and accumulated slopes permit the successful assault; no traversable breach was previously made.', mentioned: ['enjolras', 'marius', 'courfeyrac', 'joly', 'bossuet', 'feuilly', 'combeferre'] },
+    { at: 2, title: 'The Door That Will Not Open', description: 'Desperate defenders knock and plead at the tall house, but its door remains closed beneath the dead porter’s window.', location: 'chanvrerie-tall-house', kind: 'reported', present: [],
+      reason: 'Paragraph 2 describes attempted refuge without entry. The imagined opening and escape behind the house do not happen. The porter is still dead, not consciously refusing them.' },
+    { at: 3, title: 'The Only Open Door', description: 'Enjolras protects the retreat into Corinthe, kills an advancing officer and enters last before the door slams shut.', location: 'corinthe-door', kind: 'scene',
+      reason: 'Paragraph 3 gives the officer’s actual death and the soldier’s severed fingers, but neither is named. Enjolras is last of those entering; this does not include Marius, whom the next paragraph leaves outside.', present: [
+        ['enjolras', 'Covers the defenders’ entrance with sword and rifle before crossing the threshold himself.'],
+        ['marius', 'Helps shield the retreat but does not enter with the others.'],
+      ] },
+    { at: 4, title: 'The Hand in the Swoon', description: 'Marius’s collarbone is broken by a shot and he loses consciousness as a strong hand seizes him.', location: 'corinthe-exterior', kind: 'scene',
+      reason: 'Paragraphs 4–5 leave the rescuer unidentified here. Marius’s belief that he is captured and will be shot is a thought, shared as an assumption by Enjolras, not confirmation of custody. Enjolras meanwhile secures the tavern door.', stateChanges: [{ character: 'marius', injury: 'Shot breaks his collarbone; he faints as an unidentified hand seizes him outside Corinthe.', evidenceParagraph: 4 }], present: [
+        ['marius', 'Collapses unconscious outside while thinking he has been taken prisoner.'],
+        ['enjolras', 'Notices Marius is missing inside and bolts the door under attack.'],
+      ] },
+    exposition(6, 'The False Mutilation Report', 'The narrator explains the soldiers’ anger through the artilleryman’s death and a rumor about a beheaded prisoner.',
+      'Paragraphs 6–7 identify the mutilated-prisoner claim as the sort of false report that inflames civil war. It is not evidence that the defenders beheaded a soldier; the later Transnonain reference is outside the current action.'),
+    { at: 8, title: 'The Dead Under the Shawl', description: 'Enjolras urges the remaining defenders to resist and kisses Mabeuf’s protruding hand.', location: 'corinthe-taproom', kind: 'scene',
+      reason: 'Paragraphs 8–12 keep Mabeuf and Gavroche as bodies under the same shawl. The account of only two lifetime kisses is narrator characterization; neither body returns to life.', present: [
+        ['enjolras', 'Kisses Mabeuf’s hand after calling for a costly last defense.'],
+        ['mabeuf', 'Lies dead with a hand projecting beneath the shawl.'],
+        ['gavroche', 'Remains dead beside Mabeuf on the table.'],
+      ] },
+    { at: 13, title: 'The Stair Cut, the Bottles Revealed', description: 'The attackers break in beneath the defenders, who have cut the stair and fight from above with their last cartridges and acid bottles.', location: 'corinthe', kind: 'reported', present: [],
+      reason: 'Paragraphs 13–16 now complete cutting the spiral stair and reveal the reserved bottles as aquafortis, not wine. General deaths and terrible wounds are not assigned to additional named friends without evidence. Thebes, Saragossa, demons and spectres are comparisons, not changes of site or species.' },
+  ]],
+  [321, [
+    { at: 'start', title: 'Enjolras Alone on His Feet', description: 'The attackers reach the first floor and find Enjolras still standing behind the billiard table; he accepts execution.', location: 'corinthe-first-floor', kind: 'scene',
+      reason: 'Paragraphs 0–14 describe Enjolras as still unwounded despite blood and exhausted weapons. The Apollo identification in later testimony is qualified by possibly. He discards the barrel fragment and declines a blindfold; the squad has not fired yet.', present: [
+        ['enjolras', 'Throws away his last weapon, folds his arms and acknowledges killing the artilleryman.'],
+      ] },
+    { at: 15, title: 'Grantaire Wakes', description: 'The silence around Enjolras rouses Grantaire from the drunken sleep that endured through the fighting.', location: 'corinthe-first-floor', kind: 'scene',
+      reason: 'Paragraphs 15–22 explicitly preserve Grantaire’s survival through the bombardment. Dead drunk is metaphor; he has not fought during the sleep. The narrator’s abrupt-lucidity account does not supply every unseen event as verified personal knowledge.', present: [
+        ['grantaire', 'Wakes, rises and declares himself one of the republicans.'],
+      ] },
+    { at: 23, title: 'Together Before the Guns', description: 'Grantaire joins Enjolras, asks permission and holds his hand as the squad fires on them both.', location: 'corinthe-first-floor', kind: 'scene',
+      reason: 'Paragraphs 23–30 explicitly finish both lives in the joint shooting. Enjolras remains against the wall after eight bullets and Grantaire falls at his feet; the different postures do not imply different survival. Thunderbolt is a comparison, not a supernatural cause.', stateChanges: [
+        { character: 'enjolras', isAlive: false, evidenceParagraph: 29 },
+        { character: 'grantaire', isAlive: false, evidenceParagraph: 30 },
+      ], present: [
+        ['grantaire', 'Stands beside Enjolras, asks to share his end and falls at the volley.'],
+        ['enjolras', 'Smiles, presses Grantaire’s hand and is pierced by eight bullets.'],
+      ] },
+    { at: 31, title: 'The Last Resistance Ends', description: 'Soldiers clear the attic and cellar, capture the barricade and begin searching nearby houses for fugitives.', location: 'corinthe', kind: 'reported', present: [],
+      reason: 'Paragraphs 31–32 distinguish further unnamed resistance above and below from the first-floor executions. Some thrown bodies are still alive; do not record all as immediate deaths. The shared roof fall has no separately confirmed outcome. Capture is now complete, while Marius’s location remains unresolved here.' },
+  ]],
+  [322, [
+    { at: 'start', title: 'The Hand Was Valjean’s', description: 'The narrator identifies Marius’s captor as his rescuer and recounts Valjean’s care for the wounded during the assault.', location: 'corinthe-exterior', kind: 'reported', present: [],
+      reason: 'Paragraphs 0–3 explicitly identify the seizing hand as Valjean’s. Prisoner is ironic framing, not military detention. Valjean receives only a few scratches and does not strike anyone in this phase. His possible suicidal motive is questioned by the narrator, not confirmed.', mentioned: ['valjean', 'marius'] },
+    { at: 4, title: 'A Moment Behind the Corner', description: 'Unseen by the attackers, Valjean carries Marius into the sheltered angle and sets him down while looking for escape.', location: 'corinthe-sheltered-angle', kind: 'scene',
+      reason: 'Paragraphs 4–11 show temporary cover, not a safe exit: troops watch beyond the low barrier. The chapter places Éponine’s death in this interior fold, creating an apparent spatial tension with chapter 317’s body outside the small barrier; retain and flag rather than invent movement of her body. The Polonceau escape is a memory.', mentioned: ['eponine'], present: [
+        ['valjean', 'Holds the unconscious youth out of sight, lowers him and assesses the blocked routes.'],
+        ['marius', 'Remains fainting and unable to act in the sheltered corner.'],
+      ] },
+    { at: 12, title: 'The Loosened Grating', description: 'Valjean notices an iron grating partly concealed by disturbed paving-stones and descends through it with Marius on his shoulders.', location: 'chanvrerie-sewer-grating', kind: 'scene',
+      reason: 'Paragraphs 12–14 establish an approximately two-foot-square grating loosened by the torn paving, not a magically created opening. The descent reaches a flagged floor three metres below. Marius is compared to a corpse but is not declared dead; the grating falls back and stones roll over it.', present: [
+        ['valjean', 'Clears the stones, lifts the grating and lowers himself with Marius using elbows and knees.'],
+        ['marius', 'Is carried inert on Valjean’s shoulders through the narrow shaft.'],
+      ] },
+    { at: 15, title: 'The Corridor Below', description: 'Valjean reaches the dark underground corridor with Marius still unconscious while the assault sounds faintly overhead.', location: 'chanvrerie-subterranean-corridor', kind: 'scene',
+      reason: 'Paragraphs 15–17 confirm descent completed, not escape to the open air. The convent comparison recalls an earlier refuge without transporting either character there. Marius is explicitly unconscious, not dead or awakened.', present: [
+        ['valjean', 'Stands in the silent corridor and hears the battle as a distant murmur.'],
+        ['marius', 'Remains unconscious below ground with his rescuer.'],
+      ] },
+  ]],
+]

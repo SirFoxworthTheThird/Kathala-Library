@@ -1,0 +1,56 @@
+{
+  "selected": [
+    [
+      "montreuil-parsonage-passerby",
+      "exec-58972bff-7a4c-413d-9044-3ce5476f469f.png"
+    ],
+    [
+      "orme-saint-gervais-barber",
+      "exec-9cde9fbd-7775-478d-bc8e-11e6c4dce710.png"
+    ],
+    [
+      "orme-saint-gervais-veteran",
+      "exec-c6245aa0-75a7-41a6-b9c5-d5272d166d9d.png"
+    ],
+    [
+      "petit-picpus-absent-minded-precentor",
+      "exec-2d9725e6-be77-4a78-9272-863279f76b14.png"
+    ],
+    [
+      "petit-picpus-admission-vocal-mother",
+      "exec-8b60a1cc-1fcb-4156-b0e8-7e1f27b521d5.png"
+    ],
+    [
+      "petit-picpus-history-mother",
+      "exec-c15529ed-e277-40f0-acb0-e59f651a9a47.png"
+    ],
+    [
+      "petit-picpus-porter",
+      "exec-b5db7620-0999-47ee-8641-e74131a5254b.png"
+    ],
+    [
+      "pontoise-duty-clerk",
+      "exec-770cbf7f-93db-4e59-8499-18da8c631a8b.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "montreuil-parsonage-passerby",
+      "prompt": "Keep literary ink/watercolor composition, period clothes and street. Give this unnamed onlooker a distinctly different face: long narrow CLEAN-SHAVEN face, prominent straight nose, thin lips, dark deep-set eyes, receding straight dark hair, no beard or moustache, about forty. These unspecified traits are artistic interpretation. Keep natural anatomy; no other person.",
+      "original": "exec-a1934e5a-15c3-49f4-bbc1-8d3ef7af9237.png",
+      "selected": "exec-58972bff-7a4c-413d-9044-3ce5476f469f.png"
+    },
+    {
+      "key": "orme-saint-gervais-barber",
+      "prompt": "Remove the customer and all parts of the customer completely. The SAME barber stands alone in his warm shop holding a CLOSED straight razor safely at waist level in one hand, other hand empty. Preserve his face, clothing, apron, stove, mirror and literary ink/watercolor. No other people or extra limbs.",
+      "original": "exec-19f4c292-8f69-4e49-9098-de7fa672c5d9.png",
+      "selected": "exec-9cde9fbd-7775-478d-bc8e-11e6c4dce710.png"
+    },
+    {
+      "key": "petit-picpus-admission-vocal-mother",
+      "prompt": "The source explicitly says this nun's veil is LOWERED. Lower the front black veil to cover her face completely with opaque black cloth draping naturally from brow to chest. Keep her black habit, white coif underneath, hands, candle and literary ink/watercolor. Do not expose her eyes, nose or mouth. No other changes.",
+      "original": "exec-5a052728-2217-4709-8c0b-3fa940380163.png",
+      "selected": "exec-8b60a1cc-1fcb-4156-b0e8-7e1f27b521d5.png"
+    }
+  ]
+}

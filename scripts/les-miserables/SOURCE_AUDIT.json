@@ -1,0 +1,3898 @@
+{
+  "stage": "manuscript reconstruction passed; world enrichment and release validation are separate gates",
+  "sourceEdition": "Victor Hugo, Les Misérables; Isabel F. Hapgood translation, Thomas Y. Crowell & Co., 1887; Project Gutenberg #135",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/135/pg135.txt",
+  "sourceCatalogue": "https://www.gutenberg.org/ebooks/135",
+  "rawSourceBytes": 3369207,
+  "sourceSha256": "6cf3b9d6fc5e6f733737425267d3af296d7f99f9b9fd1d255a3ab7689a6346ab",
+  "retainedSha256": "2e3a956e10c16500578ffa8eac4cd9956a765316a5ad349af15213ae544f7f79",
+  "volumes": 5,
+  "books": 48,
+  "chapters": 365,
+  "words": 568115,
+  "draftContainers": 1535,
+  "paragraphs": 13061,
+  "excludedIllustrationPlaceholders": 34,
+  "extraction": {
+    "normalization": "Original UTF-8 bytes archived; CRLF/CR to LF; trim whitespace after the final retained endnote; no line reflow, spelling changes, or internal whitespace collapse.",
+    "normalizedSourceStart": 20672,
+    "normalizedSourceEnd": 3232245,
+    "excludedPrefix": "Gutenberg header, source title/publisher display, six preliminary illustration placeholders, and duplicate table of contents.",
+    "excludedSuffix": "Gutenberg end marker, redistribution notes, and complete licence.",
+    "retainedAppendices": "Letter to M. Daelli and all 70 numbered endnotes, in the final chapter container after its narrative.",
+    "illustrationOffsetSpace": "Offsets in the extracted LF text before illustration-placeholder removal."
+  },
+  "apparatus": {
+    "letterStart": 3191642,
+    "footnotesStart": 3199003
+  },
+  "exclusions": [
+    {
+      "start": 40708,
+      "end": 40738,
+      "text": "[Illustration: The Comforter]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 236740,
+      "end": 236765,
+      "text": "[Illustration: The Fall]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 260740,
+      "end": 260765,
+      "text": "[Illustration: Awakened]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 361466,
+      "end": 361500,
+      "text": "[Illustration: Cossette Sweeping]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 529059,
+      "end": 529102,
+      "text": "[Illustration: Candlesticks Into the Fire]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 618046,
+      "end": 618091,
+      "text": "[Illustration: Father Champmathieu on Trial]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 677920,
+      "end": 677960,
+      "text": "[Illustration: Frontispiece Volume Two]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 677961,
+      "end": 677998,
+      "text": "[Illustration: Titlepage Volume Two]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 838762,
+      "end": 838806,
+      "text": "[Illustration: The Ship Orion, an Accident]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 963361,
+      "end": 963395,
+      "text": "[Illustration: The Gorbeau Hovel]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1003477,
+      "end": 1003508,
+      "text": "[Illustration: The Black Hunt]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1066953,
+      "end": 1066988,
+      "text": "[Illustration: Javert on the Hunt]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1245756,
+      "end": 1245789,
+      "text": "[Illustration: The Resurrection]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1261807,
+      "end": 1261842,
+      "text": "[Illustration: Royalist Bank-note]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1273509,
+      "end": 1273551,
+      "text": "[Illustration: Frontispiece Volume Three]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1273552,
+      "end": 1273591,
+      "text": "[Illustration: Titlepage Volume Three]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1313782,
+      "end": 1313814,
+      "text": "[Illustration: Little Gavroche]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1431651,
+      "end": 1431688,
+      "text": "[Illustration: Friends of the a B C]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1499065,
+      "end": 1499106,
+      "text": "[Illustration: Excellence of Misfortune]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1623593,
+      "end": 1623624,
+      "text": "[Illustration: Rose in Misery]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1783413,
+      "end": 1783444,
+      "text": "[Illustration: Red Hot Chisel]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1790511,
+      "end": 1790554,
+      "text": "[Illustration: Snatched up a Paving Stone]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1799817,
+      "end": 1799858,
+      "text": "[Illustration: Frontispiece Volume Four]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1799859,
+      "end": 1799897,
+      "text": "[Illustration: Titlepage Volume Four]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 1851831,
+      "end": 1851863,
+      "text": "[Illustration: A Street Orator]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 2015141,
+      "end": 2015175,
+      "text": "[Illustration: Succor from Below]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 2047426,
+      "end": 2047462,
+      "text": "[Illustration: Cosette With Letter]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 2148202,
+      "end": 2148224,
+      "text": "[Illustration: Slang]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 2469782,
+      "end": 2469823,
+      "text": "[Illustration: The Grandeurs of Despair]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 2547589,
+      "end": 2547630,
+      "text": "[Illustration: Frontispiece Volume Five]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 2547631,
+      "end": 2547669,
+      "text": "[Illustration: Titlepage Volume Five]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 3032854,
+      "end": 3032893,
+      "text": "[Illustration: Last Drop from the Cup]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 3088526,
+      "end": 3088563,
+      "text": "[Illustration: The Twilight Decline]\n",
+      "reason": "illustration placeholder, not narrative"
+    },
+    {
+      "start": 3191313,
+      "end": 3191338,
+      "text": "[Illustration: Darkness]\n",
+      "reason": "illustration placeholder, not narrative"
+    }
+  ],
+  "standaloneHeadings": [
+    326,
+    341
+  ],
+  "volumeChapterCounts": [
+    70,
+    76,
+    76,
+    76,
+    67
+  ],
+  "chapterCounts": [
+    {
+      "number": 1,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER I—M. MYRIEL",
+      "start": 0,
+      "end": 6718,
+      "words": 1187,
+      "paragraphs": 17
+    },
+    {
+      "number": 2,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER II—M. MYRIEL BECOMES M. WELCOME",
+      "start": 6718,
+      "end": 17703,
+      "words": 1762,
+      "paragraphs": 49
+    },
+    {
+      "number": 3,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER III—A HARD BISHOPRIC FOR A GOOD BISHOP",
+      "start": 17703,
+      "end": 22030,
+      "words": 781,
+      "paragraphs": 6
+    },
+    {
+      "number": 4,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER IV—WORKS CORRESPONDING TO WORDS",
+      "start": 22030,
+      "end": 38312,
+      "words": 2937,
+      "paragraphs": 35
+    },
+    {
+      "number": 5,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER V—MONSEIGNEUR BIENVENU MADE HIS CASSOCKS LAST TOO LONG",
+      "start": 38312,
+      "end": 44225,
+      "words": 1042,
+      "paragraphs": 17
+    },
+    {
+      "number": 6,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER VI—WHO GUARDED HIS HOUSE FOR HIM",
+      "start": 44225,
+      "end": 56616,
+      "words": 2221,
+      "paragraphs": 26
+    },
+    {
+      "number": 7,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER VII—CRAVATTE",
+      "start": 56616,
+      "end": 63874,
+      "words": 1278,
+      "paragraphs": 37
+    },
+    {
+      "number": 8,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER VIII—PHILOSOPHY AFTER DRINKING",
+      "start": 63874,
+      "end": 72075,
+      "words": 1479,
+      "paragraphs": 13
+    },
+    {
+      "number": 9,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER IX—THE BROTHER AS DEPICTED BY THE SISTER",
+      "start": 72075,
+      "end": 80092,
+      "words": 1483,
+      "paragraphs": 17
+    },
+    {
+      "number": 10,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER X—THE BISHOP IN THE PRESENCE OF AN UNKNOWN LIGHT",
+      "start": 80092,
+      "end": 105816,
+      "words": 4690,
+      "paragraphs": 115
+    },
+    {
+      "number": 11,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER XI—A RESTRICTION",
+      "start": 105816,
+      "end": 115379,
+      "words": 1676,
+      "paragraphs": 14
+    },
+    {
+      "number": 12,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER XII—THE SOLITUDE OF MONSEIGNEUR WELCOME",
+      "start": 115379,
+      "end": 121910,
+      "words": 1133,
+      "paragraphs": 4
+    },
+    {
+      "number": 13,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER XIII—WHAT HE BELIEVED",
+      "start": 121910,
+      "end": 130752,
+      "words": 1553,
+      "paragraphs": 12
+    },
+    {
+      "number": 14,
+      "volume": 1,
+      "book": 1,
+      "heading": "CHAPTER XIV—WHAT HE THOUGHT",
+      "start": 130752,
+      "end": 136339,
+      "words": 931,
+      "paragraphs": 10
+    },
+    {
+      "number": 15,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER I—THE EVENING OF A DAY OF WALKING",
+      "start": 136339,
+      "end": 160416,
+      "words": 4392,
+      "paragraphs": 151
+    },
+    {
+      "number": 16,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER II—PRUDENCE COUNSELLED TO WISDOM.",
+      "start": 160416,
+      "end": 168809,
+      "words": 1450,
+      "paragraphs": 22
+    },
+    {
+      "number": 17,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER III—THE HEROISM OF PASSIVE OBEDIENCE.",
+      "start": 168809,
+      "end": 179814,
+      "words": 2081,
+      "paragraphs": 51
+    },
+    {
+      "number": 18,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER IV—DETAILS CONCERNING THE CHEESE-DAIRIES OF PONTARLIER.",
+      "start": 179814,
+      "end": 187257,
+      "words": 1355,
+      "paragraphs": 22
+    },
+    {
+      "number": 19,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER V—TRANQUILLITY",
+      "start": 187257,
+      "end": 190177,
+      "words": 529,
+      "paragraphs": 19
+    },
+    {
+      "number": 20,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER VI—JEAN VALJEAN",
+      "start": 190177,
+      "end": 201956,
+      "words": 2159,
+      "paragraphs": 18
+    },
+    {
+      "number": 21,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER VII—THE INTERIOR OF DESPAIR",
+      "start": 201956,
+      "end": 218915,
+      "words": 2961,
+      "paragraphs": 39
+    },
+    {
+      "number": 22,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER VIII—BILLOWS AND SHADOWS",
+      "start": 218915,
+      "end": 223225,
+      "words": 766,
+      "paragraphs": 19
+    },
+    {
+      "number": 23,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER IX—NEW TROUBLES",
+      "start": 223225,
+      "end": 225767,
+      "words": 453,
+      "paragraphs": 7
+    },
+    {
+      "number": 24,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER X—THE MAN AROUSED",
+      "start": 225767,
+      "end": 232154,
+      "words": 1145,
+      "paragraphs": 16
+    },
+    {
+      "number": 25,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER XI—WHAT HE DOES",
+      "start": 232154,
+      "end": 240167,
+      "words": 1431,
+      "paragraphs": 27
+    },
+    {
+      "number": 26,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER XII—THE BISHOP WORKS",
+      "start": 240167,
+      "end": 246574,
+      "words": 1133,
+      "paragraphs": 58
+    },
+    {
+      "number": 27,
+      "volume": 1,
+      "book": 2,
+      "heading": "CHAPTER XIII—LITTLE GERVAIS",
+      "start": 246574,
+      "end": 265036,
+      "words": 3349,
+      "paragraphs": 85
+    },
+    {
+      "number": 28,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER I—THE YEAR 1817",
+      "start": 265036,
+      "end": 278574,
+      "words": 2303,
+      "paragraphs": 6
+    },
+    {
+      "number": 29,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER II—A DOUBLE QUARTETTE",
+      "start": 278574,
+      "end": 287603,
+      "words": 1578,
+      "paragraphs": 22
+    },
+    {
+      "number": 30,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER III—FOUR AND FOUR",
+      "start": 287603,
+      "end": 296301,
+      "words": 1473,
+      "paragraphs": 14
+    },
+    {
+      "number": 31,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER IV—THOLOMYÈS IS SO MERRY THAT HE SINGS A SPANISH DITTY",
+      "start": 296301,
+      "end": 301552,
+      "words": 901,
+      "paragraphs": 15
+    },
+    {
+      "number": 32,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER V—AT BOMBARDA’S",
+      "start": 301552,
+      "end": 307291,
+      "words": 1027,
+      "paragraphs": 12
+    },
+    {
+      "number": 33,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER VI—A CHAPTER IN WHICH THEY ADORE EACH OTHER",
+      "start": 307291,
+      "end": 310082,
+      "words": 533,
+      "paragraphs": 15
+    },
+    {
+      "number": 34,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER VII—THE WISDOM OF THOLOMYÈS",
+      "start": 310082,
+      "end": 322040,
+      "words": 2110,
+      "paragraphs": 32
+    },
+    {
+      "number": 35,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER VIII—THE DEATH OF A HORSE",
+      "start": 322040,
+      "end": 326794,
+      "words": 800,
+      "paragraphs": 37
+    },
+    {
+      "number": 36,
+      "volume": 1,
+      "book": 3,
+      "heading": "CHAPTER IX—A MERRY END TO MIRTH",
+      "start": 326794,
+      "end": 332067,
+      "words": 924,
+      "paragraphs": 42
+    },
+    {
+      "number": 37,
+      "volume": 1,
+      "book": 4,
+      "heading": "CHAPTER I—ONE MOTHER MEETS ANOTHER MOTHER",
+      "start": 332067,
+      "end": 351245,
+      "words": 3394,
+      "paragraphs": 80
+    },
+    {
+      "number": 38,
+      "volume": 1,
+      "book": 4,
+      "heading": "CHAPTER II—FIRST SKETCH OF TWO UNPREPOSSESSING FIGURES",
+      "start": 351245,
+      "end": 355939,
+      "words": 815,
+      "paragraphs": 9
+    },
+    {
+      "number": 39,
+      "volume": 1,
+      "book": 4,
+      "heading": "CHAPTER III—THE LARK",
+      "start": 355939,
+      "end": 361787,
+      "words": 1047,
+      "paragraphs": 21
+    },
+    {
+      "number": 40,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER I—THE HISTORY OF A PROGRESS IN BLACK GLASS TRINKETS",
+      "start": 361787,
+      "end": 364944,
+      "words": 560,
+      "paragraphs": 14
+    },
+    {
+      "number": 41,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER II—MADELEINE",
+      "start": 364944,
+      "end": 372654,
+      "words": 1391,
+      "paragraphs": 14
+    },
+    {
+      "number": 42,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER III—SUMS DEPOSITED WITH LAFFITTE",
+      "start": 372654,
+      "end": 379208,
+      "words": 1187,
+      "paragraphs": 13
+    },
+    {
+      "number": 43,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER IV—M. MADELEINE IN MOURNING",
+      "start": 379208,
+      "end": 384037,
+      "words": 868,
+      "paragraphs": 10
+    },
+    {
+      "number": 44,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER V—VAGUE FLASHES ON THE HORIZON",
+      "start": 384037,
+      "end": 396064,
+      "words": 2102,
+      "paragraphs": 28
+    },
+    {
+      "number": 45,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER VI—FATHER FAUCHELEVENT",
+      "start": 396064,
+      "end": 401727,
+      "words": 998,
+      "paragraphs": 49
+    },
+    {
+      "number": 46,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER VII—FAUCHELEVENT BECOMES A GARDENER IN PARIS",
+      "start": 401727,
+      "end": 404345,
+      "words": 448,
+      "paragraphs": 4
+    },
+    {
+      "number": 47,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER VIII—MADAME VICTURNIEN EXPENDS THIRTY FRANCS ON MORALITY",
+      "start": 404345,
+      "end": 410445,
+      "words": 1094,
+      "paragraphs": 15
+    },
+    {
+      "number": 48,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER IX—MADAME VICTURNIEN’S SUCCESS",
+      "start": 410445,
+      "end": 415808,
+      "words": 963,
+      "paragraphs": 20
+    },
+    {
+      "number": 49,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER X—RESULT OF THE SUCCESS",
+      "start": 415808,
+      "end": 426234,
+      "words": 1877,
+      "paragraphs": 62
+    },
+    {
+      "number": 50,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER XI—CHRISTUS NOS LIBERAVIT",
+      "start": 426234,
+      "end": 427996,
+      "words": 306,
+      "paragraphs": 11
+    },
+    {
+      "number": 51,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER XII—M. BAMATABOIS’S INACTIVITY",
+      "start": 427996,
+      "end": 433417,
+      "words": 961,
+      "paragraphs": 12
+    },
+    {
+      "number": 52,
+      "volume": 1,
+      "book": 5,
+      "heading": "CHAPTER XIII—THE SOLUTION OF SOME QUESTIONS CONNECTED WITH THE\nMUNICIPAL POLICE",
+      "start": 433417,
+      "end": 454037,
+      "words": 3814,
+      "paragraphs": 79
+    },
+    {
+      "number": 53,
+      "volume": 1,
+      "book": 6,
+      "heading": "CHAPTER I—THE BEGINNING OF REPOSE",
+      "start": 454037,
+      "end": 461050,
+      "words": 1260,
+      "paragraphs": 44
+    },
+    {
+      "number": 54,
+      "volume": 1,
+      "book": 6,
+      "heading": "CHAPTER II—HOW JEAN MAY BECOME CHAMP",
+      "start": 461050,
+      "end": 479470,
+      "words": 3281,
+      "paragraphs": 99
+    },
+    {
+      "number": 55,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER I—SISTER SIMPLICE",
+      "start": 479470,
+      "end": 485703,
+      "words": 1119,
+      "paragraphs": 17
+    },
+    {
+      "number": 56,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER II—THE PERSPICACITY OF MASTER SCAUFFLAIRE",
+      "start": 485703,
+      "end": 494879,
+      "words": 1665,
+      "paragraphs": 74
+    },
+    {
+      "number": 57,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER III—A TEMPEST IN A SKULL",
+      "start": 494879,
+      "end": 537723,
+      "words": 7778,
+      "paragraphs": 117
+    },
+    {
+      "number": 58,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER IV—FORMS ASSUMED BY SUFFERING DURING SLEEP",
+      "start": 537723,
+      "end": 544162,
+      "words": 1214,
+      "paragraphs": 54
+    },
+    {
+      "number": 59,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER V—HINDRANCES",
+      "start": 544162,
+      "end": 566757,
+      "words": 4141,
+      "paragraphs": 192
+    },
+    {
+      "number": 60,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER VI—SISTER SIMPLICE PUT TO THE PROOF",
+      "start": 566757,
+      "end": 580467,
+      "words": 2540,
+      "paragraphs": 69
+    },
+    {
+      "number": 61,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER VII—THE TRAVELLER ON HIS ARRIVAL TAKES PRECAUTIONS FOR\nDEPARTURE",
+      "start": 580467,
+      "end": 589742,
+      "words": 1659,
+      "paragraphs": 67
+    },
+    {
+      "number": 62,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER VIII—AN ENTRANCE BY FAVOR",
+      "start": 589742,
+      "end": 596828,
+      "words": 1286,
+      "paragraphs": 21
+    },
+    {
+      "number": 63,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER IX—A PLACE WHERE CONVICTIONS ARE IN PROCESS OF FORMATION",
+      "start": 596828,
+      "end": 612302,
+      "words": 2683,
+      "paragraphs": 26
+    },
+    {
+      "number": 64,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER X—THE SYSTEM OF DENIALS",
+      "start": 612302,
+      "end": 627911,
+      "words": 2828,
+      "paragraphs": 48
+    },
+    {
+      "number": 65,
+      "volume": 1,
+      "book": 7,
+      "heading": "CHAPTER XI—CHAMPMATHIEU MORE AND MORE ASTONISHED",
+      "start": 627911,
+      "end": 637078,
+      "words": 1643,
+      "paragraphs": 37
+    },
+    {
+      "number": 66,
+      "volume": 1,
+      "book": 8,
+      "heading": "CHAPTER I—IN WHAT MIRROR M. MADELEINE CONTEMPLATES HIS HAIR",
+      "start": 637078,
+      "end": 642293,
+      "words": 935,
+      "paragraphs": 33
+    },
+    {
+      "number": 67,
+      "volume": 1,
+      "book": 8,
+      "heading": "CHAPTER II—FANTINE HAPPY",
+      "start": 642293,
+      "end": 650290,
+      "words": 1488,
+      "paragraphs": 38
+    },
+    {
+      "number": 68,
+      "volume": 1,
+      "book": 8,
+      "heading": "CHAPTER III—JAVERT SATISFIED",
+      "start": 650290,
+      "end": 658337,
+      "words": 1395,
+      "paragraphs": 22
+    },
+    {
+      "number": 69,
+      "volume": 1,
+      "book": 8,
+      "heading": "CHAPTER IV—AUTHORITY REASSERTS ITS RIGHTS",
+      "start": 658337,
+      "end": 666343,
+      "words": 1451,
+      "paragraphs": 60
+    },
+    {
+      "number": 70,
+      "volume": 1,
+      "book": 8,
+      "heading": "CHAPTER V—A SUITABLE TOMB",
+      "start": 666343,
+      "end": 677723,
+      "words": 2095,
+      "paragraphs": 72
+    },
+    {
+      "number": 71,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER I—WHAT IS MET WITH ON THE WAY FROM NIVELLES",
+      "start": 677723,
+      "end": 681457,
+      "words": 676,
+      "paragraphs": 15
+    },
+    {
+      "number": 72,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER II—HOUGOMONT",
+      "start": 681457,
+      "end": 696661,
+      "words": 2718,
+      "paragraphs": 31
+    },
+    {
+      "number": 73,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER III—THE EIGHTEENTH OF JUNE, 1815",
+      "start": 696661,
+      "end": 702126,
+      "words": 990,
+      "paragraphs": 11
+    },
+    {
+      "number": 74,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER IV—A",
+      "start": 702126,
+      "end": 706364,
+      "words": 759,
+      "paragraphs": 9
+    },
+    {
+      "number": 75,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER V—THE QUID OBSCURUM OF BATTLES",
+      "start": 706364,
+      "end": 713064,
+      "words": 1131,
+      "paragraphs": 12
+    },
+    {
+      "number": 76,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER VI—FOUR O’CLOCK IN THE AFTERNOON",
+      "start": 713064,
+      "end": 719294,
+      "words": 1050,
+      "paragraphs": 8
+    },
+    {
+      "number": 77,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER VII—NAPOLEON IN A GOOD HUMOR",
+      "start": 719294,
+      "end": 731776,
+      "words": 2220,
+      "paragraphs": 13
+    },
+    {
+      "number": 78,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER VIII—THE EMPEROR PUTS A QUESTION TO THE GUIDE LACOSTE",
+      "start": 731776,
+      "end": 737327,
+      "words": 934,
+      "paragraphs": 15
+    },
+    {
+      "number": 79,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER IX—THE UNEXPECTED",
+      "start": 737327,
+      "end": 745473,
+      "words": 1392,
+      "paragraphs": 21
+    },
+    {
+      "number": 80,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER X—THE PLATEAU OF MONT-SAINT-JEAN",
+      "start": 745473,
+      "end": 756238,
+      "words": 1800,
+      "paragraphs": 27
+    },
+    {
+      "number": 81,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XI—A BAD GUIDE TO NAPOLEON; A GOOD GUIDE TO BÜLOW",
+      "start": 756238,
+      "end": 759399,
+      "words": 543,
+      "paragraphs": 9
+    },
+    {
+      "number": 82,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XII—THE GUARD",
+      "start": 759399,
+      "end": 762812,
+      "words": 584,
+      "paragraphs": 5
+    },
+    {
+      "number": 83,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XIII—THE CATASTROPHE",
+      "start": 762812,
+      "end": 768242,
+      "words": 906,
+      "paragraphs": 5
+    },
+    {
+      "number": 84,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XIV—THE LAST SQUARE",
+      "start": 768242,
+      "end": 770954,
+      "words": 443,
+      "paragraphs": 4
+    },
+    {
+      "number": 85,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XV—CAMBRONNE",
+      "start": 770954,
+      "end": 775930,
+      "words": 870,
+      "paragraphs": 12
+    },
+    {
+      "number": 86,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XVI—QUOT LIBRAS IN DUCE?",
+      "start": 775930,
+      "end": 786825,
+      "words": 1822,
+      "paragraphs": 20
+    },
+    {
+      "number": 87,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XVII—IS WATERLOO TO BE CONSIDERED GOOD?",
+      "start": 786825,
+      "end": 790773,
+      "words": 668,
+      "paragraphs": 4
+    },
+    {
+      "number": 88,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XVIII—A RECRUDESCENCE OF DIVINE RIGHT",
+      "start": 790773,
+      "end": 796557,
+      "words": 992,
+      "paragraphs": 11
+    },
+    {
+      "number": 89,
+      "volume": 2,
+      "book": 9,
+      "heading": "CHAPTER XIX—THE BATTLE-FIELD AT NIGHT",
+      "start": 796557,
+      "end": 810055,
+      "words": 2412,
+      "paragraphs": 62
+    },
+    {
+      "number": 90,
+      "volume": 2,
+      "book": 10,
+      "heading": "CHAPTER I—NUMBER 24,601 BECOMES NUMBER 9,430",
+      "start": 810055,
+      "end": 816408,
+      "words": 1094,
+      "paragraphs": 13
+    },
+    {
+      "number": 91,
+      "volume": 2,
+      "book": 10,
+      "heading": "CHAPTER II—IN WHICH THE READER WILL PERUSE TWO VERSES, WHICH ARE OF THE\nDEVIL’S COMPOSITION, POSSIBLY",
+      "start": 816408,
+      "end": 826750,
+      "words": 1837,
+      "paragraphs": 21
+    },
+    {
+      "number": 92,
+      "volume": 2,
+      "book": 10,
+      "heading": "CHAPTER III—THE ANKLE-CHAIN MUST HAVE UNDERGONE A CERTAIN PREPARATORY\nMANIPULATION TO BE THUS BROKEN WITH A BLOW FROM A HAMMER",
+      "start": 826750,
+      "end": 844310,
+      "words": 3172,
+      "paragraphs": 34
+    },
+    {
+      "number": 93,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER I—THE WATER QUESTION AT MONTFERMEIL",
+      "start": 844310,
+      "end": 851973,
+      "words": 1355,
+      "paragraphs": 15
+    },
+    {
+      "number": 94,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER II—TWO COMPLETE PORTRAITS",
+      "start": 851973,
+      "end": 863564,
+      "words": 2015,
+      "paragraphs": 24
+    },
+    {
+      "number": 95,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER III—MEN MUST HAVE WINE, AND HORSES MUST HAVE WATER",
+      "start": 863564,
+      "end": 868137,
+      "words": 827,
+      "paragraphs": 40
+    },
+    {
+      "number": 96,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER IV—ENTRANCE ON THE SCENE OF A DOLL",
+      "start": 868137,
+      "end": 871095,
+      "words": 526,
+      "paragraphs": 7
+    },
+    {
+      "number": 97,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER V—THE LITTLE ONE ALL ALONE",
+      "start": 871095,
+      "end": 882991,
+      "words": 2142,
+      "paragraphs": 29
+    },
+    {
+      "number": 98,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER VI—WHICH POSSIBLY PROVES BOULATRUELLE’S INTELLIGENCE",
+      "start": 882991,
+      "end": 893669,
+      "words": 1941,
+      "paragraphs": 39
+    },
+    {
+      "number": 99,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER VII—COSETTE SIDE BY SIDE WITH THE STRANGER IN THE DARK",
+      "start": 893669,
+      "end": 898329,
+      "words": 822,
+      "paragraphs": 81
+    },
+    {
+      "number": 100,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER VIII—THE UNPLEASANTNESS OF RECEIVING INTO ONE’S HOUSE A POOR\nMAN WHO MAY BE A RICH MAN",
+      "start": 898329,
+      "end": 933993,
+      "words": 6364,
+      "paragraphs": 227
+    },
+    {
+      "number": 101,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER IX— THÉNARDIER AND HIS MANŒUVRES",
+      "start": 933993,
+      "end": 949797,
+      "words": 2804,
+      "paragraphs": 98
+    },
+    {
+      "number": 102,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER X—HE WHO SEEKS TO BETTER HIMSELF MAY RENDER HIS SITUATION WORSE",
+      "start": 949797,
+      "end": 960012,
+      "words": 1835,
+      "paragraphs": 62
+    },
+    {
+      "number": 103,
+      "volume": 2,
+      "book": 11,
+      "heading": "CHAPTER XI—NUMBER 9,430 REAPPEARS, AND COSETTE WINS IT IN THE LOTTERY",
+      "start": 960012,
+      "end": 963004,
+      "words": 524,
+      "paragraphs": 6
+    },
+    {
+      "number": 104,
+      "volume": 2,
+      "book": 12,
+      "heading": "CHAPTER I—MASTER GORBEAU",
+      "start": 963004,
+      "end": 976718,
+      "words": 2405,
+      "paragraphs": 28
+    },
+    {
+      "number": 105,
+      "volume": 2,
+      "book": 12,
+      "heading": "CHAPTER II—A NEST FOR OWL AND A WARBLER",
+      "start": 976718,
+      "end": 979804,
+      "words": 545,
+      "paragraphs": 20
+    },
+    {
+      "number": 106,
+      "volume": 2,
+      "book": 12,
+      "heading": "CHAPTER III—TWO MISFORTUNES MAKE ONE PIECE OF GOOD FORTUNE",
+      "start": 979804,
+      "end": 988445,
+      "words": 1553,
+      "paragraphs": 29
+    },
+    {
+      "number": 107,
+      "volume": 2,
+      "book": 12,
+      "heading": "CHAPTER IV—THE REMARKS OF THE PRINCIPAL TENANT",
+      "start": 988445,
+      "end": 992993,
+      "words": 815,
+      "paragraphs": 10
+    },
+    {
+      "number": 108,
+      "volume": 2,
+      "book": 12,
+      "heading": "CHAPTER V—A FIVE-FRANC PIECE FALLS ON THE GROUND AND PRODUCES A TUMULT",
+      "start": 992993,
+      "end": 1000153,
+      "words": 1318,
+      "paragraphs": 33
+    },
+    {
+      "number": 109,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER I—THE ZIGZAGS OF STRATEGY",
+      "start": 1000153,
+      "end": 1008030,
+      "words": 1439,
+      "paragraphs": 17
+    },
+    {
+      "number": 110,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER II—IT IS LUCKY THAT THE PONT D’AUSTERLITZ BEARS CARRIAGES",
+      "start": 1008030,
+      "end": 1011353,
+      "words": 598,
+      "paragraphs": 22
+    },
+    {
+      "number": 111,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER III—TO WIT, THE PLAN OF PARIS IN 1727",
+      "start": 1011353,
+      "end": 1018132,
+      "words": 1208,
+      "paragraphs": 24
+    },
+    {
+      "number": 112,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER IV—THE GROPINGS OF FLIGHT",
+      "start": 1018132,
+      "end": 1023538,
+      "words": 985,
+      "paragraphs": 14
+    },
+    {
+      "number": 113,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER V—WHICH WOULD BE IMPOSSIBLE WITH GAS LANTERNS",
+      "start": 1023538,
+      "end": 1031295,
+      "words": 1397,
+      "paragraphs": 35
+    },
+    {
+      "number": 114,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER VI—THE BEGINNING OF AN ENIGMA",
+      "start": 1031295,
+      "end": 1036303,
+      "words": 894,
+      "paragraphs": 18
+    },
+    {
+      "number": 115,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER VII—CONTINUATION OF THE ENIGMA",
+      "start": 1036303,
+      "end": 1040345,
+      "words": 716,
+      "paragraphs": 24
+    },
+    {
+      "number": 116,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER VIII—THE ENIGMA BECOMES DOUBLY MYSTERIOUS",
+      "start": 1040345,
+      "end": 1044095,
+      "words": 683,
+      "paragraphs": 23
+    },
+    {
+      "number": 117,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER IX—THE MAN WITH THE BELL",
+      "start": 1044095,
+      "end": 1051331,
+      "words": 1318,
+      "paragraphs": 63
+    },
+    {
+      "number": 118,
+      "volume": 2,
+      "book": 13,
+      "heading": "CHAPTER X—WHICH EXPLAINS HOW JAVERT GOT ON THE SCENT",
+      "start": 1051331,
+      "end": 1070753,
+      "words": 3462,
+      "paragraphs": 42
+    },
+    {
+      "number": 119,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER I—NUMBER 62 RUE PETIT-PICPUS",
+      "start": 1070753,
+      "end": 1078629,
+      "words": 1427,
+      "paragraphs": 19
+    },
+    {
+      "number": 120,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER II—THE OBEDIENCE OF MARTIN VERGA",
+      "start": 1078629,
+      "end": 1093520,
+      "words": 2610,
+      "paragraphs": 34
+    },
+    {
+      "number": 121,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER III—AUSTERITIES",
+      "start": 1093520,
+      "end": 1096909,
+      "words": 601,
+      "paragraphs": 5
+    },
+    {
+      "number": 122,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER IV—GAYETIES",
+      "start": 1096909,
+      "end": 1103935,
+      "words": 1245,
+      "paragraphs": 45
+    },
+    {
+      "number": 123,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER V—DISTRACTIONS",
+      "start": 1103935,
+      "end": 1115445,
+      "words": 2068,
+      "paragraphs": 18
+    },
+    {
+      "number": 124,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER VI—THE LITTLE CONVENT",
+      "start": 1115445,
+      "end": 1120844,
+      "words": 945,
+      "paragraphs": 9
+    },
+    {
+      "number": 125,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER VII—SOME SILHOUETTES OF THIS DARKNESS",
+      "start": 1120844,
+      "end": 1125687,
+      "words": 815,
+      "paragraphs": 11
+    },
+    {
+      "number": 126,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER VIII—POST CORDA LAPIDES",
+      "start": 1125687,
+      "end": 1129327,
+      "words": 651,
+      "paragraphs": 3
+    },
+    {
+      "number": 127,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER IX—A CENTURY UNDER A GUIMPE",
+      "start": 1129327,
+      "end": 1133551,
+      "words": 732,
+      "paragraphs": 6
+    },
+    {
+      "number": 128,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER X—ORIGIN OF THE PERPETUAL ADORATION",
+      "start": 1133551,
+      "end": 1137090,
+      "words": 613,
+      "paragraphs": 6
+    },
+    {
+      "number": 129,
+      "volume": 2,
+      "book": 14,
+      "heading": "CHAPTER XI—END OF THE PETIT-PICPUS",
+      "start": 1137090,
+      "end": 1140920,
+      "words": 665,
+      "paragraphs": 8
+    },
+    {
+      "number": 130,
+      "volume": 2,
+      "book": 15,
+      "heading": "CHAPTER I—THE CONVENT AS AN ABSTRACT IDEA",
+      "start": 1140920,
+      "end": 1142022,
+      "words": 189,
+      "paragraphs": 4
+    },
+    {
+      "number": 131,
+      "volume": 2,
+      "book": 15,
+      "heading": "CHAPTER II—THE CONVENT AS AN HISTORICAL FACT",
+      "start": 1142022,
+      "end": 1148432,
+      "words": 1092,
+      "paragraphs": 7
+    },
+    {
+      "number": 132,
+      "volume": 2,
+      "book": 15,
+      "heading": "CHAPTER III—ON WHAT CONDITIONS ONE CAN RESPECT THE PAST",
+      "start": 1148432,
+      "end": 1153443,
+      "words": 848,
+      "paragraphs": 11
+    },
+    {
+      "number": 133,
+      "volume": 2,
+      "book": 15,
+      "heading": "CHAPTER IV—THE CONVENT FROM THE POINT OF VIEW OF PRINCIPLES",
+      "start": 1153443,
+      "end": 1156372,
+      "words": 513,
+      "paragraphs": 15
+    },
+    {
+      "number": 134,
+      "volume": 2,
+      "book": 15,
+      "heading": "CHAPTER V—PRAYER",
+      "start": 1156372,
+      "end": 1158835,
+      "words": 432,
+      "paragraphs": 10
+    },
+    {
+      "number": 135,
+      "volume": 2,
+      "book": 15,
+      "heading": "CHAPTER VI—THE ABSOLUTE GOODNESS OF PRAYER",
+      "start": 1158835,
+      "end": 1163313,
+      "words": 785,
+      "paragraphs": 26
+    },
+    {
+      "number": 136,
+      "volume": 2,
+      "book": 15,
+      "heading": "CHAPTER VII—PRECAUTIONS TO BE OBSERVED IN BLAME",
+      "start": 1163313,
+      "end": 1164737,
+      "words": 244,
+      "paragraphs": 9
+    },
+    {
+      "number": 137,
+      "volume": 2,
+      "book": 15,
+      "heading": "CHAPTER VIII—FAITH, LAW",
+      "start": 1164737,
+      "end": 1169019,
+      "words": 758,
+      "paragraphs": 24
+    },
+    {
+      "number": 138,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER I—WHICH TREATS OF THE MANNER OF ENTERING A CONVENT",
+      "start": 1169019,
+      "end": 1185642,
+      "words": 2980,
+      "paragraphs": 71
+    },
+    {
+      "number": 139,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER II—FAUCHELEVENT IN THE PRESENCE OF A DIFFICULTY",
+      "start": 1185642,
+      "end": 1190389,
+      "words": 817,
+      "paragraphs": 21
+    },
+    {
+      "number": 140,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER III—MOTHER INNOCENTE",
+      "start": 1190389,
+      "end": 1209566,
+      "words": 3315,
+      "paragraphs": 194
+    },
+    {
+      "number": 141,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER IV—IN WHICH JEAN VALJEAN HAS QUITE THE AIR OF HAVING READ\nAUSTIN CASTILLEJO",
+      "start": 1209566,
+      "end": 1221019,
+      "words": 2089,
+      "paragraphs": 96
+    },
+    {
+      "number": 142,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER V—IT IS NOT NECESSARY TO BE DRUNK IN ORDER TO BE IMMORTAL",
+      "start": 1221019,
+      "end": 1233324,
+      "words": 2120,
+      "paragraphs": 80
+    },
+    {
+      "number": 143,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER VI—BETWEEN FOUR PLANKS",
+      "start": 1233324,
+      "end": 1236650,
+      "words": 570,
+      "paragraphs": 34
+    },
+    {
+      "number": 144,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER VII—IN WHICH WILL BE FOUND THE ORIGIN OF THE SAYING: DON’T LOSE\nTHE CARD",
+      "start": 1236650,
+      "end": 1251171,
+      "words": 2600,
+      "paragraphs": 140
+    },
+    {
+      "number": 145,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER VIII—A SUCCESSFUL INTERROGATORY",
+      "start": 1251171,
+      "end": 1257759,
+      "words": 1109,
+      "paragraphs": 52
+    },
+    {
+      "number": 146,
+      "volume": 2,
+      "book": 16,
+      "heading": "CHAPTER IX—CLOISTERED",
+      "start": 1257759,
+      "end": 1272996,
+      "words": 2659,
+      "paragraphs": 55
+    },
+    {
+      "number": 147,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER I—PARVULUS",
+      "start": 1272996,
+      "end": 1274431,
+      "words": 267,
+      "paragraphs": 4
+    },
+    {
+      "number": 148,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER II—SOME OF HIS PARTICULAR CHARACTERISTICS",
+      "start": 1274431,
+      "end": 1277359,
+      "words": 518,
+      "paragraphs": 6
+    },
+    {
+      "number": 149,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER III—HE IS AGREEABLE",
+      "start": 1277359,
+      "end": 1279792,
+      "words": 423,
+      "paragraphs": 6
+    },
+    {
+      "number": 150,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER IV—HE MAY BE OF USE",
+      "start": 1279792,
+      "end": 1281279,
+      "words": 259,
+      "paragraphs": 4
+    },
+    {
+      "number": 151,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER V—HIS FRONTIERS",
+      "start": 1281279,
+      "end": 1286367,
+      "words": 841,
+      "paragraphs": 8
+    },
+    {
+      "number": 152,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER VI—A BIT OF HISTORY",
+      "start": 1286367,
+      "end": 1290611,
+      "words": 753,
+      "paragraphs": 7
+    },
+    {
+      "number": 153,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER VII—THE GAMIN SHOULD HAVE HIS PLACE IN THE CLASSIFICATIONS OF\nINDIA",
+      "start": 1290611,
+      "end": 1294798,
+      "words": 752,
+      "paragraphs": 9
+    },
+    {
+      "number": 154,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER VIII—IN WHICH THE READER WILL FIND A CHARMING SAYING OF THE\nLAST KING",
+      "start": 1294798,
+      "end": 1298011,
+      "words": 586,
+      "paragraphs": 4
+    },
+    {
+      "number": 155,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER IX—THE OLD SOUL OF GAUL",
+      "start": 1298011,
+      "end": 1299673,
+      "words": 300,
+      "paragraphs": 4
+    },
+    {
+      "number": 156,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER X—ECCE PARIS, ECCE HOMO",
+      "start": 1299673,
+      "end": 1306266,
+      "words": 1119,
+      "paragraphs": 13
+    },
+    {
+      "number": 157,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER XI—TO SCOFF, TO REIGN",
+      "start": 1306266,
+      "end": 1311079,
+      "words": 844,
+      "paragraphs": 7
+    },
+    {
+      "number": 158,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER XII—THE FUTURE LATENT IN THE PEOPLE",
+      "start": 1311079,
+      "end": 1313177,
+      "words": 358,
+      "paragraphs": 1
+    },
+    {
+      "number": 159,
+      "volume": 3,
+      "book": 17,
+      "heading": "CHAPTER XIII—LITTLE GAVROCHE",
+      "start": 1313177,
+      "end": 1318214,
+      "words": 900,
+      "paragraphs": 21
+    },
+    {
+      "number": 160,
+      "volume": 3,
+      "book": 18,
+      "heading": "CHAPTER I—NINETY YEARS AND THIRTY-TWO TEETH",
+      "start": 1318214,
+      "end": 1322187,
+      "words": 712,
+      "paragraphs": 3
+    },
+    {
+      "number": 161,
+      "volume": 3,
+      "book": 18,
+      "heading": "CHAPTER II—LIKE MASTER, LIKE HOUSE",
+      "start": 1322187,
+      "end": 1324682,
+      "words": 436,
+      "paragraphs": 1
+    },
+    {
+      "number": 162,
+      "volume": 3,
+      "book": 18,
+      "heading": "CHAPTER III—LUC-ESPRIT",
+      "start": 1324682,
+      "end": 1326697,
+      "words": 356,
+      "paragraphs": 1
+    },
+    {
+      "number": 163,
+      "volume": 3,
+      "book": 18,
+      "heading": "CHAPTER IV—A CENTENARIAN ASPIRANT",
+      "start": 1326697,
+      "end": 1328538,
+      "words": 337,
+      "paragraphs": 2
+    },
+    {
+      "number": 164,
+      "volume": 3,
+      "book": 18,
+      "heading": "CHAPTER V—BASQUE AND NICOLETTE",
+      "start": 1328538,
+      "end": 1331299,
+      "words": 463,
+      "paragraphs": 1
+    },
+    {
+      "number": 165,
+      "volume": 3,
+      "book": 18,
+      "heading": "CHAPTER VI—IN WHICH MAGNON AND HER TWO CHILDREN ARE SEEN",
+      "start": 1331299,
+      "end": 1335529,
+      "words": 769,
+      "paragraphs": 1
+    },
+    {
+      "number": 166,
+      "volume": 3,
+      "book": 18,
+      "heading": "CHAPTER VII—RULE: RECEIVE NO ONE EXCEPT IN THE EVENING",
+      "start": 1335529,
+      "end": 1336795,
+      "words": 224,
+      "paragraphs": 4
+    },
+    {
+      "number": 167,
+      "volume": 3,
+      "book": 18,
+      "heading": "CHAPTER VIII—TWO DO NOT MAKE A PAIR",
+      "start": 1336795,
+      "end": 1341644,
+      "words": 830,
+      "paragraphs": 13
+    },
+    {
+      "number": 168,
+      "volume": 3,
+      "book": 19,
+      "heading": "CHAPTER I—AN ANCIENT SALON",
+      "start": 1341644,
+      "end": 1348930,
+      "words": 1267,
+      "paragraphs": 20
+    },
+    {
+      "number": 169,
+      "volume": 3,
+      "book": 19,
+      "heading": "CHAPTER II—ONE OF THE RED SPECTRES OF THAT EPOCH",
+      "start": 1348930,
+      "end": 1363750,
+      "words": 2633,
+      "paragraphs": 15
+    },
+    {
+      "number": 170,
+      "volume": 3,
+      "book": 19,
+      "heading": "CHAPTER III—REQUIESCANT",
+      "start": 1363750,
+      "end": 1381063,
+      "words": 2976,
+      "paragraphs": 24
+    },
+    {
+      "number": 171,
+      "volume": 3,
+      "book": 19,
+      "heading": "CHAPTER IV—END OF THE BRIGAND",
+      "start": 1381063,
+      "end": 1388143,
+      "words": 1271,
+      "paragraphs": 41
+    },
+    {
+      "number": 172,
+      "volume": 3,
+      "book": 19,
+      "heading": "CHAPTER V—THE UTILITY OF GOING TO MASS, IN ORDER TO BECOME A\nREVOLUTIONIST",
+      "start": 1388143,
+      "end": 1391652,
+      "words": 653,
+      "paragraphs": 17
+    },
+    {
+      "number": 173,
+      "volume": 3,
+      "book": 19,
+      "heading": "CHAPTER VI—THE CONSEQUENCES OF HAVING MET A WARDEN",
+      "start": 1391652,
+      "end": 1406101,
+      "words": 2556,
+      "paragraphs": 34
+    },
+    {
+      "number": 174,
+      "volume": 3,
+      "book": 19,
+      "heading": "CHAPTER VII—SOME PETTICOAT",
+      "start": 1406101,
+      "end": 1415722,
+      "words": 1688,
+      "paragraphs": 91
+    },
+    {
+      "number": 175,
+      "volume": 3,
+      "book": 19,
+      "heading": "CHAPTER VIII—MARBLE AGAINST GRANITE",
+      "start": 1415722,
+      "end": 1426695,
+      "words": 1957,
+      "paragraphs": 54
+    },
+    {
+      "number": 176,
+      "volume": 3,
+      "book": 20,
+      "heading": "CHAPTER I—A GROUP WHICH BARELY MISSED BECOMING HISTORIC",
+      "start": 1426695,
+      "end": 1457736,
+      "words": 5301,
+      "paragraphs": 50
+    },
+    {
+      "number": 177,
+      "volume": 3,
+      "book": 20,
+      "heading": "CHAPTER II—BLONDEAU’S FUNERAL ORATION BY BOSSUET",
+      "start": 1457736,
+      "end": 1464912,
+      "words": 1257,
+      "paragraphs": 51
+    },
+    {
+      "number": 178,
+      "volume": 3,
+      "book": 20,
+      "heading": "CHAPTER III—MARIUS’ ASTONISHMENTS",
+      "start": 1464912,
+      "end": 1469145,
+      "words": 716,
+      "paragraphs": 20
+    },
+    {
+      "number": 179,
+      "volume": 3,
+      "book": 20,
+      "heading": "CHAPTER IV—THE BACK ROOM OF THE CAFÉ MUSAIN",
+      "start": 1469145,
+      "end": 1485279,
+      "words": 2857,
+      "paragraphs": 47
+    },
+    {
+      "number": 180,
+      "volume": 3,
+      "book": 20,
+      "heading": "CHAPTER V—ENLARGEMENT OF HORIZON",
+      "start": 1485279,
+      "end": 1493386,
+      "words": 1426,
+      "paragraphs": 26
+    },
+    {
+      "number": 181,
+      "volume": 3,
+      "book": 20,
+      "heading": "CHAPTER VI—RES ANGUSTA",
+      "start": 1493386,
+      "end": 1498350,
+      "words": 888,
+      "paragraphs": 55
+    },
+    {
+      "number": 182,
+      "volume": 3,
+      "book": 21,
+      "heading": "CHAPTER I—MARIUS INDIGENT",
+      "start": 1498350,
+      "end": 1503257,
+      "words": 872,
+      "paragraphs": 8
+    },
+    {
+      "number": 183,
+      "volume": 3,
+      "book": 21,
+      "heading": "CHAPTER II—MARIUS POOR",
+      "start": 1503257,
+      "end": 1510258,
+      "words": 1273,
+      "paragraphs": 9
+    },
+    {
+      "number": 184,
+      "volume": 3,
+      "book": 21,
+      "heading": "CHAPTER III—MARIUS GROWN UP",
+      "start": 1510258,
+      "end": 1521090,
+      "words": 1926,
+      "paragraphs": 14
+    },
+    {
+      "number": 185,
+      "volume": 3,
+      "book": 21,
+      "heading": "CHAPTER IV—M. MABEUF",
+      "start": 1521090,
+      "end": 1530781,
+      "words": 1729,
+      "paragraphs": 15
+    },
+    {
+      "number": 186,
+      "volume": 3,
+      "book": 21,
+      "heading": "CHAPTER V—POVERTY A GOOD NEIGHBOR FOR MISERY",
+      "start": 1530781,
+      "end": 1535626,
+      "words": 872,
+      "paragraphs": 15
+    },
+    {
+      "number": 187,
+      "volume": 3,
+      "book": 21,
+      "heading": "CHAPTER VI—THE SUBSTITUTE",
+      "start": 1535626,
+      "end": 1545553,
+      "words": 1713,
+      "paragraphs": 36
+    },
+    {
+      "number": 188,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER I—THE SOBRIQUET: MODE OF FORMATION OF FAMILY NAMES",
+      "start": 1545553,
+      "end": 1552484,
+      "words": 1243,
+      "paragraphs": 15
+    },
+    {
+      "number": 189,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER II—LUX FACTA EST",
+      "start": 1552484,
+      "end": 1557386,
+      "words": 884,
+      "paragraphs": 12
+    },
+    {
+      "number": 190,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER III—EFFECT OF THE SPRING",
+      "start": 1557386,
+      "end": 1559775,
+      "words": 434,
+      "paragraphs": 8
+    },
+    {
+      "number": 191,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER IV—BEGINNING OF A GREAT MALADY",
+      "start": 1559775,
+      "end": 1565914,
+      "words": 1132,
+      "paragraphs": 15
+    },
+    {
+      "number": 192,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER V—DIVERS CLAPS OF THUNDER FALL ON MA’AM BOUGON",
+      "start": 1565914,
+      "end": 1568521,
+      "words": 452,
+      "paragraphs": 8
+    },
+    {
+      "number": 193,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER VI—TAKEN PRISONER",
+      "start": 1568521,
+      "end": 1574160,
+      "words": 1010,
+      "paragraphs": 17
+    },
+    {
+      "number": 194,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER VII—ADVENTURES OF THE LETTER U DELIVERED OVER TO CONJECTURES",
+      "start": 1574160,
+      "end": 1578228,
+      "words": 702,
+      "paragraphs": 9
+    },
+    {
+      "number": 195,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER VIII—THE VETERANS THEMSELVES CAN BE HAPPY",
+      "start": 1578228,
+      "end": 1581972,
+      "words": 669,
+      "paragraphs": 8
+    },
+    {
+      "number": 196,
+      "volume": 3,
+      "book": 22,
+      "heading": "CHAPTER IX—ECLIPSE",
+      "start": 1581972,
+      "end": 1586335,
+      "words": 785,
+      "paragraphs": 44
+    },
+    {
+      "number": 197,
+      "volume": 3,
+      "book": 23,
+      "heading": "CHAPTER I—MINES AND MINERS",
+      "start": 1586335,
+      "end": 1591608,
+      "words": 876,
+      "paragraphs": 12
+    },
+    {
+      "number": 198,
+      "volume": 3,
+      "book": 23,
+      "heading": "CHAPTER II—THE LOWEST DEPTHS",
+      "start": 1591608,
+      "end": 1595153,
+      "words": 590,
+      "paragraphs": 9
+    },
+    {
+      "number": 199,
+      "volume": 3,
+      "book": 23,
+      "heading": "CHAPTER III—BABET, GUEULEMER, CLAQUESOUS, AND MONTPARNASSE",
+      "start": 1595153,
+      "end": 1600464,
+      "words": 943,
+      "paragraphs": 7
+    },
+    {
+      "number": 200,
+      "volume": 3,
+      "book": 23,
+      "heading": "CHAPTER IV—COMPOSITION OF THE TROUPE",
+      "start": 1600464,
+      "end": 1606277,
+      "words": 946,
+      "paragraphs": 31
+    },
+    {
+      "number": 201,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER I—MARIUS, WHILE SEEKING A GIRL IN A BONNET, ENCOUNTERS A MAN IN\nA CAP",
+      "start": 1606277,
+      "end": 1610288,
+      "words": 717,
+      "paragraphs": 6
+    },
+    {
+      "number": 202,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER II—TREASURE TROVE",
+      "start": 1610288,
+      "end": 1613972,
+      "words": 651,
+      "paragraphs": 20
+    },
+    {
+      "number": 203,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER III—QUADRIFRONS",
+      "start": 1613972,
+      "end": 1622879,
+      "words": 1507,
+      "paragraphs": 46
+    },
+    {
+      "number": 204,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER IV—A ROSE IN MISERY",
+      "start": 1622879,
+      "end": 1637151,
+      "words": 2560,
+      "paragraphs": 77
+    },
+    {
+      "number": 205,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER V—A PROVIDENTIAL PEEP-HOLE",
+      "start": 1637151,
+      "end": 1642387,
+      "words": 917,
+      "paragraphs": 9
+    },
+    {
+      "number": 206,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER VI—THE WILD MAN IN HIS LAIR",
+      "start": 1642387,
+      "end": 1651292,
+      "words": 1572,
+      "paragraphs": 35
+    },
+    {
+      "number": 207,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER VII—STRATEGY AND TACTICS",
+      "start": 1651292,
+      "end": 1658133,
+      "words": 1238,
+      "paragraphs": 74
+    },
+    {
+      "number": 208,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER VIII—THE RAY OF LIGHT IN THE HOVEL",
+      "start": 1658133,
+      "end": 1662507,
+      "words": 788,
+      "paragraphs": 27
+    },
+    {
+      "number": 209,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER IX—JONDRETTE COMES NEAR WEEPING",
+      "start": 1662507,
+      "end": 1670162,
+      "words": 1375,
+      "paragraphs": 53
+    },
+    {
+      "number": 210,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER X—TARIFF OF LICENSED CABS: TWO FRANCS AN HOUR",
+      "start": 1670162,
+      "end": 1677256,
+      "words": 1275,
+      "paragraphs": 21
+    },
+    {
+      "number": 211,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XI—OFFERS OF SERVICE FROM MISERY TO WRETCHEDNESS",
+      "start": 1677256,
+      "end": 1682411,
+      "words": 941,
+      "paragraphs": 55
+    },
+    {
+      "number": 212,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XII—THE USE MADE OF M. LEBLANC’S FIVE-FRANC PIECE",
+      "start": 1682411,
+      "end": 1691910,
+      "words": 1728,
+      "paragraphs": 91
+    },
+    {
+      "number": 213,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XIII—SOLUS CUM SOLO, IN LOCO REMOTO, NON COGITABUNTUR ORARE\nPATER NOSTER",
+      "start": 1691910,
+      "end": 1697355,
+      "words": 998,
+      "paragraphs": 31
+    },
+    {
+      "number": 214,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XIV—IN WHICH A POLICE AGENT BESTOWS TWO FISTFULS ON A LAWYER",
+      "start": 1697355,
+      "end": 1704248,
+      "words": 1224,
+      "paragraphs": 69
+    },
+    {
+      "number": 215,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XV—JONDRETTE MAKES HIS PURCHASES",
+      "start": 1704248,
+      "end": 1709062,
+      "words": 853,
+      "paragraphs": 34
+    },
+    {
+      "number": 216,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XVI—IN WHICH WILL BE FOUND THE WORDS TO AN ENGLISH AIR WHICH\nWAS IN FASHION IN 1832",
+      "start": 1709062,
+      "end": 1715893,
+      "words": 1226,
+      "paragraphs": 68
+    },
+    {
+      "number": 217,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XVII—THE USE MADE OF MARIUS’ FIVE-FRANC PIECE",
+      "start": 1715893,
+      "end": 1724120,
+      "words": 1470,
+      "paragraphs": 48
+    },
+    {
+      "number": 218,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XVIII—MARIUS’ TWO CHAIRS FORM A VIS-A-VIS",
+      "start": 1724120,
+      "end": 1727191,
+      "words": 527,
+      "paragraphs": 24
+    },
+    {
+      "number": 219,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XIX—OCCUPYING ONE’S SELF WITH OBSCURE DEPTHS",
+      "start": 1727191,
+      "end": 1736171,
+      "words": 1641,
+      "paragraphs": 40
+    },
+    {
+      "number": 220,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XX—THE TRAP",
+      "start": 1736171,
+      "end": 1788215,
+      "words": 9356,
+      "paragraphs": 302
+    },
+    {
+      "number": 221,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XXI—ONE SHOULD ALWAYS BEGIN BY ARRESTING THE VICTIMS",
+      "start": 1788215,
+      "end": 1795487,
+      "words": 1253,
+      "paragraphs": 74
+    },
+    {
+      "number": 222,
+      "volume": 3,
+      "book": 24,
+      "heading": "CHAPTER XXII—THE LITTLE ONE WHO WAS CRYING IN VOLUME TWO",
+      "start": 1795487,
+      "end": 1799004,
+      "words": 615,
+      "paragraphs": 39
+    },
+    {
+      "number": 223,
+      "volume": 4,
+      "book": 25,
+      "heading": "CHAPTER I—WELL CUT",
+      "start": 1799004,
+      "end": 1811432,
+      "words": 2160,
+      "paragraphs": 29
+    },
+    {
+      "number": 224,
+      "volume": 4,
+      "book": 25,
+      "heading": "CHAPTER II—BADLY SEWED",
+      "start": 1811432,
+      "end": 1818307,
+      "words": 1201,
+      "paragraphs": 35
+    },
+    {
+      "number": 225,
+      "volume": 4,
+      "book": 25,
+      "heading": "CHAPTER III—LOUIS PHILIPPE",
+      "start": 1818307,
+      "end": 1834550,
+      "words": 2764,
+      "paragraphs": 22
+    },
+    {
+      "number": 226,
+      "volume": 4,
+      "book": 25,
+      "heading": "CHAPTER IV—CRACKS BENEATH THE FOUNDATION",
+      "start": 1834550,
+      "end": 1850301,
+      "words": 2603,
+      "paragraphs": 50
+    },
+    {
+      "number": 227,
+      "volume": 4,
+      "book": 25,
+      "heading": "CHAPTER V—FACTS WHENCE HISTORY SPRINGS AND WHICH HISTORY IGNORES",
+      "start": 1850301,
+      "end": 1874300,
+      "words": 4023,
+      "paragraphs": 91
+    },
+    {
+      "number": 228,
+      "volume": 4,
+      "book": 25,
+      "heading": "CHAPTER VI—ENJOLRAS AND HIS LIEUTENANTS",
+      "start": 1874300,
+      "end": 1882598,
+      "words": 1437,
+      "paragraphs": 79
+    },
+    {
+      "number": 229,
+      "volume": 4,
+      "book": 26,
+      "heading": "CHAPTER I—THE LARK’S MEADOW",
+      "start": 1882598,
+      "end": 1895093,
+      "words": 2229,
+      "paragraphs": 34
+    },
+    {
+      "number": 230,
+      "volume": 4,
+      "book": 26,
+      "heading": "CHAPTER II—EMBRYONIC FORMATION OF CRIMES IN THE INCUBATION OF PRISONS",
+      "start": 1895093,
+      "end": 1905268,
+      "words": 1786,
+      "paragraphs": 31
+    },
+    {
+      "number": 231,
+      "volume": 4,
+      "book": 26,
+      "heading": "CHAPTER III—APPARITION TO FATHER MABEUF",
+      "start": 1905268,
+      "end": 1913482,
+      "words": 1490,
+      "paragraphs": 40
+    },
+    {
+      "number": 232,
+      "volume": 4,
+      "book": 26,
+      "heading": "CHAPTER IV—AN APPARITION TO MARIUS",
+      "start": 1913482,
+      "end": 1922299,
+      "words": 1618,
+      "paragraphs": 74
+    },
+    {
+      "number": 233,
+      "volume": 4,
+      "book": 27,
+      "heading": "CHAPTER I—THE HOUSE WITH A SECRET",
+      "start": 1922299,
+      "end": 1932508,
+      "words": 1817,
+      "paragraphs": 22
+    },
+    {
+      "number": 234,
+      "volume": 4,
+      "book": 27,
+      "heading": "CHAPTER II—JEAN VALJEAN AS A NATIONAL GUARD",
+      "start": 1932508,
+      "end": 1938054,
+      "words": 979,
+      "paragraphs": 10
+    },
+    {
+      "number": 235,
+      "volume": 4,
+      "book": 27,
+      "heading": "CHAPTER III—FOLIIS AC FRONDIBUS",
+      "start": 1938054,
+      "end": 1946390,
+      "words": 1411,
+      "paragraphs": 7
+    },
+    {
+      "number": 236,
+      "volume": 4,
+      "book": 27,
+      "heading": "CHAPTER IV—CHANGE OF GATE",
+      "start": 1946390,
+      "end": 1957021,
+      "words": 1884,
+      "paragraphs": 40
+    },
+    {
+      "number": 237,
+      "volume": 4,
+      "book": 27,
+      "heading": "CHAPTER V—THE ROSE PERCEIVES THAT IT IS AN ENGINE OF WAR",
+      "start": 1957021,
+      "end": 1966797,
+      "words": 1764,
+      "paragraphs": 30
+    },
+    {
+      "number": 238,
+      "volume": 4,
+      "book": 27,
+      "heading": "CHAPTER VI—THE BATTLE BEGUN",
+      "start": 1966797,
+      "end": 1973987,
+      "words": 1285,
+      "paragraphs": 19
+    },
+    {
+      "number": 239,
+      "volume": 4,
+      "book": 27,
+      "heading": "CHAPTER VII—TO ONE SADNESS OPPOSE A SADNESS AND A HALF",
+      "start": 1973987,
+      "end": 1985403,
+      "words": 2023,
+      "paragraphs": 42
+    },
+    {
+      "number": 240,
+      "volume": 4,
+      "book": 27,
+      "heading": "CHAPTER VIII—THE CHAIN-GANG",
+      "start": 1985403,
+      "end": 2007718,
+      "words": 3920,
+      "paragraphs": 38
+    },
+    {
+      "number": 241,
+      "volume": 4,
+      "book": 28,
+      "heading": "CHAPTER I—A WOUND WITHOUT, HEALING WITHIN",
+      "start": 2007718,
+      "end": 2012759,
+      "words": 892,
+      "paragraphs": 20
+    },
+    {
+      "number": 242,
+      "volume": 4,
+      "book": 28,
+      "heading": "CHAPTER II—MOTHER PLUTARQUE FINDS NO DIFFICULTY IN EXPLAINING A\nPHENOMENON",
+      "start": 2012759,
+      "end": 2029779,
+      "words": 3100,
+      "paragraphs": 81
+    },
+    {
+      "number": 243,
+      "volume": 4,
+      "book": 29,
+      "heading": "CHAPTER I—SOLITUDE AND THE BARRACKS COMBINED",
+      "start": 2029779,
+      "end": 2033422,
+      "words": 635,
+      "paragraphs": 14
+    },
+    {
+      "number": 244,
+      "volume": 4,
+      "book": 29,
+      "heading": "CHAPTER II—COSETTE’S APPREHENSIONS",
+      "start": 2033422,
+      "end": 2040384,
+      "words": 1272,
+      "paragraphs": 41
+    },
+    {
+      "number": 245,
+      "volume": 4,
+      "book": 29,
+      "heading": "CHAPTER III—ENRICHED WITH COMMENTARIES BY TOUSSAINT",
+      "start": 2040384,
+      "end": 2046455,
+      "words": 1093,
+      "paragraphs": 28
+    },
+    {
+      "number": 246,
+      "volume": 4,
+      "book": 29,
+      "heading": "CHAPTER IV—A HEART BENEATH A STONE",
+      "start": 2046455,
+      "end": 2053514,
+      "words": 1292,
+      "paragraphs": 36
+    },
+    {
+      "number": 247,
+      "volume": 4,
+      "book": 29,
+      "heading": "CHAPTER V—COSETTE AFTER THE LETTER",
+      "start": 2053514,
+      "end": 2058716,
+      "words": 930,
+      "paragraphs": 13
+    },
+    {
+      "number": 248,
+      "volume": 4,
+      "book": 29,
+      "heading": "CHAPTER VI—OLD PEOPLE ARE MADE TO GO OUT OPPORTUNELY",
+      "start": 2058716,
+      "end": 2065593,
+      "words": 1294,
+      "paragraphs": 38
+    },
+    {
+      "number": 249,
+      "volume": 4,
+      "book": 30,
+      "heading": "CHAPTER I—THE MALICIOUS PLAYFULNESS OF THE WIND",
+      "start": 2065593,
+      "end": 2073300,
+      "words": 1334,
+      "paragraphs": 16
+    },
+    {
+      "number": 250,
+      "volume": 4,
+      "book": 30,
+      "heading": "CHAPTER II—IN WHICH LITTLE GAVROCHE EXTRACTS PROFIT FROM NAPOLEON THE\nGREAT",
+      "start": 2073300,
+      "end": 2119399,
+      "words": 7986,
+      "paragraphs": 340
+    },
+    {
+      "number": 251,
+      "volume": 4,
+      "book": 30,
+      "heading": "CHAPTER III—THE VICISSITUDES OF FLIGHT",
+      "start": 2119399,
+      "end": 2147211,
+      "words": 4941,
+      "paragraphs": 134
+    },
+    {
+      "number": 252,
+      "volume": 4,
+      "book": 31,
+      "heading": "CHAPTER I—ORIGIN",
+      "start": 2147211,
+      "end": 2163659,
+      "words": 2811,
+      "paragraphs": 31
+    },
+    {
+      "number": 253,
+      "volume": 4,
+      "book": 31,
+      "heading": "CHAPTER II—ROOTS",
+      "start": 2163659,
+      "end": 2182845,
+      "words": 3283,
+      "paragraphs": 39
+    },
+    {
+      "number": 254,
+      "volume": 4,
+      "book": 31,
+      "heading": "CHAPTER III—SLANG WHICH WEEPS AND SLANG WHICH LAUGHS",
+      "start": 2182845,
+      "end": 2192627,
+      "words": 1648,
+      "paragraphs": 17
+    },
+    {
+      "number": 255,
+      "volume": 4,
+      "book": 31,
+      "heading": "CHAPTER IV—THE TWO DUTIES: TO WATCH AND TO HOPE",
+      "start": 2192627,
+      "end": 2201619,
+      "words": 1558,
+      "paragraphs": 23
+    },
+    {
+      "number": 256,
+      "volume": 4,
+      "book": 32,
+      "heading": "CHAPTER I—FULL LIGHT",
+      "start": 2201619,
+      "end": 2213832,
+      "words": 2158,
+      "paragraphs": 45
+    },
+    {
+      "number": 257,
+      "volume": 4,
+      "book": 32,
+      "heading": "CHAPTER II—THE BEWILDERMENT OF PERFECT HAPPINESS",
+      "start": 2213832,
+      "end": 2218402,
+      "words": 809,
+      "paragraphs": 7
+    },
+    {
+      "number": 258,
+      "volume": 4,
+      "book": 32,
+      "heading": "CHAPTER III—THE BEGINNING OF SHADOW",
+      "start": 2218402,
+      "end": 2225033,
+      "words": 1166,
+      "paragraphs": 40
+    },
+    {
+      "number": 259,
+      "volume": 4,
+      "book": 32,
+      "heading": "CHAPTER IV—A CAB RUNS IN ENGLISH AND BARKS IN SLANG",
+      "start": 2225033,
+      "end": 2238957,
+      "words": 2472,
+      "paragraphs": 132
+    },
+    {
+      "number": 260,
+      "volume": 4,
+      "book": 32,
+      "heading": "CHAPTER V—THINGS OF THE NIGHT",
+      "start": 2238957,
+      "end": 2240506,
+      "words": 258,
+      "paragraphs": 1
+    },
+    {
+      "number": 261,
+      "volume": 4,
+      "book": 32,
+      "heading": "CHAPTER VI—MARIUS BECOMES PRACTICAL ONCE MORE TO THE EXTENT OF GIVING\nCOSETTE HIS ADDRESS",
+      "start": 2240506,
+      "end": 2251887,
+      "words": 2116,
+      "paragraphs": 96
+    },
+    {
+      "number": 262,
+      "volume": 4,
+      "book": 32,
+      "heading": "CHAPTER VII—THE OLD HEART AND THE YOUNG HEART IN THE PRESENCE OF EACH\nOTHER",
+      "start": 2251887,
+      "end": 2277906,
+      "words": 4667,
+      "paragraphs": 128
+    },
+    {
+      "number": 263,
+      "volume": 4,
+      "book": 33,
+      "heading": "CHAPTER I—JEAN VALJEAN",
+      "start": 2277906,
+      "end": 2281550,
+      "words": 653,
+      "paragraphs": 24
+    },
+    {
+      "number": 264,
+      "volume": 4,
+      "book": 33,
+      "heading": "CHAPTER II—MARIUS",
+      "start": 2281550,
+      "end": 2286855,
+      "words": 943,
+      "paragraphs": 19
+    },
+    {
+      "number": 265,
+      "volume": 4,
+      "book": 33,
+      "heading": "CHAPTER III—M. MABEUF",
+      "start": 2286855,
+      "end": 2294900,
+      "words": 1436,
+      "paragraphs": 28
+    },
+    {
+      "number": 266,
+      "volume": 4,
+      "book": 34,
+      "heading": "CHAPTER I—THE SURFACE OF THE QUESTION",
+      "start": 2294900,
+      "end": 2302666,
+      "words": 1297,
+      "paragraphs": 16
+    },
+    {
+      "number": 267,
+      "volume": 4,
+      "book": 34,
+      "heading": "CHAPTER II—THE ROOT OF THE MATTER",
+      "start": 2302666,
+      "end": 2316368,
+      "words": 2327,
+      "paragraphs": 27
+    },
+    {
+      "number": 268,
+      "volume": 4,
+      "book": 34,
+      "heading": "CHAPTER III—A BURIAL; AN OCCASION TO BE BORN AGAIN",
+      "start": 2316368,
+      "end": 2328753,
+      "words": 2124,
+      "paragraphs": 16
+    },
+    {
+      "number": 269,
+      "volume": 4,
+      "book": 34,
+      "heading": "CHAPTER IV—THE EBULLITIONS OF FORMER DAYS",
+      "start": 2328753,
+      "end": 2340390,
+      "words": 2022,
+      "paragraphs": 25
+    },
+    {
+      "number": 270,
+      "volume": 4,
+      "book": 34,
+      "heading": "CHAPTER V—ORIGINALITY OF PARIS",
+      "start": 2340390,
+      "end": 2346493,
+      "words": 1049,
+      "paragraphs": 24
+    },
+    {
+      "number": 271,
+      "volume": 4,
+      "book": 35,
+      "heading": "CHAPTER I—SOME EXPLANATIONS WITH REGARD TO THE ORIGIN OF GAVROCHE’S\nPOETRY. THE INFLUENCE OF AN ACADEMICIAN ON THIS POETRY",
+      "start": 2346493,
+      "end": 2351592,
+      "words": 912,
+      "paragraphs": 16
+    },
+    {
+      "number": 272,
+      "volume": 4,
+      "book": 35,
+      "heading": "CHAPTER II—GAVROCHE ON THE MARCH",
+      "start": 2351592,
+      "end": 2358418,
+      "words": 1230,
+      "paragraphs": 48
+    },
+    {
+      "number": 273,
+      "volume": 4,
+      "book": 35,
+      "heading": "CHAPTER III—JUST INDIGNATION OF A HAIR-DRESSER",
+      "start": 2358418,
+      "end": 2361727,
+      "words": 599,
+      "paragraphs": 24
+    },
+    {
+      "number": 274,
+      "volume": 4,
+      "book": 35,
+      "heading": "CHAPTER IV—THE CHILD IS AMAZED AT THE OLD MAN",
+      "start": 2361727,
+      "end": 2365204,
+      "words": 593,
+      "paragraphs": 27
+    },
+    {
+      "number": 275,
+      "volume": 4,
+      "book": 35,
+      "heading": "CHAPTER V—THE OLD MAN",
+      "start": 2365204,
+      "end": 2368119,
+      "words": 518,
+      "paragraphs": 25
+    },
+    {
+      "number": 276,
+      "volume": 4,
+      "book": 35,
+      "heading": "CHAPTER VI—RECRUITS",
+      "start": 2368119,
+      "end": 2370902,
+      "words": 494,
+      "paragraphs": 36
+    },
+    {
+      "number": 277,
+      "volume": 4,
+      "book": 36,
+      "heading": "CHAPTER I—HISTORY OF CORINTHE FROM ITS FOUNDATION",
+      "start": 2370902,
+      "end": 2382501,
+      "words": 2054,
+      "paragraphs": 32
+    },
+    {
+      "number": 278,
+      "volume": 4,
+      "book": 36,
+      "heading": "CHAPTER II—PRELIMINARY GAYETIES",
+      "start": 2382501,
+      "end": 2402646,
+      "words": 3568,
+      "paragraphs": 93
+    },
+    {
+      "number": 279,
+      "volume": 4,
+      "book": 36,
+      "heading": "CHAPTER III—NIGHT BEGINS TO DESCEND UPON GRANTAIRE",
+      "start": 2402646,
+      "end": 2409450,
+      "words": 1175,
+      "paragraphs": 33
+    },
+    {
+      "number": 280,
+      "volume": 4,
+      "book": 36,
+      "heading": "CHAPTER IV—AN ATTEMPT TO CONSOLE THE WIDOW HUCHELOUP",
+      "start": 2409450,
+      "end": 2417346,
+      "words": 1362,
+      "paragraphs": 29
+    },
+    {
+      "number": 281,
+      "volume": 4,
+      "book": 36,
+      "heading": "CHAPTER V—PREPARATIONS",
+      "start": 2417346,
+      "end": 2421642,
+      "words": 740,
+      "paragraphs": 11
+    },
+    {
+      "number": 282,
+      "volume": 4,
+      "book": 36,
+      "heading": "CHAPTER VI—WAITING",
+      "start": 2421642,
+      "end": 2426383,
+      "words": 841,
+      "paragraphs": 25
+    },
+    {
+      "number": 283,
+      "volume": 4,
+      "book": 36,
+      "heading": "CHAPTER VII—THE MAN RECRUITED IN THE RUE DES BILLETTES",
+      "start": 2426383,
+      "end": 2433583,
+      "words": 1285,
+      "paragraphs": 45
+    },
+    {
+      "number": 284,
+      "volume": 4,
+      "book": 36,
+      "heading": "CHAPTER VIII—MANY INTERROGATION POINTS WITH REGARD TO A CERTAIN LE\nCABUC WHOSE NAME MAY NOT HAVE BEEN LE CABUC",
+      "start": 2433583,
+      "end": 2442727,
+      "words": 1632,
+      "paragraphs": 59
+    },
+    {
+      "number": 285,
+      "volume": 4,
+      "book": 37,
+      "heading": "CHAPTER I—FROM THE RUE PLUMET TO THE QUARTIER SAINT-DENIS",
+      "start": 2442727,
+      "end": 2449009,
+      "words": 1118,
+      "paragraphs": 18
+    },
+    {
+      "number": 286,
+      "volume": 4,
+      "book": 37,
+      "heading": "CHAPTER II—AN OWL’S VIEW OF PARIS",
+      "start": 2449009,
+      "end": 2455118,
+      "words": 1035,
+      "paragraphs": 10
+    },
+    {
+      "number": 287,
+      "volume": 4,
+      "book": 37,
+      "heading": "CHAPTER III—THE EXTREME EDGE",
+      "start": 2455118,
+      "end": 2468747,
+      "words": 2411,
+      "paragraphs": 19
+    },
+    {
+      "number": 288,
+      "volume": 4,
+      "book": 38,
+      "heading": "CHAPTER I—THE FLAG: ACT FIRST",
+      "start": 2468747,
+      "end": 2474312,
+      "words": 956,
+      "paragraphs": 35
+    },
+    {
+      "number": 289,
+      "volume": 4,
+      "book": 38,
+      "heading": "CHAPTER II—THE FLAG: ACT SECOND",
+      "start": 2474312,
+      "end": 2479871,
+      "words": 1002,
+      "paragraphs": 27
+    },
+    {
+      "number": 290,
+      "volume": 4,
+      "book": 38,
+      "heading": "CHAPTER III—GAVROCHE WOULD HAVE DONE BETTER TO ACCEPT ENJOLRAS’ CARBINE",
+      "start": 2479871,
+      "end": 2482243,
+      "words": 405,
+      "paragraphs": 11
+    },
+    {
+      "number": 291,
+      "volume": 4,
+      "book": 38,
+      "heading": "CHAPTER IV—THE BARREL OF POWDER",
+      "start": 2482243,
+      "end": 2487641,
+      "words": 938,
+      "paragraphs": 23
+    },
+    {
+      "number": 292,
+      "volume": 4,
+      "book": 38,
+      "heading": "CHAPTER V—END OF THE VERSES OF JEAN PROUVAIRE",
+      "start": 2487641,
+      "end": 2491387,
+      "words": 662,
+      "paragraphs": 29
+    },
+    {
+      "number": 293,
+      "volume": 4,
+      "book": 38,
+      "heading": "CHAPTER VI—THE AGONY OF DEATH AFTER THE AGONY OF LIFE",
+      "start": 2491387,
+      "end": 2499305,
+      "words": 1447,
+      "paragraphs": 84
+    },
+    {
+      "number": 294,
+      "volume": 4,
+      "book": 38,
+      "heading": "CHAPTER VII—GAVROCHE AS A PROFOUND CALCULATOR OF DISTANCES",
+      "start": 2499305,
+      "end": 2506803,
+      "words": 1348,
+      "paragraphs": 37
+    },
+    {
+      "number": 295,
+      "volume": 4,
+      "book": 39,
+      "heading": "CHAPTER I—A DRINKER IS A BABBLER",
+      "start": 2506803,
+      "end": 2526194,
+      "words": 3430,
+      "paragraphs": 51
+    },
+    {
+      "number": 296,
+      "volume": 4,
+      "book": 39,
+      "heading": "CHAPTER II—THE STREET URCHIN AN ENEMY OF LIGHT",
+      "start": 2526194,
+      "end": 2534223,
+      "words": 1423,
+      "paragraphs": 68
+    },
+    {
+      "number": 297,
+      "volume": 4,
+      "book": 39,
+      "heading": "CHAPTER III—WHILE COSETTE AND TOUSSAINT ARE ASLEEP",
+      "start": 2534223,
+      "end": 2537390,
+      "words": 578,
+      "paragraphs": 10
+    },
+    {
+      "number": 298,
+      "volume": 4,
+      "book": 39,
+      "heading": "CHAPTER IV—GAVROCHE’S EXCESS OF ZEAL",
+      "start": 2537390,
+      "end": 2546532,
+      "words": 1613,
+      "paragraphs": 71
+    },
+    {
+      "number": 299,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER I—THE CHARYBDIS OF THE FAUBOURG SAINT ANTOINE AND THE SCYLLA OF\nTHE FAUBOURG DU TEMPLE",
+      "start": 2546532,
+      "end": 2563384,
+      "words": 2871,
+      "paragraphs": 32
+    },
+    {
+      "number": 300,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER II—WHAT IS TO BE DONE IN THE ABYSS IF ONE DOES NOT CONVERSE",
+      "start": 2563384,
+      "end": 2571878,
+      "words": 1473,
+      "paragraphs": 32
+    },
+    {
+      "number": 301,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER III—LIGHT AND SHADOW",
+      "start": 2571878,
+      "end": 2575403,
+      "words": 631,
+      "paragraphs": 14
+    },
+    {
+      "number": 302,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER IV—MINUS FIVE, PLUS ONE",
+      "start": 2575403,
+      "end": 2589037,
+      "words": 2422,
+      "paragraphs": 68
+    },
+    {
+      "number": 303,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER V—THE HORIZON WHICH ONE BEHOLDS FROM THE SUMMIT OF A BARRICADE",
+      "start": 2589037,
+      "end": 2598054,
+      "words": 1574,
+      "paragraphs": 4
+    },
+    {
+      "number": 304,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER VI—MARIUS HAGGARD, JAVERT LACONIC",
+      "start": 2598054,
+      "end": 2601987,
+      "words": 713,
+      "paragraphs": 22
+    },
+    {
+      "number": 305,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER VII—THE SITUATION BECOMES AGGRAVATED",
+      "start": 2601987,
+      "end": 2610829,
+      "words": 1554,
+      "paragraphs": 34
+    },
+    {
+      "number": 306,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER VIII—THE ARTILLERY-MEN COMPEL PEOPLE TO TAKE THEM SERIOUSLY",
+      "start": 2610829,
+      "end": 2616773,
+      "words": 1043,
+      "paragraphs": 39
+    },
+    {
+      "number": 307,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER IX—EMPLOYMENT OF THE OLD TALENTS OF A POACHER AND THAT\nINFALLIBLE MARKSMANSHIP WHICH INFLUENCED THE CONDEMNATION OF 1796",
+      "start": 2616773,
+      "end": 2620237,
+      "words": 602,
+      "paragraphs": 26
+    },
+    {
+      "number": 308,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER X—DAWN",
+      "start": 2620237,
+      "end": 2628431,
+      "words": 1493,
+      "paragraphs": 18
+    },
+    {
+      "number": 309,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XI—THE SHOT WHICH MISSES NOTHING AND KILLS NO ONE",
+      "start": 2628431,
+      "end": 2630936,
+      "words": 431,
+      "paragraphs": 11
+    },
+    {
+      "number": 310,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XII—DISORDER A PARTISAN OF ORDER",
+      "start": 2630936,
+      "end": 2637916,
+      "words": 1190,
+      "paragraphs": 14
+    },
+    {
+      "number": 311,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XIII—PASSING GLEAMS",
+      "start": 2637916,
+      "end": 2642124,
+      "words": 723,
+      "paragraphs": 13
+    },
+    {
+      "number": 312,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XIV—WHEREIN WILL APPEAR THE NAME OF ENJOLRAS’ MISTRESS",
+      "start": 2642124,
+      "end": 2646536,
+      "words": 769,
+      "paragraphs": 26
+    },
+    {
+      "number": 313,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XV—GAVROCHE OUTSIDE",
+      "start": 2646536,
+      "end": 2652684,
+      "words": 1085,
+      "paragraphs": 39
+    },
+    {
+      "number": 314,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XVI—HOW FROM A BROTHER ONE BECOMES A FATHER",
+      "start": 2652684,
+      "end": 2671338,
+      "words": 3273,
+      "paragraphs": 73
+    },
+    {
+      "number": 315,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XVII—MORTUUS PATER FILIUM MORITURUM EXPECTAT",
+      "start": 2671338,
+      "end": 2674840,
+      "words": 596,
+      "paragraphs": 16
+    },
+    {
+      "number": 316,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XVIII—THE VULTURE BECOME PREY",
+      "start": 2674840,
+      "end": 2682457,
+      "words": 1331,
+      "paragraphs": 64
+    },
+    {
+      "number": 317,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XIX—JEAN VALJEAN TAKES HIS REVENGE",
+      "start": 2682457,
+      "end": 2687415,
+      "words": 872,
+      "paragraphs": 57
+    },
+    {
+      "number": 318,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XX—THE DEAD ARE IN THE RIGHT AND THE LIVING ARE NOT IN THE\nWRONG",
+      "start": 2687415,
+      "end": 2707495,
+      "words": 3515,
+      "paragraphs": 49
+    },
+    {
+      "number": 319,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XXI—THE HEROES",
+      "start": 2707495,
+      "end": 2717197,
+      "words": 1664,
+      "paragraphs": 29
+    },
+    {
+      "number": 320,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XXII—FOOT TO FOOT",
+      "start": 2717197,
+      "end": 2725035,
+      "words": 1378,
+      "paragraphs": 17
+    },
+    {
+      "number": 321,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XXIII—ORESTES FASTING AND PYLADES DRUNK",
+      "start": 2725035,
+      "end": 2731938,
+      "words": 1207,
+      "paragraphs": 33
+    },
+    {
+      "number": 322,
+      "volume": 5,
+      "book": 40,
+      "heading": "CHAPTER XXIV—PRISONER",
+      "start": 2731938,
+      "end": 2737729,
+      "words": 1070,
+      "paragraphs": 18
+    },
+    {
+      "number": 323,
+      "volume": 5,
+      "book": 41,
+      "heading": "CHAPTER I—THE LAND IMPOVERISHED BY THE SEA",
+      "start": 2737729,
+      "end": 2746484,
+      "words": 1524,
+      "paragraphs": 27
+    },
+    {
+      "number": 324,
+      "volume": 5,
+      "book": 41,
+      "heading": "CHAPTER II—ANCIENT HISTORY OF THE SEWER",
+      "start": 2746484,
+      "end": 2754196,
+      "words": 1290,
+      "paragraphs": 11
+    },
+    {
+      "number": 325,
+      "volume": 5,
+      "book": 41,
+      "heading": "CHAPTER III—BRUNESEAU",
+      "start": 2754196,
+      "end": 2760739,
+      "words": 1136,
+      "paragraphs": 7
+    },
+    {
+      "number": 326,
+      "volume": 5,
+      "book": 41,
+      "heading": "CHAPTER IV",
+      "start": 2760739,
+      "end": 2768905,
+      "words": 1399,
+      "paragraphs": 9
+    },
+    {
+      "number": 327,
+      "volume": 5,
+      "book": 41,
+      "heading": "CHAPTER V—PRESENT PROGRESS",
+      "start": 2768905,
+      "end": 2771776,
+      "words": 487,
+      "paragraphs": 4
+    },
+    {
+      "number": 328,
+      "volume": 5,
+      "book": 41,
+      "heading": "CHAPTER VI—FUTURE PROGRESS",
+      "start": 2771776,
+      "end": 2782686,
+      "words": 1885,
+      "paragraphs": 9
+    },
+    {
+      "number": 329,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER I—THE SEWER AND ITS SURPRISES",
+      "start": 2782686,
+      "end": 2796885,
+      "words": 2560,
+      "paragraphs": 30
+    },
+    {
+      "number": 330,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER II—EXPLANATION",
+      "start": 2796885,
+      "end": 2801643,
+      "words": 829,
+      "paragraphs": 14
+    },
+    {
+      "number": 331,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER III—THE “SPUN” MAN",
+      "start": 2801643,
+      "end": 2811031,
+      "words": 1704,
+      "paragraphs": 41
+    },
+    {
+      "number": 332,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER IV—HE ALSO BEARS HIS CROSS",
+      "start": 2811031,
+      "end": 2819170,
+      "words": 1447,
+      "paragraphs": 16
+    },
+    {
+      "number": 333,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER V—IN THE CASE OF SAND AS IN THAT OF WOMAN, THERE IS A FINENESS\nWHICH IS TREACHEROUS",
+      "start": 2819170,
+      "end": 2829821,
+      "words": 1926,
+      "paragraphs": 14
+    },
+    {
+      "number": 334,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER VI—THE FONTIS",
+      "start": 2829821,
+      "end": 2834430,
+      "words": 833,
+      "paragraphs": 10
+    },
+    {
+      "number": 335,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER VII—ONE SOMETIMES RUNS AGROUND WHEN ONE FANCIES THAT ONE IS\nDISEMBARKING",
+      "start": 2834430,
+      "end": 2839504,
+      "words": 919,
+      "paragraphs": 15
+    },
+    {
+      "number": 336,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER VIII—THE TORN COAT-TAIL",
+      "start": 2839504,
+      "end": 2849749,
+      "words": 1805,
+      "paragraphs": 69
+    },
+    {
+      "number": 337,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER IX—MARIUS PRODUCES ON SOME ONE WHO IS A JUDGE OF THE MATTER,\nTHE EFFECT OF BEING DEAD",
+      "start": 2849749,
+      "end": 2858797,
+      "words": 1574,
+      "paragraphs": 49
+    },
+    {
+      "number": 338,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER X—RETURN OF THE SON WHO WAS PRODIGAL OF HIS LIFE",
+      "start": 2858797,
+      "end": 2862580,
+      "words": 648,
+      "paragraphs": 33
+    },
+    {
+      "number": 339,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER XI—CONCUSSION IN THE ABSOLUTE",
+      "start": 2862580,
+      "end": 2866211,
+      "words": 643,
+      "paragraphs": 18
+    },
+    {
+      "number": 340,
+      "volume": 5,
+      "book": 42,
+      "heading": "CHAPTER XII—THE GRANDFATHER",
+      "start": 2866211,
+      "end": 2878750,
+      "words": 2320,
+      "paragraphs": 34
+    },
+    {
+      "number": 341,
+      "volume": 5,
+      "book": 43,
+      "heading": "CHAPTER I",
+      "start": 2878750,
+      "end": 2906069,
+      "words": 4840,
+      "paragraphs": 84
+    },
+    {
+      "number": 342,
+      "volume": 5,
+      "book": 44,
+      "heading": "CHAPTER I—IN WHICH THE TREE WITH THE ZINC PLASTER APPEARS AGAIN",
+      "start": 2906069,
+      "end": 2913374,
+      "words": 1287,
+      "paragraphs": 31
+    },
+    {
+      "number": 343,
+      "volume": 5,
+      "book": 44,
+      "heading": "CHAPTER II—MARIUS, EMERGING FROM CIVIL WAR, MAKES READY FOR DOMESTIC\nWAR",
+      "start": 2913374,
+      "end": 2923896,
+      "words": 1846,
+      "paragraphs": 27
+    },
+    {
+      "number": 344,
+      "volume": 5,
+      "book": 44,
+      "heading": "CHAPTER III—MARIUS ATTACKED",
+      "start": 2923896,
+      "end": 2930161,
+      "words": 1157,
+      "paragraphs": 32
+    },
+    {
+      "number": 345,
+      "volume": 5,
+      "book": 44,
+      "heading": "CHAPTER IV—MADEMOISELLE GILLENORMAND ENDS BY NO LONGER THINKING IT A\nBAD THING THAT M. FAUCHELEVENT SHOULD HAVE ENTERED WITH SOMETHING UNDER\nHIS ARM",
+      "start": 2930161,
+      "end": 2941043,
+      "words": 1942,
+      "paragraphs": 62
+    },
+    {
+      "number": 346,
+      "volume": 5,
+      "book": 44,
+      "heading": "CHAPTER V—DEPOSIT YOUR MONEY IN A FOREST RATHER THAN WITH A NOTARY",
+      "start": 2941043,
+      "end": 2943784,
+      "words": 477,
+      "paragraphs": 5
+    },
+    {
+      "number": 347,
+      "volume": 5,
+      "book": 44,
+      "heading": "CHAPTER VI—THE TWO OLD MEN DO EVERYTHING, EACH ONE AFTER HIS OWN\nFASHION, TO RENDER COSETTE HAPPY",
+      "start": 2943784,
+      "end": 2962499,
+      "words": 3256,
+      "paragraphs": 34
+    },
+    {
+      "number": 348,
+      "volume": 5,
+      "book": 44,
+      "heading": "CHAPTER VII—THE EFFECTS OF DREAMS MINGLED WITH HAPPINESS",
+      "start": 2962499,
+      "end": 2967746,
+      "words": 899,
+      "paragraphs": 13
+    },
+    {
+      "number": 349,
+      "volume": 5,
+      "book": 44,
+      "heading": "CHAPTER VIII—TWO MEN IMPOSSIBLE TO FIND",
+      "start": 2967746,
+      "end": 2976889,
+      "words": 1595,
+      "paragraphs": 42
+    },
+    {
+      "number": 350,
+      "volume": 5,
+      "book": 45,
+      "heading": "CHAPTER I—THE 16TH OF FEBRUARY, 1833",
+      "start": 2976889,
+      "end": 2995795,
+      "words": 3283,
+      "paragraphs": 120
+    },
+    {
+      "number": 351,
+      "volume": 5,
+      "book": 45,
+      "heading": "CHAPTER II—JEAN VALJEAN STILL WEARS HIS ARM IN A SLING",
+      "start": 2995795,
+      "end": 3016509,
+      "words": 3664,
+      "paragraphs": 52
+    },
+    {
+      "number": 352,
+      "volume": 5,
+      "book": 45,
+      "heading": "CHAPTER III—THE INSEPARABLE",
+      "start": 3016509,
+      "end": 3021740,
+      "words": 940,
+      "paragraphs": 13
+    },
+    {
+      "number": 353,
+      "volume": 5,
+      "book": 45,
+      "heading": "CHAPTER IV—THE IMMORTAL LIVER 68",
+      "start": 3021740,
+      "end": 3031697,
+      "words": 1729,
+      "paragraphs": 46
+    },
+    {
+      "number": 354,
+      "volume": 5,
+      "book": 46,
+      "heading": "CHAPTER I—THE SEVENTH CIRCLE AND THE EIGHTH HEAVEN",
+      "start": 3031697,
+      "end": 3068867,
+      "words": 6886,
+      "paragraphs": 180
+    },
+    {
+      "number": 355,
+      "volume": 5,
+      "book": 46,
+      "heading": "CHAPTER II—THE OBSCURITIES WHICH A REVELATION CAN CONTAIN",
+      "start": 3068867,
+      "end": 3087333,
+      "words": 3245,
+      "paragraphs": 54
+    },
+    {
+      "number": 356,
+      "volume": 5,
+      "book": 47,
+      "heading": "CHAPTER I—THE LOWER CHAMBER",
+      "start": 3087333,
+      "end": 3096555,
+      "words": 1637,
+      "paragraphs": 81
+    },
+    {
+      "number": 357,
+      "volume": 5,
+      "book": 47,
+      "heading": "CHAPTER II—ANOTHER STEP BACKWARDS",
+      "start": 3096555,
+      "end": 3102303,
+      "words": 990,
+      "paragraphs": 16
+    },
+    {
+      "number": 358,
+      "volume": 5,
+      "book": 47,
+      "heading": "CHAPTER III—THEY RECALL THE GARDEN OF THE RUE PLUMET",
+      "start": 3102303,
+      "end": 3111563,
+      "words": 1649,
+      "paragraphs": 67
+    },
+    {
+      "number": 359,
+      "volume": 5,
+      "book": 47,
+      "heading": "CHAPTER IV—ATTRACTION AND EXTINCTION",
+      "start": 3111563,
+      "end": 3115511,
+      "words": 720,
+      "paragraphs": 7
+    },
+    {
+      "number": 360,
+      "volume": 5,
+      "book": 48,
+      "heading": "CHAPTER I—PITY FOR THE UNHAPPY, BUT INDULGENCE FOR THE HAPPY",
+      "start": 3115511,
+      "end": 3120388,
+      "words": 853,
+      "paragraphs": 13
+    },
+    {
+      "number": 361,
+      "volume": 5,
+      "book": 48,
+      "heading": "CHAPTER II—LAST FLICKERINGS OF A LAMP WITHOUT OIL",
+      "start": 3120388,
+      "end": 3123743,
+      "words": 628,
+      "paragraphs": 35
+    },
+    {
+      "number": 362,
+      "volume": 5,
+      "book": 48,
+      "heading": "CHAPTER III—A PEN IS HEAVY TO THE MAN WHO LIFTED THE FAUCHELEVENT’S\nCART",
+      "start": 3123743,
+      "end": 3129733,
+      "words": 1128,
+      "paragraphs": 17
+    },
+    {
+      "number": 363,
+      "volume": 5,
+      "book": 48,
+      "heading": "CHAPTER IV—A BOTTLE OF INK WHICH ONLY SUCCEEDED IN WHITENING",
+      "start": 3129733,
+      "end": 3169228,
+      "words": 7036,
+      "paragraphs": 223
+    },
+    {
+      "number": 364,
+      "volume": 5,
+      "book": 48,
+      "heading": "CHAPTER V—A NIGHT BEHIND WHICH THERE IS DAY",
+      "start": 3169228,
+      "end": 3190131,
+      "words": 3873,
+      "paragraphs": 126
+    },
+    {
+      "number": 365,
+      "volume": 5,
+      "book": 48,
+      "heading": "CHAPTER VI—THE GRASS COVERS AND THE RAIN EFFACES",
+      "start": 3190131,
+      "end": 3210359,
+      "words": 3553,
+      "paragraphs": 98
+    }
+  ]
+}

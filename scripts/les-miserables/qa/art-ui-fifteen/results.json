@@ -1,0 +1,70 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "fifteen",
+  "images": [
+    {
+      "key": "imperial-senator",
+      "imageId": "lesmis-world-review-art-characters-imperial-senator-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "digne-prefect",
+      "imageId": "lesmis-world-review-art-characters-digne-prefect-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "boischevron",
+      "imageId": "lesmis-world-review-art-characters-boischevron-webp",
+      "width": 1144,
+      "height": 1375
+    },
+    {
+      "key": "impertinent-dowager",
+      "imageId": "lesmis-world-review-art-characters-impertinent-dowager-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "opulent-colleague",
+      "imageId": "lesmis-world-review-art-characters-opulent-colleague-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "former-townhall-porter",
+      "imageId": "lesmis-world-review-art-characters-former-townhall-porter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "paulin-musebois",
+      "imageId": "lesmis-world-review-art-characters-paulin-musebois-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-gerbaud",
+      "imageId": "lesmis-world-review-art-characters-mother-gerbaud-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "marie-claude",
+      "imageId": "lesmis-world-review-art-characters-marie-claude-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "maubert-isabeau",
+      "imageId": "lesmis-world-review-art-characters-maubert-isabeau-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "4e45cb0ea5af95489d8a91e0fe3b82f77498531f50b615289f20c9562818f619",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

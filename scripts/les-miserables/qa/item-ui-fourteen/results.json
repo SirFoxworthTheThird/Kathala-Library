@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "fourteen",
+  "images": [
+    {
+      "key": "thenardier-offered-rope",
+      "imageId": "lesmis-world-review-art-items-thenardier-offered-rope-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "thenardier-sewer-key",
+      "imageId": "lesmis-world-review-art-items-thenardier-sewer-key-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "thenardier-sisters-doll",
+      "imageId": "lesmis-world-review-art-items-thenardier-sisters-doll-webp",
+      "width": 1214,
+      "height": 1295
+    },
+    {
+      "key": "thenardier-twenty-three-franc-bill",
+      "imageId": "lesmis-world-review-art-items-thenardier-twenty-three-franc-bill-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "tholomyes-farewell-letter",
+      "imageId": "lesmis-world-review-art-items-tholomyes-farewell-letter-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "touquet-charter-copy",
+      "imageId": "lesmis-world-review-art-items-touquet-charter-copy-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "valjean-anonymous-move-warning",
+      "imageId": "lesmis-world-review-art-items-valjean-anonymous-move-warning-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "valjean-arrest-order",
+      "imageId": "lesmis-world-review-art-items-valjean-arrest-order-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "a012979ae1f31257b881741e20cea0a4dc3fbdaf76bbf13afc1c52505afabc83",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-valjean-arrest-order",
+  "currentImageId": "lesmis-world-review-art-items-valjean-arrest-order-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

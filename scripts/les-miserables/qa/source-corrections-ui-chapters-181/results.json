@@ -1,0 +1,11 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "181-2 hotel-porte-saint-jacques-proprietor: Unknown",
+    "181-4 hotel-porte-saint-jacques-proprietor: The Hôtel de la Porte-Saint-Jacques chamber"
+  ],
+  "errors": [],
+  "fixtureSha256": "02c186abdc24c6fea89544dd2fd96f670ac52af91fdef1d12fd26f0aad4a76e3",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

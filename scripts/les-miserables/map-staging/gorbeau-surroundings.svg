@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100">
+<rect width="1600" height="1100" fill="#f3ecd9"/>
+<g font-family="Georgia,serif">
+<text x="800" y="65" text-anchor="middle" font-size="41" fill="#51483c">Boulevard de l’Hôpital</text>
+<text x="800" y="108" text-anchor="middle" font-size="25" fill="#51483c">The surroundings of the Gorbeau house</text>
+<path d="M90 540 H1510" stroke="#d8d0b8" stroke-width="110"/>
+<path d="M285 540 V190 M750 540 V875" stroke="#ded6c0" stroke-width="75"/>
+<text x="1120" y="550" text-anchor="middle" font-size="28" fill="#51483c">Boulevard de l’Hôpital</text>
+<text x="250" y="360" text-anchor="middle" transform="rotate(-90 250 360)" font-size="24" fill="#5d5344">Rue du Petit-Banquier</text>
+<text x="750" y="700" text-anchor="middle" transform="rotate(-90 750 700)" font-size="18" fill="#5d5344">Rue de la Barrière-des-Gobelins</text>
+<path d="M180 860 H1470" stroke="#9b927d" stroke-width="20"/>
+<text x="1145" y="908" text-anchor="middle" font-size="27" fill="#51483c">City wall</text><text x="370" y="908" text-anchor="middle" font-size="22" fill="#51483c">Toward the barrier</text>
+<rect x="545" y="210" width="220" height="230" rx="5" fill="#d7c3a1" stroke="#857257" stroke-width="3"/><text x="655" y="292" text-anchor="middle" font-size="30" fill="#51483c">Gorbeau</text><text x="655" y="334" text-anchor="middle" font-size="26" fill="#51483c">50–52</text>
+<text x="655" y="381" text-anchor="middle" font-size="19" fill="#51483c">Narrow street end</text>
+<path d="M590 440 H645" stroke="#f3ecd9" stroke-width="15"/>
+<rect x="365" y="210" width="155" height="235" rx="5" fill="#ced1ac" stroke="#857257" stroke-width="3"/><rect x="790" y="210" width="155" height="235" rx="5" fill="#ced1ac" stroke="#857257" stroke-width="3"/>
+<text x="440" y="306" text-anchor="middle" font-size="22" fill="#51483c">Garden</text><text x="865" y="306" text-anchor="middle" font-size="22" fill="#51483c">Garden</text>
+<rect x="1000" y="215" width="330" height="220" rx="5" fill="#cbbfa8" stroke="#857257" stroke-width="3"/><text x="1165" y="295" text-anchor="middle" font-size="29" fill="#51483c">Factory</text>
+<text x="1165" y="338" text-anchor="middle" font-size="19" fill="#51483c">A neighboring landmark</text>
+<rect x="110" y="205" width="105" height="190" rx="5" fill="#d4c6ae" stroke="#857257" stroke-width="3"/>
+<path d="M175 270 V445" stroke="#9b8c70" stroke-width="7"/>
+<text x="160" y="465" text-anchor="middle" font-size="18" fill="#51483c">Low wall</text>
+<path d="M875 610 V805" stroke="#9b8c70" stroke-width="8"/>
+<text x="960" y="738" text-anchor="middle" font-size="20" fill="#51483c">Deserted wall</text>
+<g fill="#afb594" stroke="#7e896a" stroke-width="2">
+<circle cx="560" cy="612" r="24"/><circle cx="630" cy="612" r="29"/><circle cx="700" cy="612" r="22"/>
+</g>
+<path d="M630 595 V642 M630 600 L617 580 M630 605 L648 584" stroke="#796c52" stroke-width="6"/>
+<text x="485" y="685" text-anchor="middle" font-size="22" fill="#51483c">Boulevard trees</text><text x="478" y="715" text-anchor="middle" font-size="19" fill="#51483c">Elm opposite the house</text>
+<rect x="1060" y="650" width="325" height="140" rx="5" fill="#d9d7bb" stroke="#857257" stroke-width="3"/><text x="1222" y="710" text-anchor="middle" font-size="27" fill="#51483c">Waste ground</text>
+<text x="800" y="1000" text-anchor="middle" font-size="22" fill="#51483c">Topological plan: street angles, distances and building footprints are schematic.</text>
+<text x="800" y="1042" text-anchor="middle" font-size="19" fill="#51483c">The side street faces the house, and ends at the wall; the boulevard trees stand between them.</text>
+</g></svg>

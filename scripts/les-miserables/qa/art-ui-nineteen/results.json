@@ -1,0 +1,77 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "nineteen",
+  "images": [
+    {
+      "key": "waterloo-prowler",
+      "imageId": "lesmis-world-review-art-characters-waterloo-prowler-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "waterloo-wounded-officer",
+      "imageId": "lesmis-world-review-art-characters-waterloo-wounded-officer-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "boulatruelle",
+      "imageId": "lesmis-world-review-art-characters-boulatruelle-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montfermeil-yellow-stranger",
+      "imageId": "lesmis-world-review-art-characters-montfermeil-yellow-stranger-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "petit-picpus-bell-man",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-bell-man-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gorbeau-principal-lodger",
+      "imageId": "lesmis-world-review-art-characters-gorbeau-principal-lodger-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "saint-medard-ex-beadle",
+      "imageId": "lesmis-world-review-art-characters-saint-medard-ex-beadle-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "saint-medard-beggar-figure",
+      "imageId": "lesmis-world-review-art-characters-saint-medard-beggar-figure-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-crucifixion",
+      "imageId": "lesmis-world-review-art-characters-mother-crucifixion-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-sainte-mechtilde",
+      "imageId": "lesmis-world-review-art-characters-mother-sainte-mechtilde-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "eae7296490465817608eddb1ccb6a6b3a459b2f5f5fab5ce335bb62fa7d401df",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-mother-sainte-mechtilde",
+  "currentImageId": "lesmis-world-review-art-characters-mother-sainte-mechtilde-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

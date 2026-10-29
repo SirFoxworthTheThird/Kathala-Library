@@ -1,0 +1,59 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "eight",
+  "images": [
+    {
+      "key": "cosette-marriage-banknotes",
+      "imageId": "lesmis-world-review-art-items-cosette-marriage-banknotes-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "embrun-vestment-chest",
+      "imageId": "lesmis-world-review-art-items-embrun-vestment-chest-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "eponine-withheld-letter-for-marius",
+      "imageId": "lesmis-world-review-art-items-eponine-withheld-letter-for-marius-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "gavroche-cartridge-basket",
+      "imageId": "lesmis-world-review-art-items-gavroche-cartridge-basket-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "gavroche-found-powder-flask",
+      "imageId": "lesmis-world-review-art-items-gavroche-found-powder-flask-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "gavroche-handcart-receipt",
+      "imageId": "lesmis-world-review-art-items-gavroche-handcart-receipt-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "gavroche-seized-handcart",
+      "imageId": "lesmis-world-review-art-items-gavroche-seized-handcart-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "e270b0b94c90b84e7b3c943c0fa8967a8272a4426b332976839175bd47a10f62",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-gavroche-seized-handcart",
+  "currentImageId": "lesmis-world-review-art-items-gavroche-seized-handcart-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

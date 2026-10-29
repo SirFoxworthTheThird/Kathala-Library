@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesChronology.test.ts (3 tests | 1 failed | 2 skipped) 5ms
+   × rejects normalized invalid dates and an uncovered chapter instead of inventing a frame 4ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 skipped (3)
+   Start at  08:35:08
+   Duration  584ms (transform 276ms, setup 0ms, import 425ms, tests 5ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesChronology.test.ts > rejects normalized invalid dates and an uncovered chapter instead of inventing a frame
+AssertionError: expected [Function] to throw an error
+
+- Expected:
+null
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesChronology.test.ts:38:40
+     36|
+     37| test('rejects normalized invalid dates and an uncovered chapter instea…
+     38|  expect(()=>relativeDay('1832-02-30')).toThrow('Invalid reference coor…
+       |                                        ^
+     39|  const extra=new Map(review)
+     40|  extra.set(366,[{at:'start'}])
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

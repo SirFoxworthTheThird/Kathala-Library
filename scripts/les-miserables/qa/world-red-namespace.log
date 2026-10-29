@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesWorldReview.test.ts (3 tests | 1 failed | 2 skipped) 1229ms
+   × assembles the complete manuscript under isolated review identities without replacing final edition maps 1228ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 skipped (3)
+   Start at  08:52:05
+   Duration  1.97s (transform 415ms, setup 0ms, import 592ms, tests 1.23s, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesWorldReview.test.ts > assembles the complete manuscript under isolated review identities without replacing final edition maps
+AssertionError: expected true to be false // Object.is equality
+
+- Expected
++ Received
+
+- false
++ true
+
+ ❯ tests/lesMiserablesWorldReview.test.ts:20:50
+     18|  const final=buildMapRecords({worldId:'final',createdAt:1,updatedAt:1}…
+     19|  const finalIds=new Set([...final.mapLayers,...final.locationMarkers,.…
+     20|  expect(ids.some((id:string)=>finalIds.has(id))).toBe(false)
+       |                                                  ^
+     21|  expect(rows.every((r:any)=>r.worldId==='les-miserables-world-review')…
+     22| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

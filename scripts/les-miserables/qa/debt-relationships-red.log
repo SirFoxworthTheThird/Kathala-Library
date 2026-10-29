@@ -1,0 +1,37 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesDebtRelationships.test.ts (1 test | 1 failed) 1049ms
+   × records the rescue debt, unreturned attachment and late family reconciliation at their source disclosures 1048ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesDebtRelationships.test.ts > records the rescue debt, unreturned attachment and late family reconciliation at their source disclosures
+AssertionError: expected undefined to match object { …(3) }
+
+- Expected:
+{
+  "characterAId": "lesmis-world-review-character-thenardier",
+  "characterBId": "lesmis-world-review-character-pontmercy",
+  "startEventId": "lesmis-world-review-event-89-5",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesDebtRelationships.test.ts:7:36
+      5|  const{world}=buildWorldReview({embedded:false}),p='lesmis-world-revie…
+      6|  const relation=key=>world.relationships.find(row=>row.id===`${p}-rela…
+      7|  expect(relation('waterloo-debt')).toMatchObject({startEventId:`${p}-e…
+       |                                    ^
+      8|  expect(relation('inherited-waterloo-debt')).toBeDefined()
+      9|  const help=relation('eponine-marius')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  00:55:26
+   Duration  1.81s (transform 422ms, setup 0ms, import 607ms, tests 1.05s, environment 0ms)
+

@@ -1,0 +1,166 @@
+{
+  "montreuil-town": {
+    "width": 1448,
+    "height": 1086,
+    "locations": {
+      "madeleine-factory": [
+        430,
+        670
+      ],
+      "montreuil-townhall": [
+        1000,
+        278
+      ],
+      "montreuil-square": [
+        1030,
+        395
+      ],
+      "montreuil-police-station": [
+        1185,
+        391
+      ],
+      "montreuil-officers-cafe-front": [
+        972,
+        429
+      ],
+      "montreuil-unpaved-alley": [
+        424,
+        845
+      ],
+      "montreuil-barber-shop": [
+        955,
+        541
+      ],
+      "montreuil-parsonage-door": [
+        1230,
+        633
+      ],
+      "scaufflaire-hire-yard": [
+        1290,
+        794
+      ],
+      "montreuil-post-office": [
+        1105,
+        505
+      ],
+      "montreuil-city-prison": [
+        801,
+        242
+      ],
+      "montreuil-cemetery": [
+        1285,
+        970
+      ],
+      "montreuil-countryside": [
+        815,
+        947
+      ],
+      "montreuil-hesdin-road": [
+        1344,
+        154
+      ],
+      "montreuil-paris-road": [
+        1124,
+        986
+      ],
+      "javert-montreuil-lodging": [
+        1030,
+        691
+      ],
+      "montreuil-lodging-quarter": [
+        300,
+        808
+      ]
+    },
+    "landmarks": {
+      "madeleine-factory": "The courtyard and household wing of the lower-town factory, below the two long workshop roofs.",
+      "montreuil-townhall": "The roof of the civic building on the upper edge of the square.",
+      "montreuil-square": "Open paving between town-hall, station and cafe.",
+      "montreuil-police-station": "The small building at the right end of the square; exact historical address is not asserted.",
+      "montreuil-officers-cafe-front": "The square-facing frontage of the cafe, rather than the interior.",
+      "montreuil-unpaved-alley": "The earth-surfaced way among the lower-town houses; the source does not name it.",
+      "montreuil-barber-shop": "The modest shop block beside the lower side of the upper-town square approach; schematic site.",
+      "montreuil-parsonage-door": "The parsonage property beside the quiet approach toward the hire establishment; door site is schematic.",
+      "scaufflaire-hire-yard": "The stable and hire-yard property at the edge of the upper town.",
+      "montreuil-post-office": "The postal-establishment block southeast of the square; schematic site.",
+      "montreuil-city-prison": "The labeled prison property northwest of the square; precise address unknown.",
+      "montreuil-cemetery": "Inside the burial enclosure beyond the lower-right town edge.",
+      "montreuil-countryside": "Open agricultural ground below the western slopes; general countryside setting.",
+      "montreuil-hesdin-road": "The outward road at the upper-right margin; label direction is schematic.",
+      "montreuil-paris-road": "The outward road below the lower town gate, beside the cemetery approach.",
+      "javert-montreuil-lodging": "The labeled ordinary dwelling south of the square; no source address is inferred.",
+      "montreuil-lodging-quarter": "The poorer lower-town rental dwellings, represented at neighborhood scale without assigning either room an exact address."
+    }
+  },
+  "madeleine-premises": {
+    "width": 1536,
+    "height": 1024,
+    "locations": {
+      "madeleine-women-workroom": [
+        295,
+        330
+      ],
+      "madeleine-factory-lodge": [
+        170,
+        859
+      ],
+      "madeleine-study": [
+        700,
+        860
+      ],
+      "madeleine-bedroom": [
+        1208,
+        261
+      ],
+      "madeleine-bedroom-door": [
+        1001,
+        252
+      ],
+      "madeleine-cashier-room": [
+        1217,
+        424
+      ],
+      "montreuil-factory-infirmary": [
+        1015,
+        759
+      ],
+      "montreuil-infirmary-antechamber": [
+        1020,
+        820
+      ],
+      "montreuil-infirmary-laboratory": [
+        1420,
+        828
+      ]
+    },
+    "landmarks": {
+      "madeleine-women-workroom": "The separate left workshop, without asserting access into the men’s room.",
+      "madeleine-factory-lodge": "Inside the portress’s small lodge beside the courtyard.",
+      "madeleine-study": "Clear floor below and beside the desk in the detached study detail.",
+      "madeleine-bedroom": "Clear floor within the upper private-room detail; no actual floor number is asserted.",
+      "madeleine-bedroom-door": "The threshold on the left edge of the chamber detail.",
+      "madeleine-cashier-room": "The room shown separately below the chamber, reflecting the stated vertical relation only.",
+      "montreuil-factory-infirmary": "The ward detail beside the bed, distinct from the town hospital.",
+      "montreuil-infirmary-antechamber": "The small room outside the ward and above its approach steps.",
+      "montreuil-infirmary-laboratory": "The standalone preparation-room detail; no corridor or precise ward adjacency is inferred."
+    }
+  },
+  "fantine-rented-rooms": {
+    "width": 1774,
+    "height": 887,
+    "locations": {
+      "fantine-montreuil-room": [
+        470,
+        520
+      ],
+      "fantine-montreuil-attic": [
+        1350,
+        535
+      ]
+    },
+    "landmarks": {
+      "fantine-montreuil-room": "Open floor in the earlier second-floor room, shown separately from the attic.",
+      "fantine-montreuil-attic": "Open floor in the cramped later roof lodging; the blank gap prevents a false claim of adjacency or shared address."
+    }
+  }
+}

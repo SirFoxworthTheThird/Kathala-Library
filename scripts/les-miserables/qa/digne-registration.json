@@ -1,0 +1,98 @@
+{
+  "width": 1448,
+  "height": 1086,
+  "locations": {
+    "digne": [
+      916,
+      516
+    ],
+    "digne-palace": [
+      1064,
+      174
+    ],
+    "digne-palace-gallery": [
+      1055,
+      215
+    ],
+    "digne-hospital": [
+      1095,
+      414
+    ],
+    "digne-bishop-house-gateway": [
+      1115,
+      449
+    ],
+    "digne-cathedral": [
+      859,
+      282
+    ],
+    "digne-cathedral-door": [
+      851,
+      355
+    ],
+    "digne-printing-office-door": [
+      998,
+      560
+    ],
+    "digne-prefecture-dining-room": [
+      748,
+      595
+    ],
+    "cross-colbas": [
+      337,
+      193
+    ],
+    "cross-colbas-kitchen": [
+      363,
+      310
+    ],
+    "chaffaut-public-house": [
+      243,
+      488
+    ],
+    "digne-prison-door": [
+      529,
+      906
+    ],
+    "digne-prison-cell": [
+      445,
+      846
+    ],
+    "digne-artisan-house": [
+      755,
+      901
+    ],
+    "digne-kennel-garden": [
+      1086,
+      859
+    ],
+    "digne-drawing-room": [
+      521,
+      465
+    ],
+    "digne-outskirts": [
+      1272,
+      919
+    ]
+  },
+  "landmarks": {
+    "digne": "The open town street below the cathedral square; a general setting marker.",
+    "digne-palace": "The palace roof west of its large formal garden, directly above the small former hospital property.",
+    "digne-palace-gallery": "The long palace wing beside the large garden; the interior gallery position is editorial.",
+    "digne-hospital": "The small former hospital house directly below the palace, beside its four-plot garden.",
+    "digne-bishop-house-gateway": "The street-facing lower boundary of the small former hospital property; marker naming follows scene disclosure.",
+    "digne-cathedral": "The cathedral roof overlooking the square, without asserting a modern facade reconstruction.",
+    "digne-cathedral-door": "The cathedral threshold opening onto its square.",
+    "digne-printing-office-door": "The square-side front of the printing-office property at the lower corner.",
+    "digne-prefecture-dining-room": "The upper wing of the prefecture courtyard property; room position is schematic.",
+    "cross-colbas": "The inn roof at the upper-left street bend.",
+    "cross-colbas-kitchen": "The inn lower wing, with the precise kitchen position editorial.",
+    "chaffaut-public-house": "The public-house roof beside its enclosed yard at middle left.",
+    "digne-prison-door": "The entrance in the lower wall of the prison courtyard property.",
+    "digne-prison-cell": "The prison left wing; the cell position is editorial.",
+    "digne-artisan-house": "The lower wing of the artisan-house courtyard property.",
+    "digne-kennel-garden": "Inside the garden enclosure beside the small shed, without painting the dog or the later encounter.",
+    "digne-drawing-room": "The town-society house roof beside its garden; the room position is editorial.",
+    "digne-outskirts": "The open route beyond the lower-right garden enclosure and boundary remnants."
+  }
+}

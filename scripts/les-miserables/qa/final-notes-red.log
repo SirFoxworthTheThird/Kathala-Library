@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesReaderItemNotes.test.ts (1 test | 1 failed) 4ms
+   × keeps source offsets and generator vocabulary out of reader-facing object notes 4ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesReaderItemNotes.test.ts > keeps source offsets and generator vocabulary out of reader-facing object notes
+AssertionError: childhood-clothes-on-final-bed: expected 'With his bed now moved into the antec…' not to match /\bat\d+\b|\binventory\b|carry-forwar…/i
+
+- Expected:
+/\bat\d+\b|\binventory\b|carry-forward|source confirmation/i
+
++ Received:
+"With his bed now moved into the antechamber, Valjean takes the childhood outfit from the valise and spreads it on that bed. Cosette is elsewhere; the displayed clothes are not in her inventory."
+
+ ❯ tests/lesMiserablesReaderItemNotes.test.ts:6:38
+      4| test('keeps source offsets and generator vocabulary out of reader-faci…
+      5|  for(const change of itemStateChanges){
+      6|   expect(change.note,change.key).not.toMatch(/\bat\d+\b|\binventory\b|…
+       |                                      ^
+      7|  }
+      8|  const handkerchief=itemStateChanges.find(row=>row.key==='uf-handkerch…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  00:30:25
+   Duration  204ms (transform 25ms, setup 0ms, import 41ms, tests 4ms, environment 0ms)
+

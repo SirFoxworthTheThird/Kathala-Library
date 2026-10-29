@@ -1,0 +1,23 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "seventeen",
+  "images": [
+    {
+      "key": "barge-address-paper",
+      "imageId": "lesmis-world-review-art-items-barge-address-paper-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "b4eb27a82c6cbe062616ca8d8a47cfccb162627b80c5a6034baccf1ecc90ee2a",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-barge-address-paper",
+  "currentImageId": "lesmis-world-review-art-items-barge-address-paper-webp",
+  "currentDecoded": {
+    "width": 1536,
+    "height": 1024,
+    "type": "image/webp"
+  }
+}

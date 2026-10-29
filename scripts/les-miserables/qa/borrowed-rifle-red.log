@@ -1,0 +1,52 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesBorrowedRifle.test.ts (2 tests | 2 failed) 1477ms
+   × models the borrowed double-barrelled rifle separately from Valjean’s equipment 1473ms
+   × records the return at its report without inventing a distinct return scene 3ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesBorrowedRifle.test.ts > models the borrowed double-barrelled rifle separately from Valjean’s equipment
+TypeError: .toMatch() expects to receive a string, but got undefined
+ ❯ tests/lesMiserablesBorrowedRifle.test.ts:8:54
+      6|  const{world}=buildWorldReview({embedded:false})
+      7|  const id='lesmis-world-review-item-enjolras-borrowed-rifle'
+      8|  expect(world.items.find(r=>r.id===id)?.description).toMatch(/double-b…
+       |                                                      ^
+      9|  const held=world.characterSnapshots.filter(r=>r.inventoryItemIds.incl…
+     10|  expect(held.map(r=>[r.eventId,r.characterId])).toEqual([
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesBorrowedRifle.test.ts > records the return at its report without inventing a distinct return scene
+AssertionError: expected undefined to match object { chapter: 307, at: 7, …(3) }
+
+- Expected:
+{
+  "at": 7,
+  "chapter": 307,
+  "evidenceParagraph": 8,
+  "holder": "valjean",
+  "kind": "held",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesBorrowedRifle.test.ts:17:66
+     15|
+     16| test('records the return at its report without inventing a distinct re…
+     17|  expect(itemStateChanges.find(r=>r.key==='enjolras-rifle-lent')).toMat…
+       |                                                                  ^
+     18|  expect(itemStateChanges.find(r=>r.key==='enjolras-rifle-returned')).t…
+     19| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  01:43:21
+   Duration  2.22s (transform 398ms, setup 0ms, import 586ms, tests 1.48s, environment 0ms)
+

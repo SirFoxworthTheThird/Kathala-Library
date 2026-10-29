@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-two",
+  "images": [
+    {
+      "key": "jondrette-barrier-interlocutor",
+      "imageId": "lesmis-world-review-art-characters-jondrette-barrier-interlocutor-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "masked-cudgel-man",
+      "imageId": "lesmis-world-review-art-characters-masked-cudgel-man-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "masked-axe-man",
+      "imageId": "lesmis-world-review-art-characters-masked-axe-man-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "masked-key-man",
+      "imageId": "lesmis-world-review-art-characters-masked-key-man-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "attic-white-haired-man",
+      "imageId": "lesmis-world-review-art-characters-attic-white-haired-man-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "attic-bearded-man",
+      "imageId": "lesmis-world-review-art-characters-attic-bearded-man-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "attic-long-haired-man",
+      "imageId": "lesmis-world-review-art-characters-attic-long-haired-man-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "attic-doorpost-man",
+      "imageId": "lesmis-world-review-art-characters-attic-doorpost-man-webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "8221684b270b5e3b63fd8689fc55fd6dbb2a9d2a1ad5b91f97617d922e6a070d",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-attic-doorpost-man",
+  "currentImageId": "lesmis-world-review-art-characters-attic-doorpost-man-webp",
+  "currentDecoded": {
+    "width": 1024,
+    "height": 1536,
+    "type": "image/webp"
+  }
+}

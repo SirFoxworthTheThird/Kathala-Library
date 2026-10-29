@@ -1,0 +1,10 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "307-2 valjean: Enjolras’s double-barrelled rifle"
+  ],
+  "errors": [],
+  "fixtureSha256": "12adf8fd9c69f8a799933cd4bcaaeb82dc5c42ecc68cbe9d0e08458b20be2467",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

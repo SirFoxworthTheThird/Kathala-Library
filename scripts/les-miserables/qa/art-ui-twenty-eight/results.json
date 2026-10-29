@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-eight",
+  "images": [
+    {
+      "key": "hotel-porte-saint-jacques-proprietor",
+      "imageId": "lesmis-world-review-art-characters-hotel-porte-saint-jacques-proprietor-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "infirmary-serving-maid",
+      "imageId": "lesmis-world-review-art-characters-infirmary-serving-maid-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "la-vargouleme",
+      "imageId": "lesmis-world-review-art-characters-la-vargouleme-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "larks-meadow-passerby",
+      "imageId": "lesmis-world-review-art-characters-larks-meadow-passerby-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mabeuf-passing-gardener",
+      "imageId": "lesmis-world-review-art-characters-mabeuf-passing-gardener-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montfermeil-schoolmaster",
+      "imageId": "lesmis-world-review-art-characters-montfermeil-schoolmaster-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montreuil-clerk",
+      "imageId": "lesmis-world-review-art-characters-montreuil-clerk-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montreuil-mourning-dowager",
+      "imageId": "lesmis-world-review-art-characters-montreuil-mourning-dowager-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "d36414c5f1f3c979e3f361441202e68d95d47bc8c802dfac1091837b6cfe24fd",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-montreuil-mourning-dowager",
+  "currentImageId": "lesmis-world-review-art-characters-montreuil-mourning-dowager-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

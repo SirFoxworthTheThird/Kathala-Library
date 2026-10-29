@@ -1,0 +1,62 @@
+{
+  "selected": [
+    [
+      "hotel-porte-saint-jacques-proprietor",
+      "exec-d4a93787-de08-4344-a6be-8d2bc0545e52.png"
+    ],
+    [
+      "infirmary-serving-maid",
+      "exec-6cb5e993-8671-46d4-afc2-c45fa8d65278.png"
+    ],
+    [
+      "la-vargouleme",
+      "exec-b70cd2b2-b8f7-49e5-af20-141abab1bef1.png"
+    ],
+    [
+      "larks-meadow-passerby",
+      "exec-a0d0cfe5-921c-4350-a361-00678881e157.png"
+    ],
+    [
+      "mabeuf-passing-gardener",
+      "exec-bc7c14c4-8f63-4941-9df1-629af42dc563.png"
+    ],
+    [
+      "montfermeil-schoolmaster",
+      "exec-a5a303af-7656-4438-b988-b4127022e02a.png"
+    ],
+    [
+      "montreuil-clerk",
+      "exec-47eb8e98-cd9c-4912-a407-a1918d653a53.png"
+    ],
+    [
+      "montreuil-mourning-dowager",
+      "exec-8896625d-5f16-4d1b-b38e-20348b960e3e.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "larks-meadow-passerby",
+      "prompt": "Remove the small signature/initials at the bottom right, replacing only that mark with matching paper and hatching. Preserve the entire man, background and style. No lettering or watermark anywhere.",
+      "original": "exec-d693653c-a0af-4f52-a5e8-5f49ef6acf19.png",
+      "selected": "exec-a0d0cfe5-921c-4350-a361-00678881e157.png"
+    },
+    {
+      "key": "montfermeil-schoolmaster",
+      "prompt": "Remove the tiny distant church cross/spire at the far upper right. Replace only that distant structure with a modest ordinary tiled village roof with no tower or religious landmark. Preserve the schoolmaster, pose, face, glasses and literary illustration.",
+      "original": "exec-a3d8cbf9-879f-4ebf-952a-bdeaac3ef453.png",
+      "selected": "exec-a5a303af-7656-4438-b988-b4127022e02a.png"
+    },
+    {
+      "key": "montreuil-clerk",
+      "prompt": "Remove the pencil and sheet from this clerk's hands. Show both empty hands resting naturally at waist height. The source says the MAYOR writes, not this clerk. Preserve clerk's face, period civilian coat and contextual wall-map. No eraser or modern pencil. Same ink/watercolor.",
+      "original": "exec-5b81db14-a746-484b-b15a-b59122b1c227.png",
+      "selected": "exec-47eb8e98-cd9c-4912-a407-a1918d653a53.png"
+    },
+    {
+      "key": "montreuil-mourning-dowager",
+      "prompt": "Keep the exact elderly woman's face and pose. Replace later Victorian bonnet with a modest simple white indoor linen cap, and her elaborate black lace dress with an early1820s high-waisted muted plum silk dress, narrow long sleeves and white muslin neck covering, plain dark shawl. She is asking why the MAYOR wears mourning; she is not herself in mourning. No Victorian bonnet, bustle, crinoline or later wide sleeve. Preserve literary ink/watercolor.",
+      "original": "exec-30abf4a1-84c4-4c08-b8b1-22d87e2dc51a.png",
+      "selected": "exec-8896625d-5f16-4d1b-b38e-20348b960e3e.png"
+    }
+  ]
+}

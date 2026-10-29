@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-four",
+  "images": [
+    {
+      "key": "carnival-spaniard",
+      "imageId": "lesmis-world-review-art-characters-carnival-spaniard-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "carnival-young-fishwife",
+      "imageId": "lesmis-world-review-art-characters-carnival-young-fishwife-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "petit-banquier-bearded-man",
+      "imageId": "lesmis-world-review-art-characters-petit-banquier-bearded-man-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "petit-banquier-long-haired-man",
+      "imageId": "lesmis-world-review-art-characters-petit-banquier-long-haired-man-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "petit-picpus-visiting-archbishop",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-visiting-archbishop-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "quelen",
+      "imageId": "lesmis-world-review-art-characters-quelen-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "orion-topman",
+      "imageId": "lesmis-world-review-art-characters-orion-topman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "orion-watch-officer",
+      "imageId": "lesmis-world-review-art-characters-orion-watch-officer-webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "52bfeaa1001364b789b5a055b1cad68d1a468b5ad92584a0e3c7a4e23f50eb98",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-orion-watch-officer",
+  "currentImageId": "lesmis-world-review-art-characters-orion-watch-officer-webp",
+  "currentDecoded": {
+    "width": 1024,
+    "height": 1536,
+    "type": "image/webp"
+  }
+}

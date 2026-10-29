@@ -1,0 +1,11 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "232-6 eponine: does not hold The borrowed prison payment",
+    "232-6 marius: does not hold The borrowed prison payment"
+  ],
+  "errors": [],
+  "fixtureSha256": "7866a40ba0731d87e6a42401590e2f815d32b9c047b357db0cf86ac3079f8c76",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

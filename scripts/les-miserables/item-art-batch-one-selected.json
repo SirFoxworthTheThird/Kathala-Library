@@ -1,0 +1,40 @@
+{
+  "selected": [
+    [
+      "silver-candlesticks",
+      "exec-956f61ea-1c4b-452e-9376-8a2e03b492a6.png"
+    ],
+    [
+      "silver-tableware",
+      "exec-bc7ba0c0-2cec-46c3-bbae-8e461de5f85b.png"
+    ],
+    [
+      "yellow-passport",
+      "exec-1a412ea9-4c53-4c98-9c82-c76dbd131de0.png"
+    ],
+    [
+      "gervais-forty-sous",
+      "exec-706c3c73-46a6-418a-86af-b63bac109385.png"
+    ],
+    [
+      "valjean-thorn-cudgel",
+      "exec-9b8b4cf1-e6f9-4c9e-9692-8fba672a8626.png"
+    ],
+    [
+      "valjean-old-outfit",
+      "exec-7de49d88-f930-425e-9b38-f9f0b99e150b.png"
+    ]
+  ],
+  "revisions": [
+    {
+      "key": "yellow-passport",
+      "prompt": "Revise this same illustration of a single LARGE YELLOW PAPER passport sheet in France in1815. Preserve the single unfolded sheet, yellow colour, wooden table, viewing angle and illustrated ink/watercolor material. Make the paper flexible and usable, recently issued and carried for a few days: keep soft fold creases, but remove every tear, hole, crumbling edge, heavy age stain and brittle split. Remove the circular official stamp/seal completely. Reduce all handwriting to faint indistinct broken pen strokes, with NO readable words, personal names, dates, numbers, headings, signature or invented official device. It must look like a plain yellow travel document, not an antique facsimile, modern booklet or blank golden card.",
+      "reason": "Remove inappropriate long archival decay and invented seal."
+    },
+    {
+      "key": "valjean-old-outfit",
+      "prompt": "Make one targeted correction to this same still-life illustration. Keep the old trousers, knapsack, shelf, blue colour, worn material and literary ink/watercolor style. Replace the modern-looking blue collared button-down shirt with a faded BLUE LINEN FRENCH WORKING BLOUSE of about1815: loose smock fabric, simple round gathered neck, a short neck slit with a plain tie, NO pointed shirt collar, NO full-length button placket, NO chest pockets, NO denim, NO jeans stitching or rivets. Keep it folded in the same place with visible linen weave and a few repairs. No extra items, people, words or flames.",
+      "reason": "Replace modern-looking collared shirt with a plain gathered linen work blouse."
+    }
+  ]
+}

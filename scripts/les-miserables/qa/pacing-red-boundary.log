@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesPacing.test.ts (2 tests | 1 failed | 1 skipped) 14ms
+   × requires fresh review when a pivotal boundary moves even if its scene count is unchanged 14ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 skipped (2)
+   Start at  08:40:08
+   Duration  573ms (transform 271ms, setup 0ms, import 408ms, tests 14ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesPacing.test.ts > requires fresh review when a pivotal boundary moves even if its scene count is unchanged
+AssertionError: expected [Function] to throw an error
+
+- Expected:
+null
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesPacing.test.ts:22:38
+     20|  const rows=review.get(313)
+     21|  rows[3]={...rows[3],at:35}
+     22|  expect(()=>buildPacingPlan(review)).toThrow('Pivotal pacing cut moved…
+       |                                      ^
+     23|  const added=enrichedReview()
+     24|  added.get(313).push({...added.get(313).at(-1),at:39})
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty",
+  "images": [
+    {
+      "key": "montreuil-parsonage-passerby",
+      "imageId": "lesmis-world-review-art-characters-montreuil-parsonage-passerby-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "orme-saint-gervais-barber",
+      "imageId": "lesmis-world-review-art-characters-orme-saint-gervais-barber-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "orme-saint-gervais-veteran",
+      "imageId": "lesmis-world-review-art-characters-orme-saint-gervais-veteran-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "petit-picpus-absent-minded-precentor",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-absent-minded-precentor-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "petit-picpus-admission-vocal-mother",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-admission-vocal-mother-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "petit-picpus-history-mother",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-history-mother-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "petit-picpus-porter",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-porter-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "pontoise-duty-clerk",
+      "imageId": "lesmis-world-review-art-characters-pontoise-duty-clerk-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "25a798972db4f2d131c40681392824e2facc1c660dcdaf22acbf41a9acc73248",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-pontoise-duty-clerk",
+  "currentImageId": "lesmis-world-review-art-characters-pontoise-duty-clerk-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

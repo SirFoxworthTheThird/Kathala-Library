@@ -1,0 +1,36 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesPontmercyPaper.test.ts (1 test | 1 failed) 1146ms
+   × models the servant handing the colonel’s instructions to Marius as direct participation 1145ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesPontmercyPaper.test.ts > models the servant handing the colonel’s instructions to Marius as direct participation
+AssertionError: expected [] to deeply equal [ …(2) ]
+
+- Expected
++ Received
+
+- [
+-   "lesmis-world-review-character-marius",
+-   "lesmis-world-review-character-pontmercy-servant",
+- ]
++ []
+
+ ❯ tests/lesMiserablesPontmercyPaper.test.ts:9:44
+      7|  const{world}=buildWorldReview({embedded:false}),p='lesmis-world-revie…
+      8|  const event=world.events.find(row=>row.id===`${p}-event-171-5`)
+      9|  expect(event.involvedCharacterIds.sort()).toEqual(['marius','pontmerc…
+       |                                            ^
+     10|  const rows=world.characterSnapshots.filter(row=>row.eventId===event.i…
+     11|  expect(rows).toHaveLength(2)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  02:31:29
+   Duration  1.90s (transform 408ms, setup 0ms, import 593ms, tests 1.15s, environment 0ms)
+

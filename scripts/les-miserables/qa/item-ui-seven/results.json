@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "seven",
+  "images": [
+    {
+      "key": "cosette-bread-fifteen-sous",
+      "imageId": "lesmis-world-review-art-items-cosette-bread-fifteen-sous-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "cosette-childhood-mourning-clothes",
+      "imageId": "lesmis-world-review-art-items-cosette-childhood-mourning-clothes-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "cosette-gold-twenty-franc-piece",
+      "imageId": "lesmis-world-review-art-items-cosette-gold-twenty-franc-piece-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "key": "courfeyrac-barricade-coffer",
+      "imageId": "lesmis-world-review-art-items-courfeyrac-barricade-coffer-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "fantine-child-release-letter",
+      "imageId": "lesmis-world-review-art-items-fantine-child-release-letter-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "key": "fantine-knitted-petticoat",
+      "imageId": "lesmis-world-review-art-items-fantine-knitted-petticoat-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "gavroche-triggerless-pistol",
+      "imageId": "lesmis-world-review-art-items-gavroche-triggerless-pistol-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "gavroche-woollen-shawl",
+      "imageId": "lesmis-world-review-art-items-gavroche-woollen-shawl-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "9a3903ef3939000901016675ef0e351227d0de1ef885ee4a8f08033f139424d9",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-gavroche-woollen-shawl",
+  "currentImageId": "lesmis-world-review-art-items-gavroche-woollen-shawl-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

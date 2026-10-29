@@ -1,0 +1,89 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "forty-one",
+  "images": [
+    {
+      "key": "lamothe-valois",
+      "imageId": "lesmis-world-review-art-characters-lamothe-valois-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "madame-genlis",
+      "imageId": "lesmis-world-review-art-characters-madame-genlis-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mademoiselle-vaubois",
+      "imageId": "lesmis-world-review-art-characters-mademoiselle-vaubois-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montreuil-cure",
+      "imageId": "lesmis-world-review-art-characters-montreuil-cure-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "royal-bookseller",
+      "imageId": "lesmis-world-review-art-characters-royal-bookseller-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "sister-agatha",
+      "imageId": "lesmis-world-review-art-characters-sister-agatha-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "sister-euphrasie",
+      "imageId": "lesmis-world-review-art-characters-sister-euphrasie-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "petit-picpus-exit-sentinel",
+      "imageId": "lesmis-world-review-art-characters-petit-picpus-exit-sentinel-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-innocente",
+      "imageId": "lesmis-world-review-art-characters-mother-innocente-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-crucifixion",
+      "imageId": "lesmis-world-review-art-characters-mother-crucifixion-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-sainte-mechtilde",
+      "imageId": "lesmis-world-review-art-characters-mother-sainte-mechtilde-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "mother-cineres",
+      "imageId": "lesmis-world-review-art-characters-mother-cineres-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "b38219cd722dd5d499b74d1c474218f9004a03bdaee8931d23f772d17a768d5b",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-mother-cineres",
+  "currentImageId": "lesmis-world-review-art-characters-mother-cineres-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

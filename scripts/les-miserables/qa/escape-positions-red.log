@@ -1,0 +1,49 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesEscapePositions.test.ts (2 tests | 2 failed) 21ms
+   × joins the outside accomplices only after the two men have escaped the dormitory 15ms
+   × keeps the stranded prisoner above the men discussing his rescue 5ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesEscapePositions.test.ts > joins the outside accomplices only after the two men have escaped the dormitory
+AssertionError: expected undefined to match object { brujon: 'la-force', …(1) }
+
+- Expected:
+{
+  "brujon": "la-force",
+  "gueulemer": "la-force",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesEscapePositions.test.ts:8:32
+      6|  const escape=rows.find(row=>row.at===17),meeting=rows.find(row=>row.a…
+      7|  expect(escape.present.map(([key])=>key)).toEqual(['brujon','gueulemer…
+      8|  expect(escape.actorLocations).toMatchObject({brujon:'la-force',gueule…
+       |                                ^
+      9|  expect(meeting).toMatchObject({location:'la-force',kind:'scene'})
+     10|  expect(meeting.present.map(([key])=>key)).toEqual(['brujon','gueuleme…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesEscapePositions.test.ts > keeps the stranded prisoner above the men discussing his rescue
+TypeError: Cannot read properties of undefined (reading 'thenardier')
+ ❯ tests/lesMiserablesEscapePositions.test.ts:15:63
+     13| test('keeps the stranded prisoner above the men discussing his rescue'…
+     14|  const rows=enrichedReview().get(251)
+     15|  for(const at of[39,59,86])expect(rows.find(row=>row.at===at).actorLoc…
+       |                                                               ^
+     16|  const descent=rows.find(row=>row.at===108)
+     17|  expect(descent.actorLocations).toMatchObject({gueulemer:'rue-roi-sici…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  19:20:53
+   Duration  568ms (transform 255ms, setup 0ms, import 394ms, tests 21ms, environment 0ms)
+

@@ -1,0 +1,15 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "240-3 valjean: The timber yard at the barrier",
+    "240-3 cosette: The timber yard at the barrier",
+    "240-3 convoy-escort-captain: The Barrière du Maine road",
+    "240-3 convoy-hooked-cudgel-guard: The Barrière du Maine road",
+    "240-3 convoy-warning-woman: The Barrière du Maine road",
+    "240-3 convoy-warning-boy: The Barrière du Maine road"
+  ],
+  "errors": [],
+  "fixtureSha256": "1a4aad204b192f2d57e1e0dc3076f8169cd6867197a7b72525a677e6bb16f9bf",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

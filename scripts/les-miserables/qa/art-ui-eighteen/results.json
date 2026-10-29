@@ -1,0 +1,47 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "eighteen",
+  "images": [
+    {
+      "key": "marius-musain-coachman",
+      "imageId": "lesmis-world-review-art-characters-marius-musain-coachman-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "musain-vaudeville-dictator",
+      "imageId": "lesmis-world-review-art-characters-musain-vaudeville-dictator-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "musain-vaudeville-scribe",
+      "imageId": "lesmis-world-review-art-characters-musain-vaudeville-scribe-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "musain-duel-adviser",
+      "imageId": "lesmis-world-review-art-characters-musain-duel-adviser-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "musain-young-duellist",
+      "imageId": "lesmis-world-review-art-characters-musain-young-duellist-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "efafb827fb93175d8b33d9e43c4bcb3468010ab98b3c5f0acb1232e2d082724a",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-musain-young-duellist",
+  "currentImageId": "lesmis-world-review-art-characters-musain-young-duellist-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

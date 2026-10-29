@@ -1,0 +1,40 @@
+{
+  "stage": "manuscript reconstruction passed; world enrichment and release validation are separate gates",
+  "sourceEdition": "Victor Hugo, Les Misérables; Isabel F. Hapgood translation, Thomas Y. Crowell & Co., 1887; Project Gutenberg #135",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/135/pg135.txt",
+  "sourceCatalogue": "https://www.gutenberg.org/ebooks/135",
+  "rawSourceBytes": 3369207,
+  "sourceSha256": "6cf3b9d6fc5e6f733737425267d3af296d7f99f9b9fd1d255a3ab7689a6346ab",
+  "retainedSha256": "2e3a956e10c16500578ffa8eac4cd9956a765316a5ad349af15213ae544f7f79",
+  "volumes": 5,
+  "books": 48,
+  "chapters": 365,
+  "words": 568115,
+  "draftContainers": 1534,
+  "paragraphs": 13061,
+  "excludedIllustrationPlaceholders": 34,
+  "extraction": {
+    "normalization": "Original UTF-8 bytes archived; CRLF/CR to LF; trim whitespace after the final retained endnote; no line reflow, spelling changes, or internal whitespace collapse.",
+    "normalizedSourceStart": 20672,
+    "normalizedSourceEnd": 3232245,
+    "excludedPrefix": "Gutenberg header, source title/publisher display, six preliminary illustration placeholders, and duplicate table of contents.",
+    "excludedSuffix": "Gutenberg end marker, redistribution notes, and complete licence.",
+    "retainedAppendices": "Letter to M. Daelli and all 70 numbered endnotes, in the final chapter container after its narrative.",
+    "illustrationOffsetSpace": "Offsets in the extracted LF text before illustration-placeholder removal."
+  },
+  "apparatus": {
+    "letterStart": 3191642,
+    "footnotesStart": 3199003
+  },
+  "standaloneHeadings": [
+    326,
+    341
+  ],
+  "volumeChapterCounts": [
+    70,
+    76,
+    76,
+    76,
+    67
+  ]
+}

@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { parseLibraryIndex } from '../contract/app'
 import rawIndex from '../library/index.json'
+import {isSourceUnlocatedSnapshot} from '../scripts/les-miserables/unlocated-positions.mjs'
 
 const worldFiles = import.meta.glob('../library/*.pwk', {
   eager: true,
@@ -40,6 +41,7 @@ type CharacterSnapshot = {
   eventId: string
   characterId: string
   currentLocationMarkerId: string | null
+  currentMapLayerId: string | null
   statusNotes: string
 }
 type CharacterMovement = Ref & {
@@ -180,8 +182,11 @@ describe('published examples meet the authoring quality rules', () => {
           expect(event, `${snapshot.id} event`).toBeDefined()
           expect(characterIds.has(snapshot.characterId), `${snapshot.id} character`).toBe(true)
           expect(event?.involvedCharacterIds.includes(snapshot.characterId), `${snapshot.id} absent character`).toBe(true)
-          expect(snapshot.currentLocationMarkerId, `${snapshot.id} location`).not.toBeNull()
-          expect(locationIds.has(snapshot.currentLocationMarkerId ?? ''), `${snapshot.id} location`).toBe(true)
+          const sourceUnlocated=entry.data==='les-miserables.pwk'&&isSourceUnlocatedSnapshot(snapshot)
+          if(!sourceUnlocated){
+            expect(snapshot.currentLocationMarkerId, `${snapshot.id} location`).not.toBeNull()
+            expect(locationIds.has(snapshot.currentLocationMarkerId ?? ''), `${snapshot.id} location`).toBe(true)
+          }
 
           const notes = snapshot.statusNotes.trim()
           expect(notes.length, `${snapshot.id} status`).toBeGreaterThan(0)

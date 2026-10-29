@@ -1,0 +1,143 @@
+{
+  "selected": [
+    [
+      "lamothe-valois",
+      "exec-13b92e81-0c96-4c2a-80eb-09163df0d6a8.png"
+    ],
+    [
+      "madame-genlis",
+      "exec-f8474653-2225-4f66-9016-7e754ed8652d.png"
+    ],
+    [
+      "mademoiselle-vaubois",
+      "exec-6db8ed33-db2e-4b40-a7dc-27c2e5f19679.png"
+    ],
+    [
+      "montreuil-cure",
+      "exec-40d1599c-f37d-432a-9e15-e324a3c2fcd0.png"
+    ],
+    [
+      "royal-bookseller",
+      "exec-a07c53ec-e939-4454-8272-ac3091e5cab4.png"
+    ],
+    [
+      "sister-agatha",
+      "exec-a101145c-f2eb-49f0-9138-ef42dbbe2e27.png"
+    ],
+    [
+      "sister-euphrasie",
+      "exec-e67a3e47-115b-4755-a543-e78ef80af6bf.png"
+    ],
+    [
+      "petit-picpus-exit-sentinel",
+      "exec-2ae67915-0540-4625-886d-46ef58175065.png"
+    ],
+    [
+      "mother-innocente",
+      "exec-ed97c54e-6412-4e4a-b636-b429f9e0aadc.png"
+    ],
+    [
+      "mother-crucifixion",
+      "exec-2b25d5c3-dfe1-41c7-bf16-aa884ac6b4d6.png"
+    ],
+    [
+      "mother-sainte-mechtilde",
+      "exec-6dabc431-df19-4e28-8eaa-ed8d1703a896.png"
+    ],
+    [
+      "mother-cineres",
+      "exec-91342388-d79f-4b80-bcaf-e20051a2a3d8.png"
+    ]
+  ],
+  "scope": "Eight new portraits plus four corrected prior portraits; replacements do not increase accepted count",
+  "revisions": [
+    {
+      "key": "madame-genlis",
+      "original": "exec-69a4f508-1f68-419f-895d-cd19eb086adb.png",
+      "prompt": "Edit this single literary watercolor portrait. Preserve exact face, age, expression, pose, hands, setting, objects and painting style. Correct the gown to a plainly visible EARLY1820s EMPIRE silhouette, waist seam immediately BELOW THE BUST, straight loose skirt from that high seam. Remove fitted natural-waist bodice, low waist, corset point and puffed sleeves. Keep narrow long sleeves. Replace the frilled lace cap with a plain close-fitting smooth linen cap, no lace ruffles. Keep original gown and kerchief colors. No text or signature."
+    },
+    {
+      "key": "mademoiselle-vaubois",
+      "original": "exec-e48a4c8f-0214-40d4-a9d4-f568ded4402b.png",
+      "prompt": "Edit this single literary watercolor portrait. Preserve exact face, age, expression, pose, hands, setting, objects and painting style. Correct the gown to a plainly visible EARLY1820s EMPIRE silhouette, waist seam immediately BELOW THE BUST, straight loose skirt from that high seam. Remove fitted natural-waist bodice, low waist, corset point and puffed sleeves. Keep narrow long sleeves. Replace the frilled lace cap with a plain close-fitting smooth linen cap, no lace ruffles. Keep original gown and kerchief colors. No text or signature."
+    },
+    {
+      "key": "sister-agatha",
+      "original": "exec-fa1eca22-d76e-4818-947f-3c5a3dca2616.png",
+      "prompt": "Edit this single literary watercolor portrait. Preserve exact face, age, expression, pose, hands, setting, objects and painting style. Correct the habit: the chin-high guimpe and its entire SQUARE FRONT BIB must be BLACK, matching the black habit. Remove every white or cream strip, edge or area around the neck, chin and chest. ONLY the flat forehead band remains white. Keep black veil and sleeves; the source says everything black except the white forehead band. No white throat collar. No text or signature."
+    },
+    {
+      "key": "sister-euphrasie",
+      "original": "exec-7c8500bc-9f04-4874-b27e-b6d9cfd66b75.png",
+      "prompt": "Edit this single literary watercolor portrait. Preserve exact face, age, expression, pose, hands, setting, objects and painting style. Correct the habit: the chin-high guimpe and its entire SQUARE FRONT BIB must be BLACK, matching the black habit. Remove every white or cream strip, edge or area around the neck, chin and chest. ONLY the flat forehead band remains white. Keep black veil and sleeves; the source says everything black except the white forehead band. No white throat collar. No text or signature."
+    }
+  ],
+  "earlierPortraitCorrections": [
+    {
+      "key": "mother-innocente",
+      "prompt": "Correct ONLY the religious clothing in this single literary watercolor portrait of a Petit-Picpus professed nun in the early1820s. Preserve exact face, age, expression, hands, pose, build, objects, background and style. The source explicitly says EVERYTHING in the habit is BLACK except the broad flat FOREHEAD BAND, which is WHITE. Thus the veil, high guimpe around chin and neck, square-front chest bib and any cuffs must be plain BLACK. No cream or white wimple, neck collar, bib, edges or under-sleeves. Make the band crossing her FOREHEAD just above eyebrows clearly plain WHITE linen, NOT BLACK, and the surrounding veil BLACK. Do not expose hair. Natural cloth folds, no lettering or signature. No changes to face or scene.",
+      "sourceEvidence": {
+        "chapter": 120,
+        "paragraph": 5
+      }
+    },
+    {
+      "key": "mother-crucifixion",
+      "prompt": "Correct ONLY the religious clothing in this single literary watercolor portrait of a Petit-Picpus professed nun in the early1820s. Preserve exact face, age, expression, hands, pose, build, objects, background and style. The source explicitly says EVERYTHING in the habit is BLACK except the broad flat FOREHEAD BAND, which is WHITE. Thus the veil, high guimpe around chin and neck, square-front chest bib and any cuffs must be plain BLACK. No cream or white wimple, neck collar, bib, edges or under-sleeves. Make the band crossing her FOREHEAD just above eyebrows clearly plain WHITE linen, NOT BLACK, and the surrounding veil BLACK. Do not expose hair. Natural cloth folds, no lettering or signature. No changes to face or scene.",
+      "sourceEvidence": {
+        "chapter": 120,
+        "paragraph": 5
+      }
+    },
+    {
+      "key": "mother-sainte-mechtilde",
+      "prompt": "Correct ONLY the religious clothing in this single literary watercolor portrait of a Petit-Picpus professed nun in the early1820s. Preserve exact face, age, expression, hands, pose, build, objects, background and style. The source explicitly says EVERYTHING in the habit is BLACK except the broad flat FOREHEAD BAND, which is WHITE. Thus the veil, high guimpe around chin and neck, square-front chest bib and any cuffs must be plain BLACK. No cream or white wimple, neck collar, bib, edges or under-sleeves. Make the band crossing her FOREHEAD just above eyebrows clearly plain WHITE linen, NOT BLACK, and the surrounding veil BLACK. Do not expose hair. Natural cloth folds, no lettering or signature. No changes to face or scene.",
+      "sourceEvidence": {
+        "chapter": 120,
+        "paragraph": 5
+      }
+    },
+    {
+      "key": "mother-cineres",
+      "prompt": "Correct ONLY the religious clothing in this single literary watercolor portrait of a Petit-Picpus professed nun in the early1820s. Preserve exact face, age, expression, hands, pose, build, objects, background and style. The source explicitly says EVERYTHING in the habit is BLACK except the broad flat FOREHEAD BAND, which is WHITE. Thus the veil, high guimpe around chin and neck, square-front chest bib and any cuffs must be plain BLACK. No cream or white wimple, neck collar, bib, edges or under-sleeves. Make the band crossing her FOREHEAD just above eyebrows clearly plain WHITE linen, NOT BLACK, and the surrounding veil BLACK. Do not expose hair. Natural cloth folds, no lettering or signature. No changes to face or scene.",
+      "sourceEvidence": {
+        "chapter": 120,
+        "paragraph": 5
+      }
+    }
+  ],
+  "supersededAcceptances": [
+    {
+      "target": "art-staging/characters/mother-cineres.webp",
+      "source": "image-sources/characters/mother-cineres.png",
+      "reviewedSourceSha256": "6d2c8e4b0fac448082c8366f9076914854d0565fdb3cf0a322cf146275ad9904",
+      "reviewedTargetSha256": "c49f2aecdfa9ac06708034498bdcdfec3ed70312270610eb1f192f123a1c3b9a",
+      "visualReview": "Original individually opened and encoded contact inspected; source ages, role distinctions and withheld identity reviewed",
+      "evidence": "ART_REVIEW.md"
+    },
+    {
+      "target": "art-staging/characters/mother-crucifixion.webp",
+      "source": "image-sources/characters/mother-crucifixion.png",
+      "reviewedSourceSha256": "03cc8b7bf59909ab0da8cb77c58d0980bbe38614eadb303c6970f001e7344325",
+      "reviewedTargetSha256": "ed2cf3de7870b67237ef24a5e951c4e9e2a592fe31914c2ce4f9facbbecb3cb5",
+      "visualReview": "Original individually opened; q88 WebP encoding contact reviewed; concealed faces, source period and roles checked",
+      "evidence": "ART_REVIEW.md"
+    },
+    {
+      "target": "art-staging/characters/mother-innocente.webp",
+      "source": "image-sources/characters/mother-innocente.png",
+      "reviewedSourceSha256": "86e0fee0da8228a5f7bc033db29df3f5012844378aba3b749c2ae4a9d57aa05b",
+      "reviewedTargetSha256": "075f1e651f70707c61607cfd3370126d373d9afeb880e291429a18e94b958348",
+      "visualReview": "original opened individually; encoded subject and linework inspected on the next-nine contact sheet",
+      "evidence": "ART_REVIEW.md"
+    },
+    {
+      "target": "art-staging/characters/mother-sainte-mechtilde.webp",
+      "source": "image-sources/characters/mother-sainte-mechtilde.png",
+      "reviewedSourceSha256": "ee3f37779dbf2200337c713cc839ead0c1729bba65181d8d64f9ecaa4f3f7658",
+      "reviewedTargetSha256": "c792cfb451f92949453ae0e631170f46d7c62441a8e8b913a72603549a87775e",
+      "visualReview": "Original individually opened; q88 WebP encoding contact reviewed; concealed faces, source period and roles checked",
+      "evidence": "ART_REVIEW.md"
+    }
+  ]
+}

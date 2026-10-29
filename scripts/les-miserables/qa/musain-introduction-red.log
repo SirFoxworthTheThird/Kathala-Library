@@ -1,0 +1,30 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesMusainCoachman.test.ts (2 tests | 1 failed) 20ms
+   × retains Courfeyrac’s actual introduction of Marius without guessing the attending roster 7ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesMusainCoachman.test.ts > retains Courfeyrac’s actual introduction of Marius without guessing the attending roster
+AssertionError: expected 'reported' to be 'scene' // Object.is equality
+
+Expected: "scene"
+Received: "reported"
+
+ ❯ tests/lesMiserablesMusainCoachman.test.ts:18:19
+     16|  expect(chapters[177].paragraphs[7].text.replace(/\s+/g,' ')).toContai…
+     17|  const row=enrichedReview().get(178).find(row=>row.at===7)
+     18|  expect(row.kind).toBe('scene')
+       |                   ^
+     19|  expect(row.present.map(([key])=>key).sort()).toEqual(['courfeyrac','m…
+     20| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 passed (2)
+   Start at  08:51:04
+   Duration  559ms (transform 245ms, setup 0ms, import 386ms, tests 20ms, environment 0ms)
+

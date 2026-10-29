@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirty-eight",
+  "images": [
+    {
+      "key": "blucher",
+      "imageId": "lesmis-world-review-art-characters-blucher-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bulow",
+      "imageId": "lesmis-world-review-art-characters-bulow-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bulow-shepherd-guide",
+      "imageId": "lesmis-world-review-art-characters-bulow-shepherd-guide-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "chasse",
+      "imageId": "lesmis-world-review-art-characters-chasse-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "colville",
+      "imageId": "lesmis-world-review-art-characters-colville-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "dehaze",
+      "imageId": "lesmis-world-review-art-characters-dehaze-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "delort",
+      "imageId": "lesmis-world-review-art-characters-delort-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "dornberg",
+      "imageId": "lesmis-world-review-art-characters-dornberg-webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "60373a91907f6f25524e6a5fd485041a88c2bf2190608e55193897b9c1688e26",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-dornberg",
+  "currentImageId": "lesmis-world-review-art-characters-dornberg-webp",
+  "currentDecoded": {
+    "width": 1024,
+    "height": 1536,
+    "type": "image/webp"
+  }
+}

@@ -1,0 +1,65 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesFinalBelongings.test.ts (2 tests | 2 failed) 5ms
+   × distinguishes the marriage transfer from the display of the notes and their later non-use 4ms
+   × moves the keepsakes out of the valise and the crucifix off the wall at their actual handling 0ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesFinalBelongings.test.ts > distinguishes the marriage transfer from the display of the notes and their later non-use
+AssertionError: expected undefined to match object { chapter: 350, at: 17, …(3) }
+
+- Expected:
+{
+  "at": 17,
+  "chapter": 350,
+  "custodian": "marius",
+  "evidenceParagraph": 17,
+  "kind": "custody-report",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesFinalBelongings.test.ts:4:74
+      2| import{itemStateChanges}from'../scripts/les-miserables/item-state-ledg…
+      3| test('distinguishes the marriage transfer from the display of the note…
+      4|  expect(itemStateChanges.find(r=>r.key==='marriage-banknotes-remitted'…
+       |                                                                          ^
+      5| })
+      6| test('moves the keepsakes out of the valise and the crucifix off the w…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesFinalBelongings.test.ts > moves the keepsakes out of the valise and the crucifix off the wall at their actual handling
+AssertionError: expected undefined to match object { chapter: 352, at: 10, …(3) }
+
+- Expected:
+{
+  "at": 10,
+  "chapter": 352,
+  "evidenceParagraph": 11,
+  "kind": "placed",
+  "location": "homme-arme-valjean-room",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesFinalBelongings.test.ts:7:79
+      5| })
+      6| test('moves the keepsakes out of the valise and the crucifix off the w…
+      7|  expect(itemStateChanges.find(r=>r.key==='childhood-clothes-on-bedroom…
+       |                                                                               ^
+      8|  expect(itemStateChanges.find(r=>r.key==='childhood-clothes-on-final-b…
+      9|  expect(itemStateChanges.find(r=>r.key==='crucifix-laid-on-table')).to…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  00:27:27
+   Duration  212ms (transform 25ms, setup 0ms, import 40ms, tests 5ms, environment 0ms)
+

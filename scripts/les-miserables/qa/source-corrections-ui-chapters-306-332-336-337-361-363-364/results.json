@@ -1,0 +1,19 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "306-2 gavroche: The captive’s musket",
+    "332-3 marius: The pocket-book with the return address",
+    "336-2 valjean: The rope at the sewer gate",
+    "337-4 javert: The pocket-book with the return address",
+    "361-7 valjean: The dining room",
+    "361-8 homme-arme-doctor: The Rue de l’Homme Armé house",
+    "363-17 marius: The house garden",
+    "363-18 cosette: The later hired carriage",
+    "364-4 homme-arme-doctor: The dining room",
+    "364-6 homme-arme-doctor: The dining room"
+  ],
+  "errors": [],
+  "fixtureSha256": "8d97e5db063637474ca1fcb6b7bd0886719c841e74272e922a4259af67b5178f",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

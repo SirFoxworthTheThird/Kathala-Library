@@ -1,0 +1,14 @@
+[
+  {
+    "key": "fantine-doctor",
+    "prompt": "Edit this illustration narrowly, preserving the same doctor, face, clothes, composition, ink and watercolor style. Remove the wooden medical instrument entirely. Let his right hand hold the folded white linen cloth near his waist and his left hand rest naturally beside it. No instrument, tubing, tools, white lab coat, text or other person. Keep sober French civilian clothing about1823 and the same restrained plain infirmary background. Natural hands.",
+    "selectedOriginal": "exec-ec4ca266-39f3-414c-8a5a-f1c71e177aed.png",
+    "reason": "Instrument omitted; source establishes examination but not an exact instrument design."
+  },
+  {
+    "key": "sister-perpetue",
+    "prompt": "Make only two narrow corrections to this same portrait of Sister Perpetue, robust ruddy French nursing sister about1823. Preserve her face, expression, build, ordinary hands with linen, composition and literary crosshatched watercolor style. Replace the soft gathered ordinary domestic cap with the Daughters of Charity white linen cornette appropriate to the early nineteenth century: folded white linen over the head, raised modestly at the front and falling at both sides, modest stiffened structure without huge modern-looking wings; keep a plain neck covering and coarse dark-gray nursing dress. Replace the entire view through the window with pale sky and low ordinary tiled roofs only: absolutely NO church, spire, tower, dome, cathedral, text or identifiable landmark. No halo, caricature, other person or later scene.",
+    "selectedOriginal": "exec-1156a1e2-2fb6-408a-a759-2ce9f158690f.png",
+    "reason": "Corrected gathered domestic cap toward early cornette; removed unwanted church silhouette."
+  }
+]

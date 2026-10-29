@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch ten in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "127f9ea2f10f4902b8e63d4090b45f7a58ba6ca307d532317a6c523d6d3846e8",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "fantine-montreuil-room",
+      "imageId": "lesmis-world-review-art-locations-fantine-montreuil-room-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "fantine-montreuil-attic",
+      "imageId": "lesmis-world-review-art-locations-fantine-montreuil-attic-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "thenardier-inn",
+      "imageId": "lesmis-world-review-art-locations-thenardier-inn-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "thenardier-inn-front",
+      "imageId": "lesmis-world-review-art-locations-thenardier-inn-front-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-church-square",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-church-square-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-forest",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-forest-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montfermeil-chelles-path",
+      "imageId": "lesmis-world-review-art-locations-montfermeil-chelles-path-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

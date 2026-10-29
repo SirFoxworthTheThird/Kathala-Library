@@ -1,0 +1,48 @@
+{
+  "corinthe-ground-floor": {
+    "width": 1484,
+    "height": 1060,
+    "locations": {
+      "corinthe-taproom": [
+        605,
+        520
+      ],
+      "corinthe-taproom-door": [
+        543,
+        798
+      ],
+      "corinthe-kitchen": [
+        1105,
+        570
+      ],
+      "corinthe-cellar-trap": [
+        269,
+        707
+      ]
+    },
+    "landmarks": {
+      "corinthe-taproom": "Clear floor between the table and support post, west of the kitchen partition.",
+      "corinthe-taproom-door": "The street threshold in the lower tap-room wall, between the open door leaves.",
+      "corinthe-kitchen": "Clear stone floor west of the kitchen hearth.",
+      "corinthe-cellar-trap": "The closed rectangular wooden cellar hatch at the lower-left of the tap-room."
+    }
+  },
+  "corinthe-first-floor": {
+    "width": 1484,
+    "height": 1060,
+    "locations": {
+      "corinthe-first-floor": [
+        965,
+        590
+      ],
+      "corinthe-first-floor-window": [
+        739,
+        823
+      ]
+    },
+    "landmarks": {
+      "corinthe-first-floor": "Open floor southeast of the billiard table, clear of the corner stair opening.",
+      "corinthe-first-floor-window": "The single narrow window centered in the lower street-facing wall."
+    }
+  }
+}

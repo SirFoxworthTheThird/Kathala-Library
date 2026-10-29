@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "nine",
+  "images": [
+    {
+      "key": "genrot-lantern-rope",
+      "imageId": "lesmis-world-review-art-items-genrot-lantern-rope-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gillenormand-offered-hundred-louis",
+      "imageId": "lesmis-world-review-art-items-gillenormand-offered-hundred-louis-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "gillenormand-six-hundred-franc-remittance",
+      "imageId": "lesmis-world-review-art-items-gillenormand-six-hundred-franc-remittance-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "key": "hesdin-spring-cart",
+      "imageId": "lesmis-world-review-art-items-hesdin-spring-cart-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "infirmary-bedstead-rod",
+      "imageId": "lesmis-world-review-art-items-infirmary-bedstead-rod-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "javert-captured-musket",
+      "imageId": "lesmis-world-review-art-items-javert-captured-musket-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "javert-signal-pistols",
+      "imageId": "lesmis-world-review-art-items-javert-signal-pistols-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "jondrette-burglary-tools",
+      "imageId": "lesmis-world-review-art-items-jondrette-burglary-tools-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "9f2db2c8a31aa4d48c3d6ed9c50ed026a86cec08ca23d5410daefac995c2a9b8",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-jondrette-burglary-tools",
+  "currentImageId": "lesmis-world-review-art-items-jondrette-burglary-tools-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

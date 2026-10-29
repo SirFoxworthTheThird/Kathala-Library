@@ -1,0 +1,64 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesBarricadeCustody.test.ts (2 tests | 2 failed) 5ms
+   × tracks the captured gun and discarded pistols without inventing a successful shot from the unloaded musket 4ms
+   × keeps the two lovers letters distinct and delivers the reply to Valjean rather than Cosette 0ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesBarricadeCustody.test.ts > tracks the captured gun and discarded pistols without inventing a successful shot from the unloaded musket
+AssertionError: expected undefined to match object { chapter: 288, at: 'start', …(3) }
+
+- Expected:
+{
+  "at": "start",
+  "chapter": 288,
+  "evidenceParagraph": 11,
+  "holder": "gavroche",
+  "kind": "held",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesBarricadeCustody.test.ts:5:68
+      3|
+      4| test('tracks the captured gun and discarded pistols without inventing …
+      5|  expect(itemStateChanges.find(r=>r.key==='captured-musket-taken')).toM…
+       |                                                                    ^
+      6|  expect(itemStateChanges.find(r=>r.key==='captured-musket-unloaded')).…
+      7|  expect(itemStateChanges.find(r=>r.key==='signal-pistols-discarded')).…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesBarricadeCustody.test.ts > keeps the two lovers letters distinct and delivers the reply to Valjean rather than Cosette
+AssertionError: expected undefined to match object { …(4) }
+
+- Expected:
+{
+  "at": 70,
+  "chapter": 293,
+  "holder": "marius",
+  "item": "eponine-withheld-letter-for-marius",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesBarricadeCustody.test.ts:11:71
+      9|
+     10| test('keeps the two lovers letters distinct and delivers the reply to …
+     11|  expect(itemStateChanges.find(r=>r.key==='withheld-letter-received')).…
+       |                                                                       ^
+     12|  const reply=itemStateChanges.filter(r=>r.item==='marius-farewell-lett…
+     13|  expect(reply.map(r=>[r.chapter,r.at,r.holder])).toEqual([[294,11,'mar…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  20:15:58
+   Duration  220ms (transform 26ms, setup 0ms, import 42ms, tests 5ms, environment 0ms)
+

@@ -1,0 +1,6394 @@
+{
+  "scope": "Actual continuous Play through every ordered scene using the browser test clock; not real-time reading, source-state or artwork approval",
+  "checks": [
+    {
+      "eventId": "lesmis-world-review-event-1-1",
+      "mapId": null,
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-1-2",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-1-3",
+      "mapId": "lesmis-world-review-map-paris-public-room-details",
+      "animationMs": 600,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-1-4",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-1-5",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-1-6",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-2",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-3",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-4",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-5",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-6",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-7",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-8",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-2-9",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-3-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-3-2",
+      "mapId": "lesmis-world-review-map-southern-country",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-3-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-2",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-3",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-4",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 10000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-5",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-6",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-7",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-8",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-9",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-10",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-11",
+      "mapId": "lesmis-world-review-map-digne-civic-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-12",
+      "mapId": "lesmis-world-review-map-digne-civic-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-13",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-14",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-4-15",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-5-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-6-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-6-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-6-3",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-6-4",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-6-5",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-7-1",
+      "mapId": "lesmis-world-review-map-southern-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-7-2",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-7-3",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-7-4",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-7-5",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-7-6",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-7-7",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-7-8",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-8-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-8-2",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-9-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-9-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-2",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-3",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-4",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-5",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-6",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-7",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-8",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-9",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-10",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-10-11",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-11-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-11-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-11-3",
+      "mapId": "lesmis-world-review-map-paris-public-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-11-4",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-11-5",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-11-6",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-12-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-13-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-13-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-13-3",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-13-4",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-13-5",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-14-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-14-2",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-14-3",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-2",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-3",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-4",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-5",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-6",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-7",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-8",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-9",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-15-10",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-16-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-16-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-16-3",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-17-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-17-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-17-3",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-17-4",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-18-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-18-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 4000,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-18-3",
+      "mapId": "lesmis-world-review-map-bishop-first-floor",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-19-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-19-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-19-3",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-19-4",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-19-5",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-20-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-20-2",
+      "mapId": "lesmis-world-review-map-faverolles-village",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-20-3",
+      "mapId": "lesmis-world-review-map-faverolles-village",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-20-4",
+      "mapId": "lesmis-world-review-map-faverolles-village",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-20-5",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-20-6",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-21-1",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-21-2",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-21-3",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-21-4",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-22-1",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-23-1",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-23-2",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 500,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-23-3",
+      "mapId": "lesmis-world-review-map-southern-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-24-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-24-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-25-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-25-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-25-3",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-26-1",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-26-2",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-26-3",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 8000,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-26-4",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-27-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-27-2",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-27-3",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-27-4",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-27-5",
+      "mapId": "lesmis-world-review-map-southern-local-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-27-6",
+      "mapId": "lesmis-world-review-map-bishop-ground-floor",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-28-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-29-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-29-2",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 500,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-29-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-30-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-30-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-30-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 6000,
+      "animationBudgetMs": 88000
+    },
+    {
+      "eventId": "lesmis-world-review-event-31-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-31-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-31-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-31-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-32-1",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 500,
+      "animationBudgetMs": 80000
+    },
+    {
+      "eventId": "lesmis-world-review-event-32-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-32-3",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-33-1",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 80000
+    },
+    {
+      "eventId": "lesmis-world-review-event-33-2",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-34-1",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-34-2",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-35-1",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-35-2",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-35-3",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 80000
+    },
+    {
+      "eventId": "lesmis-world-review-event-36-1",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-36-2",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-36-3",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-36-4",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-37-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-37-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 6000,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-37-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-37-4",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-37-5",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-37-6",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-37-7",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-37-8",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-38-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-39-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-39-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-39-3",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-39-4",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-40-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-40-2",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-41-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-41-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-41-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-42-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-42-2",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-42-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-42-4",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-42-5",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-43-1",
+      "mapId": "lesmis-world-review-map-digne",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-43-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-43-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-44-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-44-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-44-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-45-1",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-45-2",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-45-3",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-46-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-46-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-46-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-46-4",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-47-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-47-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-47-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-47-4",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-48-1",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-48-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-48-3",
+      "mapId": "lesmis-world-review-map-fantine-rented-rooms",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-48-4",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-1",
+      "mapId": "lesmis-world-review-map-fantine-rented-rooms",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-2",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-3",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-4",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-5",
+      "mapId": "lesmis-world-review-map-fantine-rented-rooms",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-6",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-7",
+      "mapId": "lesmis-world-review-map-fantine-rented-rooms",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-8",
+      "mapId": "lesmis-world-review-map-fantine-rented-rooms",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-9",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-49-10",
+      "mapId": "lesmis-world-review-map-fantine-rented-rooms",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-50-1",
+      "mapId": "lesmis-world-review-map-fantine-rented-rooms",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-51-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-51-2",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-51-3",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-52-1",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-52-2",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-52-3",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-52-4",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-52-5",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-52-6",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-53-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-53-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-53-3",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-53-4",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-53-5",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-53-6",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-53-7",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-54-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-54-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-54-3",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-54-4",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-54-5",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-55-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-55-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-55-3",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-55-4",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-56-1",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-56-2",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-56-3",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-56-4",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-56-5",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-56-6",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-57-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-57-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-57-3",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-57-4",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-57-5",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-57-6",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-57-7",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-57-8",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-58-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-58-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-58-3",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-58-4",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-59-1",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-59-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-59-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 4000,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-59-4",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 8000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-59-5",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-59-6",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-59-7",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-60-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-60-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-60-3",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-61-1",
+      "mapId": "lesmis-world-review-map-arras-town",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-61-2",
+      "mapId": "lesmis-world-review-map-arras-town",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-61-3",
+      "mapId": "lesmis-world-review-map-arras-town",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-61-4",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-61-5",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-62-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-62-2",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-62-3",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-62-4",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-62-5",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-62-6",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-63-1",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 10000,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-63-2",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-63-3",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-64-1",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-64-2",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-64-3",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-64-4",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 80000
+    },
+    {
+      "eventId": "lesmis-world-review-event-64-5",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 88000
+    },
+    {
+      "eventId": "lesmis-world-review-event-65-1",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 88000
+    },
+    {
+      "eventId": "lesmis-world-review-event-65-2",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 88000
+    },
+    {
+      "eventId": "lesmis-world-review-event-65-3",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 88000
+    },
+    {
+      "eventId": "lesmis-world-review-event-65-4",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-66-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-66-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-67-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-67-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-67-3",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-68-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-68-2",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-68-3",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-68-4",
+      "mapId": "lesmis-world-review-map-arras-court",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-68-5",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-68-6",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-68-7",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-69-1",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-69-2",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-69-3",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-1",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-3",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-4",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-5",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-6",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-7",
+      "mapId": "lesmis-world-review-map-madeleine-premises",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-8",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-70-9",
+      "mapId": "lesmis-world-review-map-montreuil-town",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-71-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-71-2",
+      "mapId": "lesmis-world-review-map-hougomont-details",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-72-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-72-2",
+      "mapId": "lesmis-world-review-map-hougomont-details",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-72-3",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-72-4",
+      "mapId": "lesmis-world-review-map-hougomont-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-72-5",
+      "mapId": "lesmis-world-review-map-hougomont-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-72-6",
+      "mapId": "lesmis-world-review-map-hougomont-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-73-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-74-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-74-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-75-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-75-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-76-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-76-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-76-3",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-77-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-77-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-77-3",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-77-4",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-77-5",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-77-6",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-78-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-78-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-79-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-79-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-79-3",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-80-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-80-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-80-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-81-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-81-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-81-3",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-82-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-82-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-83-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-83-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-83-3",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 12000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-84-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-84-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-85-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-85-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-86-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-86-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-87-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-88-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-89-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-89-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-89-3",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-89-4",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-89-5",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-90-1",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-90-2",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-90-3",
+      "mapId": "lesmis-world-review-map-waterloo-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-90-4",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-90-5",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-91-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-91-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-91-3",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-91-4",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-92-1",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-92-2",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-92-3",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-92-4",
+      "mapId": "lesmis-world-review-map-orion-deck",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-92-5",
+      "mapId": "lesmis-world-review-map-orion-main-yard",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-92-6",
+      "mapId": "lesmis-world-review-map-orion-main-yard",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-92-7",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-92-8",
+      "mapId": "lesmis-world-review-map-toulon-harbour",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-93-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-93-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-93-3",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-93-4",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-94-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-94-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-94-3",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-95-1",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-95-2",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-95-3",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-96-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-96-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-97-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-97-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-97-3",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-97-4",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-98-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-98-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-98-3",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-98-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-98-5",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-98-6",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-98-7",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-99-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-99-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-99-3",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-1",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-2",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-3",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-4",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-5",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-6",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-7",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-8",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-9",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-10",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-11",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-12",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-13",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-100-14",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-101-1",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-101-2",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-101-3",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-101-4",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-101-5",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-101-6",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-101-7",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-102-1",
+      "mapId": "lesmis-world-review-map-thenardier-inn-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-102-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-102-3",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-102-4",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-102-5",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-103-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-103-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-103-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-104-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-104-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-104-3",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-105-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-105-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-106-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-106-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-106-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-107-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-107-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-107-3",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-107-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-108-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-108-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-108-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-108-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-108-5",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-108-6",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-108-7",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-109-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-109-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-109-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-109-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-110-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-110-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-110-3",
+      "mapId": "lesmis-world-review-map-picpus-approaches",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-111-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-111-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-111-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-112-1",
+      "mapId": "lesmis-world-review-map-picpus-approaches",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-112-2",
+      "mapId": "lesmis-world-review-map-picpus-approaches",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-113-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-113-2",
+      "mapId": "lesmis-world-review-map-picpus-approaches",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-113-3",
+      "mapId": "lesmis-world-review-map-picpus-approaches",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-113-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-114-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-114-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-114-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-115-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-115-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-115-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-116-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-116-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-117-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-117-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-117-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-117-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-2",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-3",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-5",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-7",
+      "mapId": "lesmis-world-review-map-picpus-approaches",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-8",
+      "mapId": "lesmis-world-review-map-picpus-approaches",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-9",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-10",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-118-11",
+      "mapId": "lesmis-world-review-map-picpus-approaches",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-119-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-120-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-120-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-120-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-120-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-120-5",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-121-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-121-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-122-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-122-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-122-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-122-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-122-5",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-122-6",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-123-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-123-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-123-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-123-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-123-5",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-123-6",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-123-7",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-124-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-124-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-124-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-125-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-125-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-126-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-127-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-127-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-127-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-128-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-129-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-129-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-130-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-131-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-131-2",
+      "mapId": "lesmis-world-review-map-villers-source-details",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-132-1",
+      "mapId": "lesmis-world-review-map-villers-source-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-133-1",
+      "mapId": "lesmis-world-review-map-villers-source-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-134-1",
+      "mapId": "lesmis-world-review-map-villers-source-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-135-1",
+      "mapId": "lesmis-world-review-map-villers-source-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-136-1",
+      "mapId": "lesmis-world-review-map-villers-source-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-137-1",
+      "mapId": "lesmis-world-review-map-villers-source-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-138-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-138-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-138-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-138-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-138-5",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-138-6",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-138-7",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-139-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-139-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-139-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-140-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-140-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-140-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-140-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-140-5",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-141-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-141-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-141-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-141-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-141-5",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-142-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-142-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-142-3",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-142-4",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-142-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 2000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-143-1",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-143-2",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-143-3",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-144-1",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-144-2",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-144-3",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-144-4",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-144-5",
+      "mapId": "lesmis-world-review-map-vaugirard-cemetery",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-144-6",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-145-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-145-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-145-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 500,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-145-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-145-5",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-145-6",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-146-1",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-146-2",
+      "mapId": "lesmis-world-review-map-petit-picpus-interiors",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-146-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-146-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-147-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-148-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-148-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-149-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-150-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-151-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-151-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-151-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-152-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-152-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-153-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-153-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-153-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-154-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-154-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-154-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-155-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-156-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-156-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-157-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-158-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-159-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-159-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-159-3",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-159-4",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-160-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-161-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-162-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-163-1",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-163-2",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-164-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-165-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-166-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-166-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-167-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-167-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-167-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-168-1",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-168-2",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-168-3",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-169-1",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-169-2",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-169-3",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-169-4",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-169-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-169-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-170-1",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-170-2",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-170-3",
+      "mapId": "lesmis-world-review-map-paris-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-171-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-171-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-171-3",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-171-4",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 6000,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-171-5",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-171-6",
+      "mapId": "lesmis-world-review-map-france",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-172-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-172-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-172-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-173-1",
+      "mapId": "lesmis-world-review-map-paris-public-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-173-2",
+      "mapId": "lesmis-world-review-map-paris-public-room-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-173-3",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-173-4",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-173-5",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-174-1",
+      "mapId": "lesmis-world-review-map-montfermeil-country",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-174-2",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-174-3",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-174-4",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-174-5",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-175-1",
+      "mapId": "lesmis-world-review-map-vernon-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-175-2",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-175-3",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-175-4",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 12000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-175-5",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-175-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-175-7",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-176-1",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-176-2",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-176-3",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-176-4",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-176-5",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-176-6",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-177-1",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-177-2",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-177-3",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-177-4",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-178-1",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-178-2",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-178-3",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-178-4",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-178-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-178-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-179-1",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-179-2",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 8000,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-179-3",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-179-4",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-179-5",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-180-1",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 80000
+    },
+    {
+      "eventId": "lesmis-world-review-event-180-2",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-180-3",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-181-1",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-181-2",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 2000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-181-3",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-181-4",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-181-5",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-182-1",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-182-2",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-182-3",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-183-1",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-183-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-183-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-183-4",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-184-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-184-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-184-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-184-4",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-185-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-185-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-185-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-185-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-186-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-186-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-186-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-187-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-187-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 2000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-187-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-188-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-188-2",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-188-3",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-189-1",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-189-2",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-189-3",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-189-4",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-190-1",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-190-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-191-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-191-2",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-191-3",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-191-4",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-191-5",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-192-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-192-2",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-193-1",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 2000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-193-2",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-193-3",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 500,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-193-4",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-194-1",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-194-2",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-194-3",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-195-1",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-195-2",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-195-3",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-196-1",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-196-2",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-196-3",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 2000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-196-4",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-196-5",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-197-1",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-197-2",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-198-1",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-198-2",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-199-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-199-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-199-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-199-4",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-200-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-200-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-200-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-201-1",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-201-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-201-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-202-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-202-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-202-3",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-202-4",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-202-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-203-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-203-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-203-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-203-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-203-5",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-203-6",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-203-7",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-204-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-204-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-204-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-204-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-205-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-205-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-206-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-206-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-206-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-206-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-207-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-207-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-207-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-208-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-208-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 2000,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-209-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-209-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-209-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-209-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-210-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-210-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-210-3",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-210-4",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 10000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-211-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-211-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-211-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-212-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-212-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-212-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-212-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-213-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-213-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-213-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-214-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 6000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-214-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-214-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-215-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-215-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-215-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-216-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-216-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 2000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-216-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-216-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 8000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-217-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-217-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-217-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-217-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-218-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-218-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-219-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-219-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-219-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-1",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 8000,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 80000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 80000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-5",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-6",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-7",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-8",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 96000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-9",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-10",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 88000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-11",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-12",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-13",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-14",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-15",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 96000
+    },
+    {
+      "eventId": "lesmis-world-review-event-220-16",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 2000,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-221-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-221-2",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-221-3",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-221-4",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-221-5",
+      "mapId": "lesmis-world-review-map-gorbeau-lodgings",
+      "animationMs": 0,
+      "animationBudgetMs": 104000
+    },
+    {
+      "eventId": "lesmis-world-review-event-222-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-222-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-223-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-223-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-223-3",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-224-1",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-224-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-224-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-225-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-225-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-225-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-226-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-226-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-226-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-227-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-227-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-227-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-227-4",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-227-5",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-227-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-228-1",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 88000
+    },
+    {
+      "eventId": "lesmis-world-review-event-228-2",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-228-3",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-228-4",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-228-5",
+      "mapId": "lesmis-world-review-map-cafe-musain",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-228-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-228-7",
+      "mapId": "lesmis-world-review-map-paris-cafe-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-229-1",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-229-2",
+      "mapId": "lesmis-world-review-map-paris-hospital-quarter",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-229-3",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-229-4",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-229-5",
+      "mapId": "lesmis-world-review-map-larks-meadow",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-1",
+      "mapId": "lesmis-world-review-map-larks-meadow",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-2",
+      "mapId": "lesmis-world-review-map-la-force-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-4",
+      "mapId": "lesmis-world-review-map-la-force-details",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-7",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-8",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-230-9",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-231-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-231-2",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-231-3",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-231-4",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-231-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-232-1",
+      "mapId": "lesmis-world-review-map-larks-meadow",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-232-2",
+      "mapId": "lesmis-world-review-map-larks-meadow",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-232-3",
+      "mapId": "lesmis-world-review-map-larks-meadow",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-232-4",
+      "mapId": "lesmis-world-review-map-larks-meadow",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-232-5",
+      "mapId": "lesmis-world-review-map-larks-meadow",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-232-6",
+      "mapId": "lesmis-world-review-map-larks-meadow",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-233-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-233-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-233-3",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-233-4",
+      "mapId": "lesmis-world-review-map-petit-picpus-site",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-233-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-233-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-234-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-234-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-234-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-235-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-235-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-236-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-236-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-236-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-236-4",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-236-5",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-237-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-237-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-237-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-237-4",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-238-1",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-238-2",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-238-3",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-239-1",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-239-2",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-239-3",
+      "mapId": "lesmis-world-review-map-luxembourg-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-239-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-240-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-240-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-240-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-240-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-240-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-240-6",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-241-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-241-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-241-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-242-1",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-242-2",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-242-3",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-242-4",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-242-5",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-242-6",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-243-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-243-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-244-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-244-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-244-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-244-4",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-244-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-244-6",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-244-7",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-244-8",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-245-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-245-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-245-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-246-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-247-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-247-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-247-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-248-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-248-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-248-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-248-4",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-249-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-249-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-249-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 8000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 8000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 6000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-7",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-8",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-9",
+      "mapId": "lesmis-world-review-map-bastille-elephant-exterior",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-10",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-11",
+      "mapId": "lesmis-world-review-map-bastille-elephant-interior",
+      "animationMs": 500,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-12",
+      "mapId": "lesmis-world-review-map-bastille-elephant-interior",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-13",
+      "mapId": "lesmis-world-review-map-bastille-elephant-interior",
+      "animationMs": 0,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-250-14",
+      "mapId": "lesmis-world-review-map-bastille-elephant-exterior",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-2",
+      "mapId": "lesmis-world-review-map-la-force-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-3",
+      "mapId": "lesmis-world-review-map-la-force-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 2000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-5",
+      "mapId": "lesmis-world-review-map-la-force-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-6",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-7",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-8",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-9",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 2000,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-10",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-11",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 4000,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-251-12",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-252-1",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-252-2",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-252-3",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-252-4",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-252-5",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-252-6",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-253-1",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-253-2",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-253-3",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-253-4",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-253-5",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-253-6",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-253-7",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-254-1",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-254-2",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-254-3",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-254-4",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-255-1",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-255-2",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-255-3",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-255-4",
+      "mapId": "lesmis-world-review-map-roi-sicile-ruin",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-256-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-256-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-256-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-256-4",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-256-5",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-256-6",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-256-7",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-257-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-257-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-257-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-258-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-258-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-258-3",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-258-4",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 2000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-258-5",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-258-6",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-259-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-259-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-259-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-259-4",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 80000
+    },
+    {
+      "eventId": "lesmis-world-review-event-259-5",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-259-6",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-259-7",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 64000
+    },
+    {
+      "eventId": "lesmis-world-review-event-259-8",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 4000,
+      "animationBudgetMs": 72000
+    },
+    {
+      "eventId": "lesmis-world-review-event-260-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-261-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-261-2",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-261-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-261-4",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-261-5",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-261-6",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-261-7",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-2",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-4",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 4000,
+      "animationBudgetMs": 40000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-5",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-6",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-7",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-8",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-9",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 0,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-262-10",
+      "mapId": "lesmis-world-review-map-gillenormand-details",
+      "animationMs": 8000,
+      "animationBudgetMs": 48000
+    },
+    {
+      "eventId": "lesmis-world-review-event-263-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 500,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-263-2",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-263-3",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-263-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-263-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 6000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-264-1",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-264-2",
+      "mapId": "lesmis-world-review-map-paris-lodging-details",
+      "animationMs": 6000,
+      "animationBudgetMs": 56000
+    },
+    {
+      "eventId": "lesmis-world-review-event-264-3",
+      "mapId": "lesmis-world-review-map-paris-environs",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-264-4",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 2000,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-264-5",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 8000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-265-1",
+      "mapId": "lesmis-world-review-map-plumet-house",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-265-2",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-265-3",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-265-4",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-265-5",
+      "mapId": "lesmis-world-review-map-paris",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-265-6",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 4000,
+      "animationBudgetMs": 32000
+    },
+    {
+      "eventId": "lesmis-world-review-event-266-1",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-266-2",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-266-3",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-266-4",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-267-1",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-267-2",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-267-3",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    },
+    {
+      "eventId": "lesmis-world-review-event-267-4",
+      "mapId": "lesmis-world-review-map-mabeuf-cottage",
+      "animationMs": 0,
+      "animationBudgetMs": 30000
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "4744177ec5c9803e9302ca89606b8ef6927acd6923bbf3aed75a8f5795d46f2a",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "failure": "page.evaluate: Target page, context or browser has been closed"
+}

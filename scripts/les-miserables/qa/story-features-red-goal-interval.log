@@ -1,0 +1,30 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesStoryFeatures.test.ts (2 tests | 1 failed | 1 skipped) 832ms
+   × scopes intentions to their actual episodes and closes the political thread at its final resistance 831ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 skipped (2)
+   Start at  09:17:04
+   Duration  1.57s (transform 405ms, setup 0ms, import 582ms, tests 832ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesStoryFeatures.test.ts > scopes intentions to their actual episodes and closes the political thread at its final resistance
+AssertionError: expected 'lesmis-world-review-event-341-6' to be 'lesmis-world-review-event-341-3' // Object.is equality
+
+Expected: "lesmis-world-review-event-341-3"
+Received: "lesmis-world-review-event-341-6"
+
+ ❯ tests/lesMiserablesStoryFeatures.test.ts:24:26
+     22|  expect(world.characterGoals.every((g:any)=>['want','need','fear','fla…
+     23|  const flaw=world.characterGoals.find((g:any)=>g.id===`${p}-goal-law-a…
+     24|  expect(flaw.endEventId).toBe(`${p}-event-341-3`)
+       |                          ^
+     25|  const objective=world.characterGoals.find((g:any)=>g.id===`${p}-goal-…
+     26|  expect(objective.text).toContain('during this visit')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

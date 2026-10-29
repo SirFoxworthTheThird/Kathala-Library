@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch eight in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "1a4aad204b192f2d57e1e0dc3076f8169cd6867197a7b72525a677e6bb16f9bf",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "javert-montreuil-lodging",
+      "imageId": "lesmis-world-review-art-locations-javert-montreuil-lodging-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-lodging-quarter",
+      "imageId": "lesmis-world-review-art-locations-montreuil-lodging-quarter-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "madeleine-women-workroom",
+      "imageId": "lesmis-world-review-art-locations-madeleine-women-workroom-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "madeleine-factory-lodge",
+      "imageId": "lesmis-world-review-art-locations-madeleine-factory-lodge-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "madeleine-study",
+      "imageId": "lesmis-world-review-art-locations-madeleine-study-webp",
+      "width": 1311,
+      "height": 1200
+    },
+    {
+      "kind": "locations",
+      "key": "madeleine-bedroom-door",
+      "imageId": "lesmis-world-review-art-locations-madeleine-bedroom-door-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "madeleine-cashier-room",
+      "imageId": "lesmis-world-review-art-locations-madeleine-cashier-room-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-infirmary-antechamber",
+      "imageId": "lesmis-world-review-art-locations-montreuil-infirmary-antechamber-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ]
+}

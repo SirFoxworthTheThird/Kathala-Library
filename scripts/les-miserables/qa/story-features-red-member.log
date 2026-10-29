@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesStoryFeatures.test.ts (2 tests | 1 failed | 1 skipped) 834ms
+   × distinguishes actual association members from a visitor and a pupil from a gardener 833ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 skipped (2)
+   Start at  09:17:02
+   Duration  1.58s (transform 410ms, setup 0ms, import 590ms, tests 834ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesStoryFeatures.test.ts > distinguishes actual association members from a visitor and a pupil from a gardener
+AssertionError: expected [ { …(10) }, { …(10) }, …(6) ] to have a length of 9 but got 8
+
+- Expected
++ Received
+
+- 9
++ 8
+
+ ❯ tests/lesMiserablesStoryFeatures.test.ts:9:14
+      7|  const{world}=buildWorldReview({embedded:false})
+      8|  const abc=world.factionMemberships.filter((m:any)=>m.factionId===`${p…
+      9|  expect(abc).toHaveLength(9)
+       |              ^
+     10|  expect(abc.some((m:any)=>m.characterId===`${p}-character-grantaire`))…
+     11|  expect(abc.some((m:any)=>m.characterId===`${p}-character-marius`)).to…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

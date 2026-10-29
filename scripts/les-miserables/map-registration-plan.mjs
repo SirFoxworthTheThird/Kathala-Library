@@ -1,0 +1,335 @@
+import {contextRegistration,contextLandmarks}from './context-location-plan.mjs'
+import {secondaryParisRegistration,secondaryParisLandmarks}from './paris-secondary-location-plan.mjs'
+import {parisStreetRegistration,parisStreetLandmarks}from './paris-streets-location-plan.mjs'
+// Raster coordinates use the image's top-left origin. Replacements require
+// fresh registration, not a blind reuse or scaling of the temporary points.
+export const illustratedMapRegistration = {
+'paris-carriage-details':{width:1536,height:1024,locations:{'seine-right-bank-coach':[355,523],'seine-right-bank-reunion-coach':[1154,256],'carnival-cart':[1109,722]},landmarks:{'seine-right-bank-coach':'The clear central footwell in the left black coach, between transverse facing seats.','seine-right-bank-reunion-coach':'The upper-right coach footwell; separate vehicle from the earlier coach.','carnival-cart':'The empty open wagon platform in the lower-right panel.'}},
+'villers-source-details':{width:1536,height:1024,locations:{'villers-abbey-dungeons':[619,551]},landmarks:{'villers-abbey-dungeons':'The floor of one riverbank chamber in the left site plan; separate section explains wet ground and water levels.'}},
+'digne-civic-details':{width:1536,height:1024,locations:{'digne-execution-route':[409,553],'digne-scaffold':[1262,597]},landmarks:{'digne-execution-route':'The empty street surface in the independent left panel; not a complete itinerary.','digne-scaffold':'The wooden platform to the right of the unoccupied apparatus.'}},
+'paris-room-details':{width:1536,height:1024,locations:{'fantine-paris-room':[393,288],'gribier-garret-87-vaugirard':[1177,353],'madame-t-salon':[548,835],'paris-taproom':[1160,761]},landmarks:{'fantine-paris-room':'Clear upper-left chamber floor; unknown furnishings editorial.','gribier-garret-87-vaugirard':'Clear upper-right attic floor beside the scattered rags.','madame-t-salon':'Lower-left salon floor beside the tea table.','paris-taproom':'Lower-right floor between wooden tables.'}},
+'paris-public-room-details':{width:1536,height:1024,locations:{'fesch-antechamber':[402,398],'paris-prelate-house':[1301,368],'paris-law-school-library':[1156,786]},landmarks:{'fesch-antechamber':'Upper-left waiting-room floor before the double door.','paris-prelate-house':'Upper-right carpeted room floor, beside clocks and seating.','paris-law-school-library':'Lower-panel reading-room floor, beside the long table.'}},
+'larks-meadow':{width:1536,height:1024,locations:{'larks-meadow':[1256,623],'larks-meadow-departure':[1386,919]},landmarks:{'larks-meadow':'The low river parapet, source chapter 232 paragraph 5; the whole meadow is introduced earlier.','larks-meadow-departure':'The outgoing footpath at the meadow edge; exact first steps unspecified.'}},
+'pere-lachaise-corner':{width:1536,height:1024,locations:{'pere-lachaise-valjean-grave':[670,512]},landmarks:{'pere-lachaise-valjean-grave':'The plain narrow stone below the wall and yew, with no legible inscription.'}},
+"paris-environs":{"width":1302,"height":1208,"locations":{"paris":[601,614],"montfermeil-region":[1025,576],"saint-cloud":[240,724],"saint-cloud-park":[165,781],"saint-cloud-chestnut-walk":[114,754],"saint-cloud-kings-square":[205,783],"issy-park-swing":[412,805],"sceaux-ball":[448,936],"ecouen-school":[641,200],"bicetre-courtyard":[618,843],"chelles-abbey-inn-front":[1100,646],"paris-outskirts":[727,741]},"landmarks":{"paris":"The compact Paris town footprint beside the Seine; source-parcel geometry not asserted.","montfermeil-region":"The approximate eastern village footprint above the Marne.","saint-cloud":"The village footprint beside the western park.","saint-cloud-park":"Open ground in the schematic western park.","saint-cloud-chestnut-walk":"The shaded park edge; exact source path unspecified.","saint-cloud-kings-square":"An open park compartment; no exact square parcel claimed.","issy-park-swing":"The approximate Issy pleasure-ground district, not a surveyed swing.","sceaux-ball":"The Sceaux village footprint; exact venue unspecified.","ecouen-school":"The Écouen town cluster; exact school rooms unplotted.","bicetre-courtyard":"The Bicêtre complex district, without a surveyed courtyard corner.","chelles-abbey-inn-front":"The Chelles town cluster above the Marne; frontage position schematic.","paris-outskirts":"Open country at the southeastern urban edge."}},
+"paris-lodging-details":{"width":1536,"height":1024,"locations":{"courfeyrac-rue-verrerie-lodgings":[423,358],"courfeyrac-house-entrance":[428,803],"hotel-porte-saint-jacques":[1163,309],"rue-ouest-leblanc-house":[993,638],"rue-ouest-leblanc-house-gate":[1198,807]},"landmarks":{"courfeyrac-rue-verrerie-lodgings":"Clear floor between the bed and separate mattress.","courfeyrac-house-entrance":"The open threshold in the separate entrance detail.","hotel-porte-saint-jacques":"The plain chamber floor below the bed.","rue-ouest-leblanc-house":"Roof footprint of the modest house, without an invented apartment floor.","rue-ouest-leblanc-house-gate":"The carriage threshold into the separate Rue de l’Ouest property."}},
+"faverolles-village":{"width":1024,"height":1536,"locations":{"faverolles":[145,686],"faverolles-bakery":[661,487]},"landmarks":{"faverolles":"The cottage beside the lane, opposite the farming household.","faverolles-bakery":"The square-side bakery threshold below its intact grated frontage."}},
+"atlantic-context":{"width":1422,"height":1106,"locations":{"france-context":[1112,236],"america":[350,222],"hauteville-house":[1067,228]},"landmarks":{"france-context":"Continental France, opening its regional map; not an asserted city residence.","america":"A continental context point only; exact American destination remains unspecified.","hauteville-house":"The tiny Guernsey island dot in the Channel, an island-scale locator rather than house footprint."}},
+"roi-sicile-ruin":{"width":1536,"height":1024,"locations":{"rue-roi-sicile-ruin-enclosure":[412,480],"rue-roi-sicile-ruin-wall":[1240,146]},"landmarks":{"rue-roi-sicile-ruin-enclosure":"The open lot on the overhead ground-plan panel.","rue-roi-sicile-ruin-wall":"The high coping of the surviving wall on the separate elevation panel."}},
+"luxembourg-details":{"width":1536,"height":1024,"locations":{"luxembourg-pepiniere-alley":[570,548],"luxembourg-pepiniere-bench":[109,369],"luxembourg-grand-basin":[1310,687]},"landmarks":{"luxembourg-pepiniere-alley":"Clear walking ground below the parapet and row of trees.","luxembourg-pepiniere-bench":"The simple bench at the solitary left end.","luxembourg-grand-basin":"The bank beside the small hutch, not the water."}},
+"picpus-approaches":{"width":1536,"height":1024,"locations":{"chemin-vert-saint-antoine-entrance":[745,820],"cul-de-sac-genrot":[1371,145],"cul-de-sac-genrot-lantern":[1131,231],"droit-mur-wall-recess":[907,487],"paris-pursuit-route":[751,708]},"landmarks":{"chemin-vert-saint-antoine-entrance":"The approach before the fork.","cul-de-sac-genrot":"Open blind-alley ground before its high white end wall.","cul-de-sac-genrot-lantern":"The permanent oil lantern at the blind-alley entrance.","droit-mur-wall-recess":"The sheltered setback before the closed plank gateway.","paris-pursuit-route":"The Y fork as a retrospective neighborhood locator, not a precise full travel route."}},
+"mabeuf-cottage":{"width":1536,"height":1024,"locations":{"mabeuf-austerlitz-garden":[800,500],"mabeuf-garden-hedge":[1150,752],"mabeuf-garden-lane":[802,860]},"landmarks":{"mabeuf-austerlitz-garden":"Clear garden ground between cottage and well.","mabeuf-garden-hedge":"The planted lower boundary beside the solitary lane.","mabeuf-garden-lane":"The unpaved lane below the hedge."}},
+"vernon-details":{"width":1536,"height":1024,"locations":{"pontmercy-vernon-house":[198,238],"vernon-coach-relay":[893,235],"vernon-church-approach":[998,743],"pontmercy-vernon-grave":[1416,321]},"landmarks":{"pontmercy-vernon-house":"The humble riverside house footprint above the narrow flower garden.","vernon-coach-relay":"Open relay yard in the independent upper panel.","vernon-church-approach":"The path around the church toward its apse.","pontmercy-vernon-grave":"Grassy ground near the anonymous black cross beyond the apse."}},
+"paris-cafe-details":{"width":1536,"height":1024,"locations":{"bombarda-upper-room":[391,608],"cafe-voltaire":[1260,301],"richefeu-smoking-room":[1285,734]},"landmarks":{"bombarda-upper-room":"Clear floor between the two tables and windows, outside the bed alcove.","cafe-voltaire":"Clear floor to the right of the breakfast table.","richefeu-smoking-room":"Open floor beside the domino table."}},
+"vaugirard-cemetery":{"width":1536,"height":1024,"locations":{"vaugirard-cemetery-approach":[747,838],"vaugirard-cemetery-gate":[855,753],"vaugirard-open-grave":[1275,170]},"landmarks":{"vaugirard-cemetery-approach":"The avenue immediately outside the contiguous gates.","vaugirard-cemetery-gate":"The paired grate entrance beside the porter pavilion.","vaugirard-open-grave":"Ordinary ground in the secluded upper-right corner; no open burial painted."}},
+"cafe-musain":{"width":1536,"height":1024,"locations":{"cafe-musain-entrance":[160,443],"cafe-musain-back-room":[1135,425]},"landmarks":{"cafe-musain-entrance":"The front street threshold into the café.","cafe-musain-back-room":"The open floor between the rear-room tables, beyond the extremely long corridor."}},
+"bastille-elephant-exterior":{"width":1536,"height":1024,"locations":{"bastille-elephant-enclosure":[748,662],"bastille-elephant-entrance":[812,551]},"landmarks":{"bastille-elephant-enclosure":"The open ground within the palisade, below the model’s belly.","bastille-elephant-entrance":"The approach under the belly beside the foreleg; the actual aperture is obscured by the body in exterior projection."}},
+"bastille-elephant-interior":{"width":1536,"height":1024,"locations":{"bastille-elephant-interior":[731,491]},"landmarks":{"bastille-elephant-interior":"The walkable rubble floor inside the hollow model, with mesh alcove to the left and foreleg breach to the right."}},
+"la-force-details":{"width":1536,"height":1024,"locations":{"la-force-charlemagne-yard":[316,480],"la-force-new-building":[702,620],"la-force-fine-air":[1287,375]},"landmarks":{"la-force-charlemagne-yard":"The separate stone-paved court detail.","la-force-new-building":"The lower dormitory floor beside beds whose heads abut the central flue.","la-force-fine-air":"The watched cage in the top-storey detail, with skylight separately annotated above."}},
+"southern-country":{"width":1403,"height":1121,"locations":{"senez-gate":[592,642],"ubaye-district":[791,267],"grasse":[885,823],"southern-localities":[644,745]},"landmarks":{"senez-gate":"The edge of the Senez town cluster, not a claimed surveyed gate.","ubaye-district":"The labelled Ubaye/Jausiers district cluster, with qualitative regional placement.","grasse":"The inland Grasse roof cluster above the coastal strip.","southern-localities":"A general country point for the separately framed unlocated details, not a physical house."}},
+"southern-local-details":{"width":1536,"height":1024,"locations":{"chastelar":[307,389],"chastelar-mountain-route":[380,153],"chastelar-priest-house":[408,341],"mountain-presbytery":[790,318],"g-valley-path":[1290,371],"g-hut-door":[1249,274],"gervais-plain":[256,699],"gervais-plain-path":[418,722],"gervais-three-paths":[605,810],"grasse-distillery":[1174,832]},"landmarks":{"chastelar":"The village ground between the church and modest houses.","chastelar-mountain-route":"The stony upward path beyond the hamlet.","chastelar-priest-house":"The separate modest house roof beside the church.","mountain-presbytery":"The separate poor parish interior, with no established floor or village address.","g-valley-path":"The grass-grown approach to the isolated hut.","g-hut-door":"The hut threshold under the walnut canopy.","gervais-plain":"The bare ruddy ground beside the larger bush.","gervais-plain-path":"The path just beyond the bush-side stopping place.","gervais-three-paths":"The later path meeting in the same empty plain; angles editorial.","grasse-distillery":"The working yard/frontage among the bales and ordinary vessels."}},
+"toulon-harbour":{"width":1536,"height":1024,"locations":{"toulon-harbour":[530,343],"toulon-galleys":[850,400],"toulon-townhall":[1192,241],"orion-at-anchor":[483,397],"toulon-orion-algesiras-water":[480,437]},"landmarks":{"toulon-harbour":"The Arsenal quay above the anchored vessels, not water for the onlookers.","toulon-galleys":"The long land-based penal roof block on the basin-separating mole.","toulon-townhall":"The labelled municipal frontage in the old port-side town; exact parcel schematic.","orion-at-anchor":"The larger upper hull, opening both vessel levels.","toulon-orion-algesiras-water":"The blue gap between the two parallel ships, not open water beyond their ends."}},
+"orion-deck":{"width":1942,"height":809,"locations":{"orion-deck":[1100,480]},"landmarks":{"orion-deck":"The clear working deck just starboard of the central mast/capstan area."}},
+"orion-main-yard":{"width":1536,"height":1024,"locations":{"orion-main-yard":[768,800]},"landmarks":{"orion-main-yard":"The wooden yard extending toward the labelled starboard end, above the subdued deck."}},
+"paris-sewers":{"width":1774,"height":887,"locations":{"chanvrerie-subterranean-corridor":[1622,636],"montmartre-sewer":[1413,520],"montmartre-service-crossroads":[1412,419],"grand-sewer-junction":[1420,251],"grand-sewer":[1093,257],"grand-sewer-airhole-rest":[424,255],"grand-sewer-fontis":[280,285],"grand-sewer-fontis-far-side":[191,288],"grand-sewer-outlet-approach":[131,392],"jena-sewer-outlet":[157,549],"jena-sewer-outlet-shore":[179,645]},"landmarks":{"chanvrerie-subterranean-corridor":"The narrow dead-end entry branch floor before the initial T junction.","montmartre-sewer":"The main Montmartre passage between initial turn and service crossing.","montmartre-service-crossroads":"The small widened crossing with a shallow puddle and unspecified short branch stubs.","grand-sewer-junction":"The broad collector junction meeting Montmartre, Provence and Abattoir galleries.","grand-sewer":"The dry margin along the broad collecting passage.","grand-sewer-airhole-rest":"The dry ledge within the airhole’s pale light.","grand-sewer-fontis":"The water-covered bed before the final elbow; hidden damage is unpainted.","grand-sewer-fontis-far-side":"The firm approach beyond that submerged reach, near the elbow.","grand-sewer-outlet-approach":"The final descending gallery beyond its turn.","jena-sewer-outlet":"The closed iron grille at the narrowing outlet.","jena-sewer-outlet-shore":"The narrow bank immediately outside the barred mouth, above the river."}},
+"petit-picpus-site":{"width":1536,"height":1024,"locations":{"petit-picpus-garden":[850,585],"petit-picpus-arched-window":[325,224],"petit-picpus-melon-beds":[460,493],"petit-picpus-ruined-shed":[201,782],"petit-picpus-convent":[750,185],"petit-picpus-little-convent":[1340,730],"petit-picpus-school":[1323,202],"petit-picpus-school-garden":[1336,366],"petit-picpus-courtyard":[1124,229],"petit-picpus-entrance":[1126,139],"droit-mur-garden-wall":[365,862],"droit-mur-petit-picpus-sentinel-post":[72,58],"rue-droit-mur":[54,474],"rue-polonceau":[718,904],"rue-polonceau-droit-mur-junction":[44,894]},"landmarks":{"petit-picpus-garden":"The garden ground between the central tree and eastern paths.","petit-picpus-arched-window":"The garden-facing window near the inner turn of the L-shaped building.","petit-picpus-melon-beds":"The glass-covered cultivation frames.","petit-picpus-ruined-shed":"The dismantled old-convent shelter in the Polonceau/Droit-Mur corner.","petit-picpus-convent":"The principal building wing, opening the separate interior detail atlas.","petit-picpus-little-convent":"The roof of the separately labelled Annex near Aumarais.","petit-picpus-school":"The side-building roof near the carriage entry.","petit-picpus-school-garden":"The small cultivated/recreation enclosure before the side building.","petit-picpus-courtyard":"The vine-walled court within No.62.","petit-picpus-entrance":"The top carriage-gate threshold.","droit-mur-garden-wall":"The continuous Polonceau boundary near its western end, with no invented gate.","droit-mur-petit-picpus-sentinel-post":"The top-left street junction outside the wall.","rue-droit-mur":"The western street outside the long main wing.","rue-polonceau":"The street below the continuous lower boundary.","rue-polonceau-droit-mur-junction":"The lower-left junction of the two boundary streets."}},
+"petit-picpus-interiors":{"width":1536,"height":1024,"locations":{"petit-picpus-parlor":[294,235],"petit-picpus-business-parlor":[785,255],"petit-picpus-chapel":[1272,325],"petit-picpus-classroom":[848,825],"petit-picpus-refectory":[250,760],"fauchelevent-hut":[1328,806]},"landmarks":{"petit-picpus-parlor":"The empty tiled first-floor room before the visitor grille.","petit-picpus-business-parlor":"The prioress’s modest cell floor beside the bed and table.","petit-picpus-chapel":"The flagstone nave before the sanctuary curtain.","petit-picpus-classroom":"The schoolroom floor among simple desks.","petit-picpus-refectory":"The floor between the two long parallel tables.","fauchelevent-hut":"The hut floor beside its single bed; no grounds position inferred."}},
+"gillenormand-details":{"width":1536,"height":1024,"locations":{"gillenormand-bedroom":[272,270],"gillenormand-bedroom-window":[246,310],"gillenormand-bedroom-anteroom":[872,257],"gillenormand-drawing-room":[484,260],"gillenormand-dining-room":[502,556],"gillenormand-elder-daughter-room":[1324,859],"gillenormand-garden":[1190,232],"gillenormand-house-entrance":[1421,245],"gillenormand-lower-waiting-room":[303,846],"gillenormand-study":[895,566],"marius-gillenormand-attic":[850,858],"marius-recovery-room":[1367,570]},"landmarks":{"gillenormand-bedroom":"The grandfather’s chamber floor inside the Coromandel-screened bedroom.","gillenormand-bedroom-window":"The street-facing window along the lower wall, not the garden stair at left.","gillenormand-bedroom-anteroom":"The separately illustrated outer hall beside its old sofa.","gillenormand-drawing-room":"The reception room connected through the corrected bedroom door.","gillenormand-dining-room":"The floor beside the long table in the unlocated dining-room detail.","gillenormand-elder-daughter-room":"The isolated daughter’s chamber, with no floor assertion.","gillenormand-garden":"The source garden detail, not an invented whole property.","gillenormand-house-entrance":"The street threshold in the separate frontage detail.","gillenormand-lower-waiting-room":"The red-square-tiled ground-floor room.","gillenormand-study":"Marius’s private study detail, not automatically the old library.","marius-gillenormand-attic":"The small roof room beside its table/window.","marius-recovery-room":"The separate recovery-room detail with no invented address inside house."}},
+"plumet-house":{"width":1536,"height":1024,"locations":{"rue-plumet-street":[621,949],"rue-plumet-street-corner":[899,946],"rue-plumet-garden":[550,585],"rue-plumet-garden-bench":[171,477],"rue-plumet-garden-gate":[545,850],"rue-plumet-garden-steps":[563,413],"rue-plumet-pavilion":[561,280],"rue-plumet-rear-lodge":[637,58],"rue-plumet-cosette-room":[1348,637]},"landmarks":{"rue-plumet-street":"The road just outside the iron garden frontage.","rue-plumet-street-corner":"The street continuing beyond the right property corner; not the distant boulevard junction.","rue-plumet-garden":"The grass and tangled vegetation within the walls.","rue-plumet-garden-bench":"The old stone seat in the left garden corner.","rue-plumet-garden-gate":"The iron street-facing gate.","rue-plumet-garden-steps":"The curved front steps of the pavilion.","rue-plumet-pavilion":"The central pavilion roof footprint.","rue-plumet-rear-lodge":"The low lodge beyond the paved back courtyard.","rue-plumet-cosette-room":"The isolated upper-room inset; no orientation inside the house asserted."}},
+"homme-arme-rooms":{"width":1536,"height":1024,"locations":{"homme-arme-apartment":[576,426],"homme-arme-dining-room":[789,461],"homme-arme-cosette-room":[1188,474],"homme-arme-cosette-room-window":[1363,344],"homme-arme-valjean-room":[319,433],"homme-arme-doorstep":[194,831],"homme-arme-street-entrance":[268,735],"homme-arme-stair-landing":[828,767]},"landmarks":{"homme-arme-apartment":"The central apartment floor beside its dining furnishings.","homme-arme-dining-room":"The shared dining/antechamber floor; final bed movement is not painted.","homme-arme-cosette-room":"The right bedroom’s floor, facing the back court.","homme-arme-cosette-room-window":"The east wall sash-window toward the enclosed court.","homme-arme-valjean-room":"The left bedroom floor.","homme-arme-doorstep":"The outer threshold in the entrance detail.","homme-arme-street-entrance":"The short vestibule within the entrance detail.","homme-arme-stair-landing":"The separate first-floor landing beside the street window."}},
+"waterloo-country":{"width":1536,"height":1024,"locations":{"hougomont":[233,606],"nivelles-la-hulpe-road":[424,524],"mont-saint-jean-crossroads":[790,111],"mont-saint-jean-mill":[665,114],"mont-saint-jean-plateau":[716,248],"mont-saint-jean-plateau-foot":[713,471],"belle-alliance-mont-saint-jean-slope":[830,543],"ohain-hollow-road":[730,351],"plancenoit-front":[1338,464],"wavre-plancenoit-route":[1454,324],"rossomme-heights":[1186,804],"rossomme-outposts":[1191,754],"rossomme-command-table":[1149,725],"rossomme-deployment-ground":[1002,798],"napoleon-waterloo-command-post":[1088,738],"napoleon-waterloo-observation-post":[1012,664],"waterloo-genappe-retreat":[1043,900],"genappe-meadow":[926,913]},"landmarks":{"hougomont":"The walled farm roof group beside the Nivelles road.","nivelles-la-hulpe-road":"The undulating western highway approach.","mont-saint-jean-crossroads":"The junction at the upper village.","mont-saint-jean-mill":"The small windmill west of the upper road.","mont-saint-jean-plateau":"The upper field inside the two highways and cross-road.","mont-saint-jean-plateau-foot":"The ground below the plateau bank.","belle-alliance-mont-saint-jean-slope":"The rising fields north of La Belle-Alliance.","ohain-hollow-road":"The cross-road along the bank at the plateau crest.","plancenoit-front":"The approach just outside the village.","wavre-plancenoit-route":"The eastern road entering from the Wavre direction.","rossomme-heights":"The low raised ground beyond Rossomme.","rossomme-outposts":"The fields surrounding the farm sector; not a painted outpost.","rossomme-command-table":"The slope at the Plancenoit road angle; no transient table painted.","rossomme-deployment-ground":"The open field near the southern highway.","napoleon-waterloo-command-post":"The farm sector used for morning reports; exact spot unspecified.","napoleon-waterloo-observation-post":"The turf rise east of the highway beyond Rossomme.","waterloo-genappe-retreat":"The southern highway toward Genappe.","genappe-meadow":"The open meadow at the southern edge; incident point approximate."}},
+"hougomont-details":{"width":1536,"height":1024,"locations":{"hougomont-courtyard":[566,381],"hougomont-south-door":[322,811],"hougomont-farmhouse":[864,720],"hougomont-orchard":[1287,427],"hougomont-well":[677,449]},"landmarks":{"hougomont-courtyard":"The open central yard.","hougomont-south-door":"The entrance at the notched southwest corner.","hougomont-farmhouse":"The yard-facing farmhouse doorway.","hougomont-orchard":"The apple-tree enclosure above the garden terrace.","hougomont-well":"The well with the three-sided masonry surround."}},
+"montfermeil-country":{"width":1536,"height":1024,"locations":{"montfermeil":[896,188],"thenardier-inn":[1336,302],"thenardier-inn-front":[1381,340],"montfermeil-church-square":[1009,272],"montfermeil-toy-stall":[1063,289],"montfermeil-forest":[748,648],"montfermeil-chelles-path":[1024,429],"montfermeil-forest-spring":[1045,656],"montfermeil-spring-return-path":[1021,583],"montfermeil-marked-clearing":[925,774],"montfermeil-gagny-road":[604,113],"montfermeil-livry-road":[505,270],"montfermeil-livry-bondy-forest":[180,526],"montfermeil-aqueduct-turf-path":[368,640]},"landmarks":{"montfermeil":"The village street center on the plateau.","thenardier-inn":"The labelled inn roof at the Boulanger Lane end.","thenardier-inn-front":"The open frontage beside the inn entrance.","montfermeil-church-square":"The open square beside the church.","montfermeil-toy-stall":"The small empty wooden stall beside the square.","montfermeil-forest":"The woodland canopy between the two local paths.","montfermeil-chelles-path":"The descending path between village and spring.","montfermeil-forest-spring":"The small spring basin, not the ponds.","montfermeil-spring-return-path":"The wooded bend on the path to the village.","montfermeil-marked-clearing":"The ordinary clearing below the spring; no hidden feature painted.","montfermeil-gagny-road":"The labelled outward road above-left of the village.","montfermeil-livry-road":"The plateau road extending left from the village.","montfermeil-livry-bondy-forest":"The wooded ground beside the outward road and ponds.","montfermeil-aqueduct-turf-path":"The curved turf path on the hill; no exposed aqueduct."}},
+"thenardier-inn-details":{"width":1536,"height":1024,"locations":{"thenardier-inn-public-room":[394,352],"thenardier-inn-guest-room":[1061,328],"thenardier-inn-stairs":[1432,184],"thenardier-understairs-recess":[164,770],"thenardier-children-hearth-room":[502,774],"thenardier-couple-bedroom":[1307,744]},"landmarks":{"thenardier-inn-public-room":"The floor between the common-room tables.","thenardier-inn-guest-room":"The first-floor chamber floor before the curtained bed.","thenardier-inn-stairs":"The stair flight beyond the guest corridor.","thenardier-understairs-recess":"The straw pallet beneath the stairs in the separate unspecified-floor detail.","thenardier-children-hearth-room":"The floor of the cold-hearth room, outside the glass door.","thenardier-couple-bedroom":"The isolated parents’ chamber with no link to the other sleeping spaces."}},
+"arras-town":{"width":1536,"height":1024,"locations":{"arras-hotel-poste":[284,807],"arras-posting-office":[331,842],"arras-prefecture-square":[1261,268],"arras-prefecture":[1252,158]},"landmarks":{"arras-hotel-poste":"The inn courtyard within the lower-left property.","arras-posting-office":"The posting establishment in the same inn property.","arras-prefecture-square":"The open square immediately before the prefecture frontage.","arras-prefecture":"The broad former palace on the far side of the square."}},
+"arras-court":{"width":1536,"height":1024,"locations":{"arras-assize-hall":[759,542],"arras-council-chamber":[690,190],"arras-court-antechamber":[245,557],"arras-court-corridor":[337,172],"arras-private-conference-room":[1350,738]},"landmarks":{"arras-assize-hall":"Courtroom floor between the public benches and judges.","arras-council-chamber":"The green table room directly behind the president.","arras-court-antechamber":"The public outer hall left of the double door.","arras-court-corridor":"The angular covered passage approaching the council room.","arras-private-conference-room":"The isolated conference detail with no asserted adjacency."}},
+  'montreuil-town':{width:1448,height:1086,locations:{
+    'madeleine-factory':[430,670], 'montreuil-townhall':[1000,278],
+    'montreuil-square':[1030,395], 'montreuil-police-station':[1185,391],
+    'montreuil-officers-cafe-front':[972,429], 'montreuil-unpaved-alley':[399,845],
+    'montreuil-barber-shop':[955,541], 'montreuil-parsonage-door':[1230,633],
+    'scaufflaire-hire-yard':[1290,794], 'montreuil-post-office':[1105,505],
+    'montreuil-city-prison':[801,242], 'montreuil-cemetery':[1285,970],
+    'montreuil-countryside':[815,947], 'montreuil-hesdin-road':[1344,154],
+    'montreuil-paris-road':[1124,986], 'javert-montreuil-lodging':[1030,691],
+    'montreuil-lodging-quarter':[300,808],
+  },landmarks:{
+    'madeleine-factory':'The courtyard and household wing of the lower-town factory, below the two long workshop roofs.',
+    'montreuil-townhall':'The roof of the civic building on the upper edge of the square.',
+    'montreuil-square':'Open paving between town-hall, station and cafe.',
+    'montreuil-police-station':'The small building at the right end of the square; exact historical address is not asserted.',
+    'montreuil-officers-cafe-front':'The square-facing frontage of the cafe, rather than the interior.',
+    'montreuil-unpaved-alley':'The earth-surfaced way among the lower-town houses; the source does not name it.',
+    'montreuil-barber-shop':'The modest shop block beside the lower side of the upper-town square approach; schematic site.',
+    'montreuil-parsonage-door':'The parsonage property beside the quiet approach toward the hire establishment; door site is schematic.',
+    'scaufflaire-hire-yard':'The stable and hire-yard property at the edge of the upper town.',
+    'montreuil-post-office':'The postal-establishment block southeast of the square; schematic site.',
+    'montreuil-city-prison':'The labeled prison property northwest of the square; precise address unknown.',
+    'montreuil-cemetery':'Inside the burial enclosure beyond the lower-right town edge.',
+    'montreuil-countryside':'Open agricultural ground below the western slopes; general countryside setting.',
+    'montreuil-hesdin-road':'The outward road at the upper-right margin; label direction is schematic.',
+    'montreuil-paris-road':'The outward road below the lower town gate, beside the cemetery approach.',
+    'javert-montreuil-lodging':'The labeled ordinary dwelling south of the square; no source address is inferred.',
+    'montreuil-lodging-quarter':'The poorer lower-town rental dwellings, represented at neighborhood scale without assigning either room an exact address.',
+  }},
+  'madeleine-premises':{width:1536,height:1024,locations:{
+    'madeleine-women-workroom':[295,330], 'madeleine-factory-lodge':[170,859],
+    'madeleine-study':[700,860], 'madeleine-bedroom':[1208,261],
+    'madeleine-bedroom-door':[1001,252], 'madeleine-cashier-room':[1217,424],
+    'montreuil-factory-infirmary':[1015,759], 'montreuil-infirmary-antechamber':[1020,820],
+    'montreuil-infirmary-laboratory':[1420,828],
+  },landmarks:{
+    'madeleine-women-workroom':'The separate left workshop, without asserting access into the men’s room.',
+    'madeleine-factory-lodge':'Inside the portress’s small lodge beside the courtyard.',
+    'madeleine-study':'Clear floor below and beside the desk in the detached study detail.',
+    'madeleine-bedroom':'Clear floor within the upper private-room detail; no actual floor number is asserted.',
+    'madeleine-bedroom-door':'The threshold on the left edge of the chamber detail.',
+    'madeleine-cashier-room':'The room shown separately below the chamber, reflecting the stated vertical relation only.',
+    'montreuil-factory-infirmary':'The ward detail beside the bed, distinct from the town hospital.',
+    'montreuil-infirmary-antechamber':'The small room outside the ward and above its approach steps.',
+    'montreuil-infirmary-laboratory':'The standalone preparation-room detail; no corridor or precise ward adjacency is inferred.',
+  }},
+  'fantine-rented-rooms':{width:1774,height:887,locations:{
+    'fantine-montreuil-room':[470,520], 'fantine-montreuil-attic':[1350,535],
+  },landmarks:{
+    'fantine-montreuil-room':'Open floor in the earlier second-floor room, shown separately from the attic.',
+    'fantine-montreuil-attic':'Open floor in the cramped later roof lodging; the blank gap prevents a false claim of adjacency or shared address.',
+  }},
+  'paris-les-halles':{width:1322,height:1190,locations:{
+    'halles-chanvrerie-gateway':[1000,475], 'paris-halles-quarter':[770,620],
+    'rue-saint-denis':[1010,540], 'rue-prouvaires-entrance':[440,540],
+    'rue-bethisy':[540,731], 'rue-poterie-abandoned-barricade':[650,780],
+    'rue-contrat-social':[550,573],
+  },landmarks:{
+    'halles-chanvrerie-gateway':'The eastern mouth of the short Chanvrerie lane at Saint-Denis; opens the closer, differently oriented street plan.',
+    'paris-halles-quarter':'A lane inside the old market sheds south of Saint-Eustache; general quarter setting rather than a particular incident.',
+    'rue-saint-denis':'The long street east of the market, below the Chanvrerie turning.',
+    'rue-prouvaires-entrance':'The lower market-side approach where Prouvaires meets the surrounding streets; approximate entry within the source-described approach.',
+    'rue-bethisy':'The southern market approach near Bourdonnais; no exact turn-by-turn track is asserted.',
+    'rue-poterie-abandoned-barricade':'The lower market lane labeled Poterie, with no wagon or barricade painted; source street identification and precise position are uncertain.',
+    'rue-contrat-social':'The short connector between Prouvaires and Tonnellerie; the shot position is approximate and source street identification tentative.',
+  }},
+  france:{width:1254,height:1254,locations:{
+ 'digne-diocese':[953,853],
+    paris:[663,389], 'montfermeil-region':[685,386], 'france-digne-gateway':[926,874], vernon:[593,360],
+    'montreuil-sur-mer':[613,216], arras:[690,236], toulon:[899,971],
+    'waterloo-battlefield':[800,191],
+  },landmarks:{
+    'montfermeil-region':'The district east of Paris; schematic regional point, outside the city marker.',
+    'digne-diocese':'The broad southern mountain district northeast of the Digne town point; not an administrative boundary.',
+    paris:'The town cluster near the center-north of the mainland, southeast of Vernon.',
+    'france-digne-gateway':'The inland town cluster in Provence, north of Toulon and west of the high Alpine relief.',
+    vernon:'The smaller town cluster northwest of Paris; river drainage is omitted from this regional illustration.',
+    'montreuil-sur-mer':'The northern coastal-country town cluster west of Arras, inland from the Channel coast.',
+    arras:'The inland northern town cluster southeast of Montreuil.',
+    toulon:'The port cluster on the Mediterranean coast, south of Digne.',
+    'waterloo-battlefield':'The northern inland marker near Waterloo; local battlefield movement needs a separate detailed map.',
+  }},
+  paris:{width:1624,height:969,locations:{
+ 'bastille-elephant':[1158,538], 'la-force':[1100,443],
+ 'paris-sewer-network':[867,287], 'seine-right-bank-beyond-invalides':[122,389],
+ 'petit-picpus-quarter':[1370,620],
+ 'gillenormand-house':[1157,318],
+ 'rue-plumet-house':[434,609], 'rue-plumet-gate':[445,621], 'rue-plumet-boulevard-invalides-corner':[479,612], 'rue-babylone-secret-door':[499,546], 'homme-arme-house':[1071,395],
+    'paris-gorbeau-quarter-gateway':[1000,820], 'paris-halles-gateway':[810,315],
+    'paris-marais':[1030,385], 'paris-latin-quarter':[830,590],
+    'luxembourg-gardens':[755,710], 'champs-elysees':[480,235],
+    'boulevard-du-temple':[1195,230], 'paris-town-hall':[1040,465],
+    'faubourg-saint-antoine':[1410,600], 'paris-mouffetard-quarter':[910,735],
+    'saint-sulpice':[547,577], 'seine-paris':[1260,800],
+  },landmarks:{
+    'bastille-elephant':'The southwestern Bastille approach near the canal basin; approximate model site on the city overview.',
+    'la-force':'The Marais prison district northeast of the town hall; exact old parcel schematic.',
+    'paris-sewer-network':'The right-bank drainage overview gateway, not a physical surface manhole.',
+    'seine-right-bank-beyond-invalides':'The northern bank between the western Jéna/Invalides approaches; plotted at city-scale precision.',
+    'petit-picpus-quarter':'The eastern district beyond the Austerlitz crossing; fictionalized source geography, not the modern cemetery parcel.',
+    'gillenormand-house':'The northeastern Marais near the Filles-du-Calvaire approach; schematic old-house parcel, not a modern street number.',
+    'rue-plumet-house':'The southwestern household district near Invalides; exact fictional parcel schematic.',
+    'rue-plumet-gate':'The city-scale frontage point in the same district, not a second estate.',
+    'rue-plumet-boulevard-invalides-corner':'The broad Invalides approach, with street-corner precision not asserted.',
+    'rue-babylone-secret-door':'The Babylone-side approach east of Invalides; exact hidden exit unknown.',
+    'homme-arme-house':'The Marais block north of the town hall; exact house parcel schematic.',
+    'paris-gorbeau-quarter-gateway':'The hospital-quarter interior road west of the Salpêtrière, south of the Jardin des Plantes; opens the closer source-based boulevard reconstruction.',
+    'paris-halles-gateway':'The market blocks just southeast of Saint-Eustache; a district-scale gateway, not the Corinthe building.',
+    'paris-marais':'The dense right-bank quarter northeast of the central islands.',
+    'paris-latin-quarter':'The left-bank blocks between the Luxembourg and the river.',
+    'luxembourg-gardens':'Inside the formal garden south of its palace, rather than on a surrounding street.',
+    'champs-elysees':'The tree-lined western promenade above the river bend.',
+    'boulevard-du-temple':'The curving boulevard along the northeastern edge of the dense old city.',
+    'paris-town-hall':'The municipal-building footprint on the right bank beside its riverside square.',
+    'faubourg-saint-antoine':'The district east of the Bastille open place.',
+    'paris-mouffetard-quarter':'The southern neighborhood west of the Jardin des Plantes, represented at district scale.',
+    'saint-sulpice':'The church block west of the Luxembourg gardens.',
+    'seine-paris':'The broad watercourse beside the Jardin des Plantes and Salpêtrière; a general river setting, not a claimed exact incident site.',
+  }},
+  digne:{width:1448,height:1086,locations:{
+    digne:[916,516], 'digne-palace':[1064,174], 'digne-palace-gallery':[1055,215],
+    'digne-hospital':[1095,414], 'digne-bishop-house-gateway':[1115,449],
+    'digne-cathedral':[859,282], 'digne-cathedral-door':[851,355],
+    'digne-printing-office-door':[998,560], 'digne-prefecture-dining-room':[748,595],
+    'cross-colbas':[337,193], 'cross-colbas-kitchen':[363,310],
+    'chaffaut-public-house':[243,488], 'digne-prison-door':[529,906],
+    'digne-prison-cell':[445,846], 'digne-artisan-house':[755,901],
+    'digne-kennel-garden':[1086,859], 'digne-drawing-room':[521,465],
+    'digne-outskirts':[1272,919],
+  },landmarks:{
+    digne:'The open town street below the cathedral square; a general setting marker.',
+    'digne-palace':'The palace roof west of its large formal garden, directly above the small former hospital property.',
+    'digne-palace-gallery':'The long palace wing beside the large garden; the interior gallery position is editorial.',
+    'digne-hospital':'The small former hospital house directly below the palace, beside its four-plot garden.',
+    'digne-bishop-house-gateway':'The street-facing lower boundary of the small former hospital property; marker naming follows scene disclosure.',
+    'digne-cathedral':'The cathedral roof overlooking the square, without asserting a modern facade reconstruction.',
+    'digne-cathedral-door':'The cathedral threshold opening onto its square.',
+    'digne-printing-office-door':'The square-side front of the printing-office property at the lower corner.',
+    'digne-prefecture-dining-room':'The upper wing of the prefecture courtyard property; room position is schematic.',
+    'cross-colbas':'The inn roof at the upper-left street bend.',
+    'cross-colbas-kitchen':'The inn lower wing, with the precise kitchen position editorial.',
+    'chaffaut-public-house':'The public-house roof beside its enclosed yard at middle left.',
+    'digne-prison-door':'The entrance in the lower wall of the prison courtyard property.',
+    'digne-prison-cell':'The prison left wing; the cell position is editorial.',
+    'digne-artisan-house':'The lower wing of the artisan-house courtyard property.',
+    'digne-kennel-garden':'Inside the garden enclosure beside the small shed, without painting the dog or the later encounter.',
+    'digne-drawing-room':'The town-society house roof beside its garden; the room position is editorial.',
+    'digne-outskirts':'The open route beyond the lower-right garden enclosure and boundary remnants.',
+  }},
+  'gorbeau-lodgings':{width:1586,height:992,locations:{
+    'gorbeau-valjean-rooms':[335,450], 'gorbeau-early-corridor':[380,565],
+    'gorbeau-cosette-chamber':[570,470], 'gorbeau-unoccupied-room':[300,800],
+    'gorbeau-marius-room':[900,550], 'gorbeau-marius-doorway':[900,680],
+    'gorbeau-jondrette-attic':[1260,490], 'gorbeau-house-corridor':[1270,785],
+    'gorbeau-partition-aperture':[995,300],
+  },landmarks:{
+    'gorbeau-valjean-rooms':'Clear floor in the main chamber of the separate left-hand lodging arrangement.',
+    'gorbeau-early-corridor':'The passage below the left-hand main and small chambers.',
+    'gorbeau-cosette-chamber':'Clear floor at the foot of the folding bed in the small chamber.',
+    'gorbeau-unoccupied-room':'The empty room below the left-hand corridor.',
+    'gorbeau-marius-room':'Clear floor below the commode in the narrow left garret of the right-hand arrangement.',
+    'gorbeau-marius-doorway':'The threshold from the right-hand corridor into the small garret.',
+    'gorbeau-jondrette-attic':'Clear floor between the table and hearth in the large garret.',
+    'gorbeau-house-corridor':'The shared corridor below both garret doors.',
+    'gorbeau-partition-aperture':'The shared partition above the commode; no aperture is painted, so later scene visibility controls its reveal.',
+  }},
+  'corinthe-ground-floor':{width:1484,height:1060,locations:{
+    'corinthe-taproom':[605,520], 'corinthe-taproom-door':[543,798],
+    'corinthe-kitchen':[1105,570], 'corinthe-cellar-trap':[269,707],
+  },landmarks:{
+    'corinthe-taproom':'Clear floor between the table and support post, west of the kitchen partition.',
+    'corinthe-taproom-door':'The street threshold in the lower tap-room wall, between the open door leaves.',
+    'corinthe-kitchen':'Clear stone floor west of the kitchen hearth.',
+    'corinthe-cellar-trap':'The closed rectangular wooden cellar hatch at the lower-left of the tap-room.',
+  }},
+  'corinthe-first-floor':{width:1484,height:1060,locations:{
+    'corinthe-first-floor':[965,590], 'corinthe-first-floor-window':[739,823],
+  },landmarks:{
+    'corinthe-first-floor':'Open floor southeast of the billiard table, clear of the corner stair opening.',
+    'corinthe-first-floor-window':'The single narrow window centered in the lower street-facing wall.',
+  }},
+  'bishop-first-floor':{width:1484,height:1060,locations:{
+    'bishop-upstairs-drawing-room':[740,585],
+  },landmarks:{
+    'bishop-upstairs-drawing-room':'The clear center of the middle room below the linen; editorial room order without inferred circulation.',
+  }},
+  'bishop-ground-floor':{width:1484,height:1060,locations:{
+    'bishop-house':[330,650], 'bishop-house-entrance':[226,752],
+    'bishop-dining-room':[450,825], 'bishop-bedroom':[845,820],
+    'bishop-house-library':[621,650], 'bishop-oratory-door':[910,754],
+    'bishop-oratory-alcove':[1258,678], 'bishop-garden':[575,429],
+  },landmarks:{
+    'bishop-house':'Inside the left ground-floor room, clear of the dining table.',
+    'bishop-house-entrance':'The threshold from cathedral square on the left exterior wall.',
+    'bishop-dining-room':'Clear tiled floor southeast of the dining table.',
+    'bishop-bedroom':'Clear tiled floor to the right of the iron bed.',
+    'bishop-house-library':'The bookcase against the upper-left bedroom wall.',
+    'bishop-oratory-door':'The connecting threshold in the shared bedroom-oratory wall.',
+    'bishop-oratory-alcove':'The guest bed at the far upper-right of the oratory.',
+    'bishop-garden':'The flower plot southeast of the central tank; the marker represents the whole garden.',
+  }},
+  'paris-hospital-quarter':{width:1512,height:1040,locations:{
+    'gorbeau-house':[620,245], 'gorbeau-house-entrance':[578,414],
+    'gorbeau-adjoining-boulevard':[620,510], 'gorbeau-police-ambush':[579,617],
+    'barriere-gobelins-wall':[806,680],
+    'rue-petit-banquier-corner':[284,455], 'rue-petit-banquier-low-wall':[198,325],
+    'paris-boulevard-hopital':[1180,510],
+  },landmarks:{
+    'gorbeau-house':'The narrow tiled-roof building between the two garden properties, above its street end.',
+    'gorbeau-house-entrance':'The gap and short approach at the lower edge of the Gorbeau property.',
+    'gorbeau-adjoining-boulevard':'The open road directly before the house.',
+    'gorbeau-police-ambush':'Among the three trees opposite, beside the partly bare elm.',
+    'barriere-gobelins-wall':'The street side of the separate wall east of the downward branch.',
+    'rue-petit-banquier-corner':'The rounded corner at the upper edge of the boulevard.',
+    'rue-petit-banquier-low-wall':'The street-facing low boundary of the waste-ground enclosure west of Petit-Banquier.',
+    'paris-boulevard-hopital':'An unobstructed point on the broad boulevard, beyond the lettering.',
+  }},
+  'chanvrerie-streets':{width:1484,height:1060,locations:{
+    'rue-chanvrerie':[460,605], 'chanvrerie-barricade':[690,600],
+    'chanvrerie-barricade-opening':[690,504], 'chanvrerie-barricade-cut':[690,523],
+    'chanvrerie-barricade-exterior':[565,605], 'chanvrerie-barricade-torch':[730,622],
+    'rue-chanvrerie-artillery-position':[360,600],
+    'mondetour-small-barricade':[1085,850], 'mondetour-open-approach':[1060,180],
+    'mondetour-lane-outside':[1085,930], 'chanvrerie-tall-house':[1165,580],
+    corinthe:[860,700], 'corinthe-door':[850,638], 'corinthe-exterior':[850,600],
+    'corinthe-sheltered-angle':[1025,790], 'chanvrerie-sewer-grating':[1040,825],
+  },landmarks:{
+    'rue-chanvrerie':'The main funnel-shaped road west of the wine-shop.',
+    'chanvrerie-barricade':'The road near the western side of the wine-shop enclosure; the barrier itself is not painted.',
+    'chanvrerie-barricade-opening':'The northern street edge at the end of the planned barrier.',
+    'chanvrerie-barricade-cut':'The narrow approach immediately within that northern end.',
+    'chanvrerie-barricade-exterior':'The exposed road west of the barrier position.',
+    'chanvrerie-barricade-torch':'The enclosed street beside the western part of the wine-shop frontage.',
+    'rue-chanvrerie-artillery-position':'The Saint-Denis end of the street, facing the barrier position.',
+    'mondetour-small-barricade':'The lower Mondétour branch beside the wine-shop block; the barrier itself is not painted.',
+    'mondetour-open-approach':'The upper Mondétour passage toward Rue des Prêcheurs.',
+    'mondetour-lane-outside':'The lower passage beyond the smaller barrier position.',
+    'chanvrerie-tall-house':'The high house row closing the street immediately east of the junction.',
+    corinthe:'The wine-shop roof footprint below-left of the junction.',
+    'corinthe-door':'The frontage threshold on the upper edge of the wine-shop footprint.',
+    'corinthe-exterior':'The road immediately outside the wine-shop frontage.',
+    'corinthe-sheltered-angle':'The recess screened from the western approach by the wine-shop corner.',
+    'chanvrerie-sewer-grating':'The ground near the inner base of the small barrier; the hidden grating is not painted.',
+  }},
+}
+
+Object.assign(illustratedMapRegistration.paris.locations,{'vaugirard-cemetery':[398,836],'cafe-musain':[847,630]})
+Object.assign(illustratedMapRegistration.paris.landmarks,{'vaugirard-cemetery':'The approximate old cemetery district southwest of the Luxembourg, not modern Montparnasse cemetery.','cafe-musain':'The approximate Rue Saint-Michel district near the Pantheon, not a surveyed café parcel.'})
+
+Object.assign(illustratedMapRegistration.paris.locations,parisStreetRegistration)
+Object.assign(illustratedMapRegistration.paris.landmarks,parisStreetLandmarks)
+
+Object.assign(illustratedMapRegistration.paris.locations,{'mabeuf-austerlitz-cottage':[1148,878],'paris-cafe-spaces':[748,500]})
+Object.assign(illustratedMapRegistration.paris.landmarks,{'mabeuf-austerlitz-cottage':'Approximate Austerlitz district beyond the Salpêtrière, not a surveyed property.','paris-cafe-spaces':'Diagrammatic overview locator for separate café interiors, not a shared physical building.'})
+
+Object.assign(illustratedMapRegistration.paris.locations,{'picpus-street-approaches':[1324,641]})
+Object.assign(illustratedMapRegistration.paris.landmarks,{'picpus-street-approaches':'Approximate eastern district for the novel topology, not a surveyed modern street network.'})
+
+Object.assign(illustratedMapRegistration.paris.locations,secondaryParisRegistration)
+Object.assign(illustratedMapRegistration.paris.landmarks,secondaryParisLandmarks)
+
+Object.assign(illustratedMapRegistration.paris.locations,{'rue-roi-sicile-ruin':[1131,459]})
+Object.assign(illustratedMapRegistration.paris.landmarks,{'rue-roi-sicile-ruin':'Approximate Rue du Roi-de-Sicile district near La Force; not a surveyed lot.'})
+
+Object.assign(illustratedMapRegistration.paris.locations,{'paris-lodgings':[838,562]})
+Object.assign(illustratedMapRegistration.paris.landmarks,{'paris-lodgings':'Editorial city-atlas context point for separate source lodgings, not a shared building.'})
+Object.assign(illustratedMapRegistration.france.locations,{'faverolles-setting':[710,430]})
+Object.assign(illustratedMapRegistration.france.landmarks,{'faverolles-setting':'Schematic country setting only; modern Faverolles identification and coordinates unestablished.'})
+
+delete illustratedMapRegistration.france.locations.paris
+delete illustratedMapRegistration.france.locations['montfermeil-region']
+delete illustratedMapRegistration.france.landmarks.paris
+delete illustratedMapRegistration.france.landmarks['montfermeil-region']
+Object.assign(illustratedMapRegistration.france.locations,{'paris-environs-region':[663,389]})
+Object.assign(illustratedMapRegistration.france.landmarks,{'paris-environs-region':'The Paris basin opening its regional environs; no individual building asserted.'})
+
+Object.assign(illustratedMapRegistration.paris.locations,{'larks-meadow-approach':[943,849],'pere-lachaise-cemetery':[1393,340]})
+Object.assign(illustratedMapRegistration.paris.landmarks,{'larks-meadow-approach':'Approximate southern Glacière/Croulebarbe district, not a surveyed meadow boundary.','pere-lachaise-cemetery':'The eastern cemetery district; exact source grave position unknown.'})
+
+Object.assign(illustratedMapRegistration.paris.locations,{'paris-private-rooms':[760,490],'paris-public-rooms':[753,515]})
+Object.assign(illustratedMapRegistration.paris.landmarks,{'paris-private-rooms':'Editorial Paris atlas entrance only; no shared property or exact address.','paris-public-rooms':'Editorial Paris atlas entrance only; unrelated source reception rooms and library.'})
+
+Object.assign(illustratedMapRegistration.paris.locations,{'paris-carriages':[789,530]})
+Object.assign(illustratedMapRegistration.paris.landmarks,{'paris-carriages':'Editorial city atlas entrance to moving vehicle details; no fixed common street address.'})
+Object.assign(illustratedMapRegistration.france.locations,{'villers-abbey':[817,205]})
+Object.assign(illustratedMapRegistration.france.landmarks,{'villers-abbey':'Approximate Belgian region southeast of Brussels; no surveyed site or country boundary asserted.'})
+Object.assign(illustratedMapRegistration.digne.locations,{'digne-civic-setting':[644,677]})
+Object.assign(illustratedMapRegistration.digne.landmarks,{'digne-civic-setting':'Editorial town atlas entrance only; exact route and scaffold site unknown.'})
+
+for(const map of ['france','paris']){Object.assign(illustratedMapRegistration[map].locations,contextRegistration(map));Object.assign(illustratedMapRegistration[map].landmarks,contextLandmarks(map))}

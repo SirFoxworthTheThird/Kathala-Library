@@ -1,0 +1,11 @@
+
+ RUN  v4.1.2 F:/Projects/WorldBreaker/PlotWeave-lesmis-release-gates
+
+ ❯ src/db/hooks/__tests__/factionMemberships.reading.test.tsx (2 tests | 1 failed) 3090ms
+   × withholds future membership from every reader list, reveals it at the joining scene and hides it on rewind 3030ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 passed (2)
+   Start at  09:28:22
+   Duration  33.94s (transform 777ms, setup 3.11s, import 2.35s, tests 3.09s, environment 24.62s)
+

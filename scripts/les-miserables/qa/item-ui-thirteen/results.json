@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "thirteen",
+  "images": [
+    {
+      "key": "enjolras-borrowed-rifle",
+      "imageId": "lesmis-world-review-art-items-enjolras-borrowed-rifle-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "pontmercy-last-instructions",
+      "imageId": "lesmis-world-review-art-items-pontmercy-last-instructions-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "pontmercy-paper-shagreen-case",
+      "imageId": "lesmis-world-review-art-items-pontmercy-paper-shagreen-case-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "rue-plumet-biscuit-reply",
+      "imageId": "lesmis-world-review-art-items-rue-plumet-biscuit-reply-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "scaufflaire-tilbury",
+      "imageId": "lesmis-world-review-art-items-scaufflaire-tilbury-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "stranger-substitute-twenty-sous",
+      "imageId": "lesmis-world-review-art-items-stranger-substitute-twenty-sous-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "key": "thenardier-false-fever-letter",
+      "imageId": "lesmis-world-review-art-items-thenardier-false-fever-letter-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "thenardier-newspaper-proofs",
+      "imageId": "lesmis-world-review-art-items-thenardier-newspaper-proofs-webp",
+      "width": 1312,
+      "height": 1199
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "04bbaec9d4b629b38b5a87467c05499ea36b453e56bee9beb158bf585992c7d2",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-thenardier-newspaper-proofs",
+  "currentImageId": "lesmis-world-review-art-items-thenardier-newspaper-proofs-webp",
+  "currentDecoded": {
+    "width": 1312,
+    "height": 1199,
+    "type": "image/webp"
+  }
+}

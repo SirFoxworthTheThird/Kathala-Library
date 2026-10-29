@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch six in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "008d5c475aa091cacf972dcd4194656da37a980410faeedf5d89d9bf79df253d",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "digne-palace",
+      "imageId": "lesmis-world-review-art-locations-digne-palace-webp",
+      "width": 1374,
+      "height": 1145
+    },
+    {
+      "kind": "locations",
+      "key": "digne-palace-gallery",
+      "imageId": "lesmis-world-review-art-locations-digne-palace-gallery-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "digne-hospital",
+      "imageId": "lesmis-world-review-art-locations-digne-hospital-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-house",
+      "imageId": "lesmis-world-review-art-locations-bishop-house-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-house-entrance",
+      "imageId": "lesmis-world-review-art-locations-bishop-house-entrance-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-house-library",
+      "imageId": "lesmis-world-review-art-locations-bishop-house-library-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-oratory-door",
+      "imageId": "lesmis-world-review-art-locations-bishop-oratory-door-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "bishop-upstairs-drawing-room",
+      "imageId": "lesmis-world-review-art-locations-bishop-upstairs-drawing-room-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

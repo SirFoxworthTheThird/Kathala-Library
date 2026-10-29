@@ -1,0 +1,123 @@
+const part = (at, title, description, location, reason, extra = {}) => ({
+  at, title, description, location, present: [], reason, kind: 'reported', ...extra,
+})
+
+export const volumeFourBookThirdReview = [
+  [233, [
+    part('start', 'The Magistrate’s Hidden Route', 'A former owner’s secret household explains the pavilion, rear building and long passage between two streets.', 'rue-plumet-house',
+      'Paragraphs 0–4 are architecture and earlier history, not the current occupants’ arrival. The open-air corridor is privately enclosed and sewer-like, not an actual sewer. A child and nurse were possible intended uses, not proved residents.', { kind: 'exposition' }),
+    part(5, 'The Tenant Named Fauchelevent', 'In October 1829 Valjean rents the property and moves in with Cosette and Toussaint.', 'rue-plumet-house',
+      'Paragraphs 5–7 explicitly disclose the familiar pair’s real identities to the reader, not to Marius. Toussaint is introduced as a distinct servant; her rescue from hospital is not assigned an invented illness. The rental name is a cover.', { mentioned: ['valjean', 'cosette', 'toussaint'], timeHint: 'October 1829', identityReveals: [
+        { identity: 'monsieur-leblanc', character: 'valjean', evidenceParagraph: 7, audience: 'reader' },
+        { identity: 'mademoiselle-lanoire', character: 'cosette', evidenceParagraph: 7, audience: 'reader' },
+      ] }),
+    part(8, 'The Child’s Right to Choose', 'Valjean’s conscience turns his contentment in the convent into a decision to let Cosette experience life outside.', 'petit-picpus-convent',
+      'Paragraphs 8–12 rewind before the rental. Cosette’s future profession and hatred are his imagined possibilities, not vows taken or feelings she has expressed. Five years is the source’s stated stay.', { mentioned: ['valjean', 'cosette'] }),
+    part(13, 'Fauchelevent’s Death and the Departure', 'The gardener’s death gives Valjean the occasion to leave, using an inheritance explanation and offering compensation for Cosette’s education.', 'petit-picpus-convent',
+      'Paragraphs 13–15 report an actual death without dating or staging a witnessed final breath. Brother and inheritance are the cover supplied to the prioress, not established kinship or a real bequest. Five thousand francs are offered; acceptance is not described.', { mentioned: ['fauchelevent', 'valjean', 'cosette', 'mother-innocente'] }),
+    part(16, 'The Inseparable Valise', 'Valjean personally carries the locked valise away and keeps it through subsequent moves.', 'rue-plumet-house',
+      'Paragraphs 16–19 follow an already introduced object. The embalming odor is the stored garments’ aromatics, not proof of a corpse; Cosette’s jealousy is teasing. Ultime Fauchelevent remains his assumed identity.', { mentioned: ['valjean', 'cosette'], items: ['valjean-clothes-valise'] }),
+    part(20, 'Three Domiciles', 'He rents poor-looking apartments in Rue de l’Ouest and Rue de l’Homme Armé as alternatives to the principal house.', null,
+      'Paragraphs 20–21 distinguish three properties and repeated stays of a month or six weeks. Toussaint does not accompany these stays. Temporary suburban-gentleman status is his representation, not a fourth observed home.', { mentioned: ['valjean', 'toussaint'] }),
+  ]],
+  [234, [
+    part('start', 'The Pavilion and the Rear Lodge', 'Cosette and Toussaint occupy the comfortable pavilion while Valjean chooses austere rooms behind it.', 'rue-plumet-house',
+      'Paragraphs 0–3 describe household arrangements and repeated walks, meals and charity. Father is his social relationship, not biological parentage. The church routine explains the earlier petition without replaying the visit to Gorbeau.', { mentioned: ['valjean', 'cosette', 'toussaint'], items: ['valjean-clothes-valise'] }),
+    part(4, 'The Guard Under an Assumed Name', 'The 1831 census brings Valjean into the National Guard, whose uniform serves as a respectable disguise.', null,
+      'Paragraphs 4–5 distinguish recurring service from a present military action. He has reached sixty and hides his age; no known civil identity or legal clearance is granted by service. Guard duty three or four times a year is not continuous deployment.', { mentioned: ['valjean'], timeHint: 'Census of 1831; Valjean has just attained sixty' }),
+    part(6, 'The Clothes and the Quiet Door', 'His different clothes and the household’s use of Rue de Babylone conceal their connection with the garden gate.', 'rue-babylone-secret-door',
+      'Paragraphs 6–9 explain a pattern, including a separate butcher’s remark. The worker disguise is confirmed as a habit, not a direct named resolution of every earlier uncertain sighting. The Rue Plumet gate stays closed; the garden is deliberately uncultivated.', { mentioned: ['valjean', 'cosette', 'toussaint'] }),
+  ]],
+  [235, [
+    part('start', 'The Garden Returned to Nature', 'The narrator describes the walled thicket, stone bench and seasonal life behind the old gate.', 'rue-plumet-garden',
+      'Paragraphs 0–4 range across seasons and earlier observers, not one walk by a named character. Three hundred feet square is another source measurement beside the earlier acre-and-a-half; retain both for the later map audit. Talking gate and summer snow of butterflies are images.', { kind: 'exposition' }),
+    part(5, 'The Great and the Small', 'The garden opens into a meditation on the interdependence of living things and the universe.', null,
+      'Paragraphs 5–6 are philosophical speculation, not literal astronomical events caused during the scene. Socrates is a comparison, and no planetary destruction or new species is recorded.', { kind: 'exposition' }),
+  ]],
+  [236, [
+    part('start', 'Liberty After the Convent', 'The narrator considers Cosette’s incomplete preparation for emotional life and the house’s mixture of freedom and solitude.', 'rue-plumet-garden',
+      'Paragraphs 0–9 rewind to arrival just after fourteen, rather than the present search. No mother means the absence of maternal care, not denial that Fantine existed. Paphos, Eden and the temple of love are metaphor.', { kind: 'exposition', mentioned: ['cosette', 'valjean'] }),
+    part(10, 'Following Her Father', 'Cosette plays in the garden but prefers Valjean’s company and his simple rooms.', 'rue-plumet-house',
+      'Paragraphs 10–14 describe recurring play and companionship across garden, lodge and walks. The spoken permission to use the garden is not a separate property transfer.', { mentioned: ['cosette', 'valjean'] }),
+    part(15, 'The Bread She Would Share', 'Cosette questions Valjean’s cold quarters and insists on sharing his bread until he changes his own diet.', 'rue-plumet-rear-lodge',
+      'Paragraphs 15–26 contain illustrative exchanges, introduced as repeated scoldings and again. The bread changes to white; her threatened frequent visits do not establish installation of a stove.', { kind: 'scene', present: [
+        ['cosette', 'Protests the cold and offers to eat the same black bread as her father.'],
+        ['valjean', 'Explains his self-denial and switches to white bread to prevent her sharing it.'],
+      ] }),
+    part(27, 'The Mother Whose Name Is Withheld', 'Cosette’s fragmentary childhood memories and questions meet Valjean’s increasingly reverent silence about Fantine.', null,
+      'Paragraphs 27–34 distinguish memory, dreams and the narrator’s speculative explanation. Cosette does not know her mother’s name. Imagining her mother’s soul in Valjean or modesty guarding a grave establishes neither reincarnation nor an apparition.', { mentioned: ['cosette', 'valjean', 'fantine'] }),
+    part(35, 'Through Martyrdom', 'Cosette tells of dreaming her mother had wings, and Valjean answers her thought that she was a saint.', null,
+      'Paragraphs 35–39 contain one recalled exchange followed by habitual happiness. Wings occur in Cosette’s dream, not Fantine’s physical body. Valjean’s belief that their exclusive happiness will last is hope, not a guaranteed future.', { kind: 'scene', present: [
+        ['cosette', 'Describes her dream and imagines her mother a saint.'],
+        ['valjean', 'Answers Through martyrdom and delights in the child’s affection.'],
+      ], mentioned: ['fantine'] }),
+  ]],
+  [237, [
+    part('start', 'The Mirror and the Doubt', 'Cosette’s first suspicion of her beauty gives way to doubt, then returns after Toussaint’s remark.', 'rue-plumet-house',
+      'Paragraphs 0–5 span distinct mirror episodes, a street remark and the later garden conversation. The fortnight and three-month intervals remain source wording. Winter birds and flowers in her delight are perception, not an actual seasonal transformation.', { mentioned: ['cosette', 'valjean', 'toussaint'] }),
+    part(6, 'What Is to Become of Me?', 'Valjean fears that Cosette’s growing beauty threatens the happiness he has built around her affection.', null,
+      'Paragraphs 6–13 give inward fear and rhetorical exchanges with Providence, not a real divine audience or a fresh bodily injury from fate. He does not yet know her attachment to Marius.', { mentioned: ['valjean', 'cosette'], kind: 'exposition' }),
+    part(14, 'The New Clothes', 'Cosette develops a taste for dress and refuses to return to her old school clothes.', 'rue-plumet-cosette-room',
+      'Paragraphs 14–25 compress a month of changing habits before one recalled exchange after a walk. The cast-off schoolgirl outfit is not the earlier mourning clothing locked in Valjean’s valise. Wings are a metaphor for growth.', { kind: 'scene', present: [
+        ['cosette', 'Shows her new clothes and rejects the old bonnet and gown when asked to wear them again.'],
+        ['valjean', 'Praises her with bitterness and asks afterward for the former clothes to return.'],
+      ] }),
+    part(26, 'The Garden Facing the Street', 'Her new wish to go out and preference for the front garden bring the account back to Marius’s return.', 'rue-plumet-garden',
+      'Paragraphs 26–29 describe habits and explicitly synchronize with the earlier Luxembourg return after six months. This is retrospective explanation, not a second first sighting.', { mentioned: ['cosette', 'valjean', 'marius'] }),
+  ]],
+  [238, [
+    part('start', 'The Other Side of the Glance', 'The narrator describes Cosette’s earlier notice of Marius and her response when their eyes finally meet.', 'luxembourg-pepiniere-alley',
+      'Paragraphs 0–7 retell the same encounter from her perspective, followed by her return to Rue de l’Ouest during a six-week stay. The weapon and knife are metaphors for beauty, not a weapon she carries.', { mentioned: ['cosette', 'marius', 'valjean'] }),
+    part(8, 'She Walks Toward Him', 'Cosette asks her father to walk toward the distant watcher, and the exchanged glance changes both young people.', 'luxembourg-pepiniere-alley',
+      'Paragraphs 8–9 disclose her motive for the already narrated walk, not a repeated approach. The pair exchange glances without spoken declarations.', { kind: 'scene', present: [
+        ['cosette', 'Asks to walk in Marius’s direction when he stays at his bench.'],
+        ['valjean', 'Accompanies her on the requested walk.'],
+        ['marius', 'Receives her glance and leaves confident while she remains unsettled.'],
+      ] }),
+    part(10, 'A Feeling Without a Name', 'Cosette’s convent upbringing leaves her unable to name the affection that fills her walks.', null,
+      'Paragraphs 10–18 explain ongoing feelings and edited convent songs. A malady is analogy, not diagnosis. The narrator explicitly says the lovers have not spoken, saluted or learned each other’s identity.', { mentioned: ['cosette', 'marius', 'valjean'], kind: 'exposition' }),
+  ]],
+  [239, [
+    part('start', 'The Father’s Tests', 'Valjean studies the young watcher while Cosette conceals her interest behind apparent indifference.', 'luxembourg-pepiniere-alley',
+      'Paragraphs 0–15 combine one brief remark with recurring changed benches, hours and solitary visits. His conclusion that she is unaware is mistaken. The handkerchief is now described among deliberate tests, qualifying the earlier description of a simple drop without replacing the earlier scene.', { mentioned: ['valjean', 'cosette', 'marius'] }),
+    part(16, 'Back to Rue Plumet', 'The porter’s report and Marius’s following lead Valjean to abandon the temporary apartment and garden walks.', 'rue-ouest-leblanc-house',
+      'Paragraphs 16–18 explain the previously narrated move rather than creating another disappearance. The destination is now revealed to the reader as Rue Plumet, not given to Marius by the porter.', { mentioned: ['valjean', 'cosette', 'marius', 'rue-ouest-porter'] }),
+    part(19, 'A Return Without Marius', 'After three months Valjean tries another Luxembourg visit, but the young man is no longer there.', 'luxembourg-pepiniere-alley',
+      'Paragraphs 19–28 include invitation, outing and next-day refusal. Marius is explicitly absent; the change is not proof that Cosette no longer cares.', { kind: 'scene', present: [
+        ['valjean', 'Invites her back and is hurt when she declines another visit the next day.'],
+        ['cosette', 'Accepts with hope, finds Marius absent and then refuses sadly.'],
+      ], mentioned: ['marius'], timeHint: 'Three months after the separation from the usual walks' }),
+    part(29, 'Two Silences Side by Side', 'Both suffer privately and answer each other’s concern with denials.', 'rue-plumet-house',
+      'Paragraphs 29–41 describe repeated inner reflection and exchanges. Valjean’s imagined convent is not an actual return there; pallor is observed, but neither learns the other’s unspoken thoughts.', { mentioned: ['valjean', 'cosette'] }),
+  ]],
+  [240, [
+    part('start', 'The Morning Excursions', 'Valjean’s fear of losing Cosette persists alongside their habit of early walks outside the busy city.', null,
+      'Paragraphs 0–6 mix a separate sight of Coutard with recurring outings. Valjean envies a general’s uniform but receives no rank; Cosette’s flowers as embers are an image, not burns.', { mentioned: ['valjean', 'cosette'] }),
+    part(7, 'Daybreak at the Barrière du Maine', 'On an October morning the two pause beside a timber-yard before a convoy emerges from the boulevard.', 'barriere-maine-timber-yard',
+      'Paragraphs 7–13 specify October 1831 and the gradual recognition of an approaching procession. Corpses and apparitions are appearances in weak light, not the convoy’s actual state.', { kind: 'scene', present: [
+        ['valjean', 'Sits on the planks in reverie until Cosette calls attention to the road.'],
+        ['cosette', 'Watches the dawn and notices the approaching vehicles.'],
+      ], timeHint: 'October 1831, daybreak' }),
+    part(14, 'Seven Wagons of Prisoners', 'The chain-gang passes under armed escort, exposing prisoners to cold, blows and the crowd’s delight.', 'barriere-maine-timber-yard',
+      'Paragraphs 14–22 are directly witnessed from the planks where Valjean and Cosette remain. Four individual participating figures are distinguished: the apparent captain, the hooked-cudgel guard, and the warning woman with her boy. The other prisoners, guards and spectators remain background rather than invented individual biographies. Probable former enslavement is not certain biography; imagined later rain is not current weather.', { kind: 'scene', present:[
+        ['valjean','Watches the chained wagons from the timber-yard planks as the increasing light makes the escort and prisoners visible.'],
+        ['cosette','Sees the convoy and its treatment beside Valjean before asking what the men are.'],
+        ['convoy-escort-captain','Cracks his whip to signal the flogging of the seven wagon-loads.'],
+        ['convoy-hooked-cudgel-guard','Prods among the chained prisoners from time to time with the hook on his cudgel.'],
+        ['convoy-warning-woman','Points out the prisoners to her little boy as a warning.'],
+        ['convoy-warning-boy','Stands beside the old woman as she directs his attention to the passing prisoners.'],
+      ] }),
+    part(23, 'What Those Men Are', 'The sight recalls Valjean’s own route and prompts Cosette’s questions about the convicts and their destination.', 'barriere-maine-timber-yard',
+      'Paragraphs 23–33 distinguish Valjean’s thirty-five-year-old memory from present arrest. He remains a spectator. Cosette learns what a chain-gang is, not her father’s history; the captain’s flogging is actual, while wolves and hell are imagery.', { kind: 'scene', present: [
+        ['valjean', 'Recognizes his former route and answers that the men are convicts going to the galleys.'],
+        ['cosette', 'Trembles and asks whether the men are still human.'],
+      ] }),
+    part(34, 'A Festival to Dispel the Memory', 'Valjean takes Cosette to the next day’s public festivities and hopes the horror has faded.', 'paris-public-festival',
+      'Paragraphs 34–36 move from the return home to a separate next-day outing. His uniform is National Guard attire, not the generalship he envied. The narrator says he is able to believe the diversion worked, not that her memory has vanished.', { mentioned: ['valjean', 'cosette'] }),
+    part(37, 'The Question Remains', 'Days later, amid a quiet moment on the garden steps, Cosette asks what the galleys are like.', 'rue-plumet-garden-steps',
+      'The last paragraph disproves complete erasure of the concern. She plucks a daisy without knowing the lovers’ formula; the scene does not make the flower an intentional divination.', { kind: 'scene', present: [
+        ['cosette', 'Picks the daisy apart and unexpectedly asks about the galleys.'],
+        ['valjean', 'Watches her tenderly before the remembered subject returns.'],
+      ] }),
+  ]],
+]

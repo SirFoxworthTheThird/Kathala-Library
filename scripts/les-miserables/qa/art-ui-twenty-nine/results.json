@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-nine",
+  "images": [
+    {
+      "key": "thenardier-young-son",
+      "imageId": "lesmis-world-review-art-characters-thenardier-young-son-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "thenardier-younger-boy",
+      "imageId": "lesmis-world-review-art-characters-thenardier-younger-boy-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "thenardier-youngest-boy",
+      "imageId": "lesmis-world-review-art-characters-thenardier-youngest-boy-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "alix-schoolgirl",
+      "imageId": "lesmis-world-review-art-characters-alix-schoolgirl-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "bouchard-schoolgirl",
+      "imageId": "lesmis-world-review-art-characters-bouchard-schoolgirl-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "luxembourg-basin-son",
+      "imageId": "lesmis-world-review-art-characters-luxembourg-basin-son-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "luxembourg-brioche-father",
+      "imageId": "lesmis-world-review-art-characters-luxembourg-brioche-father-webp",
+      "width": 1140,
+      "height": 1380
+    },
+    {
+      "key": "luxembourg-brioche-son",
+      "imageId": "lesmis-world-review-art-characters-luxembourg-brioche-son-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "99a0d5750e497fce3c584a7462bfabe0fc93994d1a86d1495262008941789d6c",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-luxembourg-brioche-son",
+  "currentImageId": "lesmis-world-review-art-characters-luxembourg-brioche-son-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

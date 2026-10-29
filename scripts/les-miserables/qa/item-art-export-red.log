@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesItemArt.test.ts (2 tests | 1 failed) 5879ms
+   × assigns accepted object images to objects without borrowing map or portrait assets 5869ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesItemArt.test.ts > assigns accepted object images to objects without borrowing map or portrait assets
+AssertionError: silver-candlesticks needs its own accepted object art: expected null to be truthy
+
+- Expected:
+true
+
++ Received:
+null
+
+ ❯ tests/lesMiserablesItemArt.test.ts:27:67
+     25|  for(const key of keys){
+     26|   const item=world.items.find(r=>r.id===`lesmis-world-review-item-${ke…
+     27|   expect(item.imageId,`${key} needs its own accepted object art`).toBe…
+       |                                                                   ^
+     28|   expect(forbidden.has(item.imageId)).toBe(false)
+     29|   expect(world.blobs.find(r=>r.id===item.imageId)?.url).toBe(`art-stag…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 passed (2)
+   Start at  20:30:24
+   Duration  6.80s (transform 428ms, setup 0ms, import 752ms, tests 5.88s, environment 0ms)
+

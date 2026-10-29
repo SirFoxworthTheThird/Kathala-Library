@@ -1,0 +1,71 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-three",
+  "images": [
+    {
+      "key": "mabeuf-lane-old-man",
+      "imageId": "lesmis-world-review-art-characters-mabeuf-lane-old-man-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "invalides-white-haired-workman",
+      "imageId": "lesmis-world-review-art-characters-invalides-white-haired-workman-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "champ-de-mars-warning-figure",
+      "imageId": "lesmis-world-review-art-characters-champ-de-mars-warning-figure-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "plumet-barricade-message-figure",
+      "imageId": "lesmis-world-review-art-characters-plumet-barricade-message-figure-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "courfeyrac-marius-seeking-visitor",
+      "imageId": "lesmis-world-review-art-characters-courfeyrac-marius-seeking-visitor-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "unknown-gray-haired-recruit",
+      "imageId": "lesmis-world-review-art-characters-unknown-gray-haired-recruit-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "le-cabuc",
+      "imageId": "lesmis-world-review-art-characters-le-cabuc-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "chanvrerie-tall-house-porter",
+      "imageId": "lesmis-world-review-art-characters-chanvrerie-tall-house-porter-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "chanvrerie-young-artillery-sergeant",
+      "imageId": "lesmis-world-review-art-characters-chanvrerie-young-artillery-sergeant-webp",
+      "width": 1145,
+      "height": 1374
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "fddbeea2c529bfc3852c2731aa2c7d5b210b5a732d1a0e146ccb863e3b0ce04e",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-chanvrerie-young-artillery-sergeant",
+  "currentImageId": "lesmis-world-review-art-characters-chanvrerie-young-artillery-sergeant-webp",
+  "currentDecoded": {
+    "width": 1145,
+    "height": 1374,
+    "type": "image/webp"
+  }
+}

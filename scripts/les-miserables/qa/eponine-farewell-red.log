@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesDepartedHost.test.ts (2 tests | 1 failed) 20ms
+   × does not hold the departing Eponine at the corner after her farewell 7ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesDepartedHost.test.ts > does not hold the departing Eponine at the corner after her farewell
+AssertionError: expected undefined to be null
+
+- Expected:
+null
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesDepartedHost.test.ts:15:38
+     13|  const row=enrichedReview().get(258).find(r=>r.at===24)
+     14|  expect(row.present.find(([key])=>key==='eponine')?.[1]).toMatch(/leav…
+     15|  expect(row.actorLocations?.eponine).toBeNull()
+       |                                      ^
+     16|  expect(row.location).toBe('rue-plumet-boulevard-invalides-corner')
+     17| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 1 passed (2)
+   Start at  09:26:42
+   Duration  561ms (transform 256ms, setup 0ms, import 393ms, tests 20ms, environment 0ms)
+

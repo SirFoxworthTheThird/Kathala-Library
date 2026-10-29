@@ -1,0 +1,31 @@
+2026-10-26T20:50:34.420Z pw:browser <launching> C:/Program Files/Google/Chrome/Application/chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-proxy-server --user-data-dir=C:\Users\PCcom\AppData\Local\Temp\playwright_chromiumdev_profile-4D72QZ --remote-debugging-pipe --no-startup-window
+2026-10-26T20:50:34.427Z pw:browser <launched> pid=2996
+2026-10-26T20:50:36.068Z pw:browser [pid=2996][err] [2996:6580:1026/205036.068:ERROR:net\server\http_connection.cc:44] Too large read data is pending: capacity=104857600, max_buffer_size=104857600, read=104857600
+2026-10-26T20:50:36.068Z pw:browser [pid=2996][err] [2996:6580:1026/205036.068:ERROR:content\browser\devtools\devtools_pipe_handler.cc:325] Connection closed, not enough capacity
+2026-10-26T20:50:36.073Z pw:browser [pid=2996] <gracefully close start>
+2026-10-26T20:50:53.566Z pw:browser [pid=2996][err] [2996:6948:1026/205053.566:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 4404: Access is denied. (0x5)
+2026-10-26T20:50:55.622Z pw:browser [pid=2996][err] [2996:18408:1026/205055.622:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 2840: Access is denied. (0x5)
+2026-10-26T20:50:55.671Z pw:browser [pid=2996][err] [2996:6948:1026/205055.671:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 16480: Access is denied. (0x5)
+2026-10-26T20:50:55.723Z pw:browser [pid=2996][err] [2996:18408:1026/205055.723:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 21348: Access is denied. (0x5)
+2026-10-26T20:50:57.787Z pw:browser [pid=2996][err] [2996:6948:1026/205057.787:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 3248: Access is denied. (0x5)
+2026-10-26T20:50:57.838Z pw:browser [pid=2996][err] [2996:18408:1026/205057.838:ERROR:chrome\updater\ipc\update_service_dialer_win.cc:76] Failed to open named pipe server process 38580: Access is denied. (0x5)
+2026-10-26T20:51:06.088Z pw:browser [pid=2996] <kill>
+2026-10-26T20:51:06.088Z pw:browser [pid=2996] <will force kill>
+2026-10-26T20:51:06.234Z pw:browser [pid=2996] taskkill stdout: SUCCESS: The process with PID 2060 (child process of PID 2996) has been terminated.
+SUCCESS: The process with PID 35276 (child process of PID 2996) has been terminated.
+SUCCESS: The process with PID 13780 (child process of PID 2996) has been terminated.
+SUCCESS: The process with PID 28628 (child process of PID 2996) has been terminated.
+SUCCESS: The process with PID 2996 (child process of PID 30168) has been terminated.
+
+2026-10-26T20:51:06.248Z pw:browser [pid=2996] <process did exit: exitCode=1, signal=null>
+2026-10-26T20:51:06.248Z pw:browser [pid=2996] starting temporary directories cleanup
+2026-10-26T20:51:06.262Z pw:browser [pid=2996] finished temporary directories cleanup
+2026-10-26T20:51:06.262Z pw:browser [pid=2996] <gracefully close end>
+node:internal/modules/run_main:107
+    triggerUncaughtException(
+    ^
+
+page.evaluate: Target page, context or browser has been closed
+    at F:\Projects\WorldBreaker\PlotWeave-Library-snapshot-repair3\scripts\les-miserables\qa-world-ui.mjs:27:28
+
+Node.js v24.11.1

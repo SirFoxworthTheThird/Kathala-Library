@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesNarrativeRecords.test.ts (3 tests | 1 failed | 2 skipped) 108ms
+   × preserves an explicitly unlocated actor rather than moving them to the event location 107ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 skipped (3)
+   Start at  01:02:25
+   Duration  1.14s (transform 356ms, setup 0ms, import 868ms, tests 108ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesNarrativeRecords.test.ts > preserves an explicitly unlocated actor rather than moving them to the event location
+AssertionError: expected 'lesmis-location-digne' to be null
+
+- Expected:
+null
+
++ Received:
+"lesmis-location-digne"
+
+ ❯ tests/lesMiserablesNarrativeRecords.test.ts:37:103
+     35|   expect(event.locationMarkerId).toBe('lesmis-location-digne')
+     36|   const snapshots=model.characterSnapshots.filter((s:any)=>s.eventId==…
+     37|   expect(snapshots.find((s:any)=>s.characterId==='lesmis-character-val…
+       |                                                                                                       ^
+     38|   expect(snapshots.find((s:any)=>s.characterId==='lesmis-character-val…
+     39|   expect(snapshots.find((s:any)=>s.characterId==='lesmis-character-dig…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

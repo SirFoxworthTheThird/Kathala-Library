@@ -1,0 +1,65 @@
+{
+  "scope": "Targeted portrait display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "twenty-six",
+  "images": [
+    {
+      "key": "patagon",
+      "imageId": "lesmis-world-review-art-characters-patagon-webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "key": "marius-white-haired-inquirer",
+      "imageId": "lesmis-world-review-art-characters-marius-white-haired-inquirer-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "montfermeil-treasure-digger",
+      "imageId": "lesmis-world-review-art-characters-montfermeil-treasure-digger-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "corinthe-javert-guard",
+      "imageId": "lesmis-world-review-art-characters-corinthe-javert-guard-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "the-changer",
+      "imageId": "lesmis-world-review-art-characters-the-changer-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "gribier-wife",
+      "imageId": "lesmis-world-review-art-characters-gribier-wife-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "arras-police-messenger",
+      "imageId": "lesmis-world-review-art-characters-arras-police-messenger-webp",
+      "width": 1145,
+      "height": 1374
+    },
+    {
+      "key": "arras-postman",
+      "imageId": "lesmis-world-review-art-characters-arras-postman-webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "02c186abdc24c6fea89544dd2fd96f670ac52af91fdef1d12fd26f0aad4a76e3",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-character-arras-postman",
+  "currentImageId": "lesmis-world-review-art-characters-arras-postman-webp",
+  "currentDecoded": {
+    "width": 1024,
+    "height": 1536,
+    "type": "image/webp"
+  }
+}

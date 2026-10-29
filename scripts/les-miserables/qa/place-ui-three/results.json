@@ -1,0 +1,66 @@
+{
+  "scope": "Targeted place illustration batch three in full-data map inspectors; not full-book approval",
+  "checks": [],
+  "errors": [],
+  "fixtureSha256": "3abdef888eab8355117f8933b7347e6b852655b6f0358cd337e67cabc9868e74",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "illustrations": [
+    {
+      "kind": "locations",
+      "key": "montreuil-police-station",
+      "imageId": "lesmis-world-review-art-locations-montreuil-police-station-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-square",
+      "imageId": "lesmis-world-review-art-locations-montreuil-square-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-officers-cafe-front",
+      "imageId": "lesmis-world-review-art-locations-montreuil-officers-cafe-front-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-unpaved-alley",
+      "imageId": "lesmis-world-review-art-locations-montreuil-unpaved-alley-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-parsonage-door",
+      "imageId": "lesmis-world-review-art-locations-montreuil-parsonage-door-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "kind": "locations",
+      "key": "scaufflaire-hire-yard",
+      "imageId": "lesmis-world-review-art-locations-scaufflaire-hire-yard-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "madeleine-bedroom",
+      "imageId": "lesmis-world-review-art-locations-madeleine-bedroom-webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "kind": "locations",
+      "key": "montreuil-factory-infirmary",
+      "imageId": "lesmis-world-review-art-locations-montreuil-factory-infirmary-webp",
+      "width": 1536,
+      "height": 1024
+    }
+  ]
+}

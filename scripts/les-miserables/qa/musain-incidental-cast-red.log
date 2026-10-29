@@ -1,0 +1,26 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesMusainCoachman.test.ts (3 tests | 1 failed) 24ms
+   × distinguishes the actual anonymous writers and duel advisers from their invented characters 7ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesMusainCoachman.test.ts > distinguishes the actual anonymous writers and duel advisers from their invented characters
+AssertionError: expected [ 'bossuet', 'grantaire', 'marius' ] to include 'musain-vaudeville-dictator'
+ ❯ tests/lesMiserablesMusainCoachman.test.ts:18:45
+     16|  const row=enrichedReview().get(179).find(row=>row.at===6)
+     17|  for(const key of ['musain-vaudeville-dictator','musain-vaudeville-scr…
+     18|   expect(row.present.map(([actor])=>actor)).toContain(key)
+       |                                             ^
+     19|  }
+     20|  expect(row.present.map(([actor])=>actor)).not.toContain('dorimon')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 passed (3)
+   Start at  08:51:40
+   Duration  565ms (transform 250ms, setup 0ms, import 388ms, tests 24ms, environment 0ms)
+

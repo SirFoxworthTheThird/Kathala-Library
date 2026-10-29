@@ -1,0 +1,35 @@
+{
+  "scope": "Targeted object display in the ordinary full-data app; not full-book reading or playback approval",
+  "batch": "nineteen",
+  "images": [
+    {
+      "key": "brujon-escape-rope",
+      "imageId": "lesmis-world-review-art-items-brujon-escape-rope-webp",
+      "width": 1312,
+      "height": 1199
+    },
+    {
+      "key": "brujon-rope-fragment",
+      "imageId": "lesmis-world-review-art-items-brujon-rope-fragment-webp",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "key": "la-force-drugged-wine-bottle",
+      "imageId": "lesmis-world-review-art-items-la-force-drugged-wine-bottle-webp",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "errors": [],
+  "fixtureSha256": "baaa35b4df65d98dcee68bf70c5378dc9357fda60d69fc75e9ed03d384bcf71d",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76",
+  "currentCharacterId": "lesmis-world-review-item-la-force-drugged-wine-bottle",
+  "currentImageId": "lesmis-world-review-art-items-la-force-drugged-wine-bottle-webp",
+  "currentDecoded": {
+    "width": 1024,
+    "height": 1536,
+    "type": "image/webp"
+  }
+}

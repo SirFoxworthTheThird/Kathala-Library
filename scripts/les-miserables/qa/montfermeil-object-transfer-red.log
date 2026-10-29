@@ -1,0 +1,78 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesItemStates.test.ts (9 tests | 3 failed) 96ms
+   × distinguishes gifts, storage and bequests from physically carrying the object 36ms
+   × keeps the lost bread coin in the spring and transfers the bucket through the actual hands 18ms
+   × preserves the distinct doll, payment and authorization transfers during the rescue 1ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > distinguishes gifts, storage and bequests from physically carrying the object
+AssertionError: expected 33 to be 44 // Object.is equality
+
+- Expected
++ Received
+
+- 44
++ 33
+
+ ❯ tests/lesMiserablesItemStates.test.ts:7:55
+      5|
+      6| test('distinguishes gifts, storage and bequests from physically carryi…
+      7|   expect(validateItemStates().sourceConfirmedChanges).toBe(44)
+       |                                                       ^
+      8|   expect(itemStateChanges.find(row => row.key === 'catherine-set-befor…
+      9|   expect(itemStateChanges.find(row => row.key === 'catherine-in-sleepi…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > keeps the lost bread coin in the spring and transfers the bucket through the actual hands
+AssertionError: expected 33 to be 44 // Object.is equality
+
+- Expected
++ Received
+
+- 44
++ 33
+
+ ❯ tests/lesMiserablesItemStates.test.ts:23:54
+     21|  const bucket=itemStateChanges.filter(row=>row.item==='cosette-water-b…
+     22|  expect(bucket.map(row=>[row.chapter,row.at,row.holder])).toEqual([[97…
+     23|  expect(validateItemStates().sourceConfirmedChanges).toBe(44)
+       |                                                      ^
+     24| })
+     25|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/3]⎯
+
+ FAIL  tests/lesMiserablesItemStates.test.ts > preserves the distinct doll, payment and authorization transfers during the rescue
+AssertionError: expected undefined to match object { chapter: 100, at: 25, …(2) }
+
+- Expected:
+{
+  "at": 25,
+  "chapter": 100,
+  "evidenceParagraph": 50,
+  "holder": "madame-thenardier",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesItemStates.test.ts:28:42
+     26| test('preserves the distinct doll, payment and authorization transfers…
+     27|  const row=(key:string)=>itemStateChanges.find(change=>change.key===ke…
+     28|  expect(row('substitute-coin-pocketed')).toMatchObject({chapter:100,at…
+       |                                          ^
+     29|  expect(row('sisters-doll-set-down')).toMatchObject({chapter:100,at:12…
+     30|  expect(row('sword-made-into-baby')).toMatchObject({chapter:100,at:96,…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/3]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  3 failed | 6 passed (9)
+   Start at  01:20:44
+   Duration  708ms (transform 295ms, setup 0ms, import 447ms, tests 96ms, environment 0ms)
+

@@ -1,0 +1,77 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesFinalRooms.test.ts (3 tests | 3 failed) 31ms
+   × separates the upstairs consultation from the later downstairs report 18ms
+   × leaves the reunion party in the garden until the carriage arrives 7ms
+   × admits the doctor at his actual entrance and retains him through the blessing 5ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesFinalRooms.test.ts > separates the upstairs consultation from the later downstairs report
+AssertionError: expected { at: 25, …(7) } to match object { …(2) }
+(6 matching properties omitted from actual)
+
+- Expected
++ Received
+
+  {
+-   "location": "homme-arme-dining-room",
++   "location": "homme-arme-house",
+    "present": [
+      [
+-       "valjean",
++       "homme-arme-doctor",
+        "Reports grave illness and promises to return while saying another visitor is needed.",
++     ],
++     [
++       "homme-arme-portress",
++       "Asks what is wrong and whether the doctor will come back.",
+      ],
+    ],
+  }
+
+ ❯ tests/lesMiserablesFinalRooms.test.ts:5:22
+      3| const row=(n:number,at:number)=>enrichedReview().get(n).find(r=>r.at==…
+      4| test('separates the upstairs consultation from the later downstairs re…
+      5|  expect(row(361,25)).toMatchObject({location:'homme-arme-dining-room',…
+       |                      ^
+      6|  expect(row(361,26)).toMatchObject({location:'homme-arme-house'})
+      7|  expect(row(361,26).present.map(r=>r[0])).not.toContain('valjean')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/3]⎯
+
+ FAIL  tests/lesMiserablesFinalRooms.test.ts > leaves the reunion party in the garden until the carriage arrives
+AssertionError: expected 'seine-right-bank-reunion-coach' to be 'gillenormand-garden' // Object.is equality
+
+Expected: "gillenormand-garden"
+Received: "seine-right-bank-reunion-coach"
+
+ ❯ tests/lesMiserablesFinalRooms.test.ts:10:32
+      8| })
+      9| test('leaves the reunion party in the garden until the carriage arrive…
+     10|  expect(row(363,207).location).toBe('gillenormand-garden')
+       |                                ^
+     11|  expect(row(363,214).location).toBe('seine-right-bank-reunion-coach')
+     12| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/3]⎯
+
+ FAIL  tests/lesMiserablesFinalRooms.test.ts > admits the doctor at his actual entrance and retains him through the blessing
+AssertionError: expected [ Array(4) ] to not include 'homme-arme-doctor'
+ ❯ tests/lesMiserablesFinalRooms.test.ts:14:47
+     12| })
+     13| test('admits the doctor at his actual entrance and retains him through…
+     14|  expect(row(364,55).present.map(r=>r[0])).not.toContain('homme-arme-do…
+       |                                               ^
+     15|  expect(row(364,76).present.map(r=>r[0])).toContain('homme-arme-doctor…
+     16|  expect(row(364,112).present.map(r=>r[0])).toContain('homme-arme-docto…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/3]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  3 failed (3)
+   Start at  20:50:31
+   Duration  614ms (transform 263ms, setup 0ms, import 406ms, tests 31ms, environment 0ms)
+

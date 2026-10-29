@@ -1,0 +1,90 @@
+[
+  {
+    "nom": "Paris",
+    "centre": {
+      "type": "Point",
+      "coordinates": [
+        2.347,
+        48.8589
+      ]
+    },
+    "code": "75056"
+  },
+  {
+    "nom": "Saint-Cloud",
+    "centre": {
+      "type": "Point",
+      "coordinates": [
+        2.2032,
+        48.844
+      ]
+    },
+    "code": "92064"
+  },
+  {
+    "nom": "Issy-les-Moulineaux",
+    "centre": {
+      "type": "Point",
+      "coordinates": [
+        2.2628,
+        48.824
+      ]
+    },
+    "code": "92040"
+  },
+  {
+    "nom": "Sceaux",
+    "centre": {
+      "type": "Point",
+      "coordinates": [
+        2.2963,
+        48.776
+      ]
+    },
+    "code": "92071"
+  },
+  {
+    "nom": "Écouen",
+    "centre": {
+      "type": "Point",
+      "coordinates": [
+        2.3858,
+        49.0258
+      ]
+    },
+    "code": "95205"
+  },
+  {
+    "nom": "Le Kremlin-Bicêtre",
+    "centre": {
+      "type": "Point",
+      "coordinates": [
+        2.356,
+        48.8087
+      ]
+    },
+    "code": "94043"
+  },
+  {
+    "nom": "Chelles",
+    "centre": {
+      "type": "Point",
+      "coordinates": [
+        2.5954,
+        48.8845
+      ]
+    },
+    "code": "77108"
+  },
+  {
+    "nom": "Montfermeil",
+    "centre": {
+      "type": "Point",
+      "coordinates": [
+        2.5678,
+        48.8976
+      ]
+    },
+    "code": "93047"
+  }
+]

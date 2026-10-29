@@ -1,0 +1,73 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesPrisonRelay.test.ts (2 tests | 2 failed) 6ms
+   × reports the prison note’s actual relay without inventing a meeting among its carriers 5ms
+   × the biscuit is passed back to the imprisoned woman rather than physically given to Babet 1ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesPrisonRelay.test.ts > reports the prison note’s actual relay without inventing a meeting among its carriers
+AssertionError: expected [] to deeply equal [ Array(2) ]
+
+- Expected
++ Received
+
+- [
+-   [
+-     230,
+-     17,
+-     "custody-report",
+-     "babet",
+-   ],
+-   [
+-     230,
+-     23,
+-     "custody-report",
+-     "eponine",
+-   ],
+- ]
++ []
+
+ ❯ tests/lesMiserablesPrisonRelay.test.ts:7:69
+      5| test('reports the prison note’s actual relay without inventing a meeti…
+      6|  const note=itemStateChanges.filter(row=>row.item==='brujon-rue-plumet…
+      7|  expect(note.map(row=>[row.chapter,row.at,row.kind,row.custodian])).to…
+       |                                                                     ^
+      8|   [230,17,'custody-report','babet'],
+      9|   [230,23,'custody-report','eponine'],
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesPrisonRelay.test.ts > the biscuit is passed back to the imprisoned woman rather than physically given to Babet
+AssertionError: expected undefined to match object { …(6) }
+
+- Expected:
+{
+  "at": 25,
+  "chapter": 230,
+  "custodian": null,
+  "evidenceParagraph": 25,
+  "item": "rue-plumet-biscuit-reply",
+  "kind": "custody-report",
+}
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesPrisonRelay.test.ts:20:16
+     18| test('the biscuit is passed back to the imprisoned woman rather than p…
+     19|  const reply=itemStateChanges.find(row=>row.key==='biscuit-returned-th…
+     20|  expect(reply).toMatchObject({item:'rue-plumet-biscuit-reply',chapter:…
+       |                ^
+     21|  expect(reply.note).toContain('Salpêtrière')
+     22|  expect(reply).not.toHaveProperty('holder')
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  10:24:20
+   Duration  249ms (transform 27ms, setup 0ms, import 85ms, tests 6ms, environment 0ms)
+

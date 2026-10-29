@@ -1,0 +1,26 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesChronology.test.ts (3 tests | 1 failed | 2 skipped) 13ms
+   × continues the flight after eleven and the inn scene across midnight without a manufactured backward jump 12ms
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 2 skipped (3)
+   Start at  08:35:07
+   Duration  593ms (transform 275ms, setup 0ms, import 424ms, tests 13ms, environment 0ms)
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesChronology.test.ts > continues the flight after eleven and the inn scene across midnight without a manufactured backward jump
+AssertionError: expected 3074.939814814815 to be greater than or equal to 3074.9583333333335
+ ❯ tests/lesMiserablesChronology.test.ts:28:49
+     26|  const eleven=plan.get(key(109,9)).inWorldTime
+     27|  expect(eleven).toBe(relativeDay('1824-03-01T23:00:00Z'))
+     28|  expect(plan.get(key(110,'start')).inWorldTime).toBeGreaterThanOrEqual…
+       |                                                 ^
+     29|  const afterOne=plan.get(key(115,'start')).inWorldTime
+     30|  expect(afterOne).toBeGreaterThan(eleven)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+

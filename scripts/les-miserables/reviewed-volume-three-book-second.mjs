@@ -1,0 +1,48 @@
+const passage = (at, title, description, location, reason, extra = {}) => ({
+  at, title, description, location, present: [], reason, kind: 'exposition', ...extra,
+})
+
+export const volumeThreeBookSecondReview = [
+  [160, [passage('start', 'Luc-Esprit Gillenormand',
+    'The narrator introduces a vigorous, irascible survivor of eighteenth-century manners, still alive in 1831.', 'paris-marais',
+    'The three paragraphs combine later memories, the 1831 portrait, habitual abuse and quoted opinions. No single barber visit or assault is dated. His imagined transformations of dancers are satire, not magic.', { mentioned: ['gillenormand'], timeHint: 'Explicit portrait in 1831, framed by later recollection' })]],
+  [161, [passage('start', 'Number Six, Rue des Filles-du-Calvaire',
+    'Gillenormand’s home, furnishings, tastes and clothing preserve the world of an earlier generation.', 'gillenormand-house',
+    'The single paragraph is a domestic and biographical portrait. The narrator warns that later rebuilding may have changed the address number; figures in tapestries and the unidentified Jordaens sitter are not household cast.', { mentioned: ['gillenormand'] })]],
+  [162, [passage('start', 'Memories and the Name Luc-Esprit',
+    'Youthful gallantry, remembered compliments and contempt for modern politicians complete the old man’s self-image.', null,
+    'One paragraph interweaves an opera encounter at sixteen, another meeting at twenty, repeated reminiscence and present opinions. These do not form one gathering, and a godfather’s prediction does not establish genius.', { kind: 'reported', mentioned: ['gillenormand'] })]],
+  [163, [
+    passage('start', 'The Prize at Moulins',
+      'Gillenormand remembers the nobleman who crowned his school success more vividly than later political upheavals.', 'moulins-college',
+      'Paragraph 0 is an early-life recollection. Duc de Nivernais and his preferred Duc de Nevers refer to the same prize-giver, not two contemporaneous visitors.', { kind: 'reported', mentioned: ['gillenormand'] }),
+    passage(1, 'The Elixir and Ninety-Three',
+      'His faith in an old remedy and hatred of the Revolution accompany his hope of reaching a hundred.', null,
+      'Paragraph 1 juxtaposes beliefs, habitual stories and wordplay about age and 1793. No cure is performed; his explanation of surviving the Terror is his narrated account, not a new escape scene.', { mentioned: ['gillenormand'] }),
+  ]],
+  [164, [passage('start', 'The Purse and the Servants’ Names',
+    'A theory of marriage leads into the annuity left after his second wife’s death and the names he imposes on servants.', 'gillenormand-house',
+    'The single paragraph combines quoted theory, financial history and a hiring anecdote. Basque is the current valet’s imposed name; Nicolette is reused for female servants, including Magnon, and must not merge all those women into one person.', { mentioned: ['gillenormand', 'basque', 'magnon'] })]],
+  [165, [passage('start', 'Magnon’s Claim and the Family’s History',
+    'Magnon attributes two boys to Gillenormand, who denies paternity but funds their care; the narrator then recounts his brother and two daughters.', 'gillenormand-house',
+    'This single source paragraph covers two deliveries a year apart, maintenance and visits, a deceased brother, a separate inheritance dispute and the daughters’ history. Payment does not prove paternity. The younger daughter’s military husband is not named here, and the sons are not identified with later children.', { kind: 'reported', mentioned: ['gillenormand', 'magnon', 'gillenormand-elder-daughter', 'gillenormand-younger-daughter'], timeHint: 'First child attributed after Gillenormand completed his eighty-fourth year; second the following year' })]],
+  [166, [
+    passage('start', 'An Eighteenth-Century Survivor',
+      'The narrator sums up the old man’s appearance and mixture of frivolity and grandeur.', null,
+      'Paragraphs 0–1 conclude the portrait without new action.', { mentioned: ['gillenormand'] }),
+    passage(2, 'Evenings Only',
+      'After his earlier residence near Saint-Sulpice, Gillenormand retires to the Marais and admits visitors only after dinner.', 'gillenormand-house',
+      'Paragraphs 2–3 distinguish Rue Servandoni in 1814 and the early Restoration from the later Marais household. Five-o’clock dinner and evening reception are standing routines, not a visit by the hypothetical king.', { kind: 'reported', mentioned: ['gillenormand'] }),
+  ]],
+  [167, [
+    passage('start', 'Two Daughters, Different Dreams',
+      'The sisters’ divergent ambitions end in the younger woman’s marriage and early death and the elder’s unmarried life.', null,
+      'Paragraphs 0–1 are comparative biography. Ten years separate the births; angel and goose wings are metaphors, not bodily transformations.', { mentioned: ['gillenormand-elder-daughter', 'gillenormand-younger-daughter'] }),
+    passage(2, 'Mademoiselle Gillenormand the Elder',
+      'The elder daughter’s reserve, religious habits, friendship and changing temper are described.', 'gillenormand-house',
+      'Paragraphs 2–9 describe recurring behavior and relationships, not one chapel visit. Her first name remains undisclosed. Théodule is her grandnephew, not a lover established by the permitted embrace; Vaubois is a distinct chapel friend.', { mentioned: ['gillenormand-elder-daughter', 'theodule', 'mademoiselle-vaubois'] }),
+    passage(10, 'The Silent Grandson',
+      'The elder daughter keeps her father’s house, where a frightened grandson receives harsh words from the grandfather who adores him.', 'gillenormand-house',
+      'Paragraphs 10–12 describe the household and repeated treatment of a child, not a single caning. The comparison with Myriel’s household does not place the Bishop or Baptistine here. The child is called his grandson but not named in this passage.', { kind: 'reported', mentioned: ['gillenormand', 'gillenormand-elder-daughter', 'gillenormand-grandson'] }),
+  ]],
+]

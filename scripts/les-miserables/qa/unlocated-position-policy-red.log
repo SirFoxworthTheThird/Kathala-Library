@@ -1,0 +1,53 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesUnlocatedPositions.test.ts (2 tests | 2 failed) 22ms
+   × requires source evidence for every unknown actor position rather than fabricating a marker 15ms
+   × rejects an unregistered unknown position and a stale approval 6ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 2 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesUnlocatedPositions.test.ts > requires source evidence for every unknown actor position rather than fabricating a marker
+AssertionError: expected +0 to be 17 // Object.is equality
+
+- Expected
++ Received
+
+- 17
++ 0
+
+ ❯ tests/lesMiserablesUnlocatedPositions.test.ts:6:64
+      4|
+      5| test('requires source evidence for every unknown actor position rather…
+      6|  expect(validateUnlocatedPositions(enrichedReview()).approved).toBe(17)
+       |                                                                ^
+      7|  expect(sourceUnlocatedPositions.flatMap(row=>row.actors)).toHaveLengt…
+      8| })
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/2]⎯
+
+ FAIL  tests/lesMiserablesUnlocatedPositions.test.ts > rejects an unregistered unknown position and a stale approval
+AssertionError: expected [Function] to throw an error
+
+- Expected:
+null
+
++ Received:
+undefined
+
+ ❯ tests/lesMiserablesUnlocatedPositions.test.ts:14:49
+     12|  rows[0]={...rows[0],location:null}
+     13|  const broken=new Map(review);broken.set(15,rows)
+     14|  expect(()=>validateUnlocatedPositions(broken)).toThrow('Unregistered …
+       |                                                 ^
+     15|  const changed=new Map(review),at=changed.get(67).findIndex(row=>row.a…
+     16|  const known=changed.get(67).map(row=>({...row}));known[at]={...known[…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/2]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  2 failed (2)
+   Start at  08:42:29
+   Duration  970ms (transform 278ms, setup 0ms, import 427ms, tests 22ms, environment 0ms)
+

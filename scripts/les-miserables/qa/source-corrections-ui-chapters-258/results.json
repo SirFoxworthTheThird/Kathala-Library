@@ -1,0 +1,10 @@
+{
+  "scope": "Targeted source-correction character states and inventories; not full-book playback approval",
+  "checks": [
+    "258-6 eponine: Unknown"
+  ],
+  "errors": [],
+  "fixtureSha256": "f5c47bb219a3f0f242175a78de5a2b493ee6eccc49b1faee06efe2cb551b978f",
+  "applicationCommit": "e920677e47ad79ea110c37855f0e0e05749e52e2",
+  "applicationDiffSha256": "19608598bc877d42400fb4cde52472113172021b3f931117676cf19b9ce06e76"
+}

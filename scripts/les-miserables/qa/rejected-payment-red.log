@@ -1,0 +1,33 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-snapshot-repair3
+
+ ❯ tests/lesMiserablesRejectedPayment.test.ts (1 test | 1 failed) 1943ms
+   × keeps the borrowed prison-payment coin distinct from the earlier gift and leaves it where Eponine drops it 1943ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/lesMiserablesRejectedPayment.test.ts > keeps the borrowed prison-payment coin distinct from the earlier gift and leaves it where Eponine drops it
+AssertionError: expected false to be true // Object.is equality
+
+- Expected
++ Received
+
+- true
++ false
+
+ ❯ tests/lesMiserablesRejectedPayment.test.ts:7:41
+      5|  const{world}=buildWorldReview({embedded:false})
+      6|  const id='lesmis-world-review-item-marius-prison-payment-coin'
+      7|  expect(world.items.some(r=>r.id===id)).toBe(true)
+       |                                         ^
+      8|  const states=world.itemSnapshots.filter(r=>r.itemId===id)
+      9|  expect(states).toHaveLength(2)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed (1)
+   Start at  20:51:27
+   Duration  2.73s (transform 435ms, setup 0ms, import 625ms, tests 1.94s, environment 0ms)
+
