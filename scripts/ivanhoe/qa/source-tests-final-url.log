@@ -1,0 +1,12 @@
+
+> test
+> vitest run --run ivanhoeSource
+
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-ivanhoe
+
+
+ Test Files  1 passed (1)
+      Tests  76 passed (76)
+   Start at  08:42:00
+   Duration  1.98s (transform 182ms, setup 0ms, import 271ms, tests 1.54s, environment 0ms)

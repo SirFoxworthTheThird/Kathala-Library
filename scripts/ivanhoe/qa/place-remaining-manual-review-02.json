@@ -1,0 +1,73 @@
+{
+  "scope": "Six decoded WebPs and twelve app banner/lightbox screenshots individually opened; end cursor only, first-disclosure and final release approval separate",
+  "fixtureSha256": "7da2d4c7b9fa7f530c4d0b8f8127fe89bc2aeb80545eebbc75fbe139bec7b77e",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "coningsburgh-keep-gateway",
+      "originalSha256": "994437c09e47825946720fc92e95f210e2c3b2255024026ea7a29a0a3904d5e6",
+      "compressedSha256": "1b1b50d93e968f644613f915857cf86aa443f0027f157a7fa1b7064f7f7b10c3",
+      "compressedReview": "Individually opened decoded WebP; material textures and source-specific features retained without visible compression defect.",
+      "applicationReview": "Steep stair and low portal read in banner; full outer wall and steps visible enlarged.",
+      "screenshots": [
+        "qa/place-coningsburgh-keep-gateway.png",
+        "qa/place-coningsburgh-keep-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "coningsburgh-guests-gateway",
+      "originalSha256": "3f945f360fa2211d85d7173bc91f62b745c10a1c5fde07d320582e6910f5894c",
+      "compressedSha256": "a4e1a9e5f29fa7c5767ba6226590d1e62e884d7f7e16bc772f6fd7c1980ae489",
+      "compressedReview": "Individually opened decoded WebP; material textures and source-specific features retained without visible compression defect.",
+      "applicationReview": "Bed, fireplace and window read at banner size; enlargement shows entire anonymous guest room.",
+      "screenshots": [
+        "qa/place-coningsburgh-guests-gateway.png",
+        "qa/place-coningsburgh-guests-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-interior-gateway",
+      "originalSha256": "aaab05e2ae9b8d33029eedc14089106b4aa7d40cdd220d1baff043c06e803b58",
+      "compressedSha256": "ebc276d1f86be00f76fd932e659cc1e2744012fed5fc3d5bbd1251b379362ddd",
+      "compressedReview": "Individually opened decoded WebP; material textures and source-specific features retained without visible compression defect.",
+      "applicationReview": "Timber drawbridge and closed internal doorway readable; enlargement retains stone gate details.",
+      "screenshots": [
+        "qa/place-templestowe-interior-gateway.png",
+        "qa/place-templestowe-interior-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-lists-gateway",
+      "originalSha256": "9f43950364755a82c173b69cbd712df88d43d48f52c4b79a55e19f70e33351ee",
+      "compressedSha256": "2c9e03d269457d4d2509310977e2a7ade48584179209aea9deabbc5095ca25c3",
+      "compressedReview": "Individually opened decoded WebP; material textures and source-specific features retained without visible compression defect.",
+      "applicationReview": "Open enclosure and timber galleries visible at banner size; enlargement confirms no divider in field.",
+      "screenshots": [
+        "qa/place-templestowe-lists-gateway.png",
+        "qa/place-templestowe-lists-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-master-seat",
+      "originalSha256": "d959d1b681b32b79b448f9414169f0ac00b18aa4d30a96eb91e60829418dbf62",
+      "compressedSha256": "d17de969d637124aedc145874030eeb3a8c5995fcce8a17f265c21c00882f685",
+      "compressedReview": "Individually opened decoded WebP; material textures and source-specific features retained without visible compression defect.",
+      "applicationReview": "High seat and dais readable in banner; enlargement retains oak floor, four lower chairs and vaulted hall.",
+      "screenshots": [
+        "qa/place-templestowe-master-seat.png",
+        "qa/place-templestowe-master-seat-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-preceptor-seats",
+      "originalSha256": "3ec366971da5efa38cb9497ef67029e352a4c1924b6042607f0d91f6749bf27d",
+      "compressedSha256": "137b69115db10ac483ecc3886f0c4c05a6fa2ae56942deeff2e2238614a9a02f",
+      "compressedReview": "Individually opened decoded WebP; material textures and source-specific features retained without visible compression defect.",
+      "applicationReview": "Four lower chairs clearly identifiable in banner and enlargement; no occupants invented.",
+      "screenshots": [
+        "qa/place-templestowe-preceptor-seats.png",
+        "qa/place-templestowe-preceptor-seats-lightbox.png"
+      ]
+    }
+  ]
+}

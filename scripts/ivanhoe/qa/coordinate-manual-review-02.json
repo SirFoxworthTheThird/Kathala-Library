@@ -1,0 +1,319 @@
+{
+  "scope": "13 individual actual app Rotherwood coordinate screenshots opened after viewport correction; schematic reconstruction limits retained; not first-disclosure or gateway traversal approval",
+  "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+  "appCommit": "02dcd633",
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-rotherwood-rowena-gateway",
+      "name": "Seven steps to the raised apartment",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 1175,
+      "y": 505,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-rowena-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 743.5175718849839,
+          "y": 491.96517412935316
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "44460ad16cc6c2b58dfbf45938d6b023aac4e560416c09aa14ee772c124ca036",
+      "manualObservation": "The point is on the illustrated raised-apartment access. The panel explicitly identifies exact site-plan position and height as reconstructed; the stairs are a schematic access cue, not a surveyed exterior route."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-entrance",
+      "name": "Western entrance",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 335,
+      "y": 510,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-entrance.png",
+      "presentation": {
+        "point": {
+          "x": 729.7092651757189,
+          "y": 491.8955223880597
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "49eb9e067adb4bc0e90befb42d3ec6759ca45479981b7d4eb95dd67814fe1232",
+      "manualObservation": "The marker is over the broad western bridge across the moat between the two palisades."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-hall-gateway",
+      "name": "The hall building",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 720,
+      "y": 645,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-hall-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.1214057507987,
+          "y": 492.01492537313436
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "8a5f29e60e0f2e04f970ed1160034eb423fc417a02bfad9d5397613fff665cf9",
+      "manualObservation": "The building gateway sits on the long timber hall; its exact entry position is explicitly marked reconstructed in the panel."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-guests-gateway",
+      "name": "The sleeping wing",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 885,
+      "y": 355,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-guests-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.44089456869,
+          "y": 492.0547263681591
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "e1893376669ef63224be0542353caf130aea6a2afcfa7336f123356f0014b1ba",
+      "manualObservation": "The gateway occupies the lower sleeping wing inside the palisade, distinct from Rowena’s raised room."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-antechamber",
+      "name": "Rowena’s antechamber",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 1030,
+      "y": 530,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-antechamber.png",
+      "presentation": {
+        "point": {
+          "x": 729.4792332268371,
+          "y": 492.61691542288554
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "7f0f4f9cc999c5a95ff665b78c79e9c31b01af31ac8baa84483fdf55ca085c01",
+      "manualObservation": "The waiting-space marker is at the lower wing beside the raised-room access, with the upward gateway kept separate."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-postern",
+      "name": "The postern",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 1225,
+      "y": 285,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-postern.png",
+      "presentation": {
+        "point": {
+          "x": 730.220447284345,
+          "y": 532.0298507462687
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "dd4f49fbc96f04275c1618895617a58182ffe58d105d7159eb9d94f9b5c064fc",
+      "manualObservation": "The inner secondary exit is marked at the inner palisade, separate from the main western bridge."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-postern-bridge",
+      "name": "The narrow crossing",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 1265,
+      "y": 240,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-postern-bridge.png",
+      "presentation": {
+        "point": {
+          "x": 729.7827476038337,
+          "y": 595.6567164179105
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "b752dbb1c1143c1f0a42a2a18ae408bd0a7c9db4d116246d96b767e9a13d00e8",
+      "manualObservation": "The crossing marker is over the narrow two-board route across the ditch, beyond the inner postern."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-hall",
+      "name": "The hall",
+      "mapLayerId": "ivanhoe-map-rotherwood-hall",
+      "x": 900,
+      "y": 321,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.8900255754477,
+          "y": 491.941351888668
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "785e1bf39fd8f748fb9af9139feb9d4e91b3affaca53c8a12cd7130a99c26b86",
+      "manualObservation": "The room-level pin is on the hall’s open earthen floor; it represents the room, not a specific dais seat."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-guest-passage",
+      "name": "Guest passage",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "x": 800,
+      "y": 346,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-guest-passage.png",
+      "presentation": {
+        "point": {
+          "x": 730.457800511509,
+          "y": 491.57852882703764
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c16385b6fe65888068c0748ba0d1df51877a8cfe5a92fffec4e4e7c430453d04",
+      "manualObservation": "The pin is in the shared corridor outside the three cell doors, not in an occupant’s room."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-palmer-cell",
+      "name": "The Palmer’s cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "x": 930,
+      "y": 661,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-palmer-cell.png",
+      "presentation": {
+        "point": {
+          "x": 730.319693094629,
+          "y": 492.006958250497
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "223d13f359d6d47648c2185125500833c935857ba2f92e6c2d4d61909d3bff37",
+      "manualObservation": "The selected pin is inside the middle cell with the small stool, straw bed and upper window."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-isaac-cell",
+      "name": "Isaac’s cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "x": 435,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-isaac-cell.png",
+      "presentation": {
+        "point": {
+          "x": 730.230179028133,
+          "y": 491.80516898608346
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "4bd89032cf03e7ab41751e229165a419aa8fb7c3fa717ab847e03192df1bc742",
+      "manualObservation": "The pin is inside the left cell adjoining the Palmer’s, and does not coincide with the shared passage."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-gurth-cell",
+      "name": "Gurth’s cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "x": 1300,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-gurth-cell.png",
+      "presentation": {
+        "point": {
+          "x": 778.618925831202,
+          "y": 491.80516898608346
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "db566ed77e90d7ed0f6dcbd0e1e8fc2022c541b2ccbf2b130ab45dc7b16e17a1",
+      "manualObservation": "The marker is inside the right cell; the straw pallet and log pillow distinguish it from the Palmer’s room."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-rowena-chamber",
+      "name": "Rowena’s chamber",
+      "mapLayerId": "ivanhoe-map-rotherwood-rowena",
+      "x": 850,
+      "y": 380,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-rowena-chamber.png",
+      "presentation": {
+        "point": {
+          "x": 729.9488817891372,
+          "y": 491.7064676616915
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "e1966515e555305cab057d98b36053e3a178e68848d336184e99a87043b0c15f",
+      "manualObservation": "The selected pin is on the private room’s open floor between the bench and chair/bed furnishings, separate from the lower antechamber."
+    }
+  ]
+}

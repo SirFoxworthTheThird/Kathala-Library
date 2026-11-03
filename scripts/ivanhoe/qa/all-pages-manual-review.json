@@ -1,0 +1,82 @@
+{
+  "scope": "All15 page presentations manually reviewed; exact model/URL transition proofs preserve subjects and geometry. Final packaged download rechecked opening, cover, linked-picture settings and source/end-state presentation.",
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90",
+  "checks": [
+    {
+      "path": "qa/page-dashboard.png",
+      "sha256": "2c22078499e557243f7a87fed11ecaf5fa29bc36a9d2e2657f73dff0e01e9a3d",
+      "finding": "Reader dashboard counts and reading-only controls correct."
+    },
+    {
+      "path": "qa/page-maps.png",
+      "sha256": "46f3ff985f7b9ab74c405321d6c34bfba7e51e2faa44e31369421cc5adf08eaa",
+      "finding": "York illustrated topography and positioned pins render; five unknown source sites stay unpinned."
+    },
+    {
+      "path": "qa/page-characters.png",
+      "sha256": "2f4c20aff06be610ef4cec7bec6b2bb68ef3ddaec17f0d7d76a10ac5328767f6",
+      "finding": "Brian deceased; Athelstane alive; canonical Richard inherits the latest alias location."
+    },
+    {
+      "path": "qa/page-items.png",
+      "sha256": "0a7828ab7901fcd663940dc12ff4cb53ad4210ec42b5b62ae5fc4db267bf81cf",
+      "finding": "Distinct object thumbnails and source-specific collar condition render."
+    },
+    {
+      "path": "qa/page-relationships.png",
+      "sha256": "b6e934221037dac0dd8451e108d1a6719eb0756f28f01c56304488d4e5213b13",
+      "finding": "Fifteen source relationships render; no invented ties added for disconnected people."
+    },
+    {
+      "path": "qa/page-manuscript.png",
+      "sha256": "d5034ac69212fe0fb701cfbee73fdd17c5628cd8029ca9454d71c709ee855a3b",
+      "finding": "Complete retained footnotes render in the manuscript."
+    },
+    {
+      "path": "qa/page-calendar.png",
+      "sha256": "3f5dea5026ae54e470d784026275432f7ce0154c77e23c8cf8cac88137445016",
+      "finding": "Calendar contains all537 events with disclosed relative chronology."
+    },
+    {
+      "path": "qa/page-structure.png",
+      "sha256": "2c22078499e557243f7a87fed11ecaf5fa29bc36a9d2e2657f73dff0e01e9a3d",
+      "finding": "Reader Structure route correctly guards to dashboard."
+    },
+    {
+      "path": "qa/page-arc.png",
+      "sha256": "eed8d89a86a026d981ecc1f65ac8fb25d77d5e16cf4eba4d9b71c358f1d86987",
+      "finding": "Arc separates inherited states and direct records."
+    },
+    {
+      "path": "qa/page-factions.png",
+      "sha256": "92025e699f211dd729b340804f7f89115c9f9ad1bd26c3c177eab055614180f8",
+      "finding": "Seven factions and reached memberships render."
+    },
+    {
+      "path": "qa/page-knowledge.png",
+      "sha256": "df66fc32fe9ac087f5c1e8279d32d528cbc53c87376f29c0f581701929fa72be",
+      "finding": "Thirty-eight source/report facts render without assigning omniscience."
+    },
+    {
+      "path": "qa/page-lore.png",
+      "sha256": "eb5b66824c1019db59725eee0b4b314eaa4a7e24b882ee90a8e601d5e948f098",
+      "finding": "Twelve Lore pages in two categories render with reading gates."
+    },
+    {
+      "path": "qa/page-settings.png",
+      "sha256": "42cee06f41b6f0df21faac8cb8768e8b0aa1b2d181ba439674ca628d73703356",
+      "finding": "Reading mode and local picture settings render."
+    },
+    {
+      "path": "qa/page-writer-structure.png",
+      "sha256": "cd62606ae1091d9f8b94625deadd121375d764e9240f8461dd217d22b1933417",
+      "finding": "Writer-only optional seven-beat template deliberately unassigned; no modern structural theory imposed."
+    },
+    {
+      "path": "qa/page-writer-dashboard.png",
+      "sha256": "ab7561dcf4f12772ab3ea9174ff5b6dfc8fde2ab374cc0273db434ba0279d3ff",
+      "finding": "Full-data dashboard distinguishes78 records from67 reader identities and504 populated scenes from33 cast-free sections/epigraphs."
+    }
+  ]
+}

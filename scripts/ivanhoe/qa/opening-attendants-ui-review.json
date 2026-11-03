@@ -1,0 +1,23 @@
+{
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "scope": "Opening physical presence and II.51 names forward/rewind; full retinue audit remains open",
+  "observations": [
+    {
+      "key": "hamet",
+      "openingPresence": true,
+      "anonymous": "An eastern attendant",
+      "named": "Hamet",
+      "forwardAndRewind": true,
+      "screenshot": "qa/opening-attendant-hamet-rewound.png"
+    },
+    {
+      "key": "abdalla",
+      "openingPresence": true,
+      "anonymous": "The other eastern attendant",
+      "named": "Abdalla",
+      "forwardAndRewind": true,
+      "screenshot": "qa/opening-attendant-abdalla-rewound.png"
+    }
+  ],
+  "pageErrors": []
+}

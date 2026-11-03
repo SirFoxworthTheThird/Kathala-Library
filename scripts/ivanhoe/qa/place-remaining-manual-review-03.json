@@ -1,0 +1,73 @@
+{
+  "scope": "Six decoded WebPs and twelve actual app banner/lightbox screenshots individually opened; end cursor only, final approval and early disclosure remain open",
+  "fixtureSha256": "7da2d4c7b9fa7f530c4d0b8f8127fe89bc2aeb80545eebbc75fbe139bec7b77e",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "templestowe-knight-bench-corner",
+      "originalSha256": "a10f87649cee9656ccdd083a8df679d491723d4d275546b2c75a8ca8755eb634",
+      "compressedSha256": "0f580bcc28673ffaa85c460f6691d4499b0862271451a2bf29f0a75c8ad697d9",
+      "compressedReview": "Individually opened decoded WebP; no visible objectionable artifacts, original material features retained.",
+      "applicationReview": "Bench corner holds in banner, full oak floor and raised seating clear enlarged.",
+      "screenshots": [
+        "qa/place-templestowe-knight-bench-corner.png",
+        "qa/place-templestowe-knight-bench-corner-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-accused-place",
+      "originalSha256": "fd7b0bd1ab0f6eff669cd337001fc563281e7eac0b36ae2f7b01685a8c96f727",
+      "compressedSha256": "2f5d876e0359edb5ab6751b23cde1ae10cd512cc15f094edc9346eadbaf2d53c",
+      "compressedReview": "Individually opened decoded WebP; no visible objectionable artifacts, original material features retained.",
+      "applicationReview": "Tribunal facing view reads at banner size; oak floor, five seats and vaulted roof visible enlarged.",
+      "screenshots": [
+        "qa/place-templestowe-accused-place.png",
+        "qa/place-templestowe-accused-place-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-public-floor",
+      "originalSha256": "c15417e6e34cb74cedcbce4e07e90ee9cd615c4bf2afd6550553f40feb03d7f8",
+      "compressedSha256": "b10e878c31a140d907bb9f72ad67b5946976ace7e84aeda3c1621844b41a59d8",
+      "compressedReview": "Individually opened decoded WebP; no visible objectionable artifacts, original material features retained.",
+      "applicationReview": "Lower floor and doorway readable in banner; enlarged empty hall keeps no invented crowd.",
+      "screenshots": [
+        "qa/place-templestowe-public-floor.png",
+        "qa/place-templestowe-public-floor-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-witness-place",
+      "originalSha256": "04ecc1a45c876252683f0f36d6a04a53fbf650b5f20e89ace65389dbf0ef99d6",
+      "compressedSha256": "686c1d526ebbfc26524865282eac6aa264c1c27bac6c85e8b657ac244a0107ad",
+      "compressedReview": "Individually opened decoded WebP; no visible objectionable artifacts, original material features retained.",
+      "applicationReview": "Witness approach, oak floor and four lower seats remain clear; full square unobscured.",
+      "screenshots": [
+        "qa/place-templestowe-witness-place.png",
+        "qa/place-templestowe-witness-place-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-east-tribunal",
+      "originalSha256": "14a53ea956a5a5e048035b64c9608e4a63dd74bb6d7fafe7a3d5aa10efe59edd",
+      "compressedSha256": "e424b85cef3654af095ac7f159fe053e717572ba37328e723b104b38fa86c534",
+      "compressedReview": "Individually opened decoded WebP; no visible objectionable artifacts, original material features retained.",
+      "applicationReview": "Raised outdoor tribunal readable despite banner cropping flag top; full black/white flag visible enlarged.",
+      "screenshots": [
+        "qa/place-templestowe-east-tribunal.png",
+        "qa/place-templestowe-east-tribunal-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-east-station",
+      "originalSha256": "8cb290fa726e21ea60b19a7520a2c512aae7871836802ae554517bf9680a1ce2",
+      "compressedSha256": "c104b4eb45ed3e0472f0912acca50a928f88b786d9910814b5860cd5a3783fd8",
+      "compressedReview": "Individually opened decoded WebP; no visible objectionable artifacts, original material features retained.",
+      "applicationReview": "Eastern station steps remain legible in banner; enlarged plain black/white fabrics retain natural wood detail.",
+      "screenshots": [
+        "qa/place-templestowe-east-station.png",
+        "qa/place-templestowe-east-station-lightbox.png"
+      ]
+    }
+  ]
+}

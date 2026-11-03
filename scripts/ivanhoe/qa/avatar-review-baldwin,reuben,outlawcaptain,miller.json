@@ -1,0 +1,56 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "baldwin",
+    "reuben",
+    "outlawcaptain",
+    "miller"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-baldwin",
+      "name": "Baldwin",
+      "eventId": "ivanhoe-source-13-p5",
+      "cursorLabel": "Ch.13 · CHAPTER X — Ransom terms (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-baldwin.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-baldwin.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-reuben",
+      "name": "Reuben",
+      "eventId": "ivanhoe-source-13-p70-c416",
+      "cursorLabel": "Ch.13 · CHAPTER X — Reuben lights the way out (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-reuben.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-reuben.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-outlawcaptain",
+      "name": "The masked captain",
+      "eventId": "ivanhoe-source-14-p8",
+      "cursorLabel": "Ch.14 · CHAPTER XI — The masked company (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-outlawcaptain.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-outlawcaptain.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-miller",
+      "name": "The miller",
+      "eventId": "ivanhoe-source-14-p46",
+      "cursorLabel": "Ch.14 · CHAPTER XI — The Miller’s match (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-miller.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-miller.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

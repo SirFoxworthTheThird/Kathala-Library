@@ -1,0 +1,17 @@
+{
+  "id": "yeoman",
+  "original": "scripts/ivanhoe/art-originals/yeoman-v3.png",
+  "source": "VII.17",
+  "prompt": "Create one square 1:1 original character illustration for a source-grounded reading edition of Walter Scott's Ivanhoe, specifically the anonymous yeoman first described in chapter VII paragraph 17. One stout, well-set adult English woodsman, powerfully built rather than slender, a weather-browned face with a firm self-possessed expression, dressed in practical Lincoln-green wool of late twelfth-century cut. A simple leather baldric crosses his chest with a small plain silver badge of no identifying emblem. He holds a tall plain wooden longbow at his side; twelve arrows are tucked in his belt, their natural feather ends visible. Waist-up portrait, face centred with generous breathing room suitable for a circular avatar crop; a softly blurred palisaded tournament meadow behind him. Mature painterly historical literary bookplate, realistic fabric and weathered skin, restrained green and warm earth palette, natural daylight, subtle oil-and-watercolour texture. Facial details, hair and badge shape are illustrative choices, not a famous actor or established movie costume. No feathered cap, pointed fantasy ears, crown, royal heraldry, name, readable text, lettering, logos or watermark. No other person, attack, narrative outcome, future identity or outlaw insignia. The archer is anonymous at this point: his image must not announce Robin Hood.",
+  "editPrompts": [
+    "Edit this same square literary character illustration. Preserve the stout weather-browned anonymous yeoman, his firm expression, Lincoln-green wool, plain silver baldric badge, long wooden bow, framing, daylight, and blurred palisaded tournament background. Correct the arrows to match Ivanhoe VII.17: remove the leather quiver completely. Exactly twelve individual arrows, with twelve distinct feathered nocks, are simply tucked through the waist belt at his left side, bare wooden lower shafts visible against the cloth and not contained in any pouch, tube, case or quiver. Keep feathers natural and the arrows straight, with no duplicated or forked shafts. Do not add an emblem, name, feathered cap, other people, text, logo or watermark. Hair and beard remain illustrative choices, not a movie character.",
+    "Make one tiny local correction to this exact illustration. The belt currently visibly holds eleven arrows. Add ONE extra straight arrow at the far right edge of the existing arrow bundle, alongside the existing dark-feathered rightmost arrow, with its own distinct wooden forked nock and natural feathering. There must now be twelve distinct arrow nocks in total, all shafts tucked behind the same belt, no quiver. Preserve every other part of the picture: face, body, green clothing, silver badge, bow, hands, background, framing, style and lighting. No text or symbols."
+  ],
+  "generator": "built-in image_gen",
+  "rejectedVariants": [
+    "scripts/ivanhoe/art-originals/yeoman-v1.png",
+    "scripts/ivanhoe/art-originals/yeoman-v2.png"
+  ],
+  "originalReview": "Opened v3 original: stout weather-browned anonymous archer in Lincoln green, plain silver baldric badge and wooden longbow; twelve separate nocks counted, shafts tucked behind belt with no quiver. v1 rejected for quiver and v2 for eleven visible arrows. Face, beard and hair are illustrative choices. No future identity, special insignia, feathered cap, text or other people.",
+  "appReviewed": false
+}

@@ -1,0 +1,44 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "debracy",
+    "fitzurse",
+    "frontdeboeuf"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-debracy",
+      "name": "De Bracy",
+      "eventId": "ivanhoe-source-10-p30",
+      "cursorLabel": "Ch.10 · CHAPTER VII — The severed lance (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-debracy.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-debracy.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-fitzurse",
+      "name": "Waldemar Fitzurse",
+      "eventId": "ivanhoe-source-11-p0",
+      "cursorLabel": "Ch.11 · CHAPTER VIII — An empty throne (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-fitzurse.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-fitzurse.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-frontdeboeuf",
+      "name": "Reginald Front-de-Boeuf",
+      "eventId": "ivanhoe-source-11-p24",
+      "cursorLabel": "Ch.11 · CHAPTER VIII — The challengers prevail (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-frontdeboeuf.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-frontdeboeuf.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "scope": "Manual post-fix actual item-history review, observations48-71 only",
+  "fixtureSha256": "955618ed2eb61140f30129ee7f9767eab240f3183ca84f3fe66e3b9a8de6a174",
+  "reviewed": 24,
+  "sheets": [
+    {
+      "sheet": "custody-review-sheet-13.jpg",
+      "sha256": "dad18b126893c287b4d8770370106b95ca380fca73f28550d7a265df5c81558a",
+      "finding": "Reply passes to Black Knight; Wamba actually wears frock and cowl, with cord directly established at the later portal scene.",
+      "observations": [
+        {
+          "index": 48,
+          "path": "qa/custody-048-reply.png",
+          "sha256": "bf382d3d6a40d352992eed6ad2d029b36979d53513daaf8aaa85c96368c2760b"
+        },
+        {
+          "index": 49,
+          "path": "qa/custody-049-frock.png",
+          "sha256": "b02704916aa947d00c765272d76b92417c0a68fc9ce31cb06c06794406e10c6f"
+        },
+        {
+          "index": 50,
+          "path": "qa/custody-050-cowl.png",
+          "sha256": "cdd318e54c67ad74b1690129e1fba2411eb2d3f6a46e95267ddf60121c8fb636"
+        },
+        {
+          "index": 51,
+          "path": "qa/custody-051-friar-cord.png",
+          "sha256": "1fdc4687949bb68ae33c8cc8d4663fa5f0131e69c8fe2bedb77b06c7174fc3cc"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-14.jpg",
+      "sha256": "df02ec61c76b9203577c857372ba8d8b5da79c7a45aabf1005048ecb7f720edf",
+      "finding": "Completed disguise exchange transfers frock, cowl and cord to Cedric and his cloak to Wamba, without an early transfer at the proposal.",
+      "observations": [
+        {
+          "index": 52,
+          "path": "qa/custody-052-frock.png",
+          "sha256": "61f54b98fb65b2f062c4e46b83d98c9673e4ee53edcc377b1b781ae418ba1dfa"
+        },
+        {
+          "index": 53,
+          "path": "qa/custody-053-cowl.png",
+          "sha256": "0be32af26418768bf6c14a15e92c5a4dc1a9015b8c5cbf5518eeb712da3fe2ff"
+        },
+        {
+          "index": 54,
+          "path": "qa/custody-054-friar-cord.png",
+          "sha256": "bafe804a8ee6ac78fd341349d889b592697d54175ce2ca7935421ae628c1e3a6"
+        },
+        {
+          "index": 55,
+          "path": "qa/custody-055-cedric-cloak.png",
+          "sha256": "25a573eb873594d25c835fab94d245d3d6cba13a0077b86e762cb6154a823dc1"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-15.jpg",
+      "sha256": "474752ed8823db977981e2603d4b5215ccec22d810c10e53fbc2238322d4bef9",
+      "finding": "Girdle goes to Wamba; dispatch remains with Cedric. Glove has no invented antler placement; balsam treatment is explicitly retrospective.",
+      "observations": [
+        {
+          "index": 56,
+          "path": "qa/custody-056-cedric-girdle.png",
+          "sha256": "a9973b96bd48d51daf8e142fc260eb26c35513b1c3a2c22feeefcd3ff1e4afa3"
+        },
+        {
+          "index": 57,
+          "path": "qa/custody-057-malvoisin-scroll.png",
+          "sha256": "132850cbce5160121ee2089a1ec4350d966f631e35eafdf63714fa79cbfccdf8"
+        },
+        {
+          "index": 58,
+          "path": "qa/custody-058-athelstane-glove.png",
+          "sha256": "6d50f16506182baa3b6214ebe4b27e0e245095f041971da4159e9fbdf9b4c8da"
+        },
+        {
+          "index": 59,
+          "path": "qa/custody-059-miriam-balsam.png",
+          "sha256": "b0031cdcfd623eda1dc4c64895823ed2361a90c95f6e51e54ff76ce93a07db4d"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-16.jpg",
+      "sha256": "b7c8261679650e70a496eef1855cb73e8244039469cfcf385dba482077e00b89",
+      "finding": "Locksley receives the surrendered sword; distaff is lost with Ulrica. Gurth collar condition changes on freedom without claiming witnessed removal.",
+      "observations": [
+        {
+          "index": 60,
+          "path": "qa/custody-060-debracy-sword.png",
+          "sha256": "ac389ff88beb9df7fe41199f7fa1ef2ecc4255893e0f5e2d56b6b2eb49f8bfa6"
+        },
+        {
+          "index": 61,
+          "path": "qa/custody-061-ulrica-distaff.png",
+          "sha256": "507bebd4e0ef083fde0a3533072d094f938cc521143afd0b590e181eee758e12"
+        },
+        {
+          "index": 62,
+          "path": "qa/custody-062-ulrica-distaff.png",
+          "sha256": "91b702235d8f9a819b6b5bb25d3b65f17d95573eb2e98bf6d9abf315ee96f9c5"
+        },
+        {
+          "index": 63,
+          "path": "qa/custody-063-gurth-collar.png",
+          "sha256": "a1c31b11cf853934910cad5c66254258f1dc96de0a18a369e4fa6fb8a5850df7"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-17.jpg",
+      "sha256": "2703ac41330599cdaa759c82e3a2dd75b75fd5c00bfcc9484002dbe198016552",
+      "finding": "Horn and baldric each show report plus direct gift, avoiding simultaneous present-day holders. Tablets return to Isaac then reach Conrade after reading by the Master.",
+      "observations": [
+        {
+          "index": 64,
+          "path": "qa/custody-064-locksley-horn.png",
+          "sha256": "5b27c5b802879d0ff83914a8923aa9bb7c3cf12904cd443a1cfc4729f94d8eb1"
+        },
+        {
+          "index": 65,
+          "path": "qa/custody-065-locksley-baldric.png",
+          "sha256": "8cb67db5c8b8495fa5e2c485a47deb93e634b0496c90e8fb928dedba254a42f5"
+        },
+        {
+          "index": 66,
+          "path": "qa/custody-066-aymer-tablets.png",
+          "sha256": "3c9ec72b1f2a3b445a567c9bea1b0b4d9018fd2fe910c1a9ec0c80362127258c"
+        },
+        {
+          "index": 67,
+          "path": "qa/custody-067-aymer-tablets.png",
+          "sha256": "981feb029cd1538b458a8bb926dbee6d8651bca7abf39194aa8e1f7d2852abf2"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-18.jpg",
+      "sha256": "84f1a0f7d95acb3e8beaa113b8ab2eb0fd25d0ca128ee163c467b2de983075ba",
+      "finding": "Chain report stays unnamed; warning begins unread, box is confiscated by the Master, and warning is subsequently destroyed rather than dropped.",
+      "observations": [
+        {
+          "index": 68,
+          "path": "qa/custody-068-brian-chain.png",
+          "sha256": "226349fc16766feb7813e1d43d17d50c8107da9d6ccfcc67a60143c56799a5f4"
+        },
+        {
+          "index": 69,
+          "path": "qa/custody-069-champion-warning.png",
+          "sha256": "7d763ad6e456db2a64465fbf8df02a83b7093f4351b8007534f43b02e5c0c759"
+        },
+        {
+          "index": 70,
+          "path": "qa/custody-070-higg-box.png",
+          "sha256": "1fde16eb43d3ab2bb85178bf50faac1e6cbb66d5fafe135abf28a255c0fd46e9"
+        },
+        {
+          "index": 71,
+          "path": "qa/custody-071-champion-warning.png",
+          "sha256": "e0bdb858b241682ce723d00b280d34c97a45b29c57e661464a02c7be9a93f5ba"
+        }
+      ]
+    }
+  ]
+}

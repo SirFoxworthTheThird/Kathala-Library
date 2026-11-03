@@ -1,0 +1,3661 @@
+{
+  "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+  "scope": "Actual app sidebar focus, selected-point visibility and enlarged map captures; manual coordinate/source approval required",
+  "completed": 166,
+  "total": 166,
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-region-rotherwood-gateway",
+      "name": "Rotherwood",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 478,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-rotherwood-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 925.979865771812,
+          "y": 491.9539641943734
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-region-copmanhurst-gateway",
+      "name": "The hermitage clearing",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 388,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-copmanhurst-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 781.979865771812,
+          "y": 492.2429667519182
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-region-torquilstone-gateway",
+      "name": "Torquilstone",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 298,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-torquilstone-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 781.979865771812,
+          "y": 513.531969309463
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-region-templestowe-gateway",
+      "name": "Templestowe",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 208,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-templestowe-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 781.979865771812,
+          "y": 640.8209718670078
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-region-botolph-gateway",
+      "name": "Saint Botolph’s Priory",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 118,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-botolph-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 781.979865771812,
+          "y": 769.1099744245523
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-region-ashby-gateway",
+      "name": "Ashby",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 458,
+      "y": 227,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-ashby-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.552572706935,
+          "y": 613.9488491048592
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-region-coningsburgh-gateway",
+      "name": "Coningsburgh",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 548,
+      "y": 677,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-coningsburgh-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.8008948545861,
+          "y": 491.50383631713555
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-region-don-woods-gateway",
+      "name": "The Don country",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 421,
+      "y": 662,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-don-woods-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.2393736017897,
+          "y": 491.7186700767264
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-region-york-gateway",
+      "name": "York",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 599,
+      "y": 960,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-york-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.9082774049217,
+          "y": 492.2506393861893
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-rowena-gateway",
+      "name": "Seven steps to the raised apartment",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 1175,
+      "y": 505,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-rowena-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 743.5175718849839,
+          "y": 491.96517412935316
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-entrance",
+      "name": "Western entrance",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 335,
+      "y": 510,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-entrance.png",
+      "presentation": {
+        "point": {
+          "x": 729.7092651757189,
+          "y": 491.8955223880597
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-hall-gateway",
+      "name": "The hall building",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 720,
+      "y": 645,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-hall-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.1214057507987,
+          "y": 492.01492537313436
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-guests-gateway",
+      "name": "The sleeping wing",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 885,
+      "y": 355,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-guests-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.44089456869,
+          "y": 492.0547263681591
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-antechamber",
+      "name": "Rowena’s antechamber",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 1030,
+      "y": 530,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-antechamber.png",
+      "presentation": {
+        "point": {
+          "x": 729.4792332268371,
+          "y": 492.61691542288554
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-postern",
+      "name": "The postern",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 1225,
+      "y": 285,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-postern.png",
+      "presentation": {
+        "point": {
+          "x": 730.220447284345,
+          "y": 532.0298507462687
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-postern-bridge",
+      "name": "The narrow crossing",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "x": 1265,
+      "y": 240,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-postern-bridge.png",
+      "presentation": {
+        "point": {
+          "x": 729.7827476038337,
+          "y": 595.6567164179105
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-hall",
+      "name": "The hall",
+      "mapLayerId": "ivanhoe-map-rotherwood-hall",
+      "x": 900,
+      "y": 321,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.8900255754477,
+          "y": 491.941351888668
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-guest-passage",
+      "name": "Guest passage",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "x": 800,
+      "y": 346,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-guest-passage.png",
+      "presentation": {
+        "point": {
+          "x": 730.457800511509,
+          "y": 491.57852882703764
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-palmer-cell",
+      "name": "The Palmer’s cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "x": 930,
+      "y": 661,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-palmer-cell.png",
+      "presentation": {
+        "point": {
+          "x": 730.319693094629,
+          "y": 492.006958250497
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-isaac-cell",
+      "name": "Isaac’s cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "x": 435,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-isaac-cell.png",
+      "presentation": {
+        "point": {
+          "x": 730.230179028133,
+          "y": 491.80516898608346
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-gurth-cell",
+      "name": "Gurth’s cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "x": 1300,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-gurth-cell.png",
+      "presentation": {
+        "point": {
+          "x": 778.618925831202,
+          "y": 491.80516898608346
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-rowena-chamber",
+      "name": "Rowena’s chamber",
+      "mapLayerId": "ivanhoe-map-rotherwood-rowena",
+      "x": 850,
+      "y": 380,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-rowena-chamber.png",
+      "presentation": {
+        "point": {
+          "x": 729.9488817891372,
+          "y": 491.7064676616915
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-lists-gateway",
+      "name": "The tournament meadow",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 505,
+      "y": 531,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-lists-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.23273657289,
+          "y": 491.8936381709741
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-house-gateway",
+      "name": "The borrowed lodging",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 1140,
+      "y": 851,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-house-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.3273657289003,
+          "y": 404.2495029821074
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-gateway",
+      "name": "The castle precinct",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 1390,
+      "y": 851,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 904.9079283887468,
+          "y": 404.2495029821074
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-woods-gateway",
+      "name": "The wooded approach",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 295,
+      "y": 826,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-woods-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 725.2250639386189,
+          "y": 440.61232604373754
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-return-road",
+      "name": "Road back to Ashby",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 800,
+      "y": 356,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-return-road.png",
+      "presentation": {
+        "point": {
+          "x": 730.457800511509,
+          "y": 491.4333996023855
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-departure",
+      "name": "The departure from Ashby Castle",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 1390,
+      "y": 786,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-departure.png",
+      "presentation": {
+        "point": {
+          "x": 904.9079283887468,
+          "y": 492.192842942346
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-alicia-gallery-frontage",
+      "name": "Below the neighbouring gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 790,
+      "y": 823,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-alicia-gallery-frontage.png",
+      "presentation": {
+        "point": {
+          "x": 729.9574944071587,
+          "y": 492.0127877237851
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-northern-end",
+      "name": "The northern end of the lists",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 500,
+      "y": 928,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-northern-end.png",
+      "presentation": {
+        "point": {
+          "x": 729.9351230425056,
+          "y": 491.50895140664954
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-saxon-gallery-frontage",
+      "name": "Below the Saxon gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1160,
+      "y": 873,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-saxon-gallery-frontage.png",
+      "presentation": {
+        "point": {
+          "x": 896.0894854586129,
+          "y": 492.2966751918158
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-lists",
+      "name": "The tournament enclosure",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 500,
+      "y": 863,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-lists.png",
+      "presentation": {
+        "point": {
+          "x": 729.9351230425056,
+          "y": 491.4398976982097
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-lower-ring",
+      "name": "The lower spectators’ ring",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 280,
+      "y": 488,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-lower-ring.png",
+      "presentation": {
+        "point": {
+          "x": 702.8836689038031,
+          "y": 491.81074168797954
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-saxon-gallery",
+      "name": "The Saxon company’s gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1100,
+      "y": 953,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-saxon-gallery.png",
+      "presentation": {
+        "point": {
+          "x": 810.2572706935123,
+          "y": 492.1508951406649
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-gallery-steps",
+      "name": "The gallery steps",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1055,
+      "y": 873,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 746.6331096196868,
+          "y": 492.2966751918158
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-challenger-platform",
+      "name": "The challengers’ platform",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 500,
+      "y": 178,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-challenger-platform.png",
+      "presentation": {
+        "point": {
+          "x": 729.9351230425056,
+          "y": 684.2506393861893
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-lists-centre",
+      "name": "The course between the gates",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 500,
+      "y": 648,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-lists-centre.png",
+      "presentation": {
+        "point": {
+          "x": 729.9351230425056,
+          "y": 491.51918158567787
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-prince-gallery",
+      "name": "The prince’s gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 785,
+      "y": 673,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-prince-gallery.png",
+      "presentation": {
+        "point": {
+          "x": 729.8881431767338,
+          "y": 492.16112531969316
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-prince-gallery-steps",
+      "name": "Steps to the prince’s seat",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 710,
+      "y": 713,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-prince-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 729.847874720358,
+          "y": 491.5882352941177
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-alicia-gallery",
+      "name": "Alicia’s gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 790,
+      "y": 863,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-alicia-gallery.png",
+      "presentation": {
+        "point": {
+          "x": 729.9574944071587,
+          "y": 491.4398976982097
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-victor-pavilion",
+      "name": "The victor’s pavilion",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1130,
+      "y": 623,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-victor-pavilion.png",
+      "presentation": {
+        "point": {
+          "x": 852.6733780760626,
+          "y": 491.87723785166247
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-victor-pavilion-entrance",
+      "name": "The pavilion entrance",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1130,
+      "y": 543,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-victor-pavilion-entrance.png",
+      "presentation": {
+        "point": {
+          "x": 852.6733780760626,
+          "y": 492.0230179028133
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-queen-gallery",
+      "name": "The Queen’s gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 230,
+      "y": 673,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-queen-gallery.png",
+      "presentation": {
+        "point": {
+          "x": 633.1901565995526,
+          "y": 492.16112531969316
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-queen-gallery-steps",
+      "name": "The Queen’s steps",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 300,
+      "y": 638,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-queen-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 730.1610738255033,
+          "y": 491.6624040920717
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-archery-ground",
+      "name": "The archery gathering",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1125,
+      "y": 223,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-archery-ground.png",
+      "presentation": {
+        "point": {
+          "x": 845.6040268456377,
+          "y": 619.6061381074169
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-archery-south-avenue",
+      "name": "The southern shooting avenue",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1125,
+      "y": 93,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-archery-south-avenue.png",
+      "presentation": {
+        "point": {
+          "x": 845.6040268456377,
+          "y": 804.468030690537
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-upper-room",
+      "name": "The upper room",
+      "mapLayerId": "ivanhoe-map-ashby-house-upper",
+      "x": 655,
+      "y": 550,
+      "levelLabel": "Upper apartment",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-upper-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.4454177897575,
+          "y": 492.2169811320755
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-sickroom",
+      "name": "The patient’s room",
+      "mapLayerId": "ivanhoe-map-ashby-house-sickroom",
+      "x": 760,
+      "y": 500,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-sickroom.png",
+      "presentation": {
+        "point": {
+          "x": 729.9595687331537,
+          "y": 491.92452830188677
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-hall",
+      "name": "The lower entrance hall",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 400,
+      "y": 660,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.7681940700808,
+          "y": 491.66037735849056
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-wicket",
+      "name": "Outside the wicket",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 735,
+      "y": 130,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-wicket.png",
+      "presentation": {
+        "point": {
+          "x": 730.5990566037735,
+          "y": 752.1603773584907
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-sickroom-gateway",
+      "name": "A room in the lodging",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 1360,
+      "y": 680,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-sickroom-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 976.611859838275,
+          "y": 492.37735849056605
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-side-room",
+      "name": "The side room",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 940,
+      "y": 660,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-side-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.5552560646902,
+          "y": 491.66037735849056
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-court",
+      "name": "The lodging court",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 640,
+      "y": 320,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-court.png",
+      "presentation": {
+        "point": {
+          "x": 730.2291105121294,
+          "y": 492.4716981132076
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-hall",
+      "name": "The feast hall",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "x": 610,
+      "y": 539,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.54,
+          "y": 491.4871306005721
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-inner-hall",
+      "name": "The inner hall",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "x": 1180,
+      "y": 739,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-inner-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.52,
+          "y": 491.5510009532889
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-private-apartment",
+      "name": "The interior apartment",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "x": 1180,
+      "y": 349,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-private-apartment.png",
+      "presentation": {
+        "point": {
+          "x": 729.52,
+          "y": 492.27645376549094
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-inner-threshold",
+      "name": "Inside the closed door",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 610,
+      "y": 531,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-inner-threshold.png",
+      "presentation": {
+        "point": {
+          "x": 729.7365728900255,
+          "y": 491.8936381709741
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-hut-gateway",
+      "name": "The hut building",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 555,
+      "y": 646,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-hut-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.9488491048593,
+          "y": 492.2246520874752
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-clearing",
+      "name": "The clearing",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 650,
+      "y": 341,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-clearing.png",
+      "presentation": {
+        "point": {
+          "x": 730.309462915601,
+          "y": 491.65109343936376
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-door",
+      "name": "The hut door",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 610,
+      "y": 506,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-door.png",
+      "presentation": {
+        "point": {
+          "x": 729.7365728900255,
+          "y": 492.25646123260435
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-fountain",
+      "name": "The fountain",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 990,
+      "y": 601,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-fountain.png",
+      "presentation": {
+        "point": {
+          "x": 730.1790281329922,
+          "y": 491.87773359840946
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-hut",
+      "name": "Inside the hut",
+      "mapLayerId": "ivanhoe-map-copmanhurst-hut",
+      "x": 790,
+      "y": 361,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-hut.png",
+      "presentation": {
+        "point": {
+          "x": 730.314578005115,
+          "y": 492.36083499005963
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-parapet-gateway",
+      "name": "The upper postern defence",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 405,
+      "y": 626,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-parapet-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.753164556962,
+          "y": 491.77034358047024
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-room-gateway",
+      "name": "The castle rooms",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 675,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-room-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.5886075949367,
+          "y": 492.05244122965644
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-crossing",
+      "name": "The postern moat crossing",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 330,
+      "y": 586,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-crossing.png",
+      "presentation": {
+        "point": {
+          "x": 729.6877637130801,
+          "y": 492.33453887884264
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-approach",
+      "name": "The castle approach",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 660,
+      "y": 96,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-approach.png",
+      "presentation": {
+        "point": {
+          "x": 730.3755274261604,
+          "y": 800.245931283906
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-siege-oak",
+      "name": "The besiegers’ oak",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1260,
+      "y": 906,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-siege-oak.png",
+      "presentation": {
+        "point": {
+          "x": 921.8987341772151,
+          "y": 465.8209764918626
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-barbican",
+      "name": "The barbican gate",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 660,
+      "y": 231,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-barbican.png",
+      "presentation": {
+        "point": {
+          "x": 730.3755274261604,
+          "y": 609.3417721518988
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-outwork",
+      "name": "The postern outwork",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 195,
+      "y": 586,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-outwork.png",
+      "presentation": {
+        "point": {
+          "x": 582.7700421940929,
+          "y": 492.33453887884264
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-main-postern",
+      "name": "The main-wall postern",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 405,
+      "y": 586,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-main-postern.png",
+      "presentation": {
+        "point": {
+          "x": 729.753164556962,
+          "y": 492.33453887884264
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-court",
+      "name": "The inner court",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 660,
+      "y": 446,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-court.png",
+      "presentation": {
+        "point": {
+          "x": 730.3755274261604,
+          "y": 492.3092224231465
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-drawbridge-outwork",
+      "name": "The main drawbridge approach",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 660,
+      "y": 286,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-drawbridge-outwork.png",
+      "presentation": {
+        "point": {
+          "x": 730.3755274261604,
+          "y": 530.5660036166366
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-burning-turret",
+      "name": "The eastern-angle turret",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 750,
+      "y": 716,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-burning-turret.png",
+      "presentation": {
+        "point": {
+          "x": 729.6540084388187,
+          "y": 492.5009041591319
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-forest-approach",
+      "name": "Forest near Torquilstone",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 190,
+      "y": 206,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-forest-approach.png",
+      "presentation": {
+        "point": {
+          "x": 575.6990154711673,
+          "y": 643.6943942133814
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-defences",
+      "name": "The divided defences",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 800,
+      "y": 446,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-defences.png",
+      "presentation": {
+        "point": {
+          "x": 730.3642756680731,
+          "y": 492.3092224231465
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-eastern-wall",
+      "name": "The lower eastern wall",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 930,
+      "y": 546,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-eastern-wall.png",
+      "presentation": {
+        "point": {
+          "x": 730.210970464135,
+          "y": 491.89873417721526
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-western-wall",
+      "name": "The western wall",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 405,
+      "y": 486,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-western-wall.png",
+      "presentation": {
+        "point": {
+          "x": 729.753164556962,
+          "y": 491.74502712477386
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-ruins",
+      "name": "The castle site",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 675,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-ruins.png",
+      "presentation": {
+        "point": {
+          "x": 729.5886075949367,
+          "y": 492.05244122965644
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-harthill-trysting-tree",
+      "name": "The Harthill trysting tree",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1260,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-harthill-trysting-tree.png",
+      "presentation": {
+        "point": {
+          "x": 921.8987341772151,
+          "y": 492.05244122965644
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-harthill-tree-edge",
+      "name": "Edge of the gathering",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1340,
+      "y": 556,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-harthill-tree-edge.png",
+      "presentation": {
+        "point": {
+          "x": 1036.0351617440226,
+          "y": 491.75768535262216
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-harthill-funeral-path",
+      "name": "The path past Harthill",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1260,
+      "y": 136,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-harthill-funeral-path.png",
+      "presentation": {
+        "point": {
+          "x": 921.8987341772151,
+          "y": 742.6817359855334
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-harthill-private-tree",
+      "name": "A tree apart",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1260,
+      "y": 316,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-harthill-private-tree.png",
+      "presentation": {
+        "point": {
+          "x": 921.8987341772151,
+          "y": 492.1428571428571
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-dungeon-gateway",
+      "name": "Down to the deep dungeon",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1250,
+      "y": 196,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-dungeon-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 938.1304058549567,
+          "y": 657.8642447418738
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-turret-gateway",
+      "name": "Up to the isolated turret",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1250,
+      "y": 111,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-turret-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 794.1304058549567,
+          "y": 779.0506692160614
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-reception-room",
+      "name": "The reception chamber",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1240,
+      "y": 901,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-reception-room.png",
+      "presentation": {
+        "point": {
+          "x": 779.9853626081172,
+          "y": 386.0239005736138
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-old-hall",
+      "name": "The old hall",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 260,
+      "y": 831,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-old-hall.png",
+      "presentation": {
+        "point": {
+          "x": 674.7711244178311,
+          "y": 485.0009560229445
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-new-hall",
+      "name": "The new hall",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 750,
+      "y": 846,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-new-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.878243512974,
+          "y": 463.7915869980879
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-rowena-room",
+      "name": "Rowena’s chamber",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 330,
+      "y": 636,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-rowena-room.png",
+      "presentation": {
+        "point": {
+          "x": 729.7864271457086,
+          "y": 491.72275334608025
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-low-arched-passage",
+      "name": "The low arched passage",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 750,
+      "y": 646,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-low-arched-passage.png",
+      "presentation": {
+        "point": {
+          "x": 729.878243512974,
+          "y": 492.583173996176
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-ivanhoe-room",
+      "name": "The wounded knight’s room",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1200,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-ivanhoe-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.4051896207584,
+          "y": 492.14149139579354
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-ivanhoe-window",
+      "name": "The raised window",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1080,
+      "y": 666,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-ivanhoe-window.png",
+      "presentation": {
+        "point": {
+          "x": 730.6646706586826,
+          "y": 492.3040152963671
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-urfried-room",
+      "name": "The spinner’s private room",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 290,
+      "y": 356,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-urfried-room.png",
+      "presentation": {
+        "point": {
+          "x": 718.20625415835,
+          "y": 491.6309751434035
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-passage",
+      "name": "The postern passage",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 750,
+      "y": 406,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-passage.png",
+      "presentation": {
+        "point": {
+          "x": 729.878243512974,
+          "y": 491.9330783938815
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-armoury",
+      "name": "The armoury",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1330,
+      "y": 386,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-armoury.png",
+      "presentation": {
+        "point": {
+          "x": 907.2907518296738,
+          "y": 492.2122370936902
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-armoury-balcony",
+      "name": "The armoury balcony",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1250,
+      "y": 481,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-armoury-balcony.png",
+      "presentation": {
+        "point": {
+          "x": 794.1304058549567,
+          "y": 491.8862332695984
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-frontdeboeuf-room",
+      "name": "The Baron’s chamber",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 350,
+      "y": 146,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-frontdeboeuf-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.0765136393879,
+          "y": 728.5621414913958
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-vault",
+      "name": "The vaulted entrance",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 750,
+      "y": 146,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-vault.png",
+      "presentation": {
+        "point": {
+          "x": 729.878243512974,
+          "y": 728.5621414913958
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-parapet",
+      "name": "The parapet above the postern",
+      "mapLayerId": "ivanhoe-map-torquilstone-postern-defence",
+      "x": 750,
+      "y": 592,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-parapet.png",
+      "presentation": {
+        "point": {
+          "x": 729.4304635761589,
+          "y": 491.56429942418424
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-dungeon",
+      "name": "The dungeon",
+      "mapLayerId": "ivanhoe-map-torquilstone-dungeon",
+      "x": 720,
+      "y": 507,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-dungeon.png",
+      "presentation": {
+        "point": {
+          "x": 730.4531886024423,
+          "y": 491.9775070290535
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-turret-cell",
+      "name": "The turret chamber",
+      "mapLayerId": "ivanhoe-map-torquilstone-turret",
+      "x": 700,
+      "y": 537,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-turret-cell.png",
+      "presentation": {
+        "point": {
+          "x": 730.1628222523746,
+          "y": 491.5501405810684
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-bartisan",
+      "name": "The bartisan",
+      "mapLayerId": "ivanhoe-map-torquilstone-turret",
+      "x": 210,
+      "y": 537,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-bartisan.png",
+      "presentation": {
+        "point": {
+          "x": 604.0488466757123,
+          "y": 491.5501405810684
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-interior-gateway",
+      "name": "The Preceptory rooms",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 700,
+      "y": 636,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-interior-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.943741209564,
+          "y": 491.6292947558769
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-lists-gateway",
+      "name": "The exercise enclosure",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 1120,
+      "y": 856,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-lists-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.9099859353023,
+          "y": 492.52622061482816
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-gate",
+      "name": "The Preceptory gate",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 540,
+      "y": 221,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-gate.png",
+      "presentation": {
+        "point": {
+          "x": 729.6708860759494,
+          "y": 623.4828209764919
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-garden",
+      "name": "The garden",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 340,
+      "y": 571,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-garden.png",
+      "presentation": {
+        "point": {
+          "x": 729.8298171589311,
+          "y": 492.5461121157323
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe",
+      "name": "The Preceptory",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 730,
+      "y": 406,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe.png",
+      "presentation": {
+        "point": {
+          "x": 730.3699015471168,
+          "y": 491.8734177215191
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-nearby-road",
+      "name": "Road near the gate",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 540,
+      "y": 106,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-nearby-road.png",
+      "presentation": {
+        "point": {
+          "x": 729.6708860759494,
+          "y": 786.1048824593129
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-procession-route",
+      "name": "The ceremonial approach",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 1010,
+      "y": 456,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-procession-route.png",
+      "presentation": {
+        "point": {
+          "x": 730.3473980309423,
+          "y": 492.1681735985534
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-master-seat",
+      "name": "The Master’s high seat",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 780,
+      "y": 855,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-master-seat.png",
+      "presentation": {
+        "point": {
+          "x": 730.030303030303,
+          "y": 491.9471365638767
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-preceptor-seats",
+      "name": "The lower preceptor seats",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 620,
+      "y": 905,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-preceptor-seats.png",
+      "presentation": {
+        "point": {
+          "x": 729.7676767676768,
+          "y": 492.2422907488987
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-knight-bench-corner",
+      "name": "By the knights’ benches",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 900,
+      "y": 665,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-knight-bench-corner.png",
+      "presentation": {
+        "point": {
+          "x": 729.7272727272727,
+          "y": 491.6255506607929
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-accused-place",
+      "name": "Before the tribunal",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 780,
+      "y": 475,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-accused-place.png",
+      "presentation": {
+        "point": {
+          "x": 730.030303030303,
+          "y": 492.3039647577094
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-public-floor",
+      "name": "The lower public hall",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 450,
+      "y": 235,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-public-floor.png",
+      "presentation": {
+        "point": {
+          "x": 730.3636363636364,
+          "y": 602.6872246696034
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-witness-place",
+      "name": "Before the dais",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 780,
+      "y": 385,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-witness-place.png",
+      "presentation": {
+        "point": {
+          "x": 730.030303030303,
+          "y": 491.5726872246696
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-trial-approach",
+      "name": "The stair and gallery",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 110,
+      "y": 535,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-trial-approach.png",
+      "presentation": {
+        "point": {
+          "x": 462.55555555555554,
+          "y": 492.45814977973566
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-great-hall",
+      "name": "The great hall",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 780,
+      "y": 235,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-great-hall.png",
+      "presentation": {
+        "point": {
+          "x": 730.030303030303,
+          "y": 602.6872246696034
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-rebecca-cell",
+      "name": "Rebecca’s prison chamber",
+      "mapLayerId": "ivanhoe-map-templestowe-rooms",
+      "x": 444,
+      "y": 620,
+      "levelLabel": "Prison-side rooms",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-rebecca-cell.png",
+      "presentation": {
+        "point": {
+          "x": 729.9428571428572,
+          "y": 492.30841121495337
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-adjacent-chamber",
+      "name": "The adjoining chamber",
+      "mapLayerId": "ivanhoe-map-templestowe-rooms",
+      "x": 1160,
+      "y": 620,
+      "levelLabel": "Prison-side rooms",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-adjacent-chamber.png",
+      "presentation": {
+        "point": {
+          "x": 730.5714285714284,
+          "y": 492.30841121495337
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-east-tribunal",
+      "name": "The eastern tribunal",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 1230,
+      "y": 625,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-east-tribunal.png",
+      "presentation": {
+        "point": {
+          "x": 948.1666666666667,
+          "y": 492.1971830985915
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-east-station",
+      "name": "The upper end of the lists",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 1060,
+      "y": 515,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-east-station.png",
+      "presentation": {
+        "point": {
+          "x": 729.7940379403794,
+          "y": 491.7464788732394
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-lists",
+      "name": "The judicial lists",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 700,
+      "y": 515,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-lists.png",
+      "presentation": {
+        "point": {
+          "x": 729.769647696477,
+          "y": 491.7464788732394
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-spectator-area",
+      "name": "The spectators’ places",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 650,
+      "y": 945,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-spectator-area.png",
+      "presentation": {
+        "point": {
+          "x": 730.0718157181572,
+          "y": 347.69014084507035
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-spectator-edge",
+      "name": "Apart from the countrymen",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 1250,
+      "y": 945,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-spectator-edge.png",
+      "presentation": {
+        "point": {
+          "x": 831.4457994579946,
+          "y": 347.69014084507035
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-west-lists",
+      "name": "The western end",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 250,
+      "y": 465,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-west-lists.png",
+      "presentation": {
+        "point": {
+          "x": 660.489159891599,
+          "y": 492.4507042253522
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-saint-botolph-priory",
+      "name": "Saint Botolph’s Priory",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "x": 530,
+      "y": 666,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-saint-botolph-priory.png",
+      "presentation": {
+        "point": {
+          "x": 729.6132596685082,
+          "y": 492.0331491712707
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-saint-botolph-gate",
+      "name": "The Priory gate",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "x": 590,
+      "y": 286,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-saint-botolph-gate.png",
+      "presentation": {
+        "point": {
+          "x": 730.4751381215469,
+          "y": 530.4917127071824
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-saint-botolph-refectory",
+      "name": "The refectory",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "x": 1130,
+      "y": 631,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-saint-botolph-refectory.png",
+      "presentation": {
+        "point": {
+          "x": 730.232044198895,
+          "y": 491.5359116022099
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-keep-gateway",
+      "name": "The southern keep entrance",
+      "mapLayerId": "ivanhoe-map-coningsburgh",
+      "x": 945,
+      "y": 536,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-keep-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.6642806012885,
+          "y": 492.1740674955595
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-approach",
+      "name": "The Don-side ascent",
+      "mapLayerId": "ivanhoe-map-coningsburgh",
+      "x": 660,
+      "y": 391,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-approach.png",
+      "presentation": {
+        "point": {
+          "x": 730.5433070866142,
+          "y": 492.18294849023096
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-court",
+      "name": "The castle court",
+      "mapLayerId": "ivanhoe-map-coningsburgh",
+      "x": 650,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-court.png",
+      "presentation": {
+        "point": {
+          "x": 730.3987115246957,
+          "y": 492.20426287744226
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-guests-gateway",
+      "name": "The separate guests’ room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "x": 1200,
+      "y": 121,
+      "levelLabel": "Third storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-guests-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 972.6386554621849,
+          "y": 763.8855585831063
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-third-storey",
+      "name": "The round gathering room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "x": 600,
+      "y": 561,
+      "levelLabel": "Third storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-third-storey.png",
+      "presentation": {
+        "point": {
+          "x": 729.3193277310925,
+          "y": 491.6512261580382
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-chapel",
+      "name": "The buttress chapel",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "x": 1180,
+      "y": 721,
+      "levelLabel": "Third storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-chapel.png",
+      "presentation": {
+        "point": {
+          "x": 800.3613445378151,
+          "y": 492.3841961852861
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-oratory",
+      "name": "Edith’s oratory",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "x": 1100,
+      "y": 376,
+      "levelLabel": "Third storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-oratory.png",
+      "presentation": {
+        "point": {
+          "x": 729.2521008403362,
+          "y": 492.2724795640329
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-upper-room",
+      "name": "The women’s room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-upper",
+      "x": 700,
+      "y": 617,
+      "levelLabel": "Fourth storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-upper-room.png",
+      "presentation": {
+        "point": {
+          "x": 729.84375,
+          "y": 492.25156669650846
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-guest-room",
+      "name": "The guests’ room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-guests",
+      "x": 725,
+      "y": 512,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-guest-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.0694444444443,
+          "y": 492.07326007326003
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-glade",
+      "name": "The stone-circle glade",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 170,
+      "y": 890,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-glade.png",
+      "presentation": {
+        "point": {
+          "x": 404.4040404040404,
+          "y": 492.4537444933921
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-path",
+      "name": "The path from the glade",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 180,
+      "y": 745,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-path.png",
+      "presentation": {
+        "point": {
+          "x": 561.5454545454545,
+          "y": 492.4977973568282
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-road-to-sunken-cross",
+      "name": "Road toward Sunken Cross",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 400,
+      "y": 750,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-road-to-sunken-cross.png",
+      "presentation": {
+        "point": {
+          "x": 729.6565656565656,
+          "y": 492.4273127753304
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-sunken-cross",
+      "name": "Sunken Cross",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 500,
+      "y": 775,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-sunken-cross.png",
+      "presentation": {
+        "point": {
+          "x": 730.070707070707,
+          "y": 492.0748898678414
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-woodland-brooks",
+      "name": "The marshy crossings",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 665,
+      "y": 775,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-woodland-brooks.png",
+      "presentation": {
+        "point": {
+          "x": 730.4040404040404,
+          "y": 492.0748898678414
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-approach",
+      "name": "Rotherwood in sight",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 800,
+      "y": 770,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-approach.png",
+      "presentation": {
+        "point": {
+          "x": 730.3131313131312,
+          "y": 492.1453744493391
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-escape-paths",
+      "name": "Paths from the postern",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 920,
+      "y": 685,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-escape-paths.png",
+      "presentation": {
+        "point": {
+          "x": 730.0101010101012,
+          "y": 492.3436123348017
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-front-de-boeuf-boundary-oak",
+      "name": "The boundary oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1100,
+      "y": 805,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-front-de-boeuf-boundary-oak.png",
+      "presentation": {
+        "point": {
+          "x": 746.5555555555554,
+          "y": 491.6519823788547
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-sheffield-overlook",
+      "name": "The view toward Sheffield",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1260,
+      "y": 955,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-sheffield-overlook.png",
+      "presentation": {
+        "point": {
+          "x": 972.8181818181818,
+          "y": 442.5374449339207
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-st-withold-convent",
+      "name": "Saint Withold’s",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 130,
+      "y": 485,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-st-withold-convent.png",
+      "presentation": {
+        "point": {
+          "x": 490.83838383838383,
+          "y": 492.1629955947137
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-st-withold-gate",
+      "name": "The convent gate",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 130,
+      "y": 445,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-st-withold-gate.png",
+      "presentation": {
+        "point": {
+          "x": 490.83838383838383,
+          "y": 491.7268722466962
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-road-from-st-withold",
+      "name": "Road from Saint Withold’s",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 180,
+      "y": 435,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-road-from-st-withold.png",
+      "presentation": {
+        "point": {
+          "x": 561.5454545454545,
+          "y": 491.86784140969166
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-woodland-noon-fountain",
+      "name": "The roadside fountain",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 300,
+      "y": 410,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-woodland-noon-fountain.png",
+      "presentation": {
+        "point": {
+          "x": 730.2424242424242,
+          "y": 492.22026431718064
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-edge-road",
+      "name": "The forest-edge road",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 450,
+      "y": 335,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-edge-road.png",
+      "presentation": {
+        "point": {
+          "x": 730.3636363636364,
+          "y": 492.27753303964755
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-litter-halt",
+      "name": "The halted litter",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 530,
+      "y": 295,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-litter-halt.png",
+      "presentation": {
+        "point": {
+          "x": 729.4949494949495,
+          "y": 517.8414096916299
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-ambush-brook",
+      "name": "The brook in the wood",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 650,
+      "y": 270,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-ambush-brook.png",
+      "presentation": {
+        "point": {
+          "x": 730.1919191919192,
+          "y": 554.1938325991191
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-escape-thicket",
+      "name": "The fugitives’ thicket",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 400,
+      "y": 185,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-escape-thicket.png",
+      "presentation": {
+        "point": {
+          "x": 729.6565656565656,
+          "y": 674.3920704845816
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-rescue-path",
+      "name": "The rescue party’s path",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 315,
+      "y": 185,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-rescue-path.png",
+      "presentation": {
+        "point": {
+          "x": 730.4545454545455,
+          "y": 674.3920704845816
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-rendezvous-oak",
+      "name": "The first rendezvous oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 180,
+      "y": 195,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-rendezvous-oak.png",
+      "presentation": {
+        "point": {
+          "x": 561.5454545454545,
+          "y": 660.2511013215858
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-forest-road",
+      "name": "The road toward Coningsburgh",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 930,
+      "y": 400,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-forest-road.png",
+      "presentation": {
+        "point": {
+          "x": 730.1515151515152,
+          "y": 492.361233480176
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-ambush-glade",
+      "name": "The ambush glade",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1080,
+      "y": 325,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-ambush-glade.png",
+      "presentation": {
+        "point": {
+          "x": 730.2727272727273,
+          "y": 492.41850220264314
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-ambush-private-oak",
+      "name": "Beside the oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1100,
+      "y": 310,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-ambush-private-oak.png",
+      "presentation": {
+        "point": {
+          "x": 746.5555555555554,
+          "y": 496.6299559471365
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-forest-refreshment-oak",
+      "name": "The refreshment oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1280,
+      "y": 165,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-refreshment-oak.png",
+      "presentation": {
+        "point": {
+          "x": 1002.1010101010102,
+          "y": 701.6740088105726
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-dark-avenue",
+      "name": "The dark avenue",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "x": 1230,
+      "y": 69,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-dark-avenue.png",
+      "presentation": {
+        "point": {
+          "x": 915.5597064709805,
+          "y": 838.3870352716874
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-hazel-lane",
+      "name": "The hazel-bordered lane",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "x": 1000,
+      "y": 604,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-hazel-lane.png",
+      "presentation": {
+        "point": {
+          "x": 730.2761841227484,
+          "y": 491.5328884652049
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-outlaw-clearing",
+      "name": "The outlaws’ clearing",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "x": 440,
+      "y": 584,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-outlaw-clearing.png",
+      "presentation": {
+        "point": {
+          "x": 730.2815210140094,
+          "y": 491.8265014299334
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-heath-overlook",
+      "name": "The heath above Ashby",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "x": 1240,
+      "y": 879,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-heath-overlook.png",
+      "presentation": {
+        "point": {
+          "x": 784.7024683122081,
+          "y": 420.49571020019073
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-york-castle",
+      "name": "York Castle",
+      "mapLayerId": "ivanhoe-map-york",
+      "x": 950,
+      "y": 505,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-york-castle.png",
+      "presentation": {
+        "point": {
+          "x": 729.3920704845814,
+          "y": 492.00432900432907
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-york-court",
+      "name": "Richard’s court at York",
+      "mapLayerId": "ivanhoe-map-york",
+      "x": 260,
+      "y": 215,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-york-court.png",
+      "presentation": {
+        "point": {
+          "x": 674.6651982378855,
+          "y": 631.0216450216449
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-york-minster",
+      "name": "The Minster of York",
+      "mapLayerId": "ivanhoe-map-york",
+      "x": 750,
+      "y": 945,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-york-minster.png",
+      "presentation": {
+        "point": {
+          "x": 729.5726872246696,
+          "y": 485.9090909090908
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    }
+  ],
+  "pageErrors": []
+}

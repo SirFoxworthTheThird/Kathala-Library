@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1400" viewBox="0 0 1800 1400"><defs><pattern id="stone" width="50" height="28" patternUnits="userSpaceOnUse"><rect width="50" height="28" fill="#b8b19a"/><path d="M0 0h50v28H0Zm25 0v28" fill="none" stroke="#918975" stroke-width="2"/></pattern><g id="tree"><circle r="28" fill="#899d68"/><circle cx="-13" cy="-10" r="21" fill="#acba82"/><path d="M0 6v24m0-13-14-13m14 13L14 0" stroke="#69754e" stroke-width="3"/></g><pattern id="herbs" width="35" height="35" patternUnits="userSpaceOnUse"><rect width="35" height="35" fill="#b6bd84"/><path d="M17 27V10m0 9-8-7m8 7 8-7" stroke="#819260" stroke-width="3"/></pattern></defs><rect width="1800" height="1400" fill="#eee3cb"/><g font-family="Georgia,serif" fill="#382f25"><text x="65" y="65" font-size="35">Templestowe · fortified house, garden and tiltyard</text><text x="65" y="105" font-size="18">XXXV.17–24; XLIII.4,34–37 · local terrain and source-established connections</text><rect x="70" y="155" width="1660" height="1060" rx="22" fill="#c0c997"/>
+<path d="M1080 570q40-260 430-300M1110 610q60-270 430-295M1140 650q60-270 440-300M1170 690q80-260 440-300" fill="none" stroke="#a0ac7b" stroke-width="4"/>
+<rect x="245" y="480" width="965" height="610" fill="#c8bd9d" stroke="url(#stone)" stroke-width="24"/>
+<rect x="217" y="452" width="56" height="56" fill="url(#stone)" stroke="#7c725c" stroke-width="5"/><rect x="1182" y="452" width="56" height="56" fill="url(#stone)" stroke="#7c725c" stroke-width="5"/><rect x="217" y="1062" width="56" height="56" fill="url(#stone)" stroke="#7c725c" stroke-width="5"/><rect x="1182" y="1062" width="56" height="56" fill="url(#stone)" stroke="#7c725c" stroke-width="5"/>
+<rect x="305" y="570" width="315" height="275" fill="#aeb681" stroke="#8a8b66" stroke-width="5"/>
+<path d="M330 595h110v95H330Zm150 0h110v95H480ZM330 725h110v95H330Zm150 0h110v95H480Z" fill="url(#herbs)" stroke="#8c8761" stroke-width="3"/>
+<use href="#tree" x="370" y="630"/><use href="#tree" x="540" y="770"/>
+<text x="460" y="900" text-anchor="middle" font-size="23">Enclosed garden</text><text x="320" y="935" font-size="17">Curious herbs and imported trees</text>
+<rect x="715" y="555" width="405" height="200" fill="#aa9c7d" stroke="#7d7059" stroke-width="6"/>
+<path d="M715 555 918 505 1120 555" fill="#aaa18b" stroke="#7d7059" stroke-width="5"/>
+<text x="917" y="645" text-anchor="middle" font-size="25">Main buildings</text><text x="917" y="682" text-anchor="middle" font-size="19">Hall and rooms</text>
+<rect x="820" y="830" width="300" height="175" fill="#c0b293" stroke="#a08c67" stroke-dasharray="8 6" stroke-width="4"/>
+<text x="970" y="885" text-anchor="middle" font-size="21">Within the Preceptory</text><text x="970" y="920" text-anchor="middle" font-size="16">Unspecified internal position</text>
+<path d="M655 1090h115" stroke="#c8bd9d" stroke-width="30"/>
+<path d="M655 1130v70m115-70v70" stroke="#9a9177" stroke-width="12"/>
+<path d="M713 1095v105" stroke="#92744e" stroke-width="9" stroke-dasharray="11 7"/>
+<text x="1050" y="1190" font-size="22">Gate and drawbridge alignment</text>
+<path d="M713 1210q180-20 370-130t230-400l60-125" fill="none" stroke="#b2a17b" stroke-width="24"/>
+<text x="1260" y="770" font-size="21">Gentle ascent</text><text x="1250" y="805" font-size="18">to the levelled tiltyard</text>
+<rect x="1170" y="225" width="475" height="315" rx="25" fill="#c8ce9c" stroke="#80694b" stroke-width="11" stroke-dasharray="14 6"/>
+<text x="1410" y="350" text-anchor="middle" font-size="25">Exercise enclosure</text><text x="1410" y="390" text-anchor="middle" font-size="19">On the brow of the rise</text>
+<use href="#tree" x="150" y="345"/><use href="#tree" x="275" y="280"/><use href="#tree" x="590" y="240"/><use href="#tree" x="880" y="300"/><use href="#tree" x="1530" y="950"/><use href="#tree" x="1390" y="1120"/><use href="#tree" x="1650" y="680"/><use href="#tree" x="160" y="1040"/>
+<text x="110" y="1165" font-size="21">Fair meadows and pastures</text><path d="M65 1260H1735" stroke="#b9a57e"/><text x="65" y="1298" font-size="16">The garden is inside the fortifications; a drawbridge guards the gate. The adjoining tiltyard occupies levelled ground on a gentle rise.</text><text x="65" y="1326" font-size="16">Footprint, garden beds, plant species, paths, compass orientation and building positions are reconstructed. The bridge gap’s depth and water condition are unstated.</text><text x="65" y="1354" font-size="16">The dashed internal-position panel records an unspecified place in the house. Drawn spacing is not a measured distance or a claim that a private room has been identified.</text></g></svg>

@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "ashby-alicia-gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-victor-pavilion",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-victor-pavilion-entrance",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-queen-gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-queen-gallery-steps",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-archery-ground",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

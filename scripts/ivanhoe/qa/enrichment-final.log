@@ -1,0 +1,30 @@
+{
+  "status": "PASSED COMPILED REFERENCE/ORDER CHECKS ONLY; NOT RELEASE APPROVAL",
+  "counts": {
+    "events": 537,
+    "chapters": 58,
+    "mapLayers": 30,
+    "locationMarkers": 171,
+    "characters": 78,
+    "characterSnapshots": 1473,
+    "items": 55,
+    "itemSnapshots": 92,
+    "itemPlacements": 6,
+    "relationships": 15,
+    "relationshipSnapshots": 14,
+    "characterGoals": 14,
+    "factions": 7,
+    "factionMemberships": 30,
+    "knowledgeFacts": 38,
+    "knowledgeReveals": 43,
+    "blobs": 334,
+    "plotThreads": 5,
+    "motifs": 5,
+    "loreCategories": 2,
+    "lorePages": 12
+  },
+  "initialNames": {
+    "checked": 50,
+    "allKnownByFirstAppearance": true
+  }
+}

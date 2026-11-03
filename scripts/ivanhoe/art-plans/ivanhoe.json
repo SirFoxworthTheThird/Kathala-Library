@@ -1,0 +1,16 @@
+{
+  "id": "ivanhoe",
+  "original": "scripts/ivanhoe/art-originals/ivanhoe-v2.png",
+  "source": "XII.45–49",
+  "prompt": "Create one square1:1 original character portrait for a source-grounded reading edition of Walter Scott's Ivanhoe: Wilfred of Ivanhoe at the precise public unhelmeting after the Ashby melee, chapterXII paragraphs45–49. A well-formed young man of TWENTY-FIVE with SHORT FAIR BLOND HAIR, sun-browned features now unusually pale from a wound, one or two thin superficial streaks of dried blood on forehead and cheek. No graphic wound. Exhausted but inwardly resolute expression, looking slightly downward, no triumphant smile. Helmet has been removed; an opened mail coif rests around his neck and the top of a battered plain tournament breastplate is visible. No crown, heraldic royal lions or later disguise. Bust portrait, face centrally framed with generous room for a circular avatar, simple blurred timber tournament gallery behind him in muted daylight, no identifiable other people. His wound is in his SIDE under the breastplate, not a neck wound; do not expose or show the wound. Sunburnt fair-haired human face, controlled pallor, expressive eyes of an illustrative muted grey-blue colour. Precise eye colour, face, plate ornament and background details are illustrative choices. Mature painterly oil-and-watercolour historical bookplate, restrained pale steel, linen and warm skin tones. Do not depict a future marriage, healing, prison, rescue, royal identity, battle outcome beyond this unhelmeting, text, logo, names, watermark or white circular border. Full-bleed square.",
+  "generator": "built-in image_gen",
+  "appReviewed": false,
+  "editPrompt": "Edit this Ivanhoe portrait only to remove the late-medieval smooth full plate cuirass and shoulder plates. Replace all the large solid silver plates below his neck and on his shoulders with densely interlinked iron mail over plain off-white quilted linen padding, with a few simple worn leather fastening straps. Keep his exact young pale sun-browned face, short fair hair, exhausted downward gaze, two small non-graphic blood streaks, composition, timber tournament background and painterly texture unchanged. He has just been unhelmeted and his armour is being undone; a breastplate may be below the crop, but do not show a late-medieval sculpted plate suit. No new insignia, crown, weapons, lettering, text or border.",
+  "retainedCandidates": [
+    {
+      "path": "scripts/ivanhoe/art-originals/ivanhoe-v1.png",
+      "review": "Opened initial original: source-grounded short fair hair, young sun-browned pale face and small blood streaks, but visible sculpted full plate and shoulder pieces were unsuitable. Retained, not selected."
+    }
+  ],
+  "originalReview": "Opened edited original: short fair hair, young well-formed sun-browned face with pallor, exhausted downward gaze, two minor blood streaks, unhelmeted head and mail/linen at neck and shoulders. No later plate suit or future relationship/identity clue. Scott’s breastplate is not claimed absent; it is outside the crop while armour is being undone. Exact eyes, facial features, leather straps, mail links and tournament architecture are illustrative choices."
+}

@@ -1,0 +1,2192 @@
+{
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "scope": "Actual reader calendar opening and full-cursor counts, date presentation, non-draggable chips and opening a retrospective moment",
+  "observations": [
+    {
+      "label": "opening",
+      "eventId": "ivanhoe-source-4-p0",
+      "visible": 4,
+      "screenshot": "qa/calendar-opening.png",
+      "titles": [
+        {
+          "title": "Title, contents and opening epigraph",
+          "draggable": false
+        },
+        {
+          "title": "INTRODUCTION TO IVANHOE.",
+          "draggable": false
+        },
+        {
+          "title": "DEDICATORY EPISTLE",
+          "draggable": false
+        },
+        {
+          "title": "The Don country",
+          "draggable": false
+        }
+      ]
+    },
+    {
+      "label": "complete",
+      "eventId": "ivanhoe-source-58-p0",
+      "visible": 537,
+      "screenshot": "qa/calendar-complete.png",
+      "titles": [
+        {
+          "title": "Title, contents and opening epigraph",
+          "draggable": false
+        },
+        {
+          "title": "INTRODUCTION TO IVANHOE.",
+          "draggable": false
+        },
+        {
+          "title": "DEDICATORY EPISTLE",
+          "draggable": false
+        },
+        {
+          "title": "The Don country",
+          "draggable": false
+        },
+        {
+          "title": "The forest glade",
+          "draggable": false
+        },
+        {
+          "title": "Swine and pork",
+          "draggable": false
+        },
+        {
+          "title": "Dangerous words",
+          "draggable": false
+        },
+        {
+          "title": "Thunder in the wood",
+          "draggable": false
+        },
+        {
+          "title": "Riders on the path",
+          "draggable": false
+        },
+        {
+          "title": "The familiar churchman",
+          "draggable": false
+        },
+        {
+          "title": "A request for lodging",
+          "draggable": false
+        },
+        {
+          "title": "The raised riding rod",
+          "draggable": false
+        },
+        {
+          "title": "Directions at a price",
+          "draggable": false
+        },
+        {
+          "title": "The wrong turning",
+          "draggable": false
+        },
+        {
+          "title": "After the horses pass",
+          "draggable": false
+        },
+        {
+          "title": "A wager on the road",
+          "draggable": false
+        },
+        {
+          "title": "Confidence in the retinue",
+          "draggable": false
+        },
+        {
+          "title": "Sunken Cross",
+          "draggable": false
+        },
+        {
+          "title": "A willing guide",
+          "draggable": false
+        },
+        {
+          "title": "Through the marshes",
+          "draggable": false
+        },
+        {
+          "title": "A traveller from the Holy Land",
+          "draggable": false
+        },
+        {
+          "title": "Before Rotherwood",
+          "draggable": false
+        },
+        {
+          "title": "Cedric’s hall",
+          "draggable": false
+        },
+        {
+          "title": "A delayed supper",
+          "draggable": false
+        },
+        {
+          "title": "Wilfred’s name",
+          "draggable": false
+        },
+        {
+          "title": "A horn at the gate",
+          "draggable": false
+        },
+        {
+          "title": "The warder’s report",
+          "draggable": false
+        },
+        {
+          "title": "Preparing for the guests",
+          "draggable": false
+        },
+        {
+          "title": "Instructions for Elgitha",
+          "draggable": false
+        },
+        {
+          "title": "The disowned son",
+          "draggable": false
+        },
+        {
+          "title": "The doors open",
+          "draggable": false
+        },
+        {
+          "title": "The guests’ attire",
+          "draggable": false
+        },
+        {
+          "title": "Three steps from the dais",
+          "draggable": false
+        },
+        {
+          "title": "The servants return",
+          "draggable": false
+        },
+        {
+          "title": "The supper board",
+          "draggable": false
+        },
+        {
+          "title": "Rowena enters",
+          "draggable": false
+        },
+        {
+          "title": "A veil and an invitation",
+          "draggable": false
+        },
+        {
+          "title": "News and old directions",
+          "draggable": false
+        },
+        {
+          "title": "Another stranger",
+          "draggable": false
+        },
+        {
+          "title": "Hospitality disputed",
+          "draggable": false
+        },
+        {
+          "title": "No seat offered",
+          "draggable": false
+        },
+        {
+          "title": "A place by the fire",
+          "draggable": false
+        },
+        {
+          "title": "Languages of the chase",
+          "draggable": false
+        },
+        {
+          "title": "The Palmer’s testimony",
+          "draggable": false
+        },
+        {
+          "title": "The sixth knight",
+          "draggable": false
+        },
+        {
+          "title": "A challenge and its pledges",
+          "draggable": false
+        },
+        {
+          "title": "Safekeeping",
+          "draggable": false
+        },
+        {
+          "title": "A question in the throng",
+          "draggable": false
+        },
+        {
+          "title": "To the sleeping quarters",
+          "draggable": false
+        },
+        {
+          "title": "An invitation declined",
+          "draggable": false
+        },
+        {
+          "title": "A summons in the antechamber",
+          "draggable": false
+        },
+        {
+          "title": "Seven steps to the chamber",
+          "draggable": false
+        },
+        {
+          "title": "Questions about Ivanhoe",
+          "draggable": false
+        },
+        {
+          "title": "The sleeping cup",
+          "draggable": false
+        },
+        {
+          "title": "Edwina leads the visitor out",
+          "draggable": false
+        },
+        {
+          "title": "The southern cells",
+          "draggable": false
+        },
+        {
+          "title": "A narrow lodging",
+          "draggable": false
+        },
+        {
+          "title": "First light",
+          "draggable": false
+        },
+        {
+          "title": "A troubled sleeper",
+          "draggable": false
+        },
+        {
+          "title": "The overheard order",
+          "draggable": false
+        },
+        {
+          "title": "Gurth awakened",
+          "draggable": false
+        },
+        {
+          "title": "A private word",
+          "draggable": false
+        },
+        {
+          "title": "Outside the postern",
+          "draggable": false
+        },
+        {
+          "title": "Questions at the wicket",
+          "draggable": false
+        },
+        {
+          "title": "The narrow bridge",
+          "draggable": false
+        },
+        {
+          "title": "The servants turn back",
+          "draggable": false
+        },
+        {
+          "title": "The hidden paths",
+          "draggable": false
+        },
+        {
+          "title": "The decayed oak",
+          "draggable": false
+        },
+        {
+          "title": "Above Sheffield",
+          "draggable": false
+        },
+        {
+          "title": "A letter for Leicester",
+          "draggable": false
+        },
+        {
+          "title": "Separate roads",
+          "draggable": false
+        },
+        {
+          "title": "On the road to Ashby (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "The appointed morning",
+          "draggable": false
+        },
+        {
+          "title": "The field at Ashby",
+          "draggable": false
+        },
+        {
+          "title": "Order among the spectators",
+          "draggable": false
+        },
+        {
+          "title": "An insult beneath the gallery",
+          "draggable": false
+        },
+        {
+          "title": "A place beneath the gallery",
+          "draggable": false
+        },
+        {
+          "title": "The Prince arrives",
+          "draggable": false
+        },
+        {
+          "title": "The gallery command",
+          "draggable": false
+        },
+        {
+          "title": "The severed lance",
+          "draggable": false
+        },
+        {
+          "title": "Brawn and wooden sword",
+          "draggable": false
+        },
+        {
+          "title": "A handful of gold",
+          "draggable": false
+        },
+        {
+          "title": "An empty throne",
+          "draggable": false
+        },
+        {
+          "title": "The laws proclaimed",
+          "draggable": false
+        },
+        {
+          "title": "The challengers prevail",
+          "draggable": false
+        },
+        {
+          "title": "An unwilling champion",
+          "draggable": false
+        },
+        {
+          "title": "The uprooted oak",
+          "draggable": false
+        },
+        {
+          "title": "A fresh shield",
+          "draggable": false
+        },
+        {
+          "title": "The first course",
+          "draggable": false
+        },
+        {
+          "title": "The broken girths",
+          "draggable": false
+        },
+        {
+          "title": "Swords forbidden",
+          "draggable": false
+        },
+        {
+          "title": "The black bull",
+          "draggable": false
+        },
+        {
+          "title": "The loosened helmet",
+          "draggable": false
+        },
+        {
+          "title": "A courtesy declined",
+          "draggable": false
+        },
+        {
+          "title": "The day’s award",
+          "draggable": false
+        },
+        {
+          "title": "The closed visor",
+          "draggable": false
+        },
+        {
+          "title": "Conjectures at the throne",
+          "draggable": false
+        },
+        {
+          "title": "The prize horse",
+          "draggable": false
+        },
+        {
+          "title": "The coronet on the lance",
+          "draggable": false
+        },
+        {
+          "title": "Past Alicia’s gallery",
+          "draggable": false
+        },
+        {
+          "title": "Beneath Rowena’s balcony",
+          "draggable": false
+        },
+        {
+          "title": "Anxious spectators recalled (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "Rowena chosen",
+          "draggable": false
+        },
+        {
+          "title": "A slight ill judged",
+          "draggable": false
+        },
+        {
+          "title": "The prince rides to Rowena",
+          "draggable": false
+        },
+        {
+          "title": "The invitations declined",
+          "draggable": false
+        },
+        {
+          "title": "The archer detained",
+          "draggable": false
+        },
+        {
+          "title": "Evening at the lists",
+          "draggable": false
+        },
+        {
+          "title": "The private attendant",
+          "draggable": false
+        },
+        {
+          "title": "Ransom terms",
+          "draggable": false
+        },
+        {
+          "title": "An unended quarrel",
+          "draggable": false
+        },
+        {
+          "title": "Gurth’s reward",
+          "draggable": false
+        },
+        {
+          "title": "Money for Isaac",
+          "draggable": false
+        },
+        {
+          "title": "A father’s losses",
+          "draggable": false
+        },
+        {
+          "title": "The veiled daughter",
+          "draggable": false
+        },
+        {
+          "title": "Eighty zecchins",
+          "draggable": false
+        },
+        {
+          "title": "The acquittance",
+          "draggable": false
+        },
+        {
+          "title": "Isaac’s satisfaction",
+          "draggable": false
+        },
+        {
+          "title": "An empty place",
+          "draggable": false
+        },
+        {
+          "title": "A summons below",
+          "draggable": false
+        },
+        {
+          "title": "Rebecca’s purse",
+          "draggable": false
+        },
+        {
+          "title": "Reuben lights the way out",
+          "draggable": false
+        },
+        {
+          "title": "A hope of freedom",
+          "draggable": false
+        },
+        {
+          "title": "The dark lane",
+          "draggable": false
+        },
+        {
+          "title": "Four from the banks",
+          "draggable": false
+        },
+        {
+          "title": "The masked company",
+          "draggable": false
+        },
+        {
+          "title": "His master’s gold",
+          "draggable": false
+        },
+        {
+          "title": "The embroidered purse",
+          "draggable": false
+        },
+        {
+          "title": "A snatched staff",
+          "draggable": false
+        },
+        {
+          "title": "The Miller’s match",
+          "draggable": false
+        },
+        {
+          "title": "Release on terms",
+          "draggable": false
+        },
+        {
+          "title": "Across the heath",
+          "draggable": false
+        },
+        {
+          "title": "The evening’s report",
+          "draggable": false
+        },
+        {
+          "title": "Across the tent opening",
+          "draggable": false
+        },
+        {
+          "title": "The second morning",
+          "draggable": false
+        },
+        {
+          "title": "The chosen sides",
+          "draggable": false
+        },
+        {
+          "title": "The western throne",
+          "draggable": false
+        },
+        {
+          "title": "The marshalled ranks",
+          "draggable": false
+        },
+        {
+          "title": "The general onset",
+          "draggable": false
+        },
+        {
+          "title": "Three against one",
+          "draggable": false
+        },
+        {
+          "title": "The Black Sluggard",
+          "draggable": false
+        },
+        {
+          "title": "Desdichado to the rescue",
+          "draggable": false
+        },
+        {
+          "title": "The axe turned against its owner",
+          "draggable": false
+        },
+        {
+          "title": "Back to the northern end",
+          "draggable": false
+        },
+        {
+          "title": "The Templar unhorsed",
+          "draggable": false
+        },
+        {
+          "title": "The warder thrown down",
+          "draggable": false
+        },
+        {
+          "title": "The wounded removed",
+          "draggable": false
+        },
+        {
+          "title": "An absent victor",
+          "draggable": false
+        },
+        {
+          "title": "The award confirmed",
+          "draggable": false
+        },
+        {
+          "title": "Across the field",
+          "draggable": false
+        },
+        {
+          "title": "A reluctant kneeling",
+          "draggable": false
+        },
+        {
+          "title": "The helmet removed",
+          "draggable": false
+        },
+        {
+          "title": "The chaplet",
+          "draggable": false
+        },
+        {
+          "title": "At her feet",
+          "draggable": false
+        },
+        {
+          "title": "The wound discovered",
+          "draggable": false
+        },
+        {
+          "title": "An order after the fall",
+          "draggable": false
+        },
+        {
+          "title": "The fief of Ivanhoe",
+          "draggable": false
+        },
+        {
+          "title": "Removed from the field",
+          "draggable": false
+        },
+        {
+          "title": "A proposed marriage",
+          "draggable": false
+        },
+        {
+          "title": "The litter offered (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "The sealed billet",
+          "draggable": false
+        },
+        {
+          "title": "The wound bound (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "Richard’s freedom reported",
+          "draggable": false
+        },
+        {
+          "title": "The games brought forward",
+          "draggable": false
+        },
+        {
+          "title": "A name demanded",
+          "draggable": false
+        },
+        {
+          "title": "Locksley’s wager",
+          "draggable": false
+        },
+        {
+          "title": "Hubert’s first trial",
+          "draggable": false
+        },
+        {
+          "title": "Allowance for the wind",
+          "draggable": false
+        },
+        {
+          "title": "The split shaft",
+          "draggable": false
+        },
+        {
+          "title": "A willow for a mark",
+          "draggable": false
+        },
+        {
+          "title": "The bowstring changed",
+          "draggable": false
+        },
+        {
+          "title": "Money before sundown",
+          "draggable": false
+        },
+        {
+          "title": "The healer’s knowledge (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "The castle banquet",
+          "draggable": false
+        },
+        {
+          "title": "Saxon guests",
+          "draggable": false
+        },
+        {
+          "title": "The missing patient",
+          "draggable": false
+        },
+        {
+          "title": "An untasted pledge",
+          "draggable": false
+        },
+        {
+          "title": "A manor held of the crown",
+          "draggable": false
+        },
+        {
+          "title": "An onward patient (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "The courtiers’ raillery",
+          "draggable": false
+        },
+        {
+          "title": "A fragile courtesy",
+          "draggable": false
+        },
+        {
+          "title": "Richard’s health",
+          "draggable": false
+        },
+        {
+          "title": "Enough of royal courtesy",
+          "draggable": false
+        },
+        {
+          "title": "A dispersing company",
+          "draggable": false
+        },
+        {
+          "title": "The lion’s name",
+          "draggable": false
+        },
+        {
+          "title": "The scattered adherents",
+          "draggable": false
+        },
+        {
+          "title": "Green in the inner hall",
+          "draggable": false
+        },
+        {
+          "title": "A wife by force",
+          "draggable": false
+        },
+        {
+          "title": "The pretended rescue",
+          "draggable": false
+        },
+        {
+          "title": "The Templar’s part",
+          "draggable": false
+        },
+        {
+          "title": "The statesman’s tools",
+          "draggable": false
+        },
+        {
+          "title": "Called from within",
+          "draggable": false
+        },
+        {
+          "title": "The waking knight (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "Eight days of patience (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "News of the household (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "Gold and Gurth (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "North from Ashby",
+          "draggable": false
+        },
+        {
+          "title": "Rowena refuses",
+          "draggable": false
+        },
+        {
+          "title": "The halter",
+          "draggable": false
+        },
+        {
+          "title": "The sedative (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "Saint Withold’s hospitality",
+          "draggable": false
+        },
+        {
+          "title": "A howling omen",
+          "draggable": false
+        },
+        {
+          "title": "The javelin’s wound",
+          "draggable": false
+        },
+        {
+          "title": "Service renounced",
+          "draggable": false
+        },
+        {
+          "title": "A crown imagined",
+          "draggable": false
+        },
+        {
+          "title": "Unwelcome reminders",
+          "draggable": false
+        },
+        {
+          "title": "The noon fountain",
+          "draggable": false
+        },
+        {
+          "title": "The wooded country",
+          "draggable": false
+        },
+        {
+          "title": "The hurried journey (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "A stranded litter",
+          "draggable": false
+        },
+        {
+          "title": "Rebecca’s appeal",
+          "draggable": false
+        },
+        {
+          "title": "The loosened cord",
+          "draggable": false
+        },
+        {
+          "title": "The brook defile",
+          "draggable": false
+        },
+        {
+          "title": "The chiefs taken",
+          "draggable": false
+        },
+        {
+          "title": "Wamba in the thicket",
+          "draggable": false
+        },
+        {
+          "title": "A familiar voice",
+          "draggable": false
+        },
+        {
+          "title": "The horn left behind",
+          "draggable": false
+        },
+        {
+          "title": "The name in the litter (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "Waiting in cover",
+          "draggable": false
+        },
+        {
+          "title": "More hands needed",
+          "draggable": false
+        },
+        {
+          "title": "Following through the wood",
+          "draggable": false
+        },
+        {
+          "title": "The horse chooses",
+          "draggable": false
+        },
+        {
+          "title": "A voice remembered",
+          "draggable": false
+        },
+        {
+          "title": "A bell in the twilight",
+          "draggable": false
+        },
+        {
+          "title": "A closed door",
+          "draggable": false
+        },
+        {
+          "title": "The door yields",
+          "draggable": false
+        },
+        {
+          "title": "Pease and a corner",
+          "draggable": false
+        },
+        {
+          "title": "The charger indoors",
+          "draggable": false
+        },
+        {
+          "title": "Faces uncovered",
+          "draggable": false
+        },
+        {
+          "title": "Names and remembered bounty",
+          "draggable": false
+        },
+        {
+          "title": "The hidden pasty",
+          "draggable": false
+        },
+        {
+          "title": "A host’s assurance",
+          "draggable": false
+        },
+        {
+          "title": "Two silver-hooped horns",
+          "draggable": false
+        },
+        {
+          "title": "A dangerous question",
+          "draggable": false
+        },
+        {
+          "title": "A different weapon",
+          "draggable": false
+        },
+        {
+          "title": "The faulty harp",
+          "draggable": false
+        },
+        {
+          "title": "The Crusader’s Return",
+          "draggable": false
+        },
+        {
+          "title": "Water in the flagon",
+          "draggable": false
+        },
+        {
+          "title": "The Barefooted Friar",
+          "draggable": false
+        },
+        {
+          "title": "The gathering oak",
+          "draggable": false
+        },
+        {
+          "title": "Exceptions to the rule",
+          "draggable": false
+        },
+        {
+          "title": "Singing beyond the door",
+          "draggable": false
+        },
+        {
+          "title": "A hurried devotion",
+          "draggable": false
+        },
+        {
+          "title": "A knock in the revels",
+          "draggable": false
+        },
+        {
+          "title": "A friend outside",
+          "draggable": false
+        },
+        {
+          "title": "The visitors admitted",
+          "draggable": false
+        },
+        {
+          "title": "From grey to green",
+          "draggable": false
+        },
+        {
+          "title": "A rescue pledged",
+          "draggable": false
+        },
+        {
+          "title": "An ally accepted",
+          "draggable": false
+        },
+        {
+          "title": "The key beneath the threshold",
+          "draggable": false
+        },
+        {
+          "title": "Called to the muster",
+          "draggable": false
+        },
+        {
+          "title": "A night of wrong turnings",
+          "draggable": false
+        },
+        {
+          "title": "Rivals among the captors",
+          "draggable": false
+        },
+        {
+          "title": "The turrets through the trees",
+          "draggable": false
+        },
+        {
+          "title": "Across the drawbridge",
+          "draggable": false
+        },
+        {
+          "title": "The prisoners divided",
+          "draggable": false
+        },
+        {
+          "title": "Below the moat",
+          "draggable": false
+        },
+        {
+          "title": "The spinning woman",
+          "draggable": false
+        },
+        {
+          "title": "Dame Urfried",
+          "draggable": false
+        },
+        {
+          "title": "A remembered conquest",
+          "draggable": false
+        },
+        {
+          "title": "No inward bar",
+          "draggable": false
+        },
+        {
+          "title": "Ornaments offered",
+          "draggable": false
+        },
+        {
+          "title": "The neglected chamber",
+          "draggable": false
+        },
+        {
+          "title": "The cross invoked",
+          "draggable": false
+        },
+        {
+          "title": "The older hall",
+          "draggable": false
+        },
+        {
+          "title": "The scales",
+          "draggable": false
+        },
+        {
+          "title": "A threat answered",
+          "draggable": false
+        },
+        {
+          "title": "A thousand pounds",
+          "draggable": false
+        },
+        {
+          "title": "A suitor uninvited",
+          "draggable": false
+        },
+        {
+          "title": "The heated bars",
+          "draggable": false
+        },
+        {
+          "title": "No freedom without marriage",
+          "draggable": false
+        },
+        {
+          "title": "The edge of the parapet",
+          "draggable": false
+        },
+        {
+          "title": "The coerced promise",
+          "draggable": false
+        },
+        {
+          "title": "A rival within the castle",
+          "draggable": false
+        },
+        {
+          "title": "An embrasure between them",
+          "draggable": false
+        },
+        {
+          "title": "Who may be freed",
+          "draggable": false
+        },
+        {
+          "title": "The patient in the litter",
+          "draggable": false
+        },
+        {
+          "title": "A father’s plea",
+          "draggable": false
+        },
+        {
+          "title": "A table brought in",
+          "draggable": false
+        },
+        {
+          "title": "The name Adelaide",
+          "draggable": false
+        },
+        {
+          "title": "Protection at a price",
+          "draggable": false
+        },
+        {
+          "title": "Payment refused",
+          "draggable": false
+        },
+        {
+          "title": "The unseen summons",
+          "draggable": false
+        },
+        {
+          "title": "The interrupted cruelty",
+          "draggable": false
+        },
+        {
+          "title": "Tears and the horn",
+          "draggable": false
+        },
+        {
+          "title": "The chroniclers’ testimony",
+          "draggable": false
+        },
+        {
+          "title": "Ambition and the summons",
+          "draggable": false
+        },
+        {
+          "title": "The prayer within",
+          "draggable": false
+        },
+        {
+          "title": "The interrupted interviews",
+          "draggable": false
+        },
+        {
+          "title": "A letter inverted",
+          "draggable": false
+        },
+        {
+          "title": "The challenge begun",
+          "draggable": false
+        },
+        {
+          "title": "Marks beneath a challenge",
+          "draggable": false
+        },
+        {
+          "title": "The force beyond the walls",
+          "draggable": false
+        },
+        {
+          "title": "The chaplain’s materials",
+          "draggable": false
+        },
+        {
+          "title": "The written threat",
+          "draggable": false
+        },
+        {
+          "title": "Under the siege oak",
+          "draggable": false
+        },
+        {
+          "title": "The knight translates",
+          "draggable": false
+        },
+        {
+          "title": "A confessor needed",
+          "draggable": false
+        },
+        {
+          "title": "Wamba takes the frock",
+          "draggable": false
+        },
+        {
+          "title": "A brother at the portal",
+          "draggable": false
+        },
+        {
+          "title": "A legion outside",
+          "draggable": false
+        },
+        {
+          "title": "A useful messenger",
+          "draggable": false
+        },
+        {
+          "title": "Prepare for death",
+          "draggable": false
+        },
+        {
+          "title": "The cowl thrown back",
+          "draggable": false
+        },
+        {
+          "title": "For his own master",
+          "draggable": false
+        },
+        {
+          "title": "The rescue beyond",
+          "draggable": false
+        },
+        {
+          "title": "Frock for cloak",
+          "draggable": false
+        },
+        {
+          "title": "An appeal in the passage",
+          "draggable": false
+        },
+        {
+          "title": "Urfried intervenes",
+          "draggable": false
+        },
+        {
+          "title": "To the sickroom",
+          "draggable": false
+        },
+        {
+          "title": "A locked conversation",
+          "draggable": false
+        },
+        {
+          "title": "Wolfganger’s daughter",
+          "draggable": false
+        },
+        {
+          "title": "Ulrica named",
+          "draggable": false
+        },
+        {
+          "title": "The father’s murder",
+          "draggable": false
+        },
+        {
+          "title": "A red flag promised",
+          "draggable": false
+        },
+        {
+          "title": "A voice outside",
+          "draggable": false
+        },
+        {
+          "title": "The Baron at the door",
+          "draggable": false
+        },
+        {
+          "title": "Toward the postern",
+          "draggable": false
+        },
+        {
+          "title": "The scroll for Malvoisin",
+          "draggable": false
+        },
+        {
+          "title": "The byzant flung back",
+          "draggable": false
+        },
+        {
+          "title": "A collar beneath the cap",
+          "draggable": false
+        },
+        {
+          "title": "The escape discovered",
+          "draggable": false
+        },
+        {
+          "title": "A jester spared",
+          "draggable": false
+        },
+        {
+          "title": "The exclusions",
+          "draggable": false
+        },
+        {
+          "title": "A challenge refused",
+          "draggable": false
+        },
+        {
+          "title": "The Prior’s messenger",
+          "draggable": false
+        },
+        {
+          "title": "The walls assigned",
+          "draggable": false
+        },
+        {
+          "title": "Each to his post",
+          "draggable": false
+        },
+        {
+          "title": "A guarded patient (flashback)",
+          "draggable": false
+        },
+        {
+          "title": "The guard relieved",
+          "draggable": false
+        },
+        {
+          "title": "A pulse and a question",
+          "draggable": false
+        },
+        {
+          "title": "Steps to the lattice",
+          "draggable": false
+        },
+        {
+          "title": "A shield at the window",
+          "draggable": false
+        },
+        {
+          "title": "The cloud of arrows",
+          "draggable": false
+        },
+        {
+          "title": "The axe at the breach",
+          "draggable": false
+        },
+        {
+          "title": "The outwork taken",
+          "draggable": false
+        },
+        {
+          "title": "The connecting bridge",
+          "draggable": false
+        },
+        {
+          "title": "The bridge destroyed",
+          "draggable": false
+        },
+        {
+          "title": "Glory and its price",
+          "draggable": false
+        },
+        {
+          "title": "A veil turned away",
+          "draggable": false
+        },
+        {
+          "title": "After the first assault",
+          "draggable": false
+        },
+        {
+          "title": "The Baron still lives",
+          "draggable": false
+        },
+        {
+          "title": "No composition",
+          "draggable": false
+        },
+        {
+          "title": "Posts rearranged",
+          "draggable": false
+        },
+        {
+          "title": "The wounded lord",
+          "draggable": false
+        },
+        {
+          "title": "A voice by the bed",
+          "draggable": false
+        },
+        {
+          "title": "Ulrica before him",
+          "draggable": false
+        },
+        {
+          "title": "The fuel below",
+          "draggable": false
+        },
+        {
+          "title": "The locked deathbed",
+          "draggable": false
+        },
+        {
+          "title": "The first plan recalled",
+          "draggable": false
+        },
+        {
+          "title": "A floating bridge",
+          "draggable": false
+        },
+        {
+          "title": "Two at the gate",
+          "draggable": false
+        },
+        {
+          "title": "The red flag seen",
+          "draggable": false
+        },
+        {
+          "title": "The fire warning",
+          "draggable": false
+        },
+        {
+          "title": "The vaulted passage",
+          "draggable": false
+        },
+        {
+          "title": "Surrender demanded",
+          "draggable": false
+        },
+        {
+          "title": "The whispered name",
+          "draggable": false
+        },
+        {
+          "title": "A surrendered sword",
+          "draggable": false
+        },
+        {
+          "title": "Smoke at the lattice",
+          "draggable": false
+        },
+        {
+          "title": "Taken from the chamber",
+          "draggable": false
+        },
+        {
+          "title": "The knight carried out",
+          "draggable": false
+        },
+        {
+          "title": "Rowena found",
+          "draggable": false
+        },
+        {
+          "title": "A clamour in the hall",
+          "draggable": false
+        },
+        {
+          "title": "A mistaken rescue",
+          "draggable": false
+        },
+        {
+          "title": "The mace and the sword",
+          "draggable": false
+        },
+        {
+          "title": "The Templar’s retreat",
+          "draggable": false
+        },
+        {
+          "title": "The song above the flames",
+          "draggable": false
+        },
+        {
+          "title": "The turret falls",
+          "draggable": false
+        },
+        {
+          "title": "The nearer Trysting-tree",
+          "draggable": false
+        },
+        {
+          "title": "An ally’s share",
+          "draggable": false
+        },
+        {
+          "title": "No share for Cedric",
+          "draggable": false
+        },
+        {
+          "title": "A freeman named",
+          "draggable": false
+        },
+        {
+          "title": "Thanks from horseback",
+          "draggable": false
+        },
+        {
+          "title": "The captive’s apology",
+          "draggable": false
+        },
+        {
+          "title": "Uneasy counsel at York",
+          "draggable": false
+        },
+        {
+          "title": "An invitation and a promise",
+          "draggable": false
+        },
+        {
+          "title": "The funeral car",
+          "draggable": false
+        },
+        {
+          "title": "De Bracy released",
+          "draggable": false
+        },
+        {
+          "title": "Three notes of the horn",
+          "draggable": false
+        },
+        {
+          "title": "Shares for the living and dead",
+          "draggable": false
+        },
+        {
+          "title": "A prisoner of the friar",
+          "draggable": false
+        },
+        {
+          "title": "The blocked cellar",
+          "draggable": false
+        },
+        {
+          "title": "A blow forestalled",
+          "draggable": false
+        },
+        {
+          "title": "The returned buffet",
+          "draggable": false
+        },
+        {
+          "title": "Another captive brought",
+          "draggable": false
+        },
+        {
+          "title": "The Prior’s complaint",
+          "draggable": false
+        },
+        {
+          "title": "A horn cannot ransom",
+          "draggable": false
+        },
+        {
+          "title": "Six hundred for Aymer",
+          "draggable": false
+        },
+        {
+          "title": "Isaac’s assessment",
+          "draggable": false
+        },
+        {
+          "title": "News of Rebecca",
+          "draggable": false
+        },
+        {
+          "title": "The survivor’s news",
+          "draggable": false
+        },
+        {
+          "title": "Money for a ransom",
+          "draggable": false
+        },
+        {
+          "title": "The Prior’s influence",
+          "draggable": false
+        },
+        {
+          "title": "A secret beneath an apple tree",
+          "draggable": false
+        },
+        {
+          "title": "An old acquaintance",
+          "draggable": false
+        },
+        {
+          "title": "Terms for intercession",
+          "draggable": false
+        },
+        {
+          "title": "A quill from the flight",
+          "draggable": false
+        },
+        {
+          "title": "The Prior’s acquittance",
+          "draggable": false
+        },
+        {
+          "title": "Latin at parting",
+          "draggable": false
+        },
+        {
+          "title": "The sealed order",
+          "draggable": false
+        },
+        {
+          "title": "Secrets retained",
+          "draggable": false
+        },
+        {
+          "title": "News spoken low",
+          "draggable": false
+        },
+        {
+          "title": "A service refused",
+          "draggable": false
+        },
+        {
+          "title": "Fitzurse undertakes the pursuit",
+          "draggable": false
+        },
+        {
+          "title": "Another watcher",
+          "draggable": false
+        },
+        {
+          "title": "Shelter with Nathan",
+          "draggable": false
+        },
+        {
+          "title": "The warning disregarded",
+          "draggable": false
+        },
+        {
+          "title": "The refuge at Saint Botolph’s",
+          "draggable": false
+        },
+        {
+          "title": "A solitary guide chosen",
+          "draggable": false
+        },
+        {
+          "title": "Malkin offered",
+          "draggable": false
+        },
+        {
+          "title": "The gilded spurs",
+          "draggable": false
+        },
+        {
+          "title": "An hour to the Preceptory",
+          "draggable": false
+        },
+        {
+          "title": "At the Preceptory gate",
+          "draggable": false
+        },
+        {
+          "title": "Down to Malkin",
+          "draggable": false
+        },
+        {
+          "title": "The squire follows",
+          "draggable": false
+        },
+        {
+          "title": "The reforming visitor",
+          "draggable": false
+        },
+        {
+          "title": "The Prior’s breakfast",
+          "draggable": false
+        },
+        {
+          "title": "Songs on the forest road",
+          "draggable": false
+        },
+        {
+          "title": "Isaac admitted",
+          "draggable": false
+        },
+        {
+          "title": "The value of the horn",
+          "draggable": false
+        },
+        {
+          "title": "Folly keeps the bugle",
+          "draggable": false
+        },
+        {
+          "title": "The sealed appeal opened",
+          "draggable": false
+        },
+        {
+          "title": "Arrows from the thicket",
+          "draggable": false
+        },
+        {
+          "title": "Charity called sorcery",
+          "draggable": false
+        },
+        {
+          "title": "The rescue call answered",
+          "draggable": false
+        },
+        {
+          "title": "The Preceptor’s position",
+          "draggable": false
+        },
+        {
+          "title": "The inquiry ordered",
+          "draggable": false
+        },
+        {
+          "title": "The blue helmet removed",
+          "draggable": false
+        },
+        {
+          "title": "Brian warned",
+          "draggable": false
+        },
+        {
+          "title": "A familiar adversary",
+          "draggable": false
+        },
+        {
+          "title": "Another attempt resolved",
+          "draggable": false
+        },
+        {
+          "title": "Witnesses procured",
+          "draggable": false
+        },
+        {
+          "title": "A question in private",
+          "draggable": false
+        },
+        {
+          "title": "Summoned from the cell",
+          "draggable": false
+        },
+        {
+          "title": "Down to the hall",
+          "draggable": false
+        },
+        {
+          "title": "The folded scrap",
+          "draggable": false
+        },
+        {
+          "title": "Banishment instead of death",
+          "draggable": false
+        },
+        {
+          "title": "The court assembled",
+          "draggable": false
+        },
+        {
+          "title": "The accusation supported",
+          "draggable": false
+        },
+        {
+          "title": "The king’s declaration",
+          "draggable": false
+        },
+        {
+          "title": "The knight questioned",
+          "draggable": false
+        },
+        {
+          "title": "The outlaw’s declaration",
+          "draggable": false
+        },
+        {
+          "title": "A patient’s testimony",
+          "draggable": false
+        },
+        {
+          "title": "The medicine box",
+          "draggable": false
+        },
+        {
+          "title": "A confession beside the king",
+          "draggable": false
+        },
+        {
+          "title": "The witness named",
+          "draggable": false
+        },
+        {
+          "title": "The Clerk’s request",
+          "draggable": false
+        },
+        {
+          "title": "An unveiled appeal",
+          "draggable": false
+        },
+        {
+          "title": "False wonders recounted",
+          "draggable": false
+        },
+        {
+          "title": "Two travellers arrive",
+          "draggable": false
+        },
+        {
+          "title": "The disobedient patient",
+          "draggable": false
+        },
+        {
+          "title": "An appeal to Brian",
+          "draggable": false
+        },
+        {
+          "title": "The warning read",
+          "draggable": false
+        },
+        {
+          "title": "An invitation to refreshment",
+          "draggable": false
+        },
+        {
+          "title": "The gage cast down",
+          "draggable": false
+        },
+        {
+          "title": "The offer refused",
+          "draggable": false
+        },
+        {
+          "title": "A revel prolonged",
+          "draggable": false
+        },
+        {
+          "title": "A champion assigned",
+          "draggable": false
+        },
+        {
+          "title": "The manufactured alarm",
+          "draggable": false
+        },
+        {
+          "title": "The glove concealed",
+          "draggable": false
+        },
+        {
+          "title": "A pardon renewed",
+          "draggable": false
+        },
+        {
+          "title": "A messenger requested",
+          "draggable": false
+        },
+        {
+          "title": "The narrator looks ahead",
+          "draggable": false
+        },
+        {
+          "title": "Higg accepts the errand",
+          "draggable": false
+        },
+        {
+          "title": "Coningsburgh in view",
+          "draggable": false
+        },
+        {
+          "title": "Two riders near the gate",
+          "draggable": false
+        },
+        {
+          "title": "The crowded court",
+          "draggable": false
+        },
+        {
+          "title": "The tower’s ascent",
+          "draggable": false
+        },
+        {
+          "title": "The guarded bier",
+          "draggable": false
+        },
+        {
+          "title": "The letter reaches Isaac",
+          "draggable": false
+        },
+        {
+          "title": "Edith in mourning",
+          "draggable": false
+        },
+        {
+          "title": "The women’s dirge",
+          "draggable": false
+        },
+        {
+          "title": "Rebecca’s appeal spoken",
+          "draggable": false
+        },
+        {
+          "title": "The king names himself",
+          "draggable": false
+        },
+        {
+          "title": "Father and son reconciled",
+          "draggable": false
+        },
+        {
+          "title": "Separate searches",
+          "draggable": false
+        },
+        {
+          "title": "Athelstane returns",
+          "draggable": false
+        },
+        {
+          "title": "The captivity explained",
+          "draggable": false
+        },
+        {
+          "title": "The fetter key",
+          "draggable": false
+        },
+        {
+          "title": "Ambition renounced",
+          "draggable": false
+        },
+        {
+          "title": "An absent bridegroom",
+          "draggable": false
+        },
+        {
+          "title": "The king also gone",
+          "draggable": false
+        },
+        {
+          "title": "Evening prayer",
+          "draggable": false
+        },
+        {
+          "title": "The unwelcome visitor",
+          "draggable": false
+        },
+        {
+          "title": "The secret warning claimed",
+          "draggable": false
+        },
+        {
+          "title": "The price of refusal",
+          "draggable": false
+        },
+        {
+          "title": "Protection demanded without barter",
+          "draggable": false
+        },
+        {
+          "title": "A farewell without surrender",
+          "draggable": false
+        },
+        {
+          "title": "Albert bars the alternatives",
+          "draggable": false
+        },
+        {
+          "title": "The decision maintained",
+          "draggable": false
+        },
+        {
+          "title": "The prepared lists",
+          "draggable": false
+        },
+        {
+          "title": "A rumour retold",
+          "draggable": false
+        },
+        {
+          "title": "Drawn aside from the rustics",
+          "draggable": false
+        },
+        {
+          "title": "The minstrel and the friar",
+          "draggable": false
+        },
+        {
+          "title": "The bell beyond the walls",
+          "draggable": false
+        },
+        {
+          "title": "The procession",
+          "draggable": false
+        },
+        {
+          "title": "Within the enclosure",
+          "draggable": false
+        },
+        {
+          "title": "The pledge laid down",
+          "draggable": false
+        },
+        {
+          "title": "Time allowed",
+          "draggable": false
+        },
+        {
+          "title": "Zamor offered",
+          "draggable": false
+        },
+        {
+          "title": "The bridle released",
+          "draggable": false
+        },
+        {
+          "title": "A champion awaited",
+          "draggable": false
+        },
+        {
+          "title": "A champion arrives",
+          "draggable": false
+        },
+        {
+          "title": "The challenger names himself",
+          "draggable": false
+        },
+        {
+          "title": "The former gage recalled",
+          "draggable": false
+        },
+        {
+          "title": "The charge",
+          "draggable": false
+        },
+        {
+          "title": "The fallen champion",
+          "draggable": false
+        },
+        {
+          "title": "The story’s closing epigraph",
+          "draggable": false
+        },
+        {
+          "title": "Free and guiltless",
+          "draggable": false
+        },
+        {
+          "title": "The king’s arrest",
+          "draggable": false
+        },
+        {
+          "title": "The Temple withdraws",
+          "draggable": false
+        },
+        {
+          "title": "Father and daughter reunited",
+          "draggable": false
+        },
+        {
+          "title": "Essex explains",
+          "draggable": false
+        },
+        {
+          "title": "Judgments afterward",
+          "draggable": false
+        },
+        {
+          "title": "The old dynastic plan",
+          "draggable": false
+        },
+        {
+          "title": "A punishment short of death",
+          "draggable": false
+        },
+        {
+          "title": "Consent at York",
+          "draggable": false
+        },
+        {
+          "title": "The Minster wedding",
+          "draggable": false
+        },
+        {
+          "title": "The veiled visitor",
+          "draggable": false
+        },
+        {
+          "title": "A grateful farewell",
+          "draggable": false
+        },
+        {
+          "title": "A departure intended",
+          "draggable": false
+        },
+        {
+          "title": "The bridal veil",
+          "draggable": false
+        },
+        {
+          "title": "The farewell casket",
+          "draggable": false
+        },
+        {
+          "title": "The casket opened",
+          "draggable": false
+        },
+        {
+          "title": "A life of service chosen",
+          "draggable": false
+        },
+        {
+          "title": "The narrator’s close",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER I.",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER II.",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER XVII.",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER XXI.",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER XXII.",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER XXIX",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER XXXI",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER XXXII",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER XXXIII",
+          "draggable": false
+        },
+        {
+          "title": "NOTE TO CHAPTER XLI.",
+          "draggable": false
+        },
+        {
+          "title": "FOOTNOTES",
+          "draggable": false
+        }
+      ]
+    },
+    {
+      "label": "recollection-open",
+      "eventId": "ivanhoe-source-31-p12",
+      "screenshot": "qa/calendar-recollection-open.png"
+    }
+  ],
+  "pageErrors": []
+}

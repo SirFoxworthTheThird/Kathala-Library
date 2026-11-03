@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <pattern id="paper" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="#e9e0cb"/><path d="M2 4h2m10 11h3M7 22h1" stroke="#b2a184" stroke-opacity=".18"/></pattern>
+    <pattern id="earth" width="38" height="38" patternUnits="userSpaceOnUse"><rect width="38" height="38" fill="#c5b594"/><path d="M4 8h2m19 3h3M12 26h2m17 6h2" stroke="#837557" stroke-opacity=".45"/></pattern>
+    <pattern id="carpet" width="32" height="32" patternUnits="userSpaceOnUse"><rect width="32" height="32" fill="#914d3e"/><path d="M16 3 29 16 16 29 3 16Z" fill="none" stroke="#c49863" stroke-width="1.5"/><circle cx="16" cy="16" r="3" fill="#c49863"/></pattern>
+    <pattern id="wood" width="80" height="30" patternUnits="userSpaceOnUse"><rect width="80" height="30" fill="#705138"/><path d="M0 6Q25 3 80 8M0 20Q45 25 80 18" stroke="#b48b5e" stroke-width="1" opacity=".5"/></pattern>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.4"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#423725" flood-opacity=".25"/></filter>
+    <style>
+      text{font-family:Georgia,'Times New Roman',serif;fill:#302b22}
+      .label{font-size:21px}.small{font-size:17px}.caption{font-size:19px;fill:#66583f}
+      .leader{fill:none;stroke:#71644e;stroke-width:1.5;stroke-dasharray:4 4}
+      .chair{fill:#79563b;stroke:#493522;stroke-width:3}
+      .bench{fill:url(#wood);stroke:#493522;stroke-width:3}
+    </style>
+  </defs>
+  <rect width="1400" height="900" fill="url(#paper)"/>
+  <rect x="34" y="34" width="1332" height="832" rx="4" fill="none" stroke="#a28d68" stroke-width="2"/>
+  <text x="700" y="96" font-size="38" text-anchor="middle" letter-spacing="2">THE HALL AT ROTHERWOOD</text>
+  <text x="700" y="129" class="caption" text-anchor="middle">An interpretive interior plan · Walter Scott, Ivanhoe, Chapter III</text>
+  <path d="M560 156h280" stroke="#9e8156" stroke-width="2"/>
+
+  <!-- Source: long low hall; relative proportions are editorial, not measurements. -->
+  <rect x="140" y="245" width="1120" height="430" fill="url(#earth)" stroke="#50402e" stroke-width="16"/>
+  <rect x="153" y="257" width="267" height="406" fill="url(#carpet)"/>
+  <!-- Wall hangings belong to the upper end only. -->
+  <path d="M160 266h244M160 653h244" stroke="#793e35" stroke-width="13"/>
+  <path d="M160 266h244M160 653h244" stroke="#d0a86e" stroke-width="2" stroke-dasharray="6 8"/>
+  <!-- The dais occupies about one quarter of the room. -->
+  <path d="M420 254v412" stroke="#4c3c28" stroke-width="6"/>
+  <path d="M432 254v412" stroke="#e8d4aa" stroke-width="4"/>
+  <text x="490" y="216" class="label" text-anchor="middle">Raised dais</text>
+  <path d="M470 223 424 251" class="leader"/>
+  <text x="450" y="706" class="small">Single step</text>
+  <path d="M446 688 426 633" class="leader"/>
+
+  <!-- Scarlet transverse high table and the lower, uncovered domestic board form a T. -->
+  <g filter="url(#shadow)">
+    <rect x="321" y="315" width="62" height="290" rx="4" fill="#a74035" stroke="#60372a" stroke-width="4"/>
+    <path d="M328 323v274M375 323v274" stroke="#d0a56b" stroke-width="2"/>
+    <rect x="383" y="431" width="725" height="59" rx="4" fill="url(#wood)" stroke="#493522" stroke-width="4"/>
+    <path d="M406 451h680M406 474h680" stroke="#c9a375" stroke-width="1.3" opacity=".5"/>
+    <rect class="bench" x="475" y="380" width="588" height="26" rx="3"/>
+    <rect class="bench" x="475" y="516" width="588" height="26" rx="3"/>
+  </g>
+  <text x="700" y="349" class="label" text-anchor="middle">Lower board and benches</text>
+  <path d="M700 356v24" class="leader"/>
+  <text x="353" y="752" class="label" text-anchor="middle">Scarlet-covered high table</text>
+  <path d="M353 730v-122" class="leader"/>
+
+  <!-- Two distinguished chairs and ivory-inlaid footstools behind the high table. -->
+  <g filter="url(#shadow)">
+    <rect x="251" y="385" width="46" height="49" rx="5" class="chair"/>
+    <path d="M254 383v-10h40v10" fill="none" stroke="#493522" stroke-width="7"/>
+    <rect x="301" y="400" width="13" height="24" fill="#d9ccb0" stroke="#6a5132" stroke-width="2"/>
+    <rect x="251" y="486" width="46" height="49" rx="5" class="chair"/>
+    <path d="M254 484v-10h40v10" fill="none" stroke="#493522" stroke-width="7"/>
+    <rect x="301" y="501" width="13" height="24" fill="#d9ccb0" stroke="#6a5132" stroke-width="2"/>
+    <rect x="267" y="318" width="30" height="35" rx="3" class="chair"/>
+    <rect x="267" y="568" width="30" height="35" rx="3" class="chair"/>
+  </g>
+  <text x="74" y="421" class="small" transform="rotate(-90 74 421)">Upper end</text>
+  <text x="260" y="187" class="label" text-anchor="middle">Principal chairs</text>
+  <path d="M260 197 270 373" class="leader"/>
+  <!-- Dashed canopy footprint is above the seats, not another wall. -->
+  <rect x="235" y="359" width="76" height="191" fill="none" stroke="#d6b377" stroke-width="3" stroke-dasharray="9 5"/>
+  <text x="700" y="720" class="small">Dashed outline: canopy above the principal chairs</text>
+
+  <!-- Hearths occupy opposite ends; neither is identified as the Palmer's in the source. -->
+  <g fill="#806c53" stroke="#4f4231" stroke-width="3">
+    <rect x="141" y="441" width="47" height="47"/>
+    <rect x="1212" y="441" width="47" height="47"/>
+  </g>
+  <g fill="#bc6a3d"><path d="M153 478q-2-16 7-25 0 11 7 15l7-8q9 12 2 18Z"/><path d="M1224 478q-2-16 7-25 0 11 7 15l7-8q9 12 2 18Z"/></g>
+  <text x="1129" y="592" class="label">Hearth</text><path d="M1177 570 1233 491" class="leader"/>
+  <text x="106" y="569" class="small">Hearth</text><path d="M143 549 164 492" class="leader"/>
+
+  <!-- Four folding doorways: their destinations are not specified by Chapter III. -->
+  <g stroke="#50402e" stroke-width="4" fill="none">
+    <path d="M187 245h74M1139 245h74M187 675h74M1139 675h74" stroke="#e9e0cb" stroke-width="20"/>
+    <path d="m187 245 20 20 17-20 17 20 20-20M1139 245l20 20 17-20 17 20 20-20m-1026 430 20-20 17 20 17-20 20 20m878 0 20-20 17 20 17-20 20 20"/>
+  </g>
+  <text x="1085" y="215" class="small">Folding doors at the four corners</text>
+  <path d="M1168 221v19" class="leader"/>
+
+  <text x="700" y="798" class="caption" text-anchor="middle">Dais, table arrangement, hearths and corner doors follow the prose.</text>
+  <text x="700" y="826" class="caption" text-anchor="middle">Room proportions and furniture spacing are reconstructed; compass orientation and door destinations are unknown.</text>
+</svg>

@@ -1,0 +1,44 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "hamet",
+    "abdalla",
+    "guarddogs"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-hamet",
+      "name": "Hamet",
+      "eventId": "ivanhoe-source-5-p51",
+      "cursorLabel": "Ch.5 · CHAPTER II — Confidence in the retinue (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-hamet.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-hamet.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-abdalla",
+      "name": "Abdalla",
+      "eventId": "ivanhoe-source-5-p51",
+      "cursorLabel": "Ch.5 · CHAPTER II — Confidence in the retinue (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-abdalla.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-abdalla.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-guarddogs",
+      "name": "The guard dogs",
+      "eventId": "ivanhoe-source-19-p23",
+      "cursorLabel": "Ch.19 · CHAPTER XVI — The door yields (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-guarddogs.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-guarddogs.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

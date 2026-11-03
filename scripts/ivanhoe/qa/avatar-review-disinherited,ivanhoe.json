@@ -1,0 +1,32 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "disinherited",
+    "ivanhoe"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-disinherited",
+      "name": "The Disinherited Knight",
+      "eventId": "ivanhoe-source-11-p40",
+      "cursorLabel": "Ch.11 · CHAPTER VIII — The uprooted oak (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-disinherited.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-disinherited.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-ivanhoe",
+      "name": "Ivanhoe",
+      "eventId": "ivanhoe-source-15-p49",
+      "cursorLabel": "Ch.15 · CHAPTER XII — The wound discovered (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-ivanhoe.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-ivanhoe.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

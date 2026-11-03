@@ -1,0 +1,870 @@
+{
+  "evidence": [
+    {
+      "source": "I.9",
+      "eventId": "ivanhoe-source-4-p8",
+      "effects": [
+        {
+          "item": "gurth-collar",
+          "holder": "gurth",
+          "note": "The soldered brass collar is worn around the swineherd’s neck."
+        },
+        {
+          "item": "gurth-horn",
+          "holder": "gurth",
+          "note": "The ram’s horn hangs at his belt."
+        },
+        {
+          "item": "gurth-whittle",
+          "holder": "gurth",
+          "note": "The Sheffield knife hangs at his belt."
+        }
+      ]
+    },
+    {
+      "source": "I.10",
+      "eventId": "ivanhoe-source-4-p8",
+      "effects": [
+        {
+          "item": "wamba-collar",
+          "holder": "wamba",
+          "note": "The silver collar identifies the jester’s servitude."
+        },
+        {
+          "item": "wooden-sword",
+          "holder": "wamba",
+          "note": "The jester carries a sword made of lath."
+        }
+      ]
+    },
+    {
+      "source": "I.29",
+      "eventId": "ivanhoe-source-4-p25",
+      "effects": [
+        {
+          "item": "gurth-staff",
+          "holder": "gurth",
+          "note": "Gurth picks up the quarterstaff before setting out."
+        }
+      ]
+    },
+    {
+      "source": "II.48",
+      "eventId": "ivanhoe-source-5-p40",
+      "effects": [
+        {
+          "item": "aymer-collar",
+          "holder": "aymer",
+          "note": "Aymer stakes his own collar in the wager. No delivery to Brian occurs."
+        }
+      ]
+    },
+    {
+      "source": "V.48",
+      "eventId": "ivanhoe-source-8-p45",
+      "effects": [
+        {
+          "item": "palmer-reliquary",
+          "holder": "palmer",
+          "note": "The Palmer takes the ivory reliquary from his bosom and offers it as a pledge."
+        }
+      ]
+    },
+    {
+      "source": "V.49",
+      "eventId": "ivanhoe-source-8-p45",
+      "effects": [
+        {
+          "item": "brian-chain",
+          "place": "rotherwood-hall",
+          "note": "Brian removes the gold chain and flings it on the board as his pledge."
+        }
+      ]
+    },
+    {
+      "source": "V.54",
+      "eventId": "ivanhoe-source-8-p50",
+      "effects": [
+        {
+          "item": "palmer-reliquary",
+          "holder": "ambrose",
+          "note": "Aymer delivers the reliquary to Brother Ambrose."
+        },
+        {
+          "item": "brian-chain",
+          "holder": "aymer",
+          "note": "Aymer puts the pledged chain in his own perfumed-leather pouch."
+        }
+      ]
+    },
+    {
+      "source": "IV.6",
+      "eventId": "ivanhoe-source-7-p0",
+      "effects": [
+        {
+          "item": "palmer-staff",
+          "holder": "palmer",
+          "note": "The entering Palmer carries the iron-shod staff with a palm branch at its upper end."
+        }
+      ]
+    },
+    {
+      "source": "VI.86",
+      "eventId": "ivanhoe-source-9-p86",
+      "effects": [
+        {
+          "item": "isaac-credit-order",
+          "holder": "palmer",
+          "note": "Isaac writes the Hebrew order on his cap and delivers it to the Pilgrim. The promised choice of horse and armour is not yet a completed delivery."
+        }
+      ]
+    },
+    {
+      "source": "VIII.40",
+      "eventId": "ivanhoe-source-11-p40",
+      "effects": [
+        {
+          "item": "loan-horse",
+          "holder": "disinherited",
+          "note": "The anonymous challenger enters the lists riding a gallant black horse and salutes the prince and ladies with his lance."
+        },
+        {
+          "item": "loan-armour",
+          "holder": "disinherited",
+          "note": "The entering challenger wears steel armour richly inlaid with gold. No intervening delivery is narrated, and the rider’s concealed name is not disclosed here."
+        }
+      ]
+    },
+    {
+      "source": "IX.18",
+      "eventId": "ivanhoe-source-12-p16",
+      "effects": [
+        {
+          "item": "prize-horse",
+          "holder": "disinherited",
+          "note": "The tournament victor receives the awarded horse, distinct from his borrowed equipment."
+        }
+      ]
+    },
+    {
+      "source": "X.21",
+      "eventId": "ivanhoe-source-13-p15",
+      "effects": [
+        {
+          "item": "gurth-coins",
+          "holder": "gurth",
+          "note": "Gurth accepts ten gold pieces as a personal reward, separately from his master’s money."
+        }
+      ]
+    },
+    {
+      "source": "X.23",
+      "eventId": "ivanhoe-source-13-p23",
+      "effects": [
+        {
+          "item": "masters-gold",
+          "holder": "gurth",
+          "note": "The master entrusts the payment bag to Gurth, who takes it beneath his cloak and departs."
+        }
+      ]
+    },
+    {
+      "source": "X.48",
+      "eventId": "ivanhoe-source-13-p48",
+      "effects": [
+        {
+          "item": "loan-horse",
+          "reported": true,
+          "reportText": "Gurth reports that the borrowed horse has been restored to Isaac’s stable. The former rider is absent, and neither the return journey nor a current person holding its reins is shown.",
+          "note": "Gurth reports that the steed has been restored to Isaac’s stable; Isaac is not thereby shown physically holding its reins."
+        },
+        {
+          "item": "loan-armour",
+          "reported": true,
+          "reportText": "Gurth discusses the price of his absent master’s supplied armour. Its current whereabouts and a handoff are not shown; the report of the horse’s return does not establish a return of the armour.",
+          "note": "Gurth asks the price of the supplied armour. Its return is not stated, unlike the horse’s return to the stable. Current whereabouts remain unestablished by this conversation."
+        }
+      ]
+    },
+    {
+      "source": "X.60",
+      "eventId": "ivanhoe-source-13-p60",
+      "effects": [
+        {
+          "item": "masters-gold",
+          "holder": "gurth",
+          "note": "Gurth counts eighty zecchins onto the table for Isaac. The remaining bag stays with him; its total original sum was not stated."
+        },
+        {
+          "item": "acquittance",
+          "holder": "gurth",
+          "note": "Isaac gives the receipt for horse and armour; Gurth folds it under his cap."
+        }
+      ]
+    },
+    {
+      "source": "X.70",
+      "eventId": "ivanhoe-source-13-p70",
+      "title": "Rebecca’s purse",
+      "effects": [
+        {
+          "item": "rebecca-purse",
+          "holder": "gurth",
+          "note": "Rebecca gives the silk purse containing a hundred gold pieces: eighty for the master and the remainder for his attendant. The amounts are allocations within the purse, not duplicated piles of coins."
+        }
+      ]
+    },
+    {
+      "source": "XI.17",
+      "eventId": "ivanhoe-source-14-p17",
+      "effects": [
+        {
+          "item": "masters-gold",
+          "holder": "outlawcaptain",
+          "note": "The masked captain takes the large leather pouch from Gurth’s breast."
+        },
+        {
+          "item": "rebecca-purse",
+          "holder": "outlawcaptain",
+          "note": "Rebecca’s silk purse is enclosed within the seized leather pouch."
+        },
+        {
+          "item": "gurth-coins",
+          "note": "The personal coins are not separately located during seizure of the larger pouch; do not assume an unreported second purse remains securely with Gurth."
+        }
+      ]
+    },
+    {
+      "source": "XI.41",
+      "eventId": "ivanhoe-source-14-p41",
+      "effects": [
+        {
+          "item": "masters-gold",
+          "holder": "outlawcaptain",
+          "note": "Gurth nearly recovers the pouch after striking the captain, but the thieves secure it again. His attempted recovery does not restore custody."
+        },
+        {
+          "item": "rebecca-purse",
+          "holder": "outlawcaptain",
+          "note": "The silk purse remains with the recaptured bag; Gurth’s dash has failed."
+        }
+      ]
+    },
+    {
+      "source": "XI.55",
+      "eventId": "ivanhoe-source-14-p55",
+      "effects": [
+        {
+          "item": "masters-gold",
+          "holder": "gurth",
+          "note": "The robbers pronounce Gurth and his purse safe and release him with guides. Restoration is implied by his intact release; no separate hand-to-hand return is described."
+        },
+        {
+          "item": "rebecca-purse",
+          "holder": "gurth",
+          "note": "The treasure is spared and accompanies the released attendant. The precise return handoff is not separately narrated."
+        },
+        {
+          "item": "gurth-coins",
+          "holder": "gurth",
+          "note": "The release preserves Gurth’s personal money as well as his master’s trust; the intervening separation of the coin lots is not shown."
+        }
+      ]
+    },
+    {
+      "source": "XII.34",
+      "eventId": "ivanhoe-source-15-p34",
+      "effects": [
+        {
+          "item": "blackknight-charger",
+          "holder": "blackknight",
+          "note": "The anonymous black-armoured rider has a strong black horse. No future ambush injury is disclosed."
+        }
+      ]
+    },
+    {
+      "source": "XII.35",
+      "eventId": "ivanhoe-source-15-p35-c721",
+      "title": "The axe turned against its owner",
+      "effects": [
+        {
+          "item": "athelstane-battleaxe",
+          "holder": "blackknight",
+          "note": "The rescuer wrenches the axe from Athelstane and strikes him with it. Its subsequent disposal is not narrated here."
+        },
+        {
+          "item": "blackknight-tourney-sword",
+          "condition": "broken",
+          "note": "The narrator discloses that the rescuer’s sword broke against Front-de-Boeuf. The fragments’ whereabouts are not stated."
+        }
+      ]
+    },
+    {
+      "source": "XII.35",
+      "eventId": "ivanhoe-source-15-p35-c1676",
+      "title": "The warder thrown down",
+      "effects": [
+        {
+          "item": "john-warder",
+          "condition": "cast down",
+          "note": "John throws down the warder to stop the encounter. The exact point where it lands is not supplied."
+        }
+      ]
+    },
+    {
+      "source": "XII.47",
+      "eventId": "ivanhoe-source-15-p47",
+      "effects": [
+        {
+          "item": "chaplet",
+          "holder": "disinherited",
+          "note": "Rowena places the chaplet on the unhelmeted victor’s head. The spoken identification of Ivanhoe is later; this award does not reveal that name early."
+        }
+      ]
+    },
+    {
+      "source": "XIII.18",
+      "eventId": "ivanhoe-source-16-p18",
+      "effects": [
+        {
+          "item": "john-billet",
+          "holder": "john",
+          "note": "An attendant puts the sealed foreign billet into Prince John’s hand."
+        }
+      ]
+    },
+    {
+      "source": "XIII.23",
+      "eventId": "ivanhoe-source-16-p23",
+      "effects": [
+        {
+          "item": "john-billet",
+          "holder": "debracy",
+          "note": "John puts the billet into Fitzurse’s and De Bracy’s hands successively; De Bracy is the last named recipient."
+        }
+      ]
+    },
+    {
+      "source": "XIII.69",
+      "eventId": "ivanhoe-source-16-p69",
+      "effects": [
+        {
+          "item": "locksley-horn",
+          "holder": "locksley",
+          "note": "John awards the bugle to the successful archer; Locksley gives the money prize to Hubert rather than joining John’s service."
+        }
+      ]
+    },
+    {
+      "source": "XIX.20",
+      "eventId": "ivanhoe-source-22-p20",
+      "effects": [
+        {
+          "item": "wamba-falchion",
+          "holder": "wamba",
+          "note": "Wamba takes a real sword from an attendant, fights, and escapes into the thicket."
+        }
+      ]
+    },
+    {
+      "source": "XIX.38",
+      "eventId": "ivanhoe-source-22-p34",
+      "effects": [
+        {
+          "item": "locksley-horn",
+          "holder": "wamba",
+          "note": "Locksley unbuckles the horn and baldric and gives them to Wamba."
+        },
+        {
+          "item": "locksley-baldric",
+          "holder": "wamba",
+          "note": "The shoulder belt is handed over with the horn; no identity with an earlier unspecified silver baldric is assumed."
+        },
+        {
+          "item": "locksley-feather",
+          "holder": "wamba",
+          "note": "Locksley removes the feather from his cap and gives it to Wamba."
+        },
+        {
+          "item": "outlaw-mask",
+          "holder": "locksley",
+          "note": "Locksley draws a vizard from his pouch before reconnoitring."
+        }
+      ]
+    },
+    {
+      "source": "XX.61",
+      "eventId": "ivanhoe-source-23-p61",
+      "effects": [
+        {
+          "item": "hut-key",
+          "place": "copmanhurst-door",
+          "note": "The hermit locks the door and deposits the key beneath the threshold, rather than carrying it away."
+        }
+      ]
+    },
+    {
+      "source": "XXV.18",
+      "eventId": "ivanhoe-source-28-p18",
+      "effects": [
+        {
+          "item": "defiance",
+          "holder": "brian",
+          "note": "After Front-de-Boeuf and De Bracy handle the demand, Brian takes and reads it."
+        }
+      ]
+    },
+    {
+      "source": "XXV.43",
+      "eventId": "ivanhoe-source-28-p42",
+      "effects": [
+        {
+          "item": "reply",
+          "note": "The folded reply passes from its writer through an unnamed squire to the unnamed yeoman waiting outside. Neither messenger is identified as an existing named attendant."
+        }
+      ]
+    },
+    {
+      "source": "XXV.48",
+      "eventId": "ivanhoe-source-28-p44",
+      "effects": [
+        {
+          "item": "reply",
+          "holder": "locksley",
+          "note": "The hermit passes the reply to Gurth, who passes it to Wamba; Wamba gives it to Locksley."
+        }
+      ]
+    },
+    {
+      "source": "XXV.50",
+      "eventId": "ivanhoe-source-28-p50",
+      "effects": [
+        {
+          "item": "reply",
+          "holder": "blackknight",
+          "note": "The Black Knight takes the reply from Locksley and translates it for the company."
+        }
+      ]
+    },
+    {
+      "source": "XXV.65",
+      "eventId": "ivanhoe-source-28-p60",
+      "effects": [
+        {
+          "item": "frock",
+          "holder": "wamba",
+          "note": "Wamba is now muffled in the borrowed clerical disguise, beyond the earlier proposal to put it on."
+        },
+        {
+          "item": "cowl",
+          "holder": "wamba",
+          "note": "The borrowed hood conceals the disguised jester."
+        }
+      ]
+    },
+    {
+      "source": "XXVI.3",
+      "eventId": "ivanhoe-source-29-p0",
+      "effects": [
+        {
+          "item": "friar-cord",
+          "holder": "wamba",
+          "note": "At the castle portal Wamba wears the hermit’s knotted cord twisted around his middle. This directly established possession precedes the proposed exchange with Cedric."
+        }
+      ]
+    },
+    {
+      "source": "XXVI.47",
+      "eventId": "ivanhoe-source-29-p47",
+      "effects": [
+        {
+          "item": "frock",
+          "holder": "cedric",
+          "note": "The exchange of dress is now accomplished; this is later than the proposed exchange."
+        },
+        {
+          "item": "cowl",
+          "holder": "cedric",
+          "note": "Cedric takes the clerical disguise."
+        },
+        {
+          "item": "friar-cord",
+          "holder": "cedric",
+          "note": "The cord is included in the completed exchange of dress."
+        },
+        {
+          "item": "cedric-cloak",
+          "holder": "wamba",
+          "note": "Wamba takes Cedric’s cloak in exchange for the friar’s clothes."
+        },
+        {
+          "item": "cedric-girdle",
+          "holder": "wamba",
+          "note": "Wamba takes Cedric’s girdle as part of the exchange."
+        }
+      ]
+    },
+    {
+      "source": "XXVII.47",
+      "eventId": "ivanhoe-source-30-p44",
+      "effects": [
+        {
+          "item": "malvoisin-scroll",
+          "holder": "cedric",
+          "note": "Front-de-Boeuf entrusts the dispatch to the disguised Cedric. His intended delivery to Malvoisin is not a completed delivery."
+        }
+      ]
+    },
+    {
+      "source": "XXVII.99",
+      "eventId": "ivanhoe-source-30-p95",
+      "effects": [
+        {
+          "item": "athelstane-glove",
+          "note": "Athelstane throws down his glove. The subsequent instruction to hang it on antlers is an order, not evidence of a completed placement."
+        }
+      ]
+    },
+    {
+      "source": "XXVIII.17",
+      "eventId": "ivanhoe-source-31-p17",
+      "effects": [
+        {
+          "item": "miriam-balsam",
+          "holder": "rebecca",
+          "note": "In the retrospective account of her treatment, Rebecca applies the medicine and refuses to entrust the phial to another physician. This is not a fresh injury at the present siege."
+        }
+      ]
+    },
+    {
+      "source": "XXXI.52",
+      "eventId": "ivanhoe-source-34-p52",
+      "effects": [
+        {
+          "item": "debracy-sword",
+          "holder": "locksley",
+          "note": "De Bracy picks up his sword and gives it to Locksley at the barbican. Later release does not itself restore the weapon."
+        }
+      ]
+    },
+    {
+      "source": "XXXI.87",
+      "eventId": "ivanhoe-source-34-p87",
+      "effects": [
+        {
+          "item": "ulrica-distaff",
+          "holder": "urfried",
+          "note": "Ulrica brandishes the distaff from the burning turret."
+        }
+      ]
+    },
+    {
+      "source": "XXXI.92",
+      "eventId": "ivanhoe-source-34-p92",
+      "effects": [
+        {
+          "item": "ulrica-distaff",
+          "condition": "lost",
+          "note": "The turret falls with Ulrica. No recovery of the distaff is narrated, and it is not assigned to a rescuer."
+        }
+      ]
+    },
+    {
+      "source": "XXXII.20",
+      "eventId": "ivanhoe-source-35-p17",
+      "effects": [
+        {
+          "item": "gurth-collar",
+          "holder": "gurth",
+          "condition": "servitude ended; removal requested",
+          "note": "Cedric declares Gurth free. Gurth then calls for a smith and file to remove the collar; the actual cutting is not narrated. Its presence in the last-known inventory no longer denotes continuing servitude."
+        }
+      ]
+    },
+    {
+      "source": "XXXII.56",
+      "eventId": "ivanhoe-source-35-p53",
+      "effects": [
+        {
+          "item": "locksley-horn",
+          "holder": "blackknight",
+          "reportText": "Locksley has the horn and baldric again and gives them to the Black Knight.",
+          "note": "Locksley has the horn again by paragraph53, without a narrated return from Wamba. The Black Knight accepts the offered gift and blows it at56."
+        },
+        {
+          "item": "locksley-baldric",
+          "holder": "blackknight",
+          "reportText": "Locksley has the horn and baldric again and gives them to the Black Knight.",
+          "note": "The rich baldric accompanies the gifted horn; the earlier return to Locksley was not shown."
+        }
+      ]
+    },
+    {
+      "source": "XXXIII.84",
+      "eventId": "ivanhoe-source-36-p81",
+      "effects": [
+        {
+          "item": "aymer-tablets",
+          "holder": "isaac",
+          "note": "Isaac supplies his tablets; Aymer writes and seals the appeal, then returns them to Isaac. The writing interlude does not leave them with Aymer."
+        }
+      ]
+    },
+    {
+      "source": "XXXV.49",
+      "eventId": "ivanhoe-source-38-p38",
+      "effects": [
+        {
+          "item": "aymer-tablets",
+          "holder": "conrade",
+          "note": "Conrade first takes the tablets from Isaac for Beaumanoir, who opens and reads them; Conrade then explicitly takes the letter from his superior to read aloud."
+        }
+      ]
+    },
+    {
+      "source": "XXXV.54",
+      "eventId": "ivanhoe-source-38-p38",
+      "effects": [
+        {
+          "item": "brian-chain",
+          "reported": true,
+          "reportText": "Aymer’s postscript says that Brian’s pledge-chain is now around an unnamed outlaw deer-stalker’s neck.",
+          "note": "Aymer’s postscript reports the chain now around an unnamed outlaw deer-stalker’s neck. Its recipient is not identified as Locksley or the hermit."
+        }
+      ]
+    },
+    {
+      "source": "XXXVI.59",
+      "eventId": "ivanhoe-source-39-p59",
+      "effects": [
+        {
+          "item": "champion-warning",
+          "holder": "rebecca",
+          "note": "A small scrap is thrust into Rebecca’s hand as she passes through the hall. Its sender and contents are not yet disclosed."
+        }
+      ]
+    },
+    {
+      "source": "XXXVII.26",
+      "eventId": "ivanhoe-source-40-p26",
+      "effects": [
+        {
+          "item": "higg-box",
+          "holder": "beaumanoir",
+          "note": "The witness produces his small medicine box and the Grand Master takes it. This old gift is distinct from Rebecca’s retained phial."
+        }
+      ]
+    },
+    {
+      "source": "XXXVII.50",
+      "eventId": "ivanhoe-source-40-p50",
+      "effects": [
+        {
+          "item": "champion-warning",
+          "condition": "destroyed",
+          "note": "Rebecca reads the advice to demand a champion and destroys the scrap. A later admission about its sender does not recreate it."
+        }
+      ]
+    },
+    {
+      "source": "XXXVII.55",
+      "eventId": "ivanhoe-source-40-p51",
+      "effects": [
+        {
+          "item": "rebecca-glove",
+          "place": "templestowe-accused-place",
+          "note": "Rebecca throws the embroidered glove down before the Grand Master as her gage."
+        }
+      ]
+    },
+    {
+      "source": "XXXVIII.8",
+      "eventId": "ivanhoe-source-41-p0",
+      "effects": [
+        {
+          "item": "rebecca-glove",
+          "holder": "beaumanoir",
+          "note": "The Grand Master calls for the glove and looks at it; possession is now established."
+        }
+      ]
+    },
+    {
+      "source": "XXXVIII.23",
+      "eventId": "ivanhoe-source-41-p12",
+      "effects": [
+        {
+          "item": "rebecca-glove",
+          "holder": "albert",
+          "note": "Albert is explicitly still holding the glove and later conceals it in his mantle. He never actually hands it to Brian in this exchange."
+        }
+      ]
+    },
+    {
+      "source": "XXXVIII.36",
+      "eventId": "ivanhoe-source-41-p34",
+      "effects": [
+        {
+          "item": "hebrew-appeal",
+          "holder": "higg",
+          "note": "Higg takes Rebecca’s Hebrew scroll for delivery to Isaac."
+        }
+      ]
+    },
+    {
+      "source": "XXXVIII.40",
+      "eventId": "ivanhoe-source-41-p40",
+      "effects": [
+        {
+          "item": "hebrew-appeal",
+          "note": "Higg offers the scroll and Isaac glances at it before falling insensible. The text does not specify whose hand retains it through his collapse."
+        }
+      ]
+    },
+    {
+      "source": "XL.28",
+      "eventId": "ivanhoe-source-43-p28",
+      "effects": [
+        {
+          "item": "malkin",
+          "holder": "ivanhoe",
+          "note": "Ivanhoe mounts the Prior’s jennet before leaving Saint Botolph’s. A later unidentified exhausted horse is not automatically identified as Malkin."
+        }
+      ]
+    },
+    {
+      "source": "XL.33",
+      "eventId": "ivanhoe-source-43-p32",
+      "effects": [
+        {
+          "item": "wamba-targe",
+          "holder": "wamba",
+          "note": "Wamba is now explicitly described carrying a target with his cutting falchion; the narrator also reports his earlier use during the storming."
+        },
+        {
+          "item": "wooden-sword",
+          "note": "The narrator explicitly says that Wamba’s real falchion has replaced the wooden sword. The wooden blade’s location is not given."
+        }
+      ]
+    },
+    {
+      "source": "XL.80",
+      "eventId": "ivanhoe-source-43-p80",
+      "effects": [
+        {
+          "item": "locksley-horn",
+          "holder": "wamba",
+          "note": "The Black Knight unclasps the baldric and Wamba hangs the bugle around his own neck."
+        },
+        {
+          "item": "locksley-baldric",
+          "holder": "wamba",
+          "note": "The belt passes with the bugle; Wamba later delays returning it and blows the alarm himself."
+        }
+      ]
+    },
+    {
+      "source": "XL.99",
+      "eventId": "ivanhoe-source-43-p92",
+      "effects": [
+        {
+          "item": "blackknight-charger",
+          "condition": "mortally wounded",
+          "place": "forest-ambush-glade",
+          "note": "The attacker wounds the charger mortally and it falls. The rider is not thereby mortally wounded, and this horse is no longer a usable mount."
+        }
+      ]
+    },
+    {
+      "source": "XLI.3",
+      "eventId": "ivanhoe-source-44-p0",
+      "effects": [
+        {
+          "item": "ivanhoe-warhorse",
+          "holder": "gurth",
+          "note": "Gurth is shown riding his master’s war-horse. The intervening handoff is not narrated."
+        }
+      ]
+    },
+    {
+      "source": "XLII.54",
+      "eventId": "ivanhoe-source-45-p51",
+      "effects": [
+        {
+          "item": "fetter-key",
+          "reported": true,
+          "note": "Athelstane recounts using the key from the sacristan’s belt to release his shackles. He does not say he carried it away, so no present inventory acquisition is inferred."
+        }
+      ]
+    },
+    {
+      "source": "XLIII.56",
+      "eventId": "ivanhoe-source-46-p52",
+      "effects": [
+        {
+          "item": "zamor",
+          "holder": "brian",
+          "note": "Brian names the horse he is riding while proposing escape. The claimed past victory over its former owner is reported history, not a new acquisition."
+        }
+      ]
+    },
+    {
+      "source": "XLIII.39",
+      "eventId": "ivanhoe-source-46-p38",
+      "effects": [
+        {
+          "item": "rebecca-glove",
+          "place": "templestowe-east-tribunal",
+          "note": "Albert lays the glove at the Grand Master’s feet. Acceptance of the pledge does not put it in Brian’s hands."
+        }
+      ]
+    },
+    {
+      "source": "XLIII.80",
+      "eventId": "ivanhoe-source-46-p79",
+      "effects": [
+        {
+          "item": "rebecca-glove",
+          "place": "templestowe-lists",
+          "note": "The Grand Master holds Rebecca’s glove and throws it into the lists to begin the encounter."
+        }
+      ]
+    },
+    {
+      "source": "XLIV.70",
+      "eventId": "ivanhoe-source-47-p70",
+      "effects": [
+        {
+          "item": "silver-casket",
+          "holder": "rebecca",
+          "note": "Rebecca offers a casket. Its contents have not yet been revealed, and the offer alone is not a completed transfer."
+        }
+      ]
+    },
+    {
+      "source": "XLIV.71",
+      "eventId": "ivanhoe-source-47-p71",
+      "effects": [
+        {
+          "item": "silver-casket",
+          "holder": "rowena",
+          "note": "Rowena opens the silver-chased casket. She tenders it back in protest, but Rebecca urges her to keep it; no completed return or separately spoken acceptance is narrated."
+        },
+        {
+          "item": "diamond-necklace",
+          "holder": "rowena",
+          "note": "The opened casket reveals a diamond necklace, first disclosed here rather than at the preceding offer."
+        },
+        {
+          "item": "diamond-earrings",
+          "holder": "rowena",
+          "note": "The matching diamond ear-jewels are disclosed with the necklace when the casket is opened."
+        }
+      ]
+    }
+  ],
+  "compiledActions": 66,
+  "compiledItemStates": 92,
+  "compiledPlacements": 6,
+  "reportedRelinquishments": 5,
+  "scope": "Source-reviewed last-known custody for the55 selected objects and mounts; unshown transfers and whereabouts remain unasserted. Application and final release evidence are recorded separately."
+}

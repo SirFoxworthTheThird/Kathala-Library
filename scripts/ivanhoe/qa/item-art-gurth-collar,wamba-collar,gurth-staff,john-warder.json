@@ -1,0 +1,30 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "itemArtChecks": [
+    {
+      "key": "gurth-collar",
+      "eventId": "ivanhoe-source-4-p8",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "wamba-collar",
+      "eventId": "ivanhoe-source-4-p8",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "gurth-staff",
+      "eventId": "ivanhoe-source-4-p25",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "john-warder",
+      "eventId": "ivanhoe-source-15-p35-c1676",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

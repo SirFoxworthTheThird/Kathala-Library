@@ -1,0 +1,60 @@
+{
+  "status": "INCOMPLETE APP REVIEW FIXTURE; NOT A RELEASE",
+  "events": 536,
+  "characters": 77,
+  "directSnapshots": 1379,
+  "unplacedLocations": 5,
+  "items": 55,
+  "embeddedImages": 333,
+  "limitations": [
+    "Cast/scene endpoints still require exhaustive source review.",
+    "30/30 map layers are drawn; complete coordinate/gateway/floor review and full playback remain incomplete.",
+    "65 source-reviewed custody actions compile; initial appearances, unresolved holdings and full inventory QA remain open. 15 relationships/14 changes, 14 goals, 30 memberships and 34 knowledge facts compile. Affiliation exits, complete coverage and reader QA remain open.",
+    "Provisional editorial calendar replaces ordinal fixture pins; temporal source review, narrative/recollection classification, pacing ratings and final calendar UI approval remain incomplete.",
+    "Artwork coverage is incomplete; limited fixture presentation checks do not approve a final release artifact.",
+    "This fixture cannot be packaged or catalogued as a finished edition."
+  ],
+  "knowledge": {
+    "compiledFacts": 34,
+    "compiledReveals": 42,
+    "pending": []
+  },
+  "inventory": {
+    "actions": 65,
+    "itemStates": 91,
+    "placements": 6,
+    "reportedRelinquishments": 5,
+    "scope": "Source-reviewed custody tranche; initial possessions, unresolved whereabouts, alias transitions and full browser inventory QA remain incomplete"
+  },
+  "artwork": {
+    "selectedIllustrations": 303,
+    "finalApplicationApproved": 0,
+    "missingCharacterIllustrations": 0,
+    "missingLocationIllustrations": 0,
+    "missingItemIllustrations": 0,
+    "scope": "Coverage remains incomplete; scoped fixture review does not approve the final artifact"
+  },
+  "playbackEvidence": {
+    "completed": 536,
+    "total": 536,
+    "fixtureSha256": "c361e2f7d9e9ca54355ca57e2e2d1dd7824c02063da7e251adeae6fb5f5be58d",
+    "matchesCurrentFixture": false,
+    "scope": "Incomplete fixture forward traversal in actual Maps UI; not final source/map/art/manual approval"
+  },
+  "locationConditions": 10,
+  "chronology": {
+    "status": "PROVISIONAL EDITORIAL CLOCK; SOURCE RELATIONS AND APPLICATION REVIEW STILL REQUIRED",
+    "opening": "1 June 1194, editorial",
+    "calendarMonths": 12,
+    "scope": "Provisional source-led relative-day reconstruction with disclosed editorial dates/times; full temporal, pacing and calendar UI review remains open"
+  },
+  "maps": {
+    "drawn": 30,
+    "placedLocations": 166,
+    "gateways": 26,
+    "applicationReview": "Limited root-entry, Rotherwood, Ashby, country-house floors and hermitage fixture evidence; full playback and final review pending",
+    "fixtureEvidence": "scripts/ivanhoe/qa/map-navigation-review.json",
+    "illustratedReplacements": 30,
+    "awaitingIllustratedReplacement": []
+  }
+}

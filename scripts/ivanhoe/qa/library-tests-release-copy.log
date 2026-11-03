@@ -1,0 +1,187 @@
+
+> test
+> vitest run
+
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-ivanhoe
+
+ ❯ tests/ivanhoeSource.test.ts (74 tests | 1 failed) 2021ms
+     × keeps the eastern attendants present before their names without inventing that they hear the directions 5ms
+ ❯ tests/libraryThemes.test.ts (0 test)
+ ❯ tests/libraryLoreGating.test.ts (0 test)
+ ❯ tests/libraryNames.test.ts (0 test)
+ ❯ tests/libraryChapterTitles.test.ts (0 test)
+ ❯ tests/libraryLoreVoice.test.ts (0 test)
+ ❯ tests/libraryReferences.test.ts (0 test)
+ ❯ tests/libraryReveals.test.ts (0 test)
+ ❯ tests/librarySpoilerLanguage.test.ts (0 test)
+ ❯ tests/libraryAppName.test.ts (0 test)
+ ❯ tests/libraryOwnAssets.test.ts (0 test)
+ ❯ tests/exampleQuality.test.ts (532 tests | 2 failed) 3407ms
+       × stores one specific snapshot for every present character and no one else 8ms
+       × uses descriptive locations and structurally valid maps 10ms
+
+⎯⎯⎯⎯⎯⎯ Failed Suites 10 ⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/libraryAppName.test.ts [ tests/libraryAppName.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryAppName.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2|
+      3| /**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/13]⎯
+
+ FAIL  tests/libraryChapterTitles.test.ts [ tests/libraryChapterTitles.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryChapterTitles.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2|
+      3| /**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[2/13]⎯
+
+ FAIL  tests/libraryLoreGating.test.ts [ tests/libraryLoreGating.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryLoreGating.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2|
+      3| /**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[3/13]⎯
+
+ FAIL  tests/libraryLoreVoice.test.ts [ tests/libraryLoreVoice.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryLoreVoice.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2|
+      3| /**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[4/13]⎯
+
+ FAIL  tests/libraryNames.test.ts [ tests/libraryNames.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryNames.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2| // The same gate the revision scripts use, so the rule and the fixes c…
+      3| import { readerTexts, sortKeys, firstSeen } from '../scripts/lib/reade…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[5/13]⎯
+
+ FAIL  tests/libraryOwnAssets.test.ts [ tests/libraryOwnAssets.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryOwnAssets.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2|
+      3| /**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[6/13]⎯
+
+ FAIL  tests/libraryReferences.test.ts [ tests/libraryReferences.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryReferences.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2|
+      3| /**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[7/13]⎯
+
+ FAIL  tests/libraryReveals.test.ts [ tests/libraryReveals.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryReveals.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2|
+      3| /**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[8/13]⎯
+
+ FAIL  tests/librarySpoilerLanguage.test.ts [ tests/librarySpoilerLanguage.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/librarySpoilerLanguage.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2|
+      3| /**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[9/13]⎯
+
+ FAIL  tests/libraryThemes.test.ts [ tests/libraryThemes.test.ts ]
+Error: Failed to convert rust `String` into napi `string`
+ ❯ tests/libraryThemes.test.ts:1:38
+      1| import { describe, it, expect } from 'vitest'
+       |                                      ^
+      2| import { KNOWN_THEME_CLASSES } from '../contract/app'
+      3|
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[10/13]⎯
+
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 3 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/exampleQuality.test.ts > published examples meet the authoring quality rules > Ivanhoe > stores one specific snapshot for every present character and no one else
+AssertionError: ivanhoe-source-5-p0 repeats a status across characters: expected true to be false // Object.is equality
+
+- Expected
++ Received
+
+- false
++ true
+
+ ❯ tests/exampleQuality.test.ts:203:98
+    201|           const normalized = notes.toLocaleLowerCase()
+    202|           const seen = notesByEvent.get(snapshot.eventId) ?? new Set<s…
+    203|           expect(seen.has(normalized), `${snapshot.eventId} repeats a …
+       |                                                                                                  ^
+    204|           seen.add(normalized)
+    205|           notesByEvent.set(snapshot.eventId, seen)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[11/13]⎯
+
+ FAIL  tests/exampleQuality.test.ts > published examples meet the authoring quality rules > Ivanhoe > uses descriptive locations and structurally valid maps
+AssertionError: ivanhoe-place-sheffield-approach unlocated x: expected +0 to be null
+
+- Expected:
+null
+
++ Received:
+0
+
+ ❯ tests/exampleQuality.test.ts:219:70
+    217|         for (const location of world.locationMarkers) {
+    218|           if (location.mapLayerId === null) {
+    219|             expect(location.x ?? null, `${location.id} unlocated x`).t…
+       |                                                                      ^
+    220|             expect(location.y ?? null, `${location.id} unlocated y`).t…
+    221|             expect(location.linkedMapLayerId ?? null, `${location.id} …
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[12/13]⎯
+
+ FAIL  tests/ivanhoeSource.test.ts > Ivanhoe complete source import > keeps the eastern attendants present before their names without inventing that they hear the directions
+AssertionError: expected 'Follows the two squires beside the ot…' to contain 'turbaned attendants'
+
+Expected: "turbaned attendants"
+Received: "Follows the two squires beside the other turbaned attendant when the company comes up with Gurth and Wamba."
+
+ ❯ tests/ivanhoeSource.test.ts:134:33
+    132|     const after=scenes.find((s:{from:number})=>s.from===37)
+    133|     for(const key of ['hamet','abdalla']){
+    134|       expect(opening.cast[key]).toContain('turbaned attendants')
+       |                                 ^
+    135|       expect(opening.cast[key]).not.toMatch(/Hamet|Abdalla|Brian/)
+    136|       expect(directions.cast[key]).toContain('not close enough to hear…
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[13/13]⎯
+
+
+ Test Files  12 failed | 11 passed (23)
+      Tests  3 failed | 1224 passed (1227)
+   Start at  08:21:53
+   Duration  23.56s (transform 81.19s, setup 0ms, import 60.71s, tests 12.06s, environment 2ms)

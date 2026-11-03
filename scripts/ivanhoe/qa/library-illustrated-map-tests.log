@@ -1,0 +1,12 @@
+
+> test
+> vitest run --maxWorkers=2
+
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-ivanhoe
+
+
+ Test Files  23 passed (23)
+      Tests  1237 passed (1237)
+   Start at  21:30:17
+   Duration  29.15s (transform 27.83s, setup 0ms, import 44.06s, tests 10.17s, environment 1ms)

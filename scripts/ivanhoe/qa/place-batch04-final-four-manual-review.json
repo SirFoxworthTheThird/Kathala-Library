@@ -1,0 +1,47 @@
+{
+  "scope": "Last four batch04 locations: eight app screenshots individually opened; original and decoded-file review completed in preceding continuation. End cursor only; early disclosure and final approval separate.",
+  "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "west-riding-forest",
+      "originalSha256": "9012f4768c9e8ec8eabd57d9f1c415383850a38140615567da4cac0591edb1e7",
+      "compressedSha256": "d578d64c5caf4585f6bfe4ecdde383286a673c519fde7e1663af167ccc3ba5c3",
+      "applicationReview": "Dusk path and oak retain detail at banner size and full enlargement; place remains in Not on a map, no invented coordinate.",
+      "screenshots": [
+        "qa/place-west-riding-forest.png",
+        "qa/place-west-riding-forest-lightbox.png"
+      ]
+    },
+    {
+      "key": "st-withold-gate",
+      "originalSha256": "980ce5940aba618421014105021e49f958481b29467d89971ed333358d8efec6",
+      "compressedSha256": "68f9e92fd43b2997a34884f1005f07de3c73656aedc15b558cfe0fb54a592835",
+      "applicationReview": "Timber convent gate and empty court readable in banner and full enlarged view.",
+      "screenshots": [
+        "qa/place-st-withold-gate.png",
+        "qa/place-st-withold-gate-lightbox.png"
+      ]
+    },
+    {
+      "key": "woodland-noon-fountain",
+      "originalSha256": "05d0491ace5ee06b022b05028b3cdf6a808c0dab1ab30bac73d8206ff4c5fcf3",
+      "compressedSha256": "9afac1263ceec2e4d68f77970ddd9709a2fbd101312a4db7b01ea314cbab5a87",
+      "applicationReview": "Spring, moss and rocky pool readable in banner and full enlargement.",
+      "screenshots": [
+        "qa/place-woodland-noon-fountain.png",
+        "qa/place-woodland-noon-fountain-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-ambush-brook",
+      "originalSha256": "e441cdf1d48e240de9014a07d2b0988723f8043986a7fc35dc5e0135bdc4bdfa",
+      "compressedSha256": "b9f127bdc1b6c6068676ef16727366c1324d4bbca5186c0ff1ec805de18e299b",
+      "applicationReview": "Difficult brook crossing and narrow path readable in banner and full enlargement; no attackers.",
+      "screenshots": [
+        "qa/place-forest-ambush-brook.png",
+        "qa/place-forest-ambush-brook-lightbox.png"
+      ]
+    }
+  ]
+}

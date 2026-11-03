@@ -1,0 +1,73 @@
+{
+  "scope": "Six compressed images and twelve app captures individually opened. Floor-control overlap on lodging panels recorded as open defect pending fix verification. End cursor only, no final release approval.",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "ashby-host-house-hall",
+      "originalSha256": "28fc1bb8fe243d3acf532d2a0fdc92ec0893f5fc7ffe0415dc4ab5d5d368dccf",
+      "compressedSha256": "de411a805dd2a97367597388ac1fe3720217ace72b30f350e19e196ea38c167f",
+      "compressedReview": "Individually inspected full decoded app enlargement, served bytes matched by capture helper; original textures/details retained.",
+      "applicationReview": "Dark stair landing and side doorway remain legible in banner/full decoded enlargement. Hall now disclosed at X.66, no occupants invented. Existing floor controls overlap part of panel state text; app fix under verification.",
+      "screenshots": [
+        "qa/place-ashby-host-house-hall.png",
+        "qa/place-ashby-host-house-hall-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-host-house-wicket",
+      "originalSha256": "168c28bcf9887255a325cef7c4350a03f940a8b9a78b1d55873087d6ccad52a2",
+      "compressedSha256": "359122fee448f7c941037fc07c1f363095e85d9492b1d18d37f85159847eae6e",
+      "compressedReview": "Individually inspected full decoded app enlargement, served bytes matched by capture helper; original textures/details retained.",
+      "applicationReview": "Small inset wicket remains visible in banner and full decoded enlargement.",
+      "screenshots": [
+        "qa/place-ashby-host-house-wicket.png",
+        "qa/place-ashby-host-house-wicket-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-host-house-sickroom-gateway",
+      "originalSha256": "e1ac2ac32e91e311c95fedf5eaab073720242a1c43e2950b4cab18b8c8aa1f3d",
+      "compressedSha256": "32fc4eb1fd6896724dad754274529af3d45e028c9be16012fab9c2dc3c0e0825",
+      "compressedReview": "Individually inspected full decoded app enlargement, served bytes matched by capture helper; original textures/details retained.",
+      "applicationReview": "Empty curtained bed and furnishings clear in banner/full decoded enlargement; no patient identity shown. Existing floor controls overlap panel text; app fix under verification.",
+      "screenshots": [
+        "qa/place-ashby-host-house-sickroom-gateway.png",
+        "qa/place-ashby-host-house-sickroom-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "copmanhurst-inner-threshold",
+      "originalSha256": "053821d02078002b39836087220ee50f162cf037dab0e87963a34df42b0f1824",
+      "compressedSha256": "fe52bb862e9846ec2e3bbec5b65d9d72806e70cdca078e6a3f5994d639725f64",
+      "compressedReview": "Individually inspected full decoded app enlargement, served bytes matched by capture helper; original textures/details retained.",
+      "applicationReview": "Closed door and log walls readable despite dim interior, full decoded enlargement retains barred timber details without furnishings revealed early.",
+      "screenshots": [
+        "qa/place-copmanhurst-inner-threshold.png",
+        "qa/place-copmanhurst-inner-threshold-lightbox.png"
+      ]
+    },
+    {
+      "key": "copmanhurst-hut-gateway",
+      "originalSha256": "06f940db499ddcaaf633d853563228eb2c7fc4a7496c94f0c1df6afd2ee14014",
+      "compressedSha256": "1c72297f5a9d9f8cd54ed1a07ba2f303d1eacd455e65be03f381ece79f9dd762",
+      "compressedReview": "Individually inspected full decoded app enlargement, served bytes matched by capture helper; original textures/details retained.",
+      "applicationReview": "Log hut interior, leaf bed, closed book and plain stools readable in banner and full decoded enlargement; no hidden weapons.",
+      "screenshots": [
+        "qa/place-copmanhurst-hut-gateway.png",
+        "qa/place-copmanhurst-hut-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-alicia-gallery-frontage",
+      "originalSha256": "03296c1cffefda4fdcfe18cd86c6d7452b8c1ba60c7f27f1acaf37d13367f0e3",
+      "compressedSha256": "764bfbad02d2f8bb6a33be5ee3905f7e9c97e4d28f1e738a67bd261d6e27d952",
+      "compressedReview": "Individually inspected full decoded app enlargement, served bytes matched by capture helper; original textures/details retained.",
+      "applicationReview": "Distinct timber gallery frontage reads in banner and full decoded enlargement, no tiny background spectators remain.",
+      "screenshots": [
+        "qa/place-ashby-alicia-gallery-frontage.png",
+        "qa/place-ashby-alicia-gallery-frontage-lightbox.png"
+      ]
+    }
+  ]
+}

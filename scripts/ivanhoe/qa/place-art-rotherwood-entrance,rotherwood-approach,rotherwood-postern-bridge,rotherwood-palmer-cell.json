@@ -1,0 +1,31 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "212c6ce66d4288daf0239f69788d2f449b591ca88872f02a6dfc5f1027b02355",
+  "placeArtChecks": [
+    {
+      "key": "rotherwood-entrance",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-approach",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-postern-bridge",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-palmer-cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

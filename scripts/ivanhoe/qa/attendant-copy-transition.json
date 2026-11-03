@@ -1,0 +1,175 @@
+{
+  "previousSha256": "c62e177c6fb9b205b2f277cf7df5795091ece7389ba765ee0f63576f35b268cd",
+  "candidateSha256": "d5ffae6a6fd51046bae86fb53763b486cd128e6f74be0f0ec2fc1ea31a2908b7",
+  "scope": "Only twelve anonymous companion statuses and their twelve event descriptions changed. No names, presence, location, inventory, source prose or images changed.",
+  "changes": [
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p0",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p12",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p14",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p23",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p30",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p35",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p40",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p52",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p57",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p62",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p64",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-5-p68",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-0-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-12-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-14-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-23-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-30-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-35-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-40-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-52-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-57-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-62-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-64-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-2-68-abdalla",
+      "fields": [
+        "statusNotes"
+      ]
+    }
+  ]
+}

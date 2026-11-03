@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "torquilstone-ivanhoe-window",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "17afeb2d7fdce3ab21f8366aeb19ba690278a23b6d6af3a5725acb7ec4fcc1a4",
+      "compressedSha256": "a4152987f315534ae52e436a70921796e83aeb14ce1e795a3ceec6697ce31662",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Raised window with quiet outwork beyond moat, no fighting outcome; banner and full image clear.",
+      "screenshots": [
+        "qa/place-torquilstone-ivanhoe-window.png",
+        "qa/place-torquilstone-ivanhoe-window-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-urfried-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e865d994208d601a85e0540f71b39117c2f8e1ee5f431ab785c895d83cf570de",
+      "compressedSha256": "d4fb16d71c915047580e85e6c1c355692fa3782aa0645b884fbea0541860ceec",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Wine cupboard, table and private door, no Urfried identity or plan shown; readable full view.",
+      "screenshots": [
+        "qa/place-torquilstone-urfried-room.png",
+        "qa/place-torquilstone-urfried-room-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-postern-passage",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "dd78756e8cb93f7e5aeff22b8a448b8d6fc12758d5b44e33d7493c4d06134253",
+      "compressedSha256": "19d88b1d38c380ed400e6b0600a61fa8cfb768113e2ca58596d7eba06cb9edd2",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Narrow empty passage and secondary door, no disguised messenger; full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-postern-passage.png",
+        "qa/place-torquilstone-postern-passage-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-postern-outwork",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "48cbcf335951fd3461d55af9a4a23c58d248fb50d608df5193f62a4474afa6c2",
+      "compressedSha256": "dc6d75a90ec54e308467c866a425de97fabd59a3247dd1abcbf675d058e39c69",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Small outwork with narrow plank crossing rather than permanent broad drawbridge; empty full view readable.",
+      "screenshots": [
+        "qa/place-torquilstone-postern-outwork.png",
+        "qa/place-torquilstone-postern-outwork-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-armoury",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "caca2d478aa196fc856dbf2f4d56d7aeb660941af425fac0e834c063f236f6ae",
+      "compressedSha256": "ebccbb9798db2ad7514a7ddf3658e7ccd54d7c2a9db51decefe0b2ec8dc6ef6f",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty weapon-lined room with mail, shields and table; no captives or ransom action; full image clear.",
+      "screenshots": [
+        "qa/place-torquilstone-armoury.png",
+        "qa/place-torquilstone-armoury-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-armoury-balcony",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "1c080d97198bcc28b52bc8b428181d7f602bf531b3e5730b9e78cffec9effede",
+      "compressedSha256": "4236577213f3ab37ef5bde119d9683a90ed4d6a411f28f6c30c2afc160a254e0",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty outward-facing covered balcony over court, no leaders or siege preparations; banner and full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-armoury-balcony.png",
+        "qa/place-torquilstone-armoury-balcony-lightbox.png"
+      ]
+    }
+  ]
+}

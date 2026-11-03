@@ -1,0 +1,19 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "beaumanoir"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-beaumanoir",
+      "name": "Lucas de Beaumanoir",
+      "eventId": "ivanhoe-source-38-p19",
+      "cursorLabel": "Ch.38 · CHAPTER XXXV — The reforming visitor (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-beaumanoir.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

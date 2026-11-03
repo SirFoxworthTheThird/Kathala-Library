@@ -1,0 +1,31 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "32c08f5eb33e32d98371f851dd2b8d123713a94833e70bfe8326d4d71d32a148",
+  "placeArtChecks": [
+    {
+      "key": "rotherwood-isaac-cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-gurth-cell",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-antechamber",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-rowena-gateway",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

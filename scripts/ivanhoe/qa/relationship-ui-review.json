@@ -1,0 +1,31 @@
+{
+  "scope": "Selected changing relationships and rewind; full supporting feature review remains open",
+  "relationshipChecks": [
+    {
+      "label": "freed",
+      "expected": "Former master and freed servant",
+      "body": "Cedric the Saxon\nFormer Master And Freed Servant\nfrom Ch. 35\n\nStrong · Complex\n\nCedric grants Gurth freedom and land.\n\nWamba\nAllies In The Rescue\nfrom Ch. 22\n\nStrong · Positive\n\nGurth returns to help despite his grievance against Cedric."
+    },
+    {
+      "label": "freedom-rewind",
+      "expected": "Master and thrall",
+      "body": "Cedric the Saxon\nMaster And Thrall\nfrom Ch. 4\n\nStrong · Complex\n\nGurth’s soldered collar identifies him as Cedric’s born thrall.\n\nWamba\nAllies In The Rescue\nfrom Ch. 22\n\nStrong · Positive\n\nGurth returns to help despite his grievance against Cedric."
+    },
+    {
+      "label": "consent",
+      "expected": "Marriage approved",
+      "body": "Cedric the Saxon\nGuardian And Ward\nfrom Ch. 5\n\nStrong · Complex\n\nRowena is under Cedric’s guardianship.\n\nMaurice de Bracy\nFormer Captor And Freed Captive\nEnded\nfrom Ch. 34\n\nStrong · Negative\n\nRowena is placed under Gurth’s protection for removal to safety.\n\nIvanhoe\nMarriage Approved\nfrom Ch. 47\n\nStrong · Positive\n\nCedric gives his consent."
+    },
+    {
+      "label": "married",
+      "expected": "Husband and wife",
+      "body": "Cedric the Saxon\nGuardian And Ward\nfrom Ch. 5\n\nStrong · Complex\n\nRowena is under Cedric’s guardianship.\n\nMaurice de Bracy\nFormer Captor And Freed Captive\nEnded\nfrom Ch. 34\n\nStrong · Negative\n\nRowena is placed under Gurth’s protection for removal to safety.\n\nIvanhoe\nHusband And Wife\nfrom Ch. 47\n\nStrong · Positive\n\nThe marriage is celebrated at York Minster."
+    },
+    {
+      "label": "marriage-rewind",
+      "expected": "Marriage approved",
+      "body": "Cedric the Saxon\nGuardian And Ward\nfrom Ch. 5\n\nStrong · Complex\n\nRowena is under Cedric’s guardianship.\n\nMaurice de Bracy\nFormer Captor And Freed Captive\nEnded\nfrom Ch. 34\n\nStrong · Negative\n\nRowena is placed under Gurth’s protection for removal to safety.\n\nIvanhoe\nMarriage Approved\nfrom Ch. 47\n\nStrong · Positive\n\nCedric gives his consent."
+    }
+  ],
+  "pageErrors": []
+}

@@ -1,0 +1,56 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "botolphprior",
+    "diggory",
+    "blueknight",
+    "scathlock"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-botolphprior",
+      "name": "The Prior of Saint Botolph’s",
+      "eventId": "ivanhoe-source-43-p4",
+      "cursorLabel": "Ch.43 · CHAPTER XL — A solitary guide chosen (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-botolphprior.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-botolphprior.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-diggory",
+      "name": "Father Diggory",
+      "eventId": "ivanhoe-source-43-p31",
+      "cursorLabel": "Ch.43 · CHAPTER XL — The Prior’s breakfast (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-diggory.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-diggory.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-blueknight",
+      "name": "The Blue Knight",
+      "eventId": "ivanhoe-source-43-p92",
+      "cursorLabel": "Ch.43 · CHAPTER XL — Arrows from the thicket (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-blueknight.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-blueknight.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-scathlock",
+      "name": "Scathlock",
+      "eventId": "ivanhoe-source-44-p17",
+      "cursorLabel": "Ch.44 · CHAPTER XLI — A revel prolonged (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-scathlock.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-scathlock.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "higg",
+  "source": "XXXVII.24–26",
+  "prompt": "Create one full-bleed square1:1 original character illustration for Walter Scott's Ivanhoe: HIGG, the Saxon joiner who comes forward to testify in chapterXXXVII paragraph24. A working man about forty-five, plain open anxious face, short light-brown hair and untrimmed short beard, tears standing in his eyes but speaking with sincere dignity. Exact age, face, hair and clothing are illustrative choices; the text establishes a peasant joiner, incomplete recovery from illness, crutches, fear and grateful testimony. He leans upright on TWO simple rough wooden UNDERARM CRUTCHES, realistic joined timber crosspieces, hands using the grips. Plain worn muted blue-grey wool tunic, linen underclothes and practical leather belt. Frame from hips upward with face central, both underarm crutch tops visible and generous circular-avatar crop room. Softly blurred stone hall with plain timber dais in distance, no identifiable other person. Avoid comic disability, grotesque posture, begging pose or supernatural signs. Mature painterly oil-and-watercolour historical literary bookplate, gentle light, honest work-worn hands. Do NOT show the medicine box yet: it is only produced two paragraphs later. No bottle, magic, Hebrew inscription, villainous exaggeration, symbols of guilt, chains, execution, later mission, readable text, logo or watermark.",
+  "original": "scripts/ivanhoe/art-originals/higg-v2.png",
+  "generator": "built-in image_gen",
+  "appReviewed": false,
+  "originalReview": "Opened edited original: anxious tearful witness uses two natural wooden underarm crutches and grips, plain worn blue-grey wool/linen; respectful human portrayal. Removed unrelated fleur-de-lis cloth. No prematurely produced medicine box or later message/mission. Exact age, features, hair and clothes are illustrative choices.",
+  "editPrompt": "Edit this Higg portrait only by replacing the blue-and-gold fleur-de-lis heraldic cloth in the far upper-right background with plain unmarked muted brown timber wall and plain stone. Preserve the exact man, anxious tearful expression, both natural wooden crutches, hands, blue-grey wool tunic, pose, lighting and painterly texture. No new emblem, text, objects or people. Remove every fleur-de-lis or royal/heraldic marking; this is an ordinary witness in a tribunal hall.",
+  "retainedCandidates": [
+    {
+      "path": "scripts/ivanhoe/art-originals/higg-v1.png",
+      "review": "Opened original: retained for correction of unrelated heraldic background cloth."
+    }
+  ]
+}

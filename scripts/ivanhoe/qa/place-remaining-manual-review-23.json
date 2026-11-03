@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "saint-botolph-refectory",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "7e1e30a703221bddfc1c5794f4d02ead0c3f250090d07d852b1f166d630b64bc",
+      "compressedSha256": "c864a1d228c294b10c7c4f4abcbf3c6ef031876943c4ecb03240c18f5abbd898",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty refectory with stockfish and ale vessels, no monks shown; banner and full view clear.",
+      "screenshots": [
+        "qa/place-saint-botolph-refectory.png",
+        "qa/place-saint-botolph-refectory-lightbox.png"
+      ]
+    },
+    {
+      "key": "coningsburgh-forest-road",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "70b582db315e87db25d2c406b10e1161664af0f0e3e0d571d2973c61b2fd046f",
+      "compressedSha256": "39d2114ee83849d3e97d28f92cf475d1ac8f138fb00d63ebde93e05dc77106e3",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty rough forest road, no travellers or exact surveyed route claimed; full view readable.",
+      "screenshots": [
+        "qa/place-coningsburgh-forest-road.png",
+        "qa/place-coningsburgh-forest-road-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-ambush-glade",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "37e65a4dc96cdd534945aa53c569ec30384027b0dd032e1861f3d7e8bd70bc2e",
+      "compressedSha256": "938f12af2c28c8e28cc9ec10d97078e42bff38a8584e3c7499bccd4b0672d47b",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Oak at thicket-bordered glade, no attacker or concealed identity; full view clear.",
+      "screenshots": [
+        "qa/place-forest-ambush-glade.png",
+        "qa/place-forest-ambush-glade-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-ambush-private-oak",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e291c07ba0d7596a00c3719eb733020e18a4a66fcc582a8ba8e5704f54f54ab6",
+      "compressedSha256": "8d03ab3123650984ec5a7d4faa2ec9cee7a7953da0ead99fd3adc3fb93f47ef6",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Quiet immediate space beside oak, no fallen attacker; image readable without future confession.",
+      "screenshots": [
+        "qa/place-forest-ambush-private-oak.png",
+        "qa/place-forest-ambush-private-oak-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-refreshment-oak",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "2484088e299549b3e73cc87a720fcb7ee9ba410fe455efdf8c87a92c2a964728",
+      "compressedSha256": "e084254b840ab183ae8947326bdfd523d6be43536fbebc1d224943367d2fa003",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty meal setting under oak, no royal identity or guests; stream and small bridge are illustrative background, no geographic connection encoded. Full image clear.",
+      "screenshots": [
+        "qa/place-forest-refreshment-oak.png",
+        "qa/place-forest-refreshment-oak-lightbox.png"
+      ]
+    },
+    {
+      "key": "coningsburgh-approach",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "b191095ecd85fcb478243fdfb606193f34af6564083e9b32c26c07f7d0ad8d6a",
+      "compressedSha256": "ed61079212620c3dae244d4d9ed970177aa8c574db8c9d55b3f07db8accd7461",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Rocky rising approach beside Don to round keep and palisade; banner crops keep but full view preserves it, no people.",
+      "screenshots": [
+        "qa/place-coningsburgh-approach.png",
+        "qa/place-coningsburgh-approach-lightbox.png"
+      ]
+    }
+  ]
+}

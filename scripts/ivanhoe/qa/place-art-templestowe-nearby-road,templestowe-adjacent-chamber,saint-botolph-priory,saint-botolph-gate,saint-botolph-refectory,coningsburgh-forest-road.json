@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "templestowe-nearby-road",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-adjacent-chamber",
+      "mapLayerId": "ivanhoe-map-templestowe-rooms",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "saint-botolph-priory",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "saint-botolph-gate",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "saint-botolph-refectory",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "coningsburgh-forest-road",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

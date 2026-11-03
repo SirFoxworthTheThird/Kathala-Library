@@ -1,0 +1,31 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "7a9a2a9f052c28c21c1abcd3e50bfc3ca87e35db27c5448bd837c4ca92a9a2bc",
+  "itemArtChecks": [
+    {
+      "key": "ulrica-distaff",
+      "eventId": "ivanhoe-source-34-p87",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "fetter-key",
+      "eventId": "ivanhoe-source-45-p51",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "diamond-necklace",
+      "eventId": "ivanhoe-source-47-p71",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "diamond-earrings",
+      "eventId": "ivanhoe-source-47-p71",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

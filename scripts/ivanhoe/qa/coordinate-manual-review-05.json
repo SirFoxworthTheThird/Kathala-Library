@@ -1,0 +1,751 @@
+{
+  "scope": "31 individual actual-app screenshots opened: Ashby parent, woods and lists reviewed before stair correction; Copmanhurst reviewed after. Corrected stair pins are separately recorded in record 03. Coordinate presentation only.",
+  "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+  "appCommit": "02dcd633",
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-ashby-lists-gateway",
+      "name": "The tournament meadow",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 505,
+      "y": 531,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-lists-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.23273657289,
+          "y": 491.8936381709741
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "d57fff97dd0cf97150b787345120d5b9779de1e6063e2caf90a3ffb5b42c33bf",
+      "manualObservation": "Pin is in the palisaded tournament meadow, with nested lists map available."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-house-gateway",
+      "name": "The borrowed lodging",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 1140,
+      "y": 851,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-house-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.3273657289003,
+          "y": 404.2495029821074
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "4a9a2c0128486797f5d97e4449a1b1b999a4eef06ea79ba4489daaa5c9669742",
+      "manualObservation": "Pin is in the destination index, explicitly not an asserted geographical position of the borrowed house."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-gateway",
+      "name": "The castle precinct",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 1390,
+      "y": 851,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 904.9079283887468,
+          "y": 404.2495029821074
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "675c7a99f5edfa3d056502e2963ab4ccab3ed93859846935e24ef56f29864dc8",
+      "manualObservation": "Pin is in the destination index, distinct from the tournament meadow."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-woods-gateway",
+      "name": "The wooded approach",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 295,
+      "y": 826,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-woods-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 725.2250639386189,
+          "y": 440.61232604373754
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "0aeac861e53161d92bfd1572083b66b689f24d715afcffcf2e2319d6a632bf8c",
+      "manualObservation": "Pin is at the woodland edge rather than the tournament enclosure."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-return-road",
+      "name": "Road back to Ashby",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 800,
+      "y": 356,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-return-road.png",
+      "presentation": {
+        "point": {
+          "x": 730.457800511509,
+          "y": 491.4333996023855
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3836c167fc95eca371ac5089fc610a40dc1e2bbb7f88647d31741d56b38fab42",
+      "manualObservation": "Pin lies on the approach road toward the town."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-departure",
+      "name": "The departure from Ashby Castle",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "x": 1390,
+      "y": 786,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-departure.png",
+      "presentation": {
+        "point": {
+          "x": 904.9079283887468,
+          "y": 492.192842942346
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "df8e81e75eb9df55261a29482bf93933430cb64062ddec3cabe5fc38cd9b0601",
+      "manualObservation": "Departure point is indexed separately from the tournament ground; no surveyed castle route asserted."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-alicia-gallery-frontage",
+      "name": "Below the neighbouring gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 790,
+      "y": 823,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-alicia-gallery-frontage.png",
+      "presentation": {
+        "point": {
+          "x": 729.9574944071587,
+          "y": 492.0127877237851
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "2db646ee090deb2bdd9e71295c35cdb4c9b58a1ed485e127c923db82eb985b98",
+      "manualObservation": "Pin is on the ground in front of the neighbouring gallery."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-northern-end",
+      "name": "The northern end of the lists",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 500,
+      "y": 928,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-northern-end.png",
+      "presentation": {
+        "point": {
+          "x": 729.9351230425056,
+          "y": 491.50895140664954
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "66069133a66a0ac1c29ca3723155e8a5b0467e2c8418e2f8864504711d89a9af",
+      "manualObservation": "Pin is inside the field just below the northern gate."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-saxon-gallery-frontage",
+      "name": "Below the Saxon gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1160,
+      "y": 873,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-saxon-gallery-frontage.png",
+      "presentation": {
+        "point": {
+          "x": 896.0894854586129,
+          "y": 492.2966751918158
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "ba5c15f467ff0ec4b25cb2e34f0257babf9497850c27fa9716317fa04b2175ae",
+      "manualObservation": "Pin is on the ground below the Saxon-gallery staircase in the separate gallery detail."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-lists",
+      "name": "The tournament enclosure",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 500,
+      "y": 863,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-lists.png",
+      "presentation": {
+        "point": {
+          "x": 729.9351230425056,
+          "y": 491.4398976982097
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "af6e251c5f08e0999265e7329a1fc5647ed1a7d773a958b6a70576ae71912c96",
+      "manualObservation": "General enclosure pin is in the field, not on either gallery."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-lower-ring",
+      "name": "The lower spectators’ ring",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 280,
+      "y": 488,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-lower-ring.png",
+      "presentation": {
+        "point": {
+          "x": 702.8836689038031,
+          "y": 491.81074168797954
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "7feceaba81ea2d86f6b8aca1fbafc318586d5a9081e578c07412991176989f59",
+      "manualObservation": "Diamond is outside the inner western palisade, in the lower spectators ring; label extends across rail but anchor is correct."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-saxon-gallery",
+      "name": "The Saxon company’s gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1100,
+      "y": 953,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-saxon-gallery.png",
+      "presentation": {
+        "point": {
+          "x": 810.2572706935123,
+          "y": 492.1508951406649
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "78bbfd2a652abceb0418a902329e36b9b9c5ee307637ad0d56c548394061b536",
+      "manualObservation": "Pin sits on the raised Saxon stand in the separate detail."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-challenger-platform",
+      "name": "The challengers’ platform",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 500,
+      "y": 178,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-challenger-platform.png",
+      "presentation": {
+        "point": {
+          "x": 729.9351230425056,
+          "y": 684.2506393861893
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "895d2b5381fc6de55d64b5cf2283f83dcc9ace2e3fb544b8f490eb2fa07d241c",
+      "manualObservation": "Pin is by the five southern challengers tents."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-lists-centre",
+      "name": "The course between the gates",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 500,
+      "y": 648,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-lists-centre.png",
+      "presentation": {
+        "point": {
+          "x": 729.9351230425056,
+          "y": 491.51918158567787
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "412df7cdd1eb33215e0c7e3513b149781fccf0c14106cf87429eb870760e2789",
+      "manualObservation": "Pin is on central grass between the ends, with no invented central dividing fence."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-prince-gallery",
+      "name": "The prince’s gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 785,
+      "y": 673,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-prince-gallery.png",
+      "presentation": {
+        "point": {
+          "x": 729.8881431767338,
+          "y": 492.16112531969316
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "ef235712616c39859311dc0cd657a2bedabcc85907ee8327c304a4beaec79c55",
+      "manualObservation": "Pin is on the raised eastern throne gallery."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-alicia-gallery",
+      "name": "Alicia’s gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 790,
+      "y": 863,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-alicia-gallery.png",
+      "presentation": {
+        "point": {
+          "x": 729.9574944071587,
+          "y": 491.4398976982097
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "f961401ccc5c0ea77c386e19737b5e7471099d466dfa7c2fba12fb0fc884943d",
+      "manualObservation": "Pin is on the neighbouring raised stand, separate from the prince and Saxon gallery."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-victor-pavilion",
+      "name": "The victor’s pavilion",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1130,
+      "y": 623,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-victor-pavilion.png",
+      "presentation": {
+        "point": {
+          "x": 852.6733780760626,
+          "y": 491.87723785166247
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "e5e9587c63cdaf7301885747025b4fcbe7b94f2cb90184a09f6ce569491ce9e3",
+      "manualObservation": "Pin is within the pavilion detail rather than its exterior threshold."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-victor-pavilion-entrance",
+      "name": "The pavilion entrance",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1130,
+      "y": 543,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-victor-pavilion-entrance.png",
+      "presentation": {
+        "point": {
+          "x": 852.6733780760626,
+          "y": 492.0230179028133
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c3a915857ddf295ee93ec8f51077e5dce274393db1293db33a883e1171ad0470",
+      "manualObservation": "Pin meets the pavilion entrance separately from its interior."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-queen-gallery",
+      "name": "The Queen’s gallery",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 230,
+      "y": 673,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-queen-gallery.png",
+      "presentation": {
+        "point": {
+          "x": 633.1901565995526,
+          "y": 492.16112531969316
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3f1acec27a0fc118f2c941d45fb15def99d01f131dd18a5dd4d1a4ed7332d623",
+      "manualObservation": "Pin is on the western green-and-pink decorated Queen gallery."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-archery-ground",
+      "name": "The archery gathering",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1125,
+      "y": 223,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-archery-ground.png",
+      "presentation": {
+        "point": {
+          "x": 845.6040268456377,
+          "y": 619.6061381074169
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "eb57ff4b42d00be745e576f4bde7c5cf22a7c764358518e5f196e6de3ac7a291",
+      "manualObservation": "Pin is in the separate range detail, away from tournament field."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-archery-south-avenue",
+      "name": "The southern shooting avenue",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1125,
+      "y": 93,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-archery-south-avenue.png",
+      "presentation": {
+        "point": {
+          "x": 845.6040268456377,
+          "y": 804.468030690537
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "9afdb96b137b6610d955290a6d09032f15bc8e1249253cdd946d89ae2bb50fda",
+      "manualObservation": "Pin is at the southern shooting start below the target in the range detail."
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-inner-threshold",
+      "name": "Inside the closed door",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 610,
+      "y": 531,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-inner-threshold.png",
+      "presentation": {
+        "point": {
+          "x": 729.7365728900255,
+          "y": 491.8936381709741
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "dfba09cb89a54bb313d6ed54b04ca572ef8c3661f577565d2ffcaba3f338d2d9",
+      "manualObservation": "Pin is inside the hut doorway; panel preserves the unseen interior and does not confirm the alleged morass route."
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-hut-gateway",
+      "name": "The hut building",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 555,
+      "y": 646,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-hut-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.9488491048593,
+          "y": 492.2246520874752
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "d58f24b1e502f280064055fb72afe5c111600bcf370979442ba89e5a796b111f",
+      "manualObservation": "Pin is on the hut building; panel states interior first becomes available after narrative admission."
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-clearing",
+      "name": "The clearing",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 650,
+      "y": 341,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-clearing.png",
+      "presentation": {
+        "point": {
+          "x": 730.309462915601,
+          "y": 491.65109343936376
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "ac8bec53cf6f827d8c25aaaff34e44a9c9e034d102bc3baee3e1a6c186ba3885",
+      "manualObservation": "Pin is on the open grassy approach between the hut and spring."
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-door",
+      "name": "The hut door",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 610,
+      "y": 506,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-door.png",
+      "presentation": {
+        "point": {
+          "x": 729.7365728900255,
+          "y": 492.25646123260435
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "d9c31107cfe50c48bef90ea08bd98a187f238ad63d0f5d2e44b668bb7749f940",
+      "manualObservation": "Pin meets the wooden hut door and remains distinct from the inner threshold."
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-fountain",
+      "name": "The fountain",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "x": 990,
+      "y": 601,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-fountain.png",
+      "presentation": {
+        "point": {
+          "x": 730.1790281329922,
+          "y": 491.87773359840946
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "073e118bb748544230f5d8b4bc6d91dd45749bf1f488635c6906963e22172924",
+      "manualObservation": "Pin lies in the spring basin on the right of the approach."
+    },
+    {
+      "markerId": "ivanhoe-place-copmanhurst-hut",
+      "name": "Inside the hut",
+      "mapLayerId": "ivanhoe-map-copmanhurst-hut",
+      "x": 790,
+      "y": 361,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-copmanhurst-hut.png",
+      "presentation": {
+        "point": {
+          "x": 730.314578005115,
+          "y": 492.36083499005963
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "7f79c5fa9e6f79de2f067ae0a35ee70705595c0589b09493ee49606f969bbed1",
+      "manualObservation": "Pin is inside the one-room hut floor, between table and entrance."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-dark-avenue",
+      "name": "The dark avenue",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "x": 1230,
+      "y": 69,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-dark-avenue.png",
+      "presentation": {
+        "point": {
+          "x": 915.5597064709805,
+          "y": 838.3870352716874
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "f6207b7fa749a569c0a2e0234d58b76f18560e697fcfaaaff0a4b321ca420c57",
+      "manualObservation": "Pin is on the wooded path at the right of the woodland plan."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-hazel-lane",
+      "name": "The hazel-bordered lane",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "x": 1000,
+      "y": 604,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-hazel-lane.png",
+      "presentation": {
+        "point": {
+          "x": 730.2761841227484,
+          "y": 491.5328884652049
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "1062d9c96ec842bb26b369bd2e95aed35ea6cb05a04e6f2c64024b9f0a459d40",
+      "manualObservation": "Pin follows the confined main sunken lane."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-outlaw-clearing",
+      "name": "The outlaws’ clearing",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "x": 440,
+      "y": 584,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-outlaw-clearing.png",
+      "presentation": {
+        "point": {
+          "x": 730.2815210140094,
+          "y": 491.8265014299334
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "5baf0e734b7ebdc8ccca33edfd822dfc2e6cca453b96f99f25f6a3bf36986752",
+      "manualObservation": "Pin is in the open clearing off the main road."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-heath-overlook",
+      "name": "The heath above Ashby",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "x": 1240,
+      "y": 879,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-heath-overlook.png",
+      "presentation": {
+        "point": {
+          "x": 784.7024683122081,
+          "y": 420.49571020019073
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "6a7b32a341b8ca52614b25ea82d8ffa4356cc24a03eb1a4a9bc762c741cc1994",
+      "manualObservation": "Pin is on the ridge overlooking the heath."
+    }
+  ]
+}

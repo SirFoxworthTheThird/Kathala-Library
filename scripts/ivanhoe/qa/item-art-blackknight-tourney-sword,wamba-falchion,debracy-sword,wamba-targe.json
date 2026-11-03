@@ -1,0 +1,31 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "570ebb1883df81d66f07464976c99232c574b00db2b876534dda84eeb145a0d5",
+  "itemArtChecks": [
+    {
+      "key": "blackknight-tourney-sword",
+      "eventId": "ivanhoe-source-15-p35-c721",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "wamba-falchion",
+      "eventId": "ivanhoe-source-22-p20",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "debracy-sword",
+      "eventId": "ivanhoe-source-34-p52",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "wamba-targe",
+      "eventId": "ivanhoe-source-43-p32",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

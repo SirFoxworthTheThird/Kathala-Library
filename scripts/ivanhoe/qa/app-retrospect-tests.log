@@ -1,0 +1,39 @@
+
+ RUN  v4.1.2 F:/Projects/WorldBreaker/Kathala-ivanhoe-qa
+
+Not implemented: navigation to another Document
+stderr | src/components/__tests__/ThemeProvider.test.tsx > ThemeProvider > applies the selected global theme
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/components/__tests__/ThemeProvider.test.tsx > ThemeProvider > applies the selected global theme
+The current testing environment is not configured to support act(...)
+
+stderr | src/components/__tests__/ThemeProvider.test.tsx > ThemeProvider > uses a world override and restores the global theme when it clears
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/components/__tests__/ThemeProvider.test.tsx > ThemeProvider > uses a world override and restores the global theme when it clears
+The current testing environment is not configured to support act(...)
+
+stderr | src/lib/__tests__/useMediaQuery.test.tsx > useMediaQuery > answers the query and follows it when it changes
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/lib/__tests__/useMediaQuery.test.tsx > useMediaQuery > stops listening when unmounted
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/lib/__tests__/useMediaQuery.test.tsx > useMediaQuery > reads as narrow where there is no matchMedia
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+·························································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································
+
+ Test Files  259 passed (259)
+      Tests  3097 passed (3097)
+   Start at  18:14:05
+   Duration  158.26s (transform 11.81s, setup 50.35s, import 44.73s, tests 7.72s, environment 475.34s)

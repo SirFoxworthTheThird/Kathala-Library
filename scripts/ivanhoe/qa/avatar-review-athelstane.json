@@ -1,0 +1,19 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "athelstane"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-athelstane",
+      "name": "Athelstane of Coningsburgh",
+      "eventId": "ivanhoe-source-10-p21",
+      "cursorLabel": "Ch.10 · CHAPTER VII — The gallery command (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-athelstane.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

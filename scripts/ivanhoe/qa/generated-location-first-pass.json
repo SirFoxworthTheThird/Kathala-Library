@@ -1,0 +1,104 @@
+{
+  "status": "PARTIAL: all 145 generated originals inspected on 19 labelled overview sheets; individual full-resolution/source review remains open",
+  "scope": "Original generation candidates only. No compressed-image or actual-app approval.",
+  "generation": {
+    "requested": 145,
+    "saved": 145,
+    "failures": 0
+  },
+  "findings": [
+    {
+      "keys": [
+        "templestowe-master-seat",
+        "templestowe-preceptor-seats",
+        "templestowe-accused-place",
+        "templestowe-public-floor",
+        "templestowe-witness-place",
+        "templestowe-great-hall"
+      ],
+      "status": "CORRECT",
+      "reason": "XXXVII.7 specifies oaken floor; generated images show stone. XXXVII.6 specifies vaulted roof. Recreate distinct views with oak boards, vaulted masonry overhead, high Master seat, four lower preceptor seats and still lower benches; no invented heraldry."
+    },
+    {
+      "keys": [
+        "templestowe-lists-gateway",
+        "templestowe-east-station",
+        "ashby-lists-centre"
+      ],
+      "status": "CORRECT",
+      "reason": "Remove unsupported central dividing rail from open field. Keep perimeter palisades only."
+    },
+    {
+      "keys": [
+        "templestowe-east-tribunal",
+        "templestowe-east-station"
+      ],
+      "status": "CORRECT",
+      "reason": "XLIII.5 names Beau-seant. Replace invented gold-cross green banner with simple black-and-white banner; no lettering or additional heraldry."
+    },
+    {
+      "keys": [
+        "ashby-challenger-platform"
+      ],
+      "status": "CORRECT",
+      "reason": "VII.8–9 specifies FIVE pavilions on naturally raised southern platform, russet-and-black pennons and cords. Current foreground appears as spectator gallery rather than shield-fronted tents."
+    },
+    {
+      "keys": [
+        "ashby-queen-gallery",
+        "ashby-queen-gallery-steps"
+      ],
+      "status": "CORRECT",
+      "reason": "VII.12 specifies green and pink throne decoration. Current gold/green palette omits pink."
+    },
+    {
+      "keys": [
+        "ashby-prince-gallery",
+        "ashby-prince-gallery-steps"
+      ],
+      "status": "CORRECT",
+      "reason": "VII.12 specifies royal arms; remove invented fleur-de-lis and use a small royal three-lion device, without any new identity reveal."
+    },
+    {
+      "keys": [
+        "torquilstone-turret-gateway"
+      ],
+      "status": "CORRECT",
+      "reason": "Generated exterior staircase invents a direct escape route from an isolated turret. Use tightly framed internal steep stair and closed chamber door without establishing a connection to battlements."
+    },
+    {
+      "keys": [
+        "torquilstone-postern-crossing",
+        "torquilstone-postern-outwork",
+        "torquilstone-main-postern"
+      ],
+      "status": "SOURCE REVIEW",
+      "reason": "Generated solid plank bridge may misstate the retractable crossing/raft assault relation. Recheck XXVII.55, XXIX.17/55 and XXXI.13–22 before selecting."
+    },
+    {
+      "keys": [
+        "region-york-gateway"
+      ],
+      "status": "CORRECT",
+      "reason": "Regional York destination is illustrated as a generic interior hall. Replace with modest Norman-era settlement overview, no present Gothic Minster or later stone Clifford tower."
+    },
+    {
+      "keys": [
+        "copmanhurst-inner-threshold",
+        "copmanhurst-hut-gateway",
+        "copmanhurst-door"
+      ],
+      "status": "CORRECT",
+      "reason": "XVI.9 describes hut chiefly of felled tree trunks with moss/clay crevices. Replace stone-dominant fabric with rough logs, preserving rock behind and closed storage."
+    },
+    {
+      "keys": [
+        "coningsburgh-third-storey"
+      ],
+      "status": "CORRECT",
+      "reason": "Ceiling should read as intermediate floor, not open roof trusses, because XLII.13 places a round room directly above."
+    }
+  ],
+  "releaseApproval": false,
+  "refinement": "Individual full-resolution inspection: knight-bench-corner v1 already has oak boards; no floor correction required. Six other hall variants generated, selection review still open."
+}

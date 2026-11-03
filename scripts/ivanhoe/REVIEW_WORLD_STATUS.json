@@ -1,0 +1,63 @@
+{
+  "status": "SOURCE AND CANDIDATE APPLICATION REVIEW APPROVED; see LOCAL_RELEASE.json for final packaging gates",
+  "events": 537,
+  "characters": 78,
+  "directSnapshots": 1473,
+  "unplacedLocations": 5,
+  "items": 55,
+  "imageReferences": 334,
+  "limitations": [
+    "Five source-unlocated sites remain unpinned.",
+    "Dates, times, fictional geography and interior geometry are disclosed editorial reconstruction.",
+    "Companion application fixes are local; no remote release is authorized."
+  ],
+  "knowledge": {
+    "compiledFacts": 38,
+    "compiledReveals": 43,
+    "pending": []
+  },
+  "inventory": {
+    "actions": 66,
+    "itemStates": 92,
+    "placements": 6,
+    "reportedRelinquishments": 5,
+    "scope": "Source-reviewed last-known custody for the55 selected objects and mounts; unshown transfers and whereabouts remain unasserted. Application and final release evidence are recorded separately."
+  },
+  "artwork": {
+    "selectedIllustrations": 304,
+    "finalApplicationApproved": 304,
+    "missingCharacterIllustrations": 0,
+    "missingLocationIllustrations": 0,
+    "missingItemIllustrations": 0,
+    "scope": "All304 selected ordinary illustrations reviewed original/compressed/actual-app; one intentional shared identity portrait."
+  },
+  "playbackEvidence": {
+    "completed": 537,
+    "total": 537,
+    "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+    "matchesCurrentFixture": true,
+    "scope": "Actual Maps UI forward traversal; manual source/map/art review and packaged-byte identity are separate evidence"
+  },
+  "locationConditions": 10,
+  "pacing": {
+    "ratedNarrativeScenes": 523,
+    "scale": "1 rest/exposition through 5 immediate mortal danger",
+    "basis": "Explicit source-led editorial ratings; not an automatic title classifier",
+    "paratextTension": 1
+  },
+  "chronology": {
+    "status": "DISCLOSED EDITORIAL CLOCK; MANUAL SOURCE AND APPLICATION APPROVAL RECORDED SEPARATELY",
+    "opening": "1 June 1194, editorial",
+    "calendarMonths": 12,
+    "scope": "Source anchors, parallel strands, retrospective events,523 pressure ratings and actual calendar presentation reviewed."
+  },
+  "maps": {
+    "drawn": 30,
+    "placedLocations": 166,
+    "gateways": 26,
+    "applicationReview": "All30 plates,166 coordinates,26 gateways and all floor pairs manually reviewed;537-event playback complete.",
+    "fixtureEvidence": "scripts/ivanhoe/qa/map-navigation-review.json",
+    "illustratedReplacements": 30,
+    "awaitingIllustratedReplacement": []
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "scope": "Consolidation of completed historical individual visual review; not a new browser run or current fixture approval.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "rotherwood-guest-passage",
+      "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+      "originalSha256": "bfe60d755d59beac9e1895cd093502bdf148b7359f7cfb5dba41b48a451d30d1",
+      "compressedSha256": "d3622afa82fd9115a08e53f724ac9eb792df9209333544fa03c47eddbc2399e7",
+      "source": "VI.21–28",
+      "originalReview": "Opened original: three closed oak-partition doors and humble dark passage; no sleeper, named belongings or stone dungeon. Exact door alignment and lit torch placement illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-rotherwood-guest-passage.png",
+        "qa/place-rotherwood-guest-passage-lightbox.png"
+      ]
+    },
+    {
+      "key": "rotherwood-guests-gateway",
+      "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+      "originalSha256": "3161992a7fa6758acb396e5957d600c7d21082a469e15464b01684000b02bc7c",
+      "compressedSha256": "4634e25e32a410794b61ed1f01d7b336b15c0c46dfa5aba0f6635397a2c21b1b",
+      "source": "VI.21",
+      "originalReview": "Opened original: low humble outer sleeping range, plain doorway into darkness, no exposed room contents. Facade, barrel and moonlight illustrative, not new source facts.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-rotherwood-guests-gateway.png",
+        "qa/place-rotherwood-guests-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "rotherwood-hall-gateway",
+      "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+      "originalSha256": "23382cb23fc733409f42066529b01b0c8eb907632dfe28ea1a3610dcd726b870",
+      "compressedSha256": "7c0a392be611bec31aaba80ed4451a745b507e6d4a9a5d9ecc79697e33e0aba7",
+      "source": "III.3–6",
+      "originalReview": "Opened original: low long thatched timber hall, plain court entrance and crude smoking vent, no tall stone keep or exposed identity. Exact exterior entry construction illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-rotherwood-hall-gateway.png",
+        "qa/place-rotherwood-hall-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "rotherwood-rowena-chamber",
+      "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+      "originalSha256": "6cc4bbf5932796edd38ff6f2eb7d68483b2f676f0f1c0d15987f594ab4afacfd",
+      "compressedSha256": "894f142d1222b4a4646438111281e49f9a7f402e03d50e40f7e956d7dc246672",
+      "source": "VI.7–8",
+      "originalReview": "Opened v1 and v2 individually. V1 footstool at bed rejected; v2 places ivory stool before higher left seat. Four silver torch holders, purple curtains, hunting/hawking tapestry and draught screen retained. Exact furniture pattern, floor rugs and layout illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-rotherwood-rowena-chamber.png",
+        "qa/place-rotherwood-rowena-chamber-lightbox.png"
+      ]
+    },
+    {
+      "key": "rotherwood-postern",
+      "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+      "originalSha256": "66da0c2cc30b6e3ccf5aab0945b7cf1aae2d29e493fbbfba5e4f461591108af3",
+      "compressedSha256": "022cfc58e47bca67d2603efa6521e66f7ec9adef80b4fb524ed5c658b6af74fb",
+      "source": "VI.49–57",
+      "originalReview": "Opened original: narrow timber postern latch view, two-plank crossing and outer wicket, no travellers or baggage. Exact fittings and static door position illustrative, not an event snapshot.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-rotherwood-postern.png",
+        "qa/place-rotherwood-postern-lightbox.png"
+      ]
+    },
+    {
+      "key": "sunken-cross",
+      "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+      "originalSha256": "a03f06dcb5fa555db09ddbab0fe55d57bcd45cf47b4977f549969faa17475845",
+      "compressedSha256": "f58c75d1ebf59e9648eacf6680fe9723982974d487bf6c2e2b4765dbdc38f1ee",
+      "source": "II.35; II.52–61",
+      "originalReview": "Opened v1 and v2 individually. V2 clearly adds fourth path behind low cross; v1 ambiguous junction rejected. Small cross and four routes follow II.35; exact cross form and path angles illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-sunken-cross.png",
+        "qa/place-sunken-cross-lightbox.png"
+      ]
+    },
+    {
+      "key": "woodland-brooks",
+      "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+      "originalSha256": "13b1567b054c50b3176e2089985d6dc144523f5654d6d7de50ca52c9ff82f69b",
+      "compressedSha256": "a2ed874864c322ab9d8d8a4305f9b57926c7c9dab7c1378ac2d77579c24dd949",
+      "source": "II.62–63",
+      "originalReview": "Opened original: marshy woodland brook and narrow firmer crossing, no invented bridge or surveyed road. Source follows II.62–63; exact reeds/roots/composition illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-woodland-brooks.png",
+        "qa/place-woodland-brooks-lightbox.png"
+      ]
+    },
+    {
+      "key": "front-de-boeuf-boundary-oak",
+      "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+      "originalSha256": "886b8303a9f2ac6daeefd5e32e666442861c08f600b1e37ab3def8dfd77d3866",
+      "compressedSha256": "ca6f56ad92389f60e5f4ea192f23d59403914c80831517d937b5a8546132726d",
+      "source": "VI.65–68",
+      "originalReview": "Opened original: massive decayed hollow oak beside woodland paths, no sign, arms, territorial fence or castle. Decay follows VI.66; tree shape and route geometry illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-front-de-boeuf-boundary-oak.png",
+        "qa/place-front-de-boeuf-boundary-oak-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-path",
+      "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+      "originalSha256": "48b76bc0b7d276eb81fde915442af70e0c052858d2cba165a016950d3c3480e5",
+      "compressedSha256": "e59f08f8de91be147af07f77424f4a322eecd1819cc6d18587ef8cbc954ae5f8",
+      "source": "I.26–29",
+      "originalReview": "Opened original: long dim grassy oak vista with storm sunset and first rain, no herd or visitors. Distinct from rutted approach and morning paths; exact vegetation illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-forest-path.png",
+        "qa/place-forest-path-lightbox.png"
+      ]
+    },
+    {
+      "key": "road-to-sunken-cross",
+      "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+      "originalSha256": "4c61cc57af88e92095429339cf6b046857af43d43d5a5fab1c2ab6caa7d17a91",
+      "compressedSha256": "30dd0d0611787759cbde889675526a9fd58faf0fa0361c91379634f16e01327f",
+      "source": "II.35–52",
+      "originalReview": "Opened original: rutted twisting dusk woodland riding road without prematurely showing cross or travellers. Route curvature/terrain illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-road-to-sunken-cross.png",
+        "qa/place-road-to-sunken-cross-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-escape-paths",
+      "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+      "originalSha256": "7fd424f1d6d68564bf9054a059154452dffc9f4810fe0f4c833b11fd0df2dbb4",
+      "compressedSha256": "1949639745957673b042086d670bb72d51fb6ed31fecbea033d3250853f2d782",
+      "source": "VI.62–65",
+      "originalReview": "Opened original: narrow winding morning path among oak/beech roots, no identity cues, pursuit or survey claim. Exact trees/route illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-forest-escape-paths.png",
+        "qa/place-forest-escape-paths-lightbox.png"
+      ]
+    },
+    {
+      "key": "sheffield-overlook",
+      "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+      "originalSha256": "eb4411d2f326773c0a2a925a63198d7582fd103dc4b7a7dbf7b1ccd4c3d754ad",
+      "compressedSha256": "7ad2761a6786ffe252c529f6ec1900fda43981ea67013f4f036980e0429192a5",
+      "source": "VI.72–73",
+      "originalReview": "Opened original: gently rising bank with low distant timber settlement beneath, no identifiable later monument. Town roofs, water/bridge and precise terrain illustrative, not authenticated medieval Sheffield geography.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-sheffield-overlook.png",
+        "qa/place-sheffield-overlook-lightbox.png"
+      ]
+    },
+    {
+      "key": "west-riding-forest",
+      "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+      "originalSha256": "9012f4768c9e8ec8eabd57d9f1c415383850a38140615567da4cac0591edb1e7",
+      "compressedSha256": "d578d64c5caf4585f6bfe4ecdde383286a673c519fde7e1663af167ccc3ba5c3",
+      "source": "XVI.4–8",
+      "originalReview": "Opened original: dense evening woodland track and low fallen branch beside it, no hut, bell or traveller. Woodland vignette only, exact location remains unestablished.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-west-riding-forest.png",
+        "qa/place-west-riding-forest-lightbox.png"
+      ]
+    },
+    {
+      "key": "st-withold-gate",
+      "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+      "originalSha256": "980ce5940aba618421014105021e49f958481b29467d89971ed333358d8efec6",
+      "compressedSha256": "68f9e92fd43b2997a34884f1005f07de3c73656aedc15b558cfe0fb54a592835",
+      "source": "XVIII.17–19",
+      "originalReview": "Opened original: simple monastery court gate, quiet morning and low ancillary buildings, no dog/capture/omen. Architectural fabric and small chapel backdrop illustrative; no claim to exact historical abbey plan.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-st-withold-gate.png",
+        "qa/place-st-withold-gate-lightbox.png"
+      ]
+    },
+    {
+      "key": "woodland-noon-fountain",
+      "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+      "originalSha256": "05d0491ace5ee06b022b05028b3cdf6a808c0dab1ab30bac73d8206ff4c5fcf3",
+      "compressedSha256": "9afac1263ceec2e4d68f77970ddd9709a2fbd101312a4db7b01ea314cbab5a87",
+      "source": "XVIII.39",
+      "originalReview": "Opened original: shaded natural spring and shallow water basin, no statues, picnic or party. Source says fountain but does not specify construction; natural spring form illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-woodland-noon-fountain.png",
+        "qa/place-woodland-noon-fountain-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-ambush-brook",
+      "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+      "originalSha256": "e441cdf1d48e240de9014a07d2b0988723f8043986a7fc35dc5e0135bdc4bdfa",
+      "compressedSha256": "b9f127bdc1b6c6068676ef16727366c1324d4bbca5186c0ff1ec805de18e299b",
+      "source": "XIX.17",
+      "originalReview": "Opened original: narrow dingle ford, rough wet banks and low willow-like shrubs, no ambush, dragon symbols or captives. Source confinement and vegetation retained, exact geometry illustrative.",
+      "presentationReview": "Historical review consolidated: selected original, compressed WebP, actual app banner and full enlargement individually opened in earlier continuation. Last four batch04 views separately evidenced in place-batch04-final-four-manual-review.json. End-cursor presentation only; early disclosure and final artifact separate.",
+      "screenshots": [
+        "qa/place-forest-ambush-brook.png",
+        "qa/place-forest-ambush-brook-lightbox.png"
+      ]
+    }
+  ]
+}

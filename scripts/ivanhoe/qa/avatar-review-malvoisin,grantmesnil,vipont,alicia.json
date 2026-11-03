@@ -1,0 +1,56 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "malvoisin",
+    "grantmesnil",
+    "vipont",
+    "alicia"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-malvoisin",
+      "name": "Sir Malvoisin",
+      "eventId": "ivanhoe-source-11-p24",
+      "cursorLabel": "Ch.11 · CHAPTER VIII — The challengers prevail (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-malvoisin.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-malvoisin.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-grantmesnil",
+      "name": "Sir Hugh de Grantmesnil",
+      "eventId": "ivanhoe-source-11-p24",
+      "cursorLabel": "Ch.11 · CHAPTER VIII — The challengers prevail (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-grantmesnil.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-grantmesnil.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-vipont",
+      "name": "Ralph de Vipont",
+      "eventId": "ivanhoe-source-11-p24",
+      "cursorLabel": "Ch.11 · CHAPTER VIII — The challengers prevail (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-vipont.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-vipont.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-alicia",
+      "name": "Alicia",
+      "eventId": "ivanhoe-source-12-p24",
+      "cursorLabel": "Ch.12 · CHAPTER IX — Past Alicia’s gallery (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-alicia.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-alicia.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

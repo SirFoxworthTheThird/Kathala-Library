@@ -1,0 +1,331 @@
+{
+  "scope": "13 individual actual-app Ashby house/castle and corrected stair screenshots opened at native resolution; coordinate presentation only, not gateway traversal or first-disclosure approval",
+  "appCommit": "02dcd633",
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-ashby-gallery-steps",
+      "name": "The gallery steps",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1105,
+      "y": 863,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 961.3266219239374,
+          "y": 491.4398976982097
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "9cd3cedacf0e28c91437adce2ccfebdc3bc8e8bb8a2f59539c2b872016d8720b",
+      "screenshotSha256": "dfc2a3fcef65be85ad8ca8adc42aba111ee33251a39f2a1ee6273a37c0aa5dd0",
+      "manualObservation": "Corrected pin lies on the lower staircase of the Saxon gallery inset, rather than beside the stairs."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-prince-gallery-steps",
+      "name": "Steps to the prince’s seat",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 710,
+      "y": 598,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-prince-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 729.847874720358,
+          "y": 492.2352941176471
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "9cd3cedacf0e28c91437adce2ccfebdc3bc8e8bb8a2f59539c2b872016d8720b",
+      "screenshotSha256": "650446436018ae89f090f353f537d20bb00693a22426eadcdd532215733b81fe",
+      "manualObservation": "Corrected pin lies at the foot of the eastern throne-gallery steps, below the raised seat."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-queen-gallery-steps",
+      "name": "The Queen’s steps",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 300,
+      "y": 598,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-queen-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 730.1610738255033,
+          "y": 492.2352941176471
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "9cd3cedacf0e28c91437adce2ccfebdc3bc8e8bb8a2f59539c2b872016d8720b",
+      "screenshotSha256": "4334cfad3d347c0822030abfcca1a2bb0cfb6d15aa1f638dafe0efcaf1aece3a",
+      "manualObservation": "Corrected pin lies on the lowest Queen-gallery step where the victor kneels, rather than halfway up the stair."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-upper-room",
+      "name": "The upper room",
+      "mapLayerId": "ivanhoe-map-ashby-house-upper",
+      "x": 655,
+      "y": 550,
+      "levelLabel": "Upper apartment",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-upper-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.4454177897575,
+          "y": 492.2169811320755
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "304cb0818db4119f7ad1d93d7d241db8afca574bf55142cc89db298e35f6a0f6",
+      "manualObservation": "Pin is in the furnished upper apartment; floor selector remains visible beside the detail panel."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-sickroom",
+      "name": "The patient’s room",
+      "mapLayerId": "ivanhoe-map-ashby-house-sickroom",
+      "x": 760,
+      "y": 500,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-sickroom.png",
+      "presentation": {
+        "point": {
+          "x": 729.9595687331537,
+          "y": 491.92452830188677
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "f4581243dc909c1c154b9ab02e14aa459934828efd458c639aff363a04732a1c",
+      "manualObservation": "Pin is on the screened patient-room floor, away from the bed and textiles; room banner loads."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-hall",
+      "name": "The lower entrance hall",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 400,
+      "y": 660,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.7681940700808,
+          "y": 491.66037735849056
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "001dd52b8ad5229214480fbd1b5206b8f05f85225c84b96b3837698daebb15ff",
+      "manualObservation": "Pin is in the lower hall reached from the stair, inside the walls and before the court entrance."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-wicket",
+      "name": "Outside the wicket",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 735,
+      "y": 130,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-wicket.png",
+      "presentation": {
+        "point": {
+          "x": 730.5990566037735,
+          "y": 752.1603773584907
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "64706aa03fd86d684aec640d3f7fcc63028d9ec48b7cc7b00d1bbfef7aa67393",
+      "manualObservation": "Pin meets the small gate opening on the outside of the court wall."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-sickroom-gateway",
+      "name": "A room in the lodging",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 1360,
+      "y": 680,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-sickroom-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 976.611859838275,
+          "y": 492.37735849056605
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "3020934ae633c29c6f4fad27bef9ac1f9afd3de75ea1d7e6ae5297762f962ef2",
+      "manualObservation": "Pin is on the separate room-detail index in the map margin. Panel explicitly preserves unknown floor, exact position and room connections; no fabricated corridor."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-side-room",
+      "name": "The side room",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 940,
+      "y": 660,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-side-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.5552560646902,
+          "y": 491.66037735849056
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "2882aef66ae7bee82918270a308b1275c6b264b79ce9c13b2e4e4e5837d674d4",
+      "manualObservation": "Pin is inside the side apartment adjoining the lower hall."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-host-house-court",
+      "name": "The lodging court",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "x": 640,
+      "y": 320,
+      "levelLabel": "Lower hall and court",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-host-house-court.png",
+      "presentation": {
+        "point": {
+          "x": 730.2291105121294,
+          "y": 492.4716981132076
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "0d60cb76ccedc7c731f0b236c085eb02ffdec5e9b5600c5d69cc502fa1dcd35d",
+      "manualObservation": "Pin is inside the paved court, between the lower hall entrance and wicket."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-hall",
+      "name": "The feast hall",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "x": 610,
+      "y": 539,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.54,
+          "y": 491.4871306005721
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "23c0164a3ef5b5849635d53d60a189a41a6ed2d2a1d4cb164dbd93e290627302",
+      "manualObservation": "Pin is on the public banquet-hall floor beside its table."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-inner-hall",
+      "name": "The inner hall",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "x": 1180,
+      "y": 739,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-inner-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.52,
+          "y": 491.5510009532889
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "51bc2629bf52c362bb7578e0ded94b789f2d183abc52441b83fb61efcbdf99b1",
+      "manualObservation": "Pin is in the separate room-detail box. Reader copy states its relation to the banquet hall is not established."
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-castle-private-apartment",
+      "name": "The interior apartment",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "x": 1180,
+      "y": 349,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-castle-private-apartment.png",
+      "presentation": {
+        "point": {
+          "x": 729.52,
+          "y": 492.27645376549094
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+      "screenshotSha256": "6b0f1785d8523560851bea19ff96f6a38cf961b65714db270d0e272d5e4f2bae",
+      "manualObservation": "Pin is in the separate apartment-detail box. Reader copy states exact position and floor are unstated."
+    }
+  ]
+}

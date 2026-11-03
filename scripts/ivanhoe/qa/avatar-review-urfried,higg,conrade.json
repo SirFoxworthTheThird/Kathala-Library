@@ -1,0 +1,44 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "urfried",
+    "higg",
+    "conrade"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-urfried",
+      "name": "The old spinner",
+      "eventId": "ivanhoe-source-27-p0",
+      "cursorLabel": "Ch.27 · CHAPTER XXIV — The spinning woman (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-urfried.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-urfried.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-conrade",
+      "name": "Conrade of Mont-Fitchet",
+      "eventId": "ivanhoe-source-38-p19",
+      "cursorLabel": "Ch.38 · CHAPTER XXXV — The reforming visitor (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-conrade.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-conrade.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-higg",
+      "name": "The witness on crutches",
+      "eventId": "ivanhoe-source-40-p24",
+      "cursorLabel": "Ch.40 · CHAPTER XXXVII — A patient’s testimony (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-higg.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-higg.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

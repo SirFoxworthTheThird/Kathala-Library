@@ -1,0 +1,19 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "hundebert"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-hundebert",
+      "name": "Hundebert",
+      "eventId": "ivanhoe-source-6-p21",
+      "cursorLabel": "Ch.6 · CHAPTER III — The warder’s report (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-hundebert.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

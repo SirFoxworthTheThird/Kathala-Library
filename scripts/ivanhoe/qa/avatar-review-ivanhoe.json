@@ -1,0 +1,19 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "ivanhoe"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-ivanhoe",
+      "name": "Ivanhoe",
+      "eventId": "ivanhoe-source-15-p49",
+      "cursorLabel": "Ch.15 · CHAPTER XII — The wound discovered (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-ivanhoe.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

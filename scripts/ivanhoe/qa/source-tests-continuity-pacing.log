@@ -1,0 +1,26 @@
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-ivanhoe
+
+ ❯ tests/ivanhoeSource.test.ts (62 tests | 1 failed) 24631ms
+     × rejects a faction departure earlier than its membership 5726ms
+
+⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  tests/ivanhoeSource.test.ts > Ivanhoe complete source import > rejects a faction departure earlier than its membership
+Error: Test timed out in 5000ms.
+If this is a long-running test, pass a timeout value as the last argument or configure it globally with "testTimeout".
+ ❯ tests/ivanhoeSource.test.ts:452:3
+    450|     expect(validateEnrichment(w).status).toContain('NOT RELEASE APPROV…
+    451|   })
+    452|   it('rejects a faction departure earlier than its membership',()=>{
+       |   ^
+    453|     const w=JSON.parse(fs.readFileSync(new URL('../scripts/ivanhoe/aut…
+    454|     w.factionMemberships[0].endEventId=w.events[0].id
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed (1)
+      Tests  1 failed | 61 passed (62)
+   Start at  19:55:30
+   Duration  25.91s (transform 417ms, setup 0ms, import 517ms, tests 24.63s, environment 0ms)

@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "7da2d4c7b9fa7f530c4d0b8f8127fe89bc2aeb80545eebbc75fbe139bec7b77e",
+  "placeArtChecks": [
+    {
+      "key": "torquilstone-postern-parapet-gateway",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-postern-parapet",
+      "mapLayerId": "ivanhoe-map-torquilstone-postern-defence",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-room-gateway",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-dungeon-gateway",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-turret-gateway",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-postern-crossing",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

@@ -1,0 +1,31 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "edc20677099165ea57c23beff5bf7c04c15cccbf012ae3b1f375abf82082bd7e",
+  "itemArtChecks": [
+    {
+      "key": "miriam-balsam",
+      "eventId": "ivanhoe-source-31-p17",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "higg-box",
+      "eventId": "ivanhoe-source-40-p26",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rebecca-purse",
+      "eventId": "ivanhoe-source-13-p70",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "masters-gold",
+      "eventId": "ivanhoe-source-13-p23",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

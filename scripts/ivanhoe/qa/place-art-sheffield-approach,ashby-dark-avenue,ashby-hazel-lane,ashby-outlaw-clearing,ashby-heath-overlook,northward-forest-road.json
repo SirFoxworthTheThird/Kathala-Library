@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "sheffield-approach",
+      "mapLayerId": null,
+      "unmapped": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-dark-avenue",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-hazel-lane",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-outlaw-clearing",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-heath-overlook",
+      "mapLayerId": "ivanhoe-map-ashby-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "northward-forest-road",
+      "mapLayerId": null,
+      "unmapped": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

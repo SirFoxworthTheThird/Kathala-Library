@@ -1,0 +1,529 @@
+{
+  "scope": "All52 entry/return captures reviewed in13 two-by-two contact sheets; individual native map overviews and166 coordinate captures separately reviewed. This certifies end-of-reading navigation, not first-arrival disclosure or final artifact.",
+  "fixtureSha256": "9cd3cedacf0e28c91437adce2ccfebdc3bc8e8bb8a2f59539c2b872016d8720b",
+  "appCommit": "02dcd633",
+  "checks": [
+    {
+      "gatewayId": "ivanhoe-place-coningsburgh-keep-gateway",
+      "parentId": "ivanhoe-map-coningsburgh",
+      "childId": "ivanhoe-map-coningsburgh-keep",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-coningsburgh-keep-gateway.png",
+          "sha256": "87e257cfa2d34da8d6a1b7b4cc8af551c2cfed4339cfee1ef210a95053729148",
+          "selectedMap": "coningsburgh-keep"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-coningsburgh-keep-gateway.png",
+          "sha256": "841bc491544969f5f6620c103abbe880b301cb84700741dbbcda1053575a9da3",
+          "selectedMap": "coningsburgh"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-coningsburgh-guests-gateway",
+      "parentId": "ivanhoe-map-coningsburgh-keep",
+      "childId": "ivanhoe-map-coningsburgh-guests",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-coningsburgh-guests-gateway.png",
+          "sha256": "67b5a00f9f99ce2e797f6cc28dfdd6d0d4e47a728d00e9c25cf6c9a5ab437650",
+          "selectedMap": "coningsburgh-guests"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-coningsburgh-guests-gateway.png",
+          "sha256": "c9377a9568f52d7d6b441251f2957246847fc7fba8b4b0e0a99e3d3b58db3696",
+          "selectedMap": "coningsburgh-keep"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-templestowe-interior-gateway",
+      "parentId": "ivanhoe-map-templestowe",
+      "childId": "ivanhoe-map-templestowe-hall",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-templestowe-interior-gateway.png",
+          "sha256": "0eedc6e459cd9ede15d79f5b197c45cb3ecde13fbc54e0d4a03885d3fa755aa3",
+          "selectedMap": "templestowe-hall"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-templestowe-interior-gateway.png",
+          "sha256": "b86c71e903ca05c5be8dd120e53ee15fb78602aef051749161f229c7638867ae",
+          "selectedMap": "templestowe"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-templestowe-lists-gateway",
+      "parentId": "ivanhoe-map-templestowe",
+      "childId": "ivanhoe-map-templestowe-lists",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-templestowe-lists-gateway.png",
+          "sha256": "1e67fcf77762afa45f144dc8425f761820121e1fd078402bacc89eb8e28438da",
+          "selectedMap": "templestowe-lists"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-templestowe-lists-gateway.png",
+          "sha256": "db7d5c096d62eea577adde241709da5bde82e30903a02bc332396470089f5357",
+          "selectedMap": "templestowe"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-torquilstone-postern-parapet-gateway",
+      "parentId": "ivanhoe-map-torquilstone",
+      "childId": "ivanhoe-map-torquilstone-postern-defence",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-torquilstone-postern-parapet-gateway.png",
+          "sha256": "de15e62a5c1e8a4a8870b0a5ce600801e0427dbff0321a3cebd9a09edc1575df",
+          "selectedMap": "torquilstone-postern-defence"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-torquilstone-postern-parapet-gateway.png",
+          "sha256": "bfc6ec337ac29fa330b3fa6efb4b6b518e5855faae74283aadcc5c70e0b0cf85",
+          "selectedMap": "torquilstone"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-torquilstone-room-gateway",
+      "parentId": "ivanhoe-map-torquilstone",
+      "childId": "ivanhoe-map-torquilstone-interior",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-torquilstone-room-gateway.png",
+          "sha256": "6636b9ef81624ad46d6be00fcac91eb3e21d371886945f111af8db9efaa85503",
+          "selectedMap": "torquilstone-interior"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-torquilstone-room-gateway.png",
+          "sha256": "df7de44b44075f55dd300d31325350de8c7de060e7e3bcfebde2fcd754a3867e",
+          "selectedMap": "torquilstone"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-torquilstone-dungeon-gateway",
+      "parentId": "ivanhoe-map-torquilstone-interior",
+      "childId": "ivanhoe-map-torquilstone-dungeon",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-torquilstone-dungeon-gateway.png",
+          "sha256": "0791224779a7bcd3b2858163d15864c9165ec0a616dff174465056bc29c71f11",
+          "selectedMap": "torquilstone-dungeon"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-torquilstone-dungeon-gateway.png",
+          "sha256": "90a973ab8e68e518a0defd1a7d9878ccaa4e74756e0c06c1d53d8256fbb80703",
+          "selectedMap": "torquilstone-interior"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-torquilstone-turret-gateway",
+      "parentId": "ivanhoe-map-torquilstone-interior",
+      "childId": "ivanhoe-map-torquilstone-turret",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-torquilstone-turret-gateway.png",
+          "sha256": "5e46456854886c727931ef84e9cff0c990d8944ec6fa2e03cb108ff1a8f7c6fd",
+          "selectedMap": "torquilstone-turret"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-torquilstone-turret-gateway.png",
+          "sha256": "90a973ab8e68e518a0defd1a7d9878ccaa4e74756e0c06c1d53d8256fbb80703",
+          "selectedMap": "torquilstone-interior"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-ashby-host-house-sickroom-gateway",
+      "parentId": "ivanhoe-map-ashby-house",
+      "childId": "ivanhoe-map-ashby-house-sickroom",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-ashby-host-house-sickroom-gateway.png",
+          "sha256": "eb874fc46a0d6b4614b8e51610e675600c88204ce1d6d80965de136e0c473569",
+          "selectedMap": "ashby-house-sickroom"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-ashby-host-house-sickroom-gateway.png",
+          "sha256": "5ae8146ad4ac5a2a0a2a21e132fc3831c16dc01d61ad4660d3d3f56ea0ff2bf0",
+          "selectedMap": "ashby-house"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-copmanhurst-hut-gateway",
+      "parentId": "ivanhoe-map-copmanhurst",
+      "childId": "ivanhoe-map-copmanhurst-hut",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-copmanhurst-hut-gateway.png",
+          "sha256": "e3df49e8e7b8e08c290ae58d6b5ba4c9e17b82ad849b665f56040a1be03c9738",
+          "selectedMap": "copmanhurst-hut"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-copmanhurst-hut-gateway.png",
+          "sha256": "5d21140ff0fe45b50de078f0e729eaec20b02648b9742ab43686be90a3b93238",
+          "selectedMap": "copmanhurst"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-ashby-lists-gateway",
+      "parentId": "ivanhoe-map-ashby",
+      "childId": "ivanhoe-map-ashby-lists",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-ashby-lists-gateway.png",
+          "sha256": "c15c4456afccc03051654c84cdac3696a14a4ee676b2bd34c97f693af0d1d79a",
+          "selectedMap": "ashby-lists"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-ashby-lists-gateway.png",
+          "sha256": "11fb7be49a517fe96f6095a30826eceab5558420869f3a32e8bea2621c1b80bb",
+          "selectedMap": "ashby"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-ashby-house-gateway",
+      "parentId": "ivanhoe-map-ashby",
+      "childId": "ivanhoe-map-ashby-house",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-ashby-house-gateway.png",
+          "sha256": "8d64e5943104fa4137d0ee3511c86a4309cdcc14c5618ad5bb86552de0d50895",
+          "selectedMap": "ashby-house"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-ashby-house-gateway.png",
+          "sha256": "0e1e64718d3829fda8a4fef1b4ad039aedc5122bcee2e401c16a30e0b5d75fef",
+          "selectedMap": "ashby"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-ashby-castle-gateway",
+      "parentId": "ivanhoe-map-ashby",
+      "childId": "ivanhoe-map-ashby-castle",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-ashby-castle-gateway.png",
+          "sha256": "510b31ce404447ee65cdbadbf9dda9ccf35315f72085571a250245e9434d4187",
+          "selectedMap": "ashby-castle"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-ashby-castle-gateway.png",
+          "sha256": "13102fe5baa8216edbbab7f59e3032bc43fa0095eb556b3d5d170a1bfa3552d6",
+          "selectedMap": "ashby"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-ashby-woods-gateway",
+      "parentId": "ivanhoe-map-ashby",
+      "childId": "ivanhoe-map-ashby-woods",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-ashby-woods-gateway.png",
+          "sha256": "b0d1b0c119152a4d82a6d05e8b54332eaea7d44b47b833756862eee125d4e175",
+          "selectedMap": "ashby-woods"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-ashby-woods-gateway.png",
+          "sha256": "a6d7c25290a0aca4ee66eafe0c07d27acf02ea48b4e9186b8af1172f77442dfa",
+          "selectedMap": "ashby"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-rotherwood-rowena-gateway",
+      "parentId": "ivanhoe-map-rotherwood",
+      "childId": "ivanhoe-map-rotherwood-rowena",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-rotherwood-rowena-gateway.png",
+          "sha256": "b1dcdb9e660c5b59369227c22610f08a28d67a2c4bbdd8401510ae30bb53c0bf",
+          "selectedMap": "rotherwood-rowena"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-rotherwood-rowena-gateway.png",
+          "sha256": "94d662e522d2459159dac5035d228e15572266e04eb28dcd8edc7cc3489a2ef9",
+          "selectedMap": "rotherwood"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-rotherwood-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-rotherwood",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-rotherwood-gateway.png",
+          "sha256": "4a65dcbb7af36aab6452309691a8911a6b9cee26b27ea0fdf5b33931c11170f4",
+          "selectedMap": "rotherwood"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-rotherwood-gateway.png",
+          "sha256": "60eadc93084b2a1211dc9f25a22b950926908c3a94002e2e3010b562c4f86ebc",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-copmanhurst-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-copmanhurst",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-copmanhurst-gateway.png",
+          "sha256": "4ee1dde75b51453b57acdd6185ac888f1f8e2436152269418339e82e4601f214",
+          "selectedMap": "copmanhurst"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-copmanhurst-gateway.png",
+          "sha256": "83e225a8e2699fe7ca3911d2f12e6c78fd2435f0bffa0f85ce0305c887bcacce",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-torquilstone-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-torquilstone",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-torquilstone-gateway.png",
+          "sha256": "39ad7bc2387ba70d55dcff4a1bdc651eeea19dcab7231f8659011d8832582409",
+          "selectedMap": "torquilstone"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-torquilstone-gateway.png",
+          "sha256": "fc95a94835fbe86ed313d9ddde2521d214d2381acf582f6975582dacf429b59f",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-templestowe-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-templestowe",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-templestowe-gateway.png",
+          "sha256": "539312e5e87e4f918b1e6b7d36beae8880d1a561eac8eb94306256589d45a39b",
+          "selectedMap": "templestowe"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-templestowe-gateway.png",
+          "sha256": "fc95a94835fbe86ed313d9ddde2521d214d2381acf582f6975582dacf429b59f",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-botolph-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-botolph",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-botolph-gateway.png",
+          "sha256": "4c2109e116e73bdd7ee80645eb673a550998a8cb7a4a4a3dfbd9b12101415062",
+          "selectedMap": "botolph"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-botolph-gateway.png",
+          "sha256": "60eadc93084b2a1211dc9f25a22b950926908c3a94002e2e3010b562c4f86ebc",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-ashby-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-ashby",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-ashby-gateway.png",
+          "sha256": "5df27c1fe85d1d8aa3b9fa0a94bc9c06c0594c6cee7f0f339afc55ff86e1fa76",
+          "selectedMap": "ashby"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-ashby-gateway.png",
+          "sha256": "83e225a8e2699fe7ca3911d2f12e6c78fd2435f0bffa0f85ce0305c887bcacce",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-coningsburgh-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-coningsburgh",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-coningsburgh-gateway.png",
+          "sha256": "e4f45f0e884873794e50d5fb0d4c93ef435681908df67ce3be7734c9f6f8e98d",
+          "selectedMap": "coningsburgh"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-coningsburgh-gateway.png",
+          "sha256": "83e225a8e2699fe7ca3911d2f12e6c78fd2435f0bffa0f85ce0305c887bcacce",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-don-woods-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-don-woods",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-don-woods-gateway.png",
+          "sha256": "12a06383334f6a514683a57f3b0ae5cabcdbe8d782e97ba165641f4b55622133",
+          "selectedMap": "don-woods"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-don-woods-gateway.png",
+          "sha256": "6737f48fdafee12e5a4ae3e124eb3fb6a7e9450141cbc5048b348cd799891eea",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-region-york-gateway",
+      "parentId": "ivanhoe-map-england",
+      "childId": "ivanhoe-map-york",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-region-york-gateway.png",
+          "sha256": "13edd864d300f05e67d3ac326bda84d383e7f6e6e7b845fb418a62641b1a9c3f",
+          "selectedMap": "york"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-region-york-gateway.png",
+          "sha256": "207133bbe8697e4c049e0d0c0938f9040e52022bafae21995efdf5846184962a",
+          "selectedMap": "england"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-rotherwood-hall-gateway",
+      "parentId": "ivanhoe-map-rotherwood",
+      "childId": "ivanhoe-map-rotherwood-hall",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-rotherwood-hall-gateway.png",
+          "sha256": "2eb03480d85d6264edc643c9292f775d394dc69e8b78af0761b364fab75c9eb3",
+          "selectedMap": "rotherwood-hall"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-rotherwood-hall-gateway.png",
+          "sha256": "94d662e522d2459159dac5035d228e15572266e04eb28dcd8edc7cc3489a2ef9",
+          "selectedMap": "rotherwood"
+        }
+      ]
+    },
+    {
+      "gatewayId": "ivanhoe-place-rotherwood-guests-gateway",
+      "parentId": "ivanhoe-map-rotherwood",
+      "childId": "ivanhoe-map-rotherwood-guests",
+      "manualObservation": "Reviewed entry and return in QA contact sheet: destination illustrated map matches child, return restores parent; no blank map or retained wrong-layer image. Source-limited room indexes remain separate from claimed physical doors.",
+      "screenshots": [
+        {
+          "path": "qa/map-gateway-tour-ivanhoe-place-rotherwood-guests-gateway.png",
+          "sha256": "6da9650c50c817dce74538284526f72418c04f1f4262b63afeec89adddff0918",
+          "selectedMap": "rotherwood-guests"
+        },
+        {
+          "path": "qa/map-gateway-return-ivanhoe-place-rotherwood-guests-gateway.png",
+          "sha256": "94d662e522d2459159dac5035d228e15572266e04eb28dcd8edc7cc3489a2ef9",
+          "selectedMap": "rotherwood"
+        }
+      ]
+    }
+  ],
+  "sheets": [
+    {
+      "path": "qa/gateway-review-sheet-01.jpg",
+      "sha256": "23f46fce0fb668d5ff8da890036f7ccf89a1d4ad0c020914d79803d929f67af6"
+    },
+    {
+      "path": "qa/gateway-review-sheet-02.jpg",
+      "sha256": "2c63083fd3c8e40fd0b4225435342281aaa8b798a1f7e897e3d4a9a5588b1b35"
+    },
+    {
+      "path": "qa/gateway-review-sheet-03.jpg",
+      "sha256": "4f20f517fa356852615968e6a2cb75939066f34a2b1a7532ab14c86246dc0786"
+    },
+    {
+      "path": "qa/gateway-review-sheet-04.jpg",
+      "sha256": "923908c21f264afff219b16d4683cd16e88f7d3b6e4676fb403153ac0885fbf2"
+    },
+    {
+      "path": "qa/gateway-review-sheet-05.jpg",
+      "sha256": "612180483593a60ccd54b0da49e772f1ebff6f1f3131f1f36adab82d31577d8f"
+    },
+    {
+      "path": "qa/gateway-review-sheet-06.jpg",
+      "sha256": "5d201b755b2be1e794ad74c51d4c7e1eeb47e59dd31ecef4670d184ff6c5d64c"
+    },
+    {
+      "path": "qa/gateway-review-sheet-07.jpg",
+      "sha256": "a0ae3e5fa4d347e0a40cb8e6cf84b5994da909449bb14be68005c5de0b1e972e"
+    },
+    {
+      "path": "qa/gateway-review-sheet-08.jpg",
+      "sha256": "76c5aefa0bf846556a6f2c7eb47fcbc91050fed9ebba455fbca8d991ffdb19d2"
+    },
+    {
+      "path": "qa/gateway-review-sheet-09.jpg",
+      "sha256": "6985f44dd2f78902d9924bfde75a4c2d4003b90a69b515ab84de24c77ebac380"
+    },
+    {
+      "path": "qa/gateway-review-sheet-10.jpg",
+      "sha256": "a73b249e3bdbe221ebc2ad819d8db126a915c7a3ac32b733d0f98188ffd5dac8"
+    },
+    {
+      "path": "qa/gateway-review-sheet-11.jpg",
+      "sha256": "92ed8e6c58a28741dcf8cd0aa7e0253aee931de65049414fa3f5fde8d3ab8ebc"
+    },
+    {
+      "path": "qa/gateway-review-sheet-12.jpg",
+      "sha256": "51a038d6eebf2682313fc681b0497d4f6a2b3411cdcddc61d75c85c6fdea9c38"
+    },
+    {
+      "path": "qa/gateway-review-sheet-13.jpg",
+      "sha256": "ff17a0533c2ab5516d9baafc748daee4a0a6816f2c64667e53fe426663a04aae"
+    }
+  ]
+}

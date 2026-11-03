@@ -1,0 +1,78 @@
+{
+  "scope": "Six banner/lightbox pairs individually inspected at end cursor; earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "ashby-saxon-gallery",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "9cd70cec5a4cca569798638f8e4a4deeb2018758022aa55cd0413a485a8d0613",
+      "compressedSha256": "7ca2992d89057aa340240a6374132b19f9c70fccdb09e72b4335466f63a493af",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Empty timber gallery with bench tiers, illustrative decorative cloth; banner readable, full view clear.",
+      "screenshots": [
+        "qa/place-ashby-saxon-gallery.png",
+        "qa/place-ashby-saxon-gallery-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-gallery-steps",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "a8700ed0ee3a32ac687e17fa45dbf7c7a41a6145b444b8f4e5c4af92b0acb468",
+      "compressedSha256": "ee2f24f20a4314a818ecc0e7c81b096d888db3ceb36989392ab5c50324a4f87b",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Empty timber gallery steps; banner retains stairs, full image unsigned.",
+      "screenshots": [
+        "qa/place-ashby-gallery-steps.png",
+        "qa/place-ashby-gallery-steps-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-challenger-platform",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "3119f3b393d807f3b4ec237e157045140404139d74261d954bd9a15e9a6be815",
+      "compressedSha256": "6e6e14ad510e1e059e8a392ca987f8947f307b5b8b5b202a6c21cc5fb4285fbd",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Five closed russet-black pavilions, five shields and pennons; no future challengers shown.",
+      "screenshots": [
+        "qa/place-ashby-challenger-platform.png",
+        "qa/place-ashby-challenger-platform-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-lists-centre",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "6c989eb0cb89f552ab4b0864990d289584b46138b2da823dfd9243b4b7fcb262",
+      "compressedSha256": "b16c4b8bf8f4ffe083f5266343d531b740777f8b7e7c18babd2a60b4d9fed171",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Open turf with five tents and no central divider; banner and full view clear.",
+      "screenshots": [
+        "qa/place-ashby-lists-centre.png",
+        "qa/place-ashby-lists-centre-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-prince-gallery",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "2e8cbb8351d740da2bb0d74ca91cc1db87b856fd820b728e3c15fc6b4dd3b767",
+      "compressedSha256": "a770177516a28c9b44799b63dcae8b206fbface654980d76d4075a98d215f2df",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Red royal gallery with three gold lions; banner crops device but full view preserves it.",
+      "screenshots": [
+        "qa/place-ashby-prince-gallery.png",
+        "qa/place-ashby-prince-gallery-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-prince-gallery-steps",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e8adb033cbb1113c59597e3a3df55ca7e25af59053f74f41895b53146dc55d76",
+      "compressedSha256": "ef3c0637fc8ef505a971eabfb5c5216c4ce5779c0261aaf1bfa52249b1eb37d2",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Red-clothed timber royal steps with three gold lions; banner readable, full view clear.",
+      "screenshots": [
+        "qa/place-ashby-prince-gallery-steps.png",
+        "qa/place-ashby-prince-gallery-steps-lightbox.png"
+      ]
+    }
+  ]
+}

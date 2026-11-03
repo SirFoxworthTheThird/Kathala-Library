@@ -1,0 +1,34 @@
+{
+  "scope": "Direct departure endpoint regression in actual reading UI",
+  "observations": [
+    {
+      "moment": "A remembered conquest",
+      "key": "urfried",
+      "location": "The turret chamber",
+      "body": "Status\nAlive\nCurrent Location\n\nThe turret chamber\n\nStatus Notes\n\nRecognises Rebecca’s speech, recounts her family’s violent dispossession and refuses to aid escape."
+    },
+    {
+      "moment": "No inward bar",
+      "key": "urfried",
+      "location": "Unknown",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nLeaves the cell, locks the door and descends the steep turret stair; her next room is not stated."
+    },
+    {
+      "moment": "The edge of the parapet",
+      "key": "urfried",
+      "location": "Unknown",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nLeaves the cell, locks the door and descends the steep turret stair; her next room is not stated."
+    },
+    {
+      "moment": "The prayer within",
+      "key": "brian",
+      "location": "Unknown",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nLeaves Rebecca and descends the turret stair when the horn summons him; his next room is not stated.\n\nAs The muffled visitor\nStatus\nAlive\nCurrent Location\n\nThe turret chamber\n\nStatus Notes\n\nEnters in outlaw clothes with his face concealed, rejects wealth and switches to French."
+    },
+    {
+      "rewind": "No inward bar to A remembered conquest",
+      "restoredLocation": "The turret chamber"
+    }
+  ],
+  "pageErrors": []
+}

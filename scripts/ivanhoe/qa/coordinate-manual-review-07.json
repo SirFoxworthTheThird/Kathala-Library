@@ -1,0 +1,559 @@
+{
+  "scope": "23 individual actual-app Templestowe coordinate screenshots opened at native resolution; coordinate presentation only, not disclosure or gateway traversal approval",
+  "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+  "appCommit": "02dcd633",
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-templestowe-interior-gateway",
+      "name": "The Preceptory rooms",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 700,
+      "y": 636,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-interior-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.943741209564,
+          "y": 491.6292947558769
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3cbaba661e7c2cf13ee629f94353302a26179ad8c314e6eb01a002a524cce786",
+      "manualObservation": "Pin is on principal building with room map access; reconstructed footprint position is disclosed."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-lists-gateway",
+      "name": "The exercise enclosure",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 1120,
+      "y": 856,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-lists-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.9099859353023,
+          "y": 492.52622061482816
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "4b63ed3c99b20966369154683c3b91eaf130c9fe83792296a8cd6d3adad09134",
+      "manualObservation": "Pin is inside adjacent palisaded exercise enclosure; exact local compass position remains unstated."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-gate",
+      "name": "The Preceptory gate",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 540,
+      "y": 221,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-gate.png",
+      "presentation": {
+        "point": {
+          "x": 729.6708860759494,
+          "y": 623.4828209764919
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "845cceaf6e2895652a75721cc749a19540f8c31f9f09c931c51d55163e9a947d",
+      "manualObservation": "Pin meets entrance drawbridge, distinct from the road outside."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-garden",
+      "name": "The garden",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 340,
+      "y": 571,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-garden.png",
+      "presentation": {
+        "point": {
+          "x": 729.8298171589311,
+          "y": 492.5461121157323
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "15461407ebfa490bbd81af1392a95f90eaf720b49d54ec4daa37c2471f3745f7",
+      "manualObservation": "Pin is within enclosed garden paths beside the house."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe",
+      "name": "The Preceptory",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 730,
+      "y": 406,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe.png",
+      "presentation": {
+        "point": {
+          "x": 730.3699015471168,
+          "y": 491.8734177215191
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "7e695349adc5cc224bb0f7fdc968dd492779bd1f636369972af77768c7886537",
+      "manualObservation": "General house pin is a separate index for conversations with no specific room, not a claimed indoor position."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-nearby-road",
+      "name": "Road near the gate",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 540,
+      "y": 106,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-nearby-road.png",
+      "presentation": {
+        "point": {
+          "x": 729.6708860759494,
+          "y": 786.1048824593129
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "50abe77a25610fb012543d952045f4eb51b5b51a77cfa4aab62592f17d3d39f8",
+      "manualObservation": "Pin lies outside gate on approach road; source distance retained and direction explicitly unknown."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-procession-route",
+      "name": "The ceremonial approach",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "x": 1010,
+      "y": 456,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-procession-route.png",
+      "presentation": {
+        "point": {
+          "x": 730.3473980309423,
+          "y": 492.1681735985534
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "bf7021cdf0b05e603537572f8c356c6d114dfbf94ed6b37004a6099558c2dcdb",
+      "manualObservation": "Pin follows road up gentle rise toward enclosure, outside preceptory wall."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-master-seat",
+      "name": "The Master’s high seat",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 780,
+      "y": 855,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-master-seat.png",
+      "presentation": {
+        "point": {
+          "x": 730.030303030303,
+          "y": 491.9471365638767
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "e3792f43334373df6757c771430539add20c6cf85dabdcd0c6a4d2e173960314",
+      "manualObservation": "Pin meets foremost high chair, with four lower chairs behind and scribes table at its feet."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-preceptor-seats",
+      "name": "The lower preceptor seats",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 620,
+      "y": 905,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-preceptor-seats.png",
+      "presentation": {
+        "point": {
+          "x": 729.7676767676768,
+          "y": 492.2422907488987
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "b53754555c502239bc0af8a1aafebb1ff1ad2579531ffda62a378bd06cd50bdb",
+      "manualObservation": "Pin meets lower seats somewhat behind Master; distinct from lower knight benches."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-knight-bench-corner",
+      "name": "By the knights’ benches",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 900,
+      "y": 665,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-knight-bench-corner.png",
+      "presentation": {
+        "point": {
+          "x": 729.7272727272727,
+          "y": 491.6255506607929
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "b1f8f452dfbeb08c149ad1387c83d3e594558009e303f751ba77fe38704c2ee1",
+      "manualObservation": "Pin is beside extreme end of a knight bench below dais."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-accused-place",
+      "name": "Before the tribunal",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 780,
+      "y": 475,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-accused-place.png",
+      "presentation": {
+        "point": {
+          "x": 730.030303030303,
+          "y": 492.3039647577094
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "8c0c4916b95b6ff105fa82d908cbd612d29213c440a2b67af245530452beb3cb",
+      "manualObservation": "Pin identifies appointed seat before tribunal, beyond crowded public floor; exact seat placement disclosed as reconstructed."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-public-floor",
+      "name": "The lower public hall",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 450,
+      "y": 235,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-public-floor.png",
+      "presentation": {
+        "point": {
+          "x": 730.3636363636364,
+          "y": 602.6872246696034
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "1ef46c4b8a60d876f47cd42c2dd76b94a9ed921d6364ec2994efe24811150146",
+      "manualObservation": "Pin is on lower hall floor inside entrance, below the dais and benches."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-witness-place",
+      "name": "Before the dais",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 780,
+      "y": 385,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-witness-place.png",
+      "presentation": {
+        "point": {
+          "x": 730.030303030303,
+          "y": 491.5726872246696
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "598138476283415fe4ff60af581c6f9cf0fc82dcd2c77cec0a330de714394d47",
+      "manualObservation": "Pin is before dais on open floor; exact witness position disclosed as reconstruction."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-trial-approach",
+      "name": "The stair and gallery",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 110,
+      "y": 535,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-trial-approach.png",
+      "presentation": {
+        "point": {
+          "x": 462.55555555555554,
+          "y": 492.45814977973566
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "2d5f6877ffdbe08936cae0e57d410619abde2c9d4f32994fadd04185c7712a36",
+      "manualObservation": "Pin is in long side gallery before folding hall doors; floor selector locates it below prison-side rooms."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-great-hall",
+      "name": "The great hall",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "x": 780,
+      "y": 235,
+      "levelLabel": "Hall and gallery",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-great-hall.png",
+      "presentation": {
+        "point": {
+          "x": 730.030303030303,
+          "y": 602.6872246696034
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "e25e60b9c70790d618f7e3c480bfe33fbcaa3d4e0aab074927216beaa9e6d836",
+      "manualObservation": "General hall pin is on open public floor, distinct from tribunal seats and approach."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-rebecca-cell",
+      "name": "Rebecca’s prison chamber",
+      "mapLayerId": "ivanhoe-map-templestowe-rooms",
+      "x": 444,
+      "y": 620,
+      "levelLabel": "Prison-side rooms",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-rebecca-cell.png",
+      "presentation": {
+        "point": {
+          "x": 729.9428571428572,
+          "y": 492.30841121495337
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "1796c07c687ae63d7a27e5e8c8d7967eac2d460bd9d5c4336db89e9b75b2c282",
+      "manualObservation": "Pin lies inside upper prison chamber, with floor control highlighting prison-side rooms."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-adjacent-chamber",
+      "name": "The adjoining chamber",
+      "mapLayerId": "ivanhoe-map-templestowe-rooms",
+      "x": 1160,
+      "y": 620,
+      "levelLabel": "Prison-side rooms",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-adjacent-chamber.png",
+      "presentation": {
+        "point": {
+          "x": 730.5714285714284,
+          "y": 492.30841121495337
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "0b8aaa90a11bdcf02951ca2e50029d2355740746ba2d549714c95a2c54e696a6",
+      "manualObservation": "Pin lies inside separate chamber outside cell; no fabricated direct corridor shown."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-east-tribunal",
+      "name": "The eastern tribunal",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 1230,
+      "y": 625,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-east-tribunal.png",
+      "presentation": {
+        "point": {
+          "x": 948.1666666666667,
+          "y": 492.1971830985915
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "b8fac13db8efcfe26cadb6faf94c0cabc06ea466c726625fd982e1a90c986ca5",
+      "manualObservation": "Pin lies on raised eastern platform, distinct from champion ground below."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-east-station",
+      "name": "The upper end of the lists",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 1060,
+      "y": 515,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-east-station.png",
+      "presentation": {
+        "point": {
+          "x": 729.7940379403794,
+          "y": 491.7464788732394
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "1726b75cf3bc20cd518af7c8fa9cda7f2e7f1861c146326c0fe95152eb37ca09",
+      "manualObservation": "Pin is on ground before eastern tribunal, opposite western accused position."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-lists",
+      "name": "The judicial lists",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 700,
+      "y": 515,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-lists.png",
+      "presentation": {
+        "point": {
+          "x": 729.769647696477,
+          "y": 491.7464788732394
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c05d5bbaaea2f25833655a67861fea7ec9fef5c59343ff4e87910bbd42c104a3",
+      "manualObservation": "General lists pin is on open riding ground, inside palisade."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-spectator-area",
+      "name": "The spectators’ places",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 650,
+      "y": 945,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-spectator-area.png",
+      "presentation": {
+        "point": {
+          "x": 730.0718157181572,
+          "y": 347.69014084507035
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "9a9674a51cc2aca1302f7caf7a00c61a66bae20a478d085c7d0e5f728d5c73d7",
+      "manualObservation": "Pin lies on benches outside palisade, not in combat field."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-spectator-edge",
+      "name": "Apart from the countrymen",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 1250,
+      "y": 945,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-spectator-edge.png",
+      "presentation": {
+        "point": {
+          "x": 831.4457994579946,
+          "y": 347.69014084507035
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "32a84c91e87cff13bbf0a3e6b3ac6532e5f9bc5b2a4f281e76bcc89237189ee2",
+      "manualObservation": "Pin lies apart from benches at outer edge of gathering, outside combat palisade."
+    },
+    {
+      "markerId": "ivanhoe-place-templestowe-west-lists",
+      "name": "The western end",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "x": 250,
+      "y": 465,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-templestowe-west-lists.png",
+      "presentation": {
+        "point": {
+          "x": 660.489159891599,
+          "y": 492.4507042253522
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "1c59426a5475697cca3b3d3a60cc2d410da5b6e525c35457f53da54dbd5432ec",
+      "manualObservation": "Pin is on western ground near prepared stake, opposite eastern tribunal; scene-gating of stake image remains a separate disclosure check."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ivanhoe-warhorse",
+    "source": "XL.20; XLI.3",
+    "prompt": "Square full-bleed mature painterly historical literary object illustration for Walter Scott's Ivanhoe, late twelfth-century England. Oil and watercolour texture, restrained natural light, complete subject visible, no people, readable writing, watermark, border, royal identity symbol or future outcome. One strong riding DESTRIER standing right-facing three-quarter view beside a quiet wooded track, DAPPLE GREY coat, dark mane and tail, plain period leather high war saddle and dark girth and bridle, healthy and alert, no battle scene or rider. Source establishes Ivanhoe's own warhorse, later ridden by Gurth while Ivanhoe rides the prior's gentler palfrey; coat colour and tack details are unspecified and illustrative. No modern horse blanket, plate barding, coat of arms, broken lance or wounds. A distinct horse reference portrait.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-56c0ce6d-6b97-48d0-9174-26923ecd8d68.png",
+    "originalReview": "Opened v1 and corrected v2 individually. Selected v2 removes unsupported castle/bridge, retains grey destrier and tack. Own warhorse follows XL.20 and XLI.3; dapple-grey colour and tack illustrative.",
+    "selectedVariant": "v2",
+    "editPrompt": "Edit only the distant right background: remove ALL castle buildings, towers and the arched stone bridge completely. Replace with softly blurred ordinary forest and a small pale strip of sky. Keep the grey horse, every part of anatomy and tack, its exact dapple coat, wooded track, near tree, lighting and painterly composition unchanged. No building, structure, person, emblem or text."
+  },
+  {
+    "id": "zamor",
+    "source": "XLIII.56",
+    "prompt": "Square full-bleed mature painterly historical literary object illustration for Walter Scott's Ivanhoe, late twelfth-century England. Oil and watercolour texture, restrained natural light, complete subject visible, no people, readable writing, watermark, border, royal identity symbol or future outcome. A gallant elegant DARK BAY warhorse, compact athletic build, bright alert eyes, dark mane and tail, standing in left-facing three-quarter profile on neutral pale grass against a soft warm grey sky. Modest period dark red wool saddle blanket under a high dark leather war saddle and simple bridle, all unmarked. Source names Brian's horse Zamor in a proposed flight and recounts its acquisition from the Soldan of Trebizond; no colour, breed or decoration is specified. Dark bay colour and tack illustrative. No rider, Eastern costume, crescent symbols, royal devices, flight, ship, battlefield, dead body or hypothetical escape shown as fact.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-bf9a3918-e92e-485d-a301-d2ccafe66e4f.png",
+    "originalReview": "Opened original: alert dark bay horse, unmarked red saddlecloth, no hypothetical escape or former victory depicted. Name and gallantry follow XLIII.56; colour, build and tack illustrative."
+  },
+  {
+    "id": "loan-armour",
+    "source": "VIII.40; X.23,48",
+    "prompt": "Square full-bleed mature painterly historical literary object illustration for Walter Scott's Ivanhoe, late twelfth-century England. Oil and watercolour texture, restrained natural light, complete subject visible, no people, readable writing, watermark, border, royal identity symbol or future outcome. An empty suit of medieval STEEL ARMOUR RICHLY INLAID WITH GOLD, anonymous and unworn, arranged on a plain wooden stand over grey linen in a neutral canvas pavilion. Late twelfth-century literary tournament harness with long fine linked mail hauberk and coif, a simple steel nasal helmet, articulated protective steel elements restrained rather than late Renaissance full plate, delicate gold inlay along steel edges. No body, face, human silhouette filling it, shield, uprooted oak emblem, readable motto, royal symbols or future wound. Source specifies steel richly inlaid gold, not exact construction: keep display interpretive and period restrained. Not modern fantasy armour.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-2cc6c38b-778e-4a85-af69-bcb2c31f8342.png",
+    "originalReview": "Opened original: empty gold-inlaid steel/mail tournament harness, no wearer, shield, name or wound. Scott specifies steel richly inlaid gold and later breastplate/gorget; exact component construction is literary interpretation, not archaeological reproduction."
+  },
+  {
+    "id": "chaplet",
+    "source": "VIII.21; XII.44–47",
+    "prompt": "Square full-bleed mature painterly historical literary object illustration for Walter Scott's Ivanhoe, late twelfth-century England. Oil and watercolour texture, restrained natural light, complete subject visible, no people, readable writing, watermark, border, royal identity symbol or future outcome. One SPLENDID VICTOR'S CHAPLET, a light circular wreath of fresh green leaves interwoven with restrained small cream and pale red flowers, resting empty on a dark muted plum velvet cushion, close three-quarter object composition. Source specifies a splendid chaplet and wreath of chivalry without materials or flower species; vegetation and colours are illustrative, not a claim about an exact botanical composition. No metal royal crown, jewels, readable text, helmet, human head, wounded victor, kneeling ceremony or identity reveal. Natural delicate woven form, no enormous fantasy blossoms.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-c591053a-d33f-4584-8b3d-51db57395b79.png",
+    "originalReview": "Opened floral v1 and gold v2 individually. Floral v1 rejected because VIII.21 explicitly specifies thin gold plate cut into laurel crown. Selected v2 has low gold laurel leaves, no flowers, gems or recipient.",
+    "selectedVariant": "v2",
+    "editPrompt": "Square full-bleed mature painterly historical literary object plate for Walter Scott's Ivanhoe, oil and watercolour texture, restrained daylight, entire subject visible, no people, readable writing, watermark, border, invented heraldry or future outcome. A single lightweight VICTOR'S CORONET composed of THIN GOLD PLATE CUT INTO THE SHAPE OF A LAUREL CROWN. Show a low delicate oval circlet formed of overlapping flat laurel-shaped GOLD LEAVES, all metallic gold, resting empty on plain charcoal-grey linen. No flowers, green living leaves, gems, high royal crown spikes, cross, heraldic flag, coloured cushion tassels, helmet, head or award ceremony. The explicitly source-grounded material and design are thin gold plate cut like a laurel crown in VIII.21. Subtle hammered surface and convincing thin leaf edges, modest elegant construction."
+  }
+]

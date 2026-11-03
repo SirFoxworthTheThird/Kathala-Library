@@ -1,0 +1,23 @@
+{
+  "id": "disinherited",
+  "original": "scripts/ivanhoe/art-originals/disinherited-v3.png",
+  "source": "VIII.40",
+  "prompt": "Create one square1:1 original historical character portrait for Walter Scott's Ivanhoe: the anonymous DISINHERITED KNIGHT as he FIRST enters the Ashby lists, chapterVIII paragraph40. His identity must remain completely concealed. Rather slender armoured knight of moderate height, face fully hidden inside a plain early-medieval closed great helm with a narrow dark eye slit, NO exposed eyes, hair, skin or facial features. Steel mail and restrained steel protection richly inlaid with small gold patterns, no later fantasy sculpted shoulder plates. Mounted on a gallant BLACK HORSE; show the horse's neck low left. Carries a shield on viewer right bearing a single young OAK-TREE PULLED UP BY ITS ROOTS, a small leafy trunk and visibly spreading roots, a clear painterly heraldic device. The shield's lower margin and its motto lie outside the lower edge of the portrait: DO NOT generate any lettering. The accompanying source text preserves the actual motto. A lance is lowered in a graceful salute, diagonally across the lower image without hiding the chest or shield. Head and shoulders central with generous room for a circular avatar. Softly blurred wooden tournament barriers and pale Ashby meadow in daylight. Distinctive silver-grey and understated gold armour, restrained oak greens, black horse, dignified youthful bearing. Mature painterly oil-and-watercolour literary bookplate. Exact helm design, gold ornament, shield colour and horse tack are illustrative choices. Full-bleed square. No future named identity, face reveal, royal lions, crown, wound, marriage, white framing, text, letters, logos or watermark.",
+  "generator": "built-in image_gen",
+  "appReviewed": false,
+  "editPrompts": [
+    "Edit this anonymous mounted knight illustration. Keep the fully closed helmet with its dark eye slit and its small gold inlay, the concealed identity, black horse, young uprooted oak shield, lowered lance and composition. Replace ALL articulated solid plate armour on arms and legs with small interlinked steel MAIL over padded linen; no smooth elbow, forearm or knee plates. Replace the repeated gold fleurs-de-lis on his cloth garment with PLAIN unmarked off-white cloth. Remove heraldic fleur-de-lis and animal devices from background pennants, leaving plain coloured cloth. Keep small restrained gold edging on the helmet and tack to reflect the text's richly inlaid steel, but no royal heraldry. Do not add a face, skin, eyes, crown, text, motto or new emblem. The only heraldic device must be the uprooted young oak on his shield. Maintain the full square painterly bookplate.",
+    "Keep this entire illustration unchanged except add the source-specified motto to the shield. On the light shield field, below the tree's roots and above the pointed lower rim, write exactly one small clear dark word: DESDICHADO. Spell it D E S D I C H A D O, ten letters, on one line in simple dark medieval-style capitals. The word is Spanish and must NOT be translated or replaced. Make it modest but legible, following the shield surface without blocking the oak roots. No other writing anywhere. Preserve the fully concealed face, mail armour, gold-inlaid helmet, black horse, uprooted oak, plain clothing and pennants, lance, composition and painterly texture."
+  ],
+  "retainedCandidates": [
+    {
+      "path": "scripts/ivanhoe/art-originals/disinherited-v1.png",
+      "review": "Opened initial original: face concealed, black horse and uprooted oak, but late articulated arm/leg plates and invented fleurs-de-lis needed removal."
+    },
+    {
+      "path": "scripts/ivanhoe/art-originals/disinherited-v2.png",
+      "review": "Opened mail/plain-cloth revision: removed plates and unrelated heraldry. Shield lower field was visible, so the source motto could not honestly be described as cropped away; retained and added exact motto in v3."
+    }
+  ],
+  "originalReview": "Opened selected v3: anonymous fully closed dark-slit helmet, gold-inlaid steel, mail, plain cloth, black horse, lowered lance and uprooted oak. Shield now reads DESDICHADO exactly; no face, hair, eyes or future named identity. Exact helm shape, gold ornament, tack, shield field colour, motto lettering and setting details are illustrative choices. No unrelated royal device or late articulated plate armour."
+}

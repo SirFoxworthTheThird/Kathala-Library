@@ -1,0 +1,3 @@
+scripts/ivanhoe/audit-authoring-model.mjs:107: new blank line at EOF.
+scripts/ivanhoe/qa/artwork-integrity-current.log:1: trailing whitespace.
++{"status": "PASSED SELECTED ART INTEGRITY ONLY; ALL ENTITY SLOTS COVERED; FINAL READING-ORDER APPROVAL OPEN", "selected": 304, "missing": {"characters": 0, "locations": 0, "items": 0}}

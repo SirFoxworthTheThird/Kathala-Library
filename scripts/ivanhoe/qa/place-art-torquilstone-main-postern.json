@@ -1,0 +1,14 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "7f58d9bb24d5b1c306124a9640d6140e74cfd8b88e9ea48aa07399d73fb84c41",
+  "placeArtChecks": [
+    {
+      "key": "torquilstone-main-postern",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

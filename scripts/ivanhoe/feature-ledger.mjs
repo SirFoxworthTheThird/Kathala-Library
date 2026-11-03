@@ -1,0 +1,85 @@
+// Story-grounded supporting features. Paragraph anchors still need resolving
+// against final scenes and checking in the actual application's reading gate.
+export const factions=[
+{key:'rotherwood',name:'The household of Rotherwood',description:'The household served by the swineherd and jester at Rotherwood.',source:'I.9–10; III–VI'},
+{key:'temple',name:'The Order of the Temple',description:'A military religious order whose knights combine monastic vows with warfare.',source:'II.32; XXXV–XXXVII'},
+{key:'hospital',name:'The Knights of Saint John',description:'The military religious order represented among the Ashby challengers by Ralph de Vipont.',source:'VII–VIII'},
+{key:'free-companions',name:'The Free Companions',description:'The hired fighting company led by De Bracy.',source:'VII; XV'},
+{key:'forest-company',name:'The forest company',description:'The archers and staff-fighters who assemble under their captain in the woodland.',source:'XI; XIX–XX'},
+{key:'john-party',name:'Prince John’s party',description:'The prince’s advisers, followers and military allies gathered around his ambitions.',source:'VII.17–20; XIII–XV'},
+{key:'royal-followers',name:'Richard’s followers',description:'Those who serve the absent king and gather in support of his authority.',source:'XIII–XIV; XXXIV; XLI; XLIV'},
+]
+
+export const relationships=[
+{a:'cedric',b:'gurth',label:'Master and thrall',source:'I.9',changes:[{source:'XXXII.20',label:'Former master and freed servant',note:'Cedric grants Gurth freedom and land.'},{source:'XL.30',label:'Household allies',note:'Gurth serves as Ivanhoe’s squire.'}]},
+{a:'cedric',b:'wamba',label:'Master and jester',source:'I.10',changes:[{source:'XXXII.17',label:'Grateful master and loyal jester',note:'Cedric embraces Wamba and thanks him for taking his place in captivity.'}]},
+{a:'gurth',b:'wamba',label:'Companions in service',source:'I.9–29',changes:[{source:'XIX.29–33',label:'Allies in the rescue',note:'Gurth returns to help despite his grievance against Cedric.'}]},
+{a:'aymer',b:'brian',label:'Travelling companions',source:'II.3–51',changes:[]},
+{a:'cedric',b:'rowena',label:'Guardian and ward',source:'II.46',changes:[]},
+{a:'isaac',b:'rebecca',label:'Father and daughter',source:'VII.16',changes:[]},
+{a:'cedric',b:'ivanhoe',label:'Estranged father and son',source:'XII.49',changes:[{source:'XLII.34–37',label:'Reconciled father and son',note:'Cedric raises and forgives Wilfred at Richard’s request.'}]},
+{a:'ivanhoe',b:'rowena',label:'Affection under constraint',source:'XII.47–49; XXVIII',changes:[{source:'XLIV.50',label:'Marriage approved',note:'Cedric gives his consent.'},{source:'XLIV.51',label:'Husband and wife',note:'The marriage is celebrated at York Minster.'}]},
+{a:'ivanhoe',b:'rebecca',label:'Patient and healer',source:'XXVIII.17–27',changes:[{source:'XLIII.77–78',label:'Champion and appellant',note:'Rebecca accepts Ivanhoe as her defender, while fearing for his wounds.'}]},
+{a:'brian',b:'rebecca',label:'Coercer and captive',source:'XXIV.30–41',changes:[{source:'XLIII.84',label:'Coercion ended',note:'Brian dies in the lists.',isActive:false}],note:'His demands and her refusal are not a reciprocal romance or an agreement to convert.'},
+{a:'debracy',b:'rowena',label:'Unwelcome claimant and captive',source:'XXIII',changes:[{source:'XXXI.69',label:'Former captor and freed captive',note:'Rowena is placed under Gurth’s protection for removal to safety.',isActive:false}],note:'His proposal under confinement is not an engagement.'},
+{a:'richard',b:'john',label:'Brothers divided by ambition',source:'VII.18; XIII–XIV',changes:[{source:'XLIV.39–41',label:'A lenient reunion',note:'Bohun reports Richard received John warmly and sent him to their mother.'}]},
+{a:'blackknight',b:'hermit',label:'Guest and reluctant host',source:'XVI.12–26',changes:[{source:'XVII',label:'Companions in song',note:'The meal and music overcome their initial hostility.'},{source:'XX',label:'Allies in the rescue',note:'Both join the plan to free the captives.'}]},
+{a:'edith',b:'athelstane',label:'Mother and son',source:'XLII.9–11',changes:[{source:'XLII.51',label:'Mother and recovered son',note:'Edith joins the returned Athelstane’s gathering.'}]},
+{a:'malvoisin',b:'albert',label:'Brothers',source:'XXXVI.3',changes:[],note:'Albert is explicitly Philip’s brother. Preserve the source’s earlier inconsistent tournament forename in the prose rather than invent another combatant.'},
+]
+
+export const facts=[
+{key:'ivanhoe-left-coningsburgh',title:'Ivanhoe has left the castle',description:'The company discovers that Ivanhoe left the castle after a brief interview with a Jew and after calling for Gurth and his armour. His current whereabouts are not given.',reader:'XLII.69',learners:[],kind:'reported departure; no new physical appearance',stateTag:'offstage-location-unknown:ivanhoe'},
+{key:'gurth-called-away',title:'Gurth called away with Ivanhoe',description:'The account of Ivanhoe’s departure says he called for Gurth and his armour. Gurth’s current location is not established by this report.',reader:'XLII.69',learners:[],kind:'reported summons and departure; no invented travel scene',stateTag:'offstage-location-unknown:gurth'},
+{key:'rebecca-left-room',title:'Rebecca has left the upper room',description:'Isaac notices that Rebecca left the apartment unobserved. Her destination is not established by this report.',reader:'X.65',learners:['isaac'],stateTag:'offstage-location-unknown:rebecca',kind:'reported absence; no new Rebecca presence snapshot'},
+{key:'brian-directions',title:'The strangers were sent the wrong way',description:'Wamba deliberately directed the riders away from Rotherwood.',reader:'II.37–39',learners:['gurth'],earlierLearner:{key:'wamba',source:'II.35'},kind:'direct admission'},
+{key:'isaac-danger',title:'A warning before dawn',description:'The Palmer warns Isaac that Brian’s servants have orders to seize him.',reader:'VI.35',learners:['isaac'],kind:'translated warning; Brian’s earlier untranslated words do not reveal it to the reader'},
+{key:'wounded-victor',title:'The victor is Ivanhoe',description:'The unhelmeted victor is Cedric’s son Ivanhoe, wounded in the side and alive despite his collapse.',reader:'XII.49',learners:['cedric','rowena'],kind:'direct recognition'},
+{key:'blackknight-left-lists',title:'The black-armoured rider has left',description:'The preferred victor cannot be found. Spectators report that he rode away into a forest glade after the contest; his current whereabouts are not established.',reader:'XII.39',learners:[],kind:'narrated report of absence, not a new physical appearance',stateTag:'offstage-location-unknown:blackknight'},
+{key:'ivanhoe-removed-lists',title:'The wounded knight has been taken away',description:'Fitzurse tells John that Ivanhoe has already been removed from the lists and is in the care of friends. He gives no current room or precise location.',reader:'XIII.9',learners:['john'],kind:'attributed report about an absent wounded man',stateTag:'offstage-location-unknown:ivanhoe'},
+{key:'richard-freed',title:'Richard has been released',description:'John interprets the foreign billet as news that Richard has obtained his freedom.',reader:'XIII.23',learners:['john','fitzurse','debracy'],kind:'interpretation of a written warning; it does not identify the Black Knight'},
+{key:'litter-patient',title:'The prisoner in the litter',description:'The wounded captive is Ivanhoe, whose presence De Bracy uses in his threat to Rowena.',reader:'XXIII.22',learners:['rowena'],kind:'coercive disclosure; murder threat is not an accomplished death'},
+{key:'ulrica-lineage',title:'The spinner’s ancestry',description:'The woman known as Urfried is Torquil Wolfganger’s daughter Ulrica, whom Cedric had mourned as dead.',reader:'XXVII.14',learners:['cedric'],kind:'recognition and testimony; parentage is discussed earlier at 9–10 but the proper name is not supplied until 14'},
+{key:'front-parricide',title:'A concealed murder',description:'Ulrica recounts Reginald’s killing of his father.',reader:'XXVII.19',learners:['cedric'],kind:'past event reported; later corroboration at XXX.30 is not part of this early fact'},
+{key:'miriam',title:'Rebecca’s teacher',description:'Rebecca learned her healing knowledge from Miriam, whose death the narrator attributes to persecution.',reader:'XXVIII.15',learners:[],kind:'narrated background; no physical Miriam snapshot'},
+{key:'first-bridge',title:'The first crossing is destroyed',description:'Rebecca reports that the Templar has destroyed the plank connecting the captured outwork to the castle.',reader:'XXIX.55',learners:['ivanhoe'],kind:'Rebecca’s witnessed report; no early disclosure of the later replacement crossing'},
+{key:'baron-alive',title:'The wounded Baron still lives',description:'Brian tells De Bracy that Front-de-Boeuf is alive but gravely wounded.',reader:'XXX.5',learners:['debracy'],kind:'report of absent person; no room snapshot for the Baron'},
+{key:'castle-fire',title:'Fire under the chambers',description:'Ulrica tells Front-de-Boeuf that she has lit the fuel below his apartments.',reader:'XXX.39–42',learners:['frontdeboeuf'],kind:'admission supported by smoke and flame'},
+{key:'athelstane-reported-dead',title:'Athelstane is mourned as dead',description:'Cedric’s company believes Athelstane died after being struck down during the escape.',reader:'XXXII.12',learners:['cedric','wamba'],kind:'mistaken death report',stateTag:'offstage-death:athelstane',correction:'XLII.38–44'},
+{key:'front-death',title:'The Baron’s death',description:'The narrator confirms that the fire has consumed Front-de-Boeuf with his fortress.',reader:'XXXI.92',learners:[],kind:'offstage narrative confirmation',stateTag:'offstage-death:frontdeboeuf'},
+{key:'knight-richard',title:'The Black Knight’s identity',description:'De Bracy reports that the man who took him prisoner at Torquilstone is Richard of England.',reader:'XXXIV.22',learners:['john','fitzurse'],earlierLearner:{key:'debracy',source:'XXXI.45'},kind:'private knowledge becomes a reader-visible report'},
+{key:'captivity-templestowe',title:'News of the Templar',description:'Locksley reports that scouts place Brian at the next Preceptory of his Order, giving Isaac hope of ransoming Rebecca.',reader:'XXXIII.56',learners:['isaac'],kind:'reported location, not Rebecca’s physical presence in the forest'},
+{key:'higg-box',title:'The medicine box taken',description:'The Grand Master takes the witness’s old balsam box and treats healing as evidence of sorcery.',reader:'XXXVII.26',learners:['higg','rebecca'],kind:'direct confiscation; allegation of magic is not a verified fact'},
+{key:'champion-demand',title:'The hidden advice',description:'The scrap tells Rebecca to demand a champion. She reads it and destroys it.',reader:'XXXVII.50',learners:['rebecca'],kind:'private written advice'},
+{key:'glove-hidden',title:'Albert keeps the glove',description:'Albert hides Rebecca’s glove while claiming Brian has accepted the pledge.',reader:'XXXVIII.25',learners:[],kind:'narrator reveals deceit, not an actual handoff to Brian'},
+{key:'appeal-delivered',title:'Rebecca’s appeal delivered',description:'Higg delivers Rebecca’s appeal to Isaac, and Ben Samuel reads it aloud.',reader:'XXXVIII.47',learners:['bensamuel'],earlierLearner:{key:'isaac',source:'XXXVIII.40'},kind:'message delivery and later reading; no early disclosure of the letter’s contents'},
+{key:'warning-sender',title:'The warning’s sender',description:'Brian says he sent the scrap advising Rebecca to seek trial by combat.',reader:'XXXIX.29',learners:['rebecca'],kind:'admission; document already destroyed'},
+{key:'assassin-fitzurse',title:'The Blue Knight unmasked',description:'The trapped attacker is Waldemar Fitzurse.',reader:'XL.107',learners:['richard','wamba'],kind:'direct recognition'},
+{key:'richard-public',title:'Richard names himself',description:'Richard declares his name to the forest company and accepts their allegiance.',reader:'XL.118–120',learners:['locksley','hermit','wamba'],kind:'public declaration; reader already knows'},
+{key:'robin-hood',title:'The captain’s famous name',description:'Locksley declares that he is Robin Hood of Sherwood Forest.',reader:'XL.121',learners:['richard','hermit','wamba'],kind:'public declaration'},
+{key:'athelstane-survived',title:'Athelstane is alive',description:'Athelstane appears in grave clothes and declares that he is alive.',reader:'XLII.38–43',learners:['cedric','ivanhoe','richard'],kind:'direct correction; his account of the blow and confinement belongs to the following scene, not this fact'},
+{key:'rebecca-acquitted',title:'Rebecca declared guiltless',description:'The Grand Master pronounces Rebecca free and guiltless after the combat.',reader:'XLIV.3',learners:['rebecca','ivanhoe'],kind:'judgment'},
+{key:'malvoisin-executions',title:'The judgments afterward',description:'The narrator reports the executions of Philip and Albert de Malvoisin, De Bracy’s flight to France and Fitzurse’s banishment.',reader:'XLIV.46',learners:[],kind:'retrospective report; no invented execution scene',stateTags:['offstage-death:malvoisin','offstage-death:albert']},
+{key:'abbot-punishment',title:'Athelstane’s actual punishment',description:'The monks are confined for three days on a meagre diet; his earlier threats of hanging are not carried out.',reader:'XLIV.49',learners:['cedric'],kind:'retrospective clarification'},
+{key:'departure-plan',title:'Rebecca’s intended departure',description:'Rebecca tells Rowena that she and Isaac intend to leave England for protection in Granada.',reader:'XLIV.62–64',learners:['rowena'],kind:'declared intention, not a completed voyage'},
+]
+
+export const goals=[
+{character:'gurth',text:'Bring the scattered swine safely home before the storm.',start:'I.12',end:'IV.12–24',evidence:'Direct work and stated anxiety; success is reported to Cedric after Gurth returns, not at the first chapter’s departure.'},
+{character:'wamba',text:'Keep the unwelcome travellers from reaching his master’s household.',start:'II.35',end:'II.39',evidence:'Deliberate false directions and subsequent admission.'},
+{character:'gurth',text:'Rescue Cedric despite his grievance against him.',start:'XIX.31',end:'XXXI.68–72',evidence:'Explicit answer about his purpose, followed by the rescue.'},
+{character:'blackknight',text:'Help the woodland company free the captives at Torquilstone.',start:'XX',end:'XXXI',evidence:'Publicly undertaken rescue; no early royal identity in the goal text.'},
+{character:'locksley',text:'Gather enough force to aid Cedric’s captured party.',start:'XIX.42',end:'XXXI',evidence:'Spoken intention after reconnaissance.'},
+{character:'debracy',text:'Force a favourable response from Rowena through the planned capture.',start:'XV',end:'XXIII',evidence:'His coercive plan and rejected proposals; not a mutual courtship.'},
+{character:'brian',text:'Make Rebecca accept his demands despite her refusal.',start:'XXIV.30',end:'XLIII.84',evidence:'Explicit coercion, repeated refused bargain and death; goal is not achieved.'},
+{character:'rebecca',text:'Preserve her faith and bodily safety against the Templar’s coercion.',start:'XXIV.31',end:'XLIV.3',evidence:'Direct refusal of forced conversion and appeals against abuse.'},
+{character:'isaac',text:'Obtain Rebecca’s release and safety.',start:'XXXIII.50',end:'XLIV.33',evidence:'Ransom negotiations, appeal for a champion and reunion.'},
+{character:'rebecca',text:'Find a champion to contest the tribunal’s sentence.',start:'XXXVII.50',end:'XLIII.78',evidence:'Written advice, demand, message and acceptance of her defender.'},
+{character:'beaumanoir',text:'Enforce his understanding of the Temple’s discipline.',start:'XXXV.19',end:null,evidence:'Stated reforming purpose; his allegations are beliefs, not verified supernatural facts.'},
+{character:'albert',text:'Protect his position by directing blame toward the prisoner.',start:'XXXVI.6',end:'XLIV.9',evidence:'His management of witnesses and Brian, followed by arrest.'},
+{character:'ivanhoe',text:'Prevent harm to Richard despite his own incomplete recovery.',start:'XL.13',end:'XLI.11',evidence:'Explained concern to the Prior and direct warning after the ambush.'},
+{character:'athelstane',text:'Punish the monks who confined him.',start:'XLII.46',end:'XLIV.49',evidence:'His hanging threats end in three days of confinement; do not mark execution as success.'},
+]
+
+// Completed authoring tasks: SOURCE_REVIEW.md and final reader disclosure checks. Final release still requires hash-bound approval.
+export const featureBlockers=[]

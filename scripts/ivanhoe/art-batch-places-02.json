@@ -1,0 +1,36 @@
+[
+  {
+    "id": "place-rotherwood-isaac-cell",
+    "entity": "place:rotherwood-isaac-cell",
+    "source": "VI.29â€“43",
+    "prompt": "Square full-bleed mature painterly historical literary LOCATION illustration for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, source-grounded humble Saxon timber construction. Empty environment, no humans, animals, readable writing, watermark, border, hidden identity symbols, modern objects, castle towers or future event. Eye-level close environmental view, not a plan or map. A small plain guest sleeping cell at Rotherwood in grey early dawn light. A rude STRAW-STUFFED WOODEN COUCH comparable to the adjoining humble chamber, with plain wool bedding turned back, a few modest folded travelling garments arranged carefully immediately beside its edge, no wearer, ornaments, money or religious emblems. Rough wooden partitions and plain latched plank door, muted light. Source VI.29 describes a similar couch and removed dress carefully around the sleeper; exact garments/room layout illustrative. Keep distinct from neighbouring sheepskin bed, no torch stand or four-poster.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-cc78e1e5-ac09-467a-ab93-7f4101297011.png",
+    "originalReview": "Opened original: humble straw couch and removed garments arranged beside it, plain cell, no religious iconography or money. Bedding, floor, stool and construction details illustrative; no sleeper depicted."
+  },
+  {
+    "id": "place-rotherwood-gurth-cell",
+    "entity": "place:rotherwood-gurth-cell",
+    "source": "VI.43â€“48",
+    "prompt": "Square full-bleed mature painterly historical literary LOCATION illustration for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, source-grounded humble Saxon timber construction. Empty environment, no humans, animals, readable writing, watermark, border, hidden identity symbols, modern objects, castle towers or future event. Eye-level close environmental view, not a plan or map. Gurth's tiny humble sleeping cell: low crude PALLET with a thick short WOODEN LOG laid across its head as a pillow, plain coarse rumpled blanket, oak-board partition and open simple plank door showing only a dim narrow passage. Warm-dim predawn light, close diagonal composition from foot of pallet to head log, clear log grain and rounded cut end, no occupant, collar, staff, weapon, knight, secret whisper or visitors. Source explicitly says pallet and wooden log pillow; exact blanket colour, wall and layout illustrative.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-2be93d2f-808a-43d5-90c6-42c5d1c8fc56.png",
+    "originalReview": "Opened original: crude pallet with explicit log pillow, coarse blanket and plain adjoining passage. No secret exchange or named belongings depicted; exact blanket and room construction illustrative."
+  },
+  {
+    "id": "place-rotherwood-antechamber",
+    "entity": "place:rotherwood-antechamber",
+    "source": "VI.6",
+    "prompt": "Square full-bleed mature painterly historical literary LOCATION illustration for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, source-grounded humble Saxon timber construction. Empty environment, no humans, animals, readable writing, watermark, border, hidden identity symbols, modern objects, castle towers or future event. Eye-level close environmental view, not a plan or map. A SMALL ANTECHAMBER in the rambling Rotherwood household at night. Several plain wooden doors open from its rough timber walls; a single SMALL IRON OIL LAMP supplies restrained warm light. A quiet empty waiting space, bare earthen floor, heavy beams, no stair visible, no chairs, heraldic hangings, luxury bed, modern window glazing or people. Source says a small antechamber with several doors and small iron lamp; exact arrangement and floor finish interpretive. Composition emphasizes modest enclosed meeting space rather than a grand hall.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-775aad73-1ae5-427c-8cb5-a833d74b6899.png",
+    "originalReview": "Opened original: several plain doorways, small iron suspended oil lamp and modest empty waiting floor. Source VI.6 details retained; exact arrangement illustrative."
+  },
+  {
+    "id": "place-rotherwood-rowena-gateway",
+    "entity": "place:rotherwood-rowena-gateway",
+    "source": "VI.7",
+    "prompt": "Square full-bleed mature painterly historical literary LOCATION illustration for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, source-grounded humble Saxon timber construction. Empty environment, no humans, animals, readable writing, watermark, border, hidden identity symbols, modern objects, castle towers or future event. Eye-level close environmental view, not a plan or map. A short plain enclosed timber passage leading upward by EXACTLY SEVEN broad solid OAK-BEAM STEPS to a modest CLOSED wooden door at its top. All seven risers and all seven treads fully visible and individually countable from bottom foreground to top, with NO additional step or threshold riser, no landing stairs beyond. Low roof beams and rough oak side wall, restrained warm night torchlight from off-frame. Source says a short passage and ascent of seven steps each a solid beam of oak; exact stair geometry/door illustrative. No glimpse of private bedchamber contents before entry, no tapestry, bed, candles or handmaid.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-1384f174-9c0c-45f4-bac5-d055635a0431.png",
+    "originalReview": "Opened v1 and v2 separately. Eight-riser v1 rejected. Selected v2 has seven individually countable oak-beam risers above continuous earth floor, closed upper door, no premature chamber contents. Exact timber fittings illustrative.",
+    "selectedVariant": "v2",
+    "editPrompt": "Edit this timber stair illustration to have exactly SEVEN oak steps, correcting the current EIGHT. Remove the lowest foreground stair riser and its tread completely, replacing that lowest area with flat continuous earthen passage floor. Preserve the remaining upper seven oak-beam steps, closed upper door, rough timber walls, warm light and painterly texture. No extra threshold riser, no other furniture or person. Seven risers total must remain."
+  }
+]

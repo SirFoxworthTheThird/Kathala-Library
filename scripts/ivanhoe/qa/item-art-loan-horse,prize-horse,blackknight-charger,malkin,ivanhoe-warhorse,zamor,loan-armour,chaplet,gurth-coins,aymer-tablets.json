@@ -1,0 +1,67 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+  "itemArtChecks": [
+    {
+      "key": "loan-horse",
+      "eventId": "ivanhoe-source-13-p48",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "prize-horse",
+      "eventId": "ivanhoe-source-12-p16",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "blackknight-charger",
+      "eventId": "ivanhoe-source-15-p34",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "malkin",
+      "eventId": "ivanhoe-source-43-p28",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ivanhoe-warhorse",
+      "eventId": "ivanhoe-source-44-p0",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "zamor",
+      "eventId": "ivanhoe-source-46-p52",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "loan-armour",
+      "eventId": "ivanhoe-source-13-p48",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "chaplet",
+      "eventId": "ivanhoe-source-15-p47",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "gurth-coins",
+      "eventId": "ivanhoe-source-13-p15",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "aymer-tablets",
+      "eventId": "ivanhoe-source-36-p81",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

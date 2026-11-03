@@ -1,0 +1,33 @@
+{
+  "status": "Source-grounded spatial uncertainty decisions; require actual app unknown-location review before final release",
+  "retired": [
+    "ashby-galleries: unused broad candidate; specific source-reviewed galleries already modelled"
+  ],
+  "places": [
+    {
+      "key": "sheffield-approach",
+      "source": "VI.92",
+      "decision": "Regional approach context only. Two different roads are explicitly taken, with no road alignment supplied. Direct endpoints are null rather than a shared invented point."
+    },
+    {
+      "key": "northward-forest-road",
+      "source": "XVI.3",
+      "decision": "Course north from Ashby and an off-route hostelry are established; the actual road and inn site are not. Retain the named route context without geographic coordinates."
+    },
+    {
+      "key": "west-riding-forest",
+      "source": "XVI.4–7",
+      "decision": "Only the frontiers of the West Riding, evening woods and Derbyshire hills to the left are supplied. Do not turn the lost traveller’s unknown position into an exact point on another woodland panel."
+    },
+    {
+      "key": "isaac-northbound-road",
+      "source": "XXVIII.56–57",
+      "decision": "Retrospective hurried journey, passing the Saxon party after Saint Withold’s. No surveyed route or exact present position is established; do not import the later ambush point into the whole earlier journey."
+    },
+    {
+      "key": "nathan-house",
+      "source": "XXXV.3",
+      "decision": "House in an unnamed market town four miles short of Templestowe. The direction and town name are absent. It is not York and cannot be placed on a claimed local compass bearing."
+    }
+  ]
+}

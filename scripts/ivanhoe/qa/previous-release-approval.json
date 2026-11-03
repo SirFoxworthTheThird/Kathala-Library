@@ -1,0 +1,93 @@
+{
+  "candidateSha256": "c62e177c6fb9b205b2f277cf7df5795091ece7389ba765ee0f63576f35b268cd",
+  "scope": "Manual source, artwork and candidate application acceptance. Does not replace subsequent packaged-file, catalogue, tests and diff gates. Earlier asset/coordinate/custody captures retain their real hashes; candidate transition proofs establish unchanged reviewed model fields and image bytes.",
+  "companionAppCommit": "e8e8b0c2004392e7612516f463a4ed39e8da9b38",
+  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90",
+  "gates": {
+    "sourceAndScenes": {
+      "complete": true,
+      "evidence": [
+        "SOURCE_REVIEW.md",
+        "SOURCE_DECISIONS.md",
+        "SOURCE_AUDIT.json",
+        "BOUNDARY_AUDIT.json"
+      ]
+    },
+    "castAndStates": {
+      "complete": true,
+      "evidence": [
+        "SOURCE_REVIEW.md",
+        "qa/speaking-witness-review.json",
+        "qa/departure-witness-review.json",
+        "qa/departure-browser-manual.json"
+      ]
+    },
+    "chronologyAndPacing": {
+      "complete": true,
+      "evidence": [
+        "CHRONOLOGY_REVIEW.md",
+        "qa/chronology-source-evidence.json",
+        "qa/tension-source-evidence.json",
+        "qa/calendar-clock-manual.json",
+        "qa/source-tests-release-guard.log"
+      ]
+    },
+    "inventory": {
+      "complete": true,
+      "evidence": [
+        "INVENTORY_REVIEW.md",
+        "qa/custody-manual-evidence-audit.json",
+        "qa/reported-item-history-manual.json",
+        "qa/candidate-clock-transition.json"
+      ]
+    },
+    "supportingAndDisclosure": {
+      "complete": true,
+      "evidence": [
+        "SOURCE_REVIEW.md",
+        "qa/knowledge-state-review.json",
+        "qa/lore-ui-review.json",
+        "qa/higg-name-ui-review.json",
+        "qa/all-pages-manual-review.json"
+      ]
+    },
+    "artwork": {
+      "complete": true,
+      "evidence": [
+        "asset-manifest.json",
+        "qa/cover-manual-review.json",
+        "qa/portrait-batches-01-08-manual-review.json",
+        "qa/portrait-batches-09-11-manual-review.json",
+        "qa/object-batches-01-04-manual-review.json",
+        "qa/place-remaining-manual-review-25.json",
+        "qa/artwork-integrity-current.log"
+      ]
+    },
+    "maps": {
+      "complete": true,
+      "evidence": [
+        "map-manifest.json",
+        "qa/all-illustrated-map-manual-review.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/map-artwork-integrity-current.log"
+      ]
+    },
+    "readerApplication": {
+      "complete": true,
+      "evidence": [
+        "qa/browser-run-c62e177c6fb9-6cc640fdaf7d.json",
+        "qa/continuous-playback.json",
+        "qa/all-pages-manual-review.json",
+        "qa/calendar-clock-manual.json"
+      ]
+    }
+  },
+  "limits": [
+    "Source-unlocated places and departures remain unknown.",
+    "June1194 and clock interpolation are disclosed editorial reconstruction.",
+    "Floor plans and fictional site positions are interpretive, not surveyed.",
+    "No arbitrary modern seven-beat structure assignment.",
+    "Published application does not yet contain the locally tested companion fixes."
+  ]
+}

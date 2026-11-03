@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "templestowe-nearby-road",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "27094f5cb7fcc74f03e26d9ee239c3eabb207fb17613e82a65205f2454f38d60",
+      "compressedSha256": "6a3ae141c46c715447f857057f1289d68d581a337be7d677db3e7f34c8f42de4",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Road within sight of gate, no Higg or appeal contents, corrected unsigned full view clear.",
+      "screenshots": [
+        "qa/place-templestowe-nearby-road.png",
+        "qa/place-templestowe-nearby-road-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-adjacent-chamber",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "d0fdd22dbfc2aced5992a450553d0d1bd8c7621a0827157f7b71cd323598bf9b",
+      "compressedSha256": "b570e77dc703dc90f591ca57a51ceec762f5c03361f35714af88503e5f52f4b8",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty room outside cell with private descent, no Albert or Brian; full view clear. Old floor overlay separately fixed.",
+      "screenshots": [
+        "qa/place-templestowe-adjacent-chamber.png",
+        "qa/place-templestowe-adjacent-chamber-lightbox.png"
+      ]
+    },
+    {
+      "key": "saint-botolph-priory",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "866960fad278788e2cf313be72619db4ed168c470d0e824ab0313323c0eb26df",
+      "compressedSha256": "f45cec29d6ab31ec101ae3c202bbee9d8b89d5d047ca409e102af5145f82982c",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Small quiet religious precinct without patient, banner and full image clear.",
+      "screenshots": [
+        "qa/place-saint-botolph-priory.png",
+        "qa/place-saint-botolph-priory-lightbox.png"
+      ]
+    },
+    {
+      "key": "saint-botolph-gate",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e380de67beacc1690ffa65323f3ad6782938ddb6a9d91b5c78e8d8b8844d82d1",
+      "compressedSha256": "eeabaa3155322c001bbd0110a26c8574555d835b5bed2cad0b332cea3783a477",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Gate below stone steps without Malkin, departure or riders; full detail clear.",
+      "screenshots": [
+        "qa/place-saint-botolph-gate.png",
+        "qa/place-saint-botolph-gate-lightbox.png"
+      ]
+    },
+    {
+      "key": "coningsburgh-court",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "d743e3ea766c3cf6a99ea66b085bd44cee351242ff33659b0b0109f656d42b27",
+      "compressedSha256": "5e63eb9576dc1bd8a3efb47dccbac1902508baa4da1ae109090333bce4cbdae1",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Stone keep beyond palisaded hospitality court, no crowd or presumed deceased; corrected stone keep full view clear.",
+      "screenshots": [
+        "qa/place-coningsburgh-court.png",
+        "qa/place-coningsburgh-court-lightbox.png"
+      ]
+    },
+    {
+      "key": "coningsburgh-chapel",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "617bfbfdbf8498d801becca556ce4c4102ccea36a614c5f88cf9666ada2fd6d7",
+      "compressedSha256": "4bb5b6eca6cd7b401835d8e4fb856386ad88a4decf5c21001e340039bd7a6c67",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Dim arched chapel, stone altar and cross, no bier or corpse; full view readable. Old floor overlay separately fixed.",
+      "screenshots": [
+        "qa/place-coningsburgh-chapel.png",
+        "qa/place-coningsburgh-chapel-lightbox.png"
+      ]
+    }
+  ]
+}

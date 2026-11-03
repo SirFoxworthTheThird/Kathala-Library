@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "torquilstone-ivanhoe-window",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-urfried-room",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-postern-passage",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-postern-outwork",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-armoury",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-armoury-balcony",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

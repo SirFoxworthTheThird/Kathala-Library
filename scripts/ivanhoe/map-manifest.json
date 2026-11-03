@@ -1,0 +1,2281 @@
+{
+  "status": "All selected originals, compressed bytes and actual application presentations manually reviewed; final artifact release gates recorded separately.",
+  "maps": [
+    {
+      "id": "rotherwood-hall",
+      "source": "III.3–10; IV.6–11",
+      "vectorSource": "scripts/ivanhoe/map-originals/rotherwood-hall.svg",
+      "original": "scripts/ivanhoe/map-originals/rotherwood-hall-illustrated-v2.png",
+      "generator": "Built-in image_gen: source-grounded illustrated floor plan from retained schematic reference, with reviewed correction",
+      "originalReview": "Opened illustrated v2: orthographic long hall with T-shaped tables, scarlet high table, raised carpeted left dais, single shallow step, two principal chairs and footstools under a translucent canopy, long lower benches, opposite hearths and exactly four corner folding doors. No painted labels, people, heraldic object or extra room. Native geometry/furnishing proportions are interpretive, not surveyed. v1 retained; v2 adds readable canopy and removes unsourced ornate centrepiece.",
+      "compressedReview": "Opened full-size lossless WebP; cloth, wood, doors, floor and map geometry match selected illustrated original exactly. No resize or RGB pixel changes under decoded comparison. Distinct from retained schematic reference.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "53849e8abc2d2915dddff0b7047f5637b0a00a0d4a4a2504812fa360efc864c5",
+      "vectorSha256": "d584cf0430ed16c8a2f369f2aff032959f4e23a74b199fc51312df109eae6ce1",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/rotherwood-hall.webp",
+        "sha256": "779969a5813e054f9661be5bbbc5f564f7ad4060001e89fd5262a014404770a5",
+        "width": 1564,
+        "height": 1006,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2407205,
+        "compressedBytes": 1681170,
+        "exactRgbComparison": "passed"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated replacement, source-placed Rotherwood navigation only; final artifact/floor/playback approval remains open",
+        "evidence": "scripts/ivanhoe/qa/map-navigation-review.json",
+        "image": "Actual map image decoded and embedded bytes SHA256 checked; original, compressed and application screenshot opened.",
+        "coordinates": "Native1564x1006points checked against illustrated clear floor: one hall point or three distinct cells plus shared passage. Place points do not claim measured positions of people.",
+        "gateways": "Entered both maps through parent location panels, then continued source crossing, raised-room ascent and rewind without page errors. Surrounding grounds and raised-room map still schematic at this evidence point."
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/rotherwood-hall.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/rotherwood-hall.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1400x900, deviceScaleFactor 1",
+        "originalReview": "Opened full-size rendered plan and revised label placement. T-shaped high and lower tables, dais, step, principal chairs and footstools, canopy footprint, opposite hearths and four corner folding doors are legible. Source-derived features distinguished from reconstructed proportions. Cardinal orientation and door destinations explicitly unknown. This is an interior plan, not a claimed survey.",
+        "compressedReview": "Opened full-size lossless WebP: text, table grain, carpet lines, folding doors, leaders and source-limit caption match the reviewed original. No pixel changes under exact RGB check. Marker/gateway/application inspection pending.",
+        "originalSha256": "839c557d8350ce08c38d8b99128ef026e8c29d341f4f68834e0acad84836e006",
+        "vectorSha256": "d584cf0430ed16c8a2f369f2aff032959f4e23a74b199fc51312df109eae6ce1",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/rotherwood-hall.webp",
+          "sha256": "7f843040d3fde56d59b32879e0e0929de41fbe69292cbdae1820483340551fa8",
+          "width": 1400,
+          "height": 900,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 105185,
+          "compressedBytes": 43798,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Incomplete Ivanhoe review fixture at the postern/crossing scenes; final-PWK review remains open",
+          "evidence": "scripts/ivanhoe/qa/map-rotherwood-hall.png",
+          "coordinates": "Opened screenshots and checked markers against the drawn rooms, passage, hall, western bridge, postern and narrow crossing. Ten selected-plan markers total.",
+          "gateways": "Hall and sleeping-wing gateways opened through location panels; Next moment from the sleeping plan followed the source crossing back to the grounds. No page errors.",
+          "limits": "Root-map image absent; remaining layers/floors incomplete. No final map coverage or full playback approval."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/rotherwood-hall.json",
+        "editPromptFile": "scripts/ivanhoe/map-art-plans/rotherwood-hall-edit.json",
+        "source": "III.3–10; IV.6–11",
+        "dimensions": [
+          1564,
+          1006
+        ],
+        "coordinateScope": "Recalibrated native-image place points; full coordinate/gateway/floor and final artifact review pending"
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "rotherwood-guests",
+      "source": "VI.21–29; VI.43–49",
+      "vectorSource": "scripts/ivanhoe/map-originals/rotherwood-guests.svg",
+      "original": "scripts/ivanhoe/map-originals/rotherwood-guests-illustrated-v2.png",
+      "generator": "Built-in image_gen: source-grounded illustrated floor plan from retained schematic reference, with reviewed correction",
+      "originalReview": "Opened illustrated v2: three adjoining cells, two oak partitions, separate door leaves open into their own cells, continuous common passage, centre grated window/stool, straw and sheepskins, right wooden-log pillow. No inter-cell door, secret route, named-person label, upper storey or additional room. v1 retained; v2 supplies the three simple door leaves. Positions/proportions beyond source relationships remain interpretive.",
+      "compressedReview": "Opened full-size lossless WebP; cloth, wood, doors, floor and map geometry match selected illustrated original exactly. No resize or RGB pixel changes under decoded comparison. Distinct from retained schematic reference.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "f6fb0133e8438d7323d170ec84d2e32fb798f0f1d96cb9cb630f20c34a3becc2",
+      "vectorSha256": "7b75e26b3f0b4315711cbf50718f624c80585e70e2ee3965217a862121d0d527",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/rotherwood-guests.webp",
+        "sha256": "b5f58f6668beb2d074f6931af5d10832499440a55165b77a9689c17f8d7b510b",
+        "width": 1564,
+        "height": 1006,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2616561,
+        "compressedBytes": 1808382,
+        "exactRgbComparison": "passed"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated replacement, source-placed Rotherwood navigation only; final artifact/floor/playback approval remains open",
+        "evidence": "scripts/ivanhoe/qa/map-navigation-review.json",
+        "image": "Actual map image decoded and embedded bytes SHA256 checked; original, compressed and application screenshot opened.",
+        "coordinates": "Native1564x1006points checked against illustrated clear floor: one hall point or three distinct cells plus shared passage. Place points do not claim measured positions of people.",
+        "gateways": "Entered both maps through parent location panels, then continued source crossing, raised-room ascent and rewind without page errors. Surrounding grounds and raised-room map still schematic at this evidence point."
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/rotherwood-guests.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/rotherwood-guests.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1400x900, deviceScaleFactor 1",
+        "originalReview": "Reviewed full-size PNG; corrected cramped room title and moved furniture labels clear of door arcs. Three oak-separated cells retain the Palmer between Isaac and Gurth. Straw couches, sheepskins, stool, grated window and wooden-log pillow follow the source. Corridor geometry, dimensions, compass direction and the postern connection are explicitly interpretive.",
+        "compressedReview": "Opened the final original PNG and compressed WebP at full size. Labels are clear of partitions, furniture and door arcs; three distinct sleeping spaces and passage remain legible. Exact decoded RGB and dimensions match. Coordinates, gateways and application presentation remain unreviewed.",
+        "originalSha256": "2486933992812c9f8ed8296dee42b7894a04d1cadcefdb8942e1dc50edc36ff4",
+        "vectorSha256": "7b75e26b3f0b4315711cbf50718f624c80585e70e2ee3965217a862121d0d527",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/rotherwood-guests.webp",
+          "sha256": "1fb2dc60ed569f186a20ad99e337c8e3bc360469a59516de295e3d5a624d72de",
+          "width": 1400,
+          "height": 900,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 82648,
+          "compressedBytes": 34620,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Incomplete Ivanhoe review fixture at the postern/crossing scenes; final-PWK review remains open",
+          "evidence": "scripts/ivanhoe/qa/map-rotherwood-guests.png",
+          "coordinates": "Opened screenshots and checked markers against the drawn rooms, passage, hall, western bridge, postern and narrow crossing. Ten selected-plan markers total.",
+          "gateways": "Hall and sleeping-wing gateways opened through location panels; Next moment from the sleeping plan followed the source crossing back to the grounds. No page errors.",
+          "limits": "Root-map image absent; remaining layers/floors incomplete. No final map coverage or full playback approval."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/rotherwood-guests.json",
+        "editPromptFile": "scripts/ivanhoe/map-art-plans/rotherwood-guests-edit.json",
+        "source": "VI.21–29; VI.43–49",
+        "dimensions": [
+          1564,
+          1006
+        ],
+        "coordinateScope": "Recalibrated native-image place points; full coordinate/gateway/floor and final artifact review pending"
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "rotherwood",
+      "source": "II.68–70; VI.4,7,21–29,49–61",
+      "vectorSource": "scripts/ivanhoe/map-originals/rotherwood.svg",
+      "original": "scripts/ivanhoe/map-originals/rotherwood-illustrated-v3.png",
+      "generator": "Built-in image_gen: source-grounded illustrated plan from retained schematic reference, with reviewed corrections",
+      "originalReview": "Opened illustrated v3: low timber and thatch buildings within a stream-fed ditch with palisades on both banks, western drawbridge and projection, minor courts, raised apartment with seven broad stair treads, small antechamber annex and short passage, modest postern and two narrow crossing planks. Level stream, no waterfall. Building positions, courts, compass beyond the western approach and proportions are reconstructed; not a surveyed site.",
+      "compressedReview": "Opened full-size lossless WebP; timber, textile, water and navigable geometry match selected illustrated original. No resizing; every decoded RGB pixel identical.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "577a884df8b51d90b680e3beb36afa4344b1054bf5231494d839f60a94bd89cf",
+      "vectorSha256": "d8c376b7e4e456d1f699315417601a9838efbee279363c966d7682533a765a40",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/rotherwood.webp",
+        "sha256": "931a4cfead87e0821b7c43d3edf6d603a18ddbac95339f403b80f99f5a58bfb5",
+        "width": 1565,
+        "height": 1005,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3032365,
+        "compressedBytes": 2118392,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/rotherwood.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/rotherwood.svg",
+        "generator": "Source-authored SVG site plan rendered by Chromium 147.0.7727.15 at 1400x900, deviceScaleFactor 1",
+        "originalReview": "Opened original and revised north arrow, drawbridge and crossing labels to avoid vegetation and palisade overlap. Stream-fed moat lies between two pointed timber defences; western gate has a separate broad drawbridge. Low timber buildings and courts remain distinct from a Norman castle. Seven oak steps and a separate narrow postern crossing are indicated. Caption explicitly distinguishes the attested western entrance from reconstructed building arrangement and unknown postern compass position.",
+        "compressedReview": "Opened final original PNG and lossless WebP after extending the two-plank bridge to the outer bank and indicating its wicket. Moat waves, palisades, bridge planks, thatch, tree canopies, labels and interpretive captions match exactly under decoded RGB comparison. Marker positions, gateway transitions and actual app display remain unreviewed.",
+        "originalSha256": "915cd14d809a12dd939de89dad385daa2819ad1d6c1049db1dd960820a83df79",
+        "vectorSha256": "d8c376b7e4e456d1f699315417601a9838efbee279363c966d7682533a765a40",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/rotherwood.webp",
+          "sha256": "2cba1de062aa22bc19a111203017864f7bdf51678e2b143ae48d1484b5a93517",
+          "width": 1400,
+          "height": 900,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 235618,
+          "compressedBytes": 164318,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Incomplete Ivanhoe review fixture at the postern/crossing scenes; final-PWK review remains open",
+          "evidence": "scripts/ivanhoe/qa/map-rotherwood.png",
+          "coordinates": "Opened screenshots and checked markers against the drawn rooms, passage, hall, western bridge, postern and narrow crossing. Ten selected-plan markers total.",
+          "gateways": "Hall and sleeping-wing gateways opened through location panels; Next moment from the sleeping plan followed the source crossing back to the grounds. No page errors.",
+          "limits": "Root-map image absent; remaining layers/floors incomplete. No final map coverage or full playback approval."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/rotherwood.json",
+        "editPromptFile": "scripts/ivanhoe/map-art-plans/rotherwood-edit.json",
+        "source": "II.68–70; VI.4,7,21–29,49–61",
+        "dimensions": [
+          1565,
+          1005
+        ],
+        "coordinateScope": "Recalibrated native-image points; application and final artifact approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated replacement; scoped Rotherwood navigation, not final release approval",
+        "evidence": "scripts/ivanhoe/qa/map-navigation-review.json",
+        "image": "Actual embedded map decoded and SHA256 matched; original, compressed asset and application screenshot opened.",
+        "coordinates": "Native1565x1005 place points checked on west drawbridge, hall and sleeping roofs, antechamber annex, stair entrance, postern and two-plank crossing; raised-room point on clear floor.",
+        "gateways": "Parent hall/sleeping gateways, postern crossing, raised-room ascent and rewind passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "england",
+      "source": "I.3; geographic reference data documented in map-source/README.md",
+      "vectorSource": "scripts/ivanhoe/map-originals/england.svg",
+      "original": "scripts/ivanhoe/map-originals/england-illustrated-v2.png",
+      "generator": "Built-in image_gen from retained source/geographic reference with reviewed corrections",
+      "originalReview": "Opened v2: painterly rounded Pennine uplands/lowlands from pinned regional reference, same generalised continuous waterways and dashed schematic Don, blank separate gateway index. v1 exaggerated crags softened. No towns, precise forest limits, roads/borders or measured heights painted. Illustration approximates data reference; not a period survey or quantitative relief raster.",
+      "compressedReview": "Opened full-size lossless WebP: rounded relief, river geometry, separate panels, seven-stone glade and fallen bank-side fragment match selected originals exactly; no resize or changed decoded RGB pixels.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "11128f2540f80df86f0d38b2fd51ababc43d97693da7f8cbd935608d9572abfc",
+      "vectorSha256": "e975adbc7d0b4f859ac5993160da231376f94306741f8a7f03c5f4f4661df117",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/england.webp",
+        "sha256": "976dbb8cf7383d2230b8823aa5ca435a8736f1d9941f739f8d99d21bd7a6eff9",
+        "width": 1341,
+        "height": 1173,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2308155,
+        "compressedBytes": 1632792,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/england.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/england.svg",
+        "generator": "render-region.py; numpy 2.3.4, matplotlib 3.10.7; 1600x1400",
+        "originalReview": "Opened final 1600x1400 PNG: town labels, contours, river linework, source credit and explicit non-geographic story-site index are legible without overlap. No medieval forest boundaries or fictional surveyed positions are claimed.",
+        "compressedReview": "Opened full-size lossless WebP: all labels, contours, relief and index match the reviewed original; exact RGB comparison passed. Actual app review remains pending.",
+        "originalSha256": "60f1b410229b701c89921262eda9a3bfae5d0941e3373211fb8948517e9b8e50",
+        "vectorSha256": "e975adbc7d0b4f859ac5993160da231376f94306741f8a7f03c5f4f4661df117",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/england.webp",
+          "sha256": "0bd3038bc6ff1aeea1e86bd07121a2aa6eafba964680f184a3fd8341d8a60936",
+          "width": 1600,
+          "height": 1400,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 923443,
+          "compressedBytes": 551452,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Incomplete review fixture; normal root entry at The whispered name",
+          "evidence": "scripts/ivanhoe/qa/map-region-normal-entry.png",
+          "observed": "Opened actual-app screenshot: regional relief renders, legend readable, and reached Rotherwood marker occupies the explicitly non-geographic index. No page errors. Other root gateways remain hidden while their child locations are unplaced; this is incomplete authoring coverage.",
+          "limits": "No full gateway/floor/playback approval. Placeholder-free image does not complete the edition."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/england.json",
+        "editPromptFile": "scripts/ivanhoe/map-art-plans/england-edit.json",
+        "source": "I.3; geographic reference data documented in map-source/README.md",
+        "dimensions": [
+          1341,
+          1173
+        ],
+        "coordinateScope": "Native points recalibrated; actual app/final approval pending"
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "rotherwood-rowena",
+      "source": "VI.6–21",
+      "vectorSource": "scripts/ivanhoe/map-originals/rotherwood-rowena.svg",
+      "original": "scripts/ivanhoe/map-originals/rotherwood-rowena-illustrated-v2.png",
+      "generator": "Built-in image_gen: source-grounded illustrated plan from retained schematic reference, with reviewed corrections",
+      "originalReview": "Opened illustrated v2: seven fully visible broad oak-beam stair treads and a plain lower landing; hunting/hawking woven hangings, purple-curtained bed, high seat and carved ivory footstool, folding windscreen, lower attendants bench and four silver candelabras. No labels or people. Relative placement, footprint and compass remain interpretive.",
+      "compressedReview": "Opened full-size lossless WebP; timber, textile, water and navigable geometry match selected illustrated original. No resizing; every decoded RGB pixel identical.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "bc77a783bce2164e8ee8bf354d935f2776f6bb5157780342a6c5cf68de60168b",
+      "vectorSha256": "7a444542e790c6da9e7c7795ab153831a345a6ac169674dda77ba0caf63a7ae5",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/rotherwood-rowena.webp",
+        "sha256": "11a0f8dddf60d5d8ebbaf5cb4dd56f0e5e39a5af5116aec3c28b803c84cb769e",
+        "width": 1565,
+        "height": 1005,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2168676,
+        "compressedBytes": 1616168,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/rotherwood-rowena.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/rotherwood-rowena.svg",
+        "generator": "render-plan.mjs; Chromium 147.0.7727.15; 1400x900 deviceScaleFactor 1",
+        "originalReview": "Opened original PNG: seven solid oak steps, raised single room, curtained bed, high seat and ivory footstool, four silver candelabras, screen and distant bench are legible. Lower approach clearly separated from the raised room. Dimensions, entry side, positions and textile pattern explicitly reconstructed.",
+        "compressedReview": "Opened full-size WebP: steps, wall hangings, screen, bed, four candelabras, seat, footstool and bench match original; captions legible. Exact RGB comparison passed.",
+        "originalSha256": "8f08493e6797f5b8210d7fd5e1cd3c3f92108d7cd873cb4fe94349e967398634",
+        "vectorSha256": "7a444542e790c6da9e7c7795ab153831a345a6ac169674dda77ba0caf63a7ae5",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/rotherwood-rowena.webp",
+          "sha256": "9db1c4f15b0717cb50e8386b25b0465001fbfbae16f41f6540cfed71dffd1231",
+          "width": 1400,
+          "height": 900,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 79057,
+          "compressedBytes": 27892,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Incomplete authoring fixture, source VI.6–7",
+          "evidence": "scripts/ivanhoe/qa/map-rowena-ascent.png",
+          "observed": "Opened actual-app screenshots: Next moment moves from lower antechamber on grounds to raised apartment; Previous moment returns to grounds and removes the not-yet-reached raised layer from navigation. Room marker stays within drawn apartment. No page errors.",
+          "limits": "This exercises a source ascent through linked maps; global floor groups and complete map/floor release validation remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/rotherwood-rowena.json",
+        "editPromptFile": "scripts/ivanhoe/map-art-plans/rotherwood-rowena-edit.json",
+        "source": "VI.6–21",
+        "dimensions": [
+          1565,
+          1005
+        ],
+        "coordinateScope": "Recalibrated native-image points; application and final artifact approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated replacement; scoped Rotherwood navigation, not final release approval",
+        "evidence": "scripts/ivanhoe/qa/map-navigation-review.json",
+        "image": "Actual embedded map decoded and SHA256 matched; original, compressed asset and application screenshot opened.",
+        "coordinates": "Native1565x1005 place points checked on west drawbridge, hall and sleeping roofs, antechamber annex, stair entrance, postern and two-plank crossing; raised-room point on clear floor.",
+        "gateways": "Parent hall/sleeping gateways, postern crossing, raised-room ascent and rewind passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "ashby",
+      "source": "VII.6–12; IX.51–52; X; XIV",
+      "vectorSource": "scripts/ivanhoe/map-originals/ashby.svg",
+      "original": "scripts/ivanhoe/map-originals/ashby-illustrated-v1.png",
+      "generator": "Built-in image_gen from retained structural reference, source-reviewed",
+      "originalReview": "Opened v1: elevated terrain illustration, forest verge and great oaks, sloping green meadow around a level rounded palisaded enclosure, earth road and modest timber/thatch town. Non-geographic destination index remains a separated blank parchment panel. No claimed castle/lodging site, surveyed street plan or modern ruins.",
+      "compressedReview": "Opened full-size lossless WebP. Original dimensions retained, decoded RGB pixels identical. Turf, trees, timber, five pavilions and separate detail panels remain legible.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "6b92d5a7bd9fcebae27d535faff479ca73dc1a6212c1b2758014bdd9353f52e3",
+      "vectorSha256": "d2e307efc380b70b5d5afefa38a827b80dd917525a0a21a840ea859b1cb74ae2",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/ashby.webp",
+        "sha256": "58ef380e04058d9d96d915b2740b793e879abb45a0740919b92d035d456fd607",
+        "width": 1564,
+        "height": 1006,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3375706,
+        "compressedBytes": 2376208,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/ashby.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/ashby.svg",
+        "generator": "draw-ashby.mjs + render-plan.mjs; Chromium 147.0.7727.15; 1400x900, deviceScaleFactor 1",
+        "originalReview": "Opened original PNG. Woodland verge, sloping meadow, field, town and illustrative route are distinct. Compass, route bends, positions, vegetation and relief are explicitly reconstructed. Town destinations occupy a non-geographic index; no later Hastings ruin plan. Country-house destination index corrected to in/near Ashby rather than a surveyed town address, following X.29.",
+        "compressedReview": "Opened full-size lossless WebP: labels, turf/relief strokes, palisades, tree and building/tent silhouettes match the reviewed original. No resizing; exact decoded RGB comparison passed. Map coordinates and application presentation still pending.",
+        "originalSha256": "6cbfb9e6effce684ac2cfc6b177244003be6b81fe6484860e4b247c366ca6a2e",
+        "vectorSha256": "d2e307efc380b70b5d5afefa38a827b80dd917525a0a21a840ea859b1cb74ae2",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/ashby.webp",
+          "sha256": "1c8af72069088896c26d94ad070c52eec5d61ffcc97d21e2fd3f11b7f5258a62",
+          "width": 1400,
+          "height": 900,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 123623,
+          "compressedBytes": 50724,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Limited incomplete-fixture navigation and selected source moments",
+          "evidence": "scripts/ivanhoe/qa/ashby-navigation-review.json",
+          "observed": "Opened actual-app screenshots after source corrections: root → Ashby → lists gateway navigation, field/low ring, separate mounted frontage and raised seating, east-to-west award, northern withdrawal, borrowed pavilion and archery remain identifiable. Next/Previous and five fine-grained intervention beats passed. No page, console or network errors. This is selected-moment inspection, not continuous playback.",
+          "limits": "Other Ashby child maps remain undrawn. No inventory/custody completion, full map approval or final PWK."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/ashby.json",
+        "source": "VII.6–12; IX.51–52; X; XIV",
+        "dimensions": [
+          1564,
+          1006
+        ],
+        "coordinateScope": "Native positions recalibrated; actual application and final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated Ashby context/lists only; final all-map approval pending",
+        "evidence": "scripts/ivanhoe/qa/ashby-navigation-review.json",
+        "image": "Embedded map bytes SHA256 and native dimensions checked; originals, compressed assets and actual application captures opened.",
+        "coordinates": "Checked context meadow and lists on terrain; native positions recalibrated for north/south course, east/west galleries, separate gallery/pavilion/archery panels.",
+        "gateways": "Root to Ashby to lists and source-order Next/Previous checks passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "ashby-lists",
+      "source": "VII.7–14; IX.24,52; XIII.44",
+      "vectorSource": "scripts/ivanhoe/map-originals/ashby-lists.svg",
+      "original": "scripts/ivanhoe/map-originals/ashby-lists-illustrated-v2.png",
+      "generator": "Built-in image_gen from retained structural reference, source-reviewed",
+      "originalReview": "Opened v2: north/south double gates, rounded timber palisade and level course; five southern pavilions, northern waiting enclosure and tents, east and west galleries, surrounding spectator ring/banks. Separate three inset panels preserve unlocated gallery, borrowed pavilion and archery avenue. v1 fleur-de-lis removed for geometric stitching; no occupant, outcome or identity painted. Terrain, gallery sizes and inset viewpoints interpretive.",
+      "compressedReview": "Opened full-size lossless WebP. Original dimensions retained, decoded RGB pixels identical. Turf, trees, timber, five pavilions and separate detail panels remain legible.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "025108a370a558a829293bd764bf99d99e77ef85c4ebb8911e5eb62a96941606",
+      "vectorSha256": "d3b175e6f86bf804e33e1fe2d1c981200599d5160b452484141e6076588fe47a",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/ashby-lists.webp",
+        "sha256": "ae994581f5b5d36f23f1811a97d4094801894f92d36b47e7d812c0cffd01024d",
+        "width": 1341,
+        "height": 1173,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3073823,
+        "compressedBytes": 2207688,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/ashby-lists.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/ashby-lists.svg",
+        "generator": "draw-ashby.mjs + render-plan.mjs; Chromium 147.0.7727.15; 1600x1400, deviceScaleFactor 1",
+        "originalReview": "Opened final 1600x1400 PNG after source revision: 2:1 rounded enclosure, north/south gates, five southern pavilions, east Prince/west Queen galleries and nearby ladies’ gallery are legible. The ladies’ exact side of the Prince is explicitly reconstructed; Saxon gallery and borrowed pavilion positions remain unspecified. Mounted frontage is separate from raised seating. No occupant identity or outcome is baked into the drawing.",
+        "compressedReview": "Opened final lossless WebP: revised neighbouring-gallery outline and source-limit captions match original. 178002 → 71202 bytes, exact RGB match, no resizing. Limited fixture presentation does not certify final release.",
+        "originalSha256": "c816cf0a0abb0361da22113a8fcd0c3ecd2f3c326ac9b501230c597198bc75b1",
+        "vectorSha256": "d3b175e6f86bf804e33e1fe2d1c981200599d5160b452484141e6076588fe47a",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/ashby-lists.webp",
+          "sha256": "1d07dfec98c322d429ab69423b9caceae96f4f7933d18dada914c73ebe48b63e",
+          "width": 1600,
+          "height": 1400,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 178002,
+          "compressedBytes": 71202,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Limited incomplete-fixture navigation and selected source moments",
+          "evidence": "scripts/ivanhoe/qa/ashby-navigation-review.json",
+          "observed": "Opened actual-app screenshots after source corrections: root → Ashby → lists gateway navigation, field/low ring, separate mounted frontage and raised seating, east-to-west award, northern withdrawal, borrowed pavilion and archery remain identifiable. Next/Previous and five fine-grained intervention beats passed. No page, console or network errors. This is selected-moment inspection, not continuous playback.",
+          "limits": "Other Ashby child maps remain undrawn. No inventory/custody completion, full map approval or final PWK."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/ashby-lists.json",
+        "source": "VII.7–14; IX.24,52; XIII.44",
+        "dimensions": [
+          1341,
+          1173
+        ],
+        "coordinateScope": "Native positions recalibrated; actual application and final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated Ashby context/lists only; final all-map approval pending",
+        "evidence": "scripts/ivanhoe/qa/ashby-navigation-review.json",
+        "image": "Embedded map bytes SHA256 and native dimensions checked; originals, compressed assets and actual application captures opened.",
+        "coordinates": "Checked context meadow and lists on terrain; native positions recalibrated for north/south course, east/west galleries, separate gallery/pavilion/archery panels.",
+        "gateways": "Root to Ashby to lists and source-order Next/Previous checks passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "copmanhurst",
+      "source": "XVI.8–12",
+      "vectorSource": "scripts/ivanhoe/map-originals/copmanhurst.svg",
+      "original": "scripts/ivanhoe/map-originals/copmanhurst-illustrated-v2.png",
+      "generator": "Built-in image_gen, retained structural reference with source review",
+      "originalReview": "Opened v2: higher oblique cartographic view of rock-backed log hut, door-side tied fir cross, turf approach, stone spring basin on approaching right, descending channel and small partly roofless chapel with rounded exposed ribs, low round zigzag porch and little bell shelter. v1 rejected for pointed ribs and frontal view. Source relations retained; footprints, compass and distances reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP: log grain, leaves, rock, water, rounded chapel ribs and floor geometry match illustrated original. No resize; decoded RGB comparison passed with every pixel identical.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "115aa27377c75913d27c24f1e3650a8344353cc63f439dba9e2d43772d98cfa2",
+      "vectorSha256": "af99524765a0926f624e644efd38c3ec4face72b9ef0591eb0fabfaa090ef715",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/copmanhurst.webp",
+        "sha256": "9ef2215e391776e547eb5e6778134f9dc211b68117bc6d49aa49d4eaa9eee3b9",
+        "width": 1564,
+        "height": 1006,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 4201019,
+        "compressedBytes": 2916546,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/copmanhurst.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/copmanhurst.svg",
+        "generator": "draw-copmanhurst.mjs + render-plan.mjs; Chromium 147.0.7727.15 at 1400x900, deviceScaleFactor 1",
+        "originalReview": "Opened final original PNG: the rock-backed hut, spring to the approaching traveller’s right, adjoining partly roofless chapel, cross, watercourse, wooded turf and interpretive relief are legible. Corrected a stream-overlapped label and removed the not-yet-disclosed proper name. No surveyed compass or heights.",
+        "compressedReview": "Opened decoded full-size WebP: all labels and drawn features match final original; exact RGB comparison and dimensions passed with lossless method6, Pillow12.3. Actual app presentation pending.",
+        "originalSha256": "801fbccf1473242976211178919a9e4110aa32232eaece7690161b6350253064",
+        "vectorSha256": "af99524765a0926f624e644efd38c3ec4face72b9ef0591eb0fabfaa090ef715",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/copmanhurst.webp",
+          "sha256": "f7b6afae315c90c6f9c9f2a4f6bf601780b5d7a63826efee4d69246934e4de86",
+          "width": 1400,
+          "height": 900,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 134239,
+          "compressedBytes": 55546,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Incomplete review fixture: source XVI.12–26 and XX.61–75",
+          "evidence": "scripts/ivanhoe/qa/copmanhurst-navigation-review.json",
+          "observed": "Opened root gateway, clearing, separate closed-door positions, first interior, rewind, hut gateway and return-to-fountain screenshots. Interior stays hidden before the room is described; generic titles disclose no proper name. After entry the linked map opens normally. Two silent companions leave the hut with the party; the muster order remains at the last established fountain/clearing. No page, console or network errors.",
+          "limits": "Selected moments only, not continuous playback. Hidden stores and all later custody/room changes still need source-ordered feature/artwork completion; full cast and final PWK review remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/copmanhurst.json",
+        "source": "XVI.8–12",
+        "dimensions": [
+          1564,
+          1006
+        ],
+        "coordinateScope": "Recalibrated native points, final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated clearing and hut, scoped source-order navigation only; final approval remains open",
+        "evidence": "scripts/ivanhoe/qa/copmanhurst-navigation-review.json",
+        "image": "Original, lossless WebP and actual application screenshot opened; embedded bytes matched SHA256 and decoded dimensions.",
+        "coordinates": "Native illustrated terrain points checked at clear turf, hut door and threshold, roof gateway and spring basin; interior point checked on open earth floor.",
+        "gateways": "Root gateway, closed-door concealment, entry, hut submap, rewind hiding interior and later fountain return passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "copmanhurst-hut",
+      "source": "XVI.26–33",
+      "vectorSource": "scripts/ivanhoe/map-originals/copmanhurst-hut.svg",
+      "original": "scripts/ivanhoe/map-originals/copmanhurst-hut-illustrated-v1.png",
+      "generator": "Built-in image_gen, retained structural reference with source review",
+      "originalReview": "Opened v1: overhead single log room backed by rock, earth floor, loose leaf bed, rough table and two stools, small oak crucifix and closed missal, embers and wood, torch in iron bracket and oaken trivet. Lower floor corners left open. No meal, wine, secret contents, people, extra room or labels. Positions and dimensions interpretive.",
+      "compressedReview": "Opened full-size lossless WebP: log grain, leaves, rock, water, rounded chapel ribs and floor geometry match illustrated original. No resize; decoded RGB comparison passed with every pixel identical.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "015e2dd12db96443c2bf16dfe2e0dfd1fe0bb24a50876f9f4847d8f028743672",
+      "vectorSha256": "6b8608e2a4472c4aa210b107e3d425fe1ad905005edaa41e693c1539927fcd20",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/copmanhurst-hut.webp",
+        "sha256": "777df6e6924381001ff285e73aa538561269aa20f5d5f57b9ccae4c7ae5627d6",
+        "width": 1564,
+        "height": 1006,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3308074,
+        "compressedBytes": 2154480,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/copmanhurst-hut.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/copmanhurst-hut.svg",
+        "generator": "draw-copmanhurst.mjs + render-plan.mjs; Chromium 147.0.7727.15 at 1400x900, deviceScaleFactor 1",
+        "originalReview": "Opened final original PNG: single room, leaf bed, rough table, two stools, oak crucifix, missal and hearth readable. Room/entry/furniture positions explicitly reconstructed. No concealed storage, food, weapons or harp is shown or labelled. Proper place name omitted before source disclosure.",
+        "compressedReview": "Opened decoded full-size WebP: all labels and drawn features match final original; exact RGB comparison and dimensions passed with lossless method6, Pillow12.3. Actual app presentation pending.",
+        "originalSha256": "156bc4f07c6f796c37f3417313bf3fb6e4d6c6cb5449f5cf55c0c478b548f2ed",
+        "vectorSha256": "6b8608e2a4472c4aa210b107e3d425fe1ad905005edaa41e693c1539927fcd20",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/copmanhurst-hut.webp",
+          "sha256": "18029cf453d68d2a0cf897d6ce151d35505294588a2f814fdf5ef6b4da7a0850",
+          "width": 1400,
+          "height": 900,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 68834,
+          "compressedBytes": 30854,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Incomplete review fixture: source XVI.12–26 and XX.61–75",
+          "evidence": "scripts/ivanhoe/qa/copmanhurst-navigation-review.json",
+          "observed": "Opened root gateway, clearing, separate closed-door positions, first interior, rewind, hut gateway and return-to-fountain screenshots. Interior stays hidden before the room is described; generic titles disclose no proper name. After entry the linked map opens normally. Two silent companions leave the hut with the party; the muster order remains at the last established fountain/clearing. No page, console or network errors.",
+          "limits": "Selected moments only, not continuous playback. Hidden stores and all later custody/room changes still need source-ordered feature/artwork completion; full cast and final PWK review remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/copmanhurst-hut.json",
+        "source": "XVI.26–33",
+        "dimensions": [
+          1564,
+          1006
+        ],
+        "coordinateScope": "Recalibrated native points, final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated clearing and hut, scoped source-order navigation only; final approval remains open",
+        "evidence": "scripts/ivanhoe/qa/copmanhurst-navigation-review.json",
+        "image": "Original, lossless WebP and actual application screenshot opened; embedded bytes matched SHA256 and decoded dimensions.",
+        "coordinates": "Native illustrated terrain points checked at clear turf, hut door and threshold, roof gateway and spring basin; interior point checked on open earth floor.",
+        "gateways": "Root gateway, closed-door concealment, entry, hut submap, rewind hiding interior and later fountain return passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "ashby-house",
+      "source": "X.66–70",
+      "vectorSource": "scripts/ivanhoe/map-originals/ashby-house.svg",
+      "original": "scripts/ivanhoe/map-originals/ashby-house-illustrated-v2.png",
+      "generator": "Built-in image_gen from retained source-grounded structural reference",
+      "originalReview": "Opened v2: dark lower hall and timber stair, single adjoining side apartment, outer door into stone-paved court, one entrance gate with small wicket inset within right leaf, simple iron fittings. Separate parchment index does not assign unlocated room a floor. v1 separate pedestrian gate rejected. Footprint and doorway/stair positions interpretive.",
+      "compressedReview": "Opened full-size lossless WebP: embroidered textile, timber stairs, inset wicket, paving and room boundaries match selected original; decoded RGB pixels identical, no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "9960ab1e08e2fcd10bb49e0acf0fdf55ba4d7814dc15674088eee044d9b0688e",
+      "vectorSha256": "3f7c3693b9b5ad031d442c42a18e6b0cbfc7569021776b134c0bec5d3055fff5",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/ashby-house.webp",
+        "sha256": "9e2617708b7d6beb81a72d95449662fda1bf8f5fffa93c3a5d15c635998dad89",
+        "width": 1484,
+        "height": 1060,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2484023,
+        "compressedBytes": 1643336,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/ashby-house.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/ashby-house.svg",
+        "generator": "draw-ashby-house.mjs + render-plan.mjs; Chromium 147.0.7727.15, 1400x1000, deviceScaleFactor 1",
+        "originalReview": "Opened final original: dark hall, stair, side apartment, paved court and wicket; separate detail index explicitly leaves room positions/floors unknown. Replaced a future Gurth-route caption with architectural description only.",
+        "compressedReview": "Opened full-size decoded WebP. Labels and details remain legible; lossless method6 with Pillow12.3 preserves dimensions and every RGB pixel. Final release approval remains pending.",
+        "originalSha256": "1abf980775883bb63782847f7de874380e7c68768b6e5b44eb860cb9b6836875",
+        "vectorSha256": "3f7c3693b9b5ad031d442c42a18e6b0cbfc7569021776b134c0bec5d3055fff5",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/ashby-house.webp",
+          "sha256": "2c6d4e926c6e2f07f518e1ba97466b71f808f5419c31219c0a5215173cd92b61",
+          "width": 1400,
+          "height": 1000,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 50881,
+          "compressedBytes": 20632,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Country-house selected source X and XXVIII moments only; not continuous playback or release approval",
+          "evidence": "scripts/ivanhoe/qa/country-house-navigation-review.json",
+          "observed": "Opened final app maps, including the architectural-only lower-plan caption. Shared parent entrance, upper/lower switching, unknown-location report and rewind, court/wicket endpoints and independent sickroom entry pass. No runtime, console or network failures.",
+          "limits": "Full cast, inventories, later changes and final edition remain incomplete."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/ashby-house.json",
+        "source": "X.66–70",
+        "dimensions": [
+          1484,
+          1060
+        ],
+        "coordinateScope": "Native points recalibrated; final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated lodging maps, scoped floors/gateways only; final all-map approval open",
+        "evidence": "scripts/ivanhoe/qa/country-house-navigation-review.json",
+        "image": "Originals, lossless WebP and actual app maps opened; embedded bytes and decoded dimensions verified.",
+        "coordinates": "Native place points recalibrated on hall, side apartment, paved court, inset wicket, open upper floor, separate room index and clear patient-room floor.",
+        "gateways": "Shared entrance, floor up/down, lower exit, unlocated-room gateway and source-order reported absence/rewind passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "ashby-house-upper",
+      "source": "X.29–66",
+      "vectorSource": "scripts/ivanhoe/map-originals/ashby-house-upper.svg",
+      "original": "scripts/ivanhoe/map-originals/ashby-house-upper-illustrated-v2.png",
+      "generator": "Built-in image_gen from retained source-grounded structural reference",
+      "originalReview": "Opened v2: low surrounding platform with embroidered cushions, no chairs/stools, small inlaid table, open timber stair descending left into shadow, clear pacing floor. v1 unclear stair corrected. Imported textile richness in timber/plaster dwelling, no palace or religious emblems. Footprint and stair orientation reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP: embroidered textile, timber stairs, inset wicket, paving and room boundaries match selected original; decoded RGB pixels identical, no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "e9bb3894e0abb4c89a969fef9e6c910671ff4eeae4a2cb5b165a6c76c07e0121",
+      "vectorSha256": "ef3931fa283f94be268e57546e6c302b3d917a6e7e37164648b8fdfe7a1b3aee",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/ashby-house-upper.webp",
+        "sha256": "6b730bda3c449a63ebe7ed388df20a2cc8b34cb22f5a9ee46a0415c80fb65529",
+        "width": 1484,
+        "height": 1060,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2285073,
+        "compressedBytes": 1615008,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/ashby-house-upper.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/ashby-house-upper.svg",
+        "generator": "draw-ashby-house.mjs + render-plan.mjs; Chromium 147.0.7727.15, 1400x1000, deviceScaleFactor 1",
+        "originalReview": "Opened final original: low surrounding cushion platform, inlaid table and descent; no patient identification or future room assignment. Geometry and furniture arrangement explicitly reconstructed.",
+        "compressedReview": "Opened full-size decoded WebP. Labels and details remain legible; lossless method6 with Pillow12.3 preserves dimensions and every RGB pixel. Final release approval remains pending.",
+        "originalSha256": "f7911f231ff3312c446957f90d3697b5498abc8b3d0de609346a4b544195cfca",
+        "vectorSha256": "ef3931fa283f94be268e57546e6c302b3d917a6e7e37164648b8fdfe7a1b3aee",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/ashby-house-upper.webp",
+          "sha256": "cd938e561765d72e259a1cfc9298f1dc2bd72fe3bc6bffde98d4257f3ee3cf29",
+          "width": 1400,
+          "height": 1000,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 54343,
+          "compressedBytes": 18472,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Country-house selected source X and XXVIII moments only; not continuous playback or release approval",
+          "evidence": "scripts/ivanhoe/qa/country-house-navigation-review.json",
+          "observed": "Opened final app maps, including the architectural-only lower-plan caption. Shared parent entrance, upper/lower switching, unknown-location report and rewind, court/wicket endpoints and independent sickroom entry pass. No runtime, console or network failures.",
+          "limits": "Full cast, inventories, later changes and final edition remain incomplete."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/ashby-house-upper.json",
+        "source": "X.29–66",
+        "dimensions": [
+          1484,
+          1060
+        ],
+        "coordinateScope": "Native points recalibrated; final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated lodging maps, scoped floors/gateways only; final all-map approval open",
+        "evidence": "scripts/ivanhoe/qa/country-house-navigation-review.json",
+        "image": "Originals, lossless WebP and actual app maps opened; embedded bytes and decoded dimensions verified.",
+        "coordinates": "Native place points recalibrated on hall, side apartment, paved court, inset wicket, open upper floor, separate room index and clear patient-room floor.",
+        "gateways": "Shared entrance, floor up/down, lower exit, unlocated-room gateway and source-order reported absence/rewind passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "ashby-house-sickroom",
+      "source": "XXVIII.17–27",
+      "vectorSource": "scripts/ivanhoe/map-originals/ashby-house-sickroom.svg",
+      "original": "scripts/ivanhoe/map-originals/ashby-house-sickroom-illustrated-v1.png",
+      "generator": "Built-in image_gen from retained source-grounded structural reference",
+      "originalReview": "Opened v1: separate overhead room, left embroidered cushions instead of chairs, right empty curtained couch, bottom doorway concealed by tapestry. No patient, medicine or outcome painted. Floor and connection unknown; no stair or invented corridor. Proportions and furniture placement reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP: embroidered textile, timber stairs, inset wicket, paving and room boundaries match selected original; decoded RGB pixels identical, no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "a72ba47b505c8cbb653edf00724d9d9cc656223335f6c704ab43a25d074a072a",
+      "vectorSha256": "a113646fd4c5e60cca09016f0c297eeca51fb143c2fa6d67ecb701984b93fa76",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/ashby-house-sickroom.webp",
+        "sha256": "9c97865f6d42195922c8d40e5c534b3e4faff051b96e8619fae594ffb45a9794",
+        "width": 1484,
+        "height": 1060,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2753048,
+        "compressedBytes": 1868826,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/ashby-house-sickroom.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/ashby-house-sickroom.svg",
+        "generator": "draw-ashby-house.mjs + render-plan.mjs; Chromium 147.0.7727.15, 1400x1000, deviceScaleFactor 1",
+        "originalReview": "Opened final original: curtained couch, cushions and tapestry-screened doorway; separate detail view explicitly states floor and position unknown, with no invented corridor.",
+        "compressedReview": "Opened full-size decoded WebP. Labels and details remain legible; lossless method6 with Pillow12.3 preserves dimensions and every RGB pixel. Final release approval remains pending.",
+        "originalSha256": "47890a646e9213413aa3c9f648adf929c67c27ea62d6090a881653e712aea30a",
+        "vectorSha256": "a113646fd4c5e60cca09016f0c297eeca51fb143c2fa6d67ecb701984b93fa76",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/ashby-house-sickroom.webp",
+          "sha256": "7df49e5f3cccb8098f33d2fd4581060e45983ad8be060a10e700dd4c52df44a7",
+          "width": 1400,
+          "height": 1000,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 53330,
+          "compressedBytes": 21570,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Country-house selected source X and XXVIII moments only; not continuous playback or release approval",
+          "evidence": "scripts/ivanhoe/qa/country-house-navigation-review.json",
+          "observed": "Opened final app maps, including the architectural-only lower-plan caption. Shared parent entrance, upper/lower switching, unknown-location report and rewind, court/wicket endpoints and independent sickroom entry pass. No runtime, console or network failures.",
+          "limits": "Full cast, inventories, later changes and final edition remain incomplete."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/ashby-house-sickroom.json",
+        "source": "XXVIII.17–27",
+        "dimensions": [
+          1484,
+          1060
+        ],
+        "coordinateScope": "Native points recalibrated; final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated lodging maps, scoped floors/gateways only; final all-map approval open",
+        "evidence": "scripts/ivanhoe/qa/country-house-navigation-review.json",
+        "image": "Originals, lossless WebP and actual app maps opened; embedded bytes and decoded dimensions verified.",
+        "coordinates": "Native place points recalibrated on hall, side apartment, paved court, inset wicket, open upper floor, separate room index and clear patient-room floor.",
+        "gateways": "Shared entrance, floor up/down, lower exit, unlocated-room gateway and source-order reported absence/rewind passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "ashby-woods",
+      "source": "X.71; XI.3-8,49,57-58",
+      "vectorSource": "scripts/ivanhoe/map-originals/ashby-woods.svg",
+      "original": "scripts/ivanhoe/map-originals/ashby-woods-illustrated-v1.png",
+      "generator": "Built-in image_gen, source-reviewed retained structural reference",
+      "originalReview": "Opened v1: overhead dense hazel/holly/oak terrain, rutted lane between banks, irregular clearing beyond left bank, open heath and gentle rise, partly visible outskirts avenue. No dashed surveyed paths, invented camp or future occupants. Woodland extent, route bends and compass reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP. Woodland banks, ruts, clearings and room-detail boundaries match the selected originals exactly under decoded RGB comparison; no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "c885a09750361136c722ac7d63b6cea335c764950e950edef634e95d46379ac0",
+      "vectorSha256": "94bdd78ab8a88281602ef5630eb3dda1bbf59350129fcecf10c5ee4c00ba7b3e",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/ashby-woods.webp",
+        "sha256": "5571406acf42fbb8ef4ec79b298642a937042f8ce71a784c91b9691f01e9aad4",
+        "width": 1499,
+        "height": 1049,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 4244472,
+        "compressedBytes": 2855550,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/ashby-woods.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/ashby-woods.svg",
+        "generator": "draw-ashby-surroundings.mjs + render-plan.mjs; Chromium147.0.7727.15, 1500x1050, deviceScaleFactor1",
+        "originalReview": "Opened original PNG: lane and vegetated banks, left-hand thicket opening, common and relative heath rise readable. Relative terrain, dashed interpretive paths and unknown compass/scale clearly distinguished; no outcome or future outlaw identity printed.",
+        "compressedReview": "Opened full-size decoded lossless WebP; all linework, labels and relative room/terrain distinctions remain clear. Dimensions and every RGB pixel match the original (Pillow12.3, method6).",
+        "originalSha256": "749163bfa3fbc82b5d3835325beebeb17ed703d661405c743e2d6ff21aa3d2bf",
+        "vectorSha256": "94bdd78ab8a88281602ef5630eb3dda1bbf59350129fcecf10c5ee4c00ba7b3e",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/ashby-woods.webp",
+          "sha256": "5db0a48d6341387ed6d86d3e891d6d22b02570207f4db640a5d1b30c28c393a2",
+          "width": 1500,
+          "height": 1050,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 153111,
+          "compressedBytes": 67784,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected source X-XV moments, gateways and reader visibility; incomplete fixture only",
+          "evidence": "scripts/ivanhoe/qa/ashby-surroundings-review.json",
+          "observed": "Opened actual app screenshots of lane, heath, separate castle caller and parent-entry map. Production browser checks pass avenue, lane, opening, heath, return to pavilion, banquet, inner hall, separate interior speaker and both parent gateways. Clearing marker remains hidden before encounter; no runtime/console/network failures.",
+          "limits": "No continuous-playback, inventory, full cast, later state or final release approval."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/ashby-woods.json",
+        "source": "X.71; XI.3-8,49,57-58",
+        "dimensions": [
+          1499,
+          1049
+        ],
+        "coordinateScope": "Recalibrated native points; application approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated woodland and separate castle-room maps; final approval pending",
+        "evidence": "scripts/ivanhoe/qa/ashby-surroundings-review.json",
+        "image": "Original, compressed WebP and actual app screenshots opened; image byte hashes/native dimensions verified.",
+        "coordinates": "Native points checked at rutted lane, clearing, heath rise, separate avenue, banquet floor and two unconnected room panels.",
+        "gateways": "Source-order approach, unreached-clearing concealment, return, banquet, separated caller/listener and parent gateways passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "ashby-castle",
+      "source": "XIV.3-52; XV.6-28",
+      "vectorSource": "scripts/ivanhoe/map-originals/ashby-castle.svg",
+      "original": "scripts/ivanhoe/map-originals/ashby-castle-illustrated-v2.png",
+      "generator": "Built-in image_gen, source-reviewed retained structural reference",
+      "originalReview": "Opened v2: three separate overhead room details divided by parchment: banquet table and benches, empty inner hall and empty interior apartment. No asserted floor, corridor, door or placement of unseen caller in listener room. v1 unsupported bedroom furnishings removed. Generic late12century material treatment, not later Hastings ruins. Furniture arrangement and room dimensions reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP. Woodland banks, ruts, clearings and room-detail boundaries match the selected originals exactly under decoded RGB comparison; no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "f63e1898af900e64ce039147fb21c1ca8c6543a60587e424a66becfa2d5b51a5",
+      "vectorSha256": "8c4fc53e1a6a40116cd12c9f0f6283183d20e233d004533ccffeb9f65c8e9010",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/ashby-castle.webp",
+        "sha256": "105172e725d239a2a8033b2b17a9087bcdd8400d0ba0bd334f95371876abe583",
+        "width": 1500,
+        "height": 1049,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2198004,
+        "compressedBytes": 1550492,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/ashby-castle.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/ashby-castle.svg",
+        "generator": "draw-ashby-surroundings.mjs + render-plan.mjs; Chromium147.0.7727.15, 1500x1050, deviceScaleFactor1",
+        "originalReview": "Opened original PNG: banquet room, inner hall and separate interior apartment readable as unconnected detail panels. No false shared room for John and Fitzurse, measured footprint or later Hastings ruin substituted. Table, shapes and seating marked illustrative.",
+        "compressedReview": "Opened full-size decoded lossless WebP; all linework, labels and relative room/terrain distinctions remain clear. Dimensions and every RGB pixel match the original (Pillow12.3, method6).",
+        "originalSha256": "d1e49f71f7e8479b4fccfd6f240467e66073fea477cb072d0124b9702e0515ca",
+        "vectorSha256": "8c4fc53e1a6a40116cd12c9f0f6283183d20e233d004533ccffeb9f65c8e9010",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/ashby-castle.webp",
+          "sha256": "01a310ba6c59b77bd3d549ade23d2b4365f8d15edf3f4e81b3ca4b1ce861af32",
+          "width": 1500,
+          "height": 1050,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 58178,
+          "compressedBytes": 23086,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected source X-XV moments, gateways and reader visibility; incomplete fixture only",
+          "evidence": "scripts/ivanhoe/qa/ashby-surroundings-review.json",
+          "observed": "Opened actual app screenshots of lane, heath, separate castle caller and parent-entry map. Production browser checks pass avenue, lane, opening, heath, return to pavilion, banquet, inner hall, separate interior speaker and both parent gateways. Clearing marker remains hidden before encounter; no runtime/console/network failures.",
+          "limits": "No continuous-playback, inventory, full cast, later state or final release approval."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/ashby-castle.json",
+        "source": "XIV.3-52; XV.6-28",
+        "dimensions": [
+          1500,
+          1049
+        ],
+        "coordinateScope": "Recalibrated native points; application approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated woodland and separate castle-room maps; final approval pending",
+        "evidence": "scripts/ivanhoe/qa/ashby-surroundings-review.json",
+        "image": "Original, compressed WebP and actual app screenshots opened; image byte hashes/native dimensions verified.",
+        "coordinates": "Native points checked at rutted lane, clearing, heath rise, separate avenue, banquet floor and two unconnected room panels.",
+        "gateways": "Source-order approach, unreached-clearing concealment, return, banquet, separated caller/listener and parent gateways passed without page errors."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "torquilstone",
+      "source": "XXI.25-30; XXVII.55,116; XXIX.17; XXX.17",
+      "vectorSource": "scripts/ivanhoe/map-originals/torquilstone.svg",
+      "original": "scripts/ivanhoe/map-originals/torquilstone-illustrated-v1.png",
+      "generator": "Built-in image_gen, retained source-grounded structural reference",
+      "originalReview": "Opened v1: elevated terrain/fortress baseline with high square keep, lower buildings and court, corner towers, stream-fed moat, main arched barbican distinct from west palisaded postern outwork. Secondary moat gap has no permanently painted bridge or raft; native state supplies changing passage condition. Three oaks and path are in separated non-geographic index. No fire/siege/outcome/labels painted. Footprint and most elevations reconstructed; architectural baseline is not live scene condition.",
+      "compressedReview": "Opened full-size lossless WebP: terrain, moat gap, separated room panels and worn tapestry match original exactly; no resizing or changed decoded RGB pixels.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "1f4b23692c1979509d5d7330c5220a0eba5979e85717f98d9ce7b0237c18e163",
+      "vectorSha256": "b56c3e32239d345835a19b3a54d9cd26b881d586f25d9fd2e4b39cec5b3cbf79",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/torquilstone.webp",
+        "sha256": "e88cfc89ba6912a74ef983c6aedc2748f7caf867e7c86eaac3ba2fcb8a4503fb",
+        "width": 1422,
+        "height": 1106,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3776237,
+        "compressedBytes": 2603246,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/torquilstone.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/torquilstone.svg",
+        "generator": "draw-torquilstone.mjs + render-plan.mjs; Chromium147.0.7727.15, deviceScaleFactor1",
+        "originalReview": "Opened final original: square keep, lower buildings, angle towers, court, water-fed moat, separate main-gate barbican and postern outwork readable. Dashed crossing alignments do not assert passability. Fictional woodland positions are in a non-geographic detail index; the later gathering-place name is omitted. East/west walls source-led; footprint, slopes and exact sites reconstructed.",
+        "compressedReview": "Opened full-size decoded lossless WebP. Final labels, wall/lattice geometry, stairs and source distinctions remain legible; dimensions and every RGB pixel match the retained PNG (Pillow12.3, method6). Final release approval remains open.",
+        "originalSha256": "821b26bcc3a77c557da68572a096423090ad4b492439b6c9d726b7c28333d166",
+        "vectorSha256": "b56c3e32239d345835a19b3a54d9cd26b881d586f25d9fd2e4b39cec5b3cbf79",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/torquilstone.webp",
+          "sha256": "20ce2bc7c00fda1c434a03647a92e4ede2d9dd5bb33bd13a98c347470dd23258",
+          "width": 1800,
+          "height": 1400,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 165394,
+          "compressedBytes": 67958,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected fortress/deep-room/parapet entries and source XXIV/XXIX/XXXI endpoints; incomplete fixture only",
+          "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+          "observed": "Opened actual maps: deep root-to-dungeon and turret entry, separate couch/window positions, upper defender and later descent, original plank/destruction/ready raft/in-use raft conditions and rewind. Upper defence stays hidden until first established. No runtime, console or network errors.",
+          "limits": "Selected moments, not complete continuous playback or exhaustive scene/cast/inventory review. Base plate records outlines and crossing alignments; condition notes carry changes. Final PWK review remains open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/torquilstone.json",
+        "source": "XXI.25-30; XXVII.55,116; XXIX.17; XXX.17",
+        "dimensions": [
+          1422,
+          1106
+        ],
+        "coordinateScope": "Native place points recalibrated; app approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated fortress and room atlas; scoped navigation, not final release approval",
+        "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+        "image": "Originals, lossless WebP and actual app screenshots opened; embedded hashes and native dimensions verified.",
+        "coordinates": "Native fortress terrain and separate detail-index points recalibrated; atlas points fall in correct separated room panels and lattice/balcony positions.",
+        "gateways": "Nested room/dungeon/turret entries, upper-defender/lower-attacker changes and active/destroyed/rebuilt crossing states passed without page errors; turret departure regression also passed."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "torquilstone-interior",
+      "source": "XXI-XXXI",
+      "vectorSource": "scripts/ivanhoe/map-originals/torquilstone-interior.svg",
+      "original": "scripts/ivanhoe/map-originals/torquilstone-interior-illustrated-v2.png",
+      "generator": "Built-in image_gen, retained source-grounded structural reference",
+      "originalReview": "Opened v2: twelve separate panels in three columns/four rows, broad parchment gaps, no inter-panel corridors. Heavy old-hall pillars distinct from lighter new hall; empty reception; faded torn tapestry; low arched passage; couch and raised lattice; private table/closed cupboard; postern passage; distinct armoury balcony; empty bed; vaulted entrance; blank vertical-detail index. v1 tapestry age corrected. No secret contents, occupants, fire or future outcomes. Counts/footprints/furniture positions interpretive, not a composite floor.",
+      "compressedReview": "Opened full-size lossless WebP: terrain, moat gap, separated room panels and worn tapestry match original exactly; no resizing or changed decoded RGB pixels.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "a62938c7b22d0dc494896295a5e2282e3dafe867d682b35d174d736cbcfab570",
+      "vectorSha256": "a23d05e3d2837d9f16dac11d951eaaaf2a1e6a448ebd775bbec452e6ea4b19e1",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/torquilstone-interior.webp",
+        "sha256": "ca5dfa71e202044f3aaa98573088e47ff7ddeeb15a8526fbab371247f7d889b9",
+        "width": 1503,
+        "height": 1046,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2643546,
+        "compressedBytes": 1808644,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/torquilstone-interior.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/torquilstone-interior.svg",
+        "generator": "draw-torquilstone.mjs + render-plan.mjs; Chromium147.0.7727.15, deviceScaleFactor1",
+        "originalReview": "Opened final original after correcting overlapping armoury and vaulted-passage labels: distinct room panels, old/new hall pillars, corner-room raised lattice, separate armoury balcony and vertical-detail gateways legible. Room connections, floors, pillar counts and furnishings explicitly reconstructed where unstated. Early labels do not reveal Rowena occupancy or a later externally locked deathbed.",
+        "compressedReview": "Opened full-size decoded lossless WebP. Final labels, wall/lattice geometry, stairs and source distinctions remain legible; dimensions and every RGB pixel match the retained PNG (Pillow12.3, method6). Final release approval remains open.",
+        "originalSha256": "7294d65a728d228c5bf6517ec687a88fc2af6865878b6a7aea9da87675170664",
+        "vectorSha256": "a23d05e3d2837d9f16dac11d951eaaaf2a1e6a448ebd775bbec452e6ea4b19e1",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/torquilstone-interior.webp",
+          "sha256": "e734baaa3ded6adf117dc2552d010fa865c93f4b5fb61d8311d3a73cfe3483dd",
+          "width": 2300,
+          "height": 1600,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 156434,
+          "compressedBytes": 56242,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected fortress/deep-room/parapet entries and source XXIV/XXIX/XXXI endpoints; incomplete fixture only",
+          "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+          "observed": "Opened actual maps: deep root-to-dungeon and turret entry, separate couch/window positions, upper defender and later descent, original plank/destruction/ready raft/in-use raft conditions and rewind. Upper defence stays hidden until first established. No runtime, console or network errors.",
+          "limits": "Selected moments, not complete continuous playback or exhaustive scene/cast/inventory review. Base plate records outlines and crossing alignments; condition notes carry changes. Final PWK review remains open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/torquilstone-interior.json",
+        "source": "XXI-XXXI",
+        "dimensions": [
+          1503,
+          1046
+        ],
+        "coordinateScope": "Native place points recalibrated; app approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated fortress and room atlas; scoped navigation, not final release approval",
+        "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+        "image": "Originals, lossless WebP and actual app screenshots opened; embedded hashes and native dimensions verified.",
+        "coordinates": "Native fortress terrain and separate detail-index points recalibrated; atlas points fall in correct separated room panels and lattice/balcony positions.",
+        "gateways": "Nested room/dungeon/turret entries, upper-defender/lower-attacker changes and active/destroyed/rebuilt crossing states passed without page errors; turret departure regression also passed."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "torquilstone-dungeon",
+      "source": "XXII.3-9",
+      "vectorSource": "scripts/ivanhoe/map-originals/torquilstone-dungeon.svg",
+      "original": "scripts/ivanhoe/map-originals/torquilstone-dungeon-illustrated-v1.png",
+      "generator": "Built-in image_gen from source-reviewed retained structural reference",
+      "originalReview": "Opened v1: overhead damp paving, high loopholes, old empty chains and two dry bones, unlit rusty transverse fire bars, bottom locked wicket and rising stair. No active torture, fire, person or later equipment. Depth below moat retained in reader description; footprint and placement reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP: damp stone, iron bars, narrow balcony, lattice, stair and intact parapet match selected original; exact decoded RGB comparison passed with no resizing.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "122169cfb8e65ac0f4a089ad0585f7db2c9ed0e9f35aea6f49c00fbe79ff0767",
+      "vectorSha256": "e65cf5ed821c081cd189c67cf0014dde4c02a1c2dc771d0d6f3581e5c343e69c",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/torquilstone-dungeon.webp",
+        "sha256": "6f15ef7e9332c9603fa195a368b1d9276555444f0afb1b8525c7c74702d4e5c9",
+        "width": 1474,
+        "height": 1067,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2934591,
+        "compressedBytes": 2023060,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/torquilstone-dungeon.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/torquilstone-dungeon.svg",
+        "generator": "draw-torquilstone.mjs + render-plan.mjs; Chromium147.0.7727.15, deviceScaleFactor1",
+        "originalReview": "Opened final original: below-moat chamber, high loop-holes, wet pavement, old fetters and cold fire-grate with iron bars readable. Entrance/stair positions reconstructed. No accomplished torture, fire or injury is depicted.",
+        "compressedReview": "Opened full-size decoded lossless WebP. Final labels, wall/lattice geometry, stairs and source distinctions remain legible; dimensions and every RGB pixel match the retained PNG (Pillow12.3, method6). Final release approval remains open.",
+        "originalSha256": "9341f84aa9b28a541e47b24552476bbf3c6b80cb55e35563f076d9cab32a1959",
+        "vectorSha256": "e65cf5ed821c081cd189c67cf0014dde4c02a1c2dc771d0d6f3581e5c343e69c",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/torquilstone-dungeon.webp",
+          "sha256": "51cffbdcef4e61188fce9df99bb89e021ceef44bcf96a0e91013ada0470122b4",
+          "width": 1450,
+          "height": 1050,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 62122,
+          "compressedBytes": 25450,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected fortress/deep-room/parapet entries and source XXIV/XXIX/XXXI endpoints; incomplete fixture only",
+          "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+          "observed": "Opened actual maps: deep root-to-dungeon and turret entry, separate couch/window positions, upper defender and later descent, original plank/destruction/ready raft/in-use raft conditions and rewind. Upper defence stays hidden until first established. No runtime, console or network errors.",
+          "limits": "Selected moments, not complete continuous playback or exhaustive scene/cast/inventory review. Base plate records outlines and crossing alignments; condition notes carry changes. Final PWK review remains open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/torquilstone-dungeon.json",
+        "source": "XXII.3-9",
+        "dimensions": [
+          1474,
+          1067
+        ],
+        "coordinateScope": "Native positions recalibrated; app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated deep dungeon, isolated turret and upper parapet; full release approval open",
+        "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+        "image": "Originals, lossless WebP and actual app captures opened; embedded hashes/native dimensions verified.",
+        "coordinates": "Native points checked on wet dungeon floor, distinct turret interior and narrow bartisan, upper wallwalk.",
+        "gateways": "Deep nested entry, isolated turret gateway, upper-defender/lower-attacker distinction and source-order crossing changes passed; inherited Urfried departure defect found during visual review and corrected separately."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "torquilstone-turret",
+      "source": "XXIV.3,18,22,42-48",
+      "vectorSource": "scripts/ivanhoe/map-originals/torquilstone-turret.svg",
+      "original": "scripts/ivanhoe/map-originals/torquilstone-turret-illustrated-v1.png",
+      "generator": "Built-in image_gen from source-reviewed retained structural reference",
+      "originalReview": "Opened v1: near-round cell, single right entry with descending steep stair, no interior bar/bolt; left lattice opens to isolated narrow curved bartisan and parapet, no connecting battlement route. No secret opening, furniture or future action. Dimensions/compass/stair side reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP: damp stone, iron bars, narrow balcony, lattice, stair and intact parapet match selected original; exact decoded RGB comparison passed with no resizing.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "c58138ff1b1658f55eb9b282449afd2f45c06843e4805cc858e00e2751e4995e",
+      "vectorSha256": "38a069c804567581b71a3cd70649a1c17c62f5f239e5d1a5cb3ada945470085a",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/torquilstone-turret.webp",
+        "sha256": "751e896ad00bbfaaa705ab172bc62368269a1118052432499f1b6984b61bc52b",
+        "width": 1474,
+        "height": 1067,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2774381,
+        "compressedBytes": 1779942,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/torquilstone-turret.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/torquilstone-turret.svg",
+        "generator": "draw-torquilstone.mjs + render-plan.mjs; Chromium147.0.7727.15, deviceScaleFactor1",
+        "originalReview": "Opened final original after placing the lattice on the curved exterior wall: separate cell, isolated bartisan, parapet and steep stair readable. No route to another battlement drawn; no early textual disclosure of the lack of an inner bar or secret exit. Shape, sides, heights and proportions explicitly reconstructed.",
+        "compressedReview": "Opened full-size decoded lossless WebP. Final labels, wall/lattice geometry, stairs and source distinctions remain legible; dimensions and every RGB pixel match the retained PNG (Pillow12.3, method6). Final release approval remains open.",
+        "originalSha256": "9389e123096dd2a90815ddca4bfb64959baa55bbfd2a694edeeae847ebc6776d",
+        "vectorSha256": "38a069c804567581b71a3cd70649a1c17c62f5f239e5d1a5cb3ada945470085a",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/torquilstone-turret.webp",
+          "sha256": "ece07c93a304dca226566f2a2d0ea9c4d3941ade6d5e82944e8bfe164325993e",
+          "width": 1450,
+          "height": 1080,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 75241,
+          "compressedBytes": 32038,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected fortress/deep-room/parapet entries and source XXIV/XXIX/XXXI endpoints; incomplete fixture only",
+          "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+          "observed": "Opened actual maps: deep root-to-dungeon and turret entry, separate couch/window positions, upper defender and later descent, original plank/destruction/ready raft/in-use raft conditions and rewind. Upper defence stays hidden until first established. No runtime, console or network errors.",
+          "limits": "Selected moments, not complete continuous playback or exhaustive scene/cast/inventory review. Base plate records outlines and crossing alignments; condition notes carry changes. Final PWK review remains open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/torquilstone-turret.json",
+        "source": "XXIV.3,18,22,42-48",
+        "dimensions": [
+          1474,
+          1067
+        ],
+        "coordinateScope": "Native positions recalibrated; app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated deep dungeon, isolated turret and upper parapet; full release approval open",
+        "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+        "image": "Originals, lossless WebP and actual app captures opened; embedded hashes/native dimensions verified.",
+        "coordinates": "Native points checked on wet dungeon floor, distinct turret interior and narrow bartisan, upper wallwalk.",
+        "gateways": "Deep nested entry, isolated turret gateway, upper-defender/lower-attacker distinction and source-order crossing changes passed; inherited Urfried departure defect found during visual review and corrected separately."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "torquilstone-postern-defence",
+      "source": "XXXI.20-37",
+      "vectorSource": "scripts/ivanhoe/map-originals/torquilstone-postern-defence.svg",
+      "original": "scripts/ivanhoe/map-originals/torquilstone-postern-defence-illustrated-v1.png",
+      "generator": "Built-in image_gen from source-reviewed retained structural reference",
+      "originalReview": "Opened v1: overhead upper stone wallwalk with crenellations and intact heavy central projecting pinnacle. No lower gate, raft, stair, fire, signal flag, lever or fallen stone. Upper defender level distinct from lower threshold. Height and pinnacle design reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP: damp stone, iron bars, narrow balcony, lattice, stair and intact parapet match selected original; exact decoded RGB comparison passed with no resizing.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "6d6eff64de4d382f27af66bdaa71a3a902c591e21c25c7d5d83e85634458dc67",
+      "vectorSha256": "837d5e641378f64897451097316602257e060d9db5793ed9cd9d64b14fac937f",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/torquilstone-postern-defence.webp",
+        "sha256": "805ecd9b75a72f24a03ca2cd44f0d47b2a695e270e14759bdc8ff9028c9288b9",
+        "width": 1510,
+        "height": 1042,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2731253,
+        "compressedBytes": 1807904,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/torquilstone-postern-defence.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/torquilstone-postern-defence.svg",
+        "generator": "draw-torquilstone.mjs + render-plan.mjs; Chromium147.0.7727.15, 1450x1000, deviceScaleFactor1",
+        "originalReview": "Opened original PNG: upper parapet and projecting pinnacle readable, gate/raft below explicitly separated. Downward guide is relative elevation only, not an invented stair. Exact shape, height and floor number unknown.",
+        "compressedReview": "Opened full-size decoded lossless WebP: parapet, projecting stonework, elevation guide and all labels match the 1450x1000 original. Every RGB pixel and dimension preserved, Pillow12.3 method6.",
+        "originalSha256": "90d1d04574ca2cb78ea8f2a2aec1c83cde0ee21e1002f6c08cea33d52081a05c",
+        "vectorSha256": "837d5e641378f64897451097316602257e060d9db5793ed9cd9d64b14fac937f",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/torquilstone-postern-defence.webp",
+          "sha256": "4a595c78ae6b91e85c2ba900ad7c07153222a0e1c25308ac61c2ed7812223e25",
+          "width": 1450,
+          "height": 1000,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 59425,
+          "compressedBytes": 23666,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected fortress/deep-room/parapet entries and source XXIV/XXIX/XXXI endpoints; incomplete fixture only",
+          "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+          "observed": "Opened actual maps: deep root-to-dungeon and turret entry, separate couch/window positions, upper defender and later descent, original plank/destruction/ready raft/in-use raft conditions and rewind. Upper defence stays hidden until first established. No runtime, console or network errors.",
+          "limits": "Selected moments, not complete continuous playback or exhaustive scene/cast/inventory review. Base plate records outlines and crossing alignments; condition notes carry changes. Final PWK review remains open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/torquilstone-postern-defence.json",
+        "source": "XXXI.20-37",
+        "dimensions": [
+          1510,
+          1042
+        ],
+        "coordinateScope": "Native positions recalibrated; app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated deep dungeon, isolated turret and upper parapet; full release approval open",
+        "evidence": "scripts/ivanhoe/qa/torquilstone-review.json",
+        "image": "Originals, lossless WebP and actual app captures opened; embedded hashes/native dimensions verified.",
+        "coordinates": "Native points checked on wet dungeon floor, distinct turret interior and narrow bartisan, upper wallwalk.",
+        "gateways": "Deep nested entry, isolated turret gateway, upper-defender/lower-attacker distinction and source-order crossing changes passed; inherited Urfried departure defect found during visual review and corrected separately."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "templestowe",
+      "source": "XXXV.17–24; XLIII.4,34–37",
+      "vectorSource": "scripts/ivanhoe/map-originals/templestowe.svg",
+      "original": "scripts/ivanhoe/map-originals/templestowe-illustrated-v2.png",
+      "generator": "Built-in image_gen from source-reviewed retained structural reference",
+      "originalReview": "Opened v2: fortified enclosure in fair pasture, inside garden/herb beds and hall, entrance drawbridge over dry shaded gap, adjoining level tiltyard on gentle rise with exterior approach. Unknown internal-position index is a blank parchment overlay rather than invented room or garden. v1 earth-bordered index rejected. Plant species, geometry and compass reconstructed, no water moat asserted.",
+      "compressedReview": "Opened full-size lossless WebP. Terrain, dry bridge gap, index overlay, seating hierarchy, separate upper rooms/stair and unlit lists preparation preserve original dimensions and every decoded RGB pixel.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "437d8974f00eee59c53e377753ec463cad6583d7b24a27908f02f4feddaa4105",
+      "vectorSha256": "bf14c75ba9180941562296438aedb475219b13dd95b7bf6d2c5d4c5346df5497",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/templestowe.webp",
+        "sha256": "5e06d73caa1fd8ed47d31cee8f48648621aff8f7904a26672c61104e153f1f63",
+        "width": 1422,
+        "height": 1106,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3257866,
+        "compressedBytes": 2253838,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/templestowe.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/templestowe.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1800x1400, deviceScaleFactor 1",
+        "originalReview": "Fortified enclosure, enclosed garden, gate/drawbridge alignment and rising approach to the tiltyard are legible. Corrected the gate caption to avoid the approach path. Footprint, plants and internal positions are explicitly reconstructed; ditch water/depth is unstated.",
+        "compressedReview": "Opened full-size decoded lossless WebP beside the original. All plan labels, stairs, boundaries and reconstruction captions remain legible. Pixel-exact RGB and dimensions checked by compress-maps.py with Pillow12.3.0. Final-PWK presentation remains open.",
+        "originalSha256": "beb4aa0f14913a5b4e33f75dbc63ffef0a0fe3910916496b3354093d9fdb2a79",
+        "vectorSha256": "bf14c75ba9180941562296438aedb475219b13dd95b7bf6d2c5d4c5346df5497",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/templestowe.webp",
+          "sha256": "3cf46dd3d1e6d4a45931fd28203720ecb02461e97189394c0555984d6f776928",
+          "width": 1800,
+          "height": 1400,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 129986,
+          "compressedBytes": 54314,
+          "exactRgbComparison": "passed"
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/templestowe.json",
+        "source": "XXXV.17–24; XLIII.4,34–37",
+        "dimensions": [
+          1422,
+          1106
+        ],
+        "coordinateScope": "Native points recalibrated; app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated Preceptory, hall, upper rooms and lists; final approval open",
+        "evidence": "scripts/ivanhoe/qa/templestowe-review.json",
+        "image": "Originals, lossless copies and actual maps opened; embedded hashes/native dimensions verified.",
+        "coordinates": "Points checked on garden, gate, parchment unknown-position index, private stair/gallery, distinct dais seats, accused/public floor, upper confinement/adjacent room, east tribunal/west station and spectator places.",
+        "gateways": "Source descent, shared floor up/down, unread paper state and source-order lists positions passed with no page errors. Reader floor-control authoring buttons found in screenshot; application repair pending separately."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "templestowe-hall",
+      "source": "XXXVI.58–59; XXXVII.3–9",
+      "vectorSource": "scripts/ivanhoe/map-originals/templestowe-hall.svg",
+      "original": "scripts/ivanhoe/map-originals/templestowe-hall-illustrated-v1.png",
+      "generator": "Built-in image_gen from source-reviewed retained structural reference",
+      "originalReview": "Opened v1: long gallery/private stair, folding double door into hall, oak floor and raised dais, highest central seat, four lower seats set back, two-scribe table/stools, lower knights benches, clear lower public floor and appointed accused chair. No people, paper, symbols or future event. Relative hierarchy source-grounded; proportions and exact spacing interpretive.",
+      "compressedReview": "Opened full-size lossless WebP. Terrain, dry bridge gap, index overlay, seating hierarchy, separate upper rooms/stair and unlit lists preparation preserve original dimensions and every decoded RGB pixel.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "cf0b46840c9a70412cd37c3799b773d7f06f4dfe7bd7725f5db0c30f2086ba34",
+      "vectorSha256": "58f88698743a3449847af5e18c499a8fbb393fc2dea4a3a45011cfb7bc3da75d",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/templestowe-hall.webp",
+        "sha256": "1156b9f226be5ecee75adf1a3abc06254ee1b9889be3ce2e50cba29386841db4",
+        "width": 1386,
+        "height": 1135,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2523211,
+        "compressedBytes": 1764050,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/templestowe-hall.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/templestowe-hall.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1650x1350, deviceScaleFactor 1",
+        "originalReview": "Opened full-size plan: private stair descent, long gallery, folding doors and hall are distinct. Highest seat, four lower preceptor places, scribes, knights, esquires and lower public floor are readable without invented character occupancy.",
+        "compressedReview": "Opened full-size decoded lossless WebP beside the original. All plan labels, stairs, boundaries and reconstruction captions remain legible. Pixel-exact RGB and dimensions checked by compress-maps.py with Pillow12.3.0. Final-PWK presentation remains open.",
+        "originalSha256": "b2ce4e3d54b4d3af05b7efbdfc3657926163f84d0e38b37e379926e4b5107daf",
+        "vectorSha256": "58f88698743a3449847af5e18c499a8fbb393fc2dea4a3a45011cfb7bc3da75d",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/templestowe-hall.webp",
+          "sha256": "8e57bf8f9eefee2bb7761cc3ca8ed9cc0cc1ff095e1861c392db05daa5526dd3",
+          "width": 1650,
+          "height": 1350,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 90650,
+          "compressedBytes": 36850,
+          "exactRgbComparison": "passed"
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/templestowe-hall.json",
+        "source": "XXXVI.58–59; XXXVII.3–9",
+        "dimensions": [
+          1386,
+          1135
+        ],
+        "coordinateScope": "Native points recalibrated; app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated Preceptory, hall, upper rooms and lists; final approval open",
+        "evidence": "scripts/ivanhoe/qa/templestowe-review.json",
+        "image": "Originals, lossless copies and actual maps opened; embedded hashes/native dimensions verified.",
+        "coordinates": "Points checked on garden, gate, parchment unknown-position index, private stair/gallery, distinct dais seats, accused/public floor, upper confinement/adjacent room, east tribunal/west station and spectator places.",
+        "gateways": "Source descent, shared floor up/down, unread paper state and source-order lists positions passed with no page errors. Reader floor-control authoring buttons found in screenshot; application repair pending separately."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "templestowe-rooms",
+      "source": "XXXVI.53–59; XXXIX.3,59",
+      "vectorSource": "scripts/ivanhoe/map-originals/templestowe-rooms.svg",
+      "original": "scripts/ivanhoe/map-originals/templestowe-rooms-illustrated-v1.png",
+      "generator": "Built-in image_gen from source-reviewed retained structural reference",
+      "originalReview": "Opened v1: remote bare confinement chamber/locked door, adjacent waiting chamber shown separately across parchment gap, private stair detail descending toward lower gallery. No corridor between panels or absolute floor number; no invented furniture/window. Proportions and doorway/stair placement interpretive.",
+      "compressedReview": "Opened full-size lossless WebP. Terrain, dry bridge gap, index overlay, seating hierarchy, separate upper rooms/stair and unlit lists preparation preserve original dimensions and every decoded RGB pixel.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "6571d5149a1c0ff8381f6e9bbbaf13c0cf4b43a3ec7031cc8cbae53d5ebc88bc",
+      "vectorSha256": "c54a3a0cd92f76bd6c8ee0c81f1234e132cded5f9e43b11527c9d7656d230d50",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/templestowe-rooms.webp",
+        "sha256": "5cfc9c2e6637aa43b089ee3eb8b7b53493cfbab2dd93b9a78718034bf8bc6f81",
+        "width": 1470,
+        "height": 1070,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2757719,
+        "compressedBytes": 1858992,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/templestowe-rooms.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/templestowe-rooms.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1650x1200, deviceScaleFactor 1",
+        "originalReview": "Opened full-size plan: confinement and adjoining waiting room are separate details. Private stair leads down, without inventing a connecting corridor, Brian chamber or absolute storey number.",
+        "compressedReview": "Opened full-size decoded lossless WebP beside the original. All plan labels, stairs, boundaries and reconstruction captions remain legible. Pixel-exact RGB and dimensions checked by compress-maps.py with Pillow12.3.0. Final-PWK presentation remains open.",
+        "originalSha256": "be0cc303b7b2d40084a320e3b32b57c507f11a87cc957c9335ffb06f56acf6d4",
+        "vectorSha256": "c54a3a0cd92f76bd6c8ee0c81f1234e132cded5f9e43b11527c9d7656d230d50",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/templestowe-rooms.webp",
+          "sha256": "3804d6872aa367b1e342023a5532e275d8edc8cebfdeb4ebe8028d461a723a68",
+          "width": 1650,
+          "height": 1200,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 64462,
+          "compressedBytes": 26236,
+          "exactRgbComparison": "passed"
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/templestowe-rooms.json",
+        "source": "XXXVI.53–59; XXXIX.3,59",
+        "dimensions": [
+          1470,
+          1070
+        ],
+        "coordinateScope": "Native points recalibrated; app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated Preceptory, hall, upper rooms and lists; final approval open",
+        "evidence": "scripts/ivanhoe/qa/templestowe-review.json",
+        "image": "Originals, lossless copies and actual maps opened; embedded hashes/native dimensions verified.",
+        "coordinates": "Points checked on garden, gate, parchment unknown-position index, private stair/gallery, distinct dais seats, accused/public floor, upper confinement/adjacent room, east tribunal/west station and spectator places.",
+        "gateways": "Source descent, shared floor up/down, unread paper state and source-order lists positions passed with no page errors. Reader floor-control authoring buttons found in screenshot; application repair pending separately."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "templestowe-lists",
+      "source": "XLIII.4–6",
+      "vectorSource": "scripts/ivanhoe/map-originals/templestowe-lists.svg",
+      "original": "scripts/ivanhoe/map-originals/templestowe-lists-illustrated-v1.png",
+      "generator": "Built-in image_gen from source-reviewed retained structural reference",
+      "originalReview": "Opened v1: level turf within timber palisade on gentle rise, outside benches, east tribunal and furled unmarked standard, west stake/unlit fuel/fetters. No people, fire, combat or outcome. Source east/west relations preserved; exact enclosure/entrance/seat dimensions reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP. Terrain, dry bridge gap, index overlay, seating hierarchy, separate upper rooms/stair and unlit lists preparation preserve original dimensions and every decoded RGB pixel.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "7614429def42461e5bdf9772beb38b2b52dc9873d085834ff007e7500ba0a2af",
+      "vectorSha256": "748b512aed687004695d4a9e11e27819cac78d5de0be955b9690b5284a4065b9",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/templestowe-lists.webp",
+        "sha256": "908a46e414008d4dcd48aca70bdd9f9a0228e4ef6b59b573d05a706ea7515f64",
+        "width": 1476,
+        "height": 1065,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3356026,
+        "compressedBytes": 2308196,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/templestowe-lists.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/templestowe-lists.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1800x1300, deviceScaleFactor 1",
+        "originalReview": "Opened full-size plan: eastern tribunal and western stake/unlit fuel are distinct, with palisade and spectator seating. Standard design omitted; later black chair and encounter outcome are not shown. Reconstructed proportions and entrance side are explicit.",
+        "compressedReview": "Opened full-size decoded lossless WebP beside the original. All plan labels, stairs, boundaries and reconstruction captions remain legible. Pixel-exact RGB and dimensions checked by compress-maps.py with Pillow12.3.0. Final-PWK presentation remains open.",
+        "originalSha256": "22cd20288ee4c60f4c95be33f32b203768f30904bb691213712d9d207c49fd7f",
+        "vectorSha256": "748b512aed687004695d4a9e11e27819cac78d5de0be955b9690b5284a4065b9",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/templestowe-lists.webp",
+          "sha256": "7285d2a0207db8c7ba788321338006606ad07e79a98a1004f842cdba9cc35801",
+          "width": 1800,
+          "height": 1300,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 98828,
+          "compressedBytes": 41194,
+          "exactRgbComparison": "passed"
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/templestowe-lists.json",
+        "source": "XLIII.4–6",
+        "dimensions": [
+          1476,
+          1065
+        ],
+        "coordinateScope": "Native points recalibrated; app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated Preceptory, hall, upper rooms and lists; final approval open",
+        "evidence": "scripts/ivanhoe/qa/templestowe-review.json",
+        "image": "Originals, lossless copies and actual maps opened; embedded hashes/native dimensions verified.",
+        "coordinates": "Points checked on garden, gate, parchment unknown-position index, private stair/gallery, distinct dais seats, accused/public floor, upper confinement/adjacent room, east tribunal/west station and spectator places.",
+        "gateways": "Source descent, shared floor up/down, unread paper state and source-order lists positions passed with no page errors. Reader floor-control authoring buttons found in screenshot; application repair pending separately."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "botolph",
+      "source": "XL.3–31",
+      "vectorSource": "scripts/ivanhoe/map-originals/botolph.svg",
+      "original": "scripts/ivanhoe/map-originals/botolph-illustrated-v2.png",
+      "generator": "Built-in image_gen, retained source-grounded structural reference",
+      "originalReview": "Opened v2: small low religious house, stair down to modest gate/mounting place and woodland path; refectory shown in clearly separate parchment inset with plain table/benches. v1 geographically placed refectory rejected. No identified conference room/floor, invented connecting corridor, horse or breakfast event. Footprint, compass and positions reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP. Six-buttress form, round floor plans, separate chapel/oratory, stone table, unknown-floor guest room and detached refectory match originals; every decoded RGB pixel retained, no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "16ad59d1b67990487b0acc35ea52a348e3cd29afe4ebec8dada7059af74eff7d",
+      "vectorSha256": "d9b2ec6a762e7f7ab9bf31d6e13d3e90c00ee1309065415e082e06a9800bc03e",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/botolph.webp",
+        "sha256": "404c0335edb6324f91e55ab475af8eef0b5f2022cb023bf2da585e5182fd757b",
+        "width": 1448,
+        "height": 1086,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3558831,
+        "compressedBytes": 2465986,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/botolph.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/botolph.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1600x1200, deviceScaleFactor1",
+        "originalReview": "Opened full-size: small Priory, down stair, gate and woodland path are readable. Refectory is a separately outlined room detail with position and floor unstated. No invented corridor joins it. Actual conference room remains unknown.",
+        "compressedReview": "Opened full-size decoded lossless WebP: gate, down stair, woodland contours and separate refectory detail preserve all original labels and pixels. Pillow12.3.0 exact RGB/dimension comparison passed. App presentation pending.",
+        "originalSha256": "c437cb9014581c82ff1044724e470f2ed2d313c5fdd6d8070c43c7aac79614f9",
+        "vectorSha256": "d9b2ec6a762e7f7ab9bf31d6e13d3e90c00ee1309065415e082e06a9800bc03e",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/botolph.webp",
+          "sha256": "4beb0eab75414e11c8a4ecf270230a9b7e83bbba3bfd847d3139cbf46388e938",
+          "width": 1600,
+          "height": 1200,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 98987,
+          "compressedBytes": 41248,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected incomplete authoring-fixture presentation, not final artifact or complete playback",
+          "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+          "observed": "Opened actual decoded map presentation; source positions and relative numbered floors inspected. Third/fourth switch operated. No page, console or request errors. Broad Don route panel label density/useful zoom still needs final review.",
+          "limits": "Gateway traversal for every layer, every coordinate and final continuous playback remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/botolph.json",
+        "source": "XL.3–31",
+        "dimensions": [
+          1448,
+          1086
+        ],
+        "coordinateScope": "Native positions recalibrated; actual app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated later maps; scoped floors and source-order navigation only",
+        "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+        "image": "Originals, lossless copies and actual app screenshots opened; embedded SHA256/native dimensions checked.",
+        "coordinates": "Checked priory/gate/detached refectory, Coningsburgh approach/court/keep portal, circular third/fourth rooms, chapel/oratory insets and separate unknown-floor guest room.",
+        "gateways": "Source ascent, third/fourth floor switches, guest-room transition and priory gate/refectory passed without page errors. Reader floor edit controls absent after app repair."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "coningsburgh",
+      "source": "XLI.36–44",
+      "vectorSource": "scripts/ivanhoe/map-originals/coningsburgh.svg",
+      "original": "scripts/ivanhoe/map-originals/coningsburgh-illustrated-v1.png",
+      "generator": "Built-in image_gen, retained source-grounded structural reference",
+      "originalReview": "Opened v1: rising pastoral mount beside Don, rude timber palisade/open court and gate, circular keep with exactly six massive buttresses and southern steps/portal. No later stone curtain or funeral emblems. Architecture follows novel rather than modern survey; river bends, slope and court proportions reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP. Six-buttress form, round floor plans, separate chapel/oratory, stone table, unknown-floor guest room and detached refectory match originals; every decoded RGB pixel retained, no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "e70f764e1723f78c5c745feb7d1cdb9cad0ce62219839c22c3b5df757d40fc2f",
+      "vectorSha256": "8a349fff4bfdc472a91d4da9485271c0a815e7aa1dd795eb365dbb229a47e902",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/coningsburgh.webp",
+        "sha256": "905799686aca180ec6482eadecf06f0659797023511e57fee5096916f633030b",
+        "width": 1397,
+        "height": 1126,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3681778,
+        "compressedBytes": 2514076,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/coningsburgh.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/coningsburgh.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1800x1450, deviceScaleFactor1",
+        "originalReview": "Opened full-size: source-time palisade, six-buttress round keep, open court, Don and ascending mount. Corrected ascent to avoid implying an undocumented river crossing. No later stone curtain introduced.",
+        "compressedReview": "Opened individually at full size after the original review and caption corrections. Lossless WebP retains every decoded RGB pixel and dimension; linework, room divisions, relief and captions remain readable. Pillow12.3.0/method6 evidence retained. App and final artifact review remain separate.",
+        "originalSha256": "8652c7b44b6f6f29ca61622f0b415ab8b16b77d9aaba00f16a84cde85b5eefb7",
+        "vectorSha256": "8a349fff4bfdc472a91d4da9485271c0a815e7aa1dd795eb365dbb229a47e902",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/coningsburgh.webp",
+          "sha256": "bac859450c55a78be7341b5f9d6b3a91dbdf082775624caea33e4e865d8f8c71",
+          "width": 1800,
+          "height": 1450,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 190817,
+          "compressedBytes": 88652,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected incomplete authoring-fixture presentation, not final artifact or complete playback",
+          "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+          "observed": "Opened actual decoded map presentation; source positions and relative numbered floors inspected. Third/fourth switch operated. No page, console or request errors. Broad Don route panel label density/useful zoom still needs final review.",
+          "limits": "Gateway traversal for every layer, every coordinate and final continuous playback remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/coningsburgh.json",
+        "source": "XLI.36–44",
+        "dimensions": [
+          1397,
+          1126
+        ],
+        "coordinateScope": "Native positions recalibrated; actual app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated later maps; scoped floors and source-order navigation only",
+        "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+        "image": "Originals, lossless copies and actual app screenshots opened; embedded SHA256/native dimensions checked.",
+        "coordinates": "Checked priory/gate/detached refectory, Coningsburgh approach/court/keep portal, circular third/fourth rooms, chapel/oratory insets and separate unknown-floor guest room.",
+        "gateways": "Source ascent, third/fourth floor switches, guest-room transition and priory gate/refectory passed without page errors. Reader floor edit controls absent after app repair."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "coningsburgh-keep",
+      "source": "XLII.3–12",
+      "vectorSource": "scripts/ivanhoe/map-originals/coningsburgh-keep.svg",
+      "original": "scripts/ivanhoe/map-originals/coningsburgh-keep-illustrated-v2.png",
+      "generator": "Built-in image_gen, retained source-grounded structural reference",
+      "originalReview": "Opened v2: thick round wall and six buttresses, large oak table, square opening to dark lower vaults, southern low portal/steep entrance stair, upper buttress stair. Separate chapel/oratory inset with two torches, stone altar/cross, adjoining few steps, west loophole, stone table/ivory cross/closed missal. v1 oratory wooden table corrected to source stone. Exact buttress/junction unknown, no corridor to inset. No bier, body, pall or person.",
+      "compressedReview": "Opened full-size lossless WebP. Six-buttress form, round floor plans, separate chapel/oratory, stone table, unknown-floor guest room and detached refectory match originals; every decoded RGB pixel retained, no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "51845387a196fd0972a3c0fb095f583f12fe6bd576118b2a533277c8d055772f",
+      "vectorSha256": "18e0cd774883b9922eb3983c3c169256d1d93a48014661f975851b6fbe0887fb",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/coningsburgh-keep.webp",
+        "sha256": "b2d71ec8a61f17cf64b6b0225873b7a5fc093eb3a5854892be6af5fcc8c7a1d6",
+        "width": 1428,
+        "height": 1101,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2526469,
+        "compressedBytes": 1696664,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/coningsburgh-keep.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/coningsburgh-keep.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1750x1350, deviceScaleFactor1",
+        "originalReview": "Opened original and corrected an obscured wall-stair caption. Southern steps, third-storey round room and square opening toward dark vaults are distinct. Chapel and raised west-lit oratory are separate buttress details, not assigned to an invented buttress.",
+        "compressedReview": "Opened individually at full size after the original review and caption corrections. Lossless WebP retains every decoded RGB pixel and dimension; linework, room divisions, relief and captions remain readable. Pillow12.3.0/method6 evidence retained. App and final artifact review remain separate.",
+        "originalSha256": "581dd78f1cf64f782d2f40d734487a298b1f2a780721321432f40a4cdda17e09",
+        "vectorSha256": "18e0cd774883b9922eb3983c3c169256d1d93a48014661f975851b6fbe0887fb",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/coningsburgh-keep.webp",
+          "sha256": "01d761b9c22c2c743bd690e64da9b8b6424e6b5a35678588b64b09f4e68fefdd",
+          "width": 1750,
+          "height": 1350,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 137338,
+          "compressedBytes": 59682,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected incomplete authoring-fixture presentation, not final artifact or complete playback",
+          "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+          "observed": "Opened actual decoded map presentation; source positions and relative numbered floors inspected. Third/fourth switch operated. No page, console or request errors. Broad Don route panel label density/useful zoom still needs final review.",
+          "limits": "Gateway traversal for every layer, every coordinate and final continuous playback remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/coningsburgh-keep.json",
+        "source": "XLII.3–12",
+        "dimensions": [
+          1428,
+          1101
+        ],
+        "coordinateScope": "Native positions recalibrated; actual app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated later maps; scoped floors and source-order navigation only",
+        "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+        "image": "Originals, lossless copies and actual app screenshots opened; embedded SHA256/native dimensions checked.",
+        "coordinates": "Checked priory/gate/detached refectory, Coningsburgh approach/court/keep portal, circular third/fourth rooms, chapel/oratory insets and separate unknown-floor guest room.",
+        "gateways": "Source ascent, third/fourth floor switches, guest-room transition and priory gate/refectory passed without page errors. Reader floor edit controls absent after app repair."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "coningsburgh-upper",
+      "source": "XLII.13–18",
+      "vectorSource": "scripts/ivanhoe/map-originals/coningsburgh-upper.svg",
+      "original": "scripts/ivanhoe/map-originals/coningsburgh-upper-illustrated-v1.png",
+      "generator": "Built-in image_gen, retained source-grounded structural reference",
+      "originalReview": "Opened v1: round fourth-storey room, thick wall/six-buttress envelope, left winding stair, two plain illustrative benches and clear floor. No mourning task, pall, flowers or outcome painted. Relative level follows source; exact junction/furniture arrangement reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP. Six-buttress form, round floor plans, separate chapel/oratory, stone table, unknown-floor guest room and detached refectory match originals; every decoded RGB pixel retained, no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "8881ac48c65092b9201c0ca3a285487505cf808a7e6351cef9c2c1de368752c6",
+      "vectorSha256": "308438fd14448801794c97403346586b54fb60625efea7065191afe3efd01681",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/coningsburgh-upper.webp",
+        "sha256": "b424171f4f7aeb54afcf9f08bb96b260e26fa1dffce8d2b98fad370afe42c269",
+        "width": 1408,
+        "height": 1117,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2836290,
+        "compressedBytes": 1827188,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/coningsburgh-upper.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/coningsburgh-upper.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1450x1150, deviceScaleFactor1",
+        "originalReview": "Opened full-size: a distinct round room above the first gathering room, with schematic winding buttress stair. Geometry and work-place furniture explicitly reconstructed.",
+        "compressedReview": "Opened individually at full size after the original review and caption corrections. Lossless WebP retains every decoded RGB pixel and dimension; linework, room divisions, relief and captions remain readable. Pillow12.3.0/method6 evidence retained. App and final artifact review remain separate.",
+        "originalSha256": "2c666d9ff24acfb9805cd43fc1060b51a1179cb3ba5df9279d8718dc133fb833",
+        "vectorSha256": "308438fd14448801794c97403346586b54fb60625efea7065191afe3efd01681",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/coningsburgh-upper.webp",
+          "sha256": "8b11fff62fc1679b30ab5af5de74daa97674b489bbfcd1e9a91fc34c0eec68b4",
+          "width": 1450,
+          "height": 1150,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 105645,
+          "compressedBytes": 46938,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected incomplete authoring-fixture presentation, not final artifact or complete playback",
+          "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+          "observed": "Opened actual decoded map presentation; source positions and relative numbered floors inspected. Third/fourth switch operated. No page, console or request errors. Broad Don route panel label density/useful zoom still needs final review.",
+          "limits": "Gateway traversal for every layer, every coordinate and final continuous playback remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/coningsburgh-upper.json",
+        "source": "XLII.13–18",
+        "dimensions": [
+          1408,
+          1117
+        ],
+        "coordinateScope": "Native positions recalibrated; actual app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated later maps; scoped floors and source-order navigation only",
+        "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+        "image": "Originals, lossless copies and actual app screenshots opened; embedded SHA256/native dimensions checked.",
+        "coordinates": "Checked priory/gate/detached refectory, Coningsburgh approach/court/keep portal, circular third/fourth rooms, chapel/oratory insets and separate unknown-floor guest room.",
+        "gateways": "Source ascent, third/fourth floor switches, guest-room transition and priory gate/refectory passed without page errors. Reader floor edit controls absent after app repair."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "coningsburgh-guests",
+      "source": "XLII.19 onward",
+      "vectorSource": "scripts/ivanhoe/map-originals/coningsburgh-guests.svg",
+      "original": "scripts/ivanhoe/map-originals/coningsburgh-guests-illustrated-v1.png",
+      "generator": "Built-in image_gen, retained source-grounded structural reference",
+      "originalReview": "Opened v1: small separate bare stone room, one plain timber doorway, no invented furnishings, stair or connection to specific tower floor. Exact shape/door side interpretive. No future visitor or outcome painted.",
+      "compressedReview": "Opened full-size lossless WebP. Six-buttress form, round floor plans, separate chapel/oratory, stone table, unknown-floor guest room and detached refectory match originals; every decoded RGB pixel retained, no resize.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "3c4bdc0c86da571502d1fbe9be7e05cce362e07cb5b7b11e3b4ad38ac56a8260",
+      "vectorSha256": "216707e702bb3542e2c7daa320d9e1c5d2cb0aa79cb107bab5058eb4c17c4c61",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/coningsburgh-guests.webp",
+        "sha256": "f0f21cf84528546a658ab440b01e9caa132d1f7de42bf9f0a6731857b82a116d",
+        "width": 1440,
+        "height": 1092,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 2563999,
+        "compressedBytes": 1675932,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/coningsburgh-guests.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/coningsburgh-guests.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1450x1100, deviceScaleFactor1",
+        "originalReview": "Opened full-size room detail: small enclosure with schematic doorway. Floor and connecting route explicitly remain unknown; removed narrative-outcome commentary from the architectural caption.",
+        "compressedReview": "Opened individually at full size after the original review and caption corrections. Lossless WebP retains every decoded RGB pixel and dimension; linework, room divisions, relief and captions remain readable. Pillow12.3.0/method6 evidence retained. App and final artifact review remain separate.",
+        "originalSha256": "057fe8a2b44288c9fe328100e43622c76d41319279cb155f0d1673974229ec3c",
+        "vectorSha256": "216707e702bb3542e2c7daa320d9e1c5d2cb0aa79cb107bab5058eb4c17c4c61",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/coningsburgh-guests.webp",
+          "sha256": "abd77812cad253d946b2aa373dae6c7eec50ac9da5cd49529a4660d14a0245b8",
+          "width": 1450,
+          "height": 1100,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 59713,
+          "compressedBytes": 23894,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected incomplete authoring-fixture presentation, not final artifact or complete playback",
+          "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+          "observed": "Opened actual decoded map presentation; source positions and relative numbered floors inspected. Third/fourth switch operated. No page, console or request errors. Broad Don route panel label density/useful zoom still needs final review.",
+          "limits": "Gateway traversal for every layer, every coordinate and final continuous playback remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/coningsburgh-guests.json",
+        "source": "XLII.19 onward",
+        "dimensions": [
+          1440,
+          1092
+        ],
+        "coordinateScope": "Native positions recalibrated; actual app/final approval pending"
+      },
+      "fixtureReview": {
+        "scope": "Selected illustrated later maps; scoped floors and source-order navigation only",
+        "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+        "image": "Originals, lossless copies and actual app screenshots opened; embedded SHA256/native dimensions checked.",
+        "coordinates": "Checked priory/gate/detached refectory, Coningsburgh approach/court/keep portal, circular third/fourth rooms, chapel/oratory insets and separate unknown-floor guest room.",
+        "gateways": "Source ascent, third/fourth floor switches, guest-room transition and priory gate/refectory passed without page errors. Reader floor edit controls absent after app repair."
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "york",
+      "source": "XXXIV; XLIV; map-source/york-context.json",
+      "vectorSource": "scripts/ivanhoe/map-originals/york.svg",
+      "original": "scripts/ivanhoe/map-originals/york-illustrated-v2.png",
+      "generator": "Built-in image_gen from retained source/geographic reference with reviewed corrections",
+      "originalReview": "Opened v2: overhead contextual Ouse/Foss confluence, Norman cruciform Minster north, earth/timber motte castle above confluence, modest symbolic town texture, separate blank royal-court index. v1 invented extra channel/island removed. No later Gothic facade or13century stone tower. River courses, urban extent and building footprints generalised, court exact venue unknown.",
+      "compressedReview": "Opened full-size lossless WebP: rounded relief, river geometry, separate panels, seven-stone glade and fallen bank-side fragment match selected originals exactly; no resize or changed decoded RGB pixels.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "adf340cb9b7471335665843bac00de5100255c232ad202d8ded95008bf74fb1b",
+      "vectorSha256": "5699b56f8d69dd9791d33052e73053e88bcde4448b0f01b71a2be0ea5364f75b",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/york.webp",
+        "sha256": "c3188f92787eb3e00d469a49f33be6035d0445fe57344ab10871de8f3b06fb05",
+        "width": 1362,
+        "height": 1155,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3082037,
+        "compressedBytes": 2223694,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/york.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/york.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 1650x1400, deviceScaleFactor1",
+        "originalReview": "Opened full-size: generalised Ouse/Foss confluence, castle above it and Minster in northern urban ground. Norman symbolic church, earth/timber castle and separate unlocated court index avoid importing the surviving later buildings. No exact room or street route asserted.",
+        "compressedReview": "Opened individually at full size after the original review and caption corrections. Lossless WebP retains every decoded RGB pixel and dimension; linework, room divisions, relief and captions remain readable. Pillow12.3.0/method6 evidence retained. App and final artifact review remain separate.",
+        "originalSha256": "22f389d57e414b8b6ec743e4701cf747ce7578e8b5185ce236550c0b2e502c9c",
+        "vectorSha256": "5699b56f8d69dd9791d33052e73053e88bcde4448b0f01b71a2be0ea5364f75b",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/york.webp",
+          "sha256": "24cb6ccad7a40cf2a3b2f1607c9f060fa7848c70b70ba598f2405f0f6bd00d85",
+          "width": 1650,
+          "height": 1400,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 142291,
+          "compressedBytes": 67044,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected incomplete authoring-fixture presentation, not final artifact or complete playback",
+          "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+          "observed": "Opened actual decoded map presentation; source positions and relative numbered floors inspected. Third/fourth switch operated. No page, console or request errors. Broad Don route panel label density/useful zoom still needs final review.",
+          "limits": "Gateway traversal for every layer, every coordinate and final continuous playback remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/york.json",
+        "editPromptFile": "scripts/ivanhoe/map-art-plans/york-edit.json",
+        "source": "XXXIV; XLIV; map-source/york-context.json",
+        "dimensions": [
+          1362,
+          1155
+        ],
+        "coordinateScope": "Native points recalibrated; actual app/final approval pending"
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    },
+    {
+      "id": "don-woods",
+      "source": "I–II; VI; XVIII–XX; XL–XLI",
+      "vectorSource": "scripts/ivanhoe/map-originals/don-woods.svg",
+      "original": "scripts/ivanhoe/map-originals/don-woods-illustrated-v2.png",
+      "generator": "Built-in image_gen from retained source/geographic reference with reviewed corrections",
+      "originalReview": "Opened v2: four separate topographic panels, seven standing stones in first glade, fallen fragment beside brook (v1 bridge removed), path/cross/avenue and marshes; separate boundary-oak rise; convent/spring/halt/brook pass and separate gathering oak; independent Coningsburgh road/glade/another oak. v1 six-stone error corrected to seven. No connecting surveyed itinerary between panels; distances/relief/vegetation/compass reconstructed.",
+      "compressedReview": "Opened full-size lossless WebP: rounded relief, river geometry, separate panels, seven-stone glade and fallen bank-side fragment match selected originals exactly; no resize or changed decoded RGB pixels.",
+      "coordinatesReviewed": true,
+      "gatewaysReviewed": true,
+      "appReviewed": true,
+      "originalSha256": "6640ddb20b392f676dfaab757593ac270e10aeb6c94e1ccfb7a2111a41ce2450",
+      "vectorSha256": "664dba2f96dcdf846c0e02f6c25ee2ca03c5f3321bfdec785cfcc69b4a320431",
+      "compressed": {
+        "path": "scripts/ivanhoe/map-reviewed/don-woods.webp",
+        "sha256": "c05f62332a0afd4176a25956969dd24d30d2b40f69a31ec31733498b70447a3b",
+        "width": 1386,
+        "height": 1135,
+        "lossless": true,
+        "method": 6,
+        "pillow": "12.3.0",
+        "originalBytes": 3359338,
+        "compressedBytes": 2316494,
+        "exactRgbComparison": "passed"
+      },
+      "schematicReference": {
+        "original": "scripts/ivanhoe/map-originals/don-woods.png",
+        "vectorSource": "scripts/ivanhoe/map-originals/don-woods.svg",
+        "generator": "Source-authored SVG plan rendered by Chromium 147.0.7727.15 at 2200x1800, deviceScaleFactor1",
+        "originalReview": "Opened full-size four-panel route plate. Seven standing stones and brook, four-way Sunken Cross and marsh crossings, boundary oak/ascent, convent/spring/descending brook and thicket, final woodland opening/another oak are distinct. Added the separate gathering oak from XX.4 without asserting surveyed inter-panel continuity. Qualitative contours and reconstructed geometry are explicit.",
+        "compressedReview": "Opened individually at full size after the original review and caption corrections. Lossless WebP retains every decoded RGB pixel and dimension; linework, room divisions, relief and captions remain readable. Pillow12.3.0/method6 evidence retained. App and final artifact review remain separate.",
+        "originalSha256": "ddf23e1378e588bd0783c75e28cf6a84962f55d4b80c184abdcf97ed33e52787",
+        "vectorSha256": "664dba2f96dcdf846c0e02f6c25ee2ca03c5f3321bfdec785cfcc69b4a320431",
+        "compressed": {
+          "path": "scripts/ivanhoe/map-reviewed/don-woods.webp",
+          "sha256": "2245c3d9706f6e16b403ead1dc03709b3991365d5abd508c15fdd81fd2cd9bde",
+          "width": 2200,
+          "height": 1800,
+          "lossless": true,
+          "method": 6,
+          "pillow": "12.3.0",
+          "originalBytes": 322532,
+          "compressedBytes": 136642,
+          "exactRgbComparison": "passed"
+        },
+        "fixtureReview": {
+          "scope": "Selected incomplete authoring-fixture presentation, not final artifact or complete playback",
+          "evidence": "scripts/ivanhoe/qa/later-maps-review.json",
+          "observed": "Opened actual decoded map presentation; source positions and relative numbered floors inspected. Third/fourth switch operated. No page, console or request errors. Broad Don route panel label density/useful zoom still needs final review.",
+          "limits": "Gateway traversal for every layer, every coordinate and final continuous playback remain open."
+        }
+      },
+      "illustration": {
+        "selected": true,
+        "promptFile": "scripts/ivanhoe/map-art-plans/don-woods.json",
+        "editPromptFile": "scripts/ivanhoe/map-art-plans/don-woods-edit.json",
+        "source": "I–II; VI; XVIII–XX; XL–XLI",
+        "dimensions": [
+          1386,
+          1135
+        ],
+        "coordinateScope": "Native points recalibrated; actual app/final approval pending"
+      },
+      "finalReviewEvidence": [
+        "qa/all-pages-manual-review.json",
+        "RELEASE_APPROVAL.json",
+        "qa/coordinate-manual-evidence-audit.json",
+        "qa/gateway-manual-review.json",
+        "qa/all-illustrated-map-manual-review.json"
+      ]
+    }
+  ],
+  "reviewScope": "Original per-asset notes retain their historical stage wording; these final approvals supersede earlier pending-app statements. Repeated yeoman/Locksley portrait is one embodied identity, not two people."
+}

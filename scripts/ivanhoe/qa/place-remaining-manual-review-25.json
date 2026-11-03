@@ -1,0 +1,66 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "templestowe-spectator-edge",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "d65fc7b6e0cc14538be90ce9c1e9cf6973337db9a15267d921d7d75c4d932831",
+      "compressedSha256": "45e9495c541a2c5abf8c0b668d42b7bdd9107298a3e1b39aa1474cb5c9a23b11",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty edge beside benches and rail, plain off-white and charcoal cloth, no minstrel or friar; unsigned full view clear.",
+      "screenshots": [
+        "qa/place-templestowe-spectator-edge.png",
+        "qa/place-templestowe-spectator-edge-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-procession-route",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "a488450dae24fad644cadeb1c4112da22eff753474aaed211a270feaeb7486ee",
+      "compressedSha256": "285eca3ce2b717b61c56aa50a3afe884c2185215a7151261b115b7e9b6ffc1a1",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty approach from drawbridge up gentle rise toward lists, no procession or outcome; banner and full image clear.",
+      "screenshots": [
+        "qa/place-templestowe-procession-route.png",
+        "qa/place-templestowe-procession-route-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-west-lists",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "f5417db9935f1dfaab5fa7d17bdc6deadb52e66db0a0d1d7530141cc78fe718d",
+      "compressedSha256": "d68c907995fbb471f5385d575d906fd74cc1486c5b65cb4b2d3f608d383b0345",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Source-described black chair, stake and fuel, no prisoner or flames; full view clear. Reader first-disclosure at XLIII.6 still requires final audit.",
+      "screenshots": [
+        "qa/place-templestowe-west-lists.png",
+        "qa/place-templestowe-west-lists-lightbox.png"
+      ]
+    },
+    {
+      "key": "york-court",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "aee42d26a9dfb0740e293a1c6ca3a8dbbfe0832b4fe8fb9b4339b44e8e0b379f",
+      "compressedSha256": "07cfb54c40cbb180e3be59c6a1c9b081ebe756b6838aa0ab6c8615ac9484e87b",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty royal gathering room with plain red cloth, no repeated unsupported lilies or lions; source does not specify exact room, full view clear.",
+      "screenshots": [
+        "qa/place-york-court.png",
+        "qa/place-york-court-lightbox.png"
+      ]
+    },
+    {
+      "key": "york-minster",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "7aec3926f58fbcf5e4bdc8ab6170350355ab2a39d0992832e6df403470bd7b58",
+      "compressedSha256": "7fc4fdb4b8c023bcac187f6d233f1a85066f36f01af37302a7220491bc44dc0a",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Romanesque portal and round-arched nave, corrected from later Gothic interior; no wedding participants, full view readable.",
+      "screenshots": [
+        "qa/place-york-minster.png",
+        "qa/place-york-minster-lightbox.png"
+      ]
+    }
+  ]
+}

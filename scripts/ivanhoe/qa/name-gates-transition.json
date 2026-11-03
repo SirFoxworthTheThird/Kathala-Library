@@ -1,0 +1,63 @@
+{
+  "previousSha256": "0846c957358b14805923bd097b1fb011406475f9c7a3ad41464a3fab98bb3dc6",
+  "candidateSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "scope": "Two redundant retained-name alias schedules now start at the names\u2019 actual first disclosure. Three editorial reports refer to an absent minstrel without connecting his name to a later anonymous physical arrival. Source prose, presence, states other than wording, geometry and all334 URL assets are unchanged.",
+  "changes": [
+    {
+      "table": "events",
+      "id": "ivanhoe-source-20-p0",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-23-p0",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "events",
+      "id": "ivanhoe-source-36-p0",
+      "fields": [
+        "description"
+      ]
+    },
+    {
+      "table": "characters",
+      "id": "ivanhoe-character-locksley",
+      "fields": [
+        "aliasesFrom"
+      ]
+    },
+    {
+      "table": "characters",
+      "id": "ivanhoe-character-urfried",
+      "fields": [
+        "aliasesFrom"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-17-0-hermit",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-20-0-locksley",
+      "fields": [
+        "statusNotes"
+      ]
+    },
+    {
+      "table": "characterSnapshots",
+      "id": "ivanhoe-snapshot-33-0-aymer",
+      "fields": [
+        "statusNotes"
+      ]
+    }
+  ]
+}

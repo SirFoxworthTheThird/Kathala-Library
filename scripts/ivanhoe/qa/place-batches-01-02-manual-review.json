@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-02",
+  "scope": "Eight source-grounded Rotherwood location portraits: selected originals, decoded WebPs, app banner and enlarged presentation each individually opened. Eight-step stair draft rejected, corrected seven-step image selected. Location/mapping/disclosure release gates remain open.",
+  "checks": [
+    {
+      "id": "place-rotherwood-entrance",
+      "entity": "place:rotherwood-entrance",
+      "compressedSha256": "676024455ea55c2ebd1bd7aa71cf0c3b8ec8ef539f6e9d393aa99d074dc21f64",
+      "fixtureSha256": "212c6ce66d4288daf0239f69788d2f449b591ca88872f02a6dfc5f1027b02355",
+      "captureReport": "qa/place-art-rotherwood-entrance,rotherwood-approach,rotherwood-postern-bridge,rotherwood-palmer-cell.json",
+      "banner": "qa/place-rotherwood-entrance.png",
+      "enlarged": "qa/place-rotherwood-entrance-lightbox.png"
+    },
+    {
+      "id": "place-rotherwood-approach",
+      "entity": "place:rotherwood-approach",
+      "compressedSha256": "9a13d77fdfcb4f7b670a9a7865c200c9c8dd2003f17e5cccc14e1201fe62dd5d",
+      "fixtureSha256": "212c6ce66d4288daf0239f69788d2f449b591ca88872f02a6dfc5f1027b02355",
+      "captureReport": "qa/place-art-rotherwood-entrance,rotherwood-approach,rotherwood-postern-bridge,rotherwood-palmer-cell.json",
+      "banner": "qa/place-rotherwood-approach.png",
+      "enlarged": "qa/place-rotherwood-approach-lightbox.png"
+    },
+    {
+      "id": "place-rotherwood-postern-bridge",
+      "entity": "place:rotherwood-postern-bridge",
+      "compressedSha256": "9c8c4916d0233a1dc18bb8962c7d21eb47c871a226307fe002b58affbf7fcbc8",
+      "fixtureSha256": "212c6ce66d4288daf0239f69788d2f449b591ca88872f02a6dfc5f1027b02355",
+      "captureReport": "qa/place-art-rotherwood-entrance,rotherwood-approach,rotherwood-postern-bridge,rotherwood-palmer-cell.json",
+      "banner": "qa/place-rotherwood-postern-bridge.png",
+      "enlarged": "qa/place-rotherwood-postern-bridge-lightbox.png"
+    },
+    {
+      "id": "place-rotherwood-palmer-cell",
+      "entity": "place:rotherwood-palmer-cell",
+      "compressedSha256": "8113e207ec15b3f2b8e9263e1707a3df3738722f8e7586aec73365ed368764f1",
+      "fixtureSha256": "212c6ce66d4288daf0239f69788d2f449b591ca88872f02a6dfc5f1027b02355",
+      "captureReport": "qa/place-art-rotherwood-entrance,rotherwood-approach,rotherwood-postern-bridge,rotherwood-palmer-cell.json",
+      "banner": "qa/place-rotherwood-palmer-cell.png",
+      "enlarged": "qa/place-rotherwood-palmer-cell-lightbox.png"
+    },
+    {
+      "id": "place-rotherwood-isaac-cell",
+      "entity": "place:rotherwood-isaac-cell",
+      "compressedSha256": "eedda5e03922b787308d307bbb6bd246b7d57bb9531e4f10089e151943a377dc",
+      "fixtureSha256": "32c08f5eb33e32d98371f851dd2b8d123713a94833e70bfe8326d4d71d32a148",
+      "captureReport": "qa/place-art-rotherwood-isaac-cell,rotherwood-gurth-cell,rotherwood-antechamber,rotherwood-rowena-gateway.json",
+      "banner": "qa/place-rotherwood-isaac-cell.png",
+      "enlarged": "qa/place-rotherwood-isaac-cell-lightbox.png"
+    },
+    {
+      "id": "place-rotherwood-gurth-cell",
+      "entity": "place:rotherwood-gurth-cell",
+      "compressedSha256": "d9e0583e3930a2d92729f9d0ccc589c1e650f12bbea47b2e9067990c6ca4567b",
+      "fixtureSha256": "32c08f5eb33e32d98371f851dd2b8d123713a94833e70bfe8326d4d71d32a148",
+      "captureReport": "qa/place-art-rotherwood-isaac-cell,rotherwood-gurth-cell,rotherwood-antechamber,rotherwood-rowena-gateway.json",
+      "banner": "qa/place-rotherwood-gurth-cell.png",
+      "enlarged": "qa/place-rotherwood-gurth-cell-lightbox.png"
+    },
+    {
+      "id": "place-rotherwood-antechamber",
+      "entity": "place:rotherwood-antechamber",
+      "compressedSha256": "f08d5fcf39acda041d4c4023a314c7dabb48fadca17749e6b55963597a4d0a9a",
+      "fixtureSha256": "32c08f5eb33e32d98371f851dd2b8d123713a94833e70bfe8326d4d71d32a148",
+      "captureReport": "qa/place-art-rotherwood-isaac-cell,rotherwood-gurth-cell,rotherwood-antechamber,rotherwood-rowena-gateway.json",
+      "banner": "qa/place-rotherwood-antechamber.png",
+      "enlarged": "qa/place-rotherwood-antechamber-lightbox.png"
+    },
+    {
+      "id": "place-rotherwood-rowena-gateway",
+      "entity": "place:rotherwood-rowena-gateway",
+      "compressedSha256": "8aeb3a8e301f666169907890915680d26dc8c6029213ed4cf28336ae50d3fe7e",
+      "fixtureSha256": "32c08f5eb33e32d98371f851dd2b8d123713a94833e70bfe8326d4d71d32a148",
+      "captureReport": "qa/place-art-rotherwood-isaac-cell,rotherwood-gurth-cell,rotherwood-antechamber,rotherwood-rowena-gateway.json",
+      "banner": "qa/place-rotherwood-rowena-gateway.png",
+      "enlarged": "qa/place-rotherwood-rowena-gateway-lightbox.png"
+    }
+  ],
+  "releaseApproved": false
+}

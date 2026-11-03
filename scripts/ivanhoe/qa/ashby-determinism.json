@@ -1,0 +1,22 @@
+[
+  {
+    "path": "scripts/ivanhoe/manuscript-draft.pwk",
+    "sha256": "53520f1bce7ad3d3ca5e14fa42d782544de5fec89825973a29dc8e26c11e082c",
+    "byteIdentical": true
+  },
+  {
+    "path": "scripts/ivanhoe/authoring-review.pwk",
+    "sha256": "7ea4aafd36878bfa91b6e290a4bb983e565dd544482e9cc134325800bd222fed",
+    "byteIdentical": true
+  },
+  {
+    "path": "scripts/ivanhoe/map-originals/ashby.svg",
+    "sha256": "48ef82ddabd3ba64efabe590870913838edf27a9065dbe7dd72d0d631157b731",
+    "byteIdentical": true
+  },
+  {
+    "path": "scripts/ivanhoe/map-originals/ashby-lists.svg",
+    "sha256": "d3b175e6f86bf804e33e1fe2d1c981200599d5160b452484141e6076588fe47a",
+    "byteIdentical": true
+  }
+]

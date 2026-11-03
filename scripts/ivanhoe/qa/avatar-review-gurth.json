@@ -1,0 +1,19 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "gurth"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-gurth",
+      "name": "Gurth",
+      "eventId": "ivanhoe-source-4-p8",
+      "cursorLabel": "Ch.4 · CHAPTER I — The forest glade (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-gurth.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

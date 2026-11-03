@@ -1,0 +1,82 @@
+{
+  "status": "COMPLETE LOCAL GATES; REMOTE RELEASE AUTHORIZED IN PR76; APP648 MERGED",
+  "path": "library/ivanhoe.pwk",
+  "sha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "bytes": 3302723,
+  "counts": {
+    "words": 195107,
+    "paragraphs": 3138,
+    "narrativeChapters": 44,
+    "ancillarySections": 14,
+    "chapters": 58,
+    "events": 537,
+    "narrativeCuts": 523,
+    "characters": 78,
+    "directStates": 1473,
+    "places": 171,
+    "mappedPlaces": 166,
+    "sourceUnlocatedPlaces": 5,
+    "mapLayers": 30,
+    "gateways": 26,
+    "items": 55,
+    "itemStates": 92,
+    "ordinaryIllustrations": 304,
+    "mapIllustrations": 30,
+    "uniqueImageUrls": 334
+  },
+  "localReleaseBlockers": [],
+  "source": "Project Gutenberg82; Walter Scott English original; exact retained-source reconstruction",
+  "companionApp": {
+    "branch": "fix/ivanhoe-reported-death-correction",
+    "commit": "e8e8b0c2004392e7612516f463a4ed39e8da9b38",
+    "buildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90",
+    "tests": 3105,
+    "lint": "PASS",
+    "build": "PASS",
+    "e2eRegressionCases": 4
+  },
+  "gates": {
+    "sourceArtworkMaps": "qa/release-validators.json",
+    "exactReproduction": "qa/final-determinism.json",
+    "catalogueQualityTests": {
+      "passed": 951,
+      "evidence": "qa/packaged-quality-tests.log"
+    },
+    "libraryTests": {
+      "passed": 1278,
+      "files": 23,
+      "evidence": "qa/library-tests-packaged.log"
+    },
+    "releaseGate": "qa/final-gate.log",
+    "catalogue": "qa/final-catalogue-check.log",
+    "diff": "qa/final-diff-check.log",
+    "playback": "qa/continuous-playback.json",
+    "finalDownload": "qa/browser-run-466697b4262d-bfe1426f1ba6.json",
+    "manualFinalDownload": "qa/packaged-download-manual.json"
+  },
+  "limitations": [
+    "Dates/times and fictional map geometry are disclosed editorial reconstructions.",
+    "Five source-unlocated places and unspecified departure destinations remain unknown.",
+    "The shared yeoman/Locksley portrait depicts one embodied identity.",
+    "Optional writer-only seven-beat Structure is deliberately unassigned.",
+    "URL assets and companion application fixes have not been published; public delivery requires separately authorized releases."
+  ],
+  "remoteActionsPerformed": [],
+  "remoteRelease": {
+    "authorization": "User explicitly requested PR creation and merge to main.",
+    "libraryPr": "https://github.com/SirFoxworthTheThird/Kathala-Library/pull/76",
+    "companionPr": "https://github.com/SirFoxworthTheThird/Kathala/pull/648",
+    "companionMergedSha": "e4a09dd968469b4070776b1a3b4d6bea17920c09",
+    "libraryStateAtRecord": "PR open; final merge/check state is authoritative on GitHub."
+  },
+  "currentMainCompatibility": {
+    "appMainSha": "e4a09dd968469b4070776b1a3b4d6bea17920c09",
+    "buildSha256": "941dedb5285e9a11508f203068b70bf0f00273732707fc612cecb695c30879e0",
+    "unitTests": 3347,
+    "browserRegressionCases": 9,
+    "lint": "PASS",
+    "build": "PASS",
+    "bookLevelUi": "qa/browser-run-466697b4262d-f40802902bb9.json",
+    "continuousPlayback": "qa/browser-run-466697b4262d-98070f8a598e.json"
+  }
+}

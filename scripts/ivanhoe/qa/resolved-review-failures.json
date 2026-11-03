@@ -1,0 +1,30 @@
+{
+  "scope": "Historical failed captures/logs retained as evidence, superseded by successful final runs.",
+  "resolved": [
+    {
+      "issue": "Identical anonymous attendant status wording",
+      "resolution": "Twelve companion states rewritten without inventing actions; unique-state checks pass."
+    },
+    {
+      "issue": "Delayed retained-name aliases and early editorial named-minstrel reports",
+      "resolution": "First-source alias dates corrected and three editorial reports anonymized; unmodified catalogue name gate passes."
+    },
+    {
+      "issue": "Opening attendant harness required a plural literal",
+      "resolution": "Semantic singular/plural match plus exact compiled state and source-unit checks."
+    },
+    {
+      "issue": "Playwright response body capture returned zero bytes",
+      "resolution": "Browser clones and hashes the actual fetch response before import; exact3302723-byte PWK hash verified."
+    },
+    {
+      "issue": "Opening capture raced a route transition",
+      "resolution": "Wait for exact world route and reading-mode dashboard; stable zero-knowledge opening manually reviewed."
+    }
+  ],
+  "evidence": [
+    "qa/final-gate.log",
+    "qa/browser-run-466697b4262d-bfe1426f1ba6.json",
+    "qa/packaged-download-manual.json"
+  ]
+}

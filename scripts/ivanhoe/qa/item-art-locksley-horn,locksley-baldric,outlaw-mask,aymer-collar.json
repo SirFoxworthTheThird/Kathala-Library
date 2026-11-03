@@ -1,0 +1,31 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "8ec9eb6c476ef07a21a063b4084ca87eb0422cb6a5df1f706a505d1a6aba613b",
+  "itemArtChecks": [
+    {
+      "key": "locksley-horn",
+      "eventId": "ivanhoe-source-16-p69",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "locksley-baldric",
+      "eventId": "ivanhoe-source-22-p34",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "outlaw-mask",
+      "eventId": "ivanhoe-source-22-p34",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "aymer-collar",
+      "eventId": "ivanhoe-source-5-p40",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

@@ -18,7 +18,7 @@ type Event = Ref & {
   travelDays: number
 }
 type Location = Ref & {
-  mapLayerId: string
+  mapLayerId: string | null
   linkedMapLayerId?: string | null
   name: string
   description: string
@@ -41,6 +41,7 @@ type CharacterSnapshot = {
   characterId: string
   currentLocationMarkerId: string | null
   statusNotes: string
+  currentMapLayerId?: string | null
 }
 type CharacterMovement = Ref & {
   eventId: string
@@ -180,8 +181,12 @@ describe('published examples meet the authoring quality rules', () => {
           expect(event, `${snapshot.id} event`).toBeDefined()
           expect(characterIds.has(snapshot.characterId), `${snapshot.id} character`).toBe(true)
           expect(event?.involvedCharacterIds.includes(snapshot.characterId), `${snapshot.id} absent character`).toBe(true)
-          expect(snapshot.currentLocationMarkerId, `${snapshot.id} location`).not.toBeNull()
-          expect(locationIds.has(snapshot.currentLocationMarkerId ?? ''), `${snapshot.id} location`).toBe(true)
+          // Source silence is an unknown endpoint, not a reason to invent one.
+          if (snapshot.currentLocationMarkerId === null) {
+            expect(snapshot.currentMapLayerId ?? null, `${snapshot.id} unlocated map`).toBeNull()
+          } else {
+            expect(locationIds.has(snapshot.currentLocationMarkerId), `${snapshot.id} location`).toBe(true)
+          }
 
           const notes = snapshot.statusNotes.trim()
           expect(notes.length, `${snapshot.id} status`).toBeGreaterThan(0)
@@ -212,7 +217,13 @@ describe('published examples meet the authoring quality rules', () => {
         }
 
         for (const location of world.locationMarkers) {
-          expect(mapIds.has(location.mapLayerId), `${location.id} map`).toBe(true)
+          if (location.mapLayerId === null) {
+            expect(location.x ?? 0, `${location.id} unlocated x sentinel`).toBe(0)
+            expect(location.y ?? 0, `${location.id} unlocated y sentinel`).toBe(0)
+            expect(location.linkedMapLayerId ?? null, `${location.id} unlocated gateway`).toBeNull()
+          } else {
+            expect(mapIds.has(location.mapLayerId), `${location.id} map`).toBe(true)
+          }
           if (typeof location.linkedMapLayerId === 'string') {
             expect(mapIds.has(location.linkedMapLayerId), `${location.id} linked map`).toBe(true)
           }

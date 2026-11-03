@@ -1,0 +1,19 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "john"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-john",
+      "name": "Prince John",
+      "eventId": "ivanhoe-source-10-p17",
+      "cursorLabel": "Ch.10 · CHAPTER VII — The Prince arrives (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-john.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

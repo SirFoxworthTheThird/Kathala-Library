@@ -1,0 +1,26 @@
+{
+  "scope": "Manual presentation review retained through exact URL/model transition proofs; final candidate application checks and screenshots match the same subjects, geometry and disclosed state model.",
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "checks": [
+    {
+      "image": "calendar-opening.png",
+      "finding": "June1194 AD has only the three reached preliminaries and opening narrative scene; later scenes are hidden. No invented weekdays are displayed.",
+      "sha256": "1f05c21d6b5680801196ee16d5224fd75720880a3e4fcdf37b2af0cbb854054a"
+    },
+    {
+      "image": "calendar-complete.png",
+      "finding": "All537 chips are present at the last cursor; relative days and retrospective glyphs distinguish chronology from reading order. The long month scrolls vertically.",
+      "sha256": "c7db14df3c72c6263d482d84c2327b8a1f7d996a20039d7263d841a6871583d7"
+    },
+    {
+      "image": "calendar-recollection-open.png",
+      "finding": "ChapterXXVIII prose actually opens at its heading while the Footnotes bookmark remains unchanged; Back to your place is visible. The stale Footnotes prose seen before the fix is corrected.",
+      "sha256": "d000e22d0ec7ad4c2c39edcf0acf2c184294d96d25ece784b484a75ecd617d60"
+    }
+  ],
+  "limitations": [
+    "June1194 and interpolated clock times are disclosed editorial choices, not an authenticated historical itinerary.",
+    "Calendar presentation review does not independently approve all scene clock anchors or dramatic-pressure ratings."
+  ],
+  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90"
+}

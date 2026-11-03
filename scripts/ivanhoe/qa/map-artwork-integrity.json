@@ -1,0 +1,338 @@
+{
+  "scope": "Map file integrity only; not source or application approval",
+  "maps": 30,
+  "illustrated": 30,
+  "awaitingIllustrations": [],
+  "checks": [
+    {
+      "map": "rotherwood-hall",
+      "illustrated": true,
+      "sha256": "779969a5813e054f9661be5bbbc5f564f7ad4060001e89fd5262a014404770a5",
+      "dimensions": [
+        1564,
+        1006
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "rotherwood-guests",
+      "illustrated": true,
+      "sha256": "b5f58f6668beb2d074f6931af5d10832499440a55165b77a9689c17f8d7b510b",
+      "dimensions": [
+        1564,
+        1006
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "rotherwood",
+      "illustrated": true,
+      "sha256": "931a4cfead87e0821b7c43d3edf6d603a18ddbac95339f403b80f99f5a58bfb5",
+      "dimensions": [
+        1565,
+        1005
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "england",
+      "illustrated": true,
+      "sha256": "976dbb8cf7383d2230b8823aa5ca435a8736f1d9941f739f8d99d21bd7a6eff9",
+      "dimensions": [
+        1341,
+        1173
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "rotherwood-rowena",
+      "illustrated": true,
+      "sha256": "11a0f8dddf60d5d8ebbaf5cb4dd56f0e5e39a5af5116aec3c28b803c84cb769e",
+      "dimensions": [
+        1565,
+        1005
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "ashby",
+      "illustrated": true,
+      "sha256": "58ef380e04058d9d96d915b2740b793e879abb45a0740919b92d035d456fd607",
+      "dimensions": [
+        1564,
+        1006
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "ashby-lists",
+      "illustrated": true,
+      "sha256": "ae994581f5b5d36f23f1811a97d4094801894f92d36b47e7d812c0cffd01024d",
+      "dimensions": [
+        1341,
+        1173
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "copmanhurst",
+      "illustrated": true,
+      "sha256": "9ef2215e391776e547eb5e6778134f9dc211b68117bc6d49aa49d4eaa9eee3b9",
+      "dimensions": [
+        1564,
+        1006
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "copmanhurst-hut",
+      "illustrated": true,
+      "sha256": "777df6e6924381001ff285e73aa538561269aa20f5d5f57b9ccae4c7ae5627d6",
+      "dimensions": [
+        1564,
+        1006
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "ashby-house",
+      "illustrated": true,
+      "sha256": "9e2617708b7d6beb81a72d95449662fda1bf8f5fffa93c3a5d15c635998dad89",
+      "dimensions": [
+        1484,
+        1060
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "ashby-house-upper",
+      "illustrated": true,
+      "sha256": "6b730bda3c449a63ebe7ed388df20a2cc8b34cb22f5a9ee46a0415c80fb65529",
+      "dimensions": [
+        1484,
+        1060
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "ashby-house-sickroom",
+      "illustrated": true,
+      "sha256": "9c97865f6d42195922c8d40e5c534b3e4faff051b96e8619fae594ffb45a9794",
+      "dimensions": [
+        1484,
+        1060
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "ashby-woods",
+      "illustrated": true,
+      "sha256": "5571406acf42fbb8ef4ec79b298642a937042f8ce71a784c91b9691f01e9aad4",
+      "dimensions": [
+        1499,
+        1049
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "ashby-castle",
+      "illustrated": true,
+      "sha256": "105172e725d239a2a8033b2b17a9087bcdd8400d0ba0bd334f95371876abe583",
+      "dimensions": [
+        1500,
+        1049
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "torquilstone",
+      "illustrated": true,
+      "sha256": "e88cfc89ba6912a74ef983c6aedc2748f7caf867e7c86eaac3ba2fcb8a4503fb",
+      "dimensions": [
+        1422,
+        1106
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "torquilstone-interior",
+      "illustrated": true,
+      "sha256": "ca5dfa71e202044f3aaa98573088e47ff7ddeeb15a8526fbab371247f7d889b9",
+      "dimensions": [
+        1503,
+        1046
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "torquilstone-dungeon",
+      "illustrated": true,
+      "sha256": "6f15ef7e9332c9603fa195a368b1d9276555444f0afb1b8525c7c74702d4e5c9",
+      "dimensions": [
+        1474,
+        1067
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "torquilstone-turret",
+      "illustrated": true,
+      "sha256": "751e896ad00bbfaaa705ab172bc62368269a1118052432499f1b6984b61bc52b",
+      "dimensions": [
+        1474,
+        1067
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "torquilstone-postern-defence",
+      "illustrated": true,
+      "sha256": "805ecd9b75a72f24a03ca2cd44f0d47b2a695e270e14759bdc8ff9028c9288b9",
+      "dimensions": [
+        1510,
+        1042
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "templestowe",
+      "illustrated": true,
+      "sha256": "5e06d73caa1fd8ed47d31cee8f48648621aff8f7904a26672c61104e153f1f63",
+      "dimensions": [
+        1422,
+        1106
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "templestowe-hall",
+      "illustrated": true,
+      "sha256": "1156b9f226be5ecee75adf1a3abc06254ee1b9889be3ce2e50cba29386841db4",
+      "dimensions": [
+        1386,
+        1135
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "templestowe-rooms",
+      "illustrated": true,
+      "sha256": "5cfc9c2e6637aa43b089ee3eb8b7b53493cfbab2dd93b9a78718034bf8bc6f81",
+      "dimensions": [
+        1470,
+        1070
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "templestowe-lists",
+      "illustrated": true,
+      "sha256": "908a46e414008d4dcd48aca70bdd9f9a0228e4ef6b59b573d05a706ea7515f64",
+      "dimensions": [
+        1476,
+        1065
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "botolph",
+      "illustrated": true,
+      "sha256": "404c0335edb6324f91e55ab475af8eef0b5f2022cb023bf2da585e5182fd757b",
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "coningsburgh",
+      "illustrated": true,
+      "sha256": "905799686aca180ec6482eadecf06f0659797023511e57fee5096916f633030b",
+      "dimensions": [
+        1397,
+        1126
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "coningsburgh-keep",
+      "illustrated": true,
+      "sha256": "b2d71ec8a61f17cf64b6b0225873b7a5fc093eb3a5854892be6af5fcc8c7a1d6",
+      "dimensions": [
+        1428,
+        1101
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "coningsburgh-upper",
+      "illustrated": true,
+      "sha256": "b424171f4f7aeb54afcf9f08bb96b260e26fa1dffce8d2b98fad370afe42c269",
+      "dimensions": [
+        1408,
+        1117
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "coningsburgh-guests",
+      "illustrated": true,
+      "sha256": "f0f21cf84528546a658ab440b01e9caa132d1f7de42bf9f0a6731857b82a116d",
+      "dimensions": [
+        1440,
+        1092
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "york",
+      "illustrated": true,
+      "sha256": "c3188f92787eb3e00d469a49f33be6035d0445fe57344ab10871de8f3b06fb05",
+      "dimensions": [
+        1362,
+        1155
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    },
+    {
+      "map": "don-woods",
+      "illustrated": true,
+      "sha256": "c05f62332a0afd4176a25956969dd24d30d2b40f69a31ec31733498b70447a3b",
+      "dimensions": [
+        1386,
+        1135
+      ],
+      "exactDecodedRgb": true,
+      "finalApplicationApproved": true
+    }
+  ]
+}

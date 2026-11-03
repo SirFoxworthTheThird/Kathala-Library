@@ -1,0 +1,56 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "wyvil",
+    "martival",
+    "unknownsquire",
+    "hermit"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-wyvil",
+      "name": "William de Wyvil",
+      "eventId": "ivanhoe-source-10-p13",
+      "cursorLabel": "Ch.10 · CHAPTER VII — Order among the spectators (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-wyvil.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-wyvil.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-martival",
+      "name": "Stephen de Martival",
+      "eventId": "ivanhoe-source-10-p13",
+      "cursorLabel": "Ch.10 · CHAPTER VII — Order among the spectators (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-martival.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-martival.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-unknownsquire",
+      "name": "The concealed squire",
+      "eventId": "ivanhoe-source-13-p0",
+      "cursorLabel": "Ch.13 · CHAPTER X — The private attendant (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-unknownsquire.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-unknownsquire.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-hermit",
+      "name": "The hermit",
+      "eventId": "ivanhoe-source-19-p12",
+      "cursorLabel": "Ch.19 · CHAPTER XVI — A closed door (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-hermit.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-hermit.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

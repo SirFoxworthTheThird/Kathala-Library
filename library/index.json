@@ -310,6 +310,24 @@
       "hasProse": true
     },
     {
+      "id": "ivanhoe",
+      "title": "Ivanhoe",
+      "author": "Walter Scott",
+      "blurb": "Travellers cross the forests of an England divided by conquest, while noble households and armed orders contend over hospitality, honour and authority.",
+      "data": "ivanhoe.pwk",
+      "dataBytes": 3302723,
+      "counts": {
+        "characters": 78,
+        "chapters": 58,
+        "events": 537,
+        "locations": 171
+      },
+      "notice": "Unofficial reading edition of Walter Scott’s public-domain English original from Project Gutenberg eBook 82. The complete 44-chapter narrative, introduction, dedicatory epistle, title and contents matter, ten chapter notes and footnotes are retained. Editorial scene divisions, approximate chronology, reconstructed maps and 334 generated illustrations are documented in the included Lore. Gutenberg’s distribution notice and licence are retained in a separate Lore page.",
+      "worldId": "ivanhoe-world",
+      "cover": "library/ivanhoe/art/generated/cover.webp",
+      "hasProse": true
+    },
+    {
       "id": "jane-eyre",
       "title": "Jane Eyre",
       "author": "Charlotte Brontë",

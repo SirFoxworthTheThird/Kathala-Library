@@ -1,0 +1,16 @@
+{
+  "scope": "Limited first-name disclosure fixture check",
+  "nameChecks": [
+    {
+      "moment": "A summons in the antechamber",
+      "name": "The waiting-maid",
+      "label": "edwina-before-name"
+    },
+    {
+      "moment": "Edwina leads the visitor out",
+      "name": "Edwina",
+      "label": "edwina-named"
+    }
+  ],
+  "pageErrors": []
+}

@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "templestowe-gate",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-garden",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-rebecca-cell",
+      "mapLayerId": "ivanhoe-map-templestowe-rooms",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-trial-approach",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-great-hall",
+      "mapLayerId": "ivanhoe-map-templestowe-hall",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

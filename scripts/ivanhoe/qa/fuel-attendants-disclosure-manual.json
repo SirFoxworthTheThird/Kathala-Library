@@ -1,0 +1,26 @@
+{
+  "fixtureSha256": "6df6d15f72c4ab4994c399ac4e0201576c0f8a67bafc25690134c3edb97e2af9",
+  "scope": "New collective roster visibility before first direct appearance, at first appearance and after rewind",
+  "checks": [
+    {
+      "label": "before",
+      "visible": false,
+      "screenshot": "qa/fuel-attendants-before.png",
+      "screenshotSha256": "b4cc4b763f0ade83abc617b5e0623e5040de8bdb3961d1ff531ef06d7970b8f4"
+    },
+    {
+      "label": "present",
+      "visible": true,
+      "screenshot": "qa/fuel-attendants-present.png",
+      "screenshotSha256": "dad144c80bbdeb485e0f5fcf40003ab1ff6ccc6a081c6f74789c6bd095a4da78"
+    },
+    {
+      "label": "rewound",
+      "visible": false,
+      "screenshot": "qa/fuel-attendants-rewound.png",
+      "screenshotSha256": "c98c7a69a8d3eb7b39da993809594fb94cc737b71efcaa78a0801edb644bbb73"
+    }
+  ],
+  "pageErrors": [],
+  "manualReview": "Opened all three filtered-roster screenshots. Existing roster has63 entries before,64 at first appearance,63 on rewind; filtered result absent/present/absent, correct portrait and western-end location. Initial capture helper raced roster loading; added loaded Cedric witness and exact search; literal ellipsis placeholder mismatch fixed. No application failure was observed."
+}

@@ -1,0 +1,62 @@
+{
+  "road-from-st-withold": [
+    "v2",
+    "Empty rutted woodland road beside stream and distant bridge; XVIII.25 route. V1 bottom-right signature removed in v2; precise bridge and terrain illustrative, no travellers."
+  ],
+  "forest-edge-road": [
+    "v1",
+    "Empty woodland road beside brook and wooded hills, XIX.3. Stream alignment and exact terrain illustrative, no company or invented destination."
+  ],
+  "forest-litter-halt": [
+    "v1",
+    "Curtained litter with carrying poles beside woodland road; front slit reveals empty bedding, no occupant identity. XIX.4–16; cloth and construction illustrative."
+  ],
+  "forest-escape-thicket": [
+    "v1",
+    "Dense brambles and narrow woodland escape path by stream; XIX.20–43. No fugitive or pursuer, vegetation and path geometry illustrative."
+  ],
+  "forest-rescue-path": [
+    "v2",
+    "Empty woodland path and rocky stream, XIX.43–48. Distant castle removed to avoid unsupported route landmark; no rescuer or fighting, terrain illustrative."
+  ],
+  "forest-rendezvous-oak": [
+    "v1",
+    "Broad old oak in grassy woodland opening, XX.3. No assembled characters; tree form and clearing illustrative."
+  ],
+  "torquilstone-forest-approach": [
+    "v1",
+    "Forest-edge view toward moated square keep and lower ranges, XXI.3. Empty approach; precise architecture and footprint illustrative."
+  ],
+  "torquilstone-defences": [
+    "v1",
+    "Wide empty fortress view, keep, curtain walls, moat and forework. XXVII.127/XXX.17 defensive setting; no commanders or troop presence, geometry illustrative."
+  ],
+  "torquilstone-eastern-wall": [
+    "v1",
+    "Lower curtain beside moat with keep behind, XXVII.116,127. No De Bracy or troops; view orientation and masonry illustrative."
+  ],
+  "torquilstone-western-wall": [
+    "v1",
+    "High curtain and empty wall walk above moat, distinct from eastern view. XXVII.116,127; no Brian or troops, exact height and alignment illustrative."
+  ],
+  "isaac-northbound-road": [
+    "v1",
+    "Empty rural valley road beside water and low rocky slopes. XXVIII.56; unnamed route remains geographically unplaced, terrain illustrative, no litter or passenger."
+  ],
+  "torquilstone-ruins": [
+    "v3",
+    "Devastated roofless ranges, collapsed keep masonry, charred timbers and flames at evening, matching XXXI.92 destruction. No people or bodies. Intact v1/v2 rejected for this late-disclosed site; precise ruin geometry illustrative. Must remain hidden until XXXI.92 in reader mode."
+  ],
+  "harthill-trysting-tree": [
+    "v1",
+    "Broad old oak in woodland clearing, XXXII.3. No gathered company or castle nearby; exact oak shape and clearing illustrative."
+  ],
+  "harthill-tree-edge": [
+    "v2",
+    "Oak foreground and path beside clearing; nearby castle, moat and bridge removed because XXXII.3 places gathering half a mile away. XXXII.28; no characters, terrain illustrative."
+  ],
+  "harthill-funeral-path": [
+    "v2",
+    "Empty woodland path passing oak clearing, XXXII.46. Rejected v1 fortress gate/bridge replaced with woodland route away from castle. No procession, bier or outcome illustrated; route geometry illustrative."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-02",
+  "fixtureSha256": "899c19ec158242497e150759a1377cb5a02453ea93b42674c9e8d607053f0be6",
+  "scope": "Actual corrected VIII.40 source appearance panels individually opened: anonymous names, gold-inlaid steel / black horse descriptions and current rider shown without future credit explanation. Enlarged images unchanged; previous all-object visual report retains original scope.",
+  "checks": [
+    {
+      "key": "loan-horse",
+      "eventId": "ivanhoe-source-11-p40",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "loan-armour",
+      "eventId": "ivanhoe-source-11-p40",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": [],
+  "releaseApproved": false
+}

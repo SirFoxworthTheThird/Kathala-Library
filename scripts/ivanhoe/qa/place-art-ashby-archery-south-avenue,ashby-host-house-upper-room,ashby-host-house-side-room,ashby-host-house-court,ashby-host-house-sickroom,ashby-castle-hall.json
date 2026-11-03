@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "ashby-archery-south-avenue",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-host-house-upper-room",
+      "mapLayerId": "ivanhoe-map-ashby-house-upper",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-host-house-side-room",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-host-house-court",
+      "mapLayerId": "ivanhoe-map-ashby-house",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-host-house-sickroom",
+      "mapLayerId": "ivanhoe-map-ashby-house-sickroom",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-castle-hall",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

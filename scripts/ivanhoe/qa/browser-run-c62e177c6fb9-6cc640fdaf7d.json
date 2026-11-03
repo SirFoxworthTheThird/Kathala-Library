@@ -1,0 +1,23 @@
+{
+  "status": "PASSED SCOPED APPLICATION CHECKS; MANUAL REVIEW AND PACKAGING ARE SEPARATE GATES",
+  "fixtureSha256": "c62e177c6fb9b205b2f277cf7df5795091ece7389ba765ee0f63576f35b268cd",
+  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90",
+  "flags": [
+    "--portrait=fangs",
+    "--all-pages",
+    "--continuous",
+    "--inventory",
+    "--reported-item-history",
+    "--relationships",
+    "--supporting",
+    "--name-gates",
+    "--knowledge",
+    "--lore",
+    "--calendar-clock"
+  ],
+  "browser": "147.0.7727.15",
+  "pageErrors": [],
+  "consoleErrors": [],
+  "networkFailures": [],
+  "cancelledImageRequests": []
+}

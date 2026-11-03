@@ -1,0 +1,24 @@
+{
+  "message": "Attendant named before II.51",
+  "pageErrors": [],
+  "networkFailures": [],
+  "consoleErrors": [],
+  "mapRequests": [
+    {
+      "url": "http://127.0.0.1:4186/assets/index-T1rN1fPG.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4186/assets/MapExplorerView-BB0bBSv6.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4186/library/ivanhoe/art/generated/maps/england.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4186/assets/RelationshipGraphView-8hax8RNO.css",
+      "status": 200
+    }
+  ]
+}

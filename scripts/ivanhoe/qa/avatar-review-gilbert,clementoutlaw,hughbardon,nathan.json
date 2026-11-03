@@ -1,0 +1,56 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "gilbert",
+    "clementoutlaw",
+    "hughbardon",
+    "nathan"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-gilbert",
+      "name": "Gilbert",
+      "eventId": "ivanhoe-source-35-p70",
+      "cursorLabel": "Ch.35 · CHAPTER XXXII. — The blocked cellar (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-gilbert.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-gilbert.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-clementoutlaw",
+      "name": "Clement of the outlaws",
+      "eventId": "ivanhoe-source-35-p89",
+      "cursorLabel": "Ch.35 · CHAPTER XXXII. — The returned buffet (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-clementoutlaw.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-clementoutlaw.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-hughbardon",
+      "name": "Hugh Bardon",
+      "eventId": "ivanhoe-source-37-p65",
+      "cursorLabel": "Ch.37 · CHAPTER XXXIV — Another watcher (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-hughbardon.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-hughbardon.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-nathan",
+      "name": "Nathan Ben Israel",
+      "eventId": "ivanhoe-source-38-p0",
+      "cursorLabel": "Ch.38 · CHAPTER XXXV — Shelter with Nathan (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-nathan.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-nathan.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

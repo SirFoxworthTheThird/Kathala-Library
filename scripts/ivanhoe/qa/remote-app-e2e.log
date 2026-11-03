@@ -1,0 +1,37 @@
+
+Running 9 tests using 3 workers
+
+
+
+[1A[2K(node:14820) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1A[2K(node:40796) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1A[2K(node:27620) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+
+[1A[2K(node:14820) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+[1A[2K(node:40796) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+
+[1A[2K(node:27620) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[1A[2K[1/9] [chromium] › e2e\reportedDeathCorrection.spec.ts:5:1 › reading state follows a death report, its correction, and rewind without adding an absent person to the cast
+[1A[2K[2/9] [chromium] › e2e\identityGrouping.spec.ts:45:1 › a revealed roster identity inherits a state recorded only under its earlier name
+[1A[2K[3/9] [chromium] › e2e\readingPosition.spec.ts:47:3 › A reader keeps their place in the book › looking at an earlier scene on the Calendar does not move it
+[1A[2K[4/9] [chromium] › e2e\identityGrouping.spec.ts:79:1 › before the reveal two men, from it one person: roster, page, appearances, history and state
+[1A[2K[5/9] [chromium] › e2e\readingPosition.spec.ts:87:3 › A reader keeps their place in the book › but for a writer the same tap still moves it
+[1A[2K[6/9] [chromium] › e2e\identityGrouping.spec.ts:120:1 › before the reveal, Jekyll’s bonds are his own
+[1A[2K[7/9] [chromium] › e2e\readingPosition.spec.ts:112:3 › A reader keeps their place in the book › the controls that say they move it still do
+[1A[2K[8/9] [chromium] › e2e\identityGrouping.spec.ts:130:1 › a fact both halves learn is known by the person once, from the first of them
+[1A[2K[9/9] [chromium] › e2e\identityGrouping.spec.ts:149:1 › before the reveal two, from it one: the graph, the map and the Arc grid
+[1A[2K  9 passed (29.3s)

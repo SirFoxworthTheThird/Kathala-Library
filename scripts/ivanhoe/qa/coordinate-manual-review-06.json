@@ -1,0 +1,943 @@
+{
+  "scope": "39 individual actual-app Torquilstone and Harthill coordinate screenshots opened at native resolution; coordinate presentation only. Static structural map does not animate destruction; scene states and gated banner carry changing condition.",
+  "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+  "appCommit": "02dcd633",
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-parapet-gateway",
+      "name": "The upper postern defence",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 405,
+      "y": 626,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-parapet-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.753164556962,
+          "y": 491.77034358047024
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "6c6a3a1b4b63cbceba1dfa0db27f3aeb090ebba206f7446154134ea82433f2d2",
+      "manualObservation": "Pin is on the main-wall defence above the postern; no particular stair route is asserted."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-room-gateway",
+      "name": "The castle rooms",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 675,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-room-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.5886075949367,
+          "y": 492.05244122965644
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "6049f69641b4d2ddff7a75e63a27b67c101505ed53879bad1ad5df93e4b6cbb4",
+      "manualObservation": "Pin is on the central keep as a room-detail index; exact room positions and floors remain unstated."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-crossing",
+      "name": "The postern moat crossing",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 330,
+      "y": 586,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-crossing.png",
+      "presentation": {
+        "point": {
+          "x": 729.6877637130801,
+          "y": 492.33453887884264
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "f13f97dea43afe5144a2ed9e0cbb1dab1d250e7163721718f39c5a448ca16691",
+      "manualObservation": "Pin is in the moat between main-wall postern and separate outwork; panel records rebuilt raft crossing distinctly from principal drawbridge."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-approach",
+      "name": "The castle approach",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 660,
+      "y": 96,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-approach.png",
+      "presentation": {
+        "point": {
+          "x": 730.3755274261604,
+          "y": 800.245931283906
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "ab8be1050c2d3c18db8d31497f0a1f17feadaa5763f755daf1233e219601612f",
+      "manualObservation": "Pin is on the forest road before the barbican."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-siege-oak",
+      "name": "The besiegers’ oak",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1260,
+      "y": 906,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-siege-oak.png",
+      "presentation": {
+        "point": {
+          "x": 921.8987341772151,
+          "y": 465.8209764918626
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "8af26f793ea55545f42d736224180598bcc3ea3fe9bca058ff90f673fc8adc68",
+      "manualObservation": "Pin is on the separate oak detail in the map margin; distinct from Harthill tree."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-barbican",
+      "name": "The barbican gate",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 660,
+      "y": 231,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-barbican.png",
+      "presentation": {
+        "point": {
+          "x": 730.3755274261604,
+          "y": 609.3417721518988
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "dcd3f8ebad1a2beaff89e44d8898d559379e0937ed18b2ca0944b4d2a683c211",
+      "manualObservation": "Pin meets the outer twin-tower barbican entrance."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-outwork",
+      "name": "The postern outwork",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 195,
+      "y": 586,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-outwork.png",
+      "presentation": {
+        "point": {
+          "x": 582.7700421940929,
+          "y": 492.33453887884264
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3e8b1fe05c319ae9ca60bb6d84d9414b1e3f38af5dbb8431465207c58f15ff06",
+      "manualObservation": "Pin is inside the palisaded work across the moat from the main postern."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-main-postern",
+      "name": "The main-wall postern",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 405,
+      "y": 586,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-main-postern.png",
+      "presentation": {
+        "point": {
+          "x": 729.753164556962,
+          "y": 492.33453887884264
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "09ea7fb659dc97927cdb409adaed594729c81e825b94602b97266063e9a21dd7",
+      "manualObservation": "Pin meets the west main-wall secondary entrance, not the outer work."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-court",
+      "name": "The inner court",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 660,
+      "y": 446,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-court.png",
+      "presentation": {
+        "point": {
+          "x": 730.3755274261604,
+          "y": 492.3092224231465
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c0539f356d653046f9c627513d41faa2be4f3398184cc2b99b3b1c23acdc60e2",
+      "manualObservation": "Pin lies in open inner court between keep and main gate."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-drawbridge-outwork",
+      "name": "The main drawbridge approach",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 660,
+      "y": 286,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-drawbridge-outwork.png",
+      "presentation": {
+        "point": {
+          "x": 730.3755274261604,
+          "y": 530.5660036166366
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "906b60f6a1ac1a7ceba68b218bed1c5dd845fb8be02a5bc329768fa113c547ed",
+      "manualObservation": "Pin lies on the principal bridge between barbican and main gate, distinct from postern raft."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-burning-turret",
+      "name": "The eastern-angle turret",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 750,
+      "y": 716,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-burning-turret.png",
+      "presentation": {
+        "point": {
+          "x": 729.6540084388187,
+          "y": 492.5009041591319
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "fb8de59555656d053f32ed2ab6f190049eb221c08658c0972ee4fc70e72bab17",
+      "manualObservation": "Pin is on the eastern-angle turret of the central donjon; illustration is intact footprint, condition is scene state."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-forest-approach",
+      "name": "Forest near Torquilstone",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 190,
+      "y": 206,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-forest-approach.png",
+      "presentation": {
+        "point": {
+          "x": 575.6990154711673,
+          "y": 643.6943942133814
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "592502853801308cba8f87291774d73ce9ac82fd0078ff9cd1e46700df7c9739",
+      "manualObservation": "Pin lies in woods outside castle moat, separate from entrance road."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-defences",
+      "name": "The divided defences",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 800,
+      "y": 446,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-defences.png",
+      "presentation": {
+        "point": {
+          "x": 730.3642756680731,
+          "y": 492.3092224231465
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "4dcf5401767b01a377a716afaf2eabdb9fb149b5cea990789c91712cffb07a57",
+      "manualObservation": "General distributed-posts pin lies inside walls; description distinguishes east, west and barbican posts rather than shared room."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-eastern-wall",
+      "name": "The lower eastern wall",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 930,
+      "y": 546,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-eastern-wall.png",
+      "presentation": {
+        "point": {
+          "x": 730.210970464135,
+          "y": 491.89873417721526
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "90ddfdd6dc50ad388b815fe268f66775439511dce86d5d21be61f77db11f5a3f",
+      "manualObservation": "Pin is on lower eastern perimeter wall."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-western-wall",
+      "name": "The western wall",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 405,
+      "y": 486,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-western-wall.png",
+      "presentation": {
+        "point": {
+          "x": 729.753164556962,
+          "y": 491.74502712477386
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "7b0cc5146ad4d89009ed48ccd0f9c6d9c41d8dc89b186584404efe5f9d00131d",
+      "manualObservation": "Pin is on western perimeter, below postern defence."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-ruins",
+      "name": "The castle site",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 675,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-ruins.png",
+      "presentation": {
+        "point": {
+          "x": 729.5886075949367,
+          "y": 492.05244122965644
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3caace1ef46adf1901a00a27ef103eb622ec21ec6be74d7b217aeac287013ba3",
+      "manualObservation": "Pin identifies same castle footprint; banner and state show ruined condition while static map retains structural reference plan."
+    },
+    {
+      "markerId": "ivanhoe-place-harthill-trysting-tree",
+      "name": "The Harthill trysting tree",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1260,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-harthill-trysting-tree.png",
+      "presentation": {
+        "point": {
+          "x": 921.8987341772151,
+          "y": 492.05244122965644
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3523bf4b0e45de1a78851936f4a60878daae6de477efab0b14f5c77117c701b1",
+      "manualObservation": "Pin is on separate broad gathering-tree detail, distinct from rescue oak; no surveyed direction asserted by margin arrangement."
+    },
+    {
+      "markerId": "ivanhoe-place-harthill-tree-edge",
+      "name": "Edge of the gathering",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1340,
+      "y": 556,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-harthill-tree-edge.png",
+      "presentation": {
+        "point": {
+          "x": 1036.0351617440226,
+          "y": 491.75768535262216
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "415656e3ba32e4923deadd4cc8caaea6370dbc81627cfc133b6b862706a9eadb",
+      "manualObservation": "Pin is at edge of Harthill tree detail, distinct from assembly centre."
+    },
+    {
+      "markerId": "ivanhoe-place-harthill-funeral-path",
+      "name": "The path past Harthill",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1260,
+      "y": 136,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-harthill-funeral-path.png",
+      "presentation": {
+        "point": {
+          "x": 921.8987341772151,
+          "y": 742.6817359855334
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "259c41e56ffc203c3782e0612f4bcb324f6cf8b0ceb536b739b2cb1ddd099c24",
+      "manualObservation": "Pin lies on separate path detail past the gathering."
+    },
+    {
+      "markerId": "ivanhoe-place-harthill-private-tree",
+      "name": "A tree apart",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "x": 1260,
+      "y": 316,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-harthill-private-tree.png",
+      "presentation": {
+        "point": {
+          "x": 921.8987341772151,
+          "y": 492.1428571428571
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "5ed4dc1baeeca6d4dbfec2fd2107da5ac186def7b669b219ed17d0761b66db22",
+      "manualObservation": "Pin is on separate tree apart; reader copy preserves unsurveyed position."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-dungeon-gateway",
+      "name": "Down to the deep dungeon",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1250,
+      "y": 196,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-dungeon-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 938.1304058549567,
+          "y": 657.8642447418738
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "ffa6ed19578d95fe071f0870ed9d20ba76fee151175d1d67d797a396a2ee69e4",
+      "manualObservation": "Pin is in margin as downward room-detail index; stair position within castle remains unknown."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-turret-gateway",
+      "name": "Up to the isolated turret",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1250,
+      "y": 111,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-turret-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 794.1304058549567,
+          "y": 779.0506692160614
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "34bae99301531e90c747b8df283fc31481bbf3f5e030d1bdb31e2dc9d95771b8",
+      "manualObservation": "Pin is in margin as raised isolated chamber index; exact position and storey count remain unknown."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-reception-room",
+      "name": "The reception chamber",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1240,
+      "y": 901,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-reception-room.png",
+      "presentation": {
+        "point": {
+          "x": 779.9853626081172,
+          "y": 386.0239005736138
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "a8fcc50e2df2e966bad3643d9e706c0e45014511552687bd999f161eaec7b882",
+      "manualObservation": "Pin lies inside plain reception-room detail before captive separation."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-old-hall",
+      "name": "The old hall",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 260,
+      "y": 831,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-old-hall.png",
+      "presentation": {
+        "point": {
+          "x": 674.7711244178311,
+          "y": 485.0009560229445
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "5e5403d603e093ed9e4aa76c75f8eaef4dd299c97aa8b2494f5d6cc6a355ed49",
+      "manualObservation": "Pin is on old-hall floor between Saxon columns, with windows shown on courtyard-facing edge."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-new-hall",
+      "name": "The new hall",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 750,
+      "y": 846,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-new-hall.png",
+      "presentation": {
+        "point": {
+          "x": 729.878243512974,
+          "y": 463.7915869980879
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "1937db58d79403fea0ea6f001e589de0654f45edd890f389305c8a1aaf23b1e1",
+      "manualObservation": "Pin lies in distinct newer hall detail between lighter columns."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-rowena-room",
+      "name": "Rowena’s chamber",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 330,
+      "y": 636,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-rowena-room.png",
+      "presentation": {
+        "point": {
+          "x": 729.7864271457086,
+          "y": 491.72275334608025
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "7c332de840f74b3b2065050fcf0570e1ae6e0ec32d08e9972e9e3f1603ddf004",
+      "manualObservation": "Pin lies inside faded-tapestry room detail."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-low-arched-passage",
+      "name": "The low arched passage",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 750,
+      "y": 646,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-low-arched-passage.png",
+      "presentation": {
+        "point": {
+          "x": 729.878243512974,
+          "y": 492.583173996176
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "79881abc71e4c7f2273d11aaa185cd2dae4ff9da22526104a7a626f424802b72",
+      "manualObservation": "Pin lies inside separate low vaulted passage detail, not a fabricated connecting corridor."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-ivanhoe-room",
+      "name": "The wounded knight’s room",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1200,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-ivanhoe-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.4051896207584,
+          "y": 492.14149139579354
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3cb3822e9bdde4c899073d1bccba5c009e13b773b3b5f6e2392b5e369e0da7c3",
+      "manualObservation": "Pin is on sickroom floor beside bed; raised window is separately marked and floor remains unspecified."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-ivanhoe-window",
+      "name": "The raised window",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1080,
+      "y": 666,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-ivanhoe-window.png",
+      "presentation": {
+        "point": {
+          "x": 730.6646706586826,
+          "y": 492.3040152963671
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "dc1a5861abd650646916c1decce6b15cfea96120516270477526d5acbd556288",
+      "manualObservation": "Pin meets the raised window platform within the sickroom."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-urfried-room",
+      "name": "The spinner’s private room",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 290,
+      "y": 356,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-urfried-room.png",
+      "presentation": {
+        "point": {
+          "x": 718.20625415835,
+          "y": 491.6309751434035
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "46d8d57be535175bfc6e949035ebb0f9014dc7e39f59c9a338f3a0c4d098cfa4",
+      "manualObservation": "Pin is on private-room floor beside wine cupboard and table."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-passage",
+      "name": "The postern passage",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 750,
+      "y": 406,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-passage.png",
+      "presentation": {
+        "point": {
+          "x": 729.878243512974,
+          "y": 491.9330783938815
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "b4a8abe0344bc7cfd447a3ab46b24a4262e28d329b76998e91a94f9ad61e14d4",
+      "manualObservation": "Pin lies in separate narrow postern-route detail."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-armoury",
+      "name": "The armoury",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1330,
+      "y": 386,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-armoury.png",
+      "presentation": {
+        "point": {
+          "x": 907.2907518296738,
+          "y": 492.2122370936902
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "2ee5f231f3acc7b80c33a7880dd228540d8c55dc63366c12a04298acc4bd52f5",
+      "manualObservation": "Pin lies inside armoury room detail, separate from its balcony."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-armoury-balcony",
+      "name": "The armoury balcony",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 1250,
+      "y": 481,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-armoury-balcony.png",
+      "presentation": {
+        "point": {
+          "x": 794.1304058549567,
+          "y": 491.8862332695984
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "40caab3d6f78502b1d75d630a8ea675824d24123b35419fa2d943c3a6085c9a9",
+      "manualObservation": "Pin lies on outward-facing balcony platform attached to armoury detail."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-frontdeboeuf-room",
+      "name": "The Baron’s chamber",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 350,
+      "y": 146,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-frontdeboeuf-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.0765136393879,
+          "y": 728.5621414913958
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "b1ca9f09cbc3e7f97c6c048c475c4c4d7b15bb00d3a5e8c1202c1fbd30ca7209",
+      "manualObservation": "Pin lies in baron bedchamber detail beside bed and separate door."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-vault",
+      "name": "The vaulted entrance",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "x": 750,
+      "y": 146,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-vault.png",
+      "presentation": {
+        "point": {
+          "x": 729.878243512974,
+          "y": 728.5621414913958
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "b7ec560a41ce48a0f1c1c10475b1f4d7c8be3a4da7a38018fa42dc0ca17a0d1f",
+      "manualObservation": "Pin is on floor of vaulted entrance detail, distinct from passage."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-postern-parapet",
+      "name": "The parapet above the postern",
+      "mapLayerId": "ivanhoe-map-torquilstone-postern-defence",
+      "x": 750,
+      "y": 592,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-postern-parapet.png",
+      "presentation": {
+        "point": {
+          "x": 729.4304635761589,
+          "y": 491.56429942418424
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "5245a53ab1d8e5d3e1c9c67840c1baaf923196c43df130e98821caee95203c19",
+      "manualObservation": "Pin is on raised defensive platform behind projecting stonework, separate map above postern."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-dungeon",
+      "name": "The dungeon",
+      "mapLayerId": "ivanhoe-map-torquilstone-dungeon",
+      "x": 720,
+      "y": 507,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-dungeon.png",
+      "presentation": {
+        "point": {
+          "x": 730.4531886024423,
+          "y": 491.9775070290535
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "edfc2c2258124339ec3a721a1917770387ae3b043934f875bebc45c3d645d294",
+      "manualObservation": "Pin is inside damp subterranean chamber floor; door, chains and hearth remain room features."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-turret-cell",
+      "name": "The turret chamber",
+      "mapLayerId": "ivanhoe-map-torquilstone-turret",
+      "x": 700,
+      "y": 537,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-turret-cell.png",
+      "presentation": {
+        "point": {
+          "x": 730.1628222523746,
+          "y": 491.5501405810684
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "ff364fb10e40f13ffbb1ab8ab435e8b7e27701c6a18901131ae1fc0be1e791be",
+      "manualObservation": "Pin is inside isolated round chamber, distinct from exterior bartisan."
+    },
+    {
+      "markerId": "ivanhoe-place-torquilstone-bartisan",
+      "name": "The bartisan",
+      "mapLayerId": "ivanhoe-map-torquilstone-turret",
+      "x": 210,
+      "y": 537,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-torquilstone-bartisan.png",
+      "presentation": {
+        "point": {
+          "x": 604.0488466757123,
+          "y": 491.5501405810684
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "732f1d06990e7756bc448440dd529140d9287baacdeb27708d291de19a8648ae",
+      "manualObservation": "Pin lies on narrow exterior parapet outside lattice, with no connection to neighbouring battlements."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "SCOPED PORTRAIT FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "fixtureSha256": "07fc586958ee0c8ffac3673a7b1689d09520a52d60fd151b0f786db73bb99827",
+  "selection": [
+    "hermit",
+    "coningsburghsteward",
+    "edith",
+    "dennet",
+    "minstrel"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-hermit",
+      "name": "The hermit",
+      "eventId": "ivanhoe-source-19-p12",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.19 · CHAPTER XVI — A closed door (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-hermit.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-hermit.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-coningsburghsteward",
+      "name": "The steward of Coningsburgh",
+      "eventId": "ivanhoe-source-44-p41",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.44 · CHAPTER XLI — The crowded court (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-coningsburghsteward.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-coningsburghsteward.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-edith",
+      "name": "Edith",
+      "eventId": "ivanhoe-source-45-p9",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.45 · CHAPTER XLII — Edith in mourning (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-edith.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-edith.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-dennet",
+      "name": "Dennet",
+      "eventId": "ivanhoe-source-46-p8",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.46 · CHAPTER XLIII — A rumour retold (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-dennet.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-dennet.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-minstrel",
+      "name": "The minstrel of Sherwood",
+      "eventId": "ivanhoe-source-46-p8",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.46 · CHAPTER XLIII — A rumour retold (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-minstrel.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-minstrel.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

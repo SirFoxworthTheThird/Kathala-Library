@@ -1,0 +1,169 @@
+{
+  "scope": "Manual post-fix actual item-history review, observations24-47 only",
+  "fixtureSha256": "955618ed2eb61140f30129ee7f9767eab240f3183ca84f3fe66e3b9a8de6a174",
+  "reviewed": 24,
+  "sheets": [
+    {
+      "sheet": "custody-review-sheet-07.jpg",
+      "sha256": "ac17953eaa5bd9930cbd1b78b14df004ef630302e6f396932e241711773f046a",
+      "finding": "Purse is seized with the bag; personal coins become an explicit inventory gap rather than a fabricated second purse. Failed recovery leaves captain holding both bags.",
+      "observations": [
+        {
+          "index": 24,
+          "path": "qa/custody-024-rebecca-purse.png",
+          "sha256": "a4b27b690f5879f6069fa7f31cfa9aefbd52e73e2f53d1359b3120e09ed352c1"
+        },
+        {
+          "index": 25,
+          "path": "qa/custody-025-gurth-coins.png",
+          "sha256": "f6b55cd38d1aef60173a0896717fde099c46987601ee1605e3e50129b958e9d9"
+        },
+        {
+          "index": 26,
+          "path": "qa/custody-026-masters-gold.png",
+          "sha256": "abc3375aa43b002e7b30c918cbf1e19442143166e469df424a5b6098aa1d9092"
+        },
+        {
+          "index": 27,
+          "path": "qa/custody-027-rebecca-purse.png",
+          "sha256": "c9256e3215e11320e0511f9b98fa5bb5ef159193a46ca012ac9327149820e638"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-08.jpg",
+      "sha256": "1b48eb6820263ffb4492f0d9d7910e6420881ffa5ded81644256673b37f3d09d",
+      "finding": "Spared release restores Gurth possessions without inventing a separate return ceremony. Charger first appears with the black-armoured rider.",
+      "observations": [
+        {
+          "index": 28,
+          "path": "qa/custody-028-masters-gold.png",
+          "sha256": "42bd89e2c5793f62a88b8fd84a023a8f24cd3658478d27453e95c73ae1cfd92b"
+        },
+        {
+          "index": 29,
+          "path": "qa/custody-029-rebecca-purse.png",
+          "sha256": "fa7f0809f70b7ff9c313c3c77b99a4e5dd47df9d9b3ce182a19d5ead55adfc3a"
+        },
+        {
+          "index": 30,
+          "path": "qa/custody-030-gurth-coins.png",
+          "sha256": "359125258d879cbd3d6f11076b8bea3679160ce9bce7645cf0d61569de4b98e1"
+        },
+        {
+          "index": 31,
+          "path": "qa/custody-031-blackknight-charger.png",
+          "sha256": "9156dd4dbae867de15af1da580adbe53de99499ac5e8471f8955bc106f610d6a"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-09.jpg",
+      "sha256": "bf5e95fc8e3173e3be3071c895dd6288202776fcea0128f6994b2984f252e838",
+      "finding": "Axe transfer, broken sword and cast-down warder occur at their distinct internal beats; chaplet precedes the victor spoken name.",
+      "observations": [
+        {
+          "index": 32,
+          "path": "qa/custody-032-athelstane-battleaxe.png",
+          "sha256": "61795af32ea7bdc75d46becfd94c42830c9bee0fed51f56fe68cb7bfa006493e"
+        },
+        {
+          "index": 33,
+          "path": "qa/custody-033-blackknight-tourney-sword.png",
+          "sha256": "1dfb4564d6e4c968a9da510146d3ba3f34b3c9408fc1a1efa0f6b7c09d53a6f2"
+        },
+        {
+          "index": 34,
+          "path": "qa/custody-034-john-warder.png",
+          "sha256": "387443d70ebeb63efd714405abbc0ab69485768fcd37b84c9a9cc00d1583d82e"
+        },
+        {
+          "index": 35,
+          "path": "qa/custody-035-chaplet.png",
+          "sha256": "0e92e869c727e705238aa368f68486612f60672d4512e3bd2557116b2cd372c6"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-10.jpg",
+      "sha256": "c536ffcb937afba6ecee5a6246f38145b0e5ef8c17670111ba1d27f4ae45f0a1",
+      "finding": "Billet passes from John to De Bracy; archer receives the horn; Wamba obtains his steel sword only in the ambush.",
+      "observations": [
+        {
+          "index": 36,
+          "path": "qa/custody-036-john-billet.png",
+          "sha256": "8b731346bb86173c208d9983a651110e677c31a2d0dda67fdd37b5373b24a27e"
+        },
+        {
+          "index": 37,
+          "path": "qa/custody-037-john-billet.png",
+          "sha256": "5e48e1484e55f86961ad8d36957565edef184f751e305b93b0b773a9f0d4cf31"
+        },
+        {
+          "index": 38,
+          "path": "qa/custody-038-locksley-horn.png",
+          "sha256": "56dfb4bc872ddf2bf3c427b76812e245dbd23d73682e90fb730c4a761731fe02"
+        },
+        {
+          "index": 39,
+          "path": "qa/custody-039-wamba-falchion.png",
+          "sha256": "694d1b844808d0033e2272abde4bf77da7678641a45858d1927bcbe882bf0fb7"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-11.jpg",
+      "sha256": "f6bf7c3dcad306159294847cfc457220553c87f961e216a5698703650a29f0e7",
+      "finding": "Horn, baldric and feather pass to Wamba while the mask stays with Locksley.",
+      "observations": [
+        {
+          "index": 40,
+          "path": "qa/custody-040-locksley-horn.png",
+          "sha256": "a13673a73d9e8ed9d649a949c47d2a4781ff56207370a3e5d5609c5f256547a0"
+        },
+        {
+          "index": 41,
+          "path": "qa/custody-041-locksley-baldric.png",
+          "sha256": "ca7b87f1e174be1c45c9610e27b2aa531cb86883f1b8f84bebb2a6c2821975ca"
+        },
+        {
+          "index": 42,
+          "path": "qa/custody-042-locksley-feather.png",
+          "sha256": "2736df5c57be4a846df2188964124249757869aa0510e371b33fd491213527a4"
+        },
+        {
+          "index": 43,
+          "path": "qa/custody-043-outlaw-mask.png",
+          "sha256": "5c6ee506e37b07e978165cd1f4b687ee363f6bf385d4517eb4d9fa087168eda8"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-12.jpg",
+      "sha256": "b551f93ea98196179d89601c42b3263de2428e15b55c9834d849d754181fc2e9",
+      "finding": "Key is left at hut door; Brian holds the defiance. Reply first has no named holder, then reaches Locksley.",
+      "observations": [
+        {
+          "index": 44,
+          "path": "qa/custody-044-hut-key.png",
+          "sha256": "c237ab6598605dc900bf5677b681fa7e3c5c098ca5bfc5f13c49e98488b010b1"
+        },
+        {
+          "index": 45,
+          "path": "qa/custody-045-defiance.png",
+          "sha256": "7193c1e9cffe04823ba5310e401bc0342bfed01231b295355128710d716a0e9f"
+        },
+        {
+          "index": 46,
+          "path": "qa/custody-046-reply.png",
+          "sha256": "618ef0a84867d2ea53dd3b16caec1914069dd046c7befdc454cac682994ce86f"
+        },
+        {
+          "index": 47,
+          "path": "qa/custody-047-reply.png",
+          "sha256": "b67000ee1abee68f61cd3971392533715c5f94a1a7c84cc46d73eb31fb97f8e6"
+        }
+      ]
+    }
+  ]
+}

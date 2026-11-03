@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-02",
+  "scope": "Twelve selected object originals, compressed images and actual application thumbnails/lightboxes individually opened. Reply background corrected; rejected original retained. This is scoped visual evidence, not full custody or release approval.",
+  "checks": [
+    {
+      "id": "defiance",
+      "compressedSha256": "e1cb1c4e3ba2cf390999d81b6ad92848ad387d365f94a07faeaa8c4deb7e1c55",
+      "fixtureSha256": "2d7e69ff9ad36404f932c3b65749e777125dd3c9609c259cdd02bc700f3cefb8",
+      "eventId": "ivanhoe-source-28-p18",
+      "captureReport": "qa/item-art-defiance,reply,malvoisin-scroll,hebrew-appeal.json",
+      "thumbnail": "qa/item-defiance.png",
+      "enlarged": "qa/item-defiance-lightbox.png"
+    },
+    {
+      "id": "reply",
+      "compressedSha256": "497b2c30e016d0638045c75020740205c8d46b175d57cb4f85075307147843c3",
+      "fixtureSha256": "2d7e69ff9ad36404f932c3b65749e777125dd3c9609c259cdd02bc700f3cefb8",
+      "eventId": "ivanhoe-source-28-p42",
+      "captureReport": "qa/item-art-defiance,reply,malvoisin-scroll,hebrew-appeal.json",
+      "thumbnail": "qa/item-reply.png",
+      "enlarged": "qa/item-reply-lightbox.png"
+    },
+    {
+      "id": "malvoisin-scroll",
+      "compressedSha256": "73e54b35dafbc53cd7c1d023bf4b67a62014d3b7b37568d884d754dc78cdf83c",
+      "fixtureSha256": "2d7e69ff9ad36404f932c3b65749e777125dd3c9609c259cdd02bc700f3cefb8",
+      "eventId": "ivanhoe-source-30-p44",
+      "captureReport": "qa/item-art-defiance,reply,malvoisin-scroll,hebrew-appeal.json",
+      "thumbnail": "qa/item-malvoisin-scroll.png",
+      "enlarged": "qa/item-malvoisin-scroll-lightbox.png"
+    },
+    {
+      "id": "hebrew-appeal",
+      "compressedSha256": "9a63fdf3bf5a40925d2ad75b19944d50df2421de810e08925f4e507907a1aa56",
+      "fixtureSha256": "2d7e69ff9ad36404f932c3b65749e777125dd3c9609c259cdd02bc700f3cefb8",
+      "eventId": "ivanhoe-source-41-p34",
+      "captureReport": "qa/item-art-defiance,reply,malvoisin-scroll,hebrew-appeal.json",
+      "thumbnail": "qa/item-hebrew-appeal.png",
+      "enlarged": "qa/item-hebrew-appeal-lightbox.png"
+    },
+    {
+      "id": "blackknight-tourney-sword",
+      "compressedSha256": "ccb5764d1e93518dcb7371d50cd02a45b24b10c81e446526c10907b00d3ce59f",
+      "fixtureSha256": "570ebb1883df81d66f07464976c99232c574b00db2b876534dda84eeb145a0d5",
+      "eventId": "ivanhoe-source-15-p35-c721",
+      "captureReport": "qa/item-art-blackknight-tourney-sword,wamba-falchion,debracy-sword,wamba-targe.json",
+      "thumbnail": "qa/item-blackknight-tourney-sword.png",
+      "enlarged": "qa/item-blackknight-tourney-sword-lightbox.png"
+    },
+    {
+      "id": "wamba-falchion",
+      "compressedSha256": "7d80705708788272cb13dc7d1a7230d289cde76fd81e2aa821768e09e03e62bf",
+      "fixtureSha256": "570ebb1883df81d66f07464976c99232c574b00db2b876534dda84eeb145a0d5",
+      "eventId": "ivanhoe-source-22-p20",
+      "captureReport": "qa/item-art-blackknight-tourney-sword,wamba-falchion,debracy-sword,wamba-targe.json",
+      "thumbnail": "qa/item-wamba-falchion.png",
+      "enlarged": "qa/item-wamba-falchion-lightbox.png"
+    },
+    {
+      "id": "debracy-sword",
+      "compressedSha256": "713fe11ee62c55a425c767c3b62ec6f39018dc4deed989ee2dc8ee4c1a1fe76f",
+      "fixtureSha256": "570ebb1883df81d66f07464976c99232c574b00db2b876534dda84eeb145a0d5",
+      "eventId": "ivanhoe-source-34-p52",
+      "captureReport": "qa/item-art-blackknight-tourney-sword,wamba-falchion,debracy-sword,wamba-targe.json",
+      "thumbnail": "qa/item-debracy-sword.png",
+      "enlarged": "qa/item-debracy-sword-lightbox.png"
+    },
+    {
+      "id": "wamba-targe",
+      "compressedSha256": "c53a2e1dc7d1a0d8bb4128c6fd988d8a52cacbd186254d1af5ac99d1ebbaa3db",
+      "fixtureSha256": "570ebb1883df81d66f07464976c99232c574b00db2b876534dda84eeb145a0d5",
+      "eventId": "ivanhoe-source-43-p32",
+      "captureReport": "qa/item-art-blackknight-tourney-sword,wamba-falchion,debracy-sword,wamba-targe.json",
+      "thumbnail": "qa/item-wamba-targe.png",
+      "enlarged": "qa/item-wamba-targe-lightbox.png"
+    },
+    {
+      "id": "locksley-horn",
+      "compressedSha256": "baf8fba848a30fa969e3d605d2abeb103de84a3900e0283dbd5f86ecdda76054",
+      "fixtureSha256": "8ec9eb6c476ef07a21a063b4084ca87eb0422cb6a5df1f706a505d1a6aba613b",
+      "eventId": "ivanhoe-source-16-p69",
+      "captureReport": "qa/item-art-locksley-horn,locksley-baldric,outlaw-mask,aymer-collar.json",
+      "thumbnail": "qa/item-locksley-horn.png",
+      "enlarged": "qa/item-locksley-horn-lightbox.png"
+    },
+    {
+      "id": "locksley-baldric",
+      "compressedSha256": "a11afb7da9ef970198797ea45fbac1159fa695f22b2cd8965feb1e71cc1f83e4",
+      "fixtureSha256": "8ec9eb6c476ef07a21a063b4084ca87eb0422cb6a5df1f706a505d1a6aba613b",
+      "eventId": "ivanhoe-source-22-p34",
+      "captureReport": "qa/item-art-locksley-horn,locksley-baldric,outlaw-mask,aymer-collar.json",
+      "thumbnail": "qa/item-locksley-baldric.png",
+      "enlarged": "qa/item-locksley-baldric-lightbox.png"
+    },
+    {
+      "id": "outlaw-mask",
+      "compressedSha256": "821e254bbce30441677f8358f7815f8c8727a133b1a7eeccfefe763d5103cc90",
+      "fixtureSha256": "8ec9eb6c476ef07a21a063b4084ca87eb0422cb6a5df1f706a505d1a6aba613b",
+      "eventId": "ivanhoe-source-22-p34",
+      "captureReport": "qa/item-art-locksley-horn,locksley-baldric,outlaw-mask,aymer-collar.json",
+      "thumbnail": "qa/item-outlaw-mask.png",
+      "enlarged": "qa/item-outlaw-mask-lightbox.png"
+    },
+    {
+      "id": "aymer-collar",
+      "compressedSha256": "8431b5c1f99d61000f8f1523697ed8031f2c1231c9f76497511fc216155e1b28",
+      "fixtureSha256": "8ec9eb6c476ef07a21a063b4084ca87eb0422cb6a5df1f706a505d1a6aba613b",
+      "eventId": "ivanhoe-source-5-p40",
+      "captureReport": "qa/item-art-locksley-horn,locksley-baldric,outlaw-mask,aymer-collar.json",
+      "thumbnail": "qa/item-aymer-collar.png",
+      "enlarged": "qa/item-aymer-collar-lightbox.png"
+    }
+  ],
+  "releaseApproved": false
+}

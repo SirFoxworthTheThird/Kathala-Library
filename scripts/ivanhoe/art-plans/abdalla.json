@@ -1,0 +1,16 @@
+{
+  "id": "abdalla",
+  "source": "II.9–10,51",
+  "prompt": "Create one full-bleed square1:1 original historical character portrait for Walter Scott's Ivanhoe: ABDALLA, the other of the two eastern armed attendants in Brian's travelling retinue, first named in chapterII paragraph51. Source clothing in paragraphs9–10: a WHITE WRAPPED TURBAN, embroidered silk dress, a SILVER COLLAR at the throat and silver bracelets on the exposed forearms; curved sabre and sheathed dagger with gold-inlaid fittings, short javelins at saddle bow. Give him a distinct illustrative appearance: a composed broad-faced man around forty-five, deep warm brown skin, full short curly black beard with a few grey hairs, thoughtful brown eyes. Exact age, face, hair and the EARTH-RED silk tunic with restrained warm ochre embroidery are illustrative choices. Plain silver neck ring with no inscription; not a modern fashion chain or a restraint connected to chains. Head-and-chest portrait turned slightly toward viewer left, face central with generous circular crop room; one bare forearm and silver wrist band visible as he loosely holds his horse's reins. No identifiable second person. Subtle horse shoulder and plain leather tack at bottom edge. Soft focus English woodland at dusk, a differently composed stretch of the road, no desert fantasy. Mature dignified painterly oil-and-watercolour literary bookplate. Do not make a racial or religious caricature; no supernatural or villain-coded features. No Templar cross, knightly white mantle, modern headdress, crescent banner, fetters, blood, dungeon, torture tools, future scene, names, text, logo, watermark or frame.",
+  "original": "scripts/ivanhoe/art-originals/abdalla-v2.png",
+  "generator": "built-in image_gen",
+  "appReviewed": false,
+  "originalReview": "Opened edited original: distinct mature attendant with greying beard, white turban, earth-red embroidered silk, plain silver collar and bracelet, sheathed weapons/javelins and horse. Removed unsourced distant castle; only wooded evening horizon remains. Exact face, age, hair, colour, metalwork and tack are illustrative choices, not later action assignments or a claimed religious affiliation.",
+  "editPrompt": "Edit this Abdalla portrait only by removing the distant castle/tower silhouette from the far upper-right horizon. Replace it seamlessly with a low wooded English ridge and evening sky, with no building, tower, fortification or named landmark. Keep the exact man, composed face and beard, white turban, earth-red embroidered silk, plain silver neck ring and wrist band, reins, horse, sheathed weapons, javelins, composition and painterly texture unchanged. No new heraldry, lettering or objects.",
+  "retainedCandidates": [
+    {
+      "path": "scripts/ivanhoe/art-originals/abdalla-v1.png",
+      "review": "Opened initial original: retained for removal of an unsourced distant castle/tower on the English road."
+    }
+  ]
+}
