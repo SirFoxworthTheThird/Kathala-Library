@@ -1,0 +1,178 @@
+{
+  "status": "PASSED SOURCE MODEL REFERENCES AND RECORDED RELEASE APPROVAL",
+  "locationConditions": 10,
+  "counts": {
+    "narrativeChapters": 44,
+    "proposedScenes": 523,
+    "candidateCharacters": 78,
+    "candidateStates": 1473,
+    "candidateMaps": 30,
+    "candidateLocations": 171,
+    "initialItems": 55,
+    "custodyEntries": 29,
+    "factions": 7,
+    "relationships": 15,
+    "facts": 33,
+    "goals": 14,
+    "revealBoundaries": 28
+  },
+  "assets": {
+    "selectedIllustrations": 304,
+    "selectedMapPlans": 30,
+    "applicationReviewed": 334,
+    "missing": {
+      "portraits": [],
+      "locations": [],
+      "items": [
+        "gurth-horn",
+        "wooden-sword",
+        "palmer-staff"
+      ],
+      "maps": []
+    }
+  },
+  "mapCoordinates": {
+    "placed": 166,
+    "pending": [
+      "sheffield-approach",
+      "northward-forest-road",
+      "west-riding-forest",
+      "isaac-northbound-road",
+      "nathan-house"
+    ],
+    "gateways": [
+      {
+        "key": "coningsburgh-keep-gateway",
+        "parent": "coningsburgh",
+        "child": "coningsburgh-keep"
+      },
+      {
+        "key": "coningsburgh-guests-gateway",
+        "parent": "coningsburgh-keep",
+        "child": "coningsburgh-guests"
+      },
+      {
+        "key": "templestowe-interior-gateway",
+        "parent": "templestowe",
+        "child": "templestowe-hall"
+      },
+      {
+        "key": "templestowe-lists-gateway",
+        "parent": "templestowe",
+        "child": "templestowe-lists"
+      },
+      {
+        "key": "torquilstone-postern-parapet-gateway",
+        "parent": "torquilstone",
+        "child": "torquilstone-postern-defence"
+      },
+      {
+        "key": "torquilstone-room-gateway",
+        "parent": "torquilstone",
+        "child": "torquilstone-interior"
+      },
+      {
+        "key": "torquilstone-dungeon-gateway",
+        "parent": "torquilstone-interior",
+        "child": "torquilstone-dungeon"
+      },
+      {
+        "key": "torquilstone-turret-gateway",
+        "parent": "torquilstone-interior",
+        "child": "torquilstone-turret"
+      },
+      {
+        "key": "ashby-host-house-sickroom-gateway",
+        "parent": "ashby-house",
+        "child": "ashby-house-sickroom"
+      },
+      {
+        "key": "copmanhurst-hut-gateway",
+        "parent": "copmanhurst",
+        "child": "copmanhurst-hut"
+      },
+      {
+        "key": "ashby-lists-gateway",
+        "parent": "ashby",
+        "child": "ashby-lists"
+      },
+      {
+        "key": "ashby-house-gateway",
+        "parent": "ashby",
+        "child": "ashby-house"
+      },
+      {
+        "key": "ashby-castle-gateway",
+        "parent": "ashby",
+        "child": "ashby-castle"
+      },
+      {
+        "key": "ashby-woods-gateway",
+        "parent": "ashby",
+        "child": "ashby-woods"
+      },
+      {
+        "key": "rotherwood-rowena-gateway",
+        "parent": "rotherwood",
+        "child": "rotherwood-rowena"
+      },
+      {
+        "key": "region-ashby-gateway",
+        "parent": "england",
+        "child": "ashby"
+      },
+      {
+        "key": "region-coningsburgh-gateway",
+        "parent": "england",
+        "child": "coningsburgh"
+      },
+      {
+        "key": "region-york-gateway",
+        "parent": "england",
+        "child": "york"
+      },
+      {
+        "key": "region-don-woods-gateway",
+        "parent": "england",
+        "child": "don-woods"
+      },
+      {
+        "key": "region-rotherwood-gateway",
+        "parent": "england",
+        "child": "rotherwood"
+      },
+      {
+        "key": "region-copmanhurst-gateway",
+        "parent": "england",
+        "child": "copmanhurst"
+      },
+      {
+        "key": "region-torquilstone-gateway",
+        "parent": "england",
+        "child": "torquilstone"
+      },
+      {
+        "key": "region-templestowe-gateway",
+        "parent": "england",
+        "child": "templestowe"
+      },
+      {
+        "key": "region-botolph-gateway",
+        "parent": "england",
+        "child": "botolph"
+      },
+      {
+        "key": "rotherwood-hall-gateway",
+        "parent": "rotherwood",
+        "child": "rotherwood-hall"
+      },
+      {
+        "key": "rotherwood-guests-gateway",
+        "parent": "rotherwood",
+        "child": "rotherwood-guests"
+      }
+    ],
+    "scope": "166 reviewed coordinates; five deliberately source-unlocated sites; all30 illustrated layers and26 gateways reviewed."
+  },
+  "openGates": []
+}

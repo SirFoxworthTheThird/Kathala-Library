@@ -1,0 +1,19 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "balder"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-balder",
+      "name": "Balder",
+      "eventId": "ivanhoe-source-6-p0",
+      "cursorLabel": "Ch.6 · CHAPTER III — Cedric’s hall (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-balder.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

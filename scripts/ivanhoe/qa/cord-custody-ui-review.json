@@ -1,0 +1,27 @@
+{
+  "scope": "Source-established cord possession at portal and before/after/rewind exchange only",
+  "fixtureSha256": "580112492be2ab04f914525ba1df3380c4458c740bee72b641bab2bd1b1b2090",
+  "observations": [
+    {
+      "phase": "portal",
+      "holder": "Wamba",
+      "screenshot": "qa/cord-custody-portal.png"
+    },
+    {
+      "phase": "before",
+      "holder": "Wamba",
+      "screenshot": "qa/cord-custody-before.png"
+    },
+    {
+      "phase": "exchanged",
+      "holder": "Cedric",
+      "screenshot": "qa/cord-custody-exchanged.png"
+    },
+    {
+      "phase": "rewound",
+      "holder": "Wamba",
+      "screenshot": "qa/cord-custody-rewound.png"
+    }
+  ],
+  "pageErrors": []
+}

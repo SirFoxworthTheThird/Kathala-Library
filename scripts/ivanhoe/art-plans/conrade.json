@@ -1,0 +1,16 @@
+{
+  "id": "conrade",
+  "source": "XXXV.19–20",
+  "prompt": "Create one full-bleed square1:1 original character portrait for Walter Scott's Ivanhoe: CONRADE OF MONT-FITCHET, a Templar preceptor accompanying the Grand Master in the Preceptory garden, first appearance chapterXXXV paragraphs19–20. A mature soldierly man about fifty, square face, neatly kept chestnut beard streaked with grey, watchful dark eyes, restrained deferential expression, upright but slightly inclined toward an unseen superior outside frame. His precise age, face, hair/eye colour are illustrative choices: source specifies preceptor rank, nearly the Grand Master's dress and pronounced deference, not those features. Plain tightly fitted coarse WHITE WOOL mantle with a small RED EIGHT-POINTED cloth cross on HIS LEFT shoulder (viewer right), plain wool doublet visible beneath, no gold or ermine. Head-and-shoulders three-quarter composition, face central with generous room for circular-avatar crop. One hand loosely gathering the mantle, no weapon and no staff of Grand Master's office. Distinct from the elderly grey-bearded Grand Master: a dark-bearded younger subordinate with square face and reserved demeanour. Background a soft green herb path beside a fortified monastery wall in calm daylight, no trial, prisoner or second person. Mature painterly historical oil-and-watercolour bookplate, natural cloth and skin, restrained white, red and herb-green palette. No crown, mitre, crozier, ornate armour, magic, future trial outcome, later membership reveal, lettering, name, text, logo or watermark.",
+  "original": "scripts/ivanhoe/art-originals/conrade-v2.png",
+  "generator": "built-in image_gen",
+  "appReviewed": false,
+  "originalReview": "Opened edited original: square-faced dark/grey-bearded preceptor in plain white wool, source octangular red cloth cross on his left shoulder with eight forked points. No Grand Master office staff or future trial scene. Exact age, face, hair, garden plants and masonry are illustrative choices; eight-pointed device follows Scott rather than asserting a historically universal Templar uniform.",
+  "editPrompt": "Edit this Conrade portrait only by changing the red shoulder cross to a clear red EIGHT-POINTED CLOTH CROSS, with FOUR arms, each arm ending in a visibly deep V-shaped notch creating TWO pointed tips, EIGHT tips total. A simple flat red Maltese-style cloth patch, faithfully following Scott's octangular-cross description. Keep it on the man's LEFT shoulder at viewer RIGHT. Do not replace it with the four single-ended broad arms of a cross pattee. Preserve his exact face, beard, white wool, mantle tie, hand, garden background, composition and painterly texture. No new jewellery, staff, text or other symbols.",
+  "retainedCandidates": [
+    {
+      "path": "scripts/ivanhoe/art-originals/conrade-v1.png",
+      "review": "Opened original: retained for correction of cross shape to match the source’s octangular device."
+    }
+  ]
+}

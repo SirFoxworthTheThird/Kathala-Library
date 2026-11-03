@@ -1,0 +1,75 @@
+{
+  "scope": "Selected map plans and incomplete source/review fixtures only; not release approval",
+  "checks": [
+    {
+      "path": "scripts/ivanhoe/manuscript-draft.pwk",
+      "sha256": "7d843991cf850186f5c9e029112cc4db60d7d1c38145df9024192816aeaedc8b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/authoring-review.pwk",
+      "sha256": "b6d6c530abaf0be7d82f537f178f86608c3b8e249eb436f7cf3b4113024b54ab",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe.svg",
+      "sha256": "bf14c75ba9180941562296438aedb475219b13dd95b7bf6d2c5d4c5346df5497",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe.png",
+      "sha256": "beb4aa0f14913a5b4e33f75dbc63ffef0a0fe3910916496b3354093d9fdb2a79",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/templestowe.webp",
+      "sha256": "3cf46dd3d1e6d4a45931fd28203720ecb02461e97189394c0555984d6f776928",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-hall.svg",
+      "sha256": "58f88698743a3449847af5e18c499a8fbb393fc2dea4a3a45011cfb7bc3da75d",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-hall.png",
+      "sha256": "b2ce4e3d54b4d3af05b7efbdfc3657926163f84d0e38b37e379926e4b5107daf",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/templestowe-hall.webp",
+      "sha256": "8e57bf8f9eefee2bb7761cc3ca8ed9cc0cc1ff095e1861c392db05daa5526dd3",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-rooms.svg",
+      "sha256": "c54a3a0cd92f76bd6c8ee0c81f1234e132cded5f9e43b11527c9d7656d230d50",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-rooms.png",
+      "sha256": "be0cc303b7b2d40084a320e3b32b57c507f11a87cc957c9335ffb06f56acf6d4",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/templestowe-rooms.webp",
+      "sha256": "3804d6872aa367b1e342023a5532e275d8edc8cebfdeb4ebe8028d461a723a68",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-lists.svg",
+      "sha256": "748b512aed687004695d4a9e11e27819cac78d5de0be955b9690b5284a4065b9",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-lists.png",
+      "sha256": "22cd20288ee4c60f4c95be33f32b203768f30904bb691213712d9d207c49fd7f",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/templestowe-lists.webp",
+      "sha256": "7285d2a0207db8c7ba788321338006606ad07e79a98a1004f842cdba9cc35801",
+      "byteIdentical": true
+    }
+  ]
+}

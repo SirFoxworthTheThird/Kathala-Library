@@ -1,0 +1,16 @@
+{
+  "id": "oswald",
+  "original": "scripts/ivanhoe/art-originals/oswald-v2.png",
+  "source": "III.12–17",
+  "prompt": "Create one square1:1 original historical character portrait for Walter Scott's Ivanhoe: Oswald the CUPBEARER of Cedric's household at his first appearance, chapterIII paragraphs12–17. An attentive modest household servant, about forty, clean-shaven long narrow face, straight dark brown hair to his ears, thoughtful grey eyes, restrained slightly apprehensive expression while offering a SILVER GOBLET filled with dark red wine. Face, age, hair and eye colour are illustrative choices, not asserted source detail. Plain neat russet wool tunic over undyed linen with narrow practical blue woven trim at neck, simple leather belt; useful indoor service clothes, neither royal finery nor ragged field-work clothes. Waist-up composition, head centrally placed with generous circular-avatar crop room, goblet near the lower centre, show both careful hands naturally supporting the single silver cup. Softly blurred long low timber hall, hint of raised dais and warm fire light, no second identifiable person. He is the cupbearer, NOT the major-domo: no white wand, no staff, no armour, no lordly jewellery or fur cloak. Mature expressive painterly oil-and-watercolour bookplate, restrained russet and pewter palette, credible twelfth-century domestic texture. No drinking pose, comic intoxication, fantasy goblet, insignia, crown, lettering, written names, logo, watermark or later narrative event.",
+  "generator": "built-in image_gen",
+  "appReviewed": false,
+  "editPrompt": "Edit this Oswald portrait by removing the white circular border and all white corners. Seamlessly extend the timber hall background to fill the entire square edge-to-edge. Keep the exact man, face, expression, russet and blue wool clothes, both hands and single silver goblet unchanged. Preserve the full head, hands and cup, composition and painterly texture. No circular vignette, white frame, text or new objects. This must be a full-bleed square illustration.",
+  "retainedCandidates": [
+    {
+      "path": "scripts/ivanhoe/art-originals/oswald-v1.png",
+      "review": "Opened original: source-grounded cupbearer with silver wine goblet, but unrequested white circular framing would conflict with full-bleed assets. Retained and edited, not selected."
+    }
+  ],
+  "originalReview": "Opened selected edited original: modest attentive clean-shaven cupbearer, single silver goblet of red wine, russet wool/linen and blue neck trim, timber hall background extended without white framing. Face, age, hair/eyes, clothing colours, cup shape and hall details are illustrative choices; his office and silver goblet are source-grounded. No wand, noble jewellery or later event."
+}

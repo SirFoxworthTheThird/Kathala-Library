@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "torquilstone-approach",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "b9d628519e0196b49a879cbcc3cfccefc348d6be64206bf82a2710c9de3e7529",
+      "compressedSha256": "0f034c9bfe1b4cf2b67a6b7b75a5fd840f9d985e034e421478f3e7a1a5a0d368",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Wooded approach to square keep and main drawbridge over moat; no fire or future ruin. Banner and full view readable.",
+      "screenshots": [
+        "qa/place-torquilstone-approach.png",
+        "qa/place-torquilstone-approach-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-reception-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "3fe458d2d18568ccfdd0e16625d60a8cf44b8789f1f7b76e69fa06772e6d86e0",
+      "compressedSha256": "9cefbcefe0493af1fa98a99aa20380d6543e83217ee5b15b318ed08131918215",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty pillared reception space, no captives; full image clear.",
+      "screenshots": [
+        "qa/place-torquilstone-reception-room.png",
+        "qa/place-torquilstone-reception-room-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-old-hall",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "5309d4d3374e0db988de34ac7c760fbebab2a25a67840fa8bed368931a48451d",
+      "compressedSha256": "fd76663a36227a99b12026460be4251fbbad43bc58ddd510c74aecdb0896ad0a",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Heavy Saxon pillars and paired round windows onto inner court; empty full image readable.",
+      "screenshots": [
+        "qa/place-torquilstone-old-hall.png",
+        "qa/place-torquilstone-old-hall-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-new-hall",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "bea8bb6c4f604147efc247a31c863980e28098a8a6020c5d2ea6ae1e942cd17b",
+      "compressedSha256": "58204c00729f886923cd8142da5a88b658c36eed6e1a683eec8ecb5b2b46761b",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Distinct newer vaulted hall with slender supports, empty benches; no siege outcome shown.",
+      "screenshots": [
+        "qa/place-torquilstone-new-hall.png",
+        "qa/place-torquilstone-new-hall-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-dungeon",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "9c1d4c6f8d1f4831cebeb3af46c511a5eaf2acc810a6df7f3a0f964f8ff6478d",
+      "compressedSha256": "6702cc0386f270605bd1ac8c9b45f03b252ed4c8771045d46017519947cc17ac",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty damp vault with hearth and iron bars, no victim or torture action; full detail readable.",
+      "screenshots": [
+        "qa/place-torquilstone-dungeon.png",
+        "qa/place-torquilstone-dungeon-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-rowena-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "1f7e2d043211bebad57235b2e859838dc872af05d35532d244da63cf34f614f7",
+      "compressedSha256": "70750f24f4c5ba594364a21c32c838ba31a2de0aa895b45d3caf4c08855924ab",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Faded hangings and bedchamber furnishings, no future romance or captor shown; banner and full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-rowena-room.png",
+        "qa/place-torquilstone-rowena-room-lightbox.png"
+      ]
+    }
+  ]
+}

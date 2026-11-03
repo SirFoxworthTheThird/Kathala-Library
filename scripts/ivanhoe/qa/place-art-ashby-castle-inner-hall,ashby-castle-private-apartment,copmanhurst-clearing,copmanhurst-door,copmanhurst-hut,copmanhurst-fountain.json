@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "ashby-castle-inner-hall",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-castle-private-apartment",
+      "mapLayerId": "ivanhoe-map-ashby-castle",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "copmanhurst-clearing",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "copmanhurst-door",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "copmanhurst-hut",
+      "mapLayerId": "ivanhoe-map-copmanhurst-hut",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "copmanhurst-fountain",
+      "mapLayerId": "ivanhoe-map-copmanhurst",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

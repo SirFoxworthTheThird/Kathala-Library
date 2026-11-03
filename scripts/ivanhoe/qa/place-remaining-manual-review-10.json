@@ -1,0 +1,78 @@
+{
+  "scope": "Six banner/lightbox pairs individually inspected at end cursor; earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "ashby-alicia-gallery",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "a0d9c5712295781ef7e473ce8daa2e1bf96576c964a0a9fe8212e997ee0bc7f7",
+      "compressedSha256": "14c45491b152f12ffb6d20692327fbbe6623b198036f530774eca92cb66cbd05",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Empty ladies gallery frontage, no tiny figure; banner and full image clear.",
+      "screenshots": [
+        "qa/place-ashby-alicia-gallery.png",
+        "qa/place-ashby-alicia-gallery-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-victor-pavilion",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "5984430bee42b268618ece31ce899a04e101279bf5fc8a51d0dc5d1ec0806f78",
+      "compressedSha256": "4ff398488b47bd902807dc0cbe30b843af9577cac26e7d845610efcb0f3746d1",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Quiet furnished private pavilion, no anonymous knight face or hidden identity; full view clear.",
+      "screenshots": [
+        "qa/place-ashby-victor-pavilion.png",
+        "qa/place-ashby-victor-pavilion-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-victor-pavilion-entrance",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "4a957aba77ab4753b3b76040ca603db29ad725b664b3c2ee1c1e2b60b8dd3a36",
+      "compressedSha256": "73fbacf97179a02015ead0fe7f466785d6da07f8670e3df39dcb66ef2d992827",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Open tent frontage without squires or future offers; banner clear, full decoded view unsigned.",
+      "screenshots": [
+        "qa/place-ashby-victor-pavilion-entrance.png",
+        "qa/place-ashby-victor-pavilion-entrance-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-queen-gallery",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "402556eb5834619178a75f4dd733c1f6634f3d2356b37e63bae86f95e8b1e5e9",
+      "compressedSha256": "6a4a8e1de82bfe14ab80931c8b1d690625708d0228a9ef1e7da19b459b1ba8d3",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Empty western throne with source green and pink, bows and hearts; full detail preserved.",
+      "screenshots": [
+        "qa/place-ashby-queen-gallery.png",
+        "qa/place-ashby-queen-gallery-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-queen-gallery-steps",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "d4a99647d59cb49689c54cf23ba08e8c3ed79da2582b3a472dcef7c8e72ccfaf",
+      "compressedSha256": "bae10d25184e65c9080995282bf2459b506113d42768e25957a43a1f02fda51a",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Green-pink timber steps with bows and hearts, empty; full view readable.",
+      "screenshots": [
+        "qa/place-ashby-queen-gallery-steps.png",
+        "qa/place-ashby-queen-gallery-steps-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-archery-ground",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "4a4e14b2c200c6a2eb045e4da3a5cb2319fa3e617a0f9f25be65049d4821faf3",
+      "compressedSha256": "6496760d3825eac1878f84c21182c2d7b24bcf7beff478e1e531cc2a32b3aa0a",
+      "compressedReview": "Individually opened full decoded app image, served bytes checked by helper; no objectionable compression artifacts observed.",
+      "applicationReview": "Empty archery gathering ground, no tiny figure, modern target or champion; banner and full view clear.",
+      "screenshots": [
+        "qa/place-ashby-archery-ground.png",
+        "qa/place-ashby-archery-ground-lightbox.png"
+      ]
+    }
+  ]
+}

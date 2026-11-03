@@ -1,0 +1,142 @@
+{
+  "scope": "Manual post-fix actual item-history review, observations72-91; all92 are covered by records01-04",
+  "fixtureSha256": "955618ed2eb61140f30129ee7f9767eab240f3183ca84f3fe66e3b9a8de6a174",
+  "reviewed": 20,
+  "sheets": [
+    {
+      "sheet": "custody-review-sheet-19.jpg",
+      "sha256": "85e5c62899a5d164040a7f9b9f8c0237397775fd1b64cfdf382c637db8d68e9c",
+      "finding": "Rebecca glove is placed before tribunal, taken by the Master and retained by Albert; Higg takes the distinct Hebrew appeal.",
+      "observations": [
+        {
+          "index": 72,
+          "path": "qa/custody-072-rebecca-glove.png",
+          "sha256": "f9e8b12dad914d9335f61f4e6fa7390863ba580c48015f900852c604793c8ea9"
+        },
+        {
+          "index": 73,
+          "path": "qa/custody-073-rebecca-glove.png",
+          "sha256": "552f062e963db28d2b0870ea1a5b6460c5f0b1fea7aa84b52778a4b9cb60932d"
+        },
+        {
+          "index": 74,
+          "path": "qa/custody-074-rebecca-glove.png",
+          "sha256": "95bff803fe8b7d9339b97a7b480fef9f998ec416686bb884db7ddcf5c261d876"
+        },
+        {
+          "index": 75,
+          "path": "qa/custody-075-hebrew-appeal.png",
+          "sha256": "4cf340aa7a3783c8affedd49cdca71102f901b5c82c717238c3ca70f784dfefc"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-20.jpg",
+      "sha256": "51b7995031f851eb3c9139c7d83892688f4b40bfc9fcd2aabb0e17cb890a8c65",
+      "finding": "Appeal history ends in an explicit gap after Isaac collapse. Malkin and target appear only when source establishes them; wooden sword replacement has no invented disposal destination.",
+      "observations": [
+        {
+          "index": 76,
+          "path": "qa/custody-076-hebrew-appeal.png",
+          "sha256": "6db242ef072121c8220addca99b3966959b455c64010a127f0b873b27dd83001"
+        },
+        {
+          "index": 77,
+          "path": "qa/custody-077-malkin.png",
+          "sha256": "40a3ae5989b0f117f65c4b0f35760e04ffadca7266cec7f4d8f58f508fef0256"
+        },
+        {
+          "index": 78,
+          "path": "qa/custody-078-wamba-targe.png",
+          "sha256": "46d2c6f1a4b35132d1dc3a5eba5ba03ec2d8c8361f29bb9f5d34a867de305ca9"
+        },
+        {
+          "index": 79,
+          "path": "qa/custody-079-wooden-sword.png",
+          "sha256": "2b5697191e43e206d951e844c282dcd88a115d0cbc745d4ca693c8e76d44cf71"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-21.jpg",
+      "sha256": "9f58aa9410eab7153ede5a6b3e10f8d468873105010c26a6aaecc994547cbca5",
+      "finding": "Horn and belt actually return to Wamba on the road; charger becomes mortally wounded at the ambush, while Gurth rides the separate war-horse.",
+      "observations": [
+        {
+          "index": 80,
+          "path": "qa/custody-080-locksley-horn.png",
+          "sha256": "f128441c2550aff00fed59a28b3ba02e04d5aae9dfb63e7af5574549b2f0cce9"
+        },
+        {
+          "index": 81,
+          "path": "qa/custody-081-locksley-baldric.png",
+          "sha256": "302f624e73a2a34cb92b0a1508180c75c95f91e9f9aaa202ff90e10d9c7b1ed6"
+        },
+        {
+          "index": 82,
+          "path": "qa/custody-082-blackknight-charger.png",
+          "sha256": "ace434e798ba7d3cdcde5fd34e98611b97a84d21f7f208e705b0caff84e84b4f"
+        },
+        {
+          "index": 83,
+          "path": "qa/custody-083-ivanhoe-warhorse.png",
+          "sha256": "beadbabd39606979de0ff793ceda25c8b69542a89657ddcac3286f5ad3d37055"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-22.jpg",
+      "sha256": "33f7a5432357f3e629bd9911beb79515485dd3b74845f05857a4c18b1fdc7d04",
+      "finding": "Reported fetter-key creates no guest-room acquisition. Zamor belongs to Brian, and the glove moves from the tribunal to the lists when thrown.",
+      "observations": [
+        {
+          "index": 84,
+          "path": "qa/custody-084-fetter-key.png",
+          "sha256": "118e42bc44c3f31d665737eeba31f7e8794f1316c3cceda9f579bed2bcfb7467"
+        },
+        {
+          "index": 85,
+          "path": "qa/custody-085-zamor.png",
+          "sha256": "3684b20c99138caeefd36cf830f9df3af0a25f3c56a357ca9bb70032010d8783"
+        },
+        {
+          "index": 86,
+          "path": "qa/custody-086-rebecca-glove.png",
+          "sha256": "2ef468607333c8bb85219f870768a7ea030d6a4cf2ad7d945623a0f9cb6914c1"
+        },
+        {
+          "index": 87,
+          "path": "qa/custody-087-rebecca-glove.png",
+          "sha256": "65b6c841f73bd7ba456d655f4fb37876532d18ac49cf07728c2ba223a763ecb1"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-23.jpg",
+      "sha256": "e3ef819ac2e21f19e1b08009effc2e11162ebbf872b38ba9fe71860810d1cc93",
+      "finding": "Casket is offered with Rebecca before Rowena opens it; necklace and earrings first appear only in the opened-casket scene.",
+      "observations": [
+        {
+          "index": 88,
+          "path": "qa/custody-088-silver-casket.png",
+          "sha256": "63b291feeef906ad543cc1fb2ebbe40c6191f8303e1fb01e42c1170303e738fa"
+        },
+        {
+          "index": 89,
+          "path": "qa/custody-089-silver-casket.png",
+          "sha256": "e848c1a8b81b5447ba2c5f503e5f2f2d5794b5fee591f72d8ed834406a2f749c"
+        },
+        {
+          "index": 90,
+          "path": "qa/custody-090-diamond-necklace.png",
+          "sha256": "982a4f6b61c2154aa6d9b6dc05b0fd570b1dff6b5edbf7eb9466c6389db76949"
+        },
+        {
+          "index": 91,
+          "path": "qa/custody-091-diamond-earrings.png",
+          "sha256": "e5e309d51b96d4164d4d4b68ac7af2cca3142097ca6ac3ff77f330cc1ec91e9d"
+        }
+      ]
+    }
+  ]
+}

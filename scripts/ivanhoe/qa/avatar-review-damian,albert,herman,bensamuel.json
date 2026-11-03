@@ -1,0 +1,56 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "damian",
+    "albert",
+    "herman",
+    "bensamuel"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-damian",
+      "name": "Damian",
+      "eventId": "ivanhoe-source-38-p30",
+      "cursorLabel": "Ch.38 · CHAPTER XXXV — Isaac admitted (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-damian.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-damian.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-albert",
+      "name": "Albert de Malvoisin",
+      "eventId": "ivanhoe-source-39-p6",
+      "cursorLabel": "Ch.39 · CHAPTER XXXVI — The inquiry ordered (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-albert.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-albert.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-herman",
+      "name": "Herman of Goodalricke",
+      "eventId": "ivanhoe-source-40-p18",
+      "cursorLabel": "Ch.40 · CHAPTER XXXVII — The knight questioned (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-herman.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-herman.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-bensamuel",
+      "name": "Rabbi Ben Samuel",
+      "eventId": "ivanhoe-source-41-p38",
+      "cursorLabel": "Ch.41 · CHAPTER XXXVIII — Two riders near the gate (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-bensamuel.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-bensamuel.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

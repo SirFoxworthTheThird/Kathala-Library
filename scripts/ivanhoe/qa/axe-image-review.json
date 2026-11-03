@@ -1,0 +1,16 @@
+{
+  "scope": "Limited source appearance, thumbnail and enlarged image review; custody not compiled",
+  "checks": [
+    {
+      "moment": "Desdichado to the rescue",
+      "axeVisible": false,
+      "scope": "Item appearance and image only; custody not compiled"
+    },
+    {
+      "moment": "The axe turned against its owner",
+      "axeVisible": true,
+      "scope": "Item appearance and image only; custody not compiled"
+    }
+  ],
+  "pageErrors": []
+}

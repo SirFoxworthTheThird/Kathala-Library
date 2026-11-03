@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-02",
+  "scope": "Twelve selected object originals, compressed images and actual application thumbnails/lightboxes individually opened. Jewellery corrected from modern faceting; rejected originals retained. This is scoped visual evidence, not full custody or release approval.",
+  "checks": [
+    {
+      "id": "ulrica-distaff",
+      "compressedSha256": "45ae1f4a5a6ca1582ccf5a97c48b70534b7b6d654a439a3271b104c94540805d",
+      "fixtureSha256": "7a9a2a9f052c28c21c1abcd3e50bfc3ca87e35db27c5448bd837c4ca92a9a2bc",
+      "eventId": "ivanhoe-source-34-p87",
+      "captureReport": "qa/item-art-ulrica-distaff,fetter-key,diamond-necklace,diamond-earrings.json",
+      "thumbnail": "qa/item-ulrica-distaff.png",
+      "enlarged": "qa/item-ulrica-distaff-lightbox.png"
+    },
+    {
+      "id": "fetter-key",
+      "compressedSha256": "1b729ab33ecf57103c9af7df159ba002c9b5495dd7e06552164b40490a34fb3c",
+      "fixtureSha256": "7a9a2a9f052c28c21c1abcd3e50bfc3ca87e35db27c5448bd837c4ca92a9a2bc",
+      "eventId": "ivanhoe-source-45-p51",
+      "captureReport": "qa/item-art-ulrica-distaff,fetter-key,diamond-necklace,diamond-earrings.json",
+      "thumbnail": "qa/item-fetter-key.png",
+      "enlarged": "qa/item-fetter-key-lightbox.png"
+    },
+    {
+      "id": "diamond-necklace",
+      "compressedSha256": "bfa6e516072497579f51ad664fb6b92eb9af55b50d1109c8d989982b46f556e0",
+      "fixtureSha256": "7a9a2a9f052c28c21c1abcd3e50bfc3ca87e35db27c5448bd837c4ca92a9a2bc",
+      "eventId": "ivanhoe-source-47-p71",
+      "captureReport": "qa/item-art-ulrica-distaff,fetter-key,diamond-necklace,diamond-earrings.json",
+      "thumbnail": "qa/item-diamond-necklace.png",
+      "enlarged": "qa/item-diamond-necklace-lightbox.png"
+    },
+    {
+      "id": "diamond-earrings",
+      "compressedSha256": "2fd506c5b300f0eb294ba637e427250d6ae6836f3e052fb075fd14c700d09083",
+      "fixtureSha256": "7a9a2a9f052c28c21c1abcd3e50bfc3ca87e35db27c5448bd837c4ca92a9a2bc",
+      "eventId": "ivanhoe-source-47-p71",
+      "captureReport": "qa/item-art-ulrica-distaff,fetter-key,diamond-necklace,diamond-earrings.json",
+      "thumbnail": "qa/item-diamond-earrings.png",
+      "enlarged": "qa/item-diamond-earrings-lightbox.png"
+    },
+    {
+      "id": "miriam-balsam",
+      "compressedSha256": "d18c7e74f5efd736fa7c0abc9b8968eecd30a27dbf9a4a6550f587ef8b89a44d",
+      "fixtureSha256": "edc20677099165ea57c23beff5bf7c04c15cccbf012ae3b1f375abf82082bd7e",
+      "eventId": "ivanhoe-source-31-p17",
+      "captureReport": "qa/item-art-miriam-balsam,higg-box,rebecca-purse,masters-gold.json",
+      "thumbnail": "qa/item-miriam-balsam.png",
+      "enlarged": "qa/item-miriam-balsam-lightbox.png"
+    },
+    {
+      "id": "higg-box",
+      "compressedSha256": "bf89f73c90ad7041f7791f52a8e1aade772fb2f9fa7a22d8bd49132f5eb1209d",
+      "fixtureSha256": "edc20677099165ea57c23beff5bf7c04c15cccbf012ae3b1f375abf82082bd7e",
+      "eventId": "ivanhoe-source-40-p26",
+      "captureReport": "qa/item-art-miriam-balsam,higg-box,rebecca-purse,masters-gold.json",
+      "thumbnail": "qa/item-higg-box.png",
+      "enlarged": "qa/item-higg-box-lightbox.png"
+    },
+    {
+      "id": "rebecca-purse",
+      "compressedSha256": "025addfeb94da3f5833e74fbfeacb8c00a22b28aac6c79e0a834fbba92332d33",
+      "fixtureSha256": "edc20677099165ea57c23beff5bf7c04c15cccbf012ae3b1f375abf82082bd7e",
+      "eventId": "ivanhoe-source-13-p70",
+      "captureReport": "qa/item-art-miriam-balsam,higg-box,rebecca-purse,masters-gold.json",
+      "thumbnail": "qa/item-rebecca-purse.png",
+      "enlarged": "qa/item-rebecca-purse-lightbox.png"
+    },
+    {
+      "id": "masters-gold",
+      "compressedSha256": "499685d517c25b53367a8c17683758eb188eceb4984fab987539052d94250fc8",
+      "fixtureSha256": "edc20677099165ea57c23beff5bf7c04c15cccbf012ae3b1f375abf82082bd7e",
+      "eventId": "ivanhoe-source-13-p23",
+      "captureReport": "qa/item-art-miriam-balsam,higg-box,rebecca-purse,masters-gold.json",
+      "thumbnail": "qa/item-masters-gold.png",
+      "enlarged": "qa/item-masters-gold-lightbox.png"
+    },
+    {
+      "id": "isaac-credit-order",
+      "compressedSha256": "577a42f9206a552d287fb9d8ddb6dd8f2336fbe6896ecb057eb1f3931d3e1a52",
+      "fixtureSha256": "c46f829ced4b536391d52c0d337b08c2bb91ee8e76f074d7d10dcf9fef68a1eb",
+      "eventId": "ivanhoe-source-9-p86",
+      "captureReport": "qa/item-art-isaac-credit-order,acquittance,john-billet,champion-warning.json",
+      "thumbnail": "qa/item-isaac-credit-order.png",
+      "enlarged": "qa/item-isaac-credit-order-lightbox.png"
+    },
+    {
+      "id": "acquittance",
+      "compressedSha256": "475aa7a4669a826e64078b34644276192cbe3ab4557ba36283769d9050f903e7",
+      "fixtureSha256": "c46f829ced4b536391d52c0d337b08c2bb91ee8e76f074d7d10dcf9fef68a1eb",
+      "eventId": "ivanhoe-source-13-p60",
+      "captureReport": "qa/item-art-isaac-credit-order,acquittance,john-billet,champion-warning.json",
+      "thumbnail": "qa/item-acquittance.png",
+      "enlarged": "qa/item-acquittance-lightbox.png"
+    },
+    {
+      "id": "john-billet",
+      "compressedSha256": "09e88c011d823d1943f7209d70f5d3986631a78ae9cfb1981412025e99c65d93",
+      "fixtureSha256": "c46f829ced4b536391d52c0d337b08c2bb91ee8e76f074d7d10dcf9fef68a1eb",
+      "eventId": "ivanhoe-source-16-p18",
+      "captureReport": "qa/item-art-isaac-credit-order,acquittance,john-billet,champion-warning.json",
+      "thumbnail": "qa/item-john-billet.png",
+      "enlarged": "qa/item-john-billet-lightbox.png"
+    },
+    {
+      "id": "champion-warning",
+      "compressedSha256": "c6b0f7111fa958126ea8f98ec851c4d3cc1f317eb75a740ab8faecb28d75cdfa",
+      "fixtureSha256": "c46f829ced4b536391d52c0d337b08c2bb91ee8e76f074d7d10dcf9fef68a1eb",
+      "eventId": "ivanhoe-source-39-p59",
+      "captureReport": "qa/item-art-isaac-credit-order,acquittance,john-billet,champion-warning.json",
+      "thumbnail": "qa/item-champion-warning.png",
+      "enlarged": "qa/item-champion-warning-lightbox.png"
+    }
+  ],
+  "releaseApproved": false
+}

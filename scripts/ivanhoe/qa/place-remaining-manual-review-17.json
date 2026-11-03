@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "sheffield-approach",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "c5d9ec0e4dd107bb3b169377b316201daedc46b1aa9b26f2151ee77f0a2d6cb0",
+      "compressedSha256": "7bd10ce692874adff69fb23adf28392b482ee54fe9197d42cbd326f839a2714e",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Modest unwalled settlement approached by rough lane, no invented urban fortifications; full image clear, location remains unmapped.",
+      "screenshots": [
+        "qa/place-sheffield-approach.png",
+        "qa/place-sheffield-approach-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-dark-avenue",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "15b206422910690f6e12925c91b88c6dcc8e6c391917ddb7e6231e7c6982befc",
+      "compressedSha256": "f99b8c453575a2d888a8d85f3ad7f70b4713d575d2a0e9968c8166800e52bcb5",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Shadowed wooded lane, no robbers or traveller; dark textures remain readable in full image.",
+      "screenshots": [
+        "qa/place-ashby-dark-avenue.png",
+        "qa/place-ashby-dark-avenue-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-hazel-lane",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e5b65827659b91c996f4c6d2b8c78d3873458cfdccd0e2fe63b2959da45544d6",
+      "compressedSha256": "9fb267533e48fec2214c0673af21b23677381e903143923ade4432afeaf00456",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Hazel-sided narrow lane rather than red holly, no actors; full image clear.",
+      "screenshots": [
+        "qa/place-ashby-hazel-lane.png",
+        "qa/place-ashby-hazel-lane-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-outlaw-clearing",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "06783341dc2481a4c24552a1ac7761f88a68e858b534fe4020889a83c968837a",
+      "compressedSha256": "4f65e56151186d074c2344eb47bad334dd15a52eaf0744a0554daf485ade7d63",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty night clearing, no named outlaws, loot or encounter; banner remains legible and full view clear.",
+      "screenshots": [
+        "qa/place-ashby-outlaw-clearing.png",
+        "qa/place-ashby-outlaw-clearing-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-heath-overlook",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e209c88624b0098e29a4afa29d5cb3a2755cccc98b02cb4718924b444aa4abee",
+      "compressedSha256": "00a2ef603cf55a0de90c519c6b7231f9fefcfe8a01e25799bb362c5bf0c67aea",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Night heath looking down to pavilions and distant Ashby, no actor identity; clear full view.",
+      "screenshots": [
+        "qa/place-ashby-heath-overlook.png",
+        "qa/place-ashby-heath-overlook-lightbox.png"
+      ]
+    },
+    {
+      "key": "northward-forest-road",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "f4d81f000d642cb005d998a0d68d4c072f3f8b8307313550e09448d43a0ec0f5",
+      "compressedSha256": "511e88a9f4456d63cd24417d697f47629b2c44142fb67fccc296138a05e0f66b",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Unnamed hostelry on northward route, unsigned corrected image; no invented location coordinates, clear full view.",
+      "screenshots": [
+        "qa/place-northward-forest-road.png",
+        "qa/place-northward-forest-road-lightbox.png"
+      ]
+    }
+  ]
+}

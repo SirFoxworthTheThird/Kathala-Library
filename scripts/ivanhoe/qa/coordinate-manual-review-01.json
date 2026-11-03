@@ -1,0 +1,775 @@
+{
+  "scope": "32 individual actual app coordinate screenshots opened after viewport correction; end-of-reading geometry only, not early-disclosure or gateway traversal approval",
+  "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+  "appCommit": "02dcd633",
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-region-rotherwood-gateway",
+      "name": "Rotherwood",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 478,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-rotherwood-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 925.979865771812,
+          "y": 491.9539641943734
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c24de987bd2020b1fa78f981367f67ccf9a53da5d3e6ab837b0029147fe68313",
+      "manualObservation": "The selected pin and full name lie visibly in the non-geographic margin index; the panel explicitly disclaims a surveyed position."
+    },
+    {
+      "markerId": "ivanhoe-place-region-copmanhurst-gateway",
+      "name": "The hermitage clearing",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 388,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-copmanhurst-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 781.979865771812,
+          "y": 492.2429667519182
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "f27d9e35a410b986b7950e5b0b2845edfdb1e3a6e5e6cca8f5cf9d3ddea5bcb4",
+      "manualObservation": "The hermitage index entry is fully visible on its separate margin row, with the non-geographic explanation in the panel."
+    },
+    {
+      "markerId": "ivanhoe-place-region-torquilstone-gateway",
+      "name": "Torquilstone",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 298,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-torquilstone-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 781.979865771812,
+          "y": 513.531969309463
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "59586e8d21f67b645e45b61aea52b60644905730669701d5e27984d023ebae1b",
+      "manualObservation": "The castle gateway remains on its non-geographic index row rather than inventing a regional location."
+    },
+    {
+      "markerId": "ivanhoe-place-region-templestowe-gateway",
+      "name": "Templestowe",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 208,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-templestowe-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 781.979865771812,
+          "y": 640.8209718670078
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "8e99b8ae554a0c8e2f832d029f90e252f4a40a21b36f2dd15de257e743199310",
+      "manualObservation": "The Preceptory is represented by the visible margin gateway with its explicit location-uncertainty statement."
+    },
+    {
+      "markerId": "ivanhoe-place-region-botolph-gateway",
+      "name": "Saint Botolph’s Priory",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 1080,
+      "y": 118,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-botolph-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 781.979865771812,
+          "y": 769.1099744245523
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "0558dc5e10a42125ee956f66c14313f7f7b3db73a921810c886eaf69d574a5df",
+      "manualObservation": "The Priory margin row is visible and does not imply a measured position or route distance."
+    },
+    {
+      "markerId": "ivanhoe-place-region-york-gateway",
+      "name": "York",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 599,
+      "y": 960,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-york-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.9082774049217,
+          "y": 492.2506393861893
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "fb805446a03b956367c687f072204f91caa17aaa0f2031a21623e85666ab513c",
+      "manualObservation": "York’s regional pin is on the eastern river network, with relief visible westward; the panel distinguishes local child-map detail."
+    },
+    {
+      "markerId": "ivanhoe-place-region-coningsburgh-gateway",
+      "name": "Coningsburgh",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 548,
+      "y": 677,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-coningsburgh-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.8008948545861,
+          "y": 491.50383631713555
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "d2d62436b883b9661159d1aa7cf8b4d2ac787a53ffcfe4cf2df6bf61d458e804",
+      "manualObservation": "Coningsburgh is on the regional Don reference south of York; its gateway point is clear of the panel."
+    },
+    {
+      "markerId": "ivanhoe-place-region-ashby-gateway",
+      "name": "Ashby",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 458,
+      "y": 227,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-ashby-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 729.552572706935,
+          "y": 613.9488491048592
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "5ab49eebb33e5908f0473e2da9bdf32c71739719b4c4a405ddfbfb4b61346c5e",
+      "manualObservation": "Ashby lies in the southern regional reference area; selected point and label are visible without a claimed precise local survey."
+    },
+    {
+      "markerId": "ivanhoe-place-region-don-woods-gateway",
+      "name": "The Don country",
+      "mapLayerId": "ivanhoe-map-england",
+      "x": 421,
+      "y": 662,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-region-don-woods-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.2393736017897,
+          "y": 491.7186700767264
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "639bb4b57102913b640befc466878c79c5a756c8647cea617f9ebec6ac150239",
+      "manualObservation": "The gateway points to the broad Don-country area; the panel explicitly says it is not a surveyed boundary or point location."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-glade",
+      "name": "The stone-circle glade",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 170,
+      "y": 890,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-glade.png",
+      "presentation": {
+        "point": {
+          "x": 404.4040404040404,
+          "y": 492.4537444933921
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "f2924eef3f3735bab08171bb176170be70fc7874402c66f134fa15d0e525310d",
+      "manualObservation": "The pin is in the grass opening among the standing stones, above the brook; its local context remains visible."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-path",
+      "name": "The path from the glade",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 180,
+      "y": 745,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-path.png",
+      "presentation": {
+        "point": {
+          "x": 561.5454545454545,
+          "y": 492.4977973568282
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "6d3b1deda5b14fb89eb04e92df37169065fa88a9de29f4872366f7e4d71e2752",
+      "manualObservation": "The selected point lies on the path leaving the stone-circle inset, not in the stream or tree canopy."
+    },
+    {
+      "markerId": "ivanhoe-place-road-to-sunken-cross",
+      "name": "Road toward Sunken Cross",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 400,
+      "y": 750,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-road-to-sunken-cross.png",
+      "presentation": {
+        "point": {
+          "x": 729.6565656565656,
+          "y": 492.4273127753304
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "599c5a137b127c238dbec6b1bfbcad377b72587718c69801fa7e3d0de01e71bc",
+      "manualObservation": "The point is on the road approaching the crossroads, distinct from the cross itself."
+    },
+    {
+      "markerId": "ivanhoe-place-sunken-cross",
+      "name": "Sunken Cross",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 500,
+      "y": 775,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-sunken-cross.png",
+      "presentation": {
+        "point": {
+          "x": 730.070707070707,
+          "y": 492.0748898678414
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "bdf4fcd7de91af11ab255b89610b0db9432d31af43eba27af4fb7695c0dfed68",
+      "manualObservation": "The pin sits at the four-way junction by the small cross cue; all four path directions remain distinguishable."
+    },
+    {
+      "markerId": "ivanhoe-place-woodland-brooks",
+      "name": "The marshy crossings",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 665,
+      "y": 775,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-woodland-brooks.png",
+      "presentation": {
+        "point": {
+          "x": 730.4040404040404,
+          "y": 492.0748898678414
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3c2eedfa8b4b518da791766066da43469abc74fa420c9ced7c7ad3f96f8eb6f5",
+      "manualObservation": "The selected point falls on the path through the successive marshy water crossings, separate from the crossroads."
+    },
+    {
+      "markerId": "ivanhoe-place-rotherwood-approach",
+      "name": "Rotherwood in sight",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 800,
+      "y": 770,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-rotherwood-approach.png",
+      "presentation": {
+        "point": {
+          "x": 730.3131313131312,
+          "y": 492.1453744493391
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "1a2c50378469c2d306b58505172c72687ef10804e6fbf7418b07d6779d5e2d0e",
+      "manualObservation": "The marker is at the far end of the same approach beyond the marshes; it does not pretend to be a building inside the schematic woodland inset."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-escape-paths",
+      "name": "Paths from the postern",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 920,
+      "y": 685,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-escape-paths.png",
+      "presentation": {
+        "point": {
+          "x": 730.0101010101012,
+          "y": 492.3436123348017
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "31bcaffa44653f2b257045492439dfaf2d959d487bc1baeeb0768e8dd70579f2",
+      "manualObservation": "The escape path pin occupies the ascending wooded road in the separate morning-journey inset."
+    },
+    {
+      "markerId": "ivanhoe-place-front-de-boeuf-boundary-oak",
+      "name": "The boundary oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1100,
+      "y": 805,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-front-de-boeuf-boundary-oak.png",
+      "presentation": {
+        "point": {
+          "x": 746.5555555555554,
+          "y": 491.6519823788547
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "83687d522aa50b8e052c365b77cfcdfbe98793f610b89704572fbfd58e2a7e0a",
+      "manualObservation": "The marker is on the large roadside oak cue rather than at the Sheffield rise; the improved viewport exposes its tree context."
+    },
+    {
+      "markerId": "ivanhoe-place-sheffield-overlook",
+      "name": "The view toward Sheffield",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1260,
+      "y": 955,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-sheffield-overlook.png",
+      "presentation": {
+        "point": {
+          "x": 972.8181818181818,
+          "y": 442.5374449339207
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "5d87c046d7c41e8e58eb7a4e7f8ff9c236a18ed1dc96182d12122f54d1dc81d7",
+      "manualObservation": "The selected marker is now visible on the high rise above the road; it was concealed by the old panel viewport and was reopened after the app fix."
+    },
+    {
+      "markerId": "ivanhoe-place-st-withold-convent",
+      "name": "Saint Withold’s",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 130,
+      "y": 485,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-st-withold-convent.png",
+      "presentation": {
+        "point": {
+          "x": 490.83838383838383,
+          "y": 492.1629955947137
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "6041b6e84fcd47087d12e0f25cbe1f4b4a93ebe081342df7cf119608ec1652fc",
+      "manualObservation": "The point sits over the convent building in the journey inset, distinct from its gate."
+    },
+    {
+      "markerId": "ivanhoe-place-st-withold-gate",
+      "name": "The convent gate",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 130,
+      "y": 445,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-st-withold-gate.png",
+      "presentation": {
+        "point": {
+          "x": 490.83838383838383,
+          "y": 491.7268722466962
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "365b7d7b38236cb16b116cb4ebacd84caeacae2531bdd577cacb30a2c7563921",
+      "manualObservation": "The selected pin falls at the convent’s exit threshold leading onto the road."
+    },
+    {
+      "markerId": "ivanhoe-place-road-from-st-withold",
+      "name": "Road from Saint Withold’s",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 180,
+      "y": 435,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-road-from-st-withold.png",
+      "presentation": {
+        "point": {
+          "x": 561.5454545454545,
+          "y": 491.86784140969166
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "52969b04502739740f74c0e3ce487b8cedc8d2046f7d2390dd8715e9ec79b15f",
+      "manualObservation": "The road marker lies beyond the gate and before the roadside spring; no measured travel distance is implied."
+    },
+    {
+      "markerId": "ivanhoe-place-woodland-noon-fountain",
+      "name": "The roadside fountain",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 300,
+      "y": 410,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-woodland-noon-fountain.png",
+      "presentation": {
+        "point": {
+          "x": 730.2424242424242,
+          "y": 492.22026431718064
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "4792acb18e3ddacfdeff621ffcfdddab46be0137cacac5ededbb39155bd1cc10",
+      "manualObservation": "The pin is at the visible water pool beside the road, matching the midday pause context."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-edge-road",
+      "name": "The forest-edge road",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 450,
+      "y": 335,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-edge-road.png",
+      "presentation": {
+        "point": {
+          "x": 730.3636363636364,
+          "y": 492.27753303964755
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "79aaa71c74e577da6fc67c186db1ac35206bbc869396990752b2759b8c20e415",
+      "manualObservation": "The marker occupies the road before the brook crossing, distinct from the woodland refuge below."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-litter-halt",
+      "name": "The halted litter",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 530,
+      "y": 295,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-litter-halt.png",
+      "presentation": {
+        "point": {
+          "x": 729.4949494949495,
+          "y": 517.8414096916299
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "dc15155793d09ac6a08416d6ff82dc3c82fc6575e856193baa956ee2a773150e",
+      "manualObservation": "The halt is marked on the approach road before the crossing; the covered-litter illustration and the point refer to different views of the same roadside context."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-ambush-brook",
+      "name": "The brook in the wood",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 650,
+      "y": 270,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-ambush-brook.png",
+      "presentation": {
+        "point": {
+          "x": 730.1919191919192,
+          "y": 554.1938325991191
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "475a215cfa254198355936b4bad133fe3c9adc2f3adaa6b5c34e99c4e921d56a",
+      "manualObservation": "The selected point is at the actual road-and-brook crossing, with steep wooded cover alongside it."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-escape-thicket",
+      "name": "The fugitives’ thicket",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 400,
+      "y": 185,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-escape-thicket.png",
+      "presentation": {
+        "point": {
+          "x": 729.6565656565656,
+          "y": 674.3920704845816
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "8007e5fbf47c6ec0c462548b6685444be6fcda99e84b6c876a0d6e6881046c64",
+      "manualObservation": "The pin is in thick cover off the road below the crossing, not on the captives’ route itself."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-rescue-path",
+      "name": "The rescue party’s path",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 315,
+      "y": 185,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-rescue-path.png",
+      "presentation": {
+        "point": {
+          "x": 730.4545454545455,
+          "y": 674.3920704845816
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "3eede1dd32f31c5977677ee44871a4fb8d261d20ef00383dd05f6cbba90ef961",
+      "manualObservation": "The point lies in the woodland beside the first rendezvous oak and refuge, preserving the off-road rescue context."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-rendezvous-oak",
+      "name": "The first rendezvous oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 180,
+      "y": 195,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-rendezvous-oak.png",
+      "presentation": {
+        "point": {
+          "x": 561.5454545454545,
+          "y": 660.2511013215858
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c747ffe04cec7b9c48f907140c703a105ea707ae6c699f24da9adb7f8071c66c",
+      "manualObservation": "The marker is on the large oak in the rescue inset and is separate from the later ambush/refreshment trees."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-forest-road",
+      "name": "The road toward Coningsburgh",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 930,
+      "y": 400,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-forest-road.png",
+      "presentation": {
+        "point": {
+          "x": 730.1515151515152,
+          "y": 492.361233480176
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "82ba0089d5c48d740b255217cbf9694d69b35098c160783f59c6cbfebaf0f72d",
+      "manualObservation": "The selected point is on the approach path in the separate later-journey inset, before the opening used for the ambush."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-ambush-glade",
+      "name": "The ambush glade",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1080,
+      "y": 325,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-ambush-glade.png",
+      "presentation": {
+        "point": {
+          "x": 730.2727272727273,
+          "y": 492.41850220264314
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "a09a54ca31cff440163f66f437d0f9944500d774572a1c600bf0cd2b163ea4cc",
+      "manualObservation": "The pin is in the thicket-edged clearing of the later inset, distinct from the earlier brook abduction."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-ambush-private-oak",
+      "name": "Beside the oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1100,
+      "y": 310,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-ambush-private-oak.png",
+      "presentation": {
+        "point": {
+          "x": 746.5555555555554,
+          "y": 496.6299559471365
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "05d84ffc970c353b20f0a0623f8fd314aedb9f50239fcbbf0273b20b903e383b",
+      "manualObservation": "The private-space point is beside the central oak within the ambush clearing; it is not moved to the refreshment tree."
+    },
+    {
+      "markerId": "ivanhoe-place-forest-refreshment-oak",
+      "name": "The refreshment oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "x": 1280,
+      "y": 165,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-forest-refreshment-oak.png",
+      "presentation": {
+        "point": {
+          "x": 1002.1010101010102,
+          "y": 701.6740088105726
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c8b4f1a247f723f1638490bc5de8ce3b02d8b7d66209b13a5ba0be13fbdc7a9c",
+      "manualObservation": "The point is at the separate tree farther along the later-journey path, with the selected marker visible before the panel edge."
+    }
+  ]
+}

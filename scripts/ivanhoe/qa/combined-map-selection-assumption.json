@@ -1,0 +1,16 @@
+{
+  "message": "locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('button[data-map-layer][aria-current=\"true\"]').filter({ hasText: 'Yorkshire and the Midlands' }) to be visible\u001b[22m\n",
+  "pageErrors": [],
+  "networkFailures": [],
+  "consoleErrors": [],
+  "mapRequests": [
+    {
+      "url": "http://127.0.0.1:4186/assets/index-CF1lINru.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4186/assets/MapExplorerView-O7CB5Cl4.js",
+      "status": 200
+    }
+  ]
+}

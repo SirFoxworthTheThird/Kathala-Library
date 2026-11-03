@@ -1,0 +1,64 @@
+{
+  "fixtureSha256": "3b5559bcdbbd1a5f5916179675522255afad8f8828020e44d9be481fe42f7766",
+  "scope": "Selected waiting-maid movements and Gurth departure/inheritance/return; not exhaustive household QA",
+  "observations": [
+    {
+      "key": "edwina",
+      "moment": "Seven steps to the chamber",
+      "inherited": false,
+      "stateEventId": "ivanhoe-source-9-p7",
+      "location": "Rowena’s chamber",
+      "screenshot": "qa/household-edwina-7-direct.png"
+    },
+    {
+      "key": "edwina",
+      "moment": "Questions about Ivanhoe",
+      "inherited": false,
+      "stateEventId": "ivanhoe-source-9-p12",
+      "location": "Rowena’s chamber",
+      "screenshot": "qa/household-edwina-12-direct.png"
+    },
+    {
+      "key": "edwina",
+      "moment": "The sleeping cup",
+      "inherited": false,
+      "stateEventId": "ivanhoe-source-9-p17",
+      "location": "Rowena’s chamber",
+      "screenshot": "qa/household-edwina-17-direct.png"
+    },
+    {
+      "key": "edwina",
+      "moment": "The southern cells",
+      "inherited": false,
+      "stateEventId": "ivanhoe-source-9-p21",
+      "location": "Unknown",
+      "screenshot": "qa/household-edwina-21-direct.png"
+    },
+    {
+      "key": "gurth",
+      "moment": "Outside the postern",
+      "inherited": false,
+      "stateEventId": "ivanhoe-source-9-p49",
+      "location": "Unknown",
+      "screenshot": "qa/household-gurth-49-direct.png"
+    },
+    {
+      "key": "gurth",
+      "moment": "Questions at the wicket",
+      "inherited": true,
+      "stateEventId": "ivanhoe-source-9-p49",
+      "location": "Unknown",
+      "screenshot": "qa/household-gurth-49-waiting.png"
+    },
+    {
+      "key": "gurth",
+      "moment": "The narrow bridge",
+      "inherited": false,
+      "stateEventId": "ivanhoe-source-9-p57",
+      "location": "The narrow crossing",
+      "screenshot": "qa/household-gurth-57-direct.png"
+    }
+  ],
+  "pageErrors": [],
+  "manualReview": "All seven actual screenshots individually opened: the waiting-maid is in Rowena’s room through the cup, Edwina’s destination after torch return is Unknown, Gurth’s unknown departure persists while absent, and his return uses The narrow crossing. Inventory correctness remains a separate open gate."
+}

@@ -1,0 +1,78 @@
+{
+  "scope": "Individually opened banner and enlarged app images at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "region-rotherwood-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "4e8723abbcf737ff086e95abbd7d2be0284e886d9449aea8903546aa5fea5209",
+      "compressedSha256": "c9be4da0b68688681e221a4a572e787f4435f4d1b359225682a3721ae1dfc802",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Timber hall and palisade bridge; banner and full image readable.",
+      "screenshots": [
+        "qa/place-region-rotherwood-gateway.png",
+        "qa/place-region-rotherwood-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "region-copmanhurst-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "fc219ad0df6385c5fbb22fc609323a123f73c96a73e4a2224bd9b86593906e88",
+      "compressedSha256": "761e376e0dcdeace9a06074785dfd28010b867e936544501be914d3df0c552fb",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Log hut, ruined chapel and spring, full view readable without people.",
+      "screenshots": [
+        "qa/place-region-copmanhurst-gateway.png",
+        "qa/place-region-copmanhurst-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "region-torquilstone-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "b9239883eec34b4d030c23baef5572aefaa762dce2feb267f340f134a8242335",
+      "compressedSha256": "d6b8674b125393e06e30788fbf79773fa1c2a80b640016815512f58f25d85368",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Square keep, modest hill and moat; full view retains keep cropped by banner.",
+      "screenshots": [
+        "qa/place-region-torquilstone-gateway.png",
+        "qa/place-region-torquilstone-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "region-templestowe-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "2deadbc014522a1cd8f177bc08422a432d043a2433917c9a36cb7eefaa9a7d7d",
+      "compressedSha256": "44e8944bcf83731a0084fae92d55665511a67fe5038d953f4a48fdfb60cda73c",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Religious precinct beside meadow stream; empty unsigned full view.",
+      "screenshots": [
+        "qa/place-region-templestowe-gateway.png",
+        "qa/place-region-templestowe-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "region-botolph-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "0b35993d09ea1b515f51229f8c48d0a40611c3cbc584793881200c76fc25956b",
+      "compressedSha256": "30587a92cef9bcd95b30c5173f25a15c7b77e11eab192720d790cf872e8c69f7",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Modest Romanesque church by stream and stone bridge; no event actors.",
+      "screenshots": [
+        "qa/place-region-botolph-gateway.png",
+        "qa/place-region-botolph-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "region-ashby-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "23a0c4a12b67cab355a7001312cdd8628082a232c1c531b4eb271580977c6d2c",
+      "compressedSha256": "a4da84addd045417d7941618b0faa77c907537f7950402498d6a6be56f72723b",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Timber settlement, bridge and church; full image unsigned and readable.",
+      "screenshots": [
+        "qa/place-region-ashby-gateway.png",
+        "qa/place-region-ashby-gateway-lightbox.png"
+      ]
+    }
+  ]
+}

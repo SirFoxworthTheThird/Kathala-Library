@@ -1,0 +1,55 @@
+{
+  "scope": "Manual presentation review retained through exact URL/model transition proofs; final candidate application checks and screenshots match the same subjects, geometry and disclosed state model.",
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "checks": [
+    "Horse return report names the stable without inventing a current person holding the reins.",
+    "Armour report explicitly avoids inferring that it returned with the horse.",
+    "Chain report preserves the unnamed deer-stalker rather than naming a familiar outlaw.",
+    "Horn and baldric each record the report clearing Wamba, followed by the direct gift to the Black Knight.",
+    "Rewind removes each report and restores the reached earlier item history.",
+    "Long report text wraps within desktop whereabouts rows."
+  ],
+  "screenshots": [
+    {
+      "path": "qa/item-report-loan-horse-report.png",
+      "sha256": "96c8bc1c3b9de316c1b08562ee9fd8de67fe954d918aa2bd943bb83cf1415d8b"
+    },
+    {
+      "path": "qa/item-report-loan-horse-rewind.png",
+      "sha256": "c08616edb380b11c42c2432da1944d4b47922dbcb335e40dcf79b76d1ce3250b"
+    },
+    {
+      "path": "qa/item-report-loan-armour-report.png",
+      "sha256": "6c80eb4149ea79d7ec0b2f42e977a206331d482f40aaa41a4f356858dd112cd3"
+    },
+    {
+      "path": "qa/item-report-loan-armour-rewind.png",
+      "sha256": "58313b2ba0bdd362e6a7ba0d88c45da70ad71f3a267e6b7e07e3549fe8ab8dc3"
+    },
+    {
+      "path": "qa/item-report-locksley-horn-report.png",
+      "sha256": "d7c7be1090bcf6d774b697bfd34be16e1cefe48dfc3a43b20d52d22ea72ae3e5"
+    },
+    {
+      "path": "qa/item-report-locksley-horn-rewind.png",
+      "sha256": "ce25c17de0f722e11f23d4e56452b85bb5c7b55f88d91f02f4562de52e3e0c92"
+    },
+    {
+      "path": "qa/item-report-locksley-baldric-report.png",
+      "sha256": "b41389aa0664c7734f42f32ca276a67b11c0b9e7856d7734bb16df890b3f7e07"
+    },
+    {
+      "path": "qa/item-report-locksley-baldric-rewind.png",
+      "sha256": "43143596728b6180382667752d59bb53d134a9cf1772fb1b943230566efb676d"
+    },
+    {
+      "path": "qa/item-report-brian-chain-report.png",
+      "sha256": "bab0942720d3807fd642bf7cd1822dd8f54c10c8108ba282ade05d908b1e572f"
+    },
+    {
+      "path": "qa/item-report-brian-chain-rewind.png",
+      "sha256": "0dad8edc192cfce2738e1d561203f172dbf13094271d150beceaec19e18f85e2"
+    }
+  ],
+  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "loan-horse",
+    "source": "VIII.40; X.23,48",
+    "prompt": "Square full-bleed mature painterly historical literary illustration for Walter Scott's Ivanhoe, late twelfth-century England. Oil and watercolour textures, natural daylight, realistic equine anatomy, one whole horse visible with space around hooves and ears. No humans, rider, writing, watermark, border, coat of arms, crown or future outcome. A gallant BLACK riding warhorse, athletic and lively rather than massive, standing three-quarter view facing left on grass beside a simple temporary cloth pavilion softly out of focus. Plain period high wooden saddle covered in dark brown leather, simple bridle and girth, no plate barding, heraldic caparison, shield, lance or equipment identifying its anonymous rider. Glossy black coat, no invented white facial blaze. Source VIII.40 explicitly calls the loan-supplied tournament mount a gallant black horse; exact tack and setting are illustrative.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-a52f43a8-a345-4b86-a2bd-cbf295969dd1.png",
+    "originalReview": "Opened v1 and corrected v2 individually. Selected v2 removes unsupported distant castle; black athletic horse, plain period tack and pavilion retained. Black coat follows VIII.40; exact build/tack illustrative.",
+    "selectedVariant": "v2",
+    "editPrompt": "Edit only the far left background of this Ivanhoe horse illustration: remove the distant castle towers completely and replace them with softly blurred ordinary treetops and pale sky. Keep the entire black horse, anatomy, tack, plain pavilion, light, ground, composition and painterly style unchanged. No new building, person, emblem or writing."
+  },
+  {
+    "id": "prize-horse",
+    "source": "IX.18",
+    "prompt": "Square full-bleed mature painterly historical literary illustration for Walter Scott's Ivanhoe, late twelfth-century England. Oil and watercolour textures, natural daylight, realistic equine anatomy, one whole horse visible with space around hooves and ears. No humans, rider, writing, watermark, border, coat of arms, crown or future outcome. A noble BAY horse in rich but unmarked period war furniture, standing in elegant right-facing profile on pale sand with an indistinct linen tent backdrop. Reddish brown coat, black mane and tail, a dignified strong but agile build. High leather war saddle over a richly woven muted deep blue saddlecloth with restrained geometric gold edging and decorated bridle, no modern stirrup irons, royal emblems or full metal barding. Source calls it a noble creature fully accoutred with richest war-furniture but does not specify colour: bay colour and decoration are illustrative. No recipient, riding demonstration or prize ceremony.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-257ac5c6-bf47-4326-90dc-afc9b82e5a43.png",
+    "originalReview": "Opened original: noble bay horse with rich unmarked war furniture, no recipient or early identity. Colour, cloth and tack design illustrative; richness follows IX.18."
+  },
+  {
+    "id": "blackknight-charger",
+    "source": "XII.34",
+    "prompt": "Square full-bleed mature painterly historical literary illustration for Walter Scott's Ivanhoe, late twelfth-century England. Oil and watercolour textures, natural daylight, realistic equine anatomy, one whole horse visible with space around hooves and ears. No humans, rider, writing, watermark, border, coat of arms, crown or future outcome. A very large tall powerful BLACK charger, broad chest, strong neck and legs, standing alert in front three-quarter view facing right, dark mane stirring, simple blackened leather period high war saddle and plain bridle. Quiet open grassy field and blurred treeline, entirely neutral. Source explicitly calls this black horse large, tall, powerful and strong. No white blaze, invented wounds, fallen body, ambush, royal identity symbols, rider or metal horse armour. Make it physically distinct from a lighter agile black tournament horse.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-15023650-7112-49a8-aafa-b67a9c83049a.png",
+    "originalReview": "Opened original: powerful tall black charger, plain unmarked tack, no royal identity, wound or ambush. Black coat and strong build follow XII.34."
+  },
+  {
+    "id": "malkin",
+    "source": "XL.20–30",
+    "prompt": "Square full-bleed mature painterly historical literary illustration for Walter Scott's Ivanhoe, late twelfth-century England. Oil and watercolour textures, natural daylight, realistic equine anatomy, one whole horse visible with space around hooves and ears. No humans, rider, writing, watermark, border, coat of arms, crown or future outcome. Malkin, a gentle smooth-paced AMBLING JENNET MARE, almost fifteen years old, standing calmly in left-facing three-quarter view in a quiet abbey garden, restrained chestnut coat with slightly faded muzzle, compact comfortable riding build, modest high period leather palfrey saddle and simple bridle, no armoured rider, battle, arrows or pack. Source specifies mature gentle mare and smooth pace, not coat colour: chestnut colour and tack details are illustrative. Stone wall and green herbs soft in background, no invented named church or monumental Gothic architecture.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-e3629fba-c85b-4d04-b3f7-ee1c2ec47d31.png",
+    "originalReview": "Opened original: calm mature chestnut mare, modest palfrey tack and neutral garden. Sex, age and gentle riding role follow XL.20–30; colour and tack illustrative."
+  }
+]

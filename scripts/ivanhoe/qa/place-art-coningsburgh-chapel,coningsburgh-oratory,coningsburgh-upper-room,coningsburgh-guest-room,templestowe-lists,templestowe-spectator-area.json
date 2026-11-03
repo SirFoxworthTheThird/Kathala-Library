@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "coningsburgh-chapel",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "coningsburgh-oratory",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "coningsburgh-upper-room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-upper",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "coningsburgh-guest-room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-guests",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-lists",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-spectator-area",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

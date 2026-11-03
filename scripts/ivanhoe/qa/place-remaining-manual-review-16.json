@@ -1,0 +1,66 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "torquilstone-frontdeboeuf-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "1491fbe18e8b24b3c08a971291de945b7c1c541c84efd4ca092afec1a714a9fb",
+      "compressedSha256": "b5fbdad664b1fbda1ef7038a6a63f6d80fee110c85417b5978734cfd51b7d695",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty curtained bedchamber and closed door, no wounded lord or fire shown; banner and full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-frontdeboeuf-room.png",
+        "qa/place-torquilstone-frontdeboeuf-room-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-postern-vault",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e9d5147fe58a1bbe7a36b3a576bdd423a2cfef3175a57137e53ff20f01564854",
+      "compressedSha256": "874af17415b9cbfc56826162fe8f0415ef3df1151b3b9269f58ad9a439bedf10",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty vaulted entrance, no fighters or forced-door action; banner and full view readable.",
+      "screenshots": [
+        "qa/place-torquilstone-postern-vault.png",
+        "qa/place-torquilstone-postern-vault-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-court",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "dba17611c504e27e3d0cb70ec3075c0dfa86b7aefaae2e0670214f2649d9de62",
+      "compressedSha256": "5310fdf9371746a792aee0ae15ea3f470633364c0bf2d97f253847840a0febad",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty inner court enclosed by keep and wings, no captured actors; full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-court.png",
+        "qa/place-torquilstone-court-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-drawbridge-outwork",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "6a5c8ed32951caecd4521eadbb4ce6091847ed12f1749d5b0a4c073d1b7d6467",
+      "compressedSha256": "1d79aa0ba6dee7166ee8225087dab6e645501b00c23973ccdd9413b569746b41",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Broad principal drawbridge with chains, distinct from single-plank postern route; banner and full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-drawbridge-outwork.png",
+        "qa/place-torquilstone-drawbridge-outwork-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-burning-turret",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "b9f70fed70a3fd5a42dcc11575580bb84af2addc458d5fcaec879e85d74eded2",
+      "compressedSha256": "2fec693eb1626ba8ac4b9da7b4750ea4df95ba9a33784b518f7e96bf984c101e",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Quiet intact eastern-angle turret without future flames or body, architectural baseline; banner crops roof but full view preserves tower.",
+      "screenshots": [
+        "qa/place-torquilstone-burning-turret.png",
+        "qa/place-torquilstone-burning-turret-lightbox.png"
+      ]
+    }
+  ]
+}

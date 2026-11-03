@@ -1,0 +1,27 @@
+{
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90",
+  "downloadProof": {
+    "url": "http://127.0.0.1:4186/library/ivanhoe.pwk",
+    "status": 200,
+    "bytes": 3302723,
+    "sha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29"
+  },
+  "checks": [
+    {
+      "path": "qa/review-import.png",
+      "sha256": "34bd84003e25aa259db7ffe5872c9a0aec3444bb5d7166d310ea8578aa759ef5",
+      "finding": "Stable opening dashboard: reading mode on, chapter1, zero known characters/maps/items/relationships; cover renders; no infinite loader."
+    },
+    {
+      "path": "qa/page-settings.png",
+      "sha256": "42cee06f41b6f0df21faac8cb8768e8b0aa1b2d181ba439674ca628d73703356",
+      "finding": "334 images are linked from one site; none embedded; local saving remains optional."
+    },
+    {
+      "path": "qa/cover-opening-lightbox.png",
+      "sha256": "b19a3782fd025f4dd105419b4b1851c65343f56a0b36cadd20723a642fba14f3",
+      "finding": "Native cover is readable and anonymous; closed helmet and uprooted-oak shield do not reveal a future identity."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "harthill-trysting-tree",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "harthill-tree-edge",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "harthill-funeral-path",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "harthill-private-tree",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "york-castle",
+      "mapLayerId": "ivanhoe-map-york",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "nathan-house",
+      "mapLayerId": null,
+      "unmapped": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

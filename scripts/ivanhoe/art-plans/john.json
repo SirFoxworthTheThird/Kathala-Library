@@ -1,0 +1,16 @@
+{
+  "id": "john",
+  "original": "scripts/ivanhoe/art-originals/john-v2.png",
+  "source": "VII.19–20",
+  "prompt": "Create one square1:1 original character portrait for a reading edition of Walter Scott's Ivanhoe: Prince John at his first entrance in chapterVII paragraphs19–20. A comely young adult English prince with long curled chestnut hair escaping onto his shoulders, open well-formed features and a haughty, carelessly amused expression. Colour and precise face are illustrative choices. Rich crimson tunic embroidered subtly with gold, sumptuous crimson cloak lined with dark sable fur and a fur tippet. On his head a soft rich fur bonnet encircled with precious stones, NOT a royal crown. Seated on a high-mettled grey palfrey whose neck enters lowerleft; a realistic alert falcon perches quietly on his leather-gloved hand at right. Waist-up three-quarter portrait, head central with generous room for a circular avatar, show jewels and woven textiles without clutter. Soft focus timber tournament gallery, warm daylight, no other identifiable people. Mature painterly historical literary bookplate, controlled oil-and-watercolour brushwork, convincing skin, fur and feathers. Restrained twelfth-century dress, no late Gothic armour or fantasy. No crown, sceptre, throne, lions, kingly insignia, written names, text, logos, watermark, movie actor resemblance, blood, future crimes or later outcomes.",
+  "editPrompt": "Edit this Prince John portrait only by replacing every heraldic animal, lion, shield design and emblem in the distant background with plain unmarked muted red or parchment cloth. Keep the timber gallery. Preserve the prince's exact face, long curls, jeweled fur bonnet, crimson/gold clothes and sable, falcon and grey horse, composition and painterly texture. No readable text or new ornament. There must be no heraldic animals anywhere in the picture.",
+  "generator": "built-in image_gen",
+  "retainedCandidates": [
+    {
+      "path": "scripts/ivanhoe/art-originals/john-v1.png",
+      "review": "Opened v1: comely haughty prince, long curls, fur bonnet/jewel circle, crimson/gold/sable, grey mount and falcon. Background introduced heraldic devices despite prompt restriction; retain and replace with plain cloth before selection."
+    }
+  ],
+  "originalReview": "Opened edited original: comely young prince with haughty amused expression, long curls, rich jeweled fur bonnet rather than crown, crimson/gold clothes and sable, grey horse and falcon. Background heraldic animal removed, leaving plain cloth. Chestnut colour, precise face, falcon species, tack and textile ornament are illustrative choices. No future royal accession or narrative outcome.",
+  "appReviewed": false
+}

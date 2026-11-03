@@ -1,0 +1,159 @@
+{
+  "fixtureSha256": "9344aae10fc8b00861d9b865ef779bbbcb9d4ad6c19c7d58a2914125e990ebf6",
+  "scope": "Source-corrected departures and four reported-location changes, including UI forward and rewind",
+  "observations": [
+    {
+      "eventId": "ivanhoe-source-41-p50",
+      "key": "isaac",
+      "label": "38-50",
+      "expected": "Unknown",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nAgrees to seek Ivanhoe and fund help for Rebecca.",
+      "screenshot": "qa/departure-38-50-isaac.png"
+    },
+    {
+      "eventId": "ivanhoe-source-41-p50",
+      "key": "bensamuel",
+      "label": "38-50",
+      "expected": "Unknown",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nUndertakes to seek a champion at York and departs on his own road.",
+      "screenshot": "qa/departure-38-50-bensamuel.png"
+    },
+    {
+      "eventId": "ivanhoe-source-45-p9",
+      "key": "blackknight",
+      "label": "42-9",
+      "expected": "Unknown",
+      "body": "Nothing recorded for Richard of England under that name at this point in the story.\n\nAs The Black Knight\nStatus\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nPays respect to the grieving mother.\n\nInventory\nAthelstane’s battle-axe\nThe castle’s reply",
+      "screenshot": "qa/departure-42-9-blackknight.png"
+    },
+    {
+      "eventId": "ivanhoe-source-45-p9",
+      "key": "ivanhoe",
+      "label": "42-9",
+      "expected": "Unknown",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nAccompanies the visitors without revealing himself.\n\nInventory\nThe chaplet of honour\nMalkin\nThe victor’s prize horse\nAs The Disinherited Knight\n\nRecorded at: At her feet. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe Queen’s steps\n\nStatus Notes\n\nKisses Rowena’s hand, bends farther forward and collapses at her feet.\n\nInventory at this record\nThe chaplet of honour\nThe victor’s prize horse",
+      "screenshot": "qa/departure-42-9-ivanhoe.png"
+    },
+    {
+      "eventId": "ivanhoe-source-46-p79",
+      "key": "beaumanoir",
+      "label": "43-79",
+      "expected": "The eastern tribunal",
+      "body": "Status\nAlive\nCurrent Location\n\nThe eastern tribunal\n\nStatus Notes\n\nThrows the glove into the lists and gives the signal.\n\nInventory\nThe patient’s medicine box",
+      "screenshot": "qa/departure-43-79-beaumanoir.png"
+    },
+    {
+      "eventId": "ivanhoe-source-46-p79",
+      "key": "herald",
+      "label": "43-79",
+      "expected": "Unknown",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nProclaims the rules and clears the way.",
+      "screenshot": "qa/departure-43-79-herald.png"
+    },
+    {
+      "eventId": "ivanhoe-source-47-p14",
+      "key": "beaumanoir",
+      "label": "44-14",
+      "expected": "Unknown",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nProtests and leads his followers away without combat.\n\nInventory\nThe patient’s medicine box",
+      "screenshot": "qa/departure-44-14-beaumanoir.png"
+    },
+    {
+      "eventId": "ivanhoe-source-47-p25",
+      "key": "isaac",
+      "label": "44-25",
+      "expected": "Nathan’s house",
+      "body": "Status\nAlive\nCurrent Location\n\nNathan’s house\n\nStatus Notes\n\nEmbraces Rebecca and takes her away to Nathan’s house.",
+      "screenshot": "qa/departure-44-25-isaac.png"
+    },
+    {
+      "eventId": "ivanhoe-source-47-p25",
+      "key": "rebecca",
+      "label": "44-25",
+      "expected": "Nathan’s house",
+      "body": "Status\nAlive\nCurrent Location\n\nNathan’s house\n\nStatus Notes\n\nRefuses an immediate interview with Ivanhoe and leaves with her father.\n\nInventory\nThe healing balsam",
+      "screenshot": "qa/departure-44-25-rebecca.png"
+    },
+    {
+      "eventId": "ivanhoe-source-15-p36",
+      "key": "blackknight",
+      "label": "blackknight-left-lists-before",
+      "expected": "The northern end of the lists",
+      "body": "Status\nAlive\nCurrent Location\n\nThe northern end of the lists\n\nStatus Notes\n\nReturns calmly to the northern extremity after his two interventions, leaving his leader to face Brian.\n\nInventory\nAthelstane’s battle-axe\nThe Black Knight’s charger",
+      "screenshot": "qa/departure-blackknight-left-lists-before-blackknight.png"
+    },
+    {
+      "factKey": "blackknight-left-lists",
+      "phase": "reported",
+      "screenshot": "qa/departure-blackknight-left-lists-reported.png",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nThe preferred victor cannot be found. Spectators report that he rode away into a forest glade after the contest; his current whereabouts are not established.\n\nInventory\nAthelstane’s battle-axe\nThe Black Knight’s charger"
+    },
+    {
+      "factKey": "blackknight-left-lists",
+      "phase": "rewind",
+      "screenshot": "qa/departure-blackknight-left-lists-rewind.png",
+      "body": "Status\nAlive\nCurrent Location\n\nThe northern end of the lists\n\nStatus Notes\n\nReturns calmly to the northern extremity after his two interventions, leaving his leader to face Brian.\n\nInventory\nAthelstane’s battle-axe\nThe Black Knight’s charger"
+    },
+    {
+      "eventId": "ivanhoe-source-16-p0",
+      "key": "ivanhoe",
+      "label": "ivanhoe-removed-lists-before",
+      "expected": "The Queen’s steps",
+      "body": "Status\nAlive\nCurrent Location\n\nThe Queen’s steps\n\nStatus Notes\n\nIs identified as Ivanhoe and Cedric’s son as the marshals find a lance wound in his side.\n\nInventory\nThe chaplet of honour\nThe victor’s prize horse\nAs The Disinherited Knight\n\nRecorded at: At her feet. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe Queen’s steps\n\nStatus Notes\n\nKisses Rowena’s hand, bends farther forward and collapses at her feet.\n\nInventory at this record\nThe chaplet of honour\nThe victor’s prize horse",
+      "screenshot": "qa/departure-ivanhoe-removed-lists-before-ivanhoe.png"
+    },
+    {
+      "factKey": "ivanhoe-removed-lists",
+      "phase": "reported",
+      "screenshot": "qa/departure-ivanhoe-removed-lists-reported.png",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nFitzurse tells John that Ivanhoe has already been removed from the lists and is in the care of friends. He gives no current room or precise location.\n\nInventory\nThe chaplet of honour\nThe victor’s prize horse\nAs The Disinherited Knight\n\nRecorded at: At her feet. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe Queen’s steps\n\nStatus Notes\n\nKisses Rowena’s hand, bends farther forward and collapses at her feet.\n\nInventory at this record\nThe chaplet of honour\nThe victor’s prize horse"
+    },
+    {
+      "factKey": "ivanhoe-removed-lists",
+      "phase": "rewind",
+      "screenshot": "qa/departure-ivanhoe-removed-lists-rewind.png",
+      "body": "Status\nAlive\nCurrent Location\n\nThe Queen’s steps\n\nStatus Notes\n\nIs identified as Ivanhoe and Cedric’s son as the marshals find a lance wound in his side.\n\nInventory\nThe chaplet of honour\nThe victor’s prize horse\nAs The Disinherited Knight\n\nRecorded at: At her feet. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe Queen’s steps\n\nStatus Notes\n\nKisses Rowena’s hand, bends farther forward and collapses at her feet.\n\nInventory at this record\nThe chaplet of honour\nThe victor’s prize horse"
+    },
+    {
+      "eventId": "ivanhoe-source-45-p55",
+      "key": "ivanhoe",
+      "label": "ivanhoe-left-coningsburgh-before",
+      "expected": "The guests’ room",
+      "body": "Status\nAlive\nCurrent Location\n\nThe guests’ room\n\nStatus Notes\n\nPrays in astonishment.\n\nInventory\nThe chaplet of honour\nMalkin\nThe victor’s prize horse\nAs The Disinherited Knight\n\nRecorded at: At her feet. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe Queen’s steps\n\nStatus Notes\n\nKisses Rowena’s hand, bends farther forward and collapses at her feet.\n\nInventory at this record\nThe chaplet of honour\nThe victor’s prize horse",
+      "screenshot": "qa/departure-ivanhoe-left-coningsburgh-before-ivanhoe.png"
+    },
+    {
+      "factKey": "ivanhoe-left-coningsburgh",
+      "phase": "reported",
+      "screenshot": "qa/departure-ivanhoe-left-coningsburgh-reported.png",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nThe company discovers that Ivanhoe left the castle after a brief interview with a Jew and after calling for Gurth and his armour. His current whereabouts are not given.\n\nInventory\nThe chaplet of honour\nMalkin\nThe victor’s prize horse\nAs The Disinherited Knight\n\nRecorded at: At her feet. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe Queen’s steps\n\nStatus Notes\n\nKisses Rowena’s hand, bends farther forward and collapses at her feet.\n\nInventory at this record\nThe chaplet of honour\nThe victor’s prize horse"
+    },
+    {
+      "factKey": "ivanhoe-left-coningsburgh",
+      "phase": "rewind",
+      "screenshot": "qa/departure-ivanhoe-left-coningsburgh-rewind.png",
+      "body": "Status\nAlive\nCurrent Location\n\nThe guests’ room\n\nStatus Notes\n\nPrays in astonishment.\n\nInventory\nThe chaplet of honour\nMalkin\nThe victor’s prize horse\nAs The Disinherited Knight\n\nRecorded at: At her feet. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe Queen’s steps\n\nStatus Notes\n\nKisses Rowena’s hand, bends farther forward and collapses at her feet.\n\nInventory at this record\nThe chaplet of honour\nThe victor’s prize horse"
+    },
+    {
+      "eventId": "ivanhoe-source-45-p55",
+      "key": "gurth",
+      "label": "gurth-called-away-before",
+      "expected": "The castle court",
+      "body": "Status\nAlive\nCurrent Location\n\nThe castle court\n\nStatus Notes\n\nStays with acquaintances in the courtyard.\n\nInventory\nIsaac’s acquittance\nGurth’s reward coins\nGurth’s brass collar\nThe swineherd’s horn\nGurth’s quarterstaff\nThe Sheffield whittle\nIvanhoe’s war-horse\nThe knight’s money bag\nRebecca’s purse\nAs The concealed squire\n\nRecorded at: The private attendant. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe victor’s pavilion\n\nStatus Notes\n\nKeeps his face hidden under a Norman bonnet while removing the knight’s armour and serving food.",
+      "screenshot": "qa/departure-gurth-called-away-before-gurth.png"
+    },
+    {
+      "factKey": "gurth-called-away",
+      "phase": "reported",
+      "screenshot": "qa/departure-gurth-called-away-reported.png",
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nThe account of Ivanhoe’s departure says he called for Gurth and his armour. Gurth’s current location is not established by this report.\n\nInventory\nIsaac’s acquittance\nGurth’s reward coins\nGurth’s brass collar\nThe swineherd’s horn\nGurth’s quarterstaff\nThe Sheffield whittle\nIvanhoe’s war-horse\nThe knight’s money bag\nRebecca’s purse\nAs The concealed squire\n\nRecorded at: The private attendant. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe victor’s pavilion\n\nStatus Notes\n\nKeeps his face hidden under a Norman bonnet while removing the knight’s armour and serving food."
+    },
+    {
+      "factKey": "gurth-called-away",
+      "phase": "rewind",
+      "screenshot": "qa/departure-gurth-called-away-rewind.png",
+      "body": "Status\nAlive\nCurrent Location\n\nThe castle court\n\nStatus Notes\n\nStays with acquaintances in the courtyard.\n\nInventory\nIsaac’s acquittance\nGurth’s reward coins\nGurth’s brass collar\nThe swineherd’s horn\nGurth’s quarterstaff\nThe Sheffield whittle\nIvanhoe’s war-horse\nThe knight’s money bag\nRebecca’s purse\nAs The concealed squire\n\nRecorded at: The private attendant. These details belong to that record.\n\nRecorded status\nAlive\nLocation at this record\n\nThe victor’s pavilion\n\nStatus Notes\n\nKeeps his face hidden under a Norman bonnet while removing the knight’s armour and serving food."
+    }
+  ],
+  "pageErrors": []
+}

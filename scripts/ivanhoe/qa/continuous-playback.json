@@ -1,0 +1,8542 @@
+{
+  "scope": "Actual Maps UI forward traversal; manual source/map/art review and packaged-byte identity are separate evidence",
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90",
+  "completed": 537,
+  "total": 537,
+  "complete": true,
+  "playback": [
+    {
+      "index": 0,
+      "eventId": "ivanhoe-source-1-p0",
+      "title": "Title, contents and opening epigraph",
+      "chapter": 1,
+      "activeLayers": [],
+      "visibleImages": []
+    },
+    {
+      "index": 1,
+      "eventId": "ivanhoe-source-2-p0",
+      "title": "INTRODUCTION TO IVANHOE.",
+      "chapter": 2,
+      "activeLayers": [],
+      "visibleImages": []
+    },
+    {
+      "index": 2,
+      "eventId": "ivanhoe-source-3-p0",
+      "title": "DEDICATORY EPISTLE",
+      "chapter": 3,
+      "activeLayers": [],
+      "visibleImages": []
+    },
+    {
+      "index": 3,
+      "eventId": "ivanhoe-source-4-p0",
+      "title": "The Don country",
+      "chapter": 4,
+      "activeLayers": [],
+      "visibleImages": []
+    },
+    {
+      "index": 4,
+      "eventId": "ivanhoe-source-4-p8",
+      "title": "The forest glade",
+      "chapter": 4,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "eventId": "ivanhoe-source-4-p12",
+      "title": "Swine and pork",
+      "chapter": 4,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "eventId": "ivanhoe-source-4-p22",
+      "title": "Dangerous words",
+      "chapter": 4,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "eventId": "ivanhoe-source-4-p25",
+      "title": "Thunder in the wood",
+      "chapter": 4,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "eventId": "ivanhoe-source-5-p0",
+      "title": "Riders on the path",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "eventId": "ivanhoe-source-5-p12",
+      "title": "The familiar churchman",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "eventId": "ivanhoe-source-5-p14",
+      "title": "A request for lodging",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "eventId": "ivanhoe-source-5-p23",
+      "title": "The raised riding rod",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "eventId": "ivanhoe-source-5-p30",
+      "title": "Directions at a price",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "eventId": "ivanhoe-source-5-p35",
+      "title": "The wrong turning",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "eventId": "ivanhoe-source-5-p37",
+      "title": "After the horses pass",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "eventId": "ivanhoe-source-5-p40",
+      "title": "A wager on the road",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "eventId": "ivanhoe-source-5-p51",
+      "title": "Confidence in the retinue",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "eventId": "ivanhoe-source-5-p52",
+      "title": "Sunken Cross",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "eventId": "ivanhoe-source-5-p57",
+      "title": "A willing guide",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "eventId": "ivanhoe-source-5-p62",
+      "title": "Through the marshes",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "eventId": "ivanhoe-source-5-p64",
+      "title": "A traveller from the Holy Land",
+      "chapter": 5,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "eventId": "ivanhoe-source-5-p68",
+      "title": "Before Rotherwood",
+      "chapter": 5,
+      "activeLayers": [
+        "Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "eventId": "ivanhoe-source-6-p0",
+      "title": "Cedric’s hall",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "eventId": "ivanhoe-source-6-p11",
+      "title": "A delayed supper",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "eventId": "ivanhoe-source-6-p18",
+      "title": "Wilfred’s name",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "eventId": "ivanhoe-source-6-p19",
+      "title": "A horn at the gate",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "eventId": "ivanhoe-source-6-p21",
+      "title": "The warder’s report",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "eventId": "ivanhoe-source-6-p23",
+      "title": "Preparing for the guests",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "eventId": "ivanhoe-source-6-p27",
+      "title": "Instructions for Elgitha",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "eventId": "ivanhoe-source-6-p29",
+      "title": "The disowned son",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "eventId": "ivanhoe-source-6-p31",
+      "title": "The doors open",
+      "chapter": 6,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "eventId": "ivanhoe-source-7-p0",
+      "title": "The guests’ attire",
+      "chapter": 7,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "eventId": "ivanhoe-source-7-p7",
+      "title": "Three steps from the dais",
+      "chapter": 7,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "eventId": "ivanhoe-source-7-p12",
+      "title": "The servants return",
+      "chapter": 7,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "eventId": "ivanhoe-source-7-p24",
+      "title": "The supper board",
+      "chapter": 7,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "eventId": "ivanhoe-source-7-p26",
+      "title": "Rowena enters",
+      "chapter": 7,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "eventId": "ivanhoe-source-7-p31",
+      "title": "A veil and an invitation",
+      "chapter": 7,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "eventId": "ivanhoe-source-7-p39",
+      "title": "News and old directions",
+      "chapter": 7,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "eventId": "ivanhoe-source-7-p48",
+      "title": "Another stranger",
+      "chapter": 7,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "eventId": "ivanhoe-source-8-p0",
+      "title": "Hospitality disputed",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "eventId": "ivanhoe-source-8-p14",
+      "title": "No seat offered",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "eventId": "ivanhoe-source-8-p17",
+      "title": "A place by the fire",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "eventId": "ivanhoe-source-8-p20",
+      "title": "Languages of the chase",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "eventId": "ivanhoe-source-8-p28",
+      "title": "The Palmer’s testimony",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "eventId": "ivanhoe-source-8-p36",
+      "title": "The sixth knight",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "eventId": "ivanhoe-source-8-p45",
+      "title": "A challenge and its pledges",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "eventId": "ivanhoe-source-8-p50",
+      "title": "Safekeeping",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "eventId": "ivanhoe-source-8-p57",
+      "title": "A question in the throng",
+      "chapter": 8,
+      "activeLayers": [
+        "The hall at Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "eventId": "ivanhoe-source-8-p63",
+      "title": "To the sleeping quarters",
+      "chapter": 8,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "eventId": "ivanhoe-source-9-p0",
+      "title": "An invitation declined",
+      "chapter": 9,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "eventId": "ivanhoe-source-9-p6",
+      "title": "A summons in the antechamber",
+      "chapter": 9,
+      "activeLayers": [
+        "Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "eventId": "ivanhoe-source-9-p7",
+      "title": "Seven steps to the chamber",
+      "chapter": 9,
+      "activeLayers": [
+        "Rowena’s raised rooms"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "eventId": "ivanhoe-source-9-p12",
+      "title": "Questions about Ivanhoe",
+      "chapter": 9,
+      "activeLayers": [
+        "Rowena’s raised rooms"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "eventId": "ivanhoe-source-9-p17",
+      "title": "The sleeping cup",
+      "chapter": 9,
+      "activeLayers": [
+        "Rowena’s raised rooms"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "eventId": "ivanhoe-source-9-p20",
+      "title": "Edwina leads the visitor out",
+      "chapter": 9,
+      "activeLayers": [
+        "Rowena’s raised rooms"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "eventId": "ivanhoe-source-9-p21",
+      "title": "The southern cells",
+      "chapter": 9,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "eventId": "ivanhoe-source-9-p27",
+      "title": "A narrow lodging",
+      "chapter": 9,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "eventId": "ivanhoe-source-9-p28",
+      "title": "First light",
+      "chapter": 9,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "eventId": "ivanhoe-source-9-p29",
+      "title": "A troubled sleeper",
+      "chapter": 9,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "eventId": "ivanhoe-source-9-p35",
+      "title": "The overheard order",
+      "chapter": 9,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "eventId": "ivanhoe-source-9-p43",
+      "title": "Gurth awakened",
+      "chapter": 9,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "eventId": "ivanhoe-source-9-p45",
+      "title": "A private word",
+      "chapter": 9,
+      "activeLayers": [
+        "The guest passage"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "eventId": "ivanhoe-source-9-p49",
+      "title": "Outside the postern",
+      "chapter": 9,
+      "activeLayers": [
+        "Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "eventId": "ivanhoe-source-9-p52",
+      "title": "Questions at the wicket",
+      "chapter": 9,
+      "activeLayers": [
+        "Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "eventId": "ivanhoe-source-9-p57",
+      "title": "The narrow bridge",
+      "chapter": 9,
+      "activeLayers": [
+        "Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "eventId": "ivanhoe-source-9-p59",
+      "title": "The servants turn back",
+      "chapter": 9,
+      "activeLayers": [
+        "Rotherwood"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1565,
+          "height": 1005
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "eventId": "ivanhoe-source-9-p62",
+      "title": "The hidden paths",
+      "chapter": 9,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "eventId": "ivanhoe-source-9-p65",
+      "title": "The decayed oak",
+      "chapter": 9,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "eventId": "ivanhoe-source-9-p73",
+      "title": "Above Sheffield",
+      "chapter": 9,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "eventId": "ivanhoe-source-9-p86",
+      "title": "A letter for Leicester",
+      "chapter": 9,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "eventId": "ivanhoe-source-9-p92",
+      "title": "Separate roads",
+      "chapter": 9,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "eventId": "ivanhoe-source-10-p0",
+      "title": "The appointed morning",
+      "chapter": 10,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "eventId": "ivanhoe-source-10-p7",
+      "title": "The field at Ashby",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "eventId": "ivanhoe-source-10-p13",
+      "title": "Order among the spectators",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "eventId": "ivanhoe-source-10-p15",
+      "title": "An insult beneath the gallery",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "eventId": "ivanhoe-source-10-p16",
+      "title": "A place beneath the gallery",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "eventId": "ivanhoe-source-10-p17",
+      "title": "The Prince arrives",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "eventId": "ivanhoe-source-10-p21",
+      "title": "The gallery command",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "eventId": "ivanhoe-source-10-p30",
+      "title": "The severed lance",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "eventId": "ivanhoe-source-10-p38",
+      "title": "Brawn and wooden sword",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "eventId": "ivanhoe-source-10-p49",
+      "title": "A handful of gold",
+      "chapter": 10,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "eventId": "ivanhoe-source-11-p0",
+      "title": "An empty throne",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "eventId": "ivanhoe-source-11-p17",
+      "title": "The laws proclaimed",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "eventId": "ivanhoe-source-11-p24",
+      "title": "The challengers prevail",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "eventId": "ivanhoe-source-11-p32",
+      "title": "An unwilling champion",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "eventId": "ivanhoe-source-11-p40",
+      "title": "The uprooted oak",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "eventId": "ivanhoe-source-11-p47",
+      "title": "A fresh shield",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "eventId": "ivanhoe-source-11-p49",
+      "title": "The first course",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "eventId": "ivanhoe-source-11-p51",
+      "title": "The broken girths",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "eventId": "ivanhoe-source-11-p54",
+      "title": "Swords forbidden",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "eventId": "ivanhoe-source-11-p58",
+      "title": "The black bull",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "eventId": "ivanhoe-source-11-p60",
+      "title": "The loosened helmet",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "eventId": "ivanhoe-source-11-p61",
+      "title": "A courtesy declined",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "eventId": "ivanhoe-source-11-p62",
+      "title": "The day’s award",
+      "chapter": 11,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "eventId": "ivanhoe-source-12-p0",
+      "title": "The closed visor",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "eventId": "ivanhoe-source-12-p5",
+      "title": "Conjectures at the throne",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "eventId": "ivanhoe-source-12-p16",
+      "title": "The prize horse",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "eventId": "ivanhoe-source-12-p20",
+      "title": "The coronet on the lance",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "eventId": "ivanhoe-source-12-p24",
+      "title": "Past Alicia’s gallery",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "eventId": "ivanhoe-source-12-p26",
+      "title": "Beneath Rowena’s balcony",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "eventId": "ivanhoe-source-12-p27",
+      "title": "Anxious spectators recalled",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 101,
+      "eventId": "ivanhoe-source-12-p32",
+      "title": "Rowena chosen",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "eventId": "ivanhoe-source-12-p34",
+      "title": "A slight ill judged",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "eventId": "ivanhoe-source-12-p37",
+      "title": "The prince rides to Rowena",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "eventId": "ivanhoe-source-12-p38",
+      "title": "The invitations declined",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "eventId": "ivanhoe-source-12-p45",
+      "title": "The archer detained",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "eventId": "ivanhoe-source-12-p51",
+      "title": "Evening at the lists",
+      "chapter": 12,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "eventId": "ivanhoe-source-13-p0",
+      "title": "The private attendant",
+      "chapter": 13,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 108,
+      "eventId": "ivanhoe-source-13-p5",
+      "title": "Ransom terms",
+      "chapter": 13,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "eventId": "ivanhoe-source-13-p11",
+      "title": "An unended quarrel",
+      "chapter": 13,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "eventId": "ivanhoe-source-13-p15",
+      "title": "Gurth’s reward",
+      "chapter": 13,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "eventId": "ivanhoe-source-13-p23",
+      "title": "Money for Isaac",
+      "chapter": 13,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 112,
+      "eventId": "ivanhoe-source-13-p29",
+      "title": "A father’s losses",
+      "chapter": 13,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 113,
+      "eventId": "ivanhoe-source-13-p40",
+      "title": "The veiled daughter",
+      "chapter": 13,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 114,
+      "eventId": "ivanhoe-source-13-p48",
+      "title": "Eighty zecchins",
+      "chapter": 13,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "eventId": "ivanhoe-source-13-p60",
+      "title": "The acquittance",
+      "chapter": 13,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 116,
+      "eventId": "ivanhoe-source-13-p64",
+      "title": "Isaac’s satisfaction",
+      "chapter": 13,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 117,
+      "eventId": "ivanhoe-source-13-p65",
+      "title": "An empty place",
+      "chapter": 13,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "eventId": "ivanhoe-source-13-p66",
+      "title": "A summons below",
+      "chapter": 13,
+      "activeLayers": [
+        "The borrowed lodging"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 119,
+      "eventId": "ivanhoe-source-13-p70",
+      "title": "Rebecca’s purse",
+      "chapter": 13,
+      "activeLayers": [
+        "The borrowed lodging"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 120,
+      "eventId": "ivanhoe-source-13-p70-c416",
+      "title": "Reuben lights the way out",
+      "chapter": 13,
+      "activeLayers": [
+        "The borrowed lodging"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 121,
+      "eventId": "ivanhoe-source-13-p71",
+      "title": "A hope of freedom",
+      "chapter": 13,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "eventId": "ivanhoe-source-14-p0",
+      "title": "The dark lane",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 123,
+      "eventId": "ivanhoe-source-14-p5",
+      "title": "Four from the banks",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 124,
+      "eventId": "ivanhoe-source-14-p8",
+      "title": "The masked company",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 125,
+      "eventId": "ivanhoe-source-14-p17",
+      "title": "His master’s gold",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 126,
+      "eventId": "ivanhoe-source-14-p34",
+      "title": "The embroidered purse",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 127,
+      "eventId": "ivanhoe-source-14-p41",
+      "title": "A snatched staff",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "eventId": "ivanhoe-source-14-p46",
+      "title": "The Miller’s match",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 129,
+      "eventId": "ivanhoe-source-14-p55",
+      "title": "Release on terms",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 130,
+      "eventId": "ivanhoe-source-14-p57",
+      "title": "Across the heath",
+      "chapter": 14,
+      "activeLayers": [
+        "Woods outside Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1499,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 131,
+      "eventId": "ivanhoe-source-14-p62",
+      "title": "The evening’s report",
+      "chapter": 14,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 132,
+      "eventId": "ivanhoe-source-14-p64",
+      "title": "Across the tent opening",
+      "chapter": 14,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 133,
+      "eventId": "ivanhoe-source-15-p0",
+      "title": "The second morning",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 134,
+      "eventId": "ivanhoe-source-15-p7",
+      "title": "The chosen sides",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 135,
+      "eventId": "ivanhoe-source-15-p11",
+      "title": "The western throne",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 136,
+      "eventId": "ivanhoe-source-15-p15",
+      "title": "The marshalled ranks",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 137,
+      "eventId": "ivanhoe-source-15-p19",
+      "title": "The general onset",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 138,
+      "eventId": "ivanhoe-source-15-p27",
+      "title": "Three against one",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 139,
+      "eventId": "ivanhoe-source-15-p34",
+      "title": "The Black Sluggard",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 140,
+      "eventId": "ivanhoe-source-15-p35",
+      "title": "Desdichado to the rescue",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 141,
+      "eventId": "ivanhoe-source-15-p35-c721",
+      "title": "The axe turned against its owner",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 142,
+      "eventId": "ivanhoe-source-15-p35-c1088",
+      "title": "Back to the northern end",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 143,
+      "eventId": "ivanhoe-source-15-p35-c1399",
+      "title": "The Templar unhorsed",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 144,
+      "eventId": "ivanhoe-source-15-p35-c1676",
+      "title": "The warder thrown down",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 145,
+      "eventId": "ivanhoe-source-15-p36",
+      "title": "The wounded removed",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 146,
+      "eventId": "ivanhoe-source-15-p39",
+      "title": "An absent victor",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 147,
+      "eventId": "ivanhoe-source-15-p41",
+      "title": "The award confirmed",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 148,
+      "eventId": "ivanhoe-source-15-p43",
+      "title": "Across the field",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 149,
+      "eventId": "ivanhoe-source-15-p44",
+      "title": "A reluctant kneeling",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 150,
+      "eventId": "ivanhoe-source-15-p45",
+      "title": "The helmet removed",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 151,
+      "eventId": "ivanhoe-source-15-p47",
+      "title": "The chaplet",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 152,
+      "eventId": "ivanhoe-source-15-p48",
+      "title": "At her feet",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 153,
+      "eventId": "ivanhoe-source-15-p49",
+      "title": "The wound discovered",
+      "chapter": 15,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 154,
+      "eventId": "ivanhoe-source-16-p0",
+      "title": "The fief of Ivanhoe",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 155,
+      "eventId": "ivanhoe-source-16-p9",
+      "title": "Removed from the field",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 156,
+      "eventId": "ivanhoe-source-16-p13",
+      "title": "A proposed marriage",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 157,
+      "eventId": "ivanhoe-source-16-p18",
+      "title": "The sealed billet",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 158,
+      "eventId": "ivanhoe-source-16-p23",
+      "title": "Richard’s freedom reported",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 159,
+      "eventId": "ivanhoe-source-16-p26",
+      "title": "The games brought forward",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 160,
+      "eventId": "ivanhoe-source-16-p31",
+      "title": "A name demanded",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 161,
+      "eventId": "ivanhoe-source-16-p38",
+      "title": "Locksley’s wager",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 162,
+      "eventId": "ivanhoe-source-16-p44",
+      "title": "Hubert’s first trial",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 163,
+      "eventId": "ivanhoe-source-16-p50",
+      "title": "Allowance for the wind",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 164,
+      "eventId": "ivanhoe-source-16-p57",
+      "title": "The split shaft",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 165,
+      "eventId": "ivanhoe-source-16-p62",
+      "title": "A willow for a mark",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 166,
+      "eventId": "ivanhoe-source-16-p69",
+      "title": "The bowstring changed",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 167,
+      "eventId": "ivanhoe-source-16-p72",
+      "title": "Money before sundown",
+      "chapter": 16,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 168,
+      "eventId": "ivanhoe-source-17-p0",
+      "title": "The castle banquet",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 169,
+      "eventId": "ivanhoe-source-17-p7",
+      "title": "Saxon guests",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 170,
+      "eventId": "ivanhoe-source-17-p12",
+      "title": "An untasted pledge",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 171,
+      "eventId": "ivanhoe-source-17-p19",
+      "title": "A manor held of the crown",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 172,
+      "eventId": "ivanhoe-source-17-p25",
+      "title": "The courtiers’ raillery",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 173,
+      "eventId": "ivanhoe-source-17-p33",
+      "title": "A fragile courtesy",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 174,
+      "eventId": "ivanhoe-source-17-p38",
+      "title": "Richard’s health",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 175,
+      "eventId": "ivanhoe-source-17-p40",
+      "title": "Enough of royal courtesy",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 176,
+      "eventId": "ivanhoe-source-17-p42",
+      "title": "A dispersing company",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 177,
+      "eventId": "ivanhoe-source-17-p49",
+      "title": "The lion’s name",
+      "chapter": 17,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 178,
+      "eventId": "ivanhoe-source-18-p0",
+      "title": "The scattered adherents",
+      "chapter": 18,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 179,
+      "eventId": "ivanhoe-source-18-p6",
+      "title": "Green in the inner hall",
+      "chapter": 18,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 180,
+      "eventId": "ivanhoe-source-18-p12",
+      "title": "A wife by force",
+      "chapter": 18,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 181,
+      "eventId": "ivanhoe-source-18-p20",
+      "title": "The pretended rescue",
+      "chapter": 18,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 182,
+      "eventId": "ivanhoe-source-18-p21",
+      "title": "The Templar’s part",
+      "chapter": 18,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 183,
+      "eventId": "ivanhoe-source-18-p27",
+      "title": "The statesman’s tools",
+      "chapter": 18,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 184,
+      "eventId": "ivanhoe-source-18-p28",
+      "title": "Called from within",
+      "chapter": 18,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 185,
+      "eventId": "ivanhoe-source-19-p0",
+      "title": "North from Ashby",
+      "chapter": 19,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 186,
+      "eventId": "ivanhoe-source-19-p4",
+      "title": "The horse chooses",
+      "chapter": 19,
+      "activeLayers": [
+        "Ashby Castle"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1500,
+          "height": 1049
+        }
+      ]
+    },
+    {
+      "index": 187,
+      "eventId": "ivanhoe-source-19-p8",
+      "title": "A bell in the twilight",
+      "chapter": 19,
+      "activeLayers": [
+        "The hermitage clearing"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 188,
+      "eventId": "ivanhoe-source-19-p12",
+      "title": "A closed door",
+      "chapter": 19,
+      "activeLayers": [
+        "The hermitage clearing"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 189,
+      "eventId": "ivanhoe-source-19-p23",
+      "title": "The door yields",
+      "chapter": 19,
+      "activeLayers": [
+        "The hermitage clearing"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 190,
+      "eventId": "ivanhoe-source-19-p26",
+      "title": "Pease and a corner",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 191,
+      "eventId": "ivanhoe-source-19-p32",
+      "title": "The charger indoors",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 192,
+      "eventId": "ivanhoe-source-19-p34",
+      "title": "Faces uncovered",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 193,
+      "eventId": "ivanhoe-source-19-p40",
+      "title": "Names and remembered bounty",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 194,
+      "eventId": "ivanhoe-source-19-p46",
+      "title": "The hidden pasty",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 195,
+      "eventId": "ivanhoe-source-19-p51",
+      "title": "A host’s assurance",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 196,
+      "eventId": "ivanhoe-source-19-p54",
+      "title": "Two silver-hooped horns",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 197,
+      "eventId": "ivanhoe-source-19-p57",
+      "title": "A dangerous question",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 198,
+      "eventId": "ivanhoe-source-19-p65",
+      "title": "A different weapon",
+      "chapter": 19,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 199,
+      "eventId": "ivanhoe-source-20-p0",
+      "title": "The faulty harp",
+      "chapter": 20,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 200,
+      "eventId": "ivanhoe-source-20-p12",
+      "title": "The Crusader’s Return",
+      "chapter": 20,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 201,
+      "eventId": "ivanhoe-source-20-p24",
+      "title": "Water in the flagon",
+      "chapter": 20,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 202,
+      "eventId": "ivanhoe-source-20-p28",
+      "title": "The Barefooted Friar",
+      "chapter": 20,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 203,
+      "eventId": "ivanhoe-source-20-p44",
+      "title": "Exceptions to the rule",
+      "chapter": 20,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 204,
+      "eventId": "ivanhoe-source-20-p50",
+      "title": "A knock in the revels",
+      "chapter": 20,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 205,
+      "eventId": "ivanhoe-source-21-p0",
+      "title": "An order after the fall",
+      "chapter": 21,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 206,
+      "eventId": "ivanhoe-source-21-p4",
+      "title": "The missing patient",
+      "chapter": 21,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 207,
+      "eventId": "ivanhoe-source-21-p6",
+      "title": "Rowena refuses",
+      "chapter": 21,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 208,
+      "eventId": "ivanhoe-source-21-p12",
+      "title": "The halter",
+      "chapter": 21,
+      "activeLayers": [
+        "Ashby and the tournament meadow"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 209,
+      "eventId": "ivanhoe-source-21-p17",
+      "title": "Saint Withold’s hospitality",
+      "chapter": 21,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 210,
+      "eventId": "ivanhoe-source-21-p18",
+      "title": "A howling omen",
+      "chapter": 21,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 211,
+      "eventId": "ivanhoe-source-21-p24",
+      "title": "The javelin’s wound",
+      "chapter": 21,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 212,
+      "eventId": "ivanhoe-source-21-p25",
+      "title": "Service renounced",
+      "chapter": 21,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 213,
+      "eventId": "ivanhoe-source-21-p32",
+      "title": "A crown imagined",
+      "chapter": 21,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 214,
+      "eventId": "ivanhoe-source-21-p38",
+      "title": "Unwelcome reminders",
+      "chapter": 21,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 215,
+      "eventId": "ivanhoe-source-21-p39",
+      "title": "The noon fountain",
+      "chapter": 21,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 216,
+      "eventId": "ivanhoe-source-22-p0",
+      "title": "The wooded country",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 217,
+      "eventId": "ivanhoe-source-22-p4",
+      "title": "A stranded litter",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 218,
+      "eventId": "ivanhoe-source-22-p8",
+      "title": "Rebecca’s appeal",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 219,
+      "eventId": "ivanhoe-source-22-p15",
+      "title": "The loosened cord",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 220,
+      "eventId": "ivanhoe-source-22-p17",
+      "title": "The brook defile",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 221,
+      "eventId": "ivanhoe-source-22-p18",
+      "title": "The chiefs taken",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 222,
+      "eventId": "ivanhoe-source-22-p20",
+      "title": "Wamba in the thicket",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 223,
+      "eventId": "ivanhoe-source-22-p22",
+      "title": "A familiar voice",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 224,
+      "eventId": "ivanhoe-source-22-p34",
+      "title": "The horn left behind",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 225,
+      "eventId": "ivanhoe-source-22-p39",
+      "title": "Waiting in cover",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 226,
+      "eventId": "ivanhoe-source-22-p41",
+      "title": "More hands needed",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 227,
+      "eventId": "ivanhoe-source-22-p43",
+      "title": "Following through the wood",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 228,
+      "eventId": "ivanhoe-source-22-p45",
+      "title": "A voice remembered",
+      "chapter": 22,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 229,
+      "eventId": "ivanhoe-source-23-p0",
+      "title": "The gathering oak",
+      "chapter": 23,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 230,
+      "eventId": "ivanhoe-source-23-p15",
+      "title": "Singing beyond the door",
+      "chapter": 23,
+      "activeLayers": [
+        "The hermitage clearing"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 231,
+      "eventId": "ivanhoe-source-23-p21",
+      "title": "A hurried devotion",
+      "chapter": 23,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 232,
+      "eventId": "ivanhoe-source-23-p25",
+      "title": "A friend outside",
+      "chapter": 23,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 233,
+      "eventId": "ivanhoe-source-23-p34",
+      "title": "The visitors admitted",
+      "chapter": 23,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 234,
+      "eventId": "ivanhoe-source-23-p44",
+      "title": "From grey to green",
+      "chapter": 23,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 235,
+      "eventId": "ivanhoe-source-23-p49",
+      "title": "A rescue pledged",
+      "chapter": 23,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 236,
+      "eventId": "ivanhoe-source-23-p59",
+      "title": "An ally accepted",
+      "chapter": 23,
+      "activeLayers": [
+        "The hut interior"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 237,
+      "eventId": "ivanhoe-source-23-p61",
+      "title": "The key beneath the threshold",
+      "chapter": 23,
+      "activeLayers": [
+        "The hermitage clearing"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 238,
+      "eventId": "ivanhoe-source-23-p68",
+      "title": "Called to the muster",
+      "chapter": 23,
+      "activeLayers": [
+        "The hermitage clearing"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 239,
+      "eventId": "ivanhoe-source-24-p0",
+      "title": "A night of wrong turnings",
+      "chapter": 24,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 240,
+      "eventId": "ivanhoe-source-24-p4",
+      "title": "Rivals among the captors",
+      "chapter": 24,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 241,
+      "eventId": "ivanhoe-source-24-p24",
+      "title": "The turrets through the trees",
+      "chapter": 24,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 242,
+      "eventId": "ivanhoe-source-24-p28",
+      "title": "Across the drawbridge",
+      "chapter": 24,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 243,
+      "eventId": "ivanhoe-source-24-p29",
+      "title": "The prisoners divided",
+      "chapter": 24,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 244,
+      "eventId": "ivanhoe-source-24-p30",
+      "title": "The older hall",
+      "chapter": 24,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 245,
+      "eventId": "ivanhoe-source-24-p47",
+      "title": "A table brought in",
+      "chapter": 24,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 246,
+      "eventId": "ivanhoe-source-24-p52",
+      "title": "The unseen summons",
+      "chapter": 24,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 247,
+      "eventId": "ivanhoe-source-25-p0",
+      "title": "Below the moat",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 248,
+      "eventId": "ivanhoe-source-25-p7",
+      "title": "The scales",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 249,
+      "eventId": "ivanhoe-source-25-p12",
+      "title": "A thousand pounds",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 250,
+      "eventId": "ivanhoe-source-25-p21",
+      "title": "The heated bars",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 251,
+      "eventId": "ivanhoe-source-25-p27",
+      "title": "The coerced promise",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 252,
+      "eventId": "ivanhoe-source-25-p35",
+      "title": "Who may be freed",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 253,
+      "eventId": "ivanhoe-source-25-p44",
+      "title": "A father’s plea",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 254,
+      "eventId": "ivanhoe-source-25-p49",
+      "title": "Payment refused",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 255,
+      "eventId": "ivanhoe-source-25-p55",
+      "title": "The interrupted cruelty",
+      "chapter": 25,
+      "activeLayers": [
+        "The deep dungeon"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 256,
+      "eventId": "ivanhoe-source-26-p0",
+      "title": "The neglected chamber",
+      "chapter": 26,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 257,
+      "eventId": "ivanhoe-source-26-p4",
+      "title": "A suitor uninvited",
+      "chapter": 26,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 258,
+      "eventId": "ivanhoe-source-26-p15",
+      "title": "No freedom without marriage",
+      "chapter": 26,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 259,
+      "eventId": "ivanhoe-source-26-p19",
+      "title": "A rival within the castle",
+      "chapter": 26,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 260,
+      "eventId": "ivanhoe-source-26-p22",
+      "title": "The patient in the litter",
+      "chapter": 26,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 261,
+      "eventId": "ivanhoe-source-26-p25",
+      "title": "Protection at a price",
+      "chapter": 26,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 262,
+      "eventId": "ivanhoe-source-26-p31",
+      "title": "Tears and the horn",
+      "chapter": 26,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 263,
+      "eventId": "ivanhoe-source-26-p36",
+      "title": "The chroniclers’ testimony",
+      "chapter": 26,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 264,
+      "eventId": "ivanhoe-source-27-p0",
+      "title": "The spinning woman",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 265,
+      "eventId": "ivanhoe-source-27-p6",
+      "title": "Dame Urfried",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 266,
+      "eventId": "ivanhoe-source-27-p8",
+      "title": "A remembered conquest",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 267,
+      "eventId": "ivanhoe-source-27-p18",
+      "title": "No inward bar",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 268,
+      "eventId": "ivanhoe-source-27-p24",
+      "title": "Ornaments offered",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 269,
+      "eventId": "ivanhoe-source-27-p30",
+      "title": "The cross invoked",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 270,
+      "eventId": "ivanhoe-source-27-p38",
+      "title": "A threat answered",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 271,
+      "eventId": "ivanhoe-source-27-p42",
+      "title": "The edge of the parapet",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 272,
+      "eventId": "ivanhoe-source-27-p48",
+      "title": "An embrasure between them",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 273,
+      "eventId": "ivanhoe-source-27-p54",
+      "title": "The name Adelaide",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 274,
+      "eventId": "ivanhoe-source-27-p58",
+      "title": "Ambition and the summons",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 275,
+      "eventId": "ivanhoe-source-27-p61",
+      "title": "The prayer within",
+      "chapter": 27,
+      "activeLayers": [
+        "The isolated turret"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1474,
+          "height": 1067
+        }
+      ]
+    },
+    {
+      "index": 276,
+      "eventId": "ivanhoe-source-28-p0",
+      "title": "The interrupted interviews",
+      "chapter": 28,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 277,
+      "eventId": "ivanhoe-source-28-p10",
+      "title": "A letter inverted",
+      "chapter": 28,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 278,
+      "eventId": "ivanhoe-source-28-p18",
+      "title": "The challenge begun",
+      "chapter": 28,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 279,
+      "eventId": "ivanhoe-source-28-p20",
+      "title": "Marks beneath a challenge",
+      "chapter": 28,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 280,
+      "eventId": "ivanhoe-source-28-p23",
+      "title": "The force beyond the walls",
+      "chapter": 28,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 281,
+      "eventId": "ivanhoe-source-28-p35",
+      "title": "The chaplain’s materials",
+      "chapter": 28,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 282,
+      "eventId": "ivanhoe-source-28-p42",
+      "title": "The written threat",
+      "chapter": 28,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 283,
+      "eventId": "ivanhoe-source-28-p44",
+      "title": "Under the siege oak",
+      "chapter": 28,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 284,
+      "eventId": "ivanhoe-source-28-p50",
+      "title": "The knight translates",
+      "chapter": 28,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 285,
+      "eventId": "ivanhoe-source-28-p56",
+      "title": "A confessor needed",
+      "chapter": 28,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 286,
+      "eventId": "ivanhoe-source-28-p60",
+      "title": "Wamba takes the frock",
+      "chapter": 28,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 287,
+      "eventId": "ivanhoe-source-29-p0",
+      "title": "A brother at the portal",
+      "chapter": 29,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 288,
+      "eventId": "ivanhoe-source-29-p8",
+      "title": "A legion outside",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 289,
+      "eventId": "ivanhoe-source-29-p15",
+      "title": "A useful messenger",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 290,
+      "eventId": "ivanhoe-source-29-p19",
+      "title": "Prepare for death",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 291,
+      "eventId": "ivanhoe-source-29-p28",
+      "title": "The cowl thrown back",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 292,
+      "eventId": "ivanhoe-source-29-p35",
+      "title": "For his own master",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 293,
+      "eventId": "ivanhoe-source-29-p43",
+      "title": "The rescue beyond",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 294,
+      "eventId": "ivanhoe-source-29-p47",
+      "title": "Frock for cloak",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 295,
+      "eventId": "ivanhoe-source-29-p53",
+      "title": "An appeal in the passage",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 296,
+      "eventId": "ivanhoe-source-29-p60",
+      "title": "Urfried intervenes",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 297,
+      "eventId": "ivanhoe-source-29-p64",
+      "title": "To the sickroom",
+      "chapter": 29,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 298,
+      "eventId": "ivanhoe-source-30-p0",
+      "title": "A locked conversation",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 299,
+      "eventId": "ivanhoe-source-30-p9",
+      "title": "Wolfganger’s daughter",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 300,
+      "eventId": "ivanhoe-source-30-p14",
+      "title": "Ulrica named",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 301,
+      "eventId": "ivanhoe-source-30-p19",
+      "title": "The father’s murder",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 302,
+      "eventId": "ivanhoe-source-30-p27",
+      "title": "A red flag promised",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 303,
+      "eventId": "ivanhoe-source-30-p32",
+      "title": "A voice outside",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 304,
+      "eventId": "ivanhoe-source-30-p34",
+      "title": "The Baron at the door",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 305,
+      "eventId": "ivanhoe-source-30-p43",
+      "title": "Toward the postern",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 306,
+      "eventId": "ivanhoe-source-30-p44",
+      "title": "The scroll for Malvoisin",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 307,
+      "eventId": "ivanhoe-source-30-p55",
+      "title": "The byzant flung back",
+      "chapter": 30,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 308,
+      "eventId": "ivanhoe-source-30-p61",
+      "title": "A collar beneath the cap",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 309,
+      "eventId": "ivanhoe-source-30-p67",
+      "title": "The escape discovered",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 310,
+      "eventId": "ivanhoe-source-30-p74",
+      "title": "A jester spared",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 311,
+      "eventId": "ivanhoe-source-30-p81",
+      "title": "The exclusions",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 312,
+      "eventId": "ivanhoe-source-30-p95",
+      "title": "A challenge refused",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 313,
+      "eventId": "ivanhoe-source-30-p101",
+      "title": "The Prior’s messenger",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 314,
+      "eventId": "ivanhoe-source-30-p114",
+      "title": "The walls assigned",
+      "chapter": 30,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 315,
+      "eventId": "ivanhoe-source-30-p127",
+      "title": "Each to his post",
+      "chapter": 30,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 316,
+      "eventId": "ivanhoe-source-31-p0",
+      "title": "The litter offered",
+      "chapter": 31,
+      "activeLayers": [
+        "The lists at Ashby"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1341,
+          "height": 1173
+        }
+      ]
+    },
+    {
+      "index": 317,
+      "eventId": "ivanhoe-source-31-p12",
+      "title": "On the road to Ashby",
+      "chapter": 31,
+      "activeLayers": [
+        "Ashby and the tournament meadow"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1564,
+          "height": 1006
+        }
+      ]
+    },
+    {
+      "index": 318,
+      "eventId": "ivanhoe-source-31-p13",
+      "title": "The wound bound",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 319,
+      "eventId": "ivanhoe-source-31-p15",
+      "title": "The healer’s knowledge",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 320,
+      "eventId": "ivanhoe-source-31-p17",
+      "title": "An onward patient",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 321,
+      "eventId": "ivanhoe-source-31-p19",
+      "title": "The waking knight",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 322,
+      "eventId": "ivanhoe-source-31-p25",
+      "title": "Eight days of patience",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 323,
+      "eventId": "ivanhoe-source-31-p36",
+      "title": "News of the household",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 324,
+      "eventId": "ivanhoe-source-31-p47",
+      "title": "Gold and Gurth",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 325,
+      "eventId": "ivanhoe-source-31-p55",
+      "title": "The sedative",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 326,
+      "eventId": "ivanhoe-source-31-p56",
+      "title": "The hurried journey",
+      "chapter": 31,
+      "activeLayers": [
+        "The patient’s room"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1484,
+          "height": 1060
+        }
+      ]
+    },
+    {
+      "index": 327,
+      "eventId": "ivanhoe-source-31-p58",
+      "title": "The name in the litter",
+      "chapter": 31,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 328,
+      "eventId": "ivanhoe-source-31-p59",
+      "title": "A guarded patient",
+      "chapter": 31,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 329,
+      "eventId": "ivanhoe-source-31-p60",
+      "title": "The guard relieved",
+      "chapter": 31,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 330,
+      "eventId": "ivanhoe-source-32-p0",
+      "title": "A pulse and a question",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 331,
+      "eventId": "ivanhoe-source-32-p8",
+      "title": "Steps to the lattice",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 332,
+      "eventId": "ivanhoe-source-32-p17",
+      "title": "A shield at the window",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 333,
+      "eventId": "ivanhoe-source-32-p29",
+      "title": "The cloud of arrows",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 334,
+      "eventId": "ivanhoe-source-32-p38",
+      "title": "The axe at the breach",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 335,
+      "eventId": "ivanhoe-source-32-p46",
+      "title": "The outwork taken",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 336,
+      "eventId": "ivanhoe-source-32-p54",
+      "title": "The connecting bridge",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 337,
+      "eventId": "ivanhoe-source-32-p55",
+      "title": "The bridge destroyed",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 338,
+      "eventId": "ivanhoe-source-32-p61",
+      "title": "Glory and its price",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 339,
+      "eventId": "ivanhoe-source-32-p69",
+      "title": "A veil turned away",
+      "chapter": 32,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 340,
+      "eventId": "ivanhoe-source-33-p0",
+      "title": "After the first assault",
+      "chapter": 33,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 341,
+      "eventId": "ivanhoe-source-33-p5",
+      "title": "The Baron still lives",
+      "chapter": 33,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 342,
+      "eventId": "ivanhoe-source-33-p10",
+      "title": "No composition",
+      "chapter": 33,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 343,
+      "eventId": "ivanhoe-source-33-p17",
+      "title": "Posts rearranged",
+      "chapter": 33,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 344,
+      "eventId": "ivanhoe-source-33-p18",
+      "title": "The wounded lord",
+      "chapter": 33,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 345,
+      "eventId": "ivanhoe-source-33-p21",
+      "title": "A voice by the bed",
+      "chapter": 33,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 346,
+      "eventId": "ivanhoe-source-33-p31",
+      "title": "Ulrica before him",
+      "chapter": 33,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 347,
+      "eventId": "ivanhoe-source-33-p39",
+      "title": "The fuel below",
+      "chapter": 33,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 348,
+      "eventId": "ivanhoe-source-33-p42",
+      "title": "The locked deathbed",
+      "chapter": 33,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 349,
+      "eventId": "ivanhoe-source-34-p0",
+      "title": "The first plan recalled",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 350,
+      "eventId": "ivanhoe-source-34-p13",
+      "title": "A floating bridge",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 351,
+      "eventId": "ivanhoe-source-34-p20",
+      "title": "Two at the gate",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 352,
+      "eventId": "ivanhoe-source-34-p23",
+      "title": "The red flag seen",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 353,
+      "eventId": "ivanhoe-source-34-p29",
+      "title": "The fire warning",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 354,
+      "eventId": "ivanhoe-source-34-p38",
+      "title": "The vaulted passage",
+      "chapter": 34,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 355,
+      "eventId": "ivanhoe-source-34-p43",
+      "title": "Surrender demanded",
+      "chapter": 34,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 356,
+      "eventId": "ivanhoe-source-34-p45",
+      "title": "The whispered name",
+      "chapter": 34,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 357,
+      "eventId": "ivanhoe-source-34-p52",
+      "title": "A surrendered sword",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 358,
+      "eventId": "ivanhoe-source-34-p53",
+      "title": "Smoke at the lattice",
+      "chapter": 34,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 359,
+      "eventId": "ivanhoe-source-34-p57",
+      "title": "Taken from the chamber",
+      "chapter": 34,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 360,
+      "eventId": "ivanhoe-source-34-p64",
+      "title": "The knight carried out",
+      "chapter": 34,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 361,
+      "eventId": "ivanhoe-source-34-p68",
+      "title": "Rowena found",
+      "chapter": 34,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 362,
+      "eventId": "ivanhoe-source-34-p70",
+      "title": "A clamour in the hall",
+      "chapter": 34,
+      "activeLayers": [
+        "Rooms of Torquilstone"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1503,
+          "height": 1046
+        }
+      ]
+    },
+    {
+      "index": 363,
+      "eventId": "ivanhoe-source-34-p72",
+      "title": "A mistaken rescue",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 364,
+      "eventId": "ivanhoe-source-34-p76",
+      "title": "The mace and the sword",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 365,
+      "eventId": "ivanhoe-source-34-p80",
+      "title": "The Templar’s retreat",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 366,
+      "eventId": "ivanhoe-source-34-p87",
+      "title": "The song above the flames",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 367,
+      "eventId": "ivanhoe-source-34-p92",
+      "title": "The turret falls",
+      "chapter": 34,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 368,
+      "eventId": "ivanhoe-source-35-p0",
+      "title": "The nearer Trysting-tree",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 369,
+      "eventId": "ivanhoe-source-35-p11",
+      "title": "An ally’s share",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 370,
+      "eventId": "ivanhoe-source-35-p12",
+      "title": "No share for Cedric",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 371,
+      "eventId": "ivanhoe-source-35-p17",
+      "title": "A freeman named",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 372,
+      "eventId": "ivanhoe-source-35-p25",
+      "title": "Thanks from horseback",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 373,
+      "eventId": "ivanhoe-source-35-p28",
+      "title": "The captive’s apology",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 374,
+      "eventId": "ivanhoe-source-35-p38",
+      "title": "An invitation and a promise",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 375,
+      "eventId": "ivanhoe-source-35-p46",
+      "title": "The funeral car",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 376,
+      "eventId": "ivanhoe-source-35-p47",
+      "title": "De Bracy released",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 377,
+      "eventId": "ivanhoe-source-35-p53",
+      "title": "Three notes of the horn",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 378,
+      "eventId": "ivanhoe-source-35-p59",
+      "title": "Shares for the living and dead",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 379,
+      "eventId": "ivanhoe-source-35-p63",
+      "title": "A prisoner of the friar",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 380,
+      "eventId": "ivanhoe-source-35-p70",
+      "title": "The blocked cellar",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 381,
+      "eventId": "ivanhoe-source-35-p78",
+      "title": "A blow forestalled",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 382,
+      "eventId": "ivanhoe-source-35-p89",
+      "title": "The returned buffet",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 383,
+      "eventId": "ivanhoe-source-35-p96",
+      "title": "Another captive brought",
+      "chapter": 35,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 384,
+      "eventId": "ivanhoe-source-36-p0",
+      "title": "The Prior’s complaint",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 385,
+      "eventId": "ivanhoe-source-36-p14",
+      "title": "A horn cannot ransom",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 386,
+      "eventId": "ivanhoe-source-36-p24",
+      "title": "Six hundred for Aymer",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 387,
+      "eventId": "ivanhoe-source-36-p39",
+      "title": "Isaac’s assessment",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 388,
+      "eventId": "ivanhoe-source-36-p50",
+      "title": "News of Rebecca",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 389,
+      "eventId": "ivanhoe-source-36-p56",
+      "title": "Money for a ransom",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 390,
+      "eventId": "ivanhoe-source-36-p59",
+      "title": "The Prior’s influence",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 391,
+      "eventId": "ivanhoe-source-36-p62",
+      "title": "A secret beneath an apple tree",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 392,
+      "eventId": "ivanhoe-source-36-p64",
+      "title": "An old acquaintance",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 393,
+      "eventId": "ivanhoe-source-36-p70",
+      "title": "Terms for intercession",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 394,
+      "eventId": "ivanhoe-source-36-p81",
+      "title": "A quill from the flight",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 395,
+      "eventId": "ivanhoe-source-36-p85",
+      "title": "The Prior’s acquittance",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 396,
+      "eventId": "ivanhoe-source-36-p90",
+      "title": "Latin at parting",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 397,
+      "eventId": "ivanhoe-source-36-p99",
+      "title": "The sealed order",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 398,
+      "eventId": "ivanhoe-source-36-p107",
+      "title": "Secrets retained",
+      "chapter": 36,
+      "activeLayers": [
+        "Torquilstone and its approaches"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 399,
+      "eventId": "ivanhoe-source-37-p0",
+      "title": "Uneasy counsel at York",
+      "chapter": 37,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 400,
+      "eventId": "ivanhoe-source-37-p16",
+      "title": "The survivor’s news",
+      "chapter": 37,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 401,
+      "eventId": "ivanhoe-source-37-p22",
+      "title": "News spoken low",
+      "chapter": 37,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 402,
+      "eventId": "ivanhoe-source-37-p30",
+      "title": "A service refused",
+      "chapter": 37,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 403,
+      "eventId": "ivanhoe-source-37-p57",
+      "title": "Fitzurse undertakes the pursuit",
+      "chapter": 37,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 404,
+      "eventId": "ivanhoe-source-37-p65",
+      "title": "Another watcher",
+      "chapter": 37,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 405,
+      "eventId": "ivanhoe-source-38-p0",
+      "title": "Shelter with Nathan",
+      "chapter": 38,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 406,
+      "eventId": "ivanhoe-source-38-p7",
+      "title": "The warning disregarded",
+      "chapter": 38,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 407,
+      "eventId": "ivanhoe-source-38-p16",
+      "title": "An hour to the Preceptory",
+      "chapter": 38,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 408,
+      "eventId": "ivanhoe-source-38-p17",
+      "title": "At the Preceptory gate",
+      "chapter": 38,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 409,
+      "eventId": "ivanhoe-source-38-p19",
+      "title": "The reforming visitor",
+      "chapter": 38,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 410,
+      "eventId": "ivanhoe-source-38-p30",
+      "title": "Isaac admitted",
+      "chapter": 38,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 411,
+      "eventId": "ivanhoe-source-38-p38",
+      "title": "The sealed appeal opened",
+      "chapter": 38,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 412,
+      "eventId": "ivanhoe-source-38-p55",
+      "title": "Charity called sorcery",
+      "chapter": 38,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 413,
+      "eventId": "ivanhoe-source-39-p0",
+      "title": "The Preceptor’s position",
+      "chapter": 39,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 414,
+      "eventId": "ivanhoe-source-39-p6",
+      "title": "The inquiry ordered",
+      "chapter": 39,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 415,
+      "eventId": "ivanhoe-source-39-p23",
+      "title": "Brian warned",
+      "chapter": 39,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 416,
+      "eventId": "ivanhoe-source-39-p41",
+      "title": "Another attempt resolved",
+      "chapter": 39,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 417,
+      "eventId": "ivanhoe-source-39-p42",
+      "title": "Witnesses procured",
+      "chapter": 39,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 418,
+      "eventId": "ivanhoe-source-39-p53",
+      "title": "Summoned from the cell",
+      "chapter": 39,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 419,
+      "eventId": "ivanhoe-source-39-p58",
+      "title": "Down to the hall",
+      "chapter": 39,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 420,
+      "eventId": "ivanhoe-source-39-p59",
+      "title": "The folded scrap",
+      "chapter": 39,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 421,
+      "eventId": "ivanhoe-source-40-p0",
+      "title": "The court assembled",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 422,
+      "eventId": "ivanhoe-source-40-p10",
+      "title": "The accusation supported",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 423,
+      "eventId": "ivanhoe-source-40-p18",
+      "title": "The knight questioned",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 424,
+      "eventId": "ivanhoe-source-40-p24",
+      "title": "A patient’s testimony",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 425,
+      "eventId": "ivanhoe-source-40-p26",
+      "title": "The medicine box",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 426,
+      "eventId": "ivanhoe-source-40-p29",
+      "title": "The witness named",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 427,
+      "eventId": "ivanhoe-source-40-p34",
+      "title": "An unveiled appeal",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 428,
+      "eventId": "ivanhoe-source-40-p39",
+      "title": "False wonders recounted",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 429,
+      "eventId": "ivanhoe-source-40-p44",
+      "title": "An appeal to Brian",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 430,
+      "eventId": "ivanhoe-source-40-p50",
+      "title": "The warning read",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 431,
+      "eventId": "ivanhoe-source-40-p51",
+      "title": "The gage cast down",
+      "chapter": 40,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 432,
+      "eventId": "ivanhoe-source-41-p0",
+      "title": "The offer refused",
+      "chapter": 41,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 433,
+      "eventId": "ivanhoe-source-41-p12",
+      "title": "A champion assigned",
+      "chapter": 41,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 434,
+      "eventId": "ivanhoe-source-41-p25",
+      "title": "The glove concealed",
+      "chapter": 41,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 435,
+      "eventId": "ivanhoe-source-41-p26",
+      "title": "A messenger requested",
+      "chapter": 41,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 436,
+      "eventId": "ivanhoe-source-41-p34",
+      "title": "Higg accepts the errand",
+      "chapter": 41,
+      "activeLayers": [
+        "The great hall and gallery"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 437,
+      "eventId": "ivanhoe-source-41-p38",
+      "title": "Two riders near the gate",
+      "chapter": 41,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 438,
+      "eventId": "ivanhoe-source-41-p40",
+      "title": "The letter reaches Isaac",
+      "chapter": 41,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 439,
+      "eventId": "ivanhoe-source-41-p47",
+      "title": "Rebecca’s appeal spoken",
+      "chapter": 41,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 440,
+      "eventId": "ivanhoe-source-41-p50",
+      "title": "Separate searches",
+      "chapter": 41,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 441,
+      "eventId": "ivanhoe-source-42-p0",
+      "title": "Evening prayer",
+      "chapter": 42,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 442,
+      "eventId": "ivanhoe-source-42-p9",
+      "title": "The unwelcome visitor",
+      "chapter": 42,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 443,
+      "eventId": "ivanhoe-source-42-p29",
+      "title": "The secret warning claimed",
+      "chapter": 42,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 444,
+      "eventId": "ivanhoe-source-42-p35",
+      "title": "The price of refusal",
+      "chapter": 42,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 445,
+      "eventId": "ivanhoe-source-42-p42",
+      "title": "Protection demanded without barter",
+      "chapter": 42,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 446,
+      "eventId": "ivanhoe-source-42-p50",
+      "title": "A farewell without surrender",
+      "chapter": 42,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 447,
+      "eventId": "ivanhoe-source-42-p59",
+      "title": "Albert bars the alternatives",
+      "chapter": 42,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 448,
+      "eventId": "ivanhoe-source-42-p67",
+      "title": "The decision maintained",
+      "chapter": 42,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1470,
+          "height": 1070
+        }
+      ]
+    },
+    {
+      "index": 449,
+      "eventId": "ivanhoe-source-43-p0",
+      "title": "The refuge at Saint Botolph’s",
+      "chapter": 43,
+      "activeLayers": [
+        "Saint Botolph’s Priory"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1448,
+          "height": 1086
+        }
+      ]
+    },
+    {
+      "index": 450,
+      "eventId": "ivanhoe-source-43-p4",
+      "title": "A solitary guide chosen",
+      "chapter": 43,
+      "activeLayers": [
+        "Saint Botolph’s Priory"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1448,
+          "height": 1086
+        }
+      ]
+    },
+    {
+      "index": 451,
+      "eventId": "ivanhoe-source-43-p13",
+      "title": "Malkin offered",
+      "chapter": 43,
+      "activeLayers": [
+        "Saint Botolph’s Priory"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1448,
+          "height": 1086
+        }
+      ]
+    },
+    {
+      "index": 452,
+      "eventId": "ivanhoe-source-43-p25",
+      "title": "The gilded spurs",
+      "chapter": 43,
+      "activeLayers": [
+        "Saint Botolph’s Priory"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1448,
+          "height": 1086
+        }
+      ]
+    },
+    {
+      "index": 453,
+      "eventId": "ivanhoe-source-43-p28",
+      "title": "Down to Malkin",
+      "chapter": 43,
+      "activeLayers": [
+        "Saint Botolph’s Priory"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1448,
+          "height": 1086
+        }
+      ]
+    },
+    {
+      "index": 454,
+      "eventId": "ivanhoe-source-43-p30",
+      "title": "The squire follows",
+      "chapter": 43,
+      "activeLayers": [
+        "Saint Botolph’s Priory"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1448,
+          "height": 1086
+        }
+      ]
+    },
+    {
+      "index": 455,
+      "eventId": "ivanhoe-source-43-p31",
+      "title": "The Prior’s breakfast",
+      "chapter": 43,
+      "activeLayers": [
+        "Saint Botolph’s Priory"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1448,
+          "height": 1086
+        }
+      ]
+    },
+    {
+      "index": 456,
+      "eventId": "ivanhoe-source-43-p32",
+      "title": "Songs on the forest road",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 457,
+      "eventId": "ivanhoe-source-43-p50",
+      "title": "The value of the horn",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 458,
+      "eventId": "ivanhoe-source-43-p80",
+      "title": "Folly keeps the bugle",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 459,
+      "eventId": "ivanhoe-source-43-p92",
+      "title": "Arrows from the thicket",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 460,
+      "eventId": "ivanhoe-source-43-p100",
+      "title": "The rescue call answered",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 461,
+      "eventId": "ivanhoe-source-43-p103",
+      "title": "The blue helmet removed",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 462,
+      "eventId": "ivanhoe-source-43-p107",
+      "title": "A familiar adversary",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 463,
+      "eventId": "ivanhoe-source-43-p111",
+      "title": "A question in private",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 464,
+      "eventId": "ivanhoe-source-43-p116",
+      "title": "Banishment instead of death",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 465,
+      "eventId": "ivanhoe-source-43-p118",
+      "title": "The king’s declaration",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 466,
+      "eventId": "ivanhoe-source-43-p121",
+      "title": "The outlaw’s declaration",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 467,
+      "eventId": "ivanhoe-source-43-p128",
+      "title": "A confession beside the king",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 468,
+      "eventId": "ivanhoe-source-43-p131",
+      "title": "The Clerk’s request",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 469,
+      "eventId": "ivanhoe-source-43-p146",
+      "title": "Two travellers arrive",
+      "chapter": 43,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 470,
+      "eventId": "ivanhoe-source-44-p0",
+      "title": "The disobedient patient",
+      "chapter": 44,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 471,
+      "eventId": "ivanhoe-source-44-p12",
+      "title": "An invitation to refreshment",
+      "chapter": 44,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 472,
+      "eventId": "ivanhoe-source-44-p17",
+      "title": "A revel prolonged",
+      "chapter": 44,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 473,
+      "eventId": "ivanhoe-source-44-p22",
+      "title": "The manufactured alarm",
+      "chapter": 44,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 474,
+      "eventId": "ivanhoe-source-44-p28",
+      "title": "A pardon renewed",
+      "chapter": 44,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 475,
+      "eventId": "ivanhoe-source-44-p34",
+      "title": "The narrator looks ahead",
+      "chapter": 44,
+      "activeLayers": [
+        "Paths of the Don country"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1386,
+          "height": 1135
+        }
+      ]
+    },
+    {
+      "index": 476,
+      "eventId": "ivanhoe-source-44-p36",
+      "title": "Coningsburgh in view",
+      "chapter": 44,
+      "activeLayers": [
+        "Coningsburgh"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1397,
+          "height": 1126
+        }
+      ]
+    },
+    {
+      "index": 477,
+      "eventId": "ivanhoe-source-44-p41",
+      "title": "The crowded court",
+      "chapter": 44,
+      "activeLayers": [
+        "Coningsburgh"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1397,
+          "height": 1126
+        }
+      ]
+    },
+    {
+      "index": 478,
+      "eventId": "ivanhoe-source-45-p0",
+      "title": "The tower’s ascent",
+      "chapter": 45,
+      "activeLayers": [
+        "The keep of Coningsburgh"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1428,
+          "height": 1101
+        }
+      ]
+    },
+    {
+      "index": 479,
+      "eventId": "ivanhoe-source-45-p7",
+      "title": "The guarded bier",
+      "chapter": 45,
+      "activeLayers": [
+        "The keep of Coningsburgh"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1428,
+          "height": 1101
+        }
+      ]
+    },
+    {
+      "index": 480,
+      "eventId": "ivanhoe-source-45-p9",
+      "title": "Edith in mourning",
+      "chapter": 45,
+      "activeLayers": [
+        "The keep of Coningsburgh"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1428,
+          "height": 1101
+        }
+      ]
+    },
+    {
+      "index": 481,
+      "eventId": "ivanhoe-source-45-p13",
+      "title": "The women’s dirge",
+      "chapter": 45,
+      "activeLayers": [],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1408,
+          "height": 1117
+        }
+      ]
+    },
+    {
+      "index": 482,
+      "eventId": "ivanhoe-source-45-p19",
+      "title": "The king names himself",
+      "chapter": 45,
+      "activeLayers": [
+        "The guests’ room detail"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1440,
+          "height": 1092
+        }
+      ]
+    },
+    {
+      "index": 483,
+      "eventId": "ivanhoe-source-45-p34",
+      "title": "Father and son reconciled",
+      "chapter": 45,
+      "activeLayers": [
+        "The guests’ room detail"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1440,
+          "height": 1092
+        }
+      ]
+    },
+    {
+      "index": 484,
+      "eventId": "ivanhoe-source-45-p38",
+      "title": "Athelstane returns",
+      "chapter": 45,
+      "activeLayers": [
+        "The guests’ room detail"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1440,
+          "height": 1092
+        }
+      ]
+    },
+    {
+      "index": 485,
+      "eventId": "ivanhoe-source-45-p44",
+      "title": "The captivity explained",
+      "chapter": 45,
+      "activeLayers": [
+        "The guests’ room detail"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1440,
+          "height": 1092
+        }
+      ]
+    },
+    {
+      "index": 486,
+      "eventId": "ivanhoe-source-45-p51",
+      "title": "The fetter key",
+      "chapter": 45,
+      "activeLayers": [
+        "The guests’ room detail"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1440,
+          "height": 1092
+        }
+      ]
+    },
+    {
+      "index": 487,
+      "eventId": "ivanhoe-source-45-p55",
+      "title": "Ambition renounced",
+      "chapter": 45,
+      "activeLayers": [
+        "The guests’ room detail"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1440,
+          "height": 1092
+        }
+      ]
+    },
+    {
+      "index": 488,
+      "eventId": "ivanhoe-source-45-p69",
+      "title": "An absent bridegroom",
+      "chapter": 45,
+      "activeLayers": [
+        "The guests’ room detail"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1440,
+          "height": 1092
+        }
+      ]
+    },
+    {
+      "index": 489,
+      "eventId": "ivanhoe-source-45-p73",
+      "title": "The king also gone",
+      "chapter": 45,
+      "activeLayers": [
+        "The guests’ room detail"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1440,
+          "height": 1092
+        }
+      ]
+    },
+    {
+      "index": 490,
+      "eventId": "ivanhoe-source-46-p0",
+      "title": "The prepared lists",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 491,
+      "eventId": "ivanhoe-source-46-p8",
+      "title": "A rumour retold",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 492,
+      "eventId": "ivanhoe-source-46-p27",
+      "title": "Drawn aside from the rustics",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 493,
+      "eventId": "ivanhoe-source-46-p28",
+      "title": "The minstrel and the friar",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 494,
+      "eventId": "ivanhoe-source-46-p33",
+      "title": "The bell beyond the walls",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 495,
+      "eventId": "ivanhoe-source-46-p34",
+      "title": "The procession",
+      "chapter": 46,
+      "activeLayers": [
+        "Templestowe"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1422,
+          "height": 1106
+        }
+      ]
+    },
+    {
+      "index": 496,
+      "eventId": "ivanhoe-source-46-p37",
+      "title": "Within the enclosure",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 497,
+      "eventId": "ivanhoe-source-46-p38",
+      "title": "The pledge laid down",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 498,
+      "eventId": "ivanhoe-source-46-p45",
+      "title": "Time allowed",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 499,
+      "eventId": "ivanhoe-source-46-p52",
+      "title": "Zamor offered",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 500,
+      "eventId": "ivanhoe-source-46-p59",
+      "title": "The bridle released",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 501,
+      "eventId": "ivanhoe-source-46-p66",
+      "title": "A champion awaited",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 502,
+      "eventId": "ivanhoe-source-46-p68",
+      "title": "A champion arrives",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 503,
+      "eventId": "ivanhoe-source-46-p71",
+      "title": "The challenger names himself",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 504,
+      "eventId": "ivanhoe-source-46-p73",
+      "title": "The former gage recalled",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 505,
+      "eventId": "ivanhoe-source-46-p79",
+      "title": "The charge",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 506,
+      "eventId": "ivanhoe-source-46-p82",
+      "title": "The fallen champion",
+      "chapter": 46,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 507,
+      "eventId": "ivanhoe-source-47-p0",
+      "title": "The story’s closing epigraph",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 508,
+      "eventId": "ivanhoe-source-47-p3",
+      "title": "Free and guiltless",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 509,
+      "eventId": "ivanhoe-source-47-p5",
+      "title": "The king’s arrest",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 510,
+      "eventId": "ivanhoe-source-47-p14",
+      "title": "The Temple withdraws",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 511,
+      "eventId": "ivanhoe-source-47-p25",
+      "title": "Father and daughter reunited",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 512,
+      "eventId": "ivanhoe-source-47-p34",
+      "title": "Essex explains",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 513,
+      "eventId": "ivanhoe-source-47-p46",
+      "title": "Judgments afterward",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 514,
+      "eventId": "ivanhoe-source-47-p47",
+      "title": "The old dynastic plan",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 515,
+      "eventId": "ivanhoe-source-47-p49",
+      "title": "A punishment short of death",
+      "chapter": 47,
+      "activeLayers": [
+        "The lists of Saint George"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1476,
+          "height": 1065
+        }
+      ]
+    },
+    {
+      "index": 516,
+      "eventId": "ivanhoe-source-47-p50",
+      "title": "Consent at York",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 517,
+      "eventId": "ivanhoe-source-47-p51",
+      "title": "The Minster wedding",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 518,
+      "eventId": "ivanhoe-source-47-p54",
+      "title": "The veiled visitor",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 519,
+      "eventId": "ivanhoe-source-47-p57",
+      "title": "A grateful farewell",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 520,
+      "eventId": "ivanhoe-source-47-p62",
+      "title": "A departure intended",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 521,
+      "eventId": "ivanhoe-source-47-p66",
+      "title": "The bridal veil",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 522,
+      "eventId": "ivanhoe-source-47-p70",
+      "title": "The farewell casket",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 523,
+      "eventId": "ivanhoe-source-47-p71",
+      "title": "The casket opened",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 524,
+      "eventId": "ivanhoe-source-47-p74",
+      "title": "A life of service chosen",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 525,
+      "eventId": "ivanhoe-source-47-p80",
+      "title": "The narrator’s close",
+      "chapter": 47,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 526,
+      "eventId": "ivanhoe-source-48-p0",
+      "title": "NOTE TO CHAPTER I.",
+      "chapter": 48,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 527,
+      "eventId": "ivanhoe-source-49-p0",
+      "title": "NOTE TO CHAPTER II.",
+      "chapter": 49,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 528,
+      "eventId": "ivanhoe-source-50-p0",
+      "title": "NOTE TO CHAPTER XVII.",
+      "chapter": 50,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 529,
+      "eventId": "ivanhoe-source-51-p0",
+      "title": "NOTE TO CHAPTER XXI.",
+      "chapter": 51,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 530,
+      "eventId": "ivanhoe-source-52-p0",
+      "title": "NOTE TO CHAPTER XXII.",
+      "chapter": 52,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 531,
+      "eventId": "ivanhoe-source-53-p0",
+      "title": "NOTE TO CHAPTER XXIX",
+      "chapter": 53,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 532,
+      "eventId": "ivanhoe-source-54-p0",
+      "title": "NOTE TO CHAPTER XXXI",
+      "chapter": 54,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 533,
+      "eventId": "ivanhoe-source-55-p0",
+      "title": "NOTE TO CHAPTER XXXII",
+      "chapter": 55,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 534,
+      "eventId": "ivanhoe-source-56-p0",
+      "title": "NOTE TO CHAPTER XXXIII",
+      "chapter": 56,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 535,
+      "eventId": "ivanhoe-source-57-p0",
+      "title": "NOTE TO CHAPTER XLI.",
+      "chapter": 57,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    },
+    {
+      "index": 536,
+      "eventId": "ivanhoe-source-58-p0",
+      "title": "FOOTNOTES",
+      "chapter": 58,
+      "activeLayers": [
+        "York"
+      ],
+      "visibleImages": [
+        {
+          "complete": true,
+          "width": 1362,
+          "height": 1155
+        }
+      ]
+    }
+  ],
+  "pageErrors": [],
+  "cancelledImageRequests": [],
+  "networkFailures": [],
+  "consoleErrors": []
+}

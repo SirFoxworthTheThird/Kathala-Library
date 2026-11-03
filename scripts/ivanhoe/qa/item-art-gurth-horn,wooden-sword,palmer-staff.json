@@ -1,0 +1,24 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "itemArtChecks": [
+    {
+      "key": "gurth-horn",
+      "eventId": "ivanhoe-source-4-p8",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "wooden-sword",
+      "eventId": "ivanhoe-source-4-p8",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "palmer-staff",
+      "eventId": "ivanhoe-source-7-p0",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

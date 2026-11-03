@@ -1,0 +1,11 @@
+{
+  "status": "EXACT SOURCE RECONSTRUCTION PASSED; separate release approvals recorded",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/82/pg82.txt",
+  "sourceSha256": "188187a4af0956b01ccb0a9f8fb50587ffa4fca0b2d12d8ff5a82fc6f05f15e0",
+  "retainedSha256": "d85e688b2b736a722b1d3d7c25ed62478a881562f564e378fea56575b4ab791a",
+  "normalization": "Remove initial BOM, convert CRLF/CR to LF, remove padding outside retained wrapper contents; no internal text or whitespace changes.",
+  "sourceSections": 58,
+  "narrativeChapters": 44,
+  "words": 195107,
+  "paragraphBlocks": 3138
+}

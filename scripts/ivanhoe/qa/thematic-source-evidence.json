@@ -1,0 +1,386 @@
+{
+  "scope": "Source-led thematic and reading-note compiler evidence; reader presentation approval recorded separately",
+  "evidence": [
+    {
+      "kind": "thread",
+      "key": "service",
+      "references": [
+        "I.12",
+        "II.35",
+        "IV.12",
+        "VI.23",
+        "X.15",
+        "XIX.29",
+        "XXV.65",
+        "XXVI.47",
+        "XXXII.20",
+        "XLIV.51"
+      ],
+      "events": [
+        "ivanhoe-source-4-p12",
+        "ivanhoe-source-5-p35",
+        "ivanhoe-source-7-p12",
+        "ivanhoe-source-9-p21",
+        "ivanhoe-source-13-p15",
+        "ivanhoe-source-22-p22",
+        "ivanhoe-source-28-p60",
+        "ivanhoe-source-29-p47",
+        "ivanhoe-source-35-p17",
+        "ivanhoe-source-47-p51"
+      ]
+    },
+    {
+      "kind": "thread",
+      "key": "ashby",
+      "references": [
+        "VII.3",
+        "VII.17",
+        "VII.30",
+        "VIII.40",
+        "VIII.50",
+        "IX.18",
+        "XII.49",
+        "XIII.38",
+        "XIII.69"
+      ],
+      "events": [
+        "ivanhoe-source-10-p0",
+        "ivanhoe-source-10-p17",
+        "ivanhoe-source-10-p30",
+        "ivanhoe-source-11-p40",
+        "ivanhoe-source-11-p49",
+        "ivanhoe-source-12-p16",
+        "ivanhoe-source-15-p49",
+        "ivanhoe-source-16-p38",
+        "ivanhoe-source-16-p69"
+      ]
+    },
+    {
+      "kind": "thread",
+      "key": "defiance",
+      "references": [
+        "XXV.18",
+        "XXV.42",
+        "XXV.65",
+        "XXVI.47",
+        "XXVII.59",
+        "XXX.31",
+        "XXXI.92"
+      ],
+      "events": [
+        "ivanhoe-source-28-p18",
+        "ivanhoe-source-28-p42",
+        "ivanhoe-source-28-p60",
+        "ivanhoe-source-29-p47",
+        "ivanhoe-source-30-p55",
+        "ivanhoe-source-33-p31",
+        "ivanhoe-source-34-p92"
+      ]
+    },
+    {
+      "kind": "thread",
+      "key": "rebecca",
+      "references": [
+        "XXIV.3",
+        "XXIV.30",
+        "XXXI.80",
+        "XXXIII.50",
+        "XXXV.55",
+        "XXXVI.53",
+        "XXXVII.24",
+        "XXXVII.50",
+        "XXXVII.55",
+        "XXXVIII.35",
+        "XXXIX.29",
+        "XLIII.78",
+        "XLIII.84",
+        "XLIV.74"
+      ],
+      "events": [
+        "ivanhoe-source-27-p0",
+        "ivanhoe-source-27-p30",
+        "ivanhoe-source-34-p80",
+        "ivanhoe-source-36-p50",
+        "ivanhoe-source-38-p55",
+        "ivanhoe-source-39-p53",
+        "ivanhoe-source-40-p24",
+        "ivanhoe-source-40-p50",
+        "ivanhoe-source-40-p51",
+        "ivanhoe-source-41-p34",
+        "ivanhoe-source-42-p29",
+        "ivanhoe-source-46-p73",
+        "ivanhoe-source-46-p82",
+        "ivanhoe-source-47-p74"
+      ]
+    },
+    {
+      "kind": "thread",
+      "key": "king",
+      "references": [
+        "I.4",
+        "XIII.23",
+        "XV.3",
+        "XXXIV.22",
+        "XL.118",
+        "XLIV.25"
+      ],
+      "events": [
+        "ivanhoe-source-4-p0",
+        "ivanhoe-source-16-p23",
+        "ivanhoe-source-18-p0",
+        "ivanhoe-source-37-p22",
+        "ivanhoe-source-43-p118",
+        "ivanhoe-source-47-p25"
+      ]
+    },
+    {
+      "kind": "motif",
+      "key": "language",
+      "references": [
+        "I.4",
+        "I.12",
+        "III.11",
+        "IV.7",
+        "V.20",
+        "VII.30",
+        "XXV.48",
+        "XXVII.14",
+        "XLIV.51"
+      ],
+      "events": [
+        "ivanhoe-source-4-p0",
+        "ivanhoe-source-4-p12",
+        "ivanhoe-source-6-p11",
+        "ivanhoe-source-7-p7",
+        "ivanhoe-source-8-p20",
+        "ivanhoe-source-10-p30",
+        "ivanhoe-source-28-p44",
+        "ivanhoe-source-30-p14",
+        "ivanhoe-source-47-p51"
+      ]
+    },
+    {
+      "kind": "motif",
+      "key": "hospitality",
+      "references": [
+        "II.14",
+        "III.21",
+        "V.0",
+        "V.17",
+        "XVI.12",
+        "XVI.25",
+        "XVI.46",
+        "XVII.12"
+      ],
+      "events": [
+        "ivanhoe-source-5-p14",
+        "ivanhoe-source-6-p21",
+        "ivanhoe-source-8-p0",
+        "ivanhoe-source-8-p17",
+        "ivanhoe-source-19-p12",
+        "ivanhoe-source-19-p23",
+        "ivanhoe-source-19-p46",
+        "ivanhoe-source-20-p12"
+      ]
+    },
+    {
+      "kind": "motif",
+      "key": "pledges",
+      "references": [
+        "II.48",
+        "V.48",
+        "V.54",
+        "X.60",
+        "XII.47",
+        "XIII.69",
+        "XXV.18",
+        "XXXII.56",
+        "XXXV.49",
+        "XXXVII.55",
+        "XLIV.71"
+      ],
+      "events": [
+        "ivanhoe-source-5-p40",
+        "ivanhoe-source-8-p45",
+        "ivanhoe-source-8-p50",
+        "ivanhoe-source-13-p60",
+        "ivanhoe-source-15-p47",
+        "ivanhoe-source-16-p69",
+        "ivanhoe-source-28-p18",
+        "ivanhoe-source-35-p53",
+        "ivanhoe-source-38-p38",
+        "ivanhoe-source-40-p51",
+        "ivanhoe-source-47-p71"
+      ]
+    },
+    {
+      "kind": "motif",
+      "key": "recognition",
+      "references": [
+        "VIII.40",
+        "X.3",
+        "X.15",
+        "XII.49",
+        "XV.6",
+        "XXIV.24",
+        "XXIV.30",
+        "XXV.65",
+        "XXVI.47",
+        "XXXIV.22",
+        "XL.118",
+        "XLIII.73"
+      ],
+      "events": [
+        "ivanhoe-source-11-p40",
+        "ivanhoe-source-13-p0",
+        "ivanhoe-source-13-p15",
+        "ivanhoe-source-15-p49",
+        "ivanhoe-source-18-p6",
+        "ivanhoe-source-27-p24",
+        "ivanhoe-source-27-p30",
+        "ivanhoe-source-28-p60",
+        "ivanhoe-source-29-p47",
+        "ivanhoe-source-37-p22",
+        "ivanhoe-source-43-p118",
+        "ivanhoe-source-46-p73"
+      ]
+    },
+    {
+      "kind": "motif",
+      "key": "medicine",
+      "references": [
+        "XXVIII.15",
+        "XXVIII.17",
+        "XXXV.55",
+        "XXXVII.24",
+        "XXXVII.26",
+        "XXXVII.28",
+        "XXXVII.34",
+        "XLIV.74"
+      ],
+      "events": [
+        "ivanhoe-source-31-p15",
+        "ivanhoe-source-31-p17",
+        "ivanhoe-source-38-p55",
+        "ivanhoe-source-40-p24",
+        "ivanhoe-source-40-p26",
+        "ivanhoe-source-40-p34",
+        "ivanhoe-source-47-p74"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "collars",
+      "reference": "I.10",
+      "strict": false,
+      "event": "ivanhoe-source-4-p8",
+      "linkedEntityIds": [
+        "ivanhoe-character-gurth",
+        "ivanhoe-character-wamba",
+        "ivanhoe-item-gurth-collar",
+        "ivanhoe-item-wamba-collar"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "pledges",
+      "reference": "V.54",
+      "strict": false,
+      "event": "ivanhoe-source-8-p50",
+      "linkedEntityIds": [
+        "ivanhoe-character-palmer",
+        "ivanhoe-character-brian",
+        "ivanhoe-character-aymer",
+        "ivanhoe-character-ambrose",
+        "ivanhoe-item-palmer-reliquary",
+        "ivanhoe-item-brian-chain"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "clothes",
+      "reference": "XXVI.47",
+      "strict": false,
+      "event": "ivanhoe-source-29-p47",
+      "linkedEntityIds": [
+        "ivanhoe-character-wamba",
+        "ivanhoe-character-cedric",
+        "ivanhoe-item-frock",
+        "ivanhoe-item-cowl",
+        "ivanhoe-item-friar-cord",
+        "ivanhoe-item-cedric-cloak",
+        "ivanhoe-item-cedric-girdle"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "warning",
+      "reference": "XXXVII.50",
+      "strict": true,
+      "event": "ivanhoe-source-40-p50",
+      "linkedEntityIds": [
+        "ivanhoe-character-rebecca"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "gage",
+      "reference": "XXXVIII.25",
+      "strict": false,
+      "event": "ivanhoe-source-41-p25",
+      "linkedEntityIds": [
+        "ivanhoe-character-albert",
+        "ivanhoe-character-beaumanoir",
+        "ivanhoe-character-rebecca",
+        "ivanhoe-character-brian"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "author",
+      "reference": "XXXIX.29",
+      "strict": true,
+      "event": "ivanhoe-source-42-p29",
+      "linkedEntityIds": [
+        "ivanhoe-character-rebecca",
+        "ivanhoe-character-brian"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "recognition",
+      "reference": "XXXIV.22",
+      "strict": true,
+      "event": "ivanhoe-source-37-p22",
+      "linkedEntityIds": [
+        "ivanhoe-character-debracy",
+        "ivanhoe-character-john",
+        "ivanhoe-character-richard",
+        "ivanhoe-character-blackknight"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "return",
+      "reference": "XLII.38",
+      "strict": true,
+      "event": "ivanhoe-source-45-p38",
+      "linkedEntityIds": [
+        "ivanhoe-character-athelstane",
+        "ivanhoe-character-cedric"
+      ]
+    },
+    {
+      "kind": "lore",
+      "key": "casket",
+      "reference": "XLIV.71",
+      "strict": true,
+      "event": "ivanhoe-source-47-p71",
+      "linkedEntityIds": [
+        "ivanhoe-character-rebecca",
+        "ivanhoe-character-rowena",
+        "ivanhoe-item-silver-casket"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ulrica-distaff",
+    "originalReview": "Opened original: entire slender wooden distaff with unspun flax tied near the top, no fire, castle, wielder or outcome. Wood finish and fibre type illustrative because XXXI.87 names only the distaff.",
+    "source": "XXXI.87",
+    "prompt": "Square full-bleed mature painterly historical literary OBJECT illustration for Walter Scott's Ivanhoe. Precise tactile detail with oil-and-watercolour textures, restrained twelfth-century material culture. No person, hands, readable text, logo, border or watermark. A single traditional wooden DISTAFF for hand spinning, a long slender brown wooden rod with a compact loose bundle of pale flax fibres tied near its upper end by a plain narrow cord. The whole implement is visible diagonally on dark neutral wool. It is a distaff used to hold unspun fibre, NOT a spinning wheel, spindle with wound thread, broom, torch, spear or magical staff. The source says Ulrica brandishes a distaff but does not specify exact wood or fibre: these are simple illustrative craft details. Do NOT show flame, burning castle, turret, death, wielder or outcome.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-977c1e7a-3357-432a-a233-62370c3de8aa.png"
+  },
+  {
+    "id": "fetter-key",
+    "originalReview": "Opened original: short stout plain iron key on neutral stone, no holder or active escape. Shape illustrative; this is an object reference to the recounted event XLII.54, not a current inventory claim.",
+    "source": "XLII.54 (recounted event)",
+    "prompt": "Square full-bleed mature painterly historical literary OBJECT illustration for Walter Scott's Ivanhoe. Precise tactile detail with oil-and-watercolour textures, restrained twelfth-century material culture. No person, hands, readable text, logo, border or watermark. One small dark iron FETTER KEY isolated on a plain cool grey stone surface. Short stout shaft, tiny plain oval loop bow and simple small bit shaped for a rudimentary iron shackle lock. Hand-forged irregular medieval metalwork, unadorned and distinct from a large door key. Source only names the fetter-key among a sexton's bunch in a recounted escape; exact shape is illustrative. Show one key alone, NO other keys, belt, fetters, released prisoner, chapel, corpse, action or current possessor. Quiet close oblique composition with clear shadow.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-5aa82c5e-7b42-4238-875c-9e0c38ca7df2.png"
+  },
+  {
+    "id": "diamond-necklace",
+    "originalReview": "Opened selected v2: complete diamond carcanet, gold linked mounts and irregular cloudy crystal faces. Rejected v1 had overly modern faceting. Setting, metal, number of stones and design illustrative; source specifies valuable diamond necklace only.",
+    "source": "XLIV.71",
+    "prompt": "Square full-bleed mature painterly historical literary OBJECT illustration for Walter Scott's Ivanhoe. Precise tactile detail with oil-and-watercolour textures, restrained twelfth-century material culture. No person, hands, readable text, logo, border or watermark. A single valuable medieval DIAMOND CARCANET or neck lace resting in an open oval upon muted deep wine wool. A restrained linked precious-metal necklace set with small irregular softly polished uncoloured diamond crystals and modest raised closed-back mounts, period illustrative craftsmanship rather than a modern perfectly brilliant-cut jewellery advertisement. Source specifies diamonds of immense value but no metal, setting or exact design, so keep these choices sober. No earrings, casket, crown, heart pendant, heraldic badge, owner or written appraisal. Full necklace contained within generous margins; soft diffuse daylight, luminous but natural stones.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-9dd50745-ddf5-451e-8611-20ba289f4e8c.png",
+    "selectedVariant": "v2",
+    "editPrompt": "Edit this Ivanhoe jewellery illustration. Preserve the whole composition, gold closed-back settings and connecting metalwork, cloth background and painterly texture. Change ONLY every diamond: remove the modern regular brilliant-cut crown, triangular facet rings and symmetric jeweller-cut tables. Replace each with a small NATURAL OCTAHEDRAL DIAMOND CRYSTAL, irregular slightly cloudy pale transparent stone, rough or gently polished natural flat crystal faces, no modern multi-facet cut. These are medieval stones set in simple mounts, valuable but sober with soft restrained lustre. Keep all stones securely within their existing mounts. No new items, text, logos or people."
+  },
+  {
+    "id": "diamond-earrings",
+    "originalReview": "Opened selected v2: matched pair of ear-jewels with irregular natural crystal faces, restrained mounts and wire loops. Rejected v1 had overly modern brilliant faceting. Metal, shape and settings illustrative; source specifies diamond ear-jewels only.",
+    "source": "XLIV.71",
+    "prompt": "Square full-bleed mature painterly historical literary OBJECT illustration for Walter Scott's Ivanhoe. Precise tactile detail with oil-and-watercolour textures, restrained twelfth-century material culture. No person, hands, readable text, logo, border or watermark. One PAIR of valuable medieval diamond EAR-JEWELS arranged side by side on soft muted indigo cloth, matching each other. Each has a modest fine precious-metal wire loop with a small rounded closed-back setting containing an irregular pale diamond crystal. Subtle softly polished sparkle, no modern precision brilliant-cut stones, long chandelier construction, plastic backings or contemporary jewellery branding. Source specifies ear-jewels of diamonds with the carcanet, not exact design or metal; these are restrained illustrative choices. No necklace, casket, face, owner or other gems. Close overhead balanced composition, two complete ornaments clearly legible.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-5d28ce39-9815-4ab1-b65a-f03cd14aeaf2.png",
+    "selectedVariant": "v2",
+    "editPrompt": "Edit this Ivanhoe jewellery illustration. Preserve the whole composition, gold closed-back settings and connecting metalwork, cloth background and painterly texture. Change ONLY every diamond: remove the modern regular brilliant-cut crown, triangular facet rings and symmetric jeweller-cut tables. Replace each with a small NATURAL OCTAHEDRAL DIAMOND CRYSTAL, irregular slightly cloudy pale transparent stone, rough or gently polished natural flat crystal faces, no modern multi-facet cut. These are medieval stones set in simple mounts, valuable but sober with soft restrained lustre. Keep all stones securely within their existing mounts. No new items, text, logos or people."
+  }
+]

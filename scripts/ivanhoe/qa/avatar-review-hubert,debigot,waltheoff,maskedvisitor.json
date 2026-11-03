@@ -1,0 +1,56 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "hubert",
+    "debigot",
+    "waltheoff",
+    "maskedvisitor"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-debigot",
+      "name": "De Bigot",
+      "eventId": "ivanhoe-source-16-p13",
+      "cursorLabel": "Ch.16 · CHAPTER XIII — A proposed marriage (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-debigot.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-debigot.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-hubert",
+      "name": "Hubert",
+      "eventId": "ivanhoe-source-16-p44",
+      "cursorLabel": "Ch.16 · CHAPTER XIII — Hubert’s first trial (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-hubert.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-hubert.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-waltheoff",
+      "name": "Waltheoff",
+      "eventId": "ivanhoe-source-21-p17",
+      "cursorLabel": "Ch.21 · CHAPTER XVIII — Saint Withold’s hospitality (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-waltheoff.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-waltheoff.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-maskedvisitor",
+      "name": "The muffled visitor",
+      "eventId": "ivanhoe-source-27-p24",
+      "cursorLabel": "Ch.27 · CHAPTER XXIV — Ornaments offered (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-maskedvisitor.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-maskedvisitor.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "harthill-trysting-tree",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "2e6e14a5274c40ad2fa40e0948e43fccd34f7cd172b72bf92e45a3eb9a51b4b9",
+      "compressedSha256": "02a95c371b5334514ac236bfd8daff376d3afd417df716ae4d2c79bea4018bc4",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Broad gathering oak, no loot or people, no close castle; banner and full image clear.",
+      "screenshots": [
+        "qa/place-harthill-trysting-tree.png",
+        "qa/place-harthill-trysting-tree-lightbox.png"
+      ]
+    },
+    {
+      "key": "harthill-tree-edge",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "4eeaff292906511405ec7462059c19166149225761e516ba0c67833d41af5415",
+      "compressedSha256": "34a104fabbfd9f0800544328cc2221fa7be588f6d4fda9b97486e41c83110f41",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Tree edge and forest meadow, no invented nearby castle or bridge; full view readable.",
+      "screenshots": [
+        "qa/place-harthill-tree-edge.png",
+        "qa/place-harthill-tree-edge-lightbox.png"
+      ]
+    },
+    {
+      "key": "harthill-funeral-path",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "0d2f6d667b6df8e4ecf0d53f65b75249a6f61ebf5490d9917be46d9c28e52ee2",
+      "compressedSha256": "e8620cbf249924301c58df5af4d355e70548d3e61a3fbd37f030869fdc04c71d",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty path, no bier or presumed death shown; removed close castle absent, banner and full view clear.",
+      "screenshots": [
+        "qa/place-harthill-funeral-path.png",
+        "qa/place-harthill-funeral-path-lightbox.png"
+      ]
+    },
+    {
+      "key": "harthill-private-tree",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "8833d41759c8e78042aa450d30172486b393e2aa429cabcc0d0979894f6d6487",
+      "compressedSha256": "3664713ee3d1347a1d3116c02abcaa201adbc62c3f4f2fd0535442f2bf7e7685",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Quiet shelter apart from gathering, no bargain participants or close castle; full view clear.",
+      "screenshots": [
+        "qa/place-harthill-private-tree.png",
+        "qa/place-harthill-private-tree-lightbox.png"
+      ]
+    },
+    {
+      "key": "york-castle",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "4350bc1f2c2afbe4edf5dec837aad51a47d7baf36aa04dcf4ddc2a26d2f98614",
+      "compressedSha256": "5ff0b3ecc04dd7a9bc22efe211860cd5b1fb415d14ff9b02fdfc3fdd313168b1",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty castle chamber, no political counsel or returning-king identity depicted; full view readable, masonry illustrative.",
+      "screenshots": [
+        "qa/place-york-castle.png",
+        "qa/place-york-castle-lightbox.png"
+      ]
+    },
+    {
+      "key": "nathan-house",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "7db3b23eb4875555474bc914c580647502ca595f2cc05f74b687063972352806",
+      "compressedSha256": "f3ad81b4f34c51745f79bea0b2a80ac7fe437fc79f512a088c926b246d126038",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Quiet house in unnamed town, no coded religious caricature or sheltering actor; location remains unplaced, full view clear.",
+      "screenshots": [
+        "qa/place-nathan-house.png",
+        "qa/place-nathan-house-lightbox.png"
+      ]
+    }
+  ]
+}

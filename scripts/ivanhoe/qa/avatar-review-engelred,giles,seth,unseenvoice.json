@@ -1,0 +1,56 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "engelred",
+    "giles",
+    "seth",
+    "unseenvoice"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-engelred",
+      "name": "Engelred",
+      "eventId": "ivanhoe-source-28-p35",
+      "cursorLabel": "Ch.28 · CHAPTER XXV — The chaplain’s materials (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-engelred.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-engelred.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-giles",
+      "name": "Giles",
+      "eventId": "ivanhoe-source-30-p95",
+      "cursorLabel": "Ch.30 · CHAPTER XXVII — A challenge refused (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-giles.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-giles.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-seth",
+      "name": "Seth",
+      "eventId": "ivanhoe-source-31-p0",
+      "cursorLabel": "Ch.31 · CHAPTER XXVIII — The litter offered (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-seth.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-seth.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-unseenvoice",
+      "name": "The voice beside the bed",
+      "eventId": "ivanhoe-source-33-p21",
+      "cursorLabel": "Ch.33 · CHAPTER XXX — A voice by the bed (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-unseenvoice.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-unseenvoice.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

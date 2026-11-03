@@ -1,0 +1,90 @@
+{
+  "scope": "Selected five map plans and incomplete source/review fixtures only; not release approval",
+  "checks": [
+    {
+      "path": "scripts/ivanhoe/manuscript-draft.pwk",
+      "sha256": "2d49f2f86f3f85d0cf6fd116841b0ddba3a830cc428a2bdeef8772ff3e30c610",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/authoring-review.pwk",
+      "sha256": "adfa7704d4de36f38958fc267e3d61b6e03071be10aca3b5a13c58c9b39d4ab7",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house.svg",
+      "sha256": "3f7c3693b9b5ad031d442c42a18e6b0cbfc7569021776b134c0bec5d3055fff5",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house.png",
+      "sha256": "1abf980775883bb63782847f7de874380e7c68768b6e5b44eb860cb9b6836875",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-house.webp",
+      "sha256": "2c6d4e926c6e2f07f518e1ba97466b71f808f5419c31219c0a5215173cd92b61",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-upper.svg",
+      "sha256": "ef3931fa283f94be268e57546e6c302b3d917a6e7e37164648b8fdfe7a1b3aee",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-upper.png",
+      "sha256": "f7911f231ff3312c446957f90d3697b5498abc8b3d0de609346a4b544195cfca",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-house-upper.webp",
+      "sha256": "cd938e561765d72e259a1cfc9298f1dc2bd72fe3bc6bffde98d4257f3ee3cf29",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-sickroom.svg",
+      "sha256": "a113646fd4c5e60cca09016f0c297eeca51fb143c2fa6d67ecb701984b93fa76",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-sickroom.png",
+      "sha256": "47890a646e9213413aa3c9f648adf929c67c27ea62d6090a881653e712aea30a",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-house-sickroom.webp",
+      "sha256": "7df49e5f3cccb8098f33d2fd4581060e45983ad8be060a10e700dd4c52df44a7",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-woods.svg",
+      "sha256": "94bdd78ab8a88281602ef5630eb3dda1bbf59350129fcecf10c5ee4c00ba7b3e",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-woods.png",
+      "sha256": "749163bfa3fbc82b5d3835325beebeb17ed703d661405c743e2d6ff21aa3d2bf",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-woods.webp",
+      "sha256": "5db0a48d6341387ed6d86d3e891d6d22b02570207f4db640a5d1b30c28c393a2",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-castle.svg",
+      "sha256": "8c4fc53e1a6a40116cd12c9f0f6283183d20e233d004533ccffeb9f65c8e9010",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-castle.png",
+      "sha256": "d1e49f71f7e8479b4fccfd6f240467e66073fea477cb072d0124b9702e0515ca",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-castle.webp",
+      "sha256": "01a310ba6c59b77bd3d549ade23d2b4365f8d15edf3f4e81b3ca4b1ce861af32",
+      "byteIdentical": true
+    }
+  ]
+}

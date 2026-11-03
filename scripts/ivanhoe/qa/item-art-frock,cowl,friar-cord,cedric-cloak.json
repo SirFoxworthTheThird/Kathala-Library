@@ -1,0 +1,31 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "d8f6342e57ed056af2c7a8c21dd53093f2d0b6f9632d161d559695d8adbed62f",
+  "itemArtChecks": [
+    {
+      "key": "frock",
+      "eventId": "ivanhoe-source-28-p60",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "cowl",
+      "eventId": "ivanhoe-source-28-p60",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "friar-cord",
+      "eventId": "ivanhoe-source-29-p47",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "cedric-cloak",
+      "eventId": "ivanhoe-source-29-p47",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

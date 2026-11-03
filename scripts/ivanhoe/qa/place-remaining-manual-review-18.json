@@ -1,0 +1,18 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "torquilstone-main-postern",
+      "fixtureSha256": "7f58d9bb24d5b1c306124a9640d6140e74cfd8b88e9ea48aa07399d73fb84c41",
+      "originalSha256": "3febee2850c49f26144f7e124f752ffb46ed2ca35ad380003dfb23de244a4fe6",
+      "compressedSha256": "ee646f7970844b95b14684a79da445ed2bcfafb9169751c9d8e92c71ec14057f",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Selected v2 single narrow unrailed plank and modest door, no broad bridge or drawbridge hardware; original, decoded WebP enlargement and banner manually opened. Replaces rejected v1 and its screenshots; XXVII.55 grounding.",
+      "screenshots": [
+        "qa/place-torquilstone-main-postern.png",
+        "qa/place-torquilstone-main-postern-lightbox.png"
+      ]
+    }
+  ]
+}

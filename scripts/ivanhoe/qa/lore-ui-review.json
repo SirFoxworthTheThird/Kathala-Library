@@ -1,0 +1,112 @@
+{
+  "scope": "Five sensitive reading notes checked in actual reader forward/rewind; not full release QA",
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "observations": [
+    {
+      "key": "warning",
+      "phase": "before",
+      "eventId": "ivanhoe-source-40-p44",
+      "visible": false,
+      "screenshot": "qa/lore-warning-before.png"
+    },
+    {
+      "key": "warning",
+      "phase": "reached",
+      "eventId": "ivanhoe-source-40-p50",
+      "visible": true,
+      "screenshot": "qa/lore-warning-reached.png"
+    },
+    {
+      "key": "warning",
+      "phase": "rewound",
+      "eventId": "ivanhoe-source-40-p44",
+      "visible": false,
+      "screenshot": "qa/lore-warning-rewound.png"
+    },
+    {
+      "key": "author",
+      "phase": "before",
+      "eventId": "ivanhoe-source-42-p9",
+      "visible": false,
+      "screenshot": "qa/lore-author-before.png"
+    },
+    {
+      "key": "author",
+      "phase": "reached",
+      "eventId": "ivanhoe-source-42-p29",
+      "visible": true,
+      "screenshot": "qa/lore-author-reached.png"
+    },
+    {
+      "key": "author",
+      "phase": "rewound",
+      "eventId": "ivanhoe-source-42-p9",
+      "visible": false,
+      "screenshot": "qa/lore-author-rewound.png"
+    },
+    {
+      "key": "recognition",
+      "phase": "before",
+      "eventId": "ivanhoe-source-37-p16",
+      "visible": false,
+      "screenshot": "qa/lore-recognition-before.png"
+    },
+    {
+      "key": "recognition",
+      "phase": "reached",
+      "eventId": "ivanhoe-source-37-p22",
+      "visible": true,
+      "screenshot": "qa/lore-recognition-reached.png"
+    },
+    {
+      "key": "recognition",
+      "phase": "rewound",
+      "eventId": "ivanhoe-source-37-p16",
+      "visible": false,
+      "screenshot": "qa/lore-recognition-rewound.png"
+    },
+    {
+      "key": "return",
+      "phase": "before",
+      "eventId": "ivanhoe-source-45-p34",
+      "visible": false,
+      "screenshot": "qa/lore-return-before.png"
+    },
+    {
+      "key": "return",
+      "phase": "reached",
+      "eventId": "ivanhoe-source-45-p38",
+      "visible": true,
+      "screenshot": "qa/lore-return-reached.png"
+    },
+    {
+      "key": "return",
+      "phase": "rewound",
+      "eventId": "ivanhoe-source-45-p34",
+      "visible": false,
+      "screenshot": "qa/lore-return-rewound.png"
+    },
+    {
+      "key": "casket",
+      "phase": "before",
+      "eventId": "ivanhoe-source-47-p70",
+      "visible": false,
+      "screenshot": "qa/lore-casket-before.png"
+    },
+    {
+      "key": "casket",
+      "phase": "reached",
+      "eventId": "ivanhoe-source-47-p71",
+      "visible": true,
+      "screenshot": "qa/lore-casket-reached.png"
+    },
+    {
+      "key": "casket",
+      "phase": "rewound",
+      "eventId": "ivanhoe-source-47-p70",
+      "visible": false,
+      "screenshot": "qa/lore-casket-rewound.png"
+    }
+  ],
+  "pageErrors": []
+}

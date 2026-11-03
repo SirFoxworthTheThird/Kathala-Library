@@ -1,0 +1,63 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "c2d7cfb540726fea130a8e60cf50e2ddf1afaae3c71bf1840d270151f01fee38",
+  "placeArtChecks": [
+    {
+      "key": "forest-path",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "road-to-sunken-cross",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "forest-escape-paths",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "sheffield-overlook",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "west-riding-forest",
+      "mapLayerId": null,
+      "unmapped": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "st-withold-gate",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "woodland-noon-fountain",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "forest-ambush-brook",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

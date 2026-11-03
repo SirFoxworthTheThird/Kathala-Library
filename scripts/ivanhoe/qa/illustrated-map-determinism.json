@@ -1,0 +1,465 @@
+{
+  "scope": "Frozen illustrated inputs and incomplete fixture packaging only; not generative reproducibility or release approval",
+  "checks": [
+    {
+      "path": "scripts/ivanhoe/manuscript-draft.pwk",
+      "sha256": "3f5cdc5db864c0cb0ed68ca9b88be4714e7e15117af0299b333c52ce8e1faa06",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/authoring-review.pwk",
+      "sha256": "c361e2f7d9e9ca54355ca57e2e2d1dd7824c02063da7e251adeae6fb5f5be58d",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/rotherwood-hall-illustrated-v2.png",
+      "sha256": "53849e8abc2d2915dddff0b7047f5637b0a00a0d4a4a2504812fa360efc864c5",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/rotherwood-hall.svg",
+      "sha256": "d584cf0430ed16c8a2f369f2aff032959f4e23a74b199fc51312df109eae6ce1",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/rotherwood-hall.webp",
+      "sha256": "779969a5813e054f9661be5bbbc5f564f7ad4060001e89fd5262a014404770a5",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/rotherwood-guests-illustrated-v2.png",
+      "sha256": "f6fb0133e8438d7323d170ec84d2e32fb798f0f1d96cb9cb630f20c34a3becc2",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/rotherwood-guests.svg",
+      "sha256": "7b75e26b3f0b4315711cbf50718f624c80585e70e2ee3965217a862121d0d527",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/rotherwood-guests.webp",
+      "sha256": "b5f58f6668beb2d074f6931af5d10832499440a55165b77a9689c17f8d7b510b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/rotherwood-illustrated-v3.png",
+      "sha256": "577a884df8b51d90b680e3beb36afa4344b1054bf5231494d839f60a94bd89cf",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/rotherwood.svg",
+      "sha256": "d8c376b7e4e456d1f699315417601a9838efbee279363c966d7682533a765a40",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/rotherwood.webp",
+      "sha256": "931a4cfead87e0821b7c43d3edf6d603a18ddbac95339f403b80f99f5a58bfb5",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/england-illustrated-v2.png",
+      "sha256": "11128f2540f80df86f0d38b2fd51ababc43d97693da7f8cbd935608d9572abfc",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/england.svg",
+      "sha256": "e975adbc7d0b4f859ac5993160da231376f94306741f8a7f03c5f4f4661df117",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/england.webp",
+      "sha256": "976dbb8cf7383d2230b8823aa5ca435a8736f1d9941f739f8d99d21bd7a6eff9",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/rotherwood-rowena-illustrated-v2.png",
+      "sha256": "bc77a783bce2164e8ee8bf354d935f2776f6bb5157780342a6c5cf68de60168b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/rotherwood-rowena.svg",
+      "sha256": "7a444542e790c6da9e7c7795ab153831a345a6ac169674dda77ba0caf63a7ae5",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/rotherwood-rowena.webp",
+      "sha256": "11a0f8dddf60d5d8ebbaf5cb4dd56f0e5e39a5af5116aec3c28b803c84cb769e",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-illustrated-v1.png",
+      "sha256": "6b92d5a7bd9fcebae27d535faff479ca73dc1a6212c1b2758014bdd9353f52e3",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby.svg",
+      "sha256": "d2e307efc380b70b5d5afefa38a827b80dd917525a0a21a840ea859b1cb74ae2",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby.webp",
+      "sha256": "58ef380e04058d9d96d915b2740b793e879abb45a0740919b92d035d456fd607",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-lists-illustrated-v2.png",
+      "sha256": "025108a370a558a829293bd764bf99d99e77ef85c4ebb8911e5eb62a96941606",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-lists.svg",
+      "sha256": "d3b175e6f86bf804e33e1fe2d1c981200599d5160b452484141e6076588fe47a",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-lists.webp",
+      "sha256": "ae994581f5b5d36f23f1811a97d4094801894f92d36b47e7d812c0cffd01024d",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/copmanhurst-illustrated-v2.png",
+      "sha256": "115aa27377c75913d27c24f1e3650a8344353cc63f439dba9e2d43772d98cfa2",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/copmanhurst.svg",
+      "sha256": "af99524765a0926f624e644efd38c3ec4face72b9ef0591eb0fabfaa090ef715",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/copmanhurst.webp",
+      "sha256": "9ef2215e391776e547eb5e6778134f9dc211b68117bc6d49aa49d4eaa9eee3b9",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/copmanhurst-hut-illustrated-v1.png",
+      "sha256": "015e2dd12db96443c2bf16dfe2e0dfd1fe0bb24a50876f9f4847d8f028743672",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/copmanhurst-hut.svg",
+      "sha256": "6b8608e2a4472c4aa210b107e3d425fe1ad905005edaa41e693c1539927fcd20",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/copmanhurst-hut.webp",
+      "sha256": "777df6e6924381001ff285e73aa538561269aa20f5d5f57b9ccae4c7ae5627d6",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-illustrated-v2.png",
+      "sha256": "9960ab1e08e2fcd10bb49e0acf0fdf55ba4d7814dc15674088eee044d9b0688e",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house.svg",
+      "sha256": "3f7c3693b9b5ad031d442c42a18e6b0cbfc7569021776b134c0bec5d3055fff5",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-house.webp",
+      "sha256": "9e2617708b7d6beb81a72d95449662fda1bf8f5fffa93c3a5d15c635998dad89",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-upper-illustrated-v2.png",
+      "sha256": "e9bb3894e0abb4c89a969fef9e6c910671ff4eeae4a2cb5b165a6c76c07e0121",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-upper.svg",
+      "sha256": "ef3931fa283f94be268e57546e6c302b3d917a6e7e37164648b8fdfe7a1b3aee",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-house-upper.webp",
+      "sha256": "6b730bda3c449a63ebe7ed388df20a2cc8b34cb22f5a9ee46a0415c80fb65529",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-sickroom-illustrated-v1.png",
+      "sha256": "a72ba47b505c8cbb653edf00724d9d9cc656223335f6c704ab43a25d074a072a",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-house-sickroom.svg",
+      "sha256": "a113646fd4c5e60cca09016f0c297eeca51fb143c2fa6d67ecb701984b93fa76",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-house-sickroom.webp",
+      "sha256": "9c97865f6d42195922c8d40e5c534b3e4faff051b96e8619fae594ffb45a9794",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-woods-illustrated-v1.png",
+      "sha256": "c885a09750361136c722ac7d63b6cea335c764950e950edef634e95d46379ac0",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-woods.svg",
+      "sha256": "94bdd78ab8a88281602ef5630eb3dda1bbf59350129fcecf10c5ee4c00ba7b3e",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-woods.webp",
+      "sha256": "5571406acf42fbb8ef4ec79b298642a937042f8ce71a784c91b9691f01e9aad4",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-castle-illustrated-v2.png",
+      "sha256": "f63e1898af900e64ce039147fb21c1ca8c6543a60587e424a66becfa2d5b51a5",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/ashby-castle.svg",
+      "sha256": "8c4fc53e1a6a40116cd12c9f0f6283183d20e233d004533ccffeb9f65c8e9010",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/ashby-castle.webp",
+      "sha256": "105172e725d239a2a8033b2b17a9087bcdd8400d0ba0bd334f95371876abe583",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-illustrated-v1.png",
+      "sha256": "1f4b23692c1979509d5d7330c5220a0eba5979e85717f98d9ce7b0237c18e163",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone.svg",
+      "sha256": "b56c3e32239d345835a19b3a54d9cd26b881d586f25d9fd2e4b39cec5b3cbf79",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone.webp",
+      "sha256": "e88cfc89ba6912a74ef983c6aedc2748f7caf867e7c86eaac3ba2fcb8a4503fb",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-interior-illustrated-v2.png",
+      "sha256": "a62938c7b22d0dc494896295a5e2282e3dafe867d682b35d174d736cbcfab570",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-interior.svg",
+      "sha256": "a23d05e3d2837d9f16dac11d951eaaaf2a1e6a448ebd775bbec452e6ea4b19e1",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone-interior.webp",
+      "sha256": "ca5dfa71e202044f3aaa98573088e47ff7ddeeb15a8526fbab371247f7d889b9",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-dungeon-illustrated-v1.png",
+      "sha256": "122169cfb8e65ac0f4a089ad0585f7db2c9ed0e9f35aea6f49c00fbe79ff0767",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-dungeon.svg",
+      "sha256": "e65cf5ed821c081cd189c67cf0014dde4c02a1c2dc771d0d6f3581e5c343e69c",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone-dungeon.webp",
+      "sha256": "6f15ef7e9332c9603fa195a368b1d9276555444f0afb1b8525c7c74702d4e5c9",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-turret-illustrated-v1.png",
+      "sha256": "c58138ff1b1658f55eb9b282449afd2f45c06843e4805cc858e00e2751e4995e",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-turret.svg",
+      "sha256": "38a069c804567581b71a3cd70649a1c17c62f5f239e5d1a5cb3ada945470085a",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone-turret.webp",
+      "sha256": "751e896ad00bbfaaa705ab172bc62368269a1118052432499f1b6984b61bc52b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-postern-defence-illustrated-v1.png",
+      "sha256": "6d6eff64de4d382f27af66bdaa71a3a902c591e21c25c7d5d83e85634458dc67",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-postern-defence.svg",
+      "sha256": "837d5e641378f64897451097316602257e060d9db5793ed9cd9d64b14fac937f",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone-postern-defence.webp",
+      "sha256": "805ecd9b75a72f24a03ca2cd44f0d47b2a695e270e14759bdc8ff9028c9288b9",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-illustrated-v2.png",
+      "sha256": "437d8974f00eee59c53e377753ec463cad6583d7b24a27908f02f4feddaa4105",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe.svg",
+      "sha256": "bf14c75ba9180941562296438aedb475219b13dd95b7bf6d2c5d4c5346df5497",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/templestowe.webp",
+      "sha256": "5e06d73caa1fd8ed47d31cee8f48648621aff8f7904a26672c61104e153f1f63",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-hall-illustrated-v1.png",
+      "sha256": "cf0b46840c9a70412cd37c3799b773d7f06f4dfe7bd7725f5db0c30f2086ba34",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-hall.svg",
+      "sha256": "58f88698743a3449847af5e18c499a8fbb393fc2dea4a3a45011cfb7bc3da75d",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/templestowe-hall.webp",
+      "sha256": "1156b9f226be5ecee75adf1a3abc06254ee1b9889be3ce2e50cba29386841db4",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-rooms-illustrated-v1.png",
+      "sha256": "6571d5149a1c0ff8381f6e9bbbaf13c0cf4b43a3ec7031cc8cbae53d5ebc88bc",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-rooms.svg",
+      "sha256": "c54a3a0cd92f76bd6c8ee0c81f1234e132cded5f9e43b11527c9d7656d230d50",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/templestowe-rooms.webp",
+      "sha256": "5cfc9c2e6637aa43b089ee3eb8b7b53493cfbab2dd93b9a78718034bf8bc6f81",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-lists-illustrated-v1.png",
+      "sha256": "7614429def42461e5bdf9772beb38b2b52dc9873d085834ff007e7500ba0a2af",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/templestowe-lists.svg",
+      "sha256": "748b512aed687004695d4a9e11e27819cac78d5de0be955b9690b5284a4065b9",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/templestowe-lists.webp",
+      "sha256": "908a46e414008d4dcd48aca70bdd9f9a0228e4ef6b59b573d05a706ea7515f64",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/botolph-illustrated-v2.png",
+      "sha256": "16ad59d1b67990487b0acc35ea52a348e3cd29afe4ebec8dada7059af74eff7d",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/botolph.svg",
+      "sha256": "d9b2ec6a762e7f7ab9bf31d6e13d3e90c00ee1309065415e082e06a9800bc03e",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/botolph.webp",
+      "sha256": "404c0335edb6324f91e55ab475af8eef0b5f2022cb023bf2da585e5182fd757b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-illustrated-v1.png",
+      "sha256": "e70f764e1723f78c5c745feb7d1cdb9cad0ce62219839c22c3b5df757d40fc2f",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh.svg",
+      "sha256": "8a349fff4bfdc472a91d4da9485271c0a815e7aa1dd795eb365dbb229a47e902",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/coningsburgh.webp",
+      "sha256": "905799686aca180ec6482eadecf06f0659797023511e57fee5096916f633030b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-keep-illustrated-v2.png",
+      "sha256": "51845387a196fd0972a3c0fb095f583f12fe6bd576118b2a533277c8d055772f",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-keep.svg",
+      "sha256": "18e0cd774883b9922eb3983c3c169256d1d93a48014661f975851b6fbe0887fb",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/coningsburgh-keep.webp",
+      "sha256": "b2d71ec8a61f17cf64b6b0225873b7a5fc093eb3a5854892be6af5fcc8c7a1d6",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-upper-illustrated-v1.png",
+      "sha256": "8881ac48c65092b9201c0ca3a285487505cf808a7e6351cef9c2c1de368752c6",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-upper.svg",
+      "sha256": "308438fd14448801794c97403346586b54fb60625efea7065191afe3efd01681",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/coningsburgh-upper.webp",
+      "sha256": "b424171f4f7aeb54afcf9f08bb96b260e26fa1dffce8d2b98fad370afe42c269",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-guests-illustrated-v1.png",
+      "sha256": "3c4bdc0c86da571502d1fbe9be7e05cce362e07cb5b7b11e3b4ad38ac56a8260",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-guests.svg",
+      "sha256": "216707e702bb3542e2c7daa320d9e1c5d2cb0aa79cb107bab5058eb4c17c4c61",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/coningsburgh-guests.webp",
+      "sha256": "f0f21cf84528546a658ab440b01e9caa132d1f7de42bf9f0a6731857b82a116d",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/york-illustrated-v2.png",
+      "sha256": "adf340cb9b7471335665843bac00de5100255c232ad202d8ded95008bf74fb1b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/york.svg",
+      "sha256": "5699b56f8d69dd9791d33052e73053e88bcde4448b0f01b71a2be0ea5364f75b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/york.webp",
+      "sha256": "c3188f92787eb3e00d469a49f33be6035d0445fe57344ab10871de8f3b06fb05",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/don-woods-illustrated-v2.png",
+      "sha256": "6640ddb20b392f676dfaab757593ac270e10aeb6c94e1ccfb7a2111a41ce2450",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/don-woods.svg",
+      "sha256": "664dba2f96dcdf846c0e02f6c25ee2ca03c5f3321bfdec785cfcc69b4a320431",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/don-woods.webp",
+      "sha256": "c05f62332a0afd4176a25956969dd24d30d2b40f69a31ec31733498b70447a3b",
+      "byteIdentical": true
+    }
+  ]
+}

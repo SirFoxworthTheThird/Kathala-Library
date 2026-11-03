@@ -1,0 +1,300 @@
+{
+  "scope": "All42 remaining named-attribution concordance candidates manually source-classified. One genuine Wamba departure overlap was repaired before regeneration; this is not an exhaustive background presence approval.",
+  "sourceSha256": "188187a4af0956b01ccb0a9f8fb50587ffa4fca0b2d12d8ff5a82fc6f05f15e0",
+  "decisions": [
+    {
+      "source": "2.44",
+      "candidate": "cedric",
+      "classification": "identification, not speech",
+      "reason": "Aymer describes the absent landholder as universally called Cedric the Saxon.",
+      "representedBy": null
+    },
+    {
+      "source": "9.28",
+      "candidate": "isaac",
+      "classification": "recollected speech",
+      "reason": "The narrator looks back to Isaac watching the first course, before the present award.",
+      "representedBy": null
+    },
+    {
+      "source": "9.29",
+      "candidate": "rebecca",
+      "classification": "recollected speech",
+      "reason": "Rebecca answers Isaac during that recalled course, not at a new present-time gathering.",
+      "representedBy": null
+    },
+    {
+      "source": "9.30",
+      "candidate": "isaac",
+      "classification": "recollected speech",
+      "reason": "Isaac’s prayers and equipment calculations are narrated retrospectively.",
+      "representedBy": null
+    },
+    {
+      "source": "10.6",
+      "candidate": "brian",
+      "classification": "legal anaphor, not speech",
+      "reason": "Baldwin offers the equipment of the said Brian; Brian is the absent master.",
+      "representedBy": null
+    },
+    {
+      "source": "20.55",
+      "candidate": "cedric",
+      "classification": "identification in report",
+      "reason": "The woodsman describes a captive called Cedric; Cedric is elsewhere in Torquilstone.",
+      "representedBy": null
+    },
+    {
+      "source": "25.20",
+      "candidate": "cedric",
+      "classification": "legal anaphor in document",
+      "reason": "Brian reads a demand naming the said Cedric; the captive is not composing or speaking it here.",
+      "representedBy": null
+    },
+    {
+      "source": "27.60",
+      "candidate": "john",
+      "classification": "quoted absent speaker",
+      "reason": "Front-de-Boeuf invokes something Prince John said; John is not at the castle.",
+      "representedBy": null
+    },
+    {
+      "source": "28.52",
+      "candidate": "oswald",
+      "classification": "reported speech within recollection",
+      "reason": "Rebecca tells Ivanhoe what Oswald said about Gurth. No new bodily presence or precise location is given to Oswald.",
+      "representedBy": null
+    },
+    {
+      "source": "31.79",
+      "candidate": "wamba",
+      "classification": "narrator recalls prior words",
+      "reason": "Well said Wamba is the narrator’s reference to the earlier bonnet warning, not fresh dialogue from Wamba beside the blow.",
+      "representedBy": null
+    },
+    {
+      "source": "36.28",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "36.30",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "36.36",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "36.38",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "36.45",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "36.49",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "38.25",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "39.62",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "39.70",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "40.112",
+      "candidate": "fitzurse",
+      "classification": "embodied identity already present",
+      "reason": "The captured Blue Knight speaks after being identified as Fitzurse; the embodied Blue Knight record is present.",
+      "representedBy": "blueknight"
+    },
+    {
+      "source": "40.115",
+      "candidate": "fitzurse",
+      "classification": "embodied identity already present",
+      "reason": "The captured Blue Knight speaks after being identified as Fitzurse; the embodied Blue Knight record is present.",
+      "representedBy": "blueknight"
+    },
+    {
+      "source": "40.116",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "40.120",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "40.125",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "40.130",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "40.132",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "40.144",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "41.7",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "41.11",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "41.14",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "41.27",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "41.32",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "42.30",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "42.49",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "42.53",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "43.42",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "43.46",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "43.62",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "43.65",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "43.70",
+      "candidate": "malvoisin",
+      "classification": "distinct person already present",
+      "reason": "This Malvoisin is Albert, the Preceptor, not the earlier tournament knight Sir Malvoisin.",
+      "representedBy": "albert"
+    },
+    {
+      "source": "44.8",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    },
+    {
+      "source": "44.23",
+      "candidate": "richard",
+      "classification": "embodied identity already present",
+      "reason": "The king is represented by the Black Knight’s continuing embodied record after the source identity reveal, rather than a duplicate Richard snapshot.",
+      "representedBy": "blackknight"
+    }
+  ]
+}

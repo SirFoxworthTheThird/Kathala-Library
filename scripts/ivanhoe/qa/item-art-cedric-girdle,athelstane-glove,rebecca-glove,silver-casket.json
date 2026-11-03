@@ -1,0 +1,31 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "397b2ee3295e410604d602495daf0adcb53fe9933925fe2ad5ac156cfd472283",
+  "itemArtChecks": [
+    {
+      "key": "cedric-girdle",
+      "eventId": "ivanhoe-source-29-p47",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "athelstane-glove",
+      "eventId": "ivanhoe-source-30-p95",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rebecca-glove",
+      "eventId": "ivanhoe-source-40-p51",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "silver-casket",
+      "eventId": "ivanhoe-source-47-p70",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

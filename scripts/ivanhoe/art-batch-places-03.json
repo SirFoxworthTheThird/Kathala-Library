@@ -1,0 +1,70 @@
+[
+  {
+    "id": "place-rotherwood-guest-passage",
+    "entity": "place:rotherwood-guest-passage",
+    "source": "VI.21–28",
+    "prompt": "Square full-bleed mature painterly LOCATION plate for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, environmental literary illustration with restrained period materials, not a map or floor plan. No people, animals, writing, watermark, border, royal symbols, battle, outcome or later ruins. Narrow dim timber guest passage in the humble outer wing of Rotherwood. Three small plain latched plank CELL DOORS along one oak-partitioned side, worn earthen floor, low blackened overhead beams, night torchlight softly entering from an unseen end. Doors shut, no view of belongings or sleepers. Source establishes small adjoining sleeping cells divided by oak partitions and an attendant with torch; precise alignment/number of doors visible is an interpretive framing of the three named cells, no stone dungeon bars or prison chains.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-63f84bfa-cf00-4448-9159-6ced7c3c940b.png",
+    "originalReview": "Opened original: three closed oak-partition doors and humble dark passage; no sleeper, named belongings or stone dungeon. Exact door alignment and lit torch placement illustrative."
+  },
+  {
+    "id": "place-rotherwood-guests-gateway",
+    "entity": "place:rotherwood-guests-gateway",
+    "source": "VI.21",
+    "prompt": "Square full-bleed mature painterly LOCATION plate for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, environmental literary illustration with restrained period materials, not a map or floor plan. No people, animals, writing, watermark, border, royal symbols, battle, outcome or later ruins. Exterior doorway of a LOW HUMBLE SLEEPING WING of Rotherwood, rough oak posts and timber boards below an unadorned thatched eave, small square high openings, mud and uneven earth in a quiet narrow household courtyard at night. Close oblique view of a simple open plank door leading into darkness; no cell contents visible. Source puts the low-status cells in an exterior ignoble part of the irregular mansion; exact facade and door arrangement illustrative. No proud gatehouse, stone turret, luxury furnishings or modern lantern.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-228569b7-9add-48a9-8798-5ffaa633c956.png",
+    "originalReview": "Opened original: low humble outer sleeping range, plain doorway into darkness, no exposed room contents. Facade, barrel and moonlight illustrative, not new source facts."
+  },
+  {
+    "id": "place-rotherwood-hall-gateway",
+    "entity": "place:rotherwood-hall-gateway",
+    "source": "III.3–6",
+    "prompt": "Square full-bleed mature painterly LOCATION plate for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, environmental literary illustration with restrained period materials, not a map or floor plan. No people, animals, writing, watermark, border, royal symbols, battle, outcome or later ruins. Close court-side view of the entrance of the LONG LOW HALL at Rotherwood: massive rough oak doorposts, plain broad double doors under a low thatched timber roof, a restrained amber glow through a narrow opening but no distinguishable furniture or named possessions. Smoke faintly escaping near a crude chimney, damp rough earth foreground. Building distinctly long, broad and low rather than a tall church or stone castle. Source gives broad low hall, exposed timber/thatch roof and clumsy hearth vents; exact outside entrance illustrative.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-d2787f0b-5c6b-4eba-aa94-8a549431f92b.png",
+    "originalReview": "Opened original: low long thatched timber hall, plain court entrance and crude smoking vent, no tall stone keep or exposed identity. Exact exterior entry construction illustrative."
+  },
+  {
+    "id": "place-rotherwood-rowena-chamber",
+    "entity": "place:rotherwood-rowena-chamber",
+    "source": "VI.7–8",
+    "prompt": "Square full-bleed mature painterly LOCATION plate for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, environmental literary illustration with restrained period materials, not a map or floor plan. No people, animals, writing, watermark, border, royal symbols, battle, outcome or later ruins. Rowena's EMPTY raised apartment at Rotherwood, rude magnificence: rough timber room covered in embroidered hunting-and-hawking tapestry in muted silks with gold/silver thread, rich tapestry bed enclosed by PURPLE curtains, two upholstered seats one higher with a CARVED IVORY FOOTSTOOL. Exactly FOUR separate SILVER CANDELABRAS each holding one thick wax torch, all four clearly visible, two either side of composition. Flames lean slightly from draught through imperfect walls, a small plain draught screen near one wall. No woman, guest, scene, letter or future wedding. Exact room arrangement and tiny tapestry motifs interpretive; source details retained without monumental stone palace.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-cecef0b0-ec13-4cc1-ae4b-f79972c6af3a.png",
+    "originalReview": "Opened v1 and v2 individually. V1 footstool at bed rejected; v2 places ivory stool before higher left seat. Four silver torch holders, purple curtains, hunting/hawking tapestry and draught screen retained. Exact furniture pattern, floor rugs and layout illustrative.",
+    "selectedVariant": "v2",
+    "editPrompt": "Correct only the placement of the carved IVORY FOOTSTOOL: move it from the foot of the bed to directly in front of the higher upholstered chair on the left, where a seated person's feet would rest. Raise that chair's seat/back modestly above the other chair. Keep all FOUR silver candlesticks, purple-curtained bed, embroidered hunting/hawking tapestries, small draught screen, lighting, room and style. Do not add people or extra furniture. The source assigns the ivory footstool to the higher seat, not the bed."
+  },
+  {
+    "id": "place-rotherwood-postern",
+    "entity": "place:rotherwood-postern",
+    "source": "VI.49–57",
+    "prompt": "Square full-bleed mature painterly LOCATION plate for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, environmental literary illustration with restrained period materials, not a map or floor plan. No people, animals, writing, watermark, border, royal symbols, battle, outcome or later ruins. Close exterior morning view of Rotherwood's VERY NARROW PLAIN WOODEN POSTERN, an unadorned open plank door in rough low timber defence at the inner bank of the ditch. View from immediately beside its jamb outward across a two-plank crossing, distant outer palisade wicket softly out of focus. Emphasize the close heavy oak latch and narrow door opening, unlike the wide main entrance. No mules, people, concealed bag, readable inscription or announced escape. Source establishes narrow postern distinct from main gate; exact fittings illustrative.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-1b2722fa-7a77-474d-9f33-9a94557d03fc.png",
+    "originalReview": "Opened original: narrow timber postern latch view, two-plank crossing and outer wicket, no travellers or baggage. Exact fittings and static door position illustrative, not an event snapshot."
+  },
+  {
+    "id": "place-sunken-cross",
+    "entity": "place:sunken-cross",
+    "source": "II.35; II.52–61",
+    "prompt": "Square full-bleed mature painterly LOCATION plate for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, environmental literary illustration with restrained period materials, not a map or floor plan. No people, animals, writing, watermark, border, royal symbols, battle, outcome or later ruins. A small weathered STONE CROSS sunk into earth, scarcely a CUBIT of it above the ground, at the meeting of FOUR forest paths. Close three-quarter ground view: short worn cruciform stone among moss and roots in centre, four discernible dirt paths radiate into oaks in dark stormy twilight. No inscription, carved face, sleeper, body, horse, lance or traveller. The short cross and four-way junction are explicitly described; exact cross-arm form, scale of clearing and path angles interpretive. Not a tall grave monument or gravestone, no cemetery.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-4587e7b6-d90d-46cc-8b74-30c20f14afad.png",
+    "originalReview": "Opened v1 and v2 individually. V2 clearly adds fourth path behind low cross; v1 ambiguous junction rejected. Small cross and four routes follow II.35; exact cross form and path angles illustrative.",
+    "selectedVariant": "v2",
+    "editPrompt": "Make the FOUR-WAY forest junction unmistakable: keep the small sunken stone cross in its current position and scale, preserve paths toward foreground, left and right, and add a fourth narrow dirt path leading directly away behind the cross through the middle background. Remove just enough of the middle low underbrush for this fourth route to be clearly visible. Keep weather, dark twilight, oak woodland, painterly style, no people, signs, lettering or buildings."
+  },
+  {
+    "id": "place-woodland-brooks",
+    "entity": "place:woodland-brooks",
+    "source": "II.62–63",
+    "prompt": "Square full-bleed mature painterly LOCATION plate for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, environmental literary illustration with restrained period materials, not a map or floor plan. No people, animals, writing, watermark, border, royal symbols, battle, outcome or later ruins. A dark winding route through dense English oak woodland interrupted by a small shallow BROOK and boggy marsh approaches. A narrow strip of firmer earth offers a cautious crossing among tufted rushes and muddy pools. Storm-heavy dusk, wet roots and reflections, near-ground perspective distinct from a broad meadow. No constructed bridge, stepping-stone staircase, signpost, paved road, traveller, horse or house. Source establishes multiple brooks and dangerous marsh approaches on the guided route; exact vegetation and crossing geometry interpretive.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-eeecc087-7618-465e-a41c-ec2ef847b24c.png",
+    "originalReview": "Opened original: marshy woodland brook and narrow firmer crossing, no invented bridge or surveyed road. Source follows II.62–63; exact reeds/roots/composition illustrative."
+  },
+  {
+    "id": "place-front-de-boeuf-boundary-oak",
+    "entity": "place:front-de-boeuf-boundary-oak",
+    "source": "VI.65–68",
+    "prompt": "Square full-bleed mature painterly LOCATION plate for Walter Scott's Ivanhoe, late twelfth-century England, oil and watercolour texture, environmental literary illustration with restrained period materials, not a map or floor plan. No people, animals, writing, watermark, border, royal symbols, battle, outcome or later ruins. A LARGE DECAYED OAK standing beside a fork of devious woodland paths in early summer morning light. Dominant gnarled trunk with hollow split and dead boughs among a few living leaves, tangled roots and quiet earth track beneath, surrounding green woods recede. No territorial fence, heraldic marker, carved inscription, castle, knight, traveller or pursuit. Source explicitly says a large decayed oak marks Front-de-Boeuf's claimed boundary; exact tree shape and fork framing illustrative, no surveyed geography implied.",
+    "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-ad328f16-d38d-43c5-8251-60dc0670a7aa.png",
+    "originalReview": "Opened original: massive decayed hollow oak beside woodland paths, no sign, arms, territorial fence or castle. Decay follows VI.66; tree shape and route geometry illustrative."
+  }
+]

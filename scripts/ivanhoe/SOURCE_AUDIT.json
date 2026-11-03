@@ -1,0 +1,477 @@
+{
+  "status": "EXACT SOURCE RECONSTRUCTION PASSED; separate release approvals recorded",
+  "sourceUrl": "https://www.gutenberg.org/cache/epub/82/pg82.txt",
+  "sourceSha256": "188187a4af0956b01ccb0a9f8fb50587ffa4fca0b2d12d8ff5a82fc6f05f15e0",
+  "retainedSha256": "d85e688b2b736a722b1d3d7c25ed62478a881562f564e378fea56575b4ab791a",
+  "normalization": "Remove initial BOM, convert CRLF/CR to LF, remove padding outside retained wrapper contents; no internal text or whitespace changes.",
+  "sourceSections": 58,
+  "narrativeChapters": 44,
+  "words": 195107,
+  "paragraphBlocks": 3138,
+  "sections": [
+    {
+      "number": 1,
+      "title": "Title, contents and opening epigraph",
+      "kind": "preliminaries",
+      "words": 163,
+      "paragraphBlocks": 10,
+      "sha256": "79f63d2f399ffd0feef6e2eebbadd7e7065c316a12d53b57d6457c42293b72bf"
+    },
+    {
+      "number": 2,
+      "title": "INTRODUCTION TO IVANHOE.",
+      "kind": "front-matter",
+      "words": 3713,
+      "paragraphBlocks": 40,
+      "sha256": "54230c8dd17f644518093255dfe32447a9e6b7906312ed85174f06ce0c027de6"
+    },
+    {
+      "number": 3,
+      "title": "DEDICATORY EPISTLE",
+      "kind": "front-matter",
+      "words": 4272,
+      "paragraphBlocks": 32,
+      "sha256": "80e0588ba54444de1273c6c9572be12f2dc389ba6457a48db030975d854932e2"
+    },
+    {
+      "number": 4,
+      "title": "CHAPTER I",
+      "kind": "narrative",
+      "words": 3568,
+      "paragraphBlocks": 30,
+      "sha256": "00799e8547f85fffbb777ce0cc45a1cea54d399bf5dd24e007c0ce7714b93979"
+    },
+    {
+      "number": 5,
+      "title": "CHAPTER II",
+      "kind": "narrative",
+      "words": 4967,
+      "paragraphBlocks": 71,
+      "sha256": "0f08f0dc96df5df943b266dcdb45c7ca1322fc91017f3f98dfa096dc2c150191"
+    },
+    {
+      "number": 6,
+      "title": "CHAPTER III",
+      "kind": "narrative",
+      "words": 3085,
+      "paragraphBlocks": 32,
+      "sha256": "67e45d86a2333bfdf39d6fbb9128c188e1291cdb5141b0c917952d7b8cc3e8e3"
+    },
+    {
+      "number": 7,
+      "title": "CHAPTER IV",
+      "kind": "narrative",
+      "words": 2946,
+      "paragraphBlocks": 51,
+      "sha256": "913200c5aae3b2e9f16816df8b90311def4dc5194014b4db846851f59743704c"
+    },
+    {
+      "number": 8,
+      "title": "CHAPTER V",
+      "kind": "narrative",
+      "words": 3428,
+      "paragraphBlocks": 64,
+      "sha256": "4e32d7987ca75ff5de1075a11c8e334e33fc0b60c4b74203ec3ac50046c74a57"
+    },
+    {
+      "number": 9,
+      "title": "CHAPTER VI",
+      "kind": "narrative",
+      "words": 5359,
+      "paragraphBlocks": 93,
+      "sha256": "cfdace95a69dcb69a6cddba3c76d6218c7c9923d64789ebe5c95aee1e5c7a391"
+    },
+    {
+      "number": 10,
+      "title": "CHAPTER VII",
+      "kind": "narrative",
+      "words": 4967,
+      "paragraphBlocks": 51,
+      "sha256": "8867f98714f826e5de91030f1946c29749f9594d5c086ff93d73532748b84c04"
+    },
+    {
+      "number": 11,
+      "title": "CHAPTER VIII",
+      "kind": "narrative",
+      "words": 4380,
+      "paragraphBlocks": 64,
+      "sha256": "0f563b3369d1d42478318b28d58b63b666b30d7adecb37fd456ae5562c99c978"
+    },
+    {
+      "number": 12,
+      "title": "CHAPTER IX",
+      "kind": "narrative",
+      "words": 3745,
+      "paragraphBlocks": 56,
+      "sha256": "fa06eda30c8398e53f61a31200c0bce44f57c8161dbdf8475d2e5a298736d395"
+    },
+    {
+      "number": 13,
+      "title": "CHAPTER X",
+      "kind": "narrative",
+      "words": 3922,
+      "paragraphBlocks": 72,
+      "sha256": "017b5eb5cdb8dd7aefb75b43fca6db86665f41504d33a0ba2ef06f018b91dc16"
+    },
+    {
+      "number": 14,
+      "title": "CHAPTER XI",
+      "kind": "narrative",
+      "words": 2967,
+      "paragraphBlocks": 65,
+      "sha256": "37e8b48cb2f3a0f3bafa78d1d08c6ed88fde88bc49aa9ddf668f7576969862bb"
+    },
+    {
+      "number": 15,
+      "title": "CHAPTER XII",
+      "kind": "narrative",
+      "words": 4584,
+      "paragraphBlocks": 50,
+      "sha256": "0f5a56adc2ac65a7f065c787e7c866fd5d791f0f64d2584c985fc64e0db99672"
+    },
+    {
+      "number": 16,
+      "title": "CHAPTER XIII",
+      "kind": "narrative",
+      "words": 3623,
+      "paragraphBlocks": 74,
+      "sha256": "4d6308d362056a02e3a8c110d8239a5c6ca851a6debffb511725896500f31987"
+    },
+    {
+      "number": 17,
+      "title": "CHAPTER XIV",
+      "kind": "narrative",
+      "words": 3439,
+      "paragraphBlocks": 53,
+      "sha256": "51681e360198c6a58e84250796706acfe694372ab1e92a851e70651f89e5ad43"
+    },
+    {
+      "number": 18,
+      "title": "CHAPTER XV",
+      "kind": "narrative",
+      "words": 2221,
+      "paragraphBlocks": 29,
+      "sha256": "0a398a3dc54f9fcb59883df6cf0c5bfb6667a0537d7d7ffe51713619368d4952"
+    },
+    {
+      "number": 19,
+      "title": "CHAPTER XVI",
+      "kind": "narrative",
+      "words": 4801,
+      "paragraphBlocks": 68,
+      "sha256": "b2f13c3b7e53fe24c7661c592e22332e187fa22d92d5029df173f78fc2bd1fac"
+    },
+    {
+      "number": 20,
+      "title": "CHAPTER XVII",
+      "kind": "narrative",
+      "words": 1631,
+      "paragraphBlocks": 52,
+      "sha256": "763d9498de49222b91e75f4bb2588a4a349be0f2a5514cad7a5545df70a7e04c"
+    },
+    {
+      "number": 21,
+      "title": "CHAPTER XVIII",
+      "kind": "narrative",
+      "words": 3193,
+      "paragraphBlocks": 40,
+      "sha256": "89d906a71538e131118f44e9d1a4e6a74aeb7a44f7582c5e241ab3655b0258ef"
+    },
+    {
+      "number": 22,
+      "title": "CHAPTER XIX",
+      "kind": "narrative",
+      "words": 2886,
+      "paragraphBlocks": 49,
+      "sha256": "a18c3fa3d433710108d60c85b367d5e34616895a6f021d29db8cc9965b5c09cb"
+    },
+    {
+      "number": 23,
+      "title": "CHAPTER XX",
+      "kind": "narrative",
+      "words": 2684,
+      "paragraphBlocks": 76,
+      "sha256": "0f8fc88434f7804b175808e17fbcddda7f261ecca21af483685c34e26bbc16f6"
+    },
+    {
+      "number": 24,
+      "title": "CHAPTER XXI",
+      "kind": "narrative",
+      "words": 3406,
+      "paragraphBlocks": 53,
+      "sha256": "ad9744704980d0fe31109e532417eeb7d7ddbc50fd536d55aa1b7f002380351e"
+    },
+    {
+      "number": 25,
+      "title": "CHAPTER XXII",
+      "kind": "narrative",
+      "words": 3617,
+      "paragraphBlocks": 57,
+      "sha256": "4b32d007910501e7ce08a7c545f08276e189e5207bc8f5b3f265e1c28b8cadf0"
+    },
+    {
+      "number": 26,
+      "title": "CHAPTER XXIII",
+      "kind": "narrative",
+      "words": 3137,
+      "paragraphBlocks": 40,
+      "sha256": "ce9cebee7b22ee09e246913af0eb09503c829de4b4c46534bf912d2a701b31e0"
+    },
+    {
+      "number": 27,
+      "title": "CHAPTER XXIV",
+      "kind": "narrative",
+      "words": 4557,
+      "paragraphBlocks": 62,
+      "sha256": "5bc2ca79e140b3c87a1f0d6ac77afb228d35ce23dfb7625cbc2a80dbac7c6db2"
+    },
+    {
+      "number": 28,
+      "title": "CHAPTER XXV",
+      "kind": "narrative",
+      "words": 3133,
+      "paragraphBlocks": 67,
+      "sha256": "e1302caca4a1fc6adcce274bc150a716bd28c6acd52249a42e74386d635f77df"
+    },
+    {
+      "number": 29,
+      "title": "CHAPTER XXVI",
+      "kind": "narrative",
+      "words": 2575,
+      "paragraphBlocks": 65,
+      "sha256": "08af67a1323f441b07eeaee2a35639d381166f05de2cf63c7e3a279825e04b88"
+    },
+    {
+      "number": 30,
+      "title": "CHAPTER XXVII",
+      "kind": "narrative",
+      "words": 6932,
+      "paragraphBlocks": 128,
+      "sha256": "d11650219382e9ffd2bd45aea09c998f1309223bc912d83d5187076691b5b9df"
+    },
+    {
+      "number": 31,
+      "title": "CHAPTER XXVIII",
+      "kind": "narrative",
+      "words": 5210,
+      "paragraphBlocks": 64,
+      "sha256": "c035c85593f6a94b5d6a62a06fcd47d8f532b551487fdcd3c06bd8be7c3b5116"
+    },
+    {
+      "number": 32,
+      "title": "CHAPTER XXIX",
+      "kind": "narrative",
+      "words": 4322,
+      "paragraphBlocks": 73,
+      "sha256": "3d133f136736341b4ff6a003968266517821e9426bb8e334f2dd44006be974d2"
+    },
+    {
+      "number": 33,
+      "title": "CHAPTER XXX",
+      "kind": "narrative",
+      "words": 3569,
+      "paragraphBlocks": 44,
+      "sha256": "56786577d42beeed0802ade4d13e6f15992c41144d2c0cfc8f56f5b716845846"
+    },
+    {
+      "number": 34,
+      "title": "CHAPTER XXXI",
+      "kind": "narrative",
+      "words": 5365,
+      "paragraphBlocks": 93,
+      "sha256": "0ca2be8ad196c4e9f55135885c317a6434302dfec30689941ce9b833adc97b2b"
+    },
+    {
+      "number": 35,
+      "title": "CHAPTER XXXII.",
+      "kind": "narrative",
+      "words": 5447,
+      "paragraphBlocks": 99,
+      "sha256": "a05ec67d452d89e231abb45ce91cb474a2f74822c61f1967979511e41650c91a"
+    },
+    {
+      "number": 36,
+      "title": "CHAPTER XXXIII",
+      "kind": "narrative",
+      "words": 5144,
+      "paragraphBlocks": 114,
+      "sha256": "ba7b8a9e325ae1f728330eeb0a3ffa65b81d192a3e3a66b6c5772f3fa82e446a"
+    },
+    {
+      "number": 37,
+      "title": "CHAPTER XXXIV",
+      "kind": "narrative",
+      "words": 3295,
+      "paragraphBlocks": 79,
+      "sha256": "aae322c17542c2e79e4ea5f5b04400cda27ae4f2187d0c4eb23b3db1abcb8936"
+    },
+    {
+      "number": 38,
+      "title": "CHAPTER XXXV",
+      "kind": "narrative",
+      "words": 4973,
+      "paragraphBlocks": 66,
+      "sha256": "19e0b83359d7c0ee03272a7e3123e114c0f3a13e33fae48b625c391a7630c8cf"
+    },
+    {
+      "number": 39,
+      "title": "CHAPTER XXXVI",
+      "kind": "narrative",
+      "words": 3190,
+      "paragraphBlocks": 60,
+      "sha256": "33f52b852e19b76a8b4e7b4fb8c9721218c2e3d1a8f418d872a2d32bc2f11948"
+    },
+    {
+      "number": 40,
+      "title": "CHAPTER XXXVII",
+      "kind": "narrative",
+      "words": 5188,
+      "paragraphBlocks": 56,
+      "sha256": "2e4c9827f22a148058b2c28134a00d0877cced057ebbfe0c4dcad3b5302267c4"
+    },
+    {
+      "number": 41,
+      "title": "CHAPTER XXXVIII",
+      "kind": "narrative",
+      "words": 3554,
+      "paragraphBlocks": 57,
+      "sha256": "c25d7429bf9de1d1a936336f8f2c7456ed2befbe64992b2a171f59f6fd197f37"
+    },
+    {
+      "number": 42,
+      "title": "CHAPTER XXXIX",
+      "kind": "narrative",
+      "words": 4902,
+      "paragraphBlocks": 73,
+      "sha256": "b50fb58ebbe583ebcdd373e10a9f7b61e7f25a8779ce42b0fdc79ded4df500c7"
+    },
+    {
+      "number": 43,
+      "title": "CHAPTER XL",
+      "kind": "narrative",
+      "words": 6809,
+      "paragraphBlocks": 147,
+      "sha256": "2a997ae7fcda9289c1e1fe29dd222c81b1d954408bb7a640b42697efbacda24d"
+    },
+    {
+      "number": 44,
+      "title": "CHAPTER XLI",
+      "kind": "narrative",
+      "words": 3527,
+      "paragraphBlocks": 45,
+      "sha256": "32d771fb1178e34e56787f288642520847417e3f7e7106448a97509865aa9162"
+    },
+    {
+      "number": 45,
+      "title": "CHAPTER XLII",
+      "kind": "narrative",
+      "words": 5214,
+      "paragraphBlocks": 76,
+      "sha256": "781cdc20a581d22bc42eef94f0b2c25be770bad2c257dc9112cde6a1d1b35582"
+    },
+    {
+      "number": 46,
+      "title": "CHAPTER XLIII",
+      "kind": "narrative",
+      "words": 4647,
+      "paragraphBlocks": 86,
+      "sha256": "7381c1caa8e51f09d48d87edec7f78035f8eac95f9e59f52da69d94db4e157b0"
+    },
+    {
+      "number": 47,
+      "title": "CHAPTER XLIV",
+      "kind": "narrative",
+      "words": 4409,
+      "paragraphBlocks": 83,
+      "sha256": "05088acdc4a28e7f1b1f006e24a0563f1916e4f554ae280c31c2c33a66d724ee"
+    },
+    {
+      "number": 48,
+      "title": "NOTE TO CHAPTER I.",
+      "kind": "notes",
+      "words": 275,
+      "paragraphBlocks": 5,
+      "sha256": "349f2148c753cf1f7f9a4198c26de9a6c9cf48af5e43cc1f5cfa3cbf24be68cc"
+    },
+    {
+      "number": 49,
+      "title": "NOTE TO CHAPTER II.",
+      "kind": "notes",
+      "words": 361,
+      "paragraphBlocks": 5,
+      "sha256": "b374c496af71445b209f289b9d0e540fa03d33aa78872d1d55cae2ea2a64974a"
+    },
+    {
+      "number": 50,
+      "title": "NOTE TO CHAPTER XVII.",
+      "kind": "notes",
+      "words": 152,
+      "paragraphBlocks": 3,
+      "sha256": "26279c8ccb4fc5894142f8889a1c51bc8a30fdc75709c20034715357fd062943"
+    },
+    {
+      "number": 51,
+      "title": "NOTE TO CHAPTER XXI.",
+      "kind": "notes",
+      "words": 330,
+      "paragraphBlocks": 4,
+      "sha256": "b81379a56cd9bc30521e5764fe6f51195e5f4e3ba0cd449db99d21a100987eca"
+    },
+    {
+      "number": 52,
+      "title": "NOTE TO CHAPTER XXII.",
+      "kind": "notes",
+      "words": 2606,
+      "paragraphBlocks": 18,
+      "sha256": "6ffe7119225d53715d83c0ba2c03b5f150018a341193245538c0a6803bf441ed"
+    },
+    {
+      "number": 53,
+      "title": "NOTE TO CHAPTER XXIX",
+      "kind": "notes",
+      "words": 296,
+      "paragraphBlocks": 5,
+      "sha256": "b8f6c811e38df98d9f5b2b7e4329b5570b62c1f393b61f07efbb87c962b39005"
+    },
+    {
+      "number": 54,
+      "title": "NOTE TO CHAPTER XXXI",
+      "kind": "notes",
+      "words": 103,
+      "paragraphBlocks": 5,
+      "sha256": "40672a16535416e3256820e3fd6c14301f6f6af2c03a78f2e9fe4357f41a77c1"
+    },
+    {
+      "number": 55,
+      "title": "NOTE TO CHAPTER XXXII",
+      "kind": "notes",
+      "words": 157,
+      "paragraphBlocks": 3,
+      "sha256": "630f9d79b4637e3133cf1b5b8feb96a16ae7ced1451ecb3d7924a223c3df88b6"
+    },
+    {
+      "number": 56,
+      "title": "NOTE TO CHAPTER XXXIII",
+      "kind": "notes",
+      "words": 220,
+      "paragraphBlocks": 4,
+      "sha256": "346e3ae6312beddaaa4aa48766716c422707f95c7ce0703b5b8bf50799113068"
+    },
+    {
+      "number": 57,
+      "title": "NOTE TO CHAPTER XLI.",
+      "kind": "notes",
+      "words": 2028,
+      "paragraphBlocks": 13,
+      "sha256": "31e37a0556c36bbd66b0c7e1875afb998774680bbb315bab31f030dae2c01eb5"
+    },
+    {
+      "number": 58,
+      "title": "FOOTNOTES",
+      "kind": "notes",
+      "words": 1913,
+      "paragraphBlocks": 64,
+      "sha256": "2ac04bf546746b8743e6426d7199f897b55355829bbcd0ca2fc3fc361d06791e"
+    }
+  ]
+}

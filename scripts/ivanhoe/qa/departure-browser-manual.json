@@ -1,0 +1,99 @@
+{
+  "scope": "Manual review of 21 actual departure-state screenshots; historical alias presentation checked after companion fix. Final artifact approval remains separate.",
+  "fixtureSha256": "9344aae10fc8b00861d9b865ef779bbbcb9d4ad6c19c7d58a2914125e990ebf6",
+  "reviewed": 21,
+  "checks": [
+    "Roadside parting shows both scholars Unknown, Higg remains separately recorded.",
+    "Oratory visitors have unknown endpoints before the upstairs arrival.",
+    "Master signals at eastern tribunal, herald has unknown side position.",
+    "Retiring Master leaves the ground; father and daughter actually reach Nathan house.",
+    "Four reported departures clear location without invented presence and restore last source state on rewind.",
+    "Historical alias pane names the source moment and labels recorded location/status/inventory."
+  ],
+  "screenshots": [
+    {
+      "path": "qa/departure-38-50-isaac.png",
+      "sha256": "6d8dcf375244a74652e61135bfc87a18f0fe1de746f08d62c182473526c79360"
+    },
+    {
+      "path": "qa/departure-38-50-bensamuel.png",
+      "sha256": "b807df1f4d42ec11cdc54c29475754d08079b330a72b4191b339f18e449888aa"
+    },
+    {
+      "path": "qa/departure-42-9-blackknight.png",
+      "sha256": "1353318a411168cf7aab4c31521cf03a760dc8e878a02ce476a325bc98506867"
+    },
+    {
+      "path": "qa/departure-42-9-ivanhoe.png",
+      "sha256": "6a1d1a2a14c951c08dd4922c0fee9580dd8e2d53fba9ae8084f8f06cd3e6e6bd"
+    },
+    {
+      "path": "qa/departure-43-79-beaumanoir.png",
+      "sha256": "34c9518783e1850eb011c9169e552b4a095d034bbaf505f34738a2ea8af9a464"
+    },
+    {
+      "path": "qa/departure-43-79-herald.png",
+      "sha256": "d569cb43a4aaf9e56e9305a0f4a00cabc337047f3d903037cbaa3294d721818c"
+    },
+    {
+      "path": "qa/departure-44-14-beaumanoir.png",
+      "sha256": "2513760b24842cb179d39ea8349358228c6ca141be0751bd28392bf38a026b69"
+    },
+    {
+      "path": "qa/departure-44-25-isaac.png",
+      "sha256": "30b387f2d5e080ee0e2c9c3bd4b33fd10c71baf81a772f91338fc844ec8e277b"
+    },
+    {
+      "path": "qa/departure-44-25-rebecca.png",
+      "sha256": "f1ab812f9de183b4351c206bc88cf78f9070c0ff16c05445fdf1dde29412fb63"
+    },
+    {
+      "path": "qa/departure-blackknight-left-lists-before-blackknight.png",
+      "sha256": "3ffd51e7da73bb786e4f8c0a459bb99485f6aaf3405ae1a831bd6d07de272dd8"
+    },
+    {
+      "path": "qa/departure-blackknight-left-lists-reported.png",
+      "sha256": "44e51cb1bb5c46a34f8ef2075a4b3cc54428aa02206d2abe8d44610d8a2f8931"
+    },
+    {
+      "path": "qa/departure-blackknight-left-lists-rewind.png",
+      "sha256": "96bda34a70a13258b60a8208af3f51ec8b1f215c612dc24ab0ca7ce695b3b764"
+    },
+    {
+      "path": "qa/departure-ivanhoe-removed-lists-before-ivanhoe.png",
+      "sha256": "229d37c42f7923307e5cd7120c890be947b0cd049b5b1ad07fca5cdaec4bb074"
+    },
+    {
+      "path": "qa/departure-ivanhoe-removed-lists-reported.png",
+      "sha256": "55a3bd743f69495db284f48ee0f966de7283aca7f000684c1a3d495637c7c3f6"
+    },
+    {
+      "path": "qa/departure-ivanhoe-removed-lists-rewind.png",
+      "sha256": "b3a2edaae99bbc3caa6736c009578ea8428e41b890944540537e14a3e563ceeb"
+    },
+    {
+      "path": "qa/departure-ivanhoe-left-coningsburgh-before-ivanhoe.png",
+      "sha256": "84b7040300a9f0d71666b0d1c2fbd8daa4cb4d65dcaa69052d76935c2a786b9f"
+    },
+    {
+      "path": "qa/departure-ivanhoe-left-coningsburgh-reported.png",
+      "sha256": "2cac8aa9a98123baa186017755316670f66254fdca481052db0b5ec1a982aa99"
+    },
+    {
+      "path": "qa/departure-ivanhoe-left-coningsburgh-rewind.png",
+      "sha256": "e30bc46e2d401d7f7b838d61b6ac392ab068a5e212caeba4f52c335812622b19"
+    },
+    {
+      "path": "qa/departure-gurth-called-away-before-gurth.png",
+      "sha256": "578c443f2247779e1d1de8548bed42973d89eac492c634870576010995e209d4"
+    },
+    {
+      "path": "qa/departure-gurth-called-away-reported.png",
+      "sha256": "360b446970f6d8cfb0503bab8ca173749d3b85bdb754f204a0641facead20c8b"
+    },
+    {
+      "path": "qa/departure-gurth-called-away-rewind.png",
+      "sha256": "c71fc9ad862382dd2a75b9fe59e25a812cea98d54fc7ce9ef541e417c99a1c0c"
+    }
+  ]
+}

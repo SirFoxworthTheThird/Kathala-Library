@@ -1,0 +1,31 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "2d7e69ff9ad36404f932c3b65749e777125dd3c9609c259cdd02bc700f3cefb8",
+  "itemArtChecks": [
+    {
+      "key": "defiance",
+      "eventId": "ivanhoe-source-28-p18",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "reply",
+      "eventId": "ivanhoe-source-28-p42",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "malvoisin-scroll",
+      "eventId": "ivanhoe-source-30-p44",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "hebrew-appeal",
+      "eventId": "ivanhoe-source-41-p34",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

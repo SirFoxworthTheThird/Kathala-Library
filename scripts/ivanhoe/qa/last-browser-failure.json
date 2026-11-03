@@ -1,0 +1,12 @@
+{
+  "message": "Catalogue downloaded different PWK bytes {\"url\":\"http://127.0.0.1:4186/library/ivanhoe.pwk\",\"status\":200,\"method\":\"GET\",\"bytes\":0,\"downloadedSha256\":\"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\",\"fixtureSha256\":\"466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29\"}",
+  "pageErrors": [],
+  "networkFailures": [],
+  "consoleErrors": [],
+  "mapRequests": [
+    {
+      "url": "http://127.0.0.1:4186/assets/index-BbxU73or.css",
+      "status": 200
+    }
+  ]
+}

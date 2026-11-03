@@ -1,0 +1,31 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "c46f829ced4b536391d52c0d337b08c2bb91ee8e76f074d7d10dcf9fef68a1eb",
+  "itemArtChecks": [
+    {
+      "key": "isaac-credit-order",
+      "eventId": "ivanhoe-source-9-p86",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "acquittance",
+      "eventId": "ivanhoe-source-13-p60",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "john-billet",
+      "eventId": "ivanhoe-source-16-p18",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "champion-warning",
+      "eventId": "ivanhoe-source-39-p59",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

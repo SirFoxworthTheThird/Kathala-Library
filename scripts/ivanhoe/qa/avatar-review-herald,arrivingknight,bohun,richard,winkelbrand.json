@@ -1,0 +1,79 @@
+{
+  "status": "SCOPED PORTRAIT FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "fixtureSha256": "2558dd2adc9940ea52306eefb0bacc3df34774caeefabef5a5a94efb5a668c3a",
+  "selection": [
+    "herald",
+    "arrivingknight",
+    "bohun",
+    "richard",
+    "winkelbrand"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-winkelbrand",
+      "name": "Winkelbrand",
+      "eventId": null,
+      "appearanceKind": "unmet full-data record",
+      "writerOnly": true,
+      "cursorLabel": "Ch.4 · CHAPTER I — Swine and pork (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-winkelbrand.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-winkelbrand.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-richard",
+      "name": "Richard of England",
+      "eventId": "ivanhoe-source-37-p22",
+      "appearanceKind": "explicit identity reveal, no physical cast invented",
+      "writerOnly": false,
+      "cursorLabel": "Ch.37 · CHAPTER XXXIV — News spoken low (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-richard.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-richard.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-herald",
+      "name": "The herald at Templestowe",
+      "eventId": "ivanhoe-source-46-p45",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.46 · CHAPTER XLIII — Time allowed (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-herald.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-herald.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-arrivingknight",
+      "name": "The arriving knight",
+      "eventId": "ivanhoe-source-46-p68",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.46 · CHAPTER XLIII — A champion arrives (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-arrivingknight.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-arrivingknight.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-bohun",
+      "name": "Henry Bohun",
+      "eventId": "ivanhoe-source-47-p5",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.47 · CHAPTER XLIV — The king’s arrest (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-bohun.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-bohun.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

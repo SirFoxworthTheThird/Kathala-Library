@@ -1,0 +1,1834 @@
+{
+  "status": "PASSED SELECTED ART INTEGRITY ONLY; ALL ENTITY SLOTS COVERED; MANUAL READING-ORDER APPROVAL RECORDED SEPARATELY",
+  "checks": [
+    {
+      "asset": "cover",
+      "sha256": "da50403b250d0279137b59ffe91df92ae10e16620923382992f934ee6be99a45",
+      "decodedPsnrDb": 38.216,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "wamba",
+      "sha256": "48658ec2b2a878eefa39fe61b826947036cad2cdd8bea06157291ca4e71c2b39",
+      "decodedPsnrDb": 38.731,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "gurth",
+      "sha256": "e3fc71da5f2a4f08a94395e360e12d0eb06089f2ed97d996459d37ee2b195d53",
+      "decodedPsnrDb": 39.235,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "cedric",
+      "sha256": "003a5066eb95e9e1594b80be7a106bb6ed20e4fb9b422fc04b00ca5ed2358a78",
+      "decodedPsnrDb": 39.383,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "rowena",
+      "sha256": "5bd715a0a9e57ab040f6943e4b813af38f88b75e3e8f3229d0d9c5b2a17d3bef",
+      "decodedPsnrDb": 39.395,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "rebecca",
+      "sha256": "8b4a50a699f60bacf804bda239b45ba302916d33a40a82fd9bc17428b907b13b",
+      "decodedPsnrDb": 39.415,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "brian",
+      "sha256": "8eb0732e9eb855290cbdae324a2a7a4b8fe500eacc9cf49d602c22010a7a6d12",
+      "decodedPsnrDb": 39.519,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "aymer",
+      "sha256": "f3df3f368eef6f26bce168ac70452a6cf440841ae85a234495249e82d93b8865",
+      "decodedPsnrDb": 39.795,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "isaac",
+      "sha256": "863dbffbb9d2046f0bbadfe895a852b0fe6e66e01c37b3285ae230414da2be35",
+      "decodedPsnrDb": 39.019,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "fangs",
+      "sha256": "c24c721378de4e7a6b018b48f0e389a32be9d24413a60ff53d85a782304dc7f6",
+      "decodedPsnrDb": 39.822,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "palmer",
+      "sha256": "27766ef16adec66082f6d96c318621c043ed5f4de121e84fa9f15b4f538a8588",
+      "decodedPsnrDb": 40.815,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "athelstane-battleaxe",
+      "sha256": "daadc263bc10dca56a919ea8c93b2875dfc2f0b94ecb9645d82a0e9032faf8b6",
+      "decodedPsnrDb": 38.357,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "yeoman",
+      "sha256": "657b3be3aa317b8d8003df896e9f4b91b2114095cec4506933d94e31c0596bf9",
+      "decodedPsnrDb": 40.252,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "athelstane",
+      "sha256": "b4401c8566d0c5d6a1197cb35e9bfadf7d18cae5c8a297b8b2ce50f6d53c067a",
+      "decodedPsnrDb": 40.698,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "blackknight",
+      "sha256": "d92d9b3359474b84824687c0e87278d9a4c332d92a5c761bc8e3b0abe577eebe",
+      "decodedPsnrDb": 40.674,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "john",
+      "sha256": "4d66dd2b43f3d8dfdb5f20d9e330944b7fda60e736c9e9a542a3fe9161edee2f",
+      "decodedPsnrDb": 39.595,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "beaumanoir",
+      "sha256": "740508a17efd2976c3941881d61ed420564f6d67afe87e1a67c6d027daf0266e",
+      "decodedPsnrDb": 40.158,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "balder",
+      "sha256": "564af1144aa9758499d46616c62d6d0e21c7cdc324fc52093ba4ca530a4a11af",
+      "decodedPsnrDb": 38.934,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "hundebert",
+      "sha256": "a584720af22fddb63dd0c3f3300f2a0bd463e1ea27773f981e7b88fbc1751237",
+      "decodedPsnrDb": 40.458,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "gurth-whittle",
+      "sha256": "7a2880e0f29c601016bd9bc22a4bb58d2790abf13a1849f588f783a304a5bcc6",
+      "decodedPsnrDb": 38.237,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "oswald",
+      "sha256": "ece539544bc27462479d0fe4e3a69e4a4ac82d611164a8f629806a6f721e9328",
+      "decodedPsnrDb": 41.066,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "ivanhoe",
+      "sha256": "579ac70f263b83306bb211503d2a7cadfaec0a543acaa4e44ccf40a0f71488d9",
+      "decodedPsnrDb": 39.801,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "disinherited",
+      "sha256": "54e7fd13130ea51c8690923ada606162d7d09ee250058c295ac6f09929e99eaa",
+      "decodedPsnrDb": 39.945,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "urfried",
+      "sha256": "0d74baed6a5a316b417fa6ef1d41a30fade82c2203db1c8cad0d60ccff0cf285",
+      "decodedPsnrDb": 39.986,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "higg",
+      "sha256": "6ed7b3f5a0a48ad90b685965dcb7cc373da273cdd7ddf44f0be2e8a293604973",
+      "decodedPsnrDb": 41.252,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "conrade",
+      "sha256": "63c67f0e506c708ec9acf411a556c816bb73b6393926fe0e9f77a69484c141bf",
+      "decodedPsnrDb": 40.198,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "hamet",
+      "sha256": "00939ab6aca22e4c02c872a5e24d32ae66d4a8c1209767632cf472648abbc1c7",
+      "decodedPsnrDb": 39.005,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "abdalla",
+      "sha256": "c28a9155089df8511b601baaa99f9516e667ca619440281fe57ec1c69e2d60fc",
+      "decodedPsnrDb": 39.893,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "guarddogs",
+      "sha256": "c2ec28630e9e270c8463b7bd7ad6d4b05463aa861c9f38adee0efa59b4afa839",
+      "decodedPsnrDb": 38.748,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "hugo",
+      "sha256": "fff50f5b1bcd6495f60d1697b82ac3f28b293db80ab4408e40416068437b2353",
+      "decodedPsnrDb": 41.232,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "elgitha",
+      "sha256": "f95804e4733d1e0d6920b2cc6b564768efe8677a56fd8fce4d19718c04884060",
+      "decodedPsnrDb": 40.411,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "ambrose",
+      "sha256": "afdbb0eae34d76454fbbbd202a88e3dabb8f1ece29c7c9c6186926d4f598dbee",
+      "decodedPsnrDb": 40.476,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-glade",
+      "sha256": "7334d527a201b58253cf8c5d562ada9f3e9a3a16a061e54b4c4ef5a6c38413a1",
+      "decodedPsnrDb": 38.051,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-hall",
+      "sha256": "6e49ec686cf298874503ae2a014b1979e890d4e38ac9283e3c8abccbf9d7ba66",
+      "decodedPsnrDb": 38.192,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "gurth-horn",
+      "sha256": "64b7b6ceb9f4977b6fa2eefea194f36c26a973b7ec78833a66bfab8ea1b6678b",
+      "decodedPsnrDb": 38.156,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "wooden-sword",
+      "sha256": "f7b79ca7048fdb732f8d593a5a2d57a5e8fb02dd2764fdf0250b115c8fc5c791",
+      "decodedPsnrDb": 38.002,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "palmer-staff",
+      "sha256": "57fdd3ef006fb7584654aa524fe21fcdd91640fcdbcecf5198f048877ce0cfeb",
+      "decodedPsnrDb": 38.764,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "anwold",
+      "sha256": "c5b961314a8ce2d3499155be0fdd9c957349a7b95d8de15a4755e39bc62072bb",
+      "decodedPsnrDb": 39.002,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "edwina",
+      "sha256": "bd0c82d0a1c9a1fffbd92553a6555333e685b7618a0c8826a518cbe9d26418a9",
+      "decodedPsnrDb": 40.094,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "rotherwoodwarder",
+      "sha256": "e6d379597bdd8e46a0386bdd3528eeef56ac0ee5117df3489c38dbcb86b4ad4a",
+      "decodedPsnrDb": 41.083,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "debracy",
+      "sha256": "cb0163466b53839fec326c9908a33cdd33f556834c412c67f018579313c52271",
+      "decodedPsnrDb": 39.522,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "fitzurse",
+      "sha256": "47540f29111786d51fb82caa25ac6570545bccaa3db83d2c9a95daf4f9868465",
+      "decodedPsnrDb": 40.78,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "frontdeboeuf",
+      "sha256": "537b3e450e2b5cf52d335e8ea9955250c925481b75a4460f8c49911716ee2f65",
+      "decodedPsnrDb": 40.012,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "wyvil",
+      "sha256": "455e8f65ddd484f104a08ad9cbcf3ec508fce255b106f4ad0c708ce5488f9450",
+      "decodedPsnrDb": 40.277,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "martival",
+      "sha256": "c5447ad5ea81a288466d7b346d5163702513e335392e090a1d45579cc62fd40d",
+      "decodedPsnrDb": 40.435,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "unknownsquire",
+      "sha256": "6303410aab27e3bc868fcc6e11468607357c43116ecafb46edf40fcc82413896",
+      "decodedPsnrDb": 41.486,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "hermit",
+      "sha256": "4604d5af827e104a8731a0c218825656b8c5cae6764568466c7cbce14f161ef4",
+      "decodedPsnrDb": 38.462,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "malvoisin",
+      "sha256": "173a009c567fc41fcb3bd95544a259d814008ceca89be47141efc62956ce79f1",
+      "decodedPsnrDb": 39.985,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "grantmesnil",
+      "sha256": "573ccefcbe7b1d163f179143554ff914245ce6653a07259a8bed76198df672c5",
+      "decodedPsnrDb": 39.44,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "vipont",
+      "sha256": "857a10bbd247be6232bf46a86ca6a6547ae41f21cad9a658cbb3171c6eea9215",
+      "decodedPsnrDb": 39.736,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "alicia",
+      "sha256": "e51dbe6d1e571d1bfec255cfe83fe763e4e1b910b8c639bfb6a0a52b1fb03b21",
+      "decodedPsnrDb": 39.955,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "baldwin",
+      "sha256": "251fe684c115c628741e09ee218cb25431eb7a2b7a9c3df596799a3a0f82524e",
+      "decodedPsnrDb": 40.098,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "reuben",
+      "sha256": "a42a15231c0c6284f5f12b4392819713a694f1ec954267e8fecef08fab040504",
+      "decodedPsnrDb": 38.409,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "outlawcaptain",
+      "sha256": "c647d800a44f00d48f77c5819d8b3bab972b79fd43b1171878d1b36e8a411f58",
+      "decodedPsnrDb": 39.004,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "miller",
+      "sha256": "170261057e7891fb98f10dcab501ff9db9e14f7f214729956da443504db9f5d0",
+      "decodedPsnrDb": 39.584,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "hubert",
+      "sha256": "42694f36320e68f4cf66485d5bab93d8ae9e1b028753a7ac27cf5bc2e60e4183",
+      "decodedPsnrDb": 40.009,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "debigot",
+      "sha256": "8837b68d4084a5cca70df61c7931148795b58e4d69659870c2f648cb5baf4bf6",
+      "decodedPsnrDb": 40.69,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "waltheoff",
+      "sha256": "582e7d8c6937983878bcfa2af000f72bf33c8f99ba6b208572f4d194d6a4ec61",
+      "decodedPsnrDb": 40.707,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "maskedvisitor",
+      "sha256": "2ea908ce29e2010811e1559dc0f83cdb26cfb37dbe4fc5cd7876808609a8ca59",
+      "decodedPsnrDb": 40.269,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "engelred",
+      "sha256": "8bf2ed74d8546d6e8d581fc4b788fce5192f33ad020cac4735e8fe1c9f36aeb3",
+      "decodedPsnrDb": 40.482,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "giles",
+      "sha256": "950fe7d93766b4e7844a781328b2b14eee412661a36ac2ef6b61cc78ee6f2e63",
+      "decodedPsnrDb": 40.676,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "seth",
+      "sha256": "116eafa9957d8571708e7c2981d8875488f7a3aa57cdbe2652fe52b9d209e388",
+      "decodedPsnrDb": 40.37,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "unseenvoice",
+      "sha256": "e7ea686a02da0527f302cf714cad90362f4b94a5a3e0ad16301a11d27baaaafe",
+      "decodedPsnrDb": 39.525,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "gilbert",
+      "sha256": "65f5c28b933dd8665e27799fedf3ea086471565339b72728d4d3168d134e764c",
+      "decodedPsnrDb": 38.253,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "clementoutlaw",
+      "sha256": "5fc959798dc3942d31d45a83bd3d506b8794586f112c0327bf1a9a9e6de358b9",
+      "decodedPsnrDb": 38.505,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "hughbardon",
+      "sha256": "58eb4f94dc5fbbef256f1f50cd372cba68eac3b169e33d7cea414863b7ebc3c6",
+      "decodedPsnrDb": 39.71,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "nathan",
+      "sha256": "294767b77fe28f74039bf7806f291b9916a70c5ee9812e6d2662c2f4a069031f",
+      "decodedPsnrDb": 39.842,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "damian",
+      "sha256": "f470e47c6876dc1849b36bf29c92e3f19b60979eb32dfefad1f0a5efd2584fd1",
+      "decodedPsnrDb": 38.675,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "albert",
+      "sha256": "0bc813955d8f6c9f9e53c74e7a98a5612d31b652aadaef3d1b8e1ca2d0d5aec3",
+      "decodedPsnrDb": 40.451,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "herman",
+      "sha256": "5965455ca763884dc668eb5aaaf849d5a0b2e055e96107502cedf23e5b2cc8db",
+      "decodedPsnrDb": 40.444,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "bensamuel",
+      "sha256": "870aa3ebe8a7324e973ffcc5304c7cbb4d2a6c55b7d5b5ffebd5157f90bf1001",
+      "decodedPsnrDb": 38.341,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "botolphprior",
+      "sha256": "07353334962231ccfe18917a0257ae4890514ef9f1cbe0697f4fdfce70ca7590",
+      "decodedPsnrDb": 39.673,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "diggory",
+      "sha256": "e0d363d45621acfd85cf6bb5ee262f0f0d9ac0f6b3ee8370635e35f8fce81071",
+      "decodedPsnrDb": 40.216,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "blueknight",
+      "sha256": "4da9d9d268353601a82c40b586ab77f3839ff15bf6ba3ddd96d424e0ce04d01b",
+      "decodedPsnrDb": 39.044,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "scathlock",
+      "sha256": "1d077f0e14e1c802ee58f9571e35cfd389f1256a6849e0fa824ec9f9be9ed136",
+      "decodedPsnrDb": 38.902,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "coningsburghsteward",
+      "sha256": "07ce76950e6c33397f7e13eaf39b333e9c45e341a3c824ed06daae8ecace1317",
+      "decodedPsnrDb": 42.52,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "edith",
+      "sha256": "629a20d0757fc7ed34ef3d6d53fcc93aa766caa15c7d2fc6482f644936700144",
+      "decodedPsnrDb": 39.925,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "dennet",
+      "sha256": "98417c535c8588c744b7e20e76fc2e992de840a93d20befe16a23fb5259b2806",
+      "decodedPsnrDb": 39.589,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "minstrel",
+      "sha256": "7c1e84fcdfb52e94b3d20a5ce398ab9fe30b9ab955d12fa8a11de016718a150a",
+      "decodedPsnrDb": 39.43,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "herald",
+      "sha256": "3ec407c2e9b76a4905256ce7040c5c4600f25ac45b3dea62a2345631788072c8",
+      "decodedPsnrDb": 40.542,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "arrivingknight",
+      "sha256": "507b006f86b5fd72a0f11930577f2d162ae40850d030896eb5b4bde8c2805aea",
+      "decodedPsnrDb": 39.368,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "bohun",
+      "sha256": "8795e94538b35679e8d5fadb0bfc296c78b1c2fb567f2866673c7d8c7124e057",
+      "decodedPsnrDb": 40.141,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "richard",
+      "sha256": "b7eb2482910e4992ea76d53db7766e00f630d808177004c531c1278d3302c580",
+      "decodedPsnrDb": 40.373,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "winkelbrand",
+      "sha256": "9347e4de50ca8717e6312c3c659268b4683f3d4636cb1b4cf9c6dc2c650e43cf",
+      "decodedPsnrDb": 40.803,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "gurth-collar",
+      "sha256": "72d6826f0de68f3ed8a08aad57808a2a2d57a180f655233dd89028808533222b",
+      "decodedPsnrDb": 38.743,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "wamba-collar",
+      "sha256": "9db6f55224b4fb713117169c66c94ac3808558cec20ff52227b7ebe382b8486f",
+      "decodedPsnrDb": 41.001,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "gurth-staff",
+      "sha256": "e6a81319291ea40661a18c63b5c175442d4f0cd869c9f71e921e123d2216df93",
+      "decodedPsnrDb": 38.161,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "john-warder",
+      "sha256": "5e8baad8d45bce890da5617da4414c7976e7c784772c1de9581abcc178c7e54d",
+      "decodedPsnrDb": 38.287,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "palmer-reliquary",
+      "sha256": "7c83e756dbf02bb301320cd473ec591b0359b7314bfe1243ac666d450c51ac77",
+      "decodedPsnrDb": 41.401,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "brian-chain",
+      "sha256": "00472520ee400e4ce051b27dbe62bfc7aaf3a9b03b804a9b7c9f0ae0982939f4",
+      "decodedPsnrDb": 38.318,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "locksley-feather",
+      "sha256": "e34c55432062032006fab56a472f578e19b9a7c8028e1710d9ea713d92b283d2",
+      "decodedPsnrDb": 39.916,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "hut-key",
+      "sha256": "5468aa51eb17dd40e07df002fc0cca721d8ceb22024d9006e7effda83c716ebb",
+      "decodedPsnrDb": 38.06,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "frock",
+      "sha256": "374dfc4c04ea730ed59941ea295e37c26f20be675c023df7b02c5f9250a77473",
+      "decodedPsnrDb": 39.685,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "cowl",
+      "sha256": "2c75e2699b57eb109157a9ff81dd31d9381e409e4f1cd584e198fb30653096e3",
+      "decodedPsnrDb": 39.742,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "friar-cord",
+      "sha256": "291570127aadb53e200c5075f6cd7f26f150f2680e50a5ea6a16ef2021acb507",
+      "decodedPsnrDb": 39.324,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "cedric-cloak",
+      "sha256": "5b6520610605aeb543071989ef89f4cf0f2d358fba12d8ed6f220505f101d074",
+      "decodedPsnrDb": 39.5,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "cedric-girdle",
+      "sha256": "a29d05c524193e4ef383d5ccbe9f410e705b3c1082b8ce764ab7298f6db10c7e",
+      "decodedPsnrDb": 38.713,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "athelstane-glove",
+      "sha256": "849b3e4bb5b62bdd710ed23760e2c31983208a427e36879be318b785707474e2",
+      "decodedPsnrDb": 38.401,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "rebecca-glove",
+      "sha256": "41ea53aac4de7cf5fdabe7dfdc64e9a66e32908ac5a576c135e9f7639c81117a",
+      "decodedPsnrDb": 39.86,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "silver-casket",
+      "sha256": "7fe588a4746806ce666d1ccecc648e89e4ae164dfb9b09f2532ceb60a1005950",
+      "decodedPsnrDb": 39.749,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "ulrica-distaff",
+      "sha256": "45ae1f4a5a6ca1582ccf5a97c48b70534b7b6d654a439a3271b104c94540805d",
+      "decodedPsnrDb": 39.457,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "fetter-key",
+      "sha256": "1b729ab33ecf57103c9af7df159ba002c9b5495dd7e06552164b40490a34fb3c",
+      "decodedPsnrDb": 39.801,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "diamond-necklace",
+      "sha256": "bfa6e516072497579f51ad664fb6b92eb9af55b50d1109c8d989982b46f556e0",
+      "decodedPsnrDb": 39.904,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "diamond-earrings",
+      "sha256": "2fd506c5b300f0eb294ba637e427250d6ae6836f3e052fb075fd14c700d09083",
+      "decodedPsnrDb": 39.612,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "miriam-balsam",
+      "sha256": "d18c7e74f5efd736fa7c0abc9b8968eecd30a27dbf9a4a6550f587ef8b89a44d",
+      "decodedPsnrDb": 39.242,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "higg-box",
+      "sha256": "bf89f73c90ad7041f7791f52a8e1aade772fb2f9fa7a22d8bd49132f5eb1209d",
+      "decodedPsnrDb": 39.889,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "rebecca-purse",
+      "sha256": "025addfeb94da3f5833e74fbfeacb8c00a22b28aac6c79e0a834fbba92332d33",
+      "decodedPsnrDb": 39.89,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "masters-gold",
+      "sha256": "499685d517c25b53367a8c17683758eb188eceb4984fab987539052d94250fc8",
+      "decodedPsnrDb": 39.812,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "isaac-credit-order",
+      "sha256": "577a42f9206a552d287fb9d8ddb6dd8f2336fbe6896ecb057eb1f3931d3e1a52",
+      "decodedPsnrDb": 39.794,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "acquittance",
+      "sha256": "475aa7a4669a826e64078b34644276192cbe3ab4557ba36283769d9050f903e7",
+      "decodedPsnrDb": 41.019,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "john-billet",
+      "sha256": "09e88c011d823d1943f7209d70f5d3986631a78ae9cfb1981412025e99c65d93",
+      "decodedPsnrDb": 39.454,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "champion-warning",
+      "sha256": "c6b0f7111fa958126ea8f98ec851c4d3cc1f317eb75a740ab8faecb28d75cdfa",
+      "decodedPsnrDb": 40.952,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "defiance",
+      "sha256": "e1cb1c4e3ba2cf390999d81b6ad92848ad387d365f94a07faeaa8c4deb7e1c55",
+      "decodedPsnrDb": 38.361,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "reply",
+      "sha256": "497b2c30e016d0638045c75020740205c8d46b175d57cb4f85075307147843c3",
+      "decodedPsnrDb": 41.054,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "malvoisin-scroll",
+      "sha256": "73e54b35dafbc53cd7c1d023bf4b67a62014d3b7b37568d884d754dc78cdf83c",
+      "decodedPsnrDb": 39.952,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "hebrew-appeal",
+      "sha256": "9a63fdf3bf5a40925d2ad75b19944d50df2421de810e08925f4e507907a1aa56",
+      "decodedPsnrDb": 41.256,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "blackknight-tourney-sword",
+      "sha256": "ccb5764d1e93518dcb7371d50cd02a45b24b10c81e446526c10907b00d3ce59f",
+      "decodedPsnrDb": 39.817,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "wamba-falchion",
+      "sha256": "7d80705708788272cb13dc7d1a7230d289cde76fd81e2aa821768e09e03e62bf",
+      "decodedPsnrDb": 39.607,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "debracy-sword",
+      "sha256": "713fe11ee62c55a425c767c3b62ec6f39018dc4deed989ee2dc8ee4c1a1fe76f",
+      "decodedPsnrDb": 39.345,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "wamba-targe",
+      "sha256": "c53a2e1dc7d1a0d8bb4128c6fd988d8a52cacbd186254d1af5ac99d1ebbaa3db",
+      "decodedPsnrDb": 39.029,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "locksley-horn",
+      "sha256": "baf8fba848a30fa969e3d605d2abeb103de84a3900e0283dbd5f86ecdda76054",
+      "decodedPsnrDb": 38.789,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "locksley-baldric",
+      "sha256": "a11afb7da9ef970198797ea45fbac1159fa695f22b2cd8965feb1e71cc1f83e4",
+      "decodedPsnrDb": 38.226,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "outlaw-mask",
+      "sha256": "821e254bbce30441677f8358f7815f8c8727a133b1a7eeccfefe763d5103cc90",
+      "decodedPsnrDb": 38.686,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "aymer-collar",
+      "sha256": "8431b5c1f99d61000f8f1523697ed8031f2c1231c9f76497511fc216155e1b28",
+      "decodedPsnrDb": 38.854,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "loan-horse",
+      "sha256": "32f1bd6069ca5478e2e0e07d0f3aaa61f48994be38c60610640c437dd601ffb1",
+      "decodedPsnrDb": 39.131,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "prize-horse",
+      "sha256": "6bbcd25c04e2b6ee43818f5aafaf13a1ad6c34d8b4270335eec836c8a0ea2a04",
+      "decodedPsnrDb": 38.55,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "blackknight-charger",
+      "sha256": "36c75045f9c5f5fac7e27369a4f760ff9bedae1adf1894a31d8af9b042c44648",
+      "decodedPsnrDb": 38.774,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "malkin",
+      "sha256": "9b43b594b6ba8912ec13e2b9e410851b019f693a85a3939667cbe10f115466cf",
+      "decodedPsnrDb": 38.324,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "ivanhoe-warhorse",
+      "sha256": "3419242abb7ebbd26631a243f0043feac31ece36f5e624ea504cd75ebb77378f",
+      "decodedPsnrDb": 38.657,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "zamor",
+      "sha256": "3af127a85f6eafd67d3a80f2fe4fb0ace15f804cc6b920f96aaa46d21903a33c",
+      "decodedPsnrDb": 39.254,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "loan-armour",
+      "sha256": "38a2ae6d0f29d6284c18f2b66a15c4ef739797fbae7755ce492b131d37f1a1c0",
+      "decodedPsnrDb": 40.055,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "chaplet",
+      "sha256": "1f741e1e385b1523217b528e402b7e8eb343184e6af03ae66caee38ccc42913b",
+      "decodedPsnrDb": 40.069,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "gurth-coins",
+      "sha256": "7884f80523379a63b3231b7c374752b1dc9e64178acfcb6211d1049da5181853",
+      "decodedPsnrDb": 38.634,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "aymer-tablets",
+      "sha256": "019da031416e85e3c0c327e8efcc63022acae64206c7740fa9fe34e65bafdaba",
+      "decodedPsnrDb": 39.518,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-entrance",
+      "sha256": "676024455ea55c2ebd1bd7aa71cf0c3b8ec8ef539f6e9d393aa99d074dc21f64",
+      "decodedPsnrDb": 38.102,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-approach",
+      "sha256": "9a13d77fdfcb4f7b670a9a7865c200c9c8dd2003f17e5cccc14e1201fe62dd5d",
+      "decodedPsnrDb": 38.031,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-postern-bridge",
+      "sha256": "9c8c4916d0233a1dc18bb8962c7d21eb47c871a226307fe002b58affbf7fcbc8",
+      "decodedPsnrDb": 38.248,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-palmer-cell",
+      "sha256": "8113e207ec15b3f2b8e9263e1707a3df3738722f8e7586aec73365ed368764f1",
+      "decodedPsnrDb": 38.687,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-isaac-cell",
+      "sha256": "eedda5e03922b787308d307bbb6bd246b7d57bb9531e4f10089e151943a377dc",
+      "decodedPsnrDb": 39.505,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-gurth-cell",
+      "sha256": "d9e0583e3930a2d92729f9d0ccc589c1e650f12bbea47b2e9067990c6ca4567b",
+      "decodedPsnrDb": 39.275,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-antechamber",
+      "sha256": "f08d5fcf39acda041d4c4023a314c7dabb48fadca17749e6b55963597a4d0a9a",
+      "decodedPsnrDb": 38.522,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-rowena-gateway",
+      "sha256": "8aeb3a8e301f666169907890915680d26dc8c6029213ed4cf28336ae50d3fe7e",
+      "decodedPsnrDb": 38.306,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-guest-passage",
+      "sha256": "d3622afa82fd9115a08e53f724ac9eb792df9209333544fa03c47eddbc2399e7",
+      "decodedPsnrDb": 38.248,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-guests-gateway",
+      "sha256": "4634e25e32a410794b61ed1f01d7b336b15c0c46dfa5aba0f6635397a2c21b1b",
+      "decodedPsnrDb": 39.044,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-hall-gateway",
+      "sha256": "7c0a392be611bec31aaba80ed4451a745b507e6d4a9a5d9ecc79697e33e0aba7",
+      "decodedPsnrDb": 38.351,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-rowena-chamber",
+      "sha256": "894f142d1222b4a4646438111281e49f9a7f402e03d50e40f7e956d7dc246672",
+      "decodedPsnrDb": 38.148,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-rotherwood-postern",
+      "sha256": "022cfc58e47bca67d2603efa6521e66f7ec9adef80b4fb524ed5c658b6af74fb",
+      "decodedPsnrDb": 38.38,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-sunken-cross",
+      "sha256": "f58c75d1ebf59e9648eacf6680fe9723982974d487bf6c2e2b4765dbdc38f1ee",
+      "decodedPsnrDb": 38.813,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-woodland-brooks",
+      "sha256": "a2ed874864c322ab9d8d8a4305f9b57926c7c9dab7c1378ac2d77579c24dd949",
+      "decodedPsnrDb": 38.453,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-front-de-boeuf-boundary-oak",
+      "sha256": "ca6f56ad92389f60e5f4ea192f23d59403914c80831517d937b5a8546132726d",
+      "decodedPsnrDb": 99.0,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-path",
+      "sha256": "e59f08f8de91be147af07f77424f4a322eecd1819cc6d18587ef8cbc954ae5f8",
+      "decodedPsnrDb": 38.059,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-road-to-sunken-cross",
+      "sha256": "30dd0d0611787759cbde889675526a9fd58faf0fa0361c91379634f16e01327f",
+      "decodedPsnrDb": 38.039,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-escape-paths",
+      "sha256": "1949639745957673b042086d670bb72d51fb6ed31fecbea033d3250853f2d782",
+      "decodedPsnrDb": 99.0,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-sheffield-overlook",
+      "sha256": "7ad2761a6786ffe252c529f6ec1900fda43981ea67013f4f036980e0429192a5",
+      "decodedPsnrDb": 38.334,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-west-riding-forest",
+      "sha256": "d578d64c5caf4585f6bfe4ecdde383286a673c519fde7e1663af167ccc3ba5c3",
+      "decodedPsnrDb": 38.255,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-st-withold-gate",
+      "sha256": "68f9e92fd43b2997a34884f1005f07de3c73656aedc15b558cfe0fb54a592835",
+      "decodedPsnrDb": 38.105,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-woodland-noon-fountain",
+      "sha256": "9afac1263ceec2e4d68f77970ddd9709a2fbd101312a4db7b01ea314cbab5a87",
+      "decodedPsnrDb": 38.158,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-ambush-brook",
+      "sha256": "b9f127bdc1b6c6068676ef16727366c1324d4bbca5186c0ff1ec805de18e299b",
+      "decodedPsnrDb": 38.114,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-keep-gateway",
+      "sha256": "1b1b50d93e968f644613f915857cf86aa443f0027f157a7fa1b7064f7f7b10c3",
+      "decodedPsnrDb": 38.555,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-guests-gateway",
+      "sha256": "a4e1a9e5f29fa7c5767ba6226590d1e62e884d7f7e16bc772f6fd7c1980ae489",
+      "decodedPsnrDb": 38.647,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-interior-gateway",
+      "sha256": "ebc276d1f86be00f76fd932e659cc1e2744012fed5fc3d5bbd1251b379362ddd",
+      "decodedPsnrDb": 38.365,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-lists-gateway",
+      "sha256": "2c9e03d269457d4d2509310977e2a7ade48584179209aea9deabbc5095ca25c3",
+      "decodedPsnrDb": 38.774,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-master-seat",
+      "sha256": "d17de969d637124aedc145874030eeb3a8c5995fcce8a17f265c21c00882f685",
+      "decodedPsnrDb": 40.201,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-preceptor-seats",
+      "sha256": "137b69115db10ac483ecc3886f0c4c05a6fa2ae56942deeff2e2238614a9a02f",
+      "decodedPsnrDb": 38.687,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-knight-bench-corner",
+      "sha256": "0f580bcc28673ffaa85c460f6691d4499b0862271451a2bf29f0a75c8ad697d9",
+      "decodedPsnrDb": 39.374,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-accused-place",
+      "sha256": "2f5d876e0359edb5ab6751b23cde1ae10cd512cc15f094edc9346eadbaf2d53c",
+      "decodedPsnrDb": 38.24,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-public-floor",
+      "sha256": "b10e878c31a140d907bb9f72ad67b5946976ace7e84aeda3c1621844b41a59d8",
+      "decodedPsnrDb": 38.557,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-witness-place",
+      "sha256": "686c1d526ebbfc26524865282eac6aa264c1c27bac6c85e8b657ac244a0107ad",
+      "decodedPsnrDb": 39.346,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-east-tribunal",
+      "sha256": "e424b85cef3654af095ac7f159fe053e717572ba37328e723b104b38fa86c534",
+      "decodedPsnrDb": 39.704,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-east-station",
+      "sha256": "c104b4eb45ed3e0472f0912acca50a928f88b786d9910814b5860cd5a3783fd8",
+      "decodedPsnrDb": 39.518,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-postern-parapet-gateway",
+      "sha256": "a1844d7ecab40f5d42a6515a3727250c13913013f567b2e4a0c820c5e03db2a0",
+      "decodedPsnrDb": 38.728,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-postern-parapet",
+      "sha256": "42720c785dcb89fdb8b4ea386270525b97f4ef2823fa50d7d12f6b3d61d12acd",
+      "decodedPsnrDb": 39.011,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-room-gateway",
+      "sha256": "59c2a8183a23c2ff6002d9f3c5821199fb0eb47c5120eec72ce7cb2d35eb8236",
+      "decodedPsnrDb": 38.643,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-dungeon-gateway",
+      "sha256": "2432efab88d21611b0be31c983fc1013d5c5ddb530f6d47192ea8d790f1f5ba5",
+      "decodedPsnrDb": 40.03,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-turret-gateway",
+      "sha256": "53f648bc35868ac456d6d4d246d2060d31e4585da447ee61c209636393761a7c",
+      "decodedPsnrDb": 38.538,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-postern-crossing",
+      "sha256": "55f521d1a620d1a3839de167afeed15416fe1cbf12c373471c1bff02325c3ec1",
+      "decodedPsnrDb": 38.413,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-host-house-hall",
+      "sha256": "de411a805dd2a97367597388ac1fe3720217ace72b30f350e19e196ea38c167f",
+      "decodedPsnrDb": 39.982,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-host-house-wicket",
+      "sha256": "359122fee448f7c941037fc07c1f363095e85d9492b1d18d37f85159847eae6e",
+      "decodedPsnrDb": 38.294,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-host-house-sickroom-gateway",
+      "sha256": "32fc4eb1fd6896724dad754274529af3d45e028c9be16012fab9c2dc3c0e0825",
+      "decodedPsnrDb": 38.523,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-copmanhurst-inner-threshold",
+      "sha256": "fe52bb862e9846ec2e3bbec5b65d9d72806e70cdca078e6a3f5994d639725f64",
+      "decodedPsnrDb": 38.36,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-copmanhurst-hut-gateway",
+      "sha256": "1c72297f5a9d9f8cd54ed1a07ba2f303d1eacd455e65be03f381ece79f9dd762",
+      "decodedPsnrDb": 38.323,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-alicia-gallery-frontage",
+      "sha256": "764bfbad02d2f8bb6a33be5ee3905f7e9c97e4d28f1e738a67bd261d6e27d952",
+      "decodedPsnrDb": 38.211,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-northern-end",
+      "sha256": "d364d4b10ad78e0b554af5f6fce6889fc1c16eed3f990541501e0676e24bfef2",
+      "decodedPsnrDb": 39.174,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-saxon-gallery-frontage",
+      "sha256": "9d341f912d031e3578d87be760f78b00975799f876a65bcb5afb896331a3673d",
+      "decodedPsnrDb": 38.393,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-lists-gateway",
+      "sha256": "52f6c6a8d7cf68fbadc1cb001eb19b04261a12cd5a8b233aa38760b7c46ff353",
+      "decodedPsnrDb": 38.356,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-house-gateway",
+      "sha256": "852b8efbee78cba0afffd2364b60acd22a558b12b87193ec51d55672bacf8908",
+      "decodedPsnrDb": 38.319,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-castle-gateway",
+      "sha256": "bad71881b2cd000280fdd5aad7e1b7e1abb643e68b2850096f0df95a19465888",
+      "decodedPsnrDb": 38.348,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-woods-gateway",
+      "sha256": "4e33e85bd4f6c960c36af9e2a2ca1389adfe74c7918dd0ca6eecf7228dd7945c",
+      "decodedPsnrDb": 38.052,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-rotherwood-gateway",
+      "sha256": "c9be4da0b68688681e221a4a572e787f4435f4d1b359225682a3721ae1dfc802",
+      "decodedPsnrDb": 38.446,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-copmanhurst-gateway",
+      "sha256": "761e376e0dcdeace9a06074785dfd28010b867e936544501be914d3df0c552fb",
+      "decodedPsnrDb": 99.0,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-torquilstone-gateway",
+      "sha256": "d6b8674b125393e06e30788fbf79773fa1c2a80b640016815512f58f25d85368",
+      "decodedPsnrDb": 99.0,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-templestowe-gateway",
+      "sha256": "44e8944bcf83731a0084fae92d55665511a67fe5038d953f4a48fdfb60cda73c",
+      "decodedPsnrDb": 38.422,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-botolph-gateway",
+      "sha256": "30587a92cef9bcd95b30c5173f25a15c7b77e11eab192720d790cf872e8c69f7",
+      "decodedPsnrDb": 38.126,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-ashby-gateway",
+      "sha256": "a4da84addd045417d7941618b0faa77c907537f7950402498d6a6be56f72723b",
+      "decodedPsnrDb": 38.403,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-coningsburgh-gateway",
+      "sha256": "cfa997b51aa787ecfa19754f5fe9153ccdc17dfdc7e1caad8d29fac339478648",
+      "decodedPsnrDb": 38.155,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-don-woods-gateway",
+      "sha256": "36f63fd547e46b22c8d742787cb5e15c232079f5a50f89bd7e0fabfca2496553",
+      "decodedPsnrDb": 38.283,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-region-york-gateway",
+      "sha256": "fe44bc3df82efa02da6de0e92930ff7b67ba5043ee26e86b0894e106d42c30a1",
+      "decodedPsnrDb": 99.0,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-return-road",
+      "sha256": "b140e6501ccc08124b13a29b3e1e7c221401fc792f2f9e8dd5ec217f41be168f",
+      "decodedPsnrDb": 38.396,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-lists",
+      "sha256": "ced1df778d9dc75a05fa3ee3a802dbc6878b4ba3d787db3f8e05c46148b1b53d",
+      "decodedPsnrDb": 38.309,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-lower-ring",
+      "sha256": "61d972360089d3594e23002756221c6010ea876b734d3feb166138f1f2288a85",
+      "decodedPsnrDb": 39.445,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-saxon-gallery",
+      "sha256": "7ca2992d89057aa340240a6374132b19f9c70fccdb09e72b4335466f63a493af",
+      "decodedPsnrDb": 38.974,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-gallery-steps",
+      "sha256": "ee2f24f20a4314a818ecc0e7c81b096d888db3ceb36989392ab5c50324a4f87b",
+      "decodedPsnrDb": 38.445,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-challenger-platform",
+      "sha256": "6e6e14ad510e1e059e8a392ca987f8947f307b5b8b5b202a6c21cc5fb4285fbd",
+      "decodedPsnrDb": 38.029,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-lists-centre",
+      "sha256": "b16c4b8bf8f4ffe083f5266343d531b740777f8b7e7c18babd2a60b4d9fed171",
+      "decodedPsnrDb": 38.009,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-prince-gallery",
+      "sha256": "a770177516a28c9b44799b63dcae8b206fbface654980d76d4075a98d215f2df",
+      "decodedPsnrDb": 38.193,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-prince-gallery-steps",
+      "sha256": "ef3c0637fc8ef505a971eabfb5c5216c4ce5779c0261aaf1bfa52249b1eb37d2",
+      "decodedPsnrDb": 38.621,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-alicia-gallery",
+      "sha256": "14c45491b152f12ffb6d20692327fbbe6623b198036f530774eca92cb66cbd05",
+      "decodedPsnrDb": 38.532,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-victor-pavilion",
+      "sha256": "4ff398488b47bd902807dc0cbe30b843af9577cac26e7d845610efcb0f3746d1",
+      "decodedPsnrDb": 38.443,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-victor-pavilion-entrance",
+      "sha256": "73fbacf97179a02015ead0fe7f466785d6da07f8670e3df39dcb66ef2d992827",
+      "decodedPsnrDb": 38.946,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-queen-gallery",
+      "sha256": "6a4a8e1de82bfe14ab80931c8b1d690625708d0228a9ef1e7da19b459b1ba8d3",
+      "decodedPsnrDb": 38.022,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-queen-gallery-steps",
+      "sha256": "bae10d25184e65c9080995282bf2459b506113d42768e25957a43a1f02fda51a",
+      "decodedPsnrDb": 39.233,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-archery-ground",
+      "sha256": "6496760d3825eac1878f84c21182c2d7b24bcf7beff478e1e531cc2a32b3aa0a",
+      "decodedPsnrDb": 38.192,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-archery-south-avenue",
+      "sha256": "78c7eebd842b158bed5b463b1be94dedb712be02c5835e7992ad71e910b04e38",
+      "decodedPsnrDb": 38.336,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-host-house-upper-room",
+      "sha256": "72d118ac12612673f46881a1c8a020bf66a35a24aab01a8336d9f075c3f1c1b5",
+      "decodedPsnrDb": 38.847,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-host-house-side-room",
+      "sha256": "0a070ac490dd58c117ec78876d7fbb2af94f7ea63ecc746bdfa24189485d8ffb",
+      "decodedPsnrDb": 39.431,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-host-house-court",
+      "sha256": "2737941a38b20e87ff98e0d3a2011aec488aaaa2a341d3ac314f679f0d5e909f",
+      "decodedPsnrDb": 38.245,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-host-house-sickroom",
+      "sha256": "a58a94faca3dae14e70f2c280c79e8b6da8b917a6ae48541bd625b090a2af052",
+      "decodedPsnrDb": 38.778,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-castle-hall",
+      "sha256": "ebf0690f7b2d040cd73609758ae8be0466568fab55b633873f5e5af886ebbd3f",
+      "decodedPsnrDb": 39.215,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-castle-inner-hall",
+      "sha256": "2af6be7e6b08ed28bb3b2dfca04c0595ca15af1a506edddb51c0fa8fa162ae10",
+      "decodedPsnrDb": 39.159,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-castle-private-apartment",
+      "sha256": "06c9d3e8d7d664df9602f7ed277280b18ad5e04ada0566045eb3ceee0481dd99",
+      "decodedPsnrDb": 39.408,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-copmanhurst-clearing",
+      "sha256": "40d6dd8a1ad56952f83c3b976799dc16ad9bf3138add46f644df8712d9e74322",
+      "decodedPsnrDb": 38.151,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-copmanhurst-door",
+      "sha256": "7c0c2b1848f5b1c78248ff3c3448baf1bb2891aa87c0a9ff73541491a22eec3d",
+      "decodedPsnrDb": 38.107,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-copmanhurst-hut",
+      "sha256": "fddcb7dc8029cadaeb0ccbe0f71cb2291cbe40238fe736d069213efe14808e4b",
+      "decodedPsnrDb": 38.41,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-copmanhurst-fountain",
+      "sha256": "0758fe5b1c6c025cc80a8a3e0cad90aa20b1cfe209b03ac4a167c0232db7574f",
+      "decodedPsnrDb": 38.387,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-approach",
+      "sha256": "0f034c9bfe1b4cf2b67a6b7b75a5fd840f9d985e034e421478f3e7a1a5a0d368",
+      "decodedPsnrDb": 38.356,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-reception-room",
+      "sha256": "9cefbcefe0493af1fa98a99aa20380d6543e83217ee5b15b318ed08131918215",
+      "decodedPsnrDb": 39.248,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-old-hall",
+      "sha256": "fd76663a36227a99b12026460be4251fbbad43bc58ddd510c74aecdb0896ad0a",
+      "decodedPsnrDb": 39.031,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-new-hall",
+      "sha256": "58204c00729f886923cd8142da5a88b658c36eed6e1a683eec8ecb5b2b46761b",
+      "decodedPsnrDb": 39.816,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-dungeon",
+      "sha256": "6702cc0386f270605bd1ac8c9b45f03b252ed4c8771045d46017519947cc17ac",
+      "decodedPsnrDb": 39.03,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-rowena-room",
+      "sha256": "70750f24f4c5ba594364a21c32c838ba31a2de0aa895b45d3caf4c08855924ab",
+      "decodedPsnrDb": 38.763,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-turret-cell",
+      "sha256": "2230e977ad828c9ddeed3a276d4809712c3a15d6c98c507f94784896814819ea",
+      "decodedPsnrDb": 39.516,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-bartisan",
+      "sha256": "99bd7f9aab4d5e9e645d520275e01814f8cc0e7cbdb346934822392b4bb0ae10",
+      "decodedPsnrDb": 38.311,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-siege-oak",
+      "sha256": "f9ad5ac250015e9812fc06b6be5a21cbd6df91737564eb369d468c7c42dfb7eb",
+      "decodedPsnrDb": 38.373,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-barbican",
+      "sha256": "36d6ca565fdae0225748ce932f269dfb827c9a0be043abda23af7f3fb9195ce3",
+      "decodedPsnrDb": 38.042,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-low-arched-passage",
+      "sha256": "0e196f1fe9d21abc097998262387ba87a1188d4f768f20748f215933feee5c0c",
+      "decodedPsnrDb": 39.756,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-ivanhoe-room",
+      "sha256": "699de89e7b4d67389492181244ff01f2599f116e67d0914a1316b4158a0e4171",
+      "decodedPsnrDb": 39.23,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-ivanhoe-window",
+      "sha256": "a4152987f315534ae52e436a70921796e83aeb14ce1e795a3ceec6697ce31662",
+      "decodedPsnrDb": 39.088,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-urfried-room",
+      "sha256": "d4fb16d71c915047580e85e6c1c355692fa3782aa0645b884fbea0541860ceec",
+      "decodedPsnrDb": 39.975,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-postern-passage",
+      "sha256": "19d88b1d38c380ed400e6b0600a61fa8cfb768113e2ca58596d7eba06cb9edd2",
+      "decodedPsnrDb": 39.493,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-postern-outwork",
+      "sha256": "dc6d75a90ec54e308467c866a425de97fabd59a3247dd1abcbf675d058e39c69",
+      "decodedPsnrDb": 38.174,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-armoury",
+      "sha256": "ebccbb9798db2ad7514a7ddf3658e7ccd54d7c2a9db51decefe0b2ec8dc6ef6f",
+      "decodedPsnrDb": 39.459,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-armoury-balcony",
+      "sha256": "4236577213f3ab37ef5bde119d9683a90ed4d6a411f28f6c30c2afc160a254e0",
+      "decodedPsnrDb": 39.452,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-frontdeboeuf-room",
+      "sha256": "b5fbdad664b1fbda1ef7038a6a63f6d80fee110c85417b5978734cfd51b7d695",
+      "decodedPsnrDb": 39.682,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-main-postern",
+      "sha256": "ee646f7970844b95b14684a79da445ed2bcfafb9169751c9d8e92c71ec14057f",
+      "decodedPsnrDb": 38.958,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-postern-vault",
+      "sha256": "874af17415b9cbfc56826162fe8f0415ef3df1151b3b9269f58ad9a439bedf10",
+      "decodedPsnrDb": 39.289,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-court",
+      "sha256": "5310fdf9371746a792aee0ae15ea3f470633364c0bf2d97f253847840a0febad",
+      "decodedPsnrDb": 38.838,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-drawbridge-outwork",
+      "sha256": "1d79aa0ba6dee7166ee8225087dab6e645501b00c23973ccdd9413b569746b41",
+      "decodedPsnrDb": 38.555,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-burning-turret",
+      "sha256": "2fec693eb1626ba8ac4b9da7b4750ea4df95ba9a33784b518f7e96bf984c101e",
+      "decodedPsnrDb": 38.507,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-sheffield-approach",
+      "sha256": "7bd10ce692874adff69fb23adf28392b482ee54fe9197d42cbd326f839a2714e",
+      "decodedPsnrDb": 38.337,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-dark-avenue",
+      "sha256": "f99b8c453575a2d888a8d85f3ad7f70b4713d575d2a0e9968c8166800e52bcb5",
+      "decodedPsnrDb": 38.09,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-hazel-lane",
+      "sha256": "9fb267533e48fec2214c0673af21b23677381e903143923ade4432afeaf00456",
+      "decodedPsnrDb": 38.507,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-outlaw-clearing",
+      "sha256": "4f65e56151186d074c2344eb47bad334dd15a52eaf0744a0554daf485ade7d63",
+      "decodedPsnrDb": 38.184,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-heath-overlook",
+      "sha256": "00a2ef603cf55a0de90c519c6b7231f9fefcfe8a01e25799bb362c5bf0c67aea",
+      "decodedPsnrDb": 38.98,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-northward-forest-road",
+      "sha256": "511e88a9f4456d63cd24417d697f47629b2c44142fb67fccc296138a05e0f66b",
+      "decodedPsnrDb": 38.246,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-ashby-castle-departure",
+      "sha256": "698c059292a538528a122804ab2003a2adaa4d5a4a1db4d461d0e679d864b778",
+      "decodedPsnrDb": 38.81,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-st-withold-convent",
+      "sha256": "2e3050243a6609c18e364105d2e069a33a9f722456bf856880507a7d134dc862",
+      "decodedPsnrDb": 38.146,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-road-from-st-withold",
+      "sha256": "3b6b5296f04a9389e6561c72b007b9d02d9daf4c272883303506cfe0626d83eb",
+      "decodedPsnrDb": 38.346,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-edge-road",
+      "sha256": "ddd0164a7a7c6fd3e849ea66bfc9e60376f4497a66a0a8b7b47ae806960f9d06",
+      "decodedPsnrDb": 38.062,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-litter-halt",
+      "sha256": "723a599c1f2ed0e657efd66aeb8a937df89774c552ee9f6f99f60924487d410c",
+      "decodedPsnrDb": 38.077,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-escape-thicket",
+      "sha256": "f66921ea47aceb70fe37a585ab61f9e2ae61b4aa1ebd92471dc941d795380ff3",
+      "decodedPsnrDb": 38.216,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-rescue-path",
+      "sha256": "133e1e9ce22000e7faf3a1720e37fdec7568c624900ad488808291daf6563bcb",
+      "decodedPsnrDb": 38.482,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-rendezvous-oak",
+      "sha256": "93227011536149dede7b75f9de8a6cfd2cc48018cd1daae52e9814046ed69bdf",
+      "decodedPsnrDb": 38.361,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-forest-approach",
+      "sha256": "6541f05f5d550e5ad55a0add0b03c5f6acc397669b2fa3b9bec146c1c6a11445",
+      "decodedPsnrDb": 38.567,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-defences",
+      "sha256": "39b594d24fff2f25ebf0c96b5e6a9a6350ddfa1970d8955f59a0cda6ad1dd88c",
+      "decodedPsnrDb": 38.121,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-eastern-wall",
+      "sha256": "46f9abcfec9e84a378bbfa689c339aa3b1507a047c60b2b93ae853bdee0b1c8c",
+      "decodedPsnrDb": 38.563,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-western-wall",
+      "sha256": "b9bb0aaf642c2c91a0bfb7067828953efac0fcc3a3501b346f8a5e4c15816282",
+      "decodedPsnrDb": 38.138,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-isaac-northbound-road",
+      "sha256": "515656a0f0b19adcb389f215c5c5f14b75221146da2278d74e1187d726c1562a",
+      "decodedPsnrDb": 38.231,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-torquilstone-ruins",
+      "sha256": "9b89f8f5fd3944c27e66b9fab461e497e570f7722f0c34da703fe747527c0764",
+      "decodedPsnrDb": 99.0,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-harthill-trysting-tree",
+      "sha256": "02a95c371b5334514ac236bfd8daff376d3afd417df716ae4d2c79bea4018bc4",
+      "decodedPsnrDb": 38.152,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-harthill-tree-edge",
+      "sha256": "34a104fabbfd9f0800544328cc2221fa7be588f6d4fda9b97486e41c83110f41",
+      "decodedPsnrDb": 38.197,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-harthill-funeral-path",
+      "sha256": "e8620cbf249924301c58df5af4d355e70548d3e61a3fbd37f030869fdc04c71d",
+      "decodedPsnrDb": 38.302,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-harthill-private-tree",
+      "sha256": "3664713ee3d1347a1d3116c02abcaa201adbc62c3f4f2fd0535442f2bf7e7685",
+      "decodedPsnrDb": 38.202,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-york-castle",
+      "sha256": "5ff0b3ecc04dd7a9bc22efe211860cd5b1fb415d14ff9b02fdfc3fdd313168b1",
+      "decodedPsnrDb": 38.341,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-nathan-house",
+      "sha256": "f3ad81b4f34c51745f79bea0b2a80ac7fe437fc79f512a088c926b246d126038",
+      "decodedPsnrDb": 38.328,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-gate",
+      "sha256": "be37c44c2941513ca59775b768a4e56899d7569fe3bb99ca92316f91d2c31447",
+      "decodedPsnrDb": 38.489,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-garden",
+      "sha256": "a6665bbdd00a6c7f461205a81acd0b0889fea43cd3df68fb58be28c5c26d50b5",
+      "decodedPsnrDb": 38.3,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe",
+      "sha256": "0d70715f5508459c01277273315c518e010e3412648cd9c5502a137a669b1397",
+      "decodedPsnrDb": 38.208,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-rebecca-cell",
+      "sha256": "e0f2c3fecfa279f5d7fc624cb1481732547157afbb35ce84fdf3f946c2564a6f",
+      "decodedPsnrDb": 39.552,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-trial-approach",
+      "sha256": "5a1f39e54320245615524df38efd2b75f1f133c0c40a1ac123a50d8547017cc3",
+      "decodedPsnrDb": 39.746,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-great-hall",
+      "sha256": "b2297d858e2b3637ef82e6e47adc5479e569d38b335669470df037d38e770f2f",
+      "decodedPsnrDb": 38.145,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-nearby-road",
+      "sha256": "6a3ae141c46c715447f857057f1289d68d581a337be7d677db3e7f34c8f42de4",
+      "decodedPsnrDb": 38.005,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-adjacent-chamber",
+      "sha256": "b570e77dc703dc90f591ca57a51ceec762f5c03361f35714af88503e5f52f4b8",
+      "decodedPsnrDb": 38.698,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-saint-botolph-priory",
+      "sha256": "f45cec29d6ab31ec101ae3c202bbee9d8b89d5d047ca409e102af5145f82982c",
+      "decodedPsnrDb": 38.298,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-saint-botolph-gate",
+      "sha256": "eeabaa3155322c001bbd0110a26c8574555d835b5bed2cad0b332cea3783a477",
+      "decodedPsnrDb": 38.252,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-saint-botolph-refectory",
+      "sha256": "c864a1d228c294b10c7c4f4abcbf3c6ef031876943c4ecb03240c18f5abbd898",
+      "decodedPsnrDb": 38.407,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-forest-road",
+      "sha256": "39d2114ee83849d3e97d28f92cf475d1ac8f138fb00d63ebde93e05dc77106e3",
+      "decodedPsnrDb": 38.356,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-ambush-glade",
+      "sha256": "938f12af2c28c8e28cc9ec10d97078e42bff38a8584e3c7499bccd4b0672d47b",
+      "decodedPsnrDb": 38.098,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-ambush-private-oak",
+      "sha256": "8d03ab3123650984ec5a7d4faa2ec9cee7a7953da0ead99fd3adc3fb93f47ef6",
+      "decodedPsnrDb": 38.023,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-forest-refreshment-oak",
+      "sha256": "e084254b840ab183ae8947326bdfd523d6be43536fbebc1d224943367d2fa003",
+      "decodedPsnrDb": 38.084,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-approach",
+      "sha256": "ed61079212620c3dae244d4d9ed970177aa8c574db8c9d55b3f07db8accd7461",
+      "decodedPsnrDb": 38.109,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-court",
+      "sha256": "5e63eb9576dc1bd8a3efb47dccbac1902508baa4da1ae109090333bce4cbdae1",
+      "decodedPsnrDb": 38.429,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-third-storey",
+      "sha256": "2ed5d4a48470c10890827d00c540559af779f805827db1c6c1bf9934caef0dce",
+      "decodedPsnrDb": 39.047,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-chapel",
+      "sha256": "4bb5b6eca6cd7b401835d8e4fb856386ad88a4decf5c21001e340039bd7a6c67",
+      "decodedPsnrDb": 38.98,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-oratory",
+      "sha256": "d243669e6dd89ec6f9d5b1b7ece07cba7f4323c392e7d6b03ece39432cbbd169",
+      "decodedPsnrDb": 39.996,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-upper-room",
+      "sha256": "082a9e7698eecdc36befcc529913c5ab417a1574b453659ee6d696bedc955a1b",
+      "decodedPsnrDb": 38.935,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-coningsburgh-guest-room",
+      "sha256": "8eb8fca559aaefde7aea355ffb05cc637b15b18b06432e953f97767bb1498f81",
+      "decodedPsnrDb": 38.878,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-lists",
+      "sha256": "9dbb08dede0b407c98c4188e0ffefb6a1cd2990e7f962de8d8809416b96c4854",
+      "decodedPsnrDb": 39.742,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-spectator-area",
+      "sha256": "b192bf0ecf93ad384cd110df51abc46accb0d45d5f9ef3ac82d804722a385323",
+      "decodedPsnrDb": 39.419,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-spectator-edge",
+      "sha256": "45e9495c541a2c5abf8c0b668d42b7bdd9107298a3e1b39aa1474cb5c9a23b11",
+      "decodedPsnrDb": 38.361,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-procession-route",
+      "sha256": "285eca3ce2b717b61c56aa50a3afe884c2185215a7151261b115b7e9b6ffc1a1",
+      "decodedPsnrDb": 38.31,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-templestowe-west-lists",
+      "sha256": "d68c907995fbb471f5385d575d906fd74cc1486c5b65cb4b2d3f608d383b0345",
+      "decodedPsnrDb": 38.156,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-york-court",
+      "sha256": "07cfb54c40cbb180e3be59c6a1c9b081ebe756b6838aa0ab6c8615ac9484e87b",
+      "decodedPsnrDb": 39.548,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "place-york-minster",
+      "sha256": "7fc4fdb4b8c023bcac187f6d233f1a85066f36f01af37302a7220491bc44dc0a",
+      "decodedPsnrDb": 38.684,
+      "finalApplicationApproved": true
+    },
+    {
+      "asset": "execution-attendants",
+      "sha256": "e8e22da2d3f21e69ed62369f63ecd62062c7adab7452107df33afe338c01f1a5",
+      "decodedPsnrDb": 39.047,
+      "finalApplicationApproved": true
+    }
+  ],
+  "missing": {
+    "characters": [],
+    "locations": [],
+    "items": []
+  }
+}

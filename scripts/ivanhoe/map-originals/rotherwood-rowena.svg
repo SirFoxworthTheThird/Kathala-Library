@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+ <pattern id="oak" width="35" height="25" patternUnits="userSpaceOnUse"><rect width="35" height="25" fill="#aa8359"/><path d="M0 5h35M0 22h35" stroke="#876341" stroke-width="1"/></pattern>
+ <pattern id="silk" width="55" height="55" patternUnits="userSpaceOnUse"><rect width="55" height="55" fill="#8b5550"/><path d="M5 28q10-22 22 0t23 0M28 5q-22 10 0 22t0 23" fill="none" stroke="#c5a46a" stroke-width="2"/></pattern>
+ <g id="light"><circle r="19" fill="#dedbd0" stroke="#7e7e76" stroke-width="3"/><path d="M-11 0h22M0-11v22" stroke="#88867b" stroke-width="4"/><circle r="5" fill="#f6d782"/></g>
+</defs>
+<rect width="1400" height="900" fill="#ece1c8"/>
+<g font-family="Georgia,serif" fill="#352d26">
+<text x="65" y="65" font-size="35">Rotherwood · Rowena’s raised apartment</text>
+<text x="65" y="104" font-size="18">Chapter VI, paragraphs 6–21 · seven solid oak steps, not a Norman tower</text>
+<!-- The main room is raised. The lower landing is a diagrammatic approach, not another room on this level. -->
+<rect x="450" y="195" width="820" height="470" fill="url(#oak)" stroke="#5e4934" stroke-width="15"/>
+<path d="M470 212h780v435H470" fill="none" stroke="url(#silk)" stroke-width="20"/>
+<path d="M620 195h60m210 0h40m340 160v40" stroke="#ece1c8" stroke-width="4"/>
+<text x="650" y="163" font-size="18">Embroidered wall hangings; draughts through imperfect walls</text>
+<rect x="1070" y="255" width="145" height="225" fill="url(#silk)" stroke="#693c5e" stroke-width="9"/>
+<rect x="1089" y="273" width="107" height="50" rx="8" fill="#d5c5aa"/>
+<path d="M1056 250v245m170-245v245M1056 250h170" stroke="#65445f" stroke-width="8"/>
+<text x="1030" y="525" font-size="18">Curtained bed</text>
+<rect x="660" y="270" width="85" height="80" rx="6" fill="url(#silk)" stroke="#6a4538" stroke-width="8"/>
+<rect x="680" y="362" width="47" height="25" rx="4" fill="#e5ddc5" stroke="#867654" stroke-width="3"/>
+<text x="590" y="414" font-size="18">High seat and ivory footstool</text>
+<rect x="800" y="590" width="220" height="28" rx="3" fill="#8c6849" stroke="#604630" stroke-width="4"/>
+<text x="805" y="568" font-size="18">Attendants’ bench</text>
+<path d="M980 230l-65 70 45 45-65 70" fill="none" stroke="#78585d" stroke-width="11"/>
+<text x="810" y="465" font-size="18">Draught screen</text>
+<use href="#light" x="530" y="270"/><use href="#light" x="810" y="230"/><use href="#light" x="1195" y="590"/><use href="#light" x="530" y="590"/>
+<text x="500" y="700" font-size="18">Four silver candelabras with waxen torches</text>
+<!-- Entry direction and furniture positions reconstructed; seven steps are source explicit. -->
+<path d="M450 450v95" stroke="#aa8359" stroke-width="18"/>
+<path d="M450 450h85m-85 0a85 85 0 0 1 85 85" fill="none" stroke="#80684e" stroke-width="2" stroke-dasharray="5 5"/>
+<rect x="230" y="465" width="210" height="65" fill="url(#oak)" stroke="#664b34" stroke-width="3"/>
+<path d="M260 465v65m30-65v65m30-65v65m30-65v65m30-65v65m30-65v65" stroke="#5d432e" stroke-width="3"/>
+<path d="M260 440h155m-15-8 15 8-15 8" fill="none" stroke="#654d34" stroke-width="3"/>
+<text x="240" y="410" font-size="18">UP · seven oak steps</text>
+<path d="M105 495h115" stroke="#7d6b51" stroke-width="3" stroke-dasharray="7 5"/>
+<text x="75" y="570" font-size="18">From the antechamber</text>
+<text x="75" y="598" font-size="16">through a short passage</text>
+<text x="75" y="627" font-size="16">(lower level; approach only)</text>
+<path d="M65 750h1270" stroke="#bda980"/>
+<text x="65" y="790" font-size="17">Interpretive plan, not to scale. Room shape, entry side and all furniture positions are reconstructed.</text>
+<text x="65" y="820" font-size="17">Hangings depict hunting and hawking in the source; this plan uses a schematic textile pattern.</text>
+<text x="65" y="850" font-size="17">The antechamber precedes the seven-step ascent. Its other door destinations and the precise height are unknown.</text>
+</g></svg>

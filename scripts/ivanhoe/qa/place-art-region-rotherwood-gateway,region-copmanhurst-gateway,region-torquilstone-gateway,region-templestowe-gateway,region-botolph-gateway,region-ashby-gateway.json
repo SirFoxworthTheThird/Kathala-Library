@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "region-rotherwood-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "region-copmanhurst-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "region-torquilstone-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "region-templestowe-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "region-botolph-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "region-ashby-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

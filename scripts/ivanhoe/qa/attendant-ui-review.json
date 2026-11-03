@@ -1,0 +1,62 @@
+{
+  "scope": "Two source-identified attendants, collective actions and unknown departure endpoints; not exhaustive cast QA",
+  "observations": [
+    {
+      "key": "hamet",
+      "moment": "The scales",
+      "eventId": "ivanhoe-source-25-p7",
+      "sourceEndpoint": "ivanhoe-place-torquilstone-dungeon",
+      "screenshot": "qa/attendant-hamet-7.png"
+    },
+    {
+      "key": "abdalla",
+      "moment": "The scales",
+      "eventId": "ivanhoe-source-25-p7",
+      "sourceEndpoint": "ivanhoe-place-torquilstone-dungeon",
+      "screenshot": "qa/attendant-abdalla-7.png"
+    },
+    {
+      "key": "hamet",
+      "moment": "The heated bars",
+      "eventId": "ivanhoe-source-25-p21",
+      "sourceEndpoint": "ivanhoe-place-torquilstone-dungeon",
+      "screenshot": "qa/attendant-hamet-21.png"
+    },
+    {
+      "key": "abdalla",
+      "moment": "The heated bars",
+      "eventId": "ivanhoe-source-25-p21",
+      "sourceEndpoint": "ivanhoe-place-torquilstone-dungeon",
+      "screenshot": "qa/attendant-abdalla-21.png"
+    },
+    {
+      "key": "hamet",
+      "moment": "The interrupted cruelty",
+      "eventId": "ivanhoe-source-25-p55",
+      "sourceEndpoint": null,
+      "screenshot": "qa/attendant-hamet-55.png"
+    },
+    {
+      "key": "abdalla",
+      "moment": "The interrupted cruelty",
+      "eventId": "ivanhoe-source-25-p55",
+      "sourceEndpoint": null,
+      "screenshot": "qa/attendant-abdalla-55.png"
+    },
+    {
+      "key": "hamet",
+      "moment": "The Templar’s retreat",
+      "eventId": "ivanhoe-source-34-p80",
+      "sourceEndpoint": null,
+      "screenshot": "qa/attendant-hamet-80.png"
+    },
+    {
+      "key": "abdalla",
+      "moment": "The Templar’s retreat",
+      "eventId": "ivanhoe-source-34-p80",
+      "sourceEndpoint": null,
+      "screenshot": "qa/attendant-abdalla-80.png"
+    }
+  ],
+  "pageErrors": []
+}

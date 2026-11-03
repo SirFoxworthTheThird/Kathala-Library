@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "ashby-archery-south-avenue",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "743560e37bb82a09c1d550fa16c73a2e979af59317731da831e4285b5fd273d2",
+      "compressedSha256": "78c7eebd842b158bed5b463b1be94dedb712be02c5835e7992ad71e910b04e38",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Long clear shooting avenue and distant target, no actors; banner and full view readable.",
+      "screenshots": [
+        "qa/place-ashby-archery-south-avenue.png",
+        "qa/place-ashby-archery-south-avenue-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-host-house-upper-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "b58ca8e11f990aa5d1f587bcc3d99d0ccca490890d8d94ab9ce35aad0b5ec5fe",
+      "compressedSha256": "72d118ac12612673f46881a1c8a020bf66a35a24aab01a8336d9f075c3f1c1b5",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Cushioned raised upper room, no money or people; old capture has known floor controls overlap, fixed separately in 2f869753. Image itself readable.",
+      "screenshots": [
+        "qa/place-ashby-host-house-upper-room.png",
+        "qa/place-ashby-host-house-upper-room-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-host-house-side-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "a389642c28df77f76ad6697de488216ba22d11da7e85eebe66f282eb4ec6752b",
+      "compressedSha256": "0a070ac490dd58c117ec78876d7fbb2af94f7ea63ecc746bdfa24189485d8ffb",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Small adjoining private chamber, no characters; banner and full image clear. Old floor-control overlap resolved in separately checked app fix.",
+      "screenshots": [
+        "qa/place-ashby-host-house-side-room.png",
+        "qa/place-ashby-host-house-side-room-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-host-house-court",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "a7c2504439ebed231ff79c16ebb2e6302bdadd831b317897308ccc32b6698764",
+      "compressedSha256": "2737941a38b20e87ff98e0d3a2011aec488aaaa2a341d3ac314f679f0d5e909f",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty lodging court with wicket, banner and full image clear; old floor-control overlap resolved by app fix.",
+      "screenshots": [
+        "qa/place-ashby-host-house-court.png",
+        "qa/place-ashby-host-house-court-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-host-house-sickroom",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "93e7ef2262a73ca088efd36f685efc2917b15010c56b5cda2ccbb00e56748beb",
+      "compressedSha256": "a58a94faca3dae14e70f2c280c79e8b6da8b917a6ae48541bd625b090a2af052",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty curtained couch and cushions, no patient identity revealed; full image clear, banner readable.",
+      "screenshots": [
+        "qa/place-ashby-host-house-sickroom.png",
+        "qa/place-ashby-host-house-sickroom-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-castle-hall",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "6c8f7aa61a87e92b6890f9a8157c445db0ba9fa63465d5ebd9e20f5d61032872",
+      "compressedSha256": "ebf0690f7b2d040cd73609758ae8be0466568fab55b633873f5e5af886ebbd3f",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty feast hall with raised high table and benches, no guest identities; banner and full view clear.",
+      "screenshots": [
+        "qa/place-ashby-castle-hall.png",
+        "qa/place-ashby-castle-hall-lightbox.png"
+      ]
+    }
+  ]
+}

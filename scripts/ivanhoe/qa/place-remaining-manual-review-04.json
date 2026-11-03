@@ -1,0 +1,82 @@
+{
+  "scope": "Six location decoded images and app banner/lightbox views individually opened; corrected parapet variants supersede v1 captures. End-cursor review only; final approval and source-disclosure audit separate.",
+  "releaseApproval": false,
+  "reports": [
+    {
+      "fixtureSha256": "4f74418ff67de3a91b3dfb23a447e5f8f184d611e207dca6279d1b9cfb8a4a67",
+      "checks": [
+        {
+          "key": "torquilstone-postern-parapet-gateway",
+          "originalSha256": "786f581513b73b4affe49e8e5722d26e1b6f6e45341c7c88f049bb110b64c2dc",
+          "compressedSha256": "a1844d7ecab40f5d42a6515a3727250c13913013f567b2e4a0c820c5e03db2a0",
+          "compressedReview": "Decoded compressed image individually reviewed, including full app enlargement whose served bytes are matched to fixture/manifest by QA helper; material details retained.",
+          "applicationReview": "Corrected small gate and projecting upper defence read in banner; full decoded enlargement confirms broad hinged drawbridge/chains removed.",
+          "screenshots": [
+            "qa/place-torquilstone-postern-parapet-gateway.png",
+            "qa/place-torquilstone-postern-parapet-gateway-lightbox.png"
+          ]
+        },
+        {
+          "key": "torquilstone-postern-parapet",
+          "originalSha256": "8b5dbf40df9b11bc4092f32ca93a89d4097b8566a97ce2c98d968f57062b6544",
+          "compressedSha256": "42720c785dcb89fdb8b4ea386270525b97f4ef2823fa50d7d12f6b3d61d12acd",
+          "compressedReview": "Decoded compressed image individually reviewed, including full app enlargement whose served bytes are matched to fixture/manifest by QA helper; material details retained.",
+          "applicationReview": "Parapet and projecting stonework legible at banner size; full enlargement confirms moat below without invented permanent bridge.",
+          "screenshots": [
+            "qa/place-torquilstone-postern-parapet.png",
+            "qa/place-torquilstone-postern-parapet-lightbox.png"
+          ]
+        }
+      ]
+    },
+    {
+      "fixtureSha256": "7da2d4c7b9fa7f530c4d0b8f8127fe89bc2aeb80545eebbc75fbe139bec7b77e",
+      "checks": [
+        {
+          "key": "torquilstone-room-gateway",
+          "originalSha256": "c917e022ea3efddab348ec2889ae40ae5a4328be98554bb84c85a2326da4b88b",
+          "compressedSha256": "59c2a8183a23c2ff6002d9f3c5821199fb0eb47c5120eec72ce7cb2d35eb8236",
+          "compressedReview": "Decoded compressed image individually reviewed, including full app enlargement whose served bytes are matched to fixture/manifest by QA helper; material details retained.",
+          "applicationReview": "Empty hall and heavy columns clear in banner and enlargement.",
+          "screenshots": [
+            "qa/place-torquilstone-room-gateway.png",
+            "qa/place-torquilstone-room-gateway-lightbox.png"
+          ]
+        },
+        {
+          "key": "torquilstone-dungeon-gateway",
+          "originalSha256": "de7044220760e77e79699535d0e29bd7f7b200618bde721213853eb7aa8de74a",
+          "compressedSha256": "2432efab88d21611b0be31c983fc1013d5c5ddb530f6d47192ea8d790f1f5ba5",
+          "compressedReview": "Decoded compressed image individually reviewed, including full app enlargement whose served bytes are matched to fixture/manifest by QA helper; material details retained.",
+          "applicationReview": "Dim dungeon grate and fetters readable; full enlargement retains damp stone texture.",
+          "screenshots": [
+            "qa/place-torquilstone-dungeon-gateway.png",
+            "qa/place-torquilstone-dungeon-gateway-lightbox.png"
+          ]
+        },
+        {
+          "key": "torquilstone-turret-gateway",
+          "originalSha256": "6027d0e2fa8d984883b3435887d0aa42b6dda2f43286562db9776aac78ee3ba2",
+          "compressedSha256": "53f648bc35868ac456d6d4d246d2060d31e4585da447ee61c209636393761a7c",
+          "compressedReview": "Decoded compressed image individually reviewed, including full app enlargement whose served bytes are matched to fixture/manifest by QA helper; material details retained.",
+          "applicationReview": "Enclosed steep stair readable in banner; full view shows closed upper door and no external escape route.",
+          "screenshots": [
+            "qa/place-torquilstone-turret-gateway.png",
+            "qa/place-torquilstone-turret-gateway-lightbox.png"
+          ]
+        },
+        {
+          "key": "torquilstone-postern-crossing",
+          "originalSha256": "41465b6e18807cfcbe9a9e844d89511c88fd010c196eba4ed95beceb701274fb",
+          "compressedSha256": "55f521d1a620d1a3839de167afeed15416fe1cbf12c373471c1bff02325c3ec1",
+          "compressedReview": "Decoded compressed image individually reviewed, including full app enlargement whose served bytes are matched to fixture/manifest by QA helper; material details retained.",
+          "applicationReview": "Single timber plank legible at banner size and enlargement; static initial crossing illustration, later raft condition is separately displayed in scene state.",
+          "screenshots": [
+            "qa/place-torquilstone-postern-crossing.png",
+            "qa/place-torquilstone-postern-crossing-lightbox.png"
+          ]
+        }
+      ]
+    }
+  ]
+}

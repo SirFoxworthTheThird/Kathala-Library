@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "torquilstone-frontdeboeuf-room",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-main-postern",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-postern-vault",
+      "mapLayerId": "ivanhoe-map-torquilstone-interior",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-court",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-drawbridge-outwork",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-burning-turret",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

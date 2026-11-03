@@ -1,0 +1,21 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "4f74418ff67de3a91b3dfb23a447e5f8f184d611e207dca6279d1b9cfb8a4a67",
+  "placeArtChecks": [
+    {
+      "key": "torquilstone-postern-parapet-gateway",
+      "mapLayerId": "ivanhoe-map-torquilstone",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "torquilstone-postern-parapet",
+      "mapLayerId": "ivanhoe-map-torquilstone-postern-defence",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

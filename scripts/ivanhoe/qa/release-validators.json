@@ -1,0 +1,37 @@
+[
+  {
+    "command": "node scripts/ivanhoe/validate-manuscript.mjs --release",
+    "exitCode": 0,
+    "log": "qa/release-validator-01.log"
+  },
+  {
+    "command": "node scripts/ivanhoe/validate-enrichment.mjs --release",
+    "exitCode": 0,
+    "log": "qa/release-validator-02.log"
+  },
+  {
+    "command": "node scripts/ivanhoe/audit-inventory.mjs --release",
+    "exitCode": 0,
+    "log": "qa/release-validator-03.log"
+  },
+  {
+    "command": "node scripts/ivanhoe/audit-scene-cuts.mjs --release",
+    "exitCode": 0,
+    "log": "qa/release-validator-04.log"
+  },
+  {
+    "command": "node scripts/ivanhoe/audit-authoring-model.mjs --release",
+    "exitCode": 0,
+    "log": "qa/release-validator-05.log"
+  },
+  {
+    "command": "python scripts/ivanhoe/validate-artwork.py --release",
+    "exitCode": 0,
+    "log": "qa/release-validator-06.log"
+  },
+  {
+    "command": "python scripts/ivanhoe/validate-map-artwork.py --release",
+    "exitCode": 0,
+    "log": "qa/release-validator-07.log"
+  }
+]

@@ -1,0 +1,120 @@
+{
+  "scope": "Selected map plans and incomplete source/review fixtures only; not release approval",
+  "checks": [
+    {
+      "path": "scripts/ivanhoe/manuscript-draft.pwk",
+      "sha256": "b2cb6fe4743c5da0332c8c2c35bcc200dfb9b24581ac8a25d87078f6df7a5933",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/authoring-review.pwk",
+      "sha256": "6ed54e3c4ae21807277189a339ce88ae4297d0ed7d19555819199275b259e826",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/botolph.svg",
+      "sha256": "d9b2ec6a762e7f7ab9bf31d6e13d3e90c00ee1309065415e082e06a9800bc03e",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/botolph.png",
+      "sha256": "c437cb9014581c82ff1044724e470f2ed2d313c5fdd6d8070c43c7aac79614f9",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/botolph.webp",
+      "sha256": "4beb0eab75414e11c8a4ecf270230a9b7e83bbba3bfd847d3139cbf46388e938",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh.svg",
+      "sha256": "8a349fff4bfdc472a91d4da9485271c0a815e7aa1dd795eb365dbb229a47e902",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh.png",
+      "sha256": "8652c7b44b6f6f29ca61622f0b415ab8b16b77d9aaba00f16a84cde85b5eefb7",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/coningsburgh.webp",
+      "sha256": "bac859450c55a78be7341b5f9d6b3a91dbdf082775624caea33e4e865d8f8c71",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-keep.svg",
+      "sha256": "18e0cd774883b9922eb3983c3c169256d1d93a48014661f975851b6fbe0887fb",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-keep.png",
+      "sha256": "581dd78f1cf64f782d2f40d734487a298b1f2a780721321432f40a4cdda17e09",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/coningsburgh-keep.webp",
+      "sha256": "01d761b9c22c2c743bd690e64da9b8b6424e6b5a35678588b64b09f4e68fefdd",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-upper.svg",
+      "sha256": "308438fd14448801794c97403346586b54fb60625efea7065191afe3efd01681",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-upper.png",
+      "sha256": "2c666d9ff24acfb9805cd43fc1060b51a1179cb3ba5df9279d8718dc133fb833",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/coningsburgh-upper.webp",
+      "sha256": "8b11fff62fc1679b30ab5af5de74daa97674b489bbfcd1e9a91fc34c0eec68b4",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-guests.svg",
+      "sha256": "216707e702bb3542e2c7daa320d9e1c5d2cb0aa79cb107bab5058eb4c17c4c61",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/coningsburgh-guests.png",
+      "sha256": "057fe8a2b44288c9fe328100e43622c76d41319279cb155f0d1673974229ec3c",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/coningsburgh-guests.webp",
+      "sha256": "abd77812cad253d946b2aa373dae6c7eec50ac9da5cd49529a4660d14a0245b8",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/york.svg",
+      "sha256": "5699b56f8d69dd9791d33052e73053e88bcde4448b0f01b71a2be0ea5364f75b",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/york.png",
+      "sha256": "22f389d57e414b8b6ec743e4701cf747ce7578e8b5185ce236550c0b2e502c9c",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/york.webp",
+      "sha256": "24cb6ccad7a40cf2a3b2f1607c9f060fa7848c70b70ba598f2405f0f6bd00d85",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/don-woods.svg",
+      "sha256": "664dba2f96dcdf846c0e02f6c25ee2ca03c5f3321bfdec785cfcc69b4a320431",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/don-woods.png",
+      "sha256": "ddf23e1378e588bd0783c75e28cf6a84962f55d4b80c184abdcf97ed33e52787",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/don-woods.webp",
+      "sha256": "2245c3d9706f6e16b403ead1dc03709b3991365d5abd508c15fdd81fd2cd9bde",
+      "byteIdentical": true
+    }
+  ]
+}

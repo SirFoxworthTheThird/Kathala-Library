@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "ashby-castle-inner-hall",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "f1fd4cc58ce671ffb464e87211b88bae383ade099e9516d3a16a87470dae3198",
+      "compressedSha256": "2af6be7e6b08ed28bb3b2dfca04c0595ca15af1a506edddb51c0fa8fa162ae10",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Quiet stone hall distinct from feast hall, no disguised people or recognition; banner and full image clear.",
+      "screenshots": [
+        "qa/place-ashby-castle-inner-hall.png",
+        "qa/place-ashby-castle-inner-hall-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-castle-private-apartment",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "50de8d676052f4110fe41e0818abf67ceed88feb15f1ebff52c68fc6717eecf3",
+      "compressedSha256": "06c9d3e8d7d664df9602f7ed277280b18ad5e04ada0566045eb3ceee0481dd99",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Furnished private room without John, no named connecting route encoded; full view unsigned and clear.",
+      "screenshots": [
+        "qa/place-ashby-castle-private-apartment.png",
+        "qa/place-ashby-castle-private-apartment-lightbox.png"
+      ]
+    },
+    {
+      "key": "copmanhurst-clearing",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e63cada4d7de1e6ecaeea26fe8d33195fedb8f9feb5c782fc9ee0b8a433e375f",
+      "compressedSha256": "40d6dd8a1ad56952f83c3b976799dc16ad9bf3138add46f644df8712d9e74322",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Log hut, ruined chapel and rock spring; empty clearing retains readable detail in banner and enlargement.",
+      "screenshots": [
+        "qa/place-copmanhurst-clearing.png",
+        "qa/place-copmanhurst-clearing-lightbox.png"
+      ]
+    },
+    {
+      "key": "copmanhurst-door",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "d202119d18a4778ad77ddcccb46d9ec91a3f9d54bb899b148d601cf4a553eec9",
+      "compressedSha256": "7c0c2b1848f5b1c78248ff3c3448baf1bb2891aa87c0a9ff73541491a22eec3d",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Closed timber hut door, crude exterior cross and spring at right; clear full view without hidden supplies.",
+      "screenshots": [
+        "qa/place-copmanhurst-door.png",
+        "qa/place-copmanhurst-door-lightbox.png"
+      ]
+    },
+    {
+      "key": "copmanhurst-hut",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "c284053d1f911a32667b6c195aaea43da6f7b31e03e1603883759ad8566de4ef",
+      "compressedSha256": "fddcb7dc8029cadaeb0ccbe0f71cb2291cbe40238fe736d069213efe14808e4b",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Leaf bed, table, stools and crucifix; no concealed weapons or charger revealed, banner and full view clear.",
+      "screenshots": [
+        "qa/place-copmanhurst-hut.png",
+        "qa/place-copmanhurst-hut-lightbox.png"
+      ]
+    },
+    {
+      "key": "copmanhurst-fountain",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "f814471be192a74f5a49e1fd2abafc75865721db60342b21a4c82115b2550e3e",
+      "compressedSha256": "0758fe5b1c6c025cc80a8a3e0cad90aa20b1cfe209b03ac4a167c0232db7574f",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Spring at right of approach, hut and ruined chapel beyond; full detail readable, no actors.",
+      "screenshots": [
+        "qa/place-copmanhurst-fountain.png",
+        "qa/place-copmanhurst-fountain-lightbox.png"
+      ]
+    }
+  ]
+}

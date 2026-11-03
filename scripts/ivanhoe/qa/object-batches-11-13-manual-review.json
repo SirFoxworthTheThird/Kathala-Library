@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-02",
+  "scope": "Ten selected originals, decoded WebPs and actual app thumbnails/lightboxes individually opened. Two unsupported horse backgrounds corrected; floral chaplet rejected using VIII.21. These are scoped visual checks, not complete custody or final approval.",
+  "checks": [
+    {
+      "id": "loan-horse",
+      "compressedSha256": "32f1bd6069ca5478e2e0e07d0f3aaa61f48994be38c60610640c437dd601ffb1",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-13-p48",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-loan-horse.png",
+      "enlarged": "qa/item-loan-horse-lightbox.png"
+    },
+    {
+      "id": "prize-horse",
+      "compressedSha256": "6bbcd25c04e2b6ee43818f5aafaf13a1ad6c34d8b4270335eec836c8a0ea2a04",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-12-p16",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-prize-horse.png",
+      "enlarged": "qa/item-prize-horse-lightbox.png"
+    },
+    {
+      "id": "blackknight-charger",
+      "compressedSha256": "36c75045f9c5f5fac7e27369a4f760ff9bedae1adf1894a31d8af9b042c44648",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-15-p34",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-blackknight-charger.png",
+      "enlarged": "qa/item-blackknight-charger-lightbox.png"
+    },
+    {
+      "id": "malkin",
+      "compressedSha256": "9b43b594b6ba8912ec13e2b9e410851b019f693a85a3939667cbe10f115466cf",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-43-p28",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-malkin.png",
+      "enlarged": "qa/item-malkin-lightbox.png"
+    },
+    {
+      "id": "ivanhoe-warhorse",
+      "compressedSha256": "3419242abb7ebbd26631a243f0043feac31ece36f5e624ea504cd75ebb77378f",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-44-p0",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-ivanhoe-warhorse.png",
+      "enlarged": "qa/item-ivanhoe-warhorse-lightbox.png"
+    },
+    {
+      "id": "zamor",
+      "compressedSha256": "3af127a85f6eafd67d3a80f2fe4fb0ace15f804cc6b920f96aaa46d21903a33c",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-46-p52",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-zamor.png",
+      "enlarged": "qa/item-zamor-lightbox.png"
+    },
+    {
+      "id": "loan-armour",
+      "compressedSha256": "38a2ae6d0f29d6284c18f2b66a15c4ef739797fbae7755ce492b131d37f1a1c0",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-13-p48",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-loan-armour.png",
+      "enlarged": "qa/item-loan-armour-lightbox.png"
+    },
+    {
+      "id": "chaplet",
+      "compressedSha256": "1f741e1e385b1523217b528e402b7e8eb343184e6af03ae66caee38ccc42913b",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-15-p47",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-chaplet.png",
+      "enlarged": "qa/item-chaplet-lightbox.png"
+    },
+    {
+      "id": "gurth-coins",
+      "compressedSha256": "7884f80523379a63b3231b7c374752b1dc9e64178acfcb6211d1049da5181853",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-13-p15",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-gurth-coins.png",
+      "enlarged": "qa/item-gurth-coins-lightbox.png"
+    },
+    {
+      "id": "aymer-tablets",
+      "compressedSha256": "019da031416e85e3c0c327e8efcc63022acae64206c7740fa9fe34e65bafdaba",
+      "fixtureSha256": "4a8d21ad894279f759399a3b881d84b0868dfa348bff05908d2c1e7d7605512c",
+      "eventId": "ivanhoe-source-36-p81",
+      "captureReport": "qa/item-art-loan-horse,prize-horse,blackknight-charger,malkin,ivanhoe-warhorse,zamor,loan-armour,chaplet,gurth-coins,aymer-tablets.json",
+      "thumbnail": "qa/item-aymer-tablets.png",
+      "enlarged": "qa/item-aymer-tablets-lightbox.png"
+    }
+  ],
+  "releaseApproved": false
+}

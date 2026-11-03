@@ -1,0 +1,16 @@
+{
+  "id": "fangs",
+  "original": "scripts/ivanhoe/art-originals/fangs-v2.png",
+  "source": "I.12",
+  "prompt": "Use case: historical literary character illustration. Create one original standalone full-body portrait of Fangs, Gurth's dog in Walter Scott's Ivanhoe, grounded only in Chapter I paragraph 12. A ragged wolfish-looking medieval working lurcher, described as half mastiff and half greyhound: lean long-legged frame and tucked abdomen, a broader powerful chest and head than a pure sighthound, rough wiry unkempt charcoal-grey and brown coat (coat colour is interpretive). Natural canine anatomy, alert attentive expression, long muzzle, understated folded ears. Seen standing in a careful uneven stance on soft summer woodland earth beside a shallow rivulet with beech leaves and acorns. The forefeet have been disabled under forest law; show a mild guarded weight distribution and front toes resting carefully, without depicting cutting, blood, fresh wounds, dressings or grotesque distortion. Four coherent legs and four paws clearly readable, no action running pose. Full animal fills most of a vertical composition, three-quarter side view, quiet blurred green woodland background, a tiny distant suggestion of two foraging swine, no humans. Twelfth-century Yorkshire rural atmosphere, mature painterly literary book plate, realistic fine fur textures and controlled oil-and-watercolour brushwork, subdued earth colours and soft late afternoon summer light. No modern collar or harness, no metal thrall collar, no saddle, no glowing eyes, no fantasy wolf, no cartoon, no text, letters, border, logo or watermark. Dignified animal portrait, not a pet advertisement.",
+  "editPrompt": "Edit only the two FRONT paws at the bottom centre and bottom right of this Fangs illustration. The source says the forest ranger has cut off the foreclaws, leaving him limping. Remove the clearly visible long pointed dark claws from BOTH front paws; the front toe ends should look old, healed and smoothly blunt, with no protruding nails. Keep the paws anatomically coherent and the portrayal non-graphic: no red wounds, blood, cutting, bandages or exposed tissue. A slight guarded uneven weight distribution is appropriate, without grotesque deformation. Do not change the dog's face, ragged coat, four legs, hind paws, composition, stream, trees, light or painterly style. This is an old disability, not a fresh injury or an injury scene.",
+  "generator": "built-in image_gen",
+  "originalReview": "Opened selected v2 original at full size. Ragged wolfish lurcher has a lean greyhound frame with broader chest and head, four coherent legs, alert eyes and rough coat beside a woodland rivulet. Front claws were incorrectly intact in v1; v2 removes the protruding claws from both forepaws without blood or a new injury scene. Hind claws remain. Coat colour and exact stance are interpretive; no claim that this static portrait proves an animated limp. Original approved as candidate; actual app presentation pending.",
+  "rejectedVariants": [
+    {
+      "original": "scripts/ivanhoe/art-originals/fangs-v1.png",
+      "reason": "Protruding intact foreclaws contradicted the source's old disability; retained as rejected original."
+    }
+  ],
+  "appReviewed": false
+}

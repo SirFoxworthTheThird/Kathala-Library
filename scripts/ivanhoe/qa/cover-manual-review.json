@@ -1,0 +1,16 @@
+{
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90",
+  "finding": "Opening thumbnail and native lightbox inspected. Closed helmet, black horse and uprooted oak shield remain anonymous, readable and free of royal identity spoilers.",
+  "screenshots": [
+    {
+      "path": "qa/cover-opening-thumbnail.png",
+      "sha256": "4d718cda0527e9298213793cfde3b72a7326e388aa46453e9bc01c8f156744dc"
+    },
+    {
+      "path": "qa/cover-opening-lightbox.png",
+      "sha256": "8020be052df0d9719e0955f5168659503d27b8576a8d24db6ffbe8a3f7818260"
+    }
+  ],
+  "scope": "Manual presentation review retained through exact URL/model transition proofs; final candidate application checks and screenshots match the same subjects, geometry and disclosed state model."
+}

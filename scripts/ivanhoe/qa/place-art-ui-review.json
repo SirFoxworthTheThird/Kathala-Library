@@ -1,0 +1,18 @@
+{
+  "scope": "Two first-encounter place illustrations in actual location panel and lightbox; final artifact approval pending",
+  "observations": [
+    {
+      "key": "forest-glade",
+      "event": "The forest glade",
+      "screenshot": "qa/place-art-forest-glade.png",
+      "full": "qa/place-art-forest-glade-full.png"
+    },
+    {
+      "key": "rotherwood-hall",
+      "event": "Cedric’s hall",
+      "screenshot": "qa/place-art-rotherwood-hall.png",
+      "full": "qa/place-art-rotherwood-hall-full.png"
+    }
+  ],
+  "pageErrors": []
+}

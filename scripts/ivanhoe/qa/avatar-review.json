@@ -1,0 +1,136 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-gurth",
+      "name": "Gurth",
+      "eventId": "ivanhoe-source-4-p8",
+      "cursorLabel": "Ch.4 · CHAPTER I — The forest glade (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-gurth.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-wamba",
+      "name": "Wamba",
+      "eventId": "ivanhoe-source-4-p8",
+      "cursorLabel": "Ch.4 · CHAPTER I — The forest glade (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-wamba.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-fangs",
+      "name": "Fangs",
+      "eventId": "ivanhoe-source-4-p12",
+      "cursorLabel": "Ch.4 · CHAPTER I — Swine and pork (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-fangs.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-aymer",
+      "name": "The churchman",
+      "eventId": "ivanhoe-source-5-p0",
+      "cursorLabel": "Ch.5 · CHAPTER II — Riders on the path (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-aymer.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-brian",
+      "name": "The armed traveller",
+      "eventId": "ivanhoe-source-5-p0",
+      "cursorLabel": "Ch.5 · CHAPTER II — Riders on the path (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-brian.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-palmer",
+      "name": "The guide at Sunken Cross",
+      "eventId": "ivanhoe-source-5-p57",
+      "cursorLabel": "Ch.5 · CHAPTER II — A willing guide (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-palmer.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-cedric",
+      "name": "Cedric the Saxon",
+      "eventId": "ivanhoe-source-6-p0",
+      "cursorLabel": "Ch.6 · CHAPTER III — Cedric’s hall (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-cedric.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-rowena",
+      "name": "Rowena",
+      "eventId": "ivanhoe-source-7-p26",
+      "cursorLabel": "Ch.7 · CHAPTER IV — Rowena enters (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-rowena.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-isaac",
+      "name": "Isaac of York",
+      "eventId": "ivanhoe-source-8-p14",
+      "cursorLabel": "Ch.8 · CHAPTER V — No seat offered (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-isaac.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-rebecca",
+      "name": "Rebecca",
+      "eventId": "ivanhoe-source-10-p16",
+      "cursorLabel": "Ch.10 · CHAPTER VII — A place beneath the gallery (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-rebecca.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-yeoman",
+      "name": "The yeoman in green",
+      "eventId": "ivanhoe-source-10-p17",
+      "cursorLabel": "Ch.10 · CHAPTER VII — The Prince arrives (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-yeoman.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-athelstane",
+      "name": "Athelstane of Coningsburgh",
+      "eventId": "ivanhoe-source-10-p21",
+      "cursorLabel": "Ch.10 · CHAPTER VII — The gallery command (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-athelstane.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-locksley",
+      "name": "Locksley",
+      "eventId": "ivanhoe-source-16-p38",
+      "cursorLabel": "Ch.16 · CHAPTER XIII — Locksley’s wager (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-locksley.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

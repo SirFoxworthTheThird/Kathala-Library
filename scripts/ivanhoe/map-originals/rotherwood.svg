@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+ <pattern id="grass" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="#b8bd87"/><path d="m5 12 3-6m15 22 2-5m8-13 2-5" stroke="#8a9b68" opacity=".5"/></pattern>
+ <pattern id="water" width="60" height="22" patternUnits="userSpaceOnUse"><rect width="60" height="22" fill="#8eb5b1"/><path d="M4 7q12-4 22 0m7 10q11-4 23 0" fill="none" stroke="#d2e1cf" stroke-width="2"/></pattern>
+ <pattern id="thatch" width="18" height="20" patternUnits="userSpaceOnUse"><rect width="18" height="20" fill="#b69b62"/><path d="m0 18 8-14m1 14 8-14" stroke="#7f7046"/></pattern>
+ <pattern id="wood" width="26" height="18" patternUnits="userSpaceOnUse"><rect width="26" height="18" fill="#99764d"/><path d="M0 6h26m-26 8h26" stroke="#c1a16a" stroke-width="2"/></pattern>
+ <g id="tree"><circle r="31" fill="#718352" stroke="#4f6844" stroke-width="2"/><circle cx="-11" cy="-9" r="20" fill="#87945a"/><circle cx="12" cy="-3" r="18" fill="#7b8c52"/><path d="m-13 15 11-10 15 8M-2 5V-14" fill="none" stroke="#5c7046" stroke-width="2"/></g>
+ <filter id="shadow"><feDropShadow dx="2" dy="4" stdDeviation="3" flood-opacity=".2"/></filter>
+</defs>
+<rect width="1400" height="900" fill="#eee4ce"/>
+<text x="65" y="62" font-family="Georgia,serif" font-size="36" fill="#302e24">Rotherwood · the household and its defences</text>
+<text x="67" y="99" font-family="Georgia,serif" font-size="18" fill="#554f3c">Low timber buildings, several courts, a stream-fed ditch and two palisades · Chapters II and VI</text>
+<rect x="65" y="125" width="1270" height="610" rx="12" fill="url(#grass)"/>
+<!-- Surrounding woodland is illustrative, not a measured tree inventory. -->
+<g opacity=".9">
+ <use href="#tree" x="110" y="166"/><use href="#tree" x="172" y="183"/><use href="#tree" x="230" y="153"/><use href="#tree" x="297" y="161"/>
+ <use href="#tree" x="1197" y="172"/><use href="#tree" x="1265" y="184"/><use href="#tree" x="1300" y="244"/>
+ <use href="#tree" x="1276" y="327"/><use href="#tree" x="1300" y="394"/><use href="#tree" x="1272" y="477"/>
+ <use href="#tree" x="1300" y="562"/><use href="#tree" x="1268" y="653"/><use href="#tree" x="1195" y="700"/>
+ <use href="#tree" x="101" y="260"/><use href="#tree" x="167" y="296"/><use href="#tree" x="104" y="349"/>
+ <use href="#tree" x="112" y="562"/><use href="#tree" x="171" y="606"/><use href="#tree" x="109" y="678"/><use href="#tree" x="255" y="694"/>
+</g>
+<!-- The ring follows an interpretive irregular enclosure; the moat and two banks are source-grounded. -->
+<path d="M315 437Q307 230 415 195Q620 151 935 185Q1110 199 1148 295L1193 513Q1195 647 1080 680L456 683Q325 652 315 437Z" fill="none" stroke="#6e958d" stroke-width="65"/>
+<path d="M315 437Q307 230 415 195Q620 151 935 185Q1110 199 1148 295L1193 513Q1195 647 1080 680L456 683Q325 652 315 437Z" fill="none" stroke="url(#water)" stroke-width="53"/>
+<path d="M274 415L304 389Q280 213 403 157Q656 118 953 145Q1149 169 1189 281L1231 509Q1240 683 1091 720L445 721Q291 687 274 493L303 516" fill="none" stroke="#55492f" stroke-width="13" stroke-dasharray="5 7"/>
+<path d="M357 415L386 388Q360 262 435 233Q648 190 923 224Q1073 235 1110 308L1152 516Q1155 612 1065 639L464 641Q365 615 357 493L386 516" fill="none" stroke="#55492f" stroke-width="13" stroke-dasharray="5 7"/>
+<path d="M70 452H274M357 452H480" stroke="#c9b48b" stroke-width="42"/>
+<rect x="273" y="425" width="86" height="55" fill="url(#wood)" stroke="#64492d" stroke-width="4"/>
+<path d="M282 426v53m14-53v53m14-53v53m14-53v53m14-53v53m14-53v53" stroke="#5b422a" stroke-width="2"/>
+<g filter="url(#shadow)" stroke="#664d31" stroke-width="5">
+ <path d="M480 276H812V379H480Z" fill="url(#thatch)"/>
+ <path d="M480 328H812" stroke-width="6"/>
+ <path d="M650 551H916V623H650Z" fill="url(#thatch)"/>
+ <path d="M650 587H916" stroke-width="5"/>
+ <path d="M971 305H1104V419H971Z" fill="url(#thatch)"/>
+ <path d="M1037 305V419" stroke-width="5"/>
+ <path d="M479 482H603V594H479Z" fill="url(#thatch)"/>
+ <path d="M846 265H920V362H846Z" fill="url(#thatch)"/>
+</g>
+<!-- Seven-step ascent is attested; its position in this site plan is reconstructed. -->
+<g stroke="#745537" stroke-width="3" fill="#c4a97a"><rect x="982" y="420" width="78" height="58"/><path d="M982 428h78m-78 8h78m-78 8h78m-78 8h78m-78 8h78m-78 8h78"/></g>
+<path d="M805 382v140m120-90-77 41H610" fill="none" stroke="#b39b70" stroke-width="22" opacity=".8"/>
+<path d="M610 405v115m0 0h330" fill="none" stroke="#897e55" stroke-width="3" stroke-dasharray="6 5"/>
+<!-- Separate narrow postern crossing; its compass position is not established. -->
+<circle cx="1068" cy="638" r="8" fill="#b8bd87"/><circle cx="1118" cy="712" r="8" fill="#b8bd87"/>
+<path d="m1070 637 48 75" stroke="#cbb48c" stroke-width="10"/>
+<path d="m1067 639 48 75m-42-78 48 75" stroke="#6f5438" stroke-width="3"/>
+<path d="M1017 132q-21 25-12 50" fill="none" stroke="#8eb5b1" stroke-width="15"/>
+<g font-family="Georgia,serif" fill="#302e24" text-anchor="middle">
+ <text x="646" y="263" font-size="24">The hall</text>
+ <text x="783" y="541" font-size="21">Sleeping cells</text>
+ <text x="1039" y="291" font-size="20">Raised rooms</text>
+ <text x="1015" y="501" font-size="17">Seven oak steps</text>
+ <text x="715" y="433" font-size="24">Courts</text>
+ <text x="960" y="600" text-anchor="start" font-size="17">Postern</text>
+ <text x="1168" y="754" font-size="16">Narrow crossing*</text>
+ <text x="160" y="420" font-size="19">Western approach</text>
+ <text x="204" y="546" font-size="17">Drawbridge</text>
+ <text x="657" y="707" font-size="18">Water-filled ditch</text>
+ <text x="1090" y="156" font-size="16">Stream-fed</text>
+</g>
+<path d="M205 400v-25m0 0-7 13m7-13 7 13" fill="none" stroke="#4e583b" stroke-width="3"/>
+<text x="205" y="365" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#4e583b">N</text>
+<path d="M260 537 291 481M1000 607 1067 632M1120 710 1150 735" fill="none" stroke="#5d6247" stroke-width="1.5" stroke-dasharray="4 4"/>
+<g font-family="Georgia,serif" fill="#514a39" font-size="17">
+ <text x="67" y="775">Interpretive site plan · not to scale. The western entrance, water-filled ditch and two defensive banks follow II.68–70.</text>
+ <text x="67" y="808">Building positions, enclosure shape and internal circulation are reconstructed; no surveyed floor plan survives in the text.</text>
+ <text x="67" y="841">*The postern and two-plank crossing follow VI.49–61; their compass position is unknown. This drawing suggests no secret passage.</text>
+ <text x="67" y="874">The household is low and irregular, not a Norman turreted castle. The southern sleeping cell is mentioned at VI.4.</text>
+</g>
+</svg>

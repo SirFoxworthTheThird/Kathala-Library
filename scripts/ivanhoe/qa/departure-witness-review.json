@@ -1,0 +1,2963 @@
+{
+  "scope": "Manual pinned-source departure concordance; does not substitute for complete scene, inventory or final browser review",
+  "sourceSha256": "188187a4af0956b01ccb0a9f8fb50587ffa4fca0b2d12d8ff5a82fc6f05f15e0",
+  "reviewed": 128,
+  "decisions": [
+    {
+      "point": "1.9",
+      "decision": "Clothing leaves knees bare; no departure.",
+      "sceneEndpoints": [
+        {
+          "from": 8,
+          "cast": [
+            {
+              "key": "gurth",
+              "location": "forest-glade"
+            },
+            {
+              "key": "wamba",
+              "location": "forest-glade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "1.13",
+      "decision": "Collar cannot be removed; no actual custody or travel change.",
+      "sceneEndpoints": [
+        {
+          "from": 12,
+          "cast": [
+            {
+              "key": "gurth",
+              "location": "forest-glade"
+            },
+            {
+              "key": "wamba",
+              "location": "forest-glade"
+            },
+            {
+              "key": "fangs",
+              "location": "forest-glade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "2.40",
+      "decision": "Travellers withdraw after the directions; the encounter ends, not an arrival at the house.",
+      "sceneEndpoints": [
+        {
+          "from": 40,
+          "cast": [
+            {
+              "key": "aymer",
+              "location": "road-to-sunken-cross"
+            },
+            {
+              "key": "brian",
+              "location": "road-to-sunken-cross"
+            },
+            {
+              "key": "hamet",
+              "location": "road-to-sunken-cross"
+            },
+            {
+              "key": "abdalla",
+              "location": "road-to-sunken-cross"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "3.9",
+      "decision": "Clothing exposes the knee; no departure.",
+      "sceneEndpoints": [
+        {
+          "from": 0,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "balder",
+              "location": "rotherwood-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "3.23",
+      "decision": "Hundebert leaves to execute orders; explicit state added with unknown endpoint.",
+      "sceneEndpoints": [
+        {
+          "from": 23,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "oswald",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "elgitha",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "hundebert",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "3.29",
+      "decision": "Elgitha leaves to deliver the message; explicit state added with unknown endpoint.",
+      "sceneEndpoints": [
+        {
+          "from": 29,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "oswald",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "elgitha",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "4.6",
+      "decision": "The Palmer withdraws to a settle under the hall chimney, remaining inside the hall.",
+      "sceneEndpoints": [
+        {
+          "from": 0,
+          "cast": [
+            {
+              "key": "hamet",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "abdalla",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "hugo",
+              "location": "rotherwood-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "4.37",
+      "decision": "Aymer leaves weaker liquor to his lay brother; a choice of drink, not a bodily exit.",
+      "sceneEndpoints": [
+        {
+          "from": 31,
+          "cast": [
+            {
+              "key": "rowena",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "gurth",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "4.50",
+      "decision": "Oswald leaves the hall after arranging accommodation; endpoint cleared.",
+      "sceneEndpoints": [
+        {
+          "from": 48,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "oswald",
+              "location": null
+            },
+            {
+              "key": "rowena",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "gurth",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "5.27",
+      "decision": "Wamba's hypothetical advice that Richard should have left the crusade to the Knights is not an actual journey.",
+      "sceneEndpoints": [
+        {
+          "from": 20,
+          "cast": [
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "rowena",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "isaac",
+              "location": "rotherwood-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "5.33",
+      "decision": "Brian withdraws his fingers from his sword; he does not leave the hall.",
+      "sceneEndpoints": [
+        {
+          "from": 28,
+          "cast": [
+            {
+              "key": "rowena",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "hugo",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "isaac",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "hamet",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "abdalla",
+              "location": "rotherwood-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "5.57",
+      "decision": "Cedric and Rowena retire by separate doors; states added with unknown destinations.",
+      "sceneEndpoints": [
+        {
+          "from": 57,
+          "cast": [
+            {
+              "key": "brian",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "isaac",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "cedric",
+              "location": null
+            },
+            {
+              "key": "rowena",
+              "location": null
+            },
+            {
+              "key": "hamet",
+              "location": "rotherwood-hall"
+            },
+            {
+              "key": "abdalla",
+              "location": "rotherwood-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "6.11",
+      "decision": "The maidens retire further within the room, not out of it.",
+      "sceneEndpoints": [
+        {
+          "from": 7,
+          "cast": [
+            {
+              "key": "edwina",
+              "location": "rotherwood-rowena-chamber"
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-rowena-chamber"
+            },
+            {
+              "key": "rowena",
+              "location": "rotherwood-rowena-chamber"
+            },
+            {
+              "key": "elgitha",
+              "location": "rotherwood-rowena-chamber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "6.36",
+      "decision": "Figurative pressure in dialogue; no bodily removal.",
+      "sceneEndpoints": [
+        {
+          "from": 35,
+          "cast": [
+            {
+              "key": "palmer",
+              "location": "rotherwood-isaac-cell"
+            },
+            {
+              "key": "isaac",
+              "location": "rotherwood-isaac-cell"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "6.51",
+      "decision": "Gurth is asked to fetch mounts and leaves; the next scene does not invent him beside the wicket speakers.",
+      "sceneEndpoints": [
+        {
+          "from": 49,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "rotherwood-postern"
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-postern"
+            },
+            {
+              "key": "gurth",
+              "location": null
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-postern"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "6.58",
+      "decision": "The riders disappear under trees; endpoint unknown until later account.",
+      "sceneEndpoints": [
+        {
+          "from": 57,
+          "cast": [
+            {
+              "key": "gurth",
+              "location": "rotherwood-postern-bridge"
+            },
+            {
+              "key": "palmer",
+              "location": null
+            },
+            {
+              "key": "isaac",
+              "location": null
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-postern-bridge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "7.17",
+      "decision": "Isaac would have withdrawn but does not do so.",
+      "sceneEndpoints": [
+        {
+          "from": 17,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "ashby-lower-ring"
+            },
+            {
+              "key": "rebecca",
+              "location": "ashby-lower-ring"
+            },
+            {
+              "key": "yeoman",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "john",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "aymer",
+              "location": "ashby-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "7.50",
+      "decision": "John resumes his circuit after the money exchange; no early gallery or banquet arrival.",
+      "sceneEndpoints": [
+        {
+          "from": 49,
+          "cast": [
+            {
+              "key": "rebecca",
+              "location": "ashby-lower-ring"
+            },
+            {
+              "key": "john",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "isaac",
+              "location": "ashby-lower-ring"
+            },
+            {
+              "key": "wamba",
+              "location": "ashby-gallery-steps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "8.21",
+      "decision": "Rules describe who shall have borne himself best tomorrow; no present removal or premature future award.",
+      "sceneEndpoints": [
+        {
+          "from": 17,
+          "cast": [
+            {
+              "key": "aymer",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "8.23",
+      "decision": "Heralds withdraw; marshals retain their distinct functions.",
+      "sceneEndpoints": [
+        {
+          "from": 17,
+          "cast": [
+            {
+              "key": "aymer",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "8.30",
+      "decision": "Challengers retire between rounds and return in the same scene; no final departure is inferred.",
+      "sceneEndpoints": [
+        {
+          "from": 24,
+          "cast": [
+            {
+              "key": "brian",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "malvoisin",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "grantmesnil",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "vipont",
+              "location": "ashby-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "8.47",
+      "decision": "Shield removed; object action, not bodily departure.",
+      "sceneEndpoints": [
+        {
+          "from": 47,
+          "cast": [
+            {
+              "key": "brian",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-northern-end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "8.49",
+      "decision": "Opposite end stations after the first course; northern knight endpoint corrected.",
+      "sceneEndpoints": [
+        {
+          "from": 49,
+          "cast": [
+            {
+              "key": "brian",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-northern-end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "8.62",
+      "decision": "Vipont is carried off alive, destination unknown; no invented infirmary or death.",
+      "sceneEndpoints": [
+        {
+          "from": 62,
+          "cast": [
+            {
+              "key": "wyvil",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-lists-centre"
+            },
+            {
+              "key": "vipont",
+              "location": null
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "9.19",
+      "decision": "Figurative change in vanity, not travel.",
+      "sceneEndpoints": [
+        {
+          "from": 16,
+          "cast": [
+            {
+              "key": "wyvil",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "9.45",
+      "decision": "Tournament arrangements and withdrawal concern the closing company, not an early banquet arrival.",
+      "sceneEndpoints": [
+        {
+          "from": 45,
+          "cast": [
+            {
+              "key": "john",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "yeoman",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "9.51",
+      "decision": "John rides away with his train; endpoint unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 51,
+          "cast": [
+            {
+              "key": "john",
+              "location": null
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-victor-pavilion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "9.52",
+      "decision": "The victor actually retires to the lent pavilion; its established endpoint is retained as the onlookers disperse.",
+      "sceneEndpoints": [
+        {
+          "from": 51,
+          "cast": [
+            {
+              "key": "john",
+              "location": null
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-victor-pavilion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "10.14",
+      "decision": "Baldwin has departed after the interview; unknown endpoint retained.",
+      "sceneEndpoints": [
+        {
+          "from": 11,
+          "cast": [
+            {
+              "key": "disinherited",
+              "location": "ashby-victor-pavilion"
+            },
+            {
+              "key": "baldwin",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "10.28",
+      "decision": "Gurth has left the pavilion; route not inferred from his later appearance.",
+      "sceneEndpoints": [
+        {
+          "from": 23,
+          "cast": [
+            {
+              "key": "disinherited",
+              "location": "ashby-victor-pavilion"
+            },
+            {
+              "key": "gurth",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "10.63",
+      "decision": "Gurth has left Isaac's room; no assumed continuing room presence.",
+      "sceneEndpoints": [
+        {
+          "from": 60,
+          "cast": [
+            {
+              "key": "gurth",
+              "location": null
+            },
+            {
+              "key": "isaac",
+              "location": "ashby-host-house-upper-room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "10.65",
+      "decision": "Rebecca's unnoticed departure is reported; offstage location fact clears stale room state.",
+      "sceneEndpoints": [
+        {
+          "from": 65,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "ashby-host-house-upper-room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "11.45",
+      "decision": "Proposed release is not yet the actual release of Gurth.",
+      "sceneEndpoints": [
+        {
+          "from": 41,
+          "cast": [
+            {
+              "key": "gurth",
+              "location": "ashby-outlaw-clearing"
+            },
+            {
+              "key": "outlawcaptain",
+              "location": "ashby-outlaw-clearing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "11.57",
+      "decision": "Release and guidance occur in the scene; the heath endpoint follows the narrated route.",
+      "sceneEndpoints": [
+        {
+          "from": 57,
+          "cast": [
+            {
+              "key": "gurth",
+              "location": "ashby-heath-overlook"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "12.17",
+      "decision": "Anonymous ceremonial heralds retire; no invented named departure state.",
+      "sceneEndpoints": [
+        {
+          "from": 15,
+          "cast": [
+            {
+              "key": "disinherited",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "brian",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-lists"
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "12.19",
+      "decision": "Both marshals withdraw before the onset; unknown endpoints, Martival state restored.",
+      "sceneEndpoints": [
+        {
+          "from": 19,
+          "cast": [
+            {
+              "key": "martival",
+              "location": null
+            },
+            {
+              "key": "wyvil",
+              "location": null
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-lists-centre"
+            },
+            {
+              "key": "brian",
+              "location": "ashby-lists-centre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "12.20",
+      "decision": "Anonymous wounded men are removed; do not assign every named combatant a new room.",
+      "sceneEndpoints": [
+        {
+          "from": 19,
+          "cast": [
+            {
+              "key": "martival",
+              "location": null
+            },
+            {
+              "key": "wyvil",
+              "location": null
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-lists-centre"
+            },
+            {
+              "key": "brian",
+              "location": "ashby-lists-centre"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "12.37",
+      "decision": "Aggregate wounded departures do not establish individual destinations or deaths.",
+      "sceneEndpoints": [
+        {
+          "from": 36,
+          "cast": []
+        }
+      ]
+    },
+    {
+      "point": "12.40",
+      "decision": "Absent black-armoured victor reported gone; location-clearing fact added without a bodily snapshot.",
+      "sceneEndpoints": [
+        {
+          "from": 39,
+          "cast": [
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "12.44",
+      "decision": "Rowena descends to the actual queen's steps.",
+      "sceneEndpoints": [
+        {
+          "from": 44,
+          "cast": [
+            {
+              "key": "disinherited",
+              "location": "ashby-queen-gallery-steps"
+            },
+            {
+              "key": "rowena",
+              "location": "ashby-queen-gallery-steps"
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-queen-gallery-steps"
+            },
+            {
+              "key": "martival",
+              "location": "ashby-queen-gallery-steps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "12.45",
+      "decision": "Helmet removed; identity reveal follows the source rather than an earlier alias.",
+      "sceneEndpoints": [
+        {
+          "from": 45,
+          "cast": [
+            {
+              "key": "disinherited",
+              "location": "ashby-queen-gallery-steps"
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-queen-gallery-steps"
+            },
+            {
+              "key": "martival",
+              "location": "ashby-queen-gallery-steps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.11",
+      "decision": "Fitzurse reports Ivanhoe taken away; location-clearing fact added without invented presence.",
+      "sceneEndpoints": [
+        {
+          "from": 9,
+          "cast": [
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.18",
+      "decision": "John is about to signal retirement but is interrupted; no completed exit.",
+      "sceneEndpoints": [
+        {
+          "from": 18,
+          "cast": [
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.27",
+      "decision": "Wish about dismissing commons; no completed departure.",
+      "sceneEndpoints": [
+        {
+          "from": 26,
+          "cast": [
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.30",
+      "decision": "Retrospective crowd account; no new named physical state.",
+      "sceneEndpoints": [
+        {
+          "from": 26,
+          "cast": [
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-prince-gallery"
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.31",
+      "decision": "Anonymous archers withdraw; no fabricated individual actor.",
+      "sceneEndpoints": [
+        {
+          "from": 31,
+          "cast": [
+            {
+              "key": "john",
+              "location": "ashby-archery-ground"
+            },
+            {
+              "key": "yeoman",
+              "location": "ashby-archery-ground"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.50",
+      "decision": "Target removed; object movement.",
+      "sceneEndpoints": [
+        {
+          "from": 50,
+          "cast": [
+            {
+              "key": "hubert",
+              "location": "ashby-archery-south-avenue"
+            },
+            {
+              "key": "locksley",
+              "location": "ashby-archery-south-avenue"
+            },
+            {
+              "key": "john",
+              "location": "ashby-archery-south-avenue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.52",
+      "decision": "Arrow leaves bowstring; object movement.",
+      "sceneEndpoints": [
+        {
+          "from": 50,
+          "cast": [
+            {
+              "key": "hubert",
+              "location": "ashby-archery-south-avenue"
+            },
+            {
+              "key": "locksley",
+              "location": "ashby-archery-south-avenue"
+            },
+            {
+              "key": "john",
+              "location": "ashby-archery-south-avenue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.63",
+      "decision": "Locksley cuts a willow and sets it up in the continuing scene; do not stop him in an invented wood location.",
+      "sceneEndpoints": [
+        {
+          "from": 62,
+          "cast": [
+            {
+              "key": "locksley",
+              "location": "ashby-archery-south-avenue"
+            },
+            {
+              "key": "hubert",
+              "location": "ashby-archery-south-avenue"
+            },
+            {
+              "key": "john",
+              "location": "ashby-archery-south-avenue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "13.72",
+      "decision": "Signal to retire closes the field episode; no specific banquet arrival is narrated here.",
+      "sceneEndpoints": [
+        {
+          "from": 72,
+          "cast": [
+            {
+              "key": "john",
+              "location": "ashby-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "14.41",
+      "decision": "Cedric and Athelstane leave the banquet; both endpoints unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 40,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": null
+            },
+            {
+              "key": "athelstane",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "14.42",
+      "decision": "John comments on their prior departure; no fresh presence for the Saxons.",
+      "sceneEndpoints": [
+        {
+          "from": 42,
+          "cast": [
+            {
+              "key": "john",
+              "location": "ashby-castle-hall"
+            },
+            {
+              "key": "aymer",
+              "location": "ashby-castle-hall"
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-castle-hall"
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-castle-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "15.16",
+      "decision": "Fitzurse reports the Saxons' earlier exit; they are absent.",
+      "sceneEndpoints": [
+        {
+          "from": 12,
+          "cast": [
+            {
+              "key": "debracy",
+              "location": "ashby-castle-inner-hall"
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-castle-inner-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "15.23",
+      "decision": "De Bracy leaves; next location unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 21,
+          "cast": [
+            {
+              "key": "debracy",
+              "location": null
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-castle-inner-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "15.27",
+      "decision": "Fitzurse looks after De Bracy; no corresponding exit by Fitzurse.",
+      "sceneEndpoints": [
+        {
+          "from": 27,
+          "cast": [
+            {
+              "key": "fitzurse",
+              "location": "ashby-castle-inner-hall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "16.3",
+      "decision": "Knight ends at an unnamed hostelry; road pin cleared.",
+      "sceneEndpoints": [
+        {
+          "from": 0,
+          "cast": [
+            {
+              "key": "blackknight",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "16.4",
+      "decision": "West Riding is a broad region; no precise road coordinate invented.",
+      "sceneEndpoints": [
+        {
+          "from": 4,
+          "cast": [
+            {
+              "key": "blackknight",
+              "location": "west-riding-forest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "16.20",
+      "decision": "Hermit's proposed route is advice, not a completed journey or established ford.",
+      "sceneEndpoints": [
+        {
+          "from": 12,
+          "cast": [
+            {
+              "key": "blackknight",
+              "location": "copmanhurst-door"
+            },
+            {
+              "key": "hermit",
+              "location": "copmanhurst-inner-threshold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "16.32",
+      "decision": "Knight fetches his horse and returns in the same paragraph; hut endpoint remains supported.",
+      "sceneEndpoints": [
+        {
+          "from": 32,
+          "cast": [
+            {
+              "key": "blackknight",
+              "location": "copmanhurst-hut"
+            },
+            {
+              "key": "hermit",
+              "location": "copmanhurst-hut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "17.14",
+      "decision": "Song about a crusader, not actual present journey.",
+      "sceneEndpoints": [
+        {
+          "from": 12,
+          "cast": [
+            {
+              "key": "blackknight",
+              "location": "copmanhurst-hut"
+            },
+            {
+              "key": "hermit",
+              "location": "copmanhurst-hut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "18.12",
+      "decision": "Earlier movement recalled; not a fresh disembarkation.",
+      "sceneEndpoints": [
+        {
+          "from": 12,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": "ashby-castle-departure"
+            },
+            {
+              "key": "gurth",
+              "location": "ashby-castle-departure"
+            },
+            {
+              "key": "oswald",
+              "location": "ashby-castle-departure"
+            },
+            {
+              "key": "hundebert",
+              "location": "ashby-castle-departure"
+            },
+            {
+              "key": "athelstane",
+              "location": "ashby-castle-departure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "18.18",
+      "decision": "Dog and cavalcade at the gate; later road movement belongs to later scene.",
+      "sceneEndpoints": [
+        {
+          "from": 18,
+          "cast": [
+            {
+              "key": "fangs",
+              "location": "st-withold-gate"
+            },
+            {
+              "key": "athelstane",
+              "location": "st-withold-gate"
+            },
+            {
+              "key": "wamba",
+              "location": "st-withold-gate"
+            },
+            {
+              "key": "cedric",
+              "location": "st-withold-gate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "18.19",
+      "decision": "Gate-side preparations and departure; no prematurely reached road destination.",
+      "sceneEndpoints": [
+        {
+          "from": 18,
+          "cast": [
+            {
+              "key": "fangs",
+              "location": "st-withold-gate"
+            },
+            {
+              "key": "athelstane",
+              "location": "st-withold-gate"
+            },
+            {
+              "key": "wamba",
+              "location": "st-withold-gate"
+            },
+            {
+              "key": "cedric",
+              "location": "st-withold-gate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "19.5",
+      "decision": "Isaac reports mercenaries' flight; absent men get no physical snapshots.",
+      "sceneEndpoints": [
+        {
+          "from": 4,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "forest-litter-halt"
+            },
+            {
+              "key": "rebecca",
+              "location": "forest-litter-halt"
+            },
+            {
+              "key": "cedric",
+              "location": "forest-litter-halt"
+            },
+            {
+              "key": "athelstane",
+              "location": "forest-litter-halt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "20.15",
+      "decision": "Anonymous messengers disperse; principal rescue party's later clearing arrival is narrated separately.",
+      "sceneEndpoints": [
+        {
+          "from": 15,
+          "cast": [
+            {
+              "key": "locksley",
+              "location": "copmanhurst-clearing"
+            },
+            {
+              "key": "wamba",
+              "location": "copmanhurst-clearing"
+            },
+            {
+              "key": "gurth",
+              "location": "copmanhurst-clearing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "20.24",
+      "decision": "Banquet apparatus removed; object movement, not an exit by the hut company.",
+      "sceneEndpoints": [
+        {
+          "from": 21,
+          "cast": [
+            {
+              "key": "hermit",
+              "location": "copmanhurst-hut"
+            },
+            {
+              "key": "blackknight",
+              "location": "copmanhurst-hut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "22.3",
+      "decision": "Narrator leaves the Saxon strand for Isaac; no bodily transfer by the narrator's subjects.",
+      "sceneEndpoints": [
+        {
+          "from": 0,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "torquilstone-dungeon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "22.7",
+      "decision": "Bolts withdraw as the Baron and attendants enter the dungeon; actual arrival.",
+      "sceneEndpoints": [
+        {
+          "from": 7,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "torquilstone-dungeon"
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-dungeon"
+            },
+            {
+              "key": "hamet",
+              "location": "torquilstone-dungeon"
+            },
+            {
+              "key": "abdalla",
+              "location": "torquilstone-dungeon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "22.10",
+      "decision": "One unnamed attendant retires to a corner within the dungeon; do not invent which named attendant moved.",
+      "sceneEndpoints": [
+        {
+          "from": 7,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "torquilstone-dungeon"
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-dungeon"
+            },
+            {
+              "key": "hamet",
+              "location": "torquilstone-dungeon"
+            },
+            {
+              "key": "abdalla",
+              "location": "torquilstone-dungeon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "22.56",
+      "decision": "Baron and attendants leave; all three endpoints unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 55,
+          "cast": [
+            {
+              "key": "frontdeboeuf",
+              "location": null
+            },
+            {
+              "key": "isaac",
+              "location": "torquilstone-dungeon"
+            },
+            {
+              "key": "hamet",
+              "location": null
+            },
+            {
+              "key": "abdalla",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "24.8",
+      "decision": "Anonymous guard leaves; Rebecca and Ulrica remain.",
+      "sceneEndpoints": [
+        {
+          "from": 8,
+          "cast": [
+            {
+              "key": "urfried",
+              "location": "torquilstone-turret-cell"
+            },
+            {
+              "key": "rebecca",
+              "location": "torquilstone-turret-cell"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "24.18",
+      "decision": "Ulrica leaves; endpoint unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 18,
+          "cast": [
+            {
+              "key": "urfried",
+              "location": null
+            },
+            {
+              "key": "rebecca",
+              "location": "torquilstone-turret-cell"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "25.66",
+      "decision": "Wamba leaves the oak on his mission; no early castle arrival.",
+      "sceneEndpoints": [
+        {
+          "from": 60,
+          "cast": [
+            {
+              "key": "wamba",
+              "location": null
+            },
+            {
+              "key": "gurth",
+              "location": "torquilstone-siege-oak"
+            },
+            {
+              "key": "blackknight",
+              "location": "torquilstone-siege-oak"
+            },
+            {
+              "key": "locksley",
+              "location": "torquilstone-siege-oak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "26.59",
+      "decision": "A plea not to leave is not itself an actual departure.",
+      "sceneEndpoints": [
+        {
+          "from": 53,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": "torquilstone-low-arched-passage"
+            },
+            {
+              "key": "rebecca",
+              "location": "torquilstone-low-arched-passage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "27.30",
+      "decision": "Figurative emotional support, not a bodily transfer.",
+      "sceneEndpoints": [
+        {
+          "from": 27,
+          "cast": [
+            {
+              "key": "urfried",
+              "location": "torquilstone-urfried-room"
+            },
+            {
+              "key": "cedric",
+              "location": "torquilstone-urfried-room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "27.59",
+      "decision": "Cedric strides outside the outwork into open field; endpoint unknown, Baron remains behind.",
+      "sceneEndpoints": [
+        {
+          "from": 55,
+          "cast": [
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-postern-outwork"
+            },
+            {
+              "key": "cedric",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "27.72",
+      "decision": "Baron recalls dismissing Cedric; no fresh Cedric presence.",
+      "sceneEndpoints": [
+        {
+          "from": 67,
+          "cast": [
+            {
+              "key": "debracy",
+              "location": "torquilstone-armoury"
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-armoury"
+            },
+            {
+              "key": "wamba",
+              "location": "torquilstone-armoury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "27.101",
+      "decision": "Prisoners are removed as Ambrose arrives; Wamba's passing remark restored, both prisoner endpoints unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 101,
+          "cast": [
+            {
+              "key": "wamba",
+              "location": null
+            },
+            {
+              "key": "athelstane",
+              "location": null
+            },
+            {
+              "key": "ambrose",
+              "location": "torquilstone-armoury"
+            },
+            {
+              "key": "brian",
+              "location": "torquilstone-armoury"
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-armoury"
+            },
+            {
+              "key": "debracy",
+              "location": "torquilstone-armoury"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "28.17",
+      "decision": "Earlier treatment and transport recalled; not repeated as present-time movement.",
+      "sceneEndpoints": [
+        {
+          "from": 17,
+          "cast": [
+            {
+              "key": "rebecca",
+              "location": "ashby-host-house-sickroom"
+            },
+            {
+              "key": "isaac",
+              "location": "ashby-host-house-sickroom"
+            },
+            {
+              "key": "ivanhoe",
+              "location": "ashby-host-house-sickroom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "29.8",
+      "decision": "Rebecca returns to the sickroom then reaches the window in this scene; endpoint follows the later action.",
+      "sceneEndpoints": [
+        {
+          "from": 8,
+          "cast": [
+            {
+              "key": "ivanhoe",
+              "location": "torquilstone-ivanhoe-room"
+            },
+            {
+              "key": "rebecca",
+              "location": "torquilstone-ivanhoe-window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "29.17",
+      "decision": "Possible withdrawal of bridge is hypothetical at this beat.",
+      "sceneEndpoints": [
+        {
+          "from": 17,
+          "cast": [
+            {
+              "key": "rebecca",
+              "location": "torquilstone-ivanhoe-window"
+            },
+            {
+              "key": "ivanhoe",
+              "location": "torquilstone-ivanhoe-room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "29.40",
+      "decision": "Rebecca returns to the window after retiring briefly; final window endpoint supported.",
+      "sceneEndpoints": [
+        {
+          "from": 38,
+          "cast": [
+            {
+              "key": "rebecca",
+              "location": "torquilstone-ivanhoe-window"
+            },
+            {
+              "key": "ivanhoe",
+              "location": "torquilstone-ivanhoe-room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "30.42",
+      "decision": "Ulrica leaves, destination unknown; Baron's calls do not create absent allies' presence.",
+      "sceneEndpoints": [
+        {
+          "from": 42,
+          "cast": [
+            {
+              "key": "urfried",
+              "location": null
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-frontdeboeuf-room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "31.20",
+      "decision": "Followers retreat to the outwork; named attackers have crossed, De Bracy remains above.",
+      "sceneEndpoints": [
+        {
+          "from": 20,
+          "cast": [
+            {
+              "key": "blackknight",
+              "location": "torquilstone-main-postern"
+            },
+            {
+              "key": "cedric",
+              "location": "torquilstone-main-postern"
+            },
+            {
+              "key": "debracy",
+              "location": "torquilstone-postern-parapet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "31.71",
+      "decision": "Wamba and Athelstane escape into the court, where Brian is mounted; all three court endpoints corrected.",
+      "sceneEndpoints": [
+        {
+          "from": 70,
+          "cast": [
+            {
+              "key": "brian",
+              "location": "torquilstone-court"
+            },
+            {
+              "key": "wamba",
+              "location": "torquilstone-court"
+            },
+            {
+              "key": "athelstane",
+              "location": "torquilstone-court"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "32.9",
+      "decision": "Miller's party hastens away to search; exact endpoint unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 0,
+          "cast": [
+            {
+              "key": "locksley",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "blackknight",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "cedric",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "miller",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "32.37",
+      "decision": "De Bracy steps back, without leaving the assembly.",
+      "sceneEndpoints": [
+        {
+          "from": 28,
+          "cast": [
+            {
+              "key": "debracy",
+              "location": "harthill-tree-edge"
+            },
+            {
+              "key": "rowena",
+              "location": "harthill-tree-edge"
+            },
+            {
+              "key": "cedric",
+              "location": "harthill-tree-edge"
+            },
+            {
+              "key": "wamba",
+              "location": "harthill-tree-edge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "32.38",
+      "decision": "Saxon party departs; no early Coningsburgh arrival.",
+      "sceneEndpoints": [
+        {
+          "from": 38,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": null
+            },
+            {
+              "key": "blackknight",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "rowena",
+              "location": null
+            },
+            {
+              "key": "wamba",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "32.46",
+      "decision": "Funeral preparations concern the man believed dead; no new living Athelstane snapshot.",
+      "sceneEndpoints": [
+        {
+          "from": 46,
+          "cast": []
+        }
+      ]
+    },
+    {
+      "point": "32.70",
+      "decision": "Friar reports prior cellar rescue; no replayed transfer or new absent-person appearance.",
+      "sceneEndpoints": [
+        {
+          "from": 70,
+          "cast": [
+            {
+              "key": "hermit",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "gilbert",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "isaac",
+              "location": "harthill-trysting-tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "32.98",
+      "decision": "Generic released prisoners reported; Aymer's actual arrival is separately represented.",
+      "sceneEndpoints": [
+        {
+          "from": 96,
+          "cast": [
+            {
+              "key": "locksley",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "aymer",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "blackknight",
+              "location": "harthill-trysting-tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "33.53",
+      "decision": "Glory departed is figurative.",
+      "sceneEndpoints": [
+        {
+          "from": 50,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "harthill-trysting-tree"
+            },
+            {
+              "key": "locksley",
+              "location": "harthill-trysting-tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "33.67",
+      "decision": "Locksley reports earlier abduction; Rebecca is not physically present in this conversation.",
+      "sceneEndpoints": [
+        {
+          "from": 64,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "harthill-private-tree"
+            },
+            {
+              "key": "locksley",
+              "location": "harthill-private-tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "33.105",
+      "decision": "Isaac sets out; unknown endpoint until Nathan's house is actually established.",
+      "sceneEndpoints": [
+        {
+          "from": 99,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": null
+            },
+            {
+              "key": "locksley",
+              "location": "harthill-trysting-tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "34.58",
+      "decision": "Fitzurse leaves John; destination unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 57,
+          "cast": [
+            {
+              "key": "fitzurse",
+              "location": null
+            },
+            {
+              "key": "john",
+              "location": "york-castle"
+            },
+            {
+              "key": "debracy",
+              "location": "york-castle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "34.64",
+      "decision": "De Bracy actually walks the castle antechamber; broad York Castle endpoint remains supported.",
+      "sceneEndpoints": [
+        {
+          "from": 57,
+          "cast": [
+            {
+              "key": "fitzurse",
+              "location": null
+            },
+            {
+              "key": "john",
+              "location": "york-castle"
+            },
+            {
+              "key": "debracy",
+              "location": "york-castle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "34.65",
+      "decision": "Prior departure is reported; no new De Bracy appearance beside John and Bardon.",
+      "sceneEndpoints": [
+        {
+          "from": 65,
+          "cast": [
+            {
+              "key": "hughbardon",
+              "location": null
+            },
+            {
+              "key": "john",
+              "location": "york-castle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "34.77",
+      "decision": "Bardon retires after instructions; exact destination unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 65,
+          "cast": [
+            {
+              "key": "hughbardon",
+              "location": null
+            },
+            {
+              "key": "john",
+              "location": "york-castle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "35.3",
+      "decision": "Isaac reaches Nathan's house in the unnamed town; no invented geographic pin.",
+      "sceneEndpoints": [
+        {
+          "from": 0,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": "nathan-house"
+            },
+            {
+              "key": "nathan",
+              "location": "nathan-house"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "35.9",
+      "decision": "A departed vow is figurative, not a physical movement.",
+      "sceneEndpoints": [
+        {
+          "from": 7,
+          "cast": [
+            {
+              "key": "nathan",
+              "location": "nathan-house"
+            },
+            {
+              "key": "isaac",
+              "location": "nathan-house"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "35.24",
+      "decision": "Abstract religious rules do not establish actual arrivals or departures.",
+      "sceneEndpoints": [
+        {
+          "from": 19,
+          "cast": [
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-garden"
+            },
+            {
+              "key": "conrade",
+              "location": "templestowe-garden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "35.36",
+      "decision": "Damian leaves and returns in the paragraph, then retires by the scene end; unknown final endpoint retained.",
+      "sceneEndpoints": [
+        {
+          "from": 30,
+          "cast": [
+            {
+              "key": "damian",
+              "location": null
+            },
+            {
+              "key": "isaac",
+              "location": "templestowe-garden"
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-garden"
+            },
+            {
+              "key": "conrade",
+              "location": "templestowe-garden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "36.23",
+      "decision": "Albert leaves Master and finds Brian; endpoint follows the actual later conversation, not the intermediate exit.",
+      "sceneEndpoints": [
+        {
+          "from": 23,
+          "cast": [
+            {
+              "key": "albert",
+              "location": "templestowe"
+            },
+            {
+              "key": "brian",
+              "location": "templestowe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "37.10",
+      "decision": "Religious exhortation to remove evil is not an actual physical departure.",
+      "sceneEndpoints": [
+        {
+          "from": 10,
+          "cast": [
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-master-seat"
+            },
+            {
+              "key": "albert",
+              "location": "templestowe-preceptor-seats"
+            },
+            {
+              "key": "rebecca",
+              "location": "templestowe-accused-place"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "37.33",
+      "decision": "Higg withdraws into the crowd, remaining on the public floor.",
+      "sceneEndpoints": [
+        {
+          "from": 29,
+          "cast": [
+            {
+              "key": "higg",
+              "location": "templestowe-public-floor"
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-master-seat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "37.35",
+      "decision": "Rebecca removes a veil, not herself from the tribunal.",
+      "sceneEndpoints": [
+        {
+          "from": 34,
+          "cast": [
+            {
+              "key": "rebecca",
+              "location": "templestowe-accused-place"
+            },
+            {
+              "key": "higg",
+              "location": "templestowe-public-floor"
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-master-seat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "38.55",
+      "decision": "Isaac and Ben Samuel part on separate roads; endpoints cleared while Higg remains watching.",
+      "sceneEndpoints": [
+        {
+          "from": 50,
+          "cast": [
+            {
+              "key": "isaac",
+              "location": null
+            },
+            {
+              "key": "bensamuel",
+              "location": null
+            },
+            {
+              "key": "higg",
+              "location": "templestowe-nearby-road"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "39.58",
+      "decision": "Brian leaves Rebecca's cell; endpoint unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 50,
+          "cast": [
+            {
+              "key": "rebecca",
+              "location": "templestowe-rebecca-cell"
+            },
+            {
+              "key": "brian",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "39.66",
+      "decision": "Albert's discussion of possible flight is hypothetical; no actual gate visit.",
+      "sceneEndpoints": [
+        {
+          "from": 59,
+          "cast": [
+            {
+              "key": "albert",
+              "location": "templestowe-adjacent-chamber"
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-adjacent-chamber"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "39.72",
+      "decision": "Brian leaves and Albert follows; both subsequent exact rooms unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 67,
+          "cast": [
+            {
+              "key": "brian",
+              "location": null
+            },
+            {
+              "key": "albert",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "40.3",
+      "decision": "Knight reaches Botolph's; earlier transport is reported, not replayed as fresh Gurth/Wamba presence.",
+      "sceneEndpoints": [
+        {
+          "from": 0,
+          "cast": [
+            {
+              "key": "blackknight",
+              "location": "saint-botolph-priory"
+            },
+            {
+              "key": "ivanhoe",
+              "location": "saint-botolph-priory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "40.12",
+      "decision": "Knight and Wamba vanish along the forest road; Ivanhoe returns inside the priory.",
+      "sceneEndpoints": [
+        {
+          "from": 4,
+          "cast": [
+            {
+              "key": "blackknight",
+              "location": "coningsburgh-forest-road"
+            },
+            {
+              "key": "ivanhoe",
+              "location": "saint-botolph-priory"
+            },
+            {
+              "key": "wamba",
+              "location": "coningsburgh-forest-road"
+            },
+            {
+              "key": "botolphprior",
+              "location": "saint-botolph-priory"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "40.122",
+      "decision": "A name borne abroad is figurative, not bodily movement.",
+      "sceneEndpoints": [
+        {
+          "from": 121,
+          "cast": [
+            {
+              "key": "locksley",
+              "location": "forest-ambush-glade"
+            },
+            {
+              "key": "blackknight",
+              "location": "forest-ambush-glade"
+            },
+            {
+              "key": "wamba",
+              "location": "forest-ambush-glade"
+            },
+            {
+              "key": "hermit",
+              "location": "forest-ambush-glade"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "41.34",
+      "decision": "Historical future commentary; no contemporary cast or premature death state.",
+      "sceneEndpoints": [
+        {
+          "from": 34,
+          "cast": []
+        }
+      ]
+    },
+    {
+      "point": "42.8",
+      "decision": "Visitors follow Cedric to the chapel; actual arrival represented.",
+      "sceneEndpoints": [
+        {
+          "from": 7,
+          "cast": [
+            {
+              "key": "cedric",
+              "location": "coningsburgh-chapel"
+            },
+            {
+              "key": "blackknight",
+              "location": "coningsburgh-chapel"
+            },
+            {
+              "key": "ivanhoe",
+              "location": "coningsburgh-chapel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "42.12",
+      "decision": "Guests withdraw after meeting Edith; knight and Ivanhoe endpoints unknown before next upstairs scene.",
+      "sceneEndpoints": [
+        {
+          "from": 9,
+          "cast": [
+            {
+              "key": "edith",
+              "location": "coningsburgh-oratory"
+            },
+            {
+              "key": "cedric",
+              "location": "coningsburgh-oratory"
+            },
+            {
+              "key": "blackknight",
+              "location": null
+            },
+            {
+              "key": "ivanhoe",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "42.41",
+      "decision": "Athelstane's departed spirit is a mistaken belief; he has returned alive.",
+      "sceneEndpoints": [
+        {
+          "from": 38,
+          "cast": [
+            {
+              "key": "athelstane",
+              "location": "coningsburgh-guest-room"
+            },
+            {
+              "key": "cedric",
+              "location": "coningsburgh-guest-room"
+            },
+            {
+              "key": "ivanhoe",
+              "location": "coningsburgh-guest-room"
+            },
+            {
+              "key": "blackknight",
+              "location": "coningsburgh-guest-room"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "42.70",
+      "decision": "Ivanhoe's departure after calling Gurth is reported; both stale locations cleared through offstage facts, no invented travel snapshots.",
+      "sceneEndpoints": [
+        {
+          "from": 69,
+          "cast": [
+            {
+              "key": "athelstane",
+              "location": "coningsburgh-guest-room"
+            },
+            {
+              "key": "rowena",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "43.8",
+      "decision": "Dennet's supernatural abduction rumour is not factual Athelstane movement.",
+      "sceneEndpoints": [
+        {
+          "from": 8,
+          "cast": [
+            {
+              "key": "dennet",
+              "location": "templestowe-spectator-area"
+            },
+            {
+              "key": "minstrel",
+              "location": "templestowe-spectator-area"
+            },
+            {
+              "key": "hermit",
+              "location": "templestowe-spectator-area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "43.24",
+      "decision": "Friar recounts prior transport; no new Athelstane appearance at Templestowe.",
+      "sceneEndpoints": [
+        {
+          "from": 8,
+          "cast": [
+            {
+              "key": "dennet",
+              "location": "templestowe-spectator-area"
+            },
+            {
+              "key": "minstrel",
+              "location": "templestowe-spectator-area"
+            },
+            {
+              "key": "hermit",
+              "location": "templestowe-spectator-area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "43.34",
+      "decision": "Procession approaches actual lists; route follows narrated movement.",
+      "sceneEndpoints": [
+        {
+          "from": 34,
+          "cast": [
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-procession-route"
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-procession-route"
+            },
+            {
+              "key": "albert",
+              "location": "templestowe-procession-route"
+            },
+            {
+              "key": "conrade",
+              "location": "templestowe-procession-route"
+            },
+            {
+              "key": "rebecca",
+              "location": "templestowe-procession-route"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "43.37",
+      "decision": "Procession circles, halts and dismounts in the lists; subsequent stations separate.",
+      "sceneEndpoints": [
+        {
+          "from": 37,
+          "cast": [
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-lists"
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-lists"
+            },
+            {
+              "key": "albert",
+              "location": "templestowe-lists"
+            },
+            {
+              "key": "conrade",
+              "location": "templestowe-lists"
+            },
+            {
+              "key": "rebecca",
+              "location": "templestowe-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "43.49",
+      "decision": "Herald carries answer east but returns west by paragraph51 in the same scene; west endpoint retained.",
+      "sceneEndpoints": [
+        {
+          "from": 45,
+          "cast": [
+            {
+              "key": "rebecca",
+              "location": "templestowe-west-lists"
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-west-lists"
+            },
+            {
+              "key": "herald",
+              "location": "templestowe-west-lists"
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-east-tribunal"
+            },
+            {
+              "key": "albert",
+              "location": "templestowe-east-station"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "43.80",
+      "decision": "Master signals from eastern tribunal; herald withdraws to an unspecified side, endpoint cleared.",
+      "sceneEndpoints": [
+        {
+          "from": 79,
+          "cast": [
+            {
+              "key": "ivanhoe",
+              "location": "templestowe-lists"
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-lists"
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-east-tribunal"
+            },
+            {
+              "key": "herald",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "44.24",
+      "decision": "Master leads Templars off the ground; endpoint unknown.",
+      "sceneEndpoints": [
+        {
+          "from": 14,
+          "cast": [
+            {
+              "key": "beaumanoir",
+              "location": null
+            },
+            {
+              "key": "blackknight",
+              "location": "templestowe-lists"
+            },
+            {
+              "key": "bohun",
+              "location": "templestowe-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "44.34",
+      "decision": "Isaac and Rebecca have reached Nathan's house by paragraph33; endpoint corrected, no continued lists presence.",
+      "sceneEndpoints": [
+        {
+          "from": 34,
+          "cast": [
+            {
+              "key": "ivanhoe",
+              "location": "templestowe-lists"
+            },
+            {
+              "key": "bohun",
+              "location": "templestowe-lists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "44.55",
+      "decision": "Elgitha withdraws; final visitor chamber location is itself unknown and remains unpinned.",
+      "sceneEndpoints": [
+        {
+          "from": 54,
+          "cast": [
+            {
+              "key": "rowena",
+              "location": null
+            },
+            {
+              "key": "elgitha",
+              "location": null
+            },
+            {
+              "key": "rebecca",
+              "location": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "point": "44.82",
+      "decision": "Closing literary quotation, not a fresh bodily departure or death.",
+      "sceneEndpoints": [
+        {
+          "from": 80,
+          "cast": []
+        }
+      ]
+    }
+  ]
+}

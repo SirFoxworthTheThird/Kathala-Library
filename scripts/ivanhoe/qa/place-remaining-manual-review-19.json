@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "ashby-castle-departure",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "63068b0f888c9aeb12b8b6a0832733dd7c26adfea065a467d6576e821cda1040",
+      "compressedSha256": "698c059292a538528a122804ab2003a2adaa4d5a4a1db4d461d0e679d864b778",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty castle departure frontage without company; banner and full view clear, decorative cloth illustrative.",
+      "screenshots": [
+        "qa/place-ashby-castle-departure.png",
+        "qa/place-ashby-castle-departure-lightbox.png"
+      ]
+    },
+    {
+      "key": "st-withold-convent",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "474558e391f444dee3b94f601cad7e06dc1efc97e521545272bd2a54cb36f6b4",
+      "compressedSha256": "2e3050243a6609c18e364105d2e069a33a9f722456bf856880507a7d134dc862",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Romanesque convent and gate, removed white figure absent; empty full view clear.",
+      "screenshots": [
+        "qa/place-st-withold-convent.png",
+        "qa/place-st-withold-convent-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-defences",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "291503ab0e9a5331cb0f08ef7baf8ace2fb6f9bcf4c4eb485731fc4af302f684",
+      "compressedSha256": "39b594d24fff2f25ebf0c96b5e6a9a6350ddfa1970d8955f59a0cda6ad1dd88c",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Distinct walls and gate posts, intact architectural overview without defenders; banner and full view readable.",
+      "screenshots": [
+        "qa/place-torquilstone-defences.png",
+        "qa/place-torquilstone-defences-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-eastern-wall",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "21d17d9a00ee4e9ffac36f746cb1db30e205f3e162b2cb2c68c7765890cfd947",
+      "compressedSha256": "46f9abcfec9e84a378bbfa689c339aa3b1507a047c60b2b93ae853bdee0b1c8c",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Lower curtain wall by moat, no assigned defender depicted; full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-eastern-wall.png",
+        "qa/place-torquilstone-eastern-wall-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-western-wall",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "1290db1aae33eb919bb47a1ad28b232c977e67c6bc8911fa415d30e199509244",
+      "compressedSha256": "b9bb0aaf642c2c91a0bfb7067828953efac0fcc3a3501b346f8a5e4c15816282",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Western wall and moat, no Brian or siege outcome; full image readable.",
+      "screenshots": [
+        "qa/place-torquilstone-western-wall.png",
+        "qa/place-torquilstone-western-wall-lightbox.png"
+      ]
+    },
+    {
+      "key": "isaac-northbound-road",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "1a86e9009b8e6c537c5de773800a31e7f252d669f083720dcfe32bb33a72618a",
+      "compressedSha256": "515656a0f0b19adcb389f215c5c5f14b75221146da2278d74e1187d726c1562a",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty broad rural northward road, no litter or future arrival; actual exact track remains unmapped, full view clear.",
+      "screenshots": [
+        "qa/place-isaac-northbound-road.png",
+        "qa/place-isaac-northbound-road-lightbox.png"
+      ]
+    }
+  ]
+}

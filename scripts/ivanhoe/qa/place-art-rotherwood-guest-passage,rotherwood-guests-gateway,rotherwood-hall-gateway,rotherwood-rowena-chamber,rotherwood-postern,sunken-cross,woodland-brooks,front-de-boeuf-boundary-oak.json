@@ -1,0 +1,55 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "91069761f0f171feb98c85f8636cebbc314ef266924bb861c4dedf7530a3f93f",
+  "placeArtChecks": [
+    {
+      "key": "rotherwood-guest-passage",
+      "mapLayerId": "ivanhoe-map-rotherwood-guests",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-guests-gateway",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-hall-gateway",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-rowena-chamber",
+      "mapLayerId": "ivanhoe-map-rotherwood-rowena",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "rotherwood-postern",
+      "mapLayerId": "ivanhoe-map-rotherwood",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "sunken-cross",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "woodland-brooks",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "front-de-boeuf-boundary-oak",
+      "mapLayerId": "ivanhoe-map-don-woods",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

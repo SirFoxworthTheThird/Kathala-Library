@@ -1,0 +1,73 @@
+{
+  "scope": "Six decoded images and twelve app banner/lightbox views manually inspected; end cursor only, early disclosure and final approval separate.",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "ashby-northern-end",
+      "originalSha256": "5783fda1eca79f541de80bc0a385488c789640644a9e81c38cb13732c2a2b862",
+      "compressedSha256": "d364d4b10ad78e0b554af5f6fce6889fc1c16eed3f990541501e0676e24bfef2",
+      "compressedReview": "Individually opened full app enlargement of decoded WebP, bytes matched by helper; no visible objectionable compression artifacts.",
+      "applicationReview": "Empty northern enclosure and gate retain scale in banner and full decoded view; no anonymous knight identity shown.",
+      "screenshots": [
+        "qa/place-ashby-northern-end.png",
+        "qa/place-ashby-northern-end-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-saxon-gallery-frontage",
+      "originalSha256": "44e5640d0ba3c4eac1ad0d34e0afba415a6e56d89482faf069e8b3a07b2d9a4d",
+      "compressedSha256": "9d341f912d031e3578d87be760f78b00975799f876a65bcb5afb896331a3673d",
+      "compressedReview": "Individually opened full app enlargement of decoded WebP, bytes matched by helper; no visible objectionable compression artifacts.",
+      "applicationReview": "Timber gallery underside reads clearly at banner size and full decoded enlargement; no occupants.",
+      "screenshots": [
+        "qa/place-ashby-saxon-gallery-frontage.png",
+        "qa/place-ashby-saxon-gallery-frontage-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-lists-gateway",
+      "originalSha256": "f69f17c18e0b3a4747f26cd0ead03a60dd111c0bb0bda5784ef9964d0bd7a8d4",
+      "compressedSha256": "52f6c6a8d7cf68fbadc1cb001eb19b04261a12cd5a8b233aa38760b7c46ff353",
+      "compressedReview": "Individually opened full app enlargement of decoded WebP, bytes matched by helper; no visible objectionable compression artifacts.",
+      "applicationReview": "Palisaded green meadow and five distant tents remain readable, full decoded square unobscured.",
+      "screenshots": [
+        "qa/place-ashby-lists-gateway.png",
+        "qa/place-ashby-lists-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-house-gateway",
+      "originalSha256": "7f0f8ad905e5fa21cd7668e17c74088e2be5a1cba1ea0540547bd1eaf1435e95",
+      "compressedSha256": "852b8efbee78cba0afffd2364b60acd22a558b12b87193ec51d55672bacf8908",
+      "compressedReview": "Individually opened full app enlargement of decoded WebP, bytes matched by helper; no visible objectionable compression artifacts.",
+      "applicationReview": "Private lodging furnishings clear in banner and full decoded enlargement, no character identity or precise address invented.",
+      "screenshots": [
+        "qa/place-ashby-house-gateway.png",
+        "qa/place-ashby-house-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-castle-gateway",
+      "originalSha256": "0ab155d3264bca191db132d2ed8fbdd037d78aee524bf70768bf36c78e2e1ea3",
+      "compressedSha256": "bad71881b2cd000280fdd5aad7e1b7e1abb643e68b2850096f0df95a19465888",
+      "compressedReview": "Individually opened full app enlargement of decoded WebP, bytes matched by helper; no visible objectionable compression artifacts.",
+      "applicationReview": "Fictional castle precinct readable in banner; full decoded image retains hall-side pillars and temporary pavilions, no people.",
+      "screenshots": [
+        "qa/place-ashby-castle-gateway.png",
+        "qa/place-ashby-castle-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-woods-gateway",
+      "originalSha256": "8ba75fb5e3fb60e111fe9ff39149ce2a4bb2c68d9aafaedce163b1b816f870df",
+      "compressedSha256": "4e33e85bd4f6c960c36af9e2a2ca1389adfe74c7918dd0ca6eecf7228dd7945c",
+      "compressedReview": "Individually opened full app enlargement of decoded WebP, bytes matched by helper; no visible objectionable compression artifacts.",
+      "applicationReview": "Evening wooded path reads in banner and full decoded enlargement, no robber or later meeting shown.",
+      "screenshots": [
+        "qa/place-ashby-woods-gateway.png",
+        "qa/place-ashby-woods-gateway-lightbox.png"
+      ]
+    }
+  ]
+}

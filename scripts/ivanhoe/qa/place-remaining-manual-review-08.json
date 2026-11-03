@@ -1,0 +1,78 @@
+{
+  "scope": "Individually opened banner and enlarged app images at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "region-coningsburgh-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "46812e3d1ae03c157c09f6fe342253d9c953f590d72e393278246a9e6c089b72",
+      "compressedSha256": "cfa997b51aa787ecfa19754f5fe9153ccdc17dfdc7e1caad8d29fac339478648",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Round keep above river; banner crops upper keep but full enlargement preserves it.",
+      "screenshots": [
+        "qa/place-region-coningsburgh-gateway.png",
+        "qa/place-region-coningsburgh-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "region-don-woods-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "326b25f835ce10d19ca769e13a6a29fd6ee5fd7ee17fdd3803bc6f35835120f2",
+      "compressedSha256": "36f63fd547e46b22c8d742787cb5e15c232079f5a50f89bd7e0fabfca2496553",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Broad wooded river valley, clear full view; no point-location claim.",
+      "screenshots": [
+        "qa/place-region-don-woods-gateway.png",
+        "qa/place-region-don-woods-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "region-york-gateway",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e7e3207d9e282436e2fc2210ad1da7bd9162c00c81337ab33ced2299d2790ba6",
+      "compressedSha256": "fe44bc3df82efa02da6de0e92930ff7b67ba5043ee26e86b0894e106d42c30a1",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Riverside timber settlement and Romanesque church; no later Gothic minster.",
+      "screenshots": [
+        "qa/place-region-york-gateway.png",
+        "qa/place-region-york-gateway-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-return-road",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "1b0229a55fa0661f798b98f68739d5b37ec5cfe0d6e4afd3b3008ba5f2f7777a",
+      "compressedSha256": "b140e6501ccc08124b13a29b3e1e7c221401fc792f2f9e8dd5ec217f41be168f",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Empty road toward distant Ashby; full view readable, no returning actors.",
+      "screenshots": [
+        "qa/place-ashby-return-road.png",
+        "qa/place-ashby-return-road-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-lists",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "3df5574bcf70f4808c34235bfee14335a0b32b0a5c0a1c0c05c6597bacc2ffc2",
+      "compressedSha256": "ced1df778d9dc75a05fa3ee3a802dbc6878b4ba3d787db3f8e05c46148b1b53d",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Empty turf enclosure, five russet-black tents, no central divider; full view clear.",
+      "screenshots": [
+        "qa/place-ashby-lists.png",
+        "qa/place-ashby-lists-lightbox.png"
+      ]
+    },
+    {
+      "key": "ashby-lower-ring",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "6464c53eb5d0dae8c083611f7924fdb9d3e1075a3df0b2b1a7a769cbac377b76",
+      "compressedSha256": "61d972360089d3594e23002756221c6010ea876b734d3feb166138f1f2288a85",
+      "compressedReview": "Individually opened decoded full app enlargement; helper checks served bytes against selected asset. No visible objectionable compression artifacts.",
+      "applicationReview": "Standing space beneath timber galleries beside rail, no spectators; cloth decoration illustrative.",
+      "screenshots": [
+        "qa/place-ashby-lower-ring.png",
+        "qa/place-ashby-lower-ring-lightbox.png"
+      ]
+    }
+  ]
+}

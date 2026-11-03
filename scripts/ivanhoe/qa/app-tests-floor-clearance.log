@@ -1,0 +1,43 @@
+
+> kathala@1.1.0 test
+> vitest run --reporter=dot
+
+
+ RUN  v4.1.2 F:/Projects/WorldBreaker/Kathala-ivanhoe-qa
+
+Not implemented: navigation to another Document
+stderr | src/lib/__tests__/useMediaQuery.test.tsx > useMediaQuery > answers the query and follows it when it changes
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/lib/__tests__/useMediaQuery.test.tsx > useMediaQuery > stops listening when unmounted
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/lib/__tests__/useMediaQuery.test.tsx > useMediaQuery > reads as narrow where there is no matchMedia
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/components/__tests__/ThemeProvider.test.tsx > ThemeProvider > applies the selected global theme
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/components/__tests__/ThemeProvider.test.tsx > ThemeProvider > applies the selected global theme
+The current testing environment is not configured to support act(...)
+
+stderr | src/components/__tests__/ThemeProvider.test.tsx > ThemeProvider > uses a world override and restores the global theme when it clears
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+The current testing environment is not configured to support act(...)
+
+stderr | src/components/__tests__/ThemeProvider.test.tsx > ThemeProvider > uses a world override and restores the global theme when it clears
+The current testing environment is not configured to support act(...)
+
+·····························································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································································
+
+ Test Files  261 passed (261)
+      Tests  3101 passed (3101)
+   Start at  13:26:14
+   Duration  116.91s (transform 25.71s, setup 102.82s, import 85.54s, tests 12.38s, environment 1444.90s)

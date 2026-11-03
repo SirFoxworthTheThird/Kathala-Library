@@ -1,0 +1,169 @@
+{
+  "scope": "Manual post-fix actual item-history review, observations0-23 only; remaining68 not approved here",
+  "fixtureSha256": "955618ed2eb61140f30129ee7f9767eab240f3183ca84f3fe66e3b9a8de6a174",
+  "reviewed": 24,
+  "sheets": [
+    {
+      "sheet": "custody-review-sheet-01.jpg",
+      "sha256": "a502a898e7138e19101cc3128f5f2887df27424ab1a232d9a916bae2c9b43157",
+      "finding": "Opening collars, horn and whittle belong to Gurth or Wamba at the forest glade; no later freedom is disclosed.",
+      "observations": [
+        {
+          "index": 0,
+          "path": "qa/custody-000-gurth-collar.png",
+          "sha256": "eb20a70b2b5c681cf3e67e3d00ac5d69a68232b128b2c1e3275dcd0335c9a9bb"
+        },
+        {
+          "index": 1,
+          "path": "qa/custody-001-gurth-horn.png",
+          "sha256": "cea127912336e4d1207f1b654effab5a974f9470b76b54316a4f00450aebf304"
+        },
+        {
+          "index": 2,
+          "path": "qa/custody-002-gurth-whittle.png",
+          "sha256": "cdcee1cce3159b041dd850fe43e7bfc9b64cbdf48837238decc981a95db90c73"
+        },
+        {
+          "index": 3,
+          "path": "qa/custody-003-wamba-collar.png",
+          "sha256": "fc2904bf493560a431b1c3b9726daf523fd1c765de8650780f8b74353a46487e"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-02.jpg",
+      "sha256": "e9de14548e4f0e8a7cf30d9c8bb53dc6bcbf6633996eeee0bd8fd4e309eb6806",
+      "finding": "Wooden sword belongs to Wamba; staff enters only when picked up. Aymer retains his wager collar and the Palmer offers the reliquary.",
+      "observations": [
+        {
+          "index": 4,
+          "path": "qa/custody-004-wooden-sword.png",
+          "sha256": "de9341f3ba916dbb8d109149623399cce22078207b8b9766a0e2cff701bbb277"
+        },
+        {
+          "index": 5,
+          "path": "qa/custody-005-gurth-staff.png",
+          "sha256": "98649ec5b24644379004a5fac73daa8e6c754b7db960cc279754d33594e03014"
+        },
+        {
+          "index": 6,
+          "path": "qa/custody-006-aymer-collar.png",
+          "sha256": "2fe15bc61a192e84a28c8692ebceea9a7fca30235af78b6ca6154976386bf098"
+        },
+        {
+          "index": 7,
+          "path": "qa/custody-007-palmer-reliquary.png",
+          "sha256": "a4b5cd8a64d6652eaead48a60065d06e82b3fee28a17aa28634c5f2fa53ca32f"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-03.jpg",
+      "sha256": "2a50d3ef23e74735b22492c2a9e444a8bfe0ad2d65112bf370a710fe8b832ad5",
+      "finding": "Chain is first left in the hall, then Aymer holds it; Ambrose receives the reliquary. Palmer staff remains separately described.",
+      "observations": [
+        {
+          "index": 8,
+          "path": "qa/custody-008-brian-chain.png",
+          "sha256": "9d40ea04bc593c2c1aa799fc65408e8f85318de1e28d781d344c86ec311d6238"
+        },
+        {
+          "index": 9,
+          "path": "qa/custody-009-palmer-reliquary.png",
+          "sha256": "7d0100e882685763844e65efbfe930f09ec80f9887468e2756561ccc1d77ec20"
+        },
+        {
+          "index": 10,
+          "path": "qa/custody-010-brian-chain.png",
+          "sha256": "21f8453e1a2cac2df3e1566c2047027ffc10c2718646198e176ca939fe47c732"
+        },
+        {
+          "index": 11,
+          "path": "qa/custody-011-palmer-staff.png",
+          "sha256": "41d9f5f32f0c4fca52da2ea5db78d30c19fd03eb70fb9ea34a387d9e613d3ed1"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-04.jpg",
+      "sha256": "dec3f4bf0370897d95aa51f8a4ca9f498848d4cda1b93c2f1fa5dc5c6ca7015c",
+      "finding": "Credit order reaches the Palmer; challenger borrowed horse/armour stay anonymous, and the awarded horse is a distinct record.",
+      "observations": [
+        {
+          "index": 12,
+          "path": "qa/custody-012-isaac-credit-order.png",
+          "sha256": "fe2b2bdcd0d08aab7fb7544f25e9056d47a184cb5849f58cc065476a05683841"
+        },
+        {
+          "index": 13,
+          "path": "qa/custody-013-loan-horse.png",
+          "sha256": "625bf8c9b013ccf7d1e57875babe02f1b5819e7a89cbc47c90bd37eb9262d0a8"
+        },
+        {
+          "index": 14,
+          "path": "qa/custody-014-loan-armour.png",
+          "sha256": "d46b4a98f512ddfea843c50924f04c49c9c7ddb66eddaf02a0ed869d09599e4c"
+        },
+        {
+          "index": 15,
+          "path": "qa/custody-015-prize-horse.png",
+          "sha256": "ea1840e41e54c918243da582b23978feb3fe702973fb6c593f5534d686eea6ff"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-05.jpg",
+      "sha256": "7088dec944a7e49c4c529e2c9e5caae5d09ddaadb7d18fe2f6a7847536600be6",
+      "finding": "Reward and entrusted bag are separate. Both X.48 report rows now appear; only the horse is said returned, the armour remains unlocated.",
+      "observations": [
+        {
+          "index": 16,
+          "path": "qa/custody-016-gurth-coins.png",
+          "sha256": "cb2983f46ef3935a2247893949af9732b78b36f72cdbe6f2dd2b4130177f3104"
+        },
+        {
+          "index": 17,
+          "path": "qa/custody-017-masters-gold.png",
+          "sha256": "645e3fc0315a0f41a0f8b6620088d7360d2b6afc5b9a8f7141b967183de63a89"
+        },
+        {
+          "index": 18,
+          "path": "qa/custody-018-loan-horse.png",
+          "sha256": "134089c8ff1c5658b0136c10551c35a707780632fab312acf6f1147dfe3c20f6"
+        },
+        {
+          "index": 19,
+          "path": "qa/custody-019-loan-armour.png",
+          "sha256": "3e1056b4357f04fbd878f702748448c8b30e1876652a968e97cafac7661a8f22"
+        }
+      ]
+    },
+    {
+      "sheet": "custody-review-sheet-06.jpg",
+      "sha256": "58ff938e465e9a38068d05fbd9c9aec4f1360b942f7a0b4c83547e670903b87e",
+      "finding": "Receipt and gift purse enter at their actual handoffs; the master bag passes to the masked captain only on seizure.",
+      "observations": [
+        {
+          "index": 20,
+          "path": "qa/custody-020-masters-gold.png",
+          "sha256": "63bb3e08458259e6ea527680470a32cc79c190153adf70cd4a2ffab0ec442b52"
+        },
+        {
+          "index": 21,
+          "path": "qa/custody-021-acquittance.png",
+          "sha256": "80875dc379f1b0ca7c2582cc1ed2e9567fbbbbb6528fba81e21f617dd5d2d4c2"
+        },
+        {
+          "index": 22,
+          "path": "qa/custody-022-rebecca-purse.png",
+          "sha256": "20b695a8599437c00c3b6588047180c72e6beb26785c451ebf30e412c8c64fa6"
+        },
+        {
+          "index": 23,
+          "path": "qa/custody-023-masters-gold.png",
+          "sha256": "1e169098934e96cf31676d327b2ddf01abde1613265959a0ffe13e343ab227d2"
+        }
+      ]
+    }
+  ]
+}

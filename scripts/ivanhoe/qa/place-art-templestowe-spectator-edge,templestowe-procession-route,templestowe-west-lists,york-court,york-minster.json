@@ -1,0 +1,42 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "templestowe-spectator-edge",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-procession-route",
+      "mapLayerId": "ivanhoe-map-templestowe",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "templestowe-west-lists",
+      "mapLayerId": "ivanhoe-map-templestowe-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "york-court",
+      "mapLayerId": "ivanhoe-map-york",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "york-minster",
+      "mapLayerId": "ivanhoe-map-york",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

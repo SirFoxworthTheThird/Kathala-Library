@@ -1,0 +1,5 @@
+{
+  "previousSha256": "955618ed2eb61140f30129ee7f9767eab240f3183ca84f3fe66e3b9a8de6a174",
+  "candidateExpectedSha256": "14cc3eb3b3e1aef12a2c27879c98dee50d39ec0b18dd493c09b3f0f591c071f9",
+  "scope": "Final-name candidate changes only world.name. Verify with JS serialization; all source/model/art bytes must otherwise match."
+}

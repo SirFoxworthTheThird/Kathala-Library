@@ -1,0 +1,435 @@
+{
+  "scope": "Source-led supporting records; affiliation exits and full reader QA remain open",
+  "evidence": [
+    {
+      "kind": "relationship",
+      "key": "cedric-gurth",
+      "event": "ivanhoe-source-4-p8",
+      "source": "I.9"
+    },
+    {
+      "kind": "relationship",
+      "key": "cedric-wamba",
+      "event": "ivanhoe-source-4-p8",
+      "source": "I.10"
+    },
+    {
+      "kind": "relationship",
+      "key": "gurth-wamba",
+      "event": "ivanhoe-source-4-p8",
+      "source": "I.9–29"
+    },
+    {
+      "kind": "relationship",
+      "key": "aymer-brian",
+      "event": "ivanhoe-source-5-p0",
+      "source": "II.3–51"
+    },
+    {
+      "kind": "relationship",
+      "key": "cedric-rowena",
+      "event": "ivanhoe-source-5-p40",
+      "source": "II.46"
+    },
+    {
+      "kind": "relationship",
+      "key": "isaac-rebecca",
+      "event": "ivanhoe-source-10-p16",
+      "source": "VII.16"
+    },
+    {
+      "kind": "relationship",
+      "key": "cedric-ivanhoe",
+      "event": "ivanhoe-source-15-p49",
+      "source": "XII.49"
+    },
+    {
+      "kind": "relationship",
+      "key": "ivanhoe-rowena",
+      "event": "ivanhoe-source-15-p49",
+      "source": "XII.47–49; XXVIII"
+    },
+    {
+      "kind": "relationship",
+      "key": "ivanhoe-rebecca",
+      "event": "ivanhoe-source-31-p17",
+      "source": "XXVIII.17–27"
+    },
+    {
+      "kind": "relationship",
+      "key": "brian-rebecca",
+      "event": "ivanhoe-source-27-p30",
+      "source": "XXIV.30–41"
+    },
+    {
+      "kind": "relationship",
+      "key": "debracy-rowena",
+      "event": "ivanhoe-source-26-p4",
+      "source": "XXIII"
+    },
+    {
+      "kind": "relationship",
+      "key": "richard-john",
+      "event": "ivanhoe-source-10-p17",
+      "source": "VII.18; XIII–XIV"
+    },
+    {
+      "kind": "relationship",
+      "key": "blackknight-hermit",
+      "event": "ivanhoe-source-19-p12",
+      "source": "XVI.12–26"
+    },
+    {
+      "kind": "relationship",
+      "key": "edith-athelstane",
+      "event": "ivanhoe-source-45-p9",
+      "source": "XLII.9–11"
+    },
+    {
+      "kind": "relationship",
+      "key": "malvoisin-albert",
+      "event": "ivanhoe-source-39-p0",
+      "source": "XXXVI.3"
+    },
+    {
+      "kind": "goal",
+      "key": "gurth",
+      "start": "ivanhoe-source-4-p12",
+      "end": "ivanhoe-source-7-p12",
+      "source": "Direct work and stated anxiety; success is reported to Cedric after Gurth returns, not at the first chapter’s departure."
+    },
+    {
+      "kind": "goal",
+      "key": "wamba",
+      "start": "ivanhoe-source-5-p35",
+      "end": "ivanhoe-source-5-p37",
+      "source": "Deliberate false directions and subsequent admission."
+    },
+    {
+      "kind": "goal",
+      "key": "gurth",
+      "start": "ivanhoe-source-22-p22",
+      "end": "ivanhoe-source-34-p68",
+      "source": "Explicit answer about his purpose, followed by the rescue."
+    },
+    {
+      "kind": "goal",
+      "key": "blackknight",
+      "start": "ivanhoe-source-23-p49",
+      "end": "ivanhoe-source-34-p92",
+      "source": "Publicly undertaken rescue; no early royal identity in the goal text."
+    },
+    {
+      "kind": "goal",
+      "key": "locksley",
+      "start": "ivanhoe-source-22-p41",
+      "end": "ivanhoe-source-34-p92",
+      "source": "Spoken intention after reconnaissance."
+    },
+    {
+      "kind": "goal",
+      "key": "debracy",
+      "start": "ivanhoe-source-18-p12",
+      "end": "ivanhoe-source-26-p31",
+      "source": "His coercive plan and rejected proposals; not a mutual courtship."
+    },
+    {
+      "kind": "goal",
+      "key": "brian",
+      "start": "ivanhoe-source-27-p30",
+      "end": "ivanhoe-source-46-p82",
+      "source": "Explicit coercion, repeated refused bargain and death; goal is not achieved."
+    },
+    {
+      "kind": "goal",
+      "key": "rebecca",
+      "start": "ivanhoe-source-27-p30",
+      "end": "ivanhoe-source-47-p3",
+      "source": "Direct refusal of forced conversion and appeals against abuse."
+    },
+    {
+      "kind": "goal",
+      "key": "isaac",
+      "start": "ivanhoe-source-36-p50",
+      "end": "ivanhoe-source-47-p25",
+      "source": "Ransom negotiations, appeal for a champion and reunion."
+    },
+    {
+      "kind": "goal",
+      "key": "rebecca",
+      "start": "ivanhoe-source-40-p50",
+      "end": "ivanhoe-source-46-p73",
+      "source": "Written advice, demand, message and acceptance of her defender."
+    },
+    {
+      "kind": "goal",
+      "key": "beaumanoir",
+      "start": "ivanhoe-source-38-p19",
+      "end": null,
+      "source": "Stated reforming purpose; his allegations are beliefs, not verified supernatural facts."
+    },
+    {
+      "kind": "goal",
+      "key": "albert",
+      "start": "ivanhoe-source-39-p6",
+      "end": "ivanhoe-source-47-p5",
+      "source": "His management of witnesses and Brian, followed by arrest."
+    },
+    {
+      "kind": "goal",
+      "key": "ivanhoe",
+      "start": "ivanhoe-source-43-p13",
+      "end": "ivanhoe-source-44-p0",
+      "source": "Explained concern to the Prior and direct warning after the ambush."
+    },
+    {
+      "kind": "goal",
+      "key": "athelstane",
+      "start": "ivanhoe-source-45-p44",
+      "end": "ivanhoe-source-47-p49",
+      "source": "His hanging threats end in three days of confinement; do not mark execution as success."
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "gurth",
+      "start": "ivanhoe-source-4-p8",
+      "end": null,
+      "source": "I.9"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "wamba",
+      "start": "ivanhoe-source-4-p8",
+      "end": null,
+      "source": "I.10"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "cedric",
+      "start": "ivanhoe-source-6-p0",
+      "end": null,
+      "source": "III.7"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "rowena",
+      "start": "ivanhoe-source-5-p40",
+      "end": null,
+      "source": "II.46"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "oswald",
+      "start": "ivanhoe-source-6-p11",
+      "end": null,
+      "source": "III.11"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "elgitha",
+      "start": "ivanhoe-source-6-p11",
+      "end": null,
+      "source": "III.11"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "hundebert",
+      "start": "ivanhoe-source-6-p21",
+      "end": null,
+      "source": "III.22"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "rotherwoodwarder",
+      "start": "ivanhoe-source-6-p21",
+      "end": null,
+      "source": "III.21"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "anwold",
+      "start": "ivanhoe-source-9-p0",
+      "end": null,
+      "source": "VI.3"
+    },
+    {
+      "kind": "membership",
+      "faction": "rotherwood",
+      "character": "edwina",
+      "start": "ivanhoe-source-9-p6",
+      "end": null,
+      "source": "VI.6"
+    },
+    {
+      "kind": "membership",
+      "faction": "temple",
+      "character": "brian",
+      "start": "ivanhoe-source-5-p30",
+      "end": "ivanhoe-source-46-p82",
+      "source": "II.32",
+      "endSource": "XLIII.84"
+    },
+    {
+      "kind": "membership",
+      "faction": "temple",
+      "character": "beaumanoir",
+      "start": "ivanhoe-source-38-p19",
+      "end": null,
+      "source": "XXXV.19"
+    },
+    {
+      "kind": "membership",
+      "faction": "temple",
+      "character": "conrade",
+      "start": "ivanhoe-source-38-p19",
+      "end": null,
+      "source": "XXXV.19"
+    },
+    {
+      "kind": "membership",
+      "faction": "temple",
+      "character": "albert",
+      "start": "ivanhoe-source-39-p0",
+      "end": "ivanhoe-source-47-p46",
+      "source": "XXXVI.3",
+      "endSource": "XLIV.46"
+    },
+    {
+      "kind": "membership",
+      "faction": "temple",
+      "character": "herman",
+      "start": "ivanhoe-source-40-p18",
+      "end": null,
+      "source": "XXXVII.18"
+    },
+    {
+      "kind": "membership",
+      "faction": "temple",
+      "character": "damian",
+      "start": "ivanhoe-source-38-p30",
+      "end": null,
+      "source": "XXXV.30"
+    },
+    {
+      "kind": "membership",
+      "faction": "hospital",
+      "character": "vipont",
+      "start": "ivanhoe-source-10-p7",
+      "end": null,
+      "source": "VII.9"
+    },
+    {
+      "kind": "membership",
+      "faction": "free-companions",
+      "character": "debracy",
+      "start": "ivanhoe-source-10-p30",
+      "end": null,
+      "source": "VII.30"
+    },
+    {
+      "kind": "membership",
+      "faction": "free-companions",
+      "character": "winkelbrand",
+      "start": "ivanhoe-source-37-p0",
+      "end": null,
+      "source": "XXXIV.13"
+    },
+    {
+      "kind": "membership",
+      "faction": "forest-company",
+      "character": "outlawcaptain",
+      "start": "ivanhoe-source-14-p8",
+      "end": null,
+      "source": "XI.15"
+    },
+    {
+      "kind": "membership",
+      "faction": "forest-company",
+      "character": "locksley",
+      "start": "ivanhoe-source-23-p0",
+      "end": null,
+      "source": "XX.4"
+    },
+    {
+      "kind": "membership",
+      "faction": "forest-company",
+      "character": "gilbert",
+      "start": "ivanhoe-source-35-p70",
+      "end": null,
+      "source": "XXXII.70"
+    },
+    {
+      "kind": "membership",
+      "faction": "forest-company",
+      "character": "clementoutlaw",
+      "start": "ivanhoe-source-35-p89",
+      "end": null,
+      "source": "XXXII.89"
+    },
+    {
+      "kind": "membership",
+      "faction": "forest-company",
+      "character": "scathlock",
+      "start": "ivanhoe-source-44-p17",
+      "end": null,
+      "source": "XLI.21"
+    },
+    {
+      "kind": "membership",
+      "faction": "john-party",
+      "character": "john",
+      "start": "ivanhoe-source-10-p17",
+      "end": null,
+      "source": "VII.17"
+    },
+    {
+      "kind": "membership",
+      "faction": "john-party",
+      "character": "fitzurse",
+      "start": "ivanhoe-source-11-p0",
+      "end": null,
+      "source": "VIII.3"
+    },
+    {
+      "kind": "membership",
+      "faction": "john-party",
+      "character": "debracy",
+      "start": "ivanhoe-source-10-p30",
+      "end": null,
+      "source": "VII.30"
+    },
+    {
+      "kind": "membership",
+      "faction": "john-party",
+      "character": "hughbardon",
+      "start": "ivanhoe-source-37-p65",
+      "end": null,
+      "source": "XXXIV.65"
+    },
+    {
+      "kind": "membership",
+      "faction": "royal-followers",
+      "character": "richard",
+      "start": "ivanhoe-source-37-p22",
+      "end": null,
+      "source": "XXXIV.22"
+    },
+    {
+      "kind": "membership",
+      "faction": "royal-followers",
+      "character": "bohun",
+      "start": "ivanhoe-source-47-p5",
+      "end": null,
+      "source": "XLIV.8"
+    }
+  ]
+}

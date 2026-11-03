@@ -1,0 +1,44 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "anwold",
+    "edwina",
+    "rotherwoodwarder"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-rotherwoodwarder",
+      "name": "The warder of Rotherwood",
+      "eventId": "ivanhoe-source-6-p21",
+      "cursorLabel": "Ch.6 · CHAPTER III — The warder’s report (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-rotherwoodwarder.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-rotherwoodwarder.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-anwold",
+      "name": "Anwold",
+      "eventId": "ivanhoe-source-9-p0",
+      "cursorLabel": "Ch.9 · CHAPTER VI — An invitation declined (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-anwold.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-anwold.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-edwina",
+      "name": "The waiting-maid",
+      "eventId": "ivanhoe-source-9-p6",
+      "cursorLabel": "Ch.9 · CHAPTER VI — A summons in the antechamber (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-edwina.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-edwina.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

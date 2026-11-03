@@ -1,0 +1,22 @@
+{
+  "scope": "XXXIV.13 reported order, no physical snapshot or reader map presence",
+  "fixtureSha256": "fd484d4dc192ace0335d6bb52356dbdf94fb52b4e5a678e5f2cd4cceb9f1c88f",
+  "observations": [
+    {
+      "moment": "Secrets retained",
+      "screenshot": "qa/reported-lieutenant-0.png",
+      "physicalPresence": false
+    },
+    {
+      "moment": "Uneasy counsel at York",
+      "screenshot": "qa/reported-lieutenant-1.png",
+      "physicalPresence": false
+    },
+    {
+      "moment": "The survivor’s news",
+      "screenshot": "qa/reported-lieutenant-2.png",
+      "physicalPresence": false
+    }
+  ],
+  "pageErrors": []
+}

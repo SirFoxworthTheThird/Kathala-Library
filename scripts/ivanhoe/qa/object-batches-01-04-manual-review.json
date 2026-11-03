@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-02",
+  "scope": "Sixteen distinct objects: selected originals, decoded compressed files, actual item thumbnails and enlarged views individually reviewed. Not whole-book custody, chronology or final artwork approval. Earlier fixture reports without a stored hash remain scoped historical evidence.",
+  "checks": [
+    {
+      "id": "gurth-collar",
+      "compressedSha256": "72d6826f0de68f3ed8a08aad57808a2a2d57a180f655233dd89028808533222b",
+      "captureReport": "qa/item-art-gurth-collar,wamba-collar,gurth-staff,john-warder.json",
+      "eventId": "ivanhoe-source-4-p8",
+      "thumbnail": "qa/item-gurth-collar.png",
+      "enlarged": "qa/item-gurth-collar-lightbox.png"
+    },
+    {
+      "id": "wamba-collar",
+      "compressedSha256": "9db6f55224b4fb713117169c66c94ac3808558cec20ff52227b7ebe382b8486f",
+      "captureReport": "qa/item-art-gurth-collar,wamba-collar,gurth-staff,john-warder.json",
+      "eventId": "ivanhoe-source-4-p8",
+      "thumbnail": "qa/item-wamba-collar.png",
+      "enlarged": "qa/item-wamba-collar-lightbox.png"
+    },
+    {
+      "id": "gurth-staff",
+      "compressedSha256": "e6a81319291ea40661a18c63b5c175442d4f0cd869c9f71e921e123d2216df93",
+      "captureReport": "qa/item-art-gurth-collar,wamba-collar,gurth-staff,john-warder.json",
+      "eventId": "ivanhoe-source-4-p25",
+      "thumbnail": "qa/item-gurth-staff.png",
+      "enlarged": "qa/item-gurth-staff-lightbox.png"
+    },
+    {
+      "id": "john-warder",
+      "compressedSha256": "5e8baad8d45bce890da5617da4414c7976e7c784772c1de9581abcc178c7e54d",
+      "captureReport": "qa/item-art-gurth-collar,wamba-collar,gurth-staff,john-warder.json",
+      "eventId": "ivanhoe-source-15-p35-c1676",
+      "thumbnail": "qa/item-john-warder.png",
+      "enlarged": "qa/item-john-warder-lightbox.png"
+    },
+    {
+      "id": "palmer-reliquary",
+      "compressedSha256": "7c83e756dbf02bb301320cd473ec591b0359b7314bfe1243ac666d450c51ac77",
+      "captureReport": "qa/item-art-palmer-reliquary,brian-chain,locksley-feather,hut-key.json",
+      "eventId": "ivanhoe-source-8-p45",
+      "thumbnail": "qa/item-palmer-reliquary.png",
+      "enlarged": "qa/item-palmer-reliquary-lightbox.png"
+    },
+    {
+      "id": "brian-chain",
+      "compressedSha256": "00472520ee400e4ce051b27dbe62bfc7aaf3a9b03b804a9b7c9f0ae0982939f4",
+      "captureReport": "qa/item-art-palmer-reliquary,brian-chain,locksley-feather,hut-key.json",
+      "eventId": "ivanhoe-source-8-p45",
+      "thumbnail": "qa/item-brian-chain.png",
+      "enlarged": "qa/item-brian-chain-lightbox.png"
+    },
+    {
+      "id": "locksley-feather",
+      "compressedSha256": "e34c55432062032006fab56a472f578e19b9a7c8028e1710d9ea713d92b283d2",
+      "captureReport": "qa/item-art-palmer-reliquary,brian-chain,locksley-feather,hut-key.json",
+      "eventId": "ivanhoe-source-22-p34",
+      "thumbnail": "qa/item-locksley-feather.png",
+      "enlarged": "qa/item-locksley-feather-lightbox.png"
+    },
+    {
+      "id": "hut-key",
+      "compressedSha256": "5468aa51eb17dd40e07df002fc0cca721d8ceb22024d9006e7effda83c716ebb",
+      "captureReport": "qa/item-art-palmer-reliquary,brian-chain,locksley-feather,hut-key.json",
+      "eventId": "ivanhoe-source-23-p61",
+      "thumbnail": "qa/item-hut-key.png",
+      "enlarged": "qa/item-hut-key-lightbox.png"
+    },
+    {
+      "id": "frock",
+      "compressedSha256": "374dfc4c04ea730ed59941ea295e37c26f20be675c023df7b02c5f9250a77473",
+      "captureReport": "qa/item-art-frock,cowl,friar-cord,cedric-cloak.json",
+      "eventId": "ivanhoe-source-28-p60",
+      "thumbnail": "qa/item-frock.png",
+      "enlarged": "qa/item-frock-lightbox.png",
+      "fixtureSha256": "d8f6342e57ed056af2c7a8c21dd53093f2d0b6f9632d161d559695d8adbed62f"
+    },
+    {
+      "id": "cowl",
+      "compressedSha256": "2c75e2699b57eb109157a9ff81dd31d9381e409e4f1cd584e198fb30653096e3",
+      "captureReport": "qa/item-art-frock,cowl,friar-cord,cedric-cloak.json",
+      "eventId": "ivanhoe-source-28-p60",
+      "thumbnail": "qa/item-cowl.png",
+      "enlarged": "qa/item-cowl-lightbox.png",
+      "fixtureSha256": "d8f6342e57ed056af2c7a8c21dd53093f2d0b6f9632d161d559695d8adbed62f"
+    },
+    {
+      "id": "friar-cord",
+      "compressedSha256": "291570127aadb53e200c5075f6cd7f26f150f2680e50a5ea6a16ef2021acb507",
+      "captureReport": "qa/item-art-friar-cord.json",
+      "eventId": "ivanhoe-source-29-p0",
+      "thumbnail": "qa/item-friar-cord.png",
+      "enlarged": "qa/item-friar-cord-lightbox.png",
+      "fixtureSha256": "580112492be2ab04f914525ba1df3380c4458c740bee72b641bab2bd1b1b2090",
+      "custodyEvidence": "qa/cord-custody-ui-review.json"
+    },
+    {
+      "id": "cedric-cloak",
+      "compressedSha256": "5b6520610605aeb543071989ef89f4cf0f2d358fba12d8ed6f220505f101d074",
+      "captureReport": "qa/item-art-frock,cowl,friar-cord,cedric-cloak.json",
+      "eventId": "ivanhoe-source-29-p47",
+      "thumbnail": "qa/item-cedric-cloak.png",
+      "enlarged": "qa/item-cedric-cloak-lightbox.png",
+      "fixtureSha256": "d8f6342e57ed056af2c7a8c21dd53093f2d0b6f9632d161d559695d8adbed62f"
+    },
+    {
+      "id": "cedric-girdle",
+      "compressedSha256": "a29d05c524193e4ef383d5ccbe9f410e705b3c1082b8ce764ab7298f6db10c7e",
+      "captureReport": "qa/item-art-cedric-girdle,athelstane-glove,rebecca-glove,silver-casket.json",
+      "eventId": "ivanhoe-source-29-p47",
+      "thumbnail": "qa/item-cedric-girdle.png",
+      "enlarged": "qa/item-cedric-girdle-lightbox.png",
+      "fixtureSha256": "397b2ee3295e410604d602495daf0adcb53fe9933925fe2ad5ac156cfd472283"
+    },
+    {
+      "id": "athelstane-glove",
+      "compressedSha256": "849b3e4bb5b62bdd710ed23760e2c31983208a427e36879be318b785707474e2",
+      "captureReport": "qa/item-art-cedric-girdle,athelstane-glove,rebecca-glove,silver-casket.json",
+      "eventId": "ivanhoe-source-30-p95",
+      "thumbnail": "qa/item-athelstane-glove.png",
+      "enlarged": "qa/item-athelstane-glove-lightbox.png",
+      "fixtureSha256": "397b2ee3295e410604d602495daf0adcb53fe9933925fe2ad5ac156cfd472283"
+    },
+    {
+      "id": "rebecca-glove",
+      "compressedSha256": "41ea53aac4de7cf5fdabe7dfdc64e9a66e32908ac5a576c135e9f7639c81117a",
+      "captureReport": "qa/item-art-cedric-girdle,athelstane-glove,rebecca-glove,silver-casket.json",
+      "eventId": "ivanhoe-source-40-p51",
+      "thumbnail": "qa/item-rebecca-glove.png",
+      "enlarged": "qa/item-rebecca-glove-lightbox.png",
+      "fixtureSha256": "397b2ee3295e410604d602495daf0adcb53fe9933925fe2ad5ac156cfd472283"
+    },
+    {
+      "id": "silver-casket",
+      "compressedSha256": "7fe588a4746806ce666d1ccecc648e89e4ae164dfb9b09f2532ceb60a1005950",
+      "captureReport": "qa/item-art-cedric-girdle,athelstane-glove,rebecca-glove,silver-casket.json",
+      "eventId": "ivanhoe-source-47-p70",
+      "thumbnail": "qa/item-silver-casket.png",
+      "enlarged": "qa/item-silver-casket-lightbox.png",
+      "fixtureSha256": "397b2ee3295e410604d602495daf0adcb53fe9933925fe2ad5ac156cfd472283"
+    }
+  ],
+  "releaseApproved": false
+}

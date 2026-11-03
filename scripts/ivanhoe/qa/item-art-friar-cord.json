@@ -1,0 +1,13 @@
+{
+  "scope": "Selected fixture item image/thumbnail/lightbox only; final coverage and custody QA open",
+  "fixtureSha256": "580112492be2ab04f914525ba1df3380c4458c740bee72b641bab2bd1b1b2090",
+  "itemArtChecks": [
+    {
+      "key": "friar-cord",
+      "eventId": "ivanhoe-source-29-p0",
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-02",
+  "scope": "Ten selected assets, including corrected hermit v2. Originals, decoded compressed files, avatar crops and enlarged application captures individually opened. Supersedes the older hermit hash in batches 01-08; other older evidence remains historical.",
+  "checks": [
+    {
+      "id": "hermit",
+      "compressedSha256": "4604d5af827e104a8731a0c218825656b8c5cae6764568466c7cbce14f161ef4",
+      "fixtureSha256": "07fc586958ee0c8ffac3673a7b1689d09520a52d60fd151b0f786db73bb99827",
+      "avatar": "qa/avatar-ivanhoe-character-hermit.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-hermit.png",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false
+    },
+    {
+      "id": "coningsburghsteward",
+      "compressedSha256": "07ce76950e6c33397f7e13eaf39b333e9c45e341a3c824ed06daae8ecace1317",
+      "fixtureSha256": "07fc586958ee0c8ffac3673a7b1689d09520a52d60fd151b0f786db73bb99827",
+      "avatar": "qa/avatar-ivanhoe-character-coningsburghsteward.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-coningsburghsteward.png",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false
+    },
+    {
+      "id": "edith",
+      "compressedSha256": "629a20d0757fc7ed34ef3d6d53fcc93aa766caa15c7d2fc6482f644936700144",
+      "fixtureSha256": "07fc586958ee0c8ffac3673a7b1689d09520a52d60fd151b0f786db73bb99827",
+      "avatar": "qa/avatar-ivanhoe-character-edith.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-edith.png",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false
+    },
+    {
+      "id": "dennet",
+      "compressedSha256": "98417c535c8588c744b7e20e76fc2e992de840a93d20befe16a23fb5259b2806",
+      "fixtureSha256": "07fc586958ee0c8ffac3673a7b1689d09520a52d60fd151b0f786db73bb99827",
+      "avatar": "qa/avatar-ivanhoe-character-dennet.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-dennet.png",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false
+    },
+    {
+      "id": "minstrel",
+      "compressedSha256": "7c1e84fcdfb52e94b3d20a5ce398ab9fe30b9ab955d12fa8a11de016718a150a",
+      "fixtureSha256": "07fc586958ee0c8ffac3673a7b1689d09520a52d60fd151b0f786db73bb99827",
+      "avatar": "qa/avatar-ivanhoe-character-minstrel.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-minstrel.png",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false
+    },
+    {
+      "id": "herald",
+      "compressedSha256": "3ec407c2e9b76a4905256ce7040c5c4600f25ac45b3dea62a2345631788072c8",
+      "fixtureSha256": "2558dd2adc9940ea52306eefb0bacc3df34774caeefabef5a5a94efb5a668c3a",
+      "avatar": "qa/avatar-ivanhoe-character-herald.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-herald.png",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false
+    },
+    {
+      "id": "arrivingknight",
+      "compressedSha256": "507b006f86b5fd72a0f11930577f2d162ae40850d030896eb5b4bde8c2805aea",
+      "fixtureSha256": "2558dd2adc9940ea52306eefb0bacc3df34774caeefabef5a5a94efb5a668c3a",
+      "avatar": "qa/avatar-ivanhoe-character-arrivingknight.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-arrivingknight.png",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false
+    },
+    {
+      "id": "bohun",
+      "compressedSha256": "8795e94538b35679e8d5fadb0bfc296c78b1c2fb567f2866673c7d8c7124e057",
+      "fixtureSha256": "2558dd2adc9940ea52306eefb0bacc3df34774caeefabef5a5a94efb5a668c3a",
+      "avatar": "qa/avatar-ivanhoe-character-bohun.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-bohun.png",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false
+    },
+    {
+      "id": "richard",
+      "compressedSha256": "b7eb2482910e4992ea76d53db7766e00f630d808177004c531c1278d3302c580",
+      "fixtureSha256": "2558dd2adc9940ea52306eefb0bacc3df34774caeefabef5a5a94efb5a668c3a",
+      "avatar": "qa/avatar-ivanhoe-character-richard.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-richard.png",
+      "appearanceKind": "explicit identity reveal, no physical cast invented",
+      "writerOnly": false
+    },
+    {
+      "id": "winkelbrand",
+      "compressedSha256": "9347e4de50ca8717e6312c3c659268b4683f3d4636cb1b4cf9c6dc2c650e43cf",
+      "fixtureSha256": "2558dd2adc9940ea52306eefb0bacc3df34774caeefabef5a5a94efb5a668c3a",
+      "avatar": "qa/avatar-ivanhoe-character-winkelbrand.png",
+      "fullImage": "qa/portrait-full-ivanhoe-character-winkelbrand.png",
+      "appearanceKind": "unmet full-data record",
+      "writerOnly": true
+    }
+  ],
+  "releaseApproved": false
+}

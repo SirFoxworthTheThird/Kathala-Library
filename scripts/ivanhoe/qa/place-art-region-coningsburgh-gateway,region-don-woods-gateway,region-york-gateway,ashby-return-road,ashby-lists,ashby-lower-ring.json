@@ -1,0 +1,49 @@
+{
+  "scope": "Selected location banner/lightbox at end cursor; manual crop and first-disclosure review separate",
+  "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+  "placeArtChecks": [
+    {
+      "key": "region-coningsburgh-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "region-don-woods-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "region-york-gateway",
+      "mapLayerId": "ivanhoe-map-england",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-return-road",
+      "mapLayerId": "ivanhoe-map-ashby",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-lists",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "key": "ashby-lower-ring",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "unmapped": false,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "pageErrors": []
+}

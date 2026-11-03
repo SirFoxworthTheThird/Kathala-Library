@@ -1,0 +1,192 @@
+{
+  "scope": "All 30 actual app overview screenshots individually opened; illustration presentation review, not all 166 marker/gateway or first-disclosure approval",
+  "fixtureSha256": "38c4539c14e70098b71c489d8fe3764ec4d53ff176f3d2510d927c6ba72118d9",
+  "sourceNotes": "Pinned source and map design; selected tribunal and Coningsburgh paragraphs reread during this review",
+  "remaining": [
+    "Closer review of every marker and every gateway/floor transition",
+    "Final-source fixture continuous playback",
+    "Reading-order disclosure and current artifact approval"
+  ],
+  "checks": [
+    {
+      "map": "england",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-england.png",
+      "screenshotSha256": "caf488f6dd8f41dfd38be38559a561ebbcf758aae287aad54846671da220416d",
+      "manualObservation": "Relief, river network and the separate schematic insets are visible. Character clusters obscure some gateway labels at this overview; this is not a per-marker approval."
+    },
+    {
+      "map": "rotherwood",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-rotherwood.png",
+      "screenshotSha256": "db6247cc0a0627be7962bde0d152ac064570df36d49a36d9d79067f2d1987819",
+      "manualObservation": "Double palisade/moat, western entrance, separate postern and timber buildings present usable approach geometry."
+    },
+    {
+      "map": "rotherwood-hall",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-rotherwood-hall.png",
+      "screenshotSha256": "ebe61266d3d131c153b93918c6c3e6b55318a1e95cc632f7b6bbc5b275e1eede",
+      "manualObservation": "T-shaped board, raised end, four corner doors and two hearths are clear; single room marker sits inside the plan."
+    },
+    {
+      "map": "rotherwood-guests",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-rotherwood-guests.png",
+      "screenshotSha256": "e07fbe3921a3677c43f1e2af66f495adb1f4b7f19ccd9c6dd39eb6b09844824e",
+      "manualObservation": "Three adjacent cells, Palmer in the middle with Isaac left and Gurth right, open to one passage."
+    },
+    {
+      "map": "rotherwood-rowena",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-rotherwood-rowena.png",
+      "screenshotSha256": "98ae1dfb6fb8b3b1bb6b96ec77d8c338938623b80eaec89ed78854cf8387b37f",
+      "manualObservation": "Seven-step access, curtained bed, chair/ivory footstool, bench and four lights are clearly separated."
+    },
+    {
+      "map": "ashby",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-ashby.png",
+      "screenshotSha256": "522a0ddb0377e06297572e796701e6ebd24358a722ded15b7f5c1b444442eb57",
+      "manualObservation": "Town, meadow, list enclosure and schematic off-site insets are clear; crowded character clusters require a closer marker review."
+    },
+    {
+      "map": "ashby-lists",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-ashby-lists.png",
+      "screenshotSha256": "686c91753a57428bbd4b55e1ce2bd1de6271440795ed00c0e3d4a82f642678ad",
+      "manualObservation": "Open grass course, five southern challenger tents, northern pavilion, opposite royal galleries and separate archery inset are visible without a later jousting divider."
+    },
+    {
+      "map": "ashby-house-upper",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-ashby-house-upper.png",
+      "screenshotSha256": "840dcd248697010f4234ebbe8217224bcff54a72beddbc6fb15bb40b18bcb763",
+      "manualObservation": "Stair opening, perimeter cushions and central table preserve the upper apartment; floor switcher remains clear."
+    },
+    {
+      "map": "ashby-house-sickroom",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-ashby-house-sickroom.png",
+      "screenshotSha256": "3e77a74e8436526e3b294cdbeec34271ada8764d7dc37b08c9d999c519e7527d",
+      "manualObservation": "The separate patient room has an accessible threshold, couch/bed and textile furnishings; its one marker remains readable."
+    },
+    {
+      "map": "ashby-house",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-ashby-house.png",
+      "screenshotSha256": "29ad40fb8bf3da537f21783b895388259f52a5f0c4cf9043b53f1802299b4162",
+      "manualObservation": "Lower hall, side room, stair, court and wicket are separate; level switcher is readable at the right."
+    },
+    {
+      "map": "ashby-castle",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-ashby-castle.png",
+      "screenshotSha256": "420f1c54ea2a87fde381a6d2dfbecf52d19b99edf069aacbbad5792fb123ce6a",
+      "manualObservation": "Feast hall is distinct from the inner hall and private apartment; no invented connecting corridors are asserted."
+    },
+    {
+      "map": "copmanhurst",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-copmanhurst.png",
+      "screenshotSha256": "6fff5099c5f6af95df53ca861981ab2a702758e03103ee5b71146eb358d42ae0",
+      "manualObservation": "Log hut, rough outside cross, spring and chapel ruin are distinguishable in the clearing."
+    },
+    {
+      "map": "copmanhurst-hut",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-copmanhurst-hut.png",
+      "screenshotSha256": "507c76c025a6ce1873a97d088a59c2fe2bbecc08033a134863d58a428c9c14b2",
+      "manualObservation": "Leaf bed, log walls, table/stools, cross, book and hearth are clear; no concealed weapons or feast are disclosed by the base plan."
+    },
+    {
+      "map": "torquilstone",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-torquilstone.png",
+      "screenshotSha256": "aac2c22c60a9182f1128900f8182163885e14a7ff7edc5292837530be2471616",
+      "manualObservation": "Moat, barbican approach, small outwork, keep and tree insets are clear; character clusters hide some room gateways and require closer pin review."
+    },
+    {
+      "map": "torquilstone-interior",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-torquilstone-interior.png",
+      "screenshotSha256": "bc536cfea11514235b284cc07ae52446b240c21f891f6dfcc062c20fedd5139f",
+      "manualObservation": "Separate room insets distinguish the massive old-hall pillars, slender new-hall pillars, sickroom lattice, armory, Baron’s room and vaulted passages."
+    },
+    {
+      "map": "torquilstone-postern-defence",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-torquilstone-postern-defence.png",
+      "screenshotSha256": "d9b06daeb4b1c95a61eb17ca3a78f19ce2726ec13543a54f7d4ab7c7353bfd44",
+      "manualObservation": "A distinct walk behind crenellations supports the above-postern defender position without conflating it with the attackers below."
+    },
+    {
+      "map": "torquilstone-dungeon",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-torquilstone-dungeon.png",
+      "screenshotSha256": "f3cef0ab3f0f0281d796a0387eaa34c009013b7b13c399a71341a881c914ce01",
+      "manualObservation": "Wet stone floor, narrow upper light slits, chains and grated furnace distinguish this chamber from the other castle rooms."
+    },
+    {
+      "map": "torquilstone-turret",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-torquilstone-turret.png",
+      "screenshotSha256": "47b972f3f5bce5fdf4d2fa019e55d920900bb629a12fdda7885ddd0b6f29f190",
+      "manualObservation": "Closed stair-side access, inner chamber, barred opening and outer bartisan are readable without an invented canyon."
+    },
+    {
+      "map": "templestowe",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-templestowe.png",
+      "screenshotSha256": "4af38d8a20dd9706f9fbddfea65be2ebe40e6460856864e7a8082d25692ab7a4",
+      "manualObservation": "Walled court, gate, garden and hall are distinct from the lists outside the wall and the ceremonial approach."
+    },
+    {
+      "map": "templestowe-hall",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-templestowe-hall.png",
+      "screenshotSha256": "92352fe06532f8e450cb9ed8514f2f5291a92bede1580a336be691c7ce6872e5",
+      "manualObservation": "The large central seat, four smaller seats drawn back, scribes’ table, benches, public floor and gallery are distinguishable. XXXVII.3–9 was reread to check the tribunal arrangement."
+    },
+    {
+      "map": "templestowe-rooms",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-templestowe-rooms.png",
+      "screenshotSha256": "f326e1746f45726059842255d266f9e54edaf2503f9a06cfb621534904897ee5",
+      "manualObservation": "Separate plain prison and adjoining-room insets preserve the unknown detailed layout; stairs and level switcher are visible."
+    },
+    {
+      "map": "templestowe-lists",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-templestowe-lists.png",
+      "screenshotSha256": "a82e27774cf92692ffe8e9706f74f56507e4f4a50c73665b5bffbf73bf78f6c5",
+      "manualObservation": "Western stake, eastern tribunal, enclosed grass and outer spectator areas are legible; this end-cursor image does not approve first-disclosure timing."
+    },
+    {
+      "map": "botolph",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-botolph.png",
+      "screenshotSha256": "8f1476b2af566ee4b4a6dc546f39827914fdf621a5a6fedbffdfcb60d3be1884",
+      "manualObservation": "Gate, priory exterior and separate refectory inset are readable as a schematic local plan."
+    },
+    {
+      "map": "coningsburgh",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-coningsburgh.png",
+      "screenshotSha256": "c5c85252563bd5aecd2f953b5a38ea72ab2d7d876f2f356d2ba24424baf0d2d6",
+      "manualObservation": "Round stone keep, six buttresses, court on the slope and Don-side ascent are readable."
+    },
+    {
+      "map": "coningsburgh-keep",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-coningsburgh-keep.png",
+      "screenshotSha256": "c09ec64d2bea4109ae65e9e31fad304ad82d977aa7f02895360b4c03ee424735",
+      "manualObservation": "Third-storey circular room, table, square lower-vault opening, wall stair, chapel and adjoining oratory insets are distinct. XLII.3–13 was reread."
+    },
+    {
+      "map": "coningsburgh-upper",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-coningsburgh-upper.png",
+      "screenshotSha256": "b921b846140cf220a596dc2744ef3ef4d83c3e25eefd04e55eb27376289307b0",
+      "manualObservation": "Separate fourth-storey round room and buttress stair are readable through the floor switcher."
+    },
+    {
+      "map": "coningsburgh-guests",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-coningsburgh-guests.png",
+      "screenshotSha256": "857041ac29da5b448854d900bc7ff412fcde1d1b362abbc6076a4aca1a387b8d",
+      "manualObservation": "A plain guest-room inset identifies the conversation space without inventing a full castle corridor layout."
+    },
+    {
+      "map": "don-woods",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-don-woods.png",
+      "screenshotSha256": "23baa334f0e28229d7972152846130d23490a1bfc52d23f6354e010e63bd0a57",
+      "manualObservation": "Four woodland journey insets, brook, stone circle, boundary oak and Sheffield overlook are legible. The historical Hugo pin at Sunken Cross is superseded by the later continuity correction."
+    },
+    {
+      "map": "ashby-woods",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-ashby-woods.png",
+      "screenshotSha256": "496c597576a51137f24e2d9fe8e40257692ba7e3efeef3c05008defe8ce9f0fc",
+      "manualObservation": "Hazel lane, dark approach, clearing and heath form a readable woodland plan; labels do not cover all path geometry."
+    },
+    {
+      "map": "york",
+      "screenshot": "scripts/ivanhoe/qa/map-all-illustrated-york.png",
+      "screenshotSha256": "016125e10878af1fd75b0ca86e33964289ac3080f4ac25d00e183f1c3b4e111f",
+      "manualObservation": "River confluence, motte, timber castle and round-arched Minster are clear; court is a separate schematic inset."
+    }
+  ]
+}

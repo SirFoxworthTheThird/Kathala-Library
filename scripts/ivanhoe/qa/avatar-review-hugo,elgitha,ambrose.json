@@ -1,0 +1,44 @@
+{
+  "status": "FIRST-APPEARANCE FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "selection": [
+    "hugo",
+    "elgitha",
+    "ambrose"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-hugo",
+      "name": "Hugo",
+      "eventId": "ivanhoe-source-5-p52",
+      "cursorLabel": "Ch.5 · CHAPTER II — Sunken Cross (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-hugo.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-hugo.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-elgitha",
+      "name": "The handmaid",
+      "eventId": "ivanhoe-source-6-p11",
+      "cursorLabel": "Ch.6 · CHAPTER III — A delayed supper (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-elgitha.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-elgitha.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "characterId": "ivanhoe-character-ambrose",
+      "name": "Brother Ambrose",
+      "eventId": "ivanhoe-source-8-p50",
+      "cursorLabel": "Ch.8 · CHAPTER V — Safekeeping (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-ambrose.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-ambrose.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

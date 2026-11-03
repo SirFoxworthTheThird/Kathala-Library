@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "templestowe-gate",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "cdc2719d67942e56a99b14e857dfb13c34a9f7198539be65155d636c62002e03",
+      "compressedSha256": "be37c44c2941513ca59775b768a4e56899d7569fe3bb99ca92316f91d2c31447",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty fortified gate and drawbridge; no supplicant, banner and full image clear.",
+      "screenshots": [
+        "qa/place-templestowe-gate.png",
+        "qa/place-templestowe-gate-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-garden",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "8fd3379117a7492accfd33e19fee8fef6598f1f6396622588a30e215b374ed38",
+      "compressedSha256": "a6665bbdd00a6c7f461205a81acd0b0889fea43cd3df68fb58be28c5c26d50b5",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Quiet enclosed garden, no Master or letter content shown; full view readable.",
+      "screenshots": [
+        "qa/place-templestowe-garden.png",
+        "qa/place-templestowe-garden-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "ab070f6fe75f3dd0605bcd697008979a1be9d8d0e409a328a554ccbff8d250b1",
+      "compressedSha256": "0d70715f5508459c01277273315c518e010e3412648cd9c5502a137a669b1397",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty religious precinct without invented exact conversation room; banner and full image clear.",
+      "screenshots": [
+        "qa/place-templestowe.png",
+        "qa/place-templestowe-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-rebecca-cell",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "02e1b89eb483a69fc930be20cfe6fd8b8ce9fa78f2094757a5650c3c3a10d506",
+      "compressedSha256": "e0f2c3fecfa279f5d7fc624cb1481732547157afbb35ce84fdf3f946c2564a6f",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Selected single empty chamber, closed door, no invented stair or second bedroom; full view clear. Old floor overlay is superseded by separately verified app fix.",
+      "screenshots": [
+        "qa/place-templestowe-rebecca-cell.png",
+        "qa/place-templestowe-rebecca-cell-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-trial-approach",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "15ef98f797505beb13010ad49b2a938e66c4978271796d53adbda92f5f90a85d",
+      "compressedSha256": "5a1f39e54320245615524df38efd2b75f1f133c0c40a1ac123a50d8547017cc3",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Stair landing, long gallery and closed folding doors, plain cloth without unsupported royal devices; full view clear. Old floor overlay separately fixed.",
+      "screenshots": [
+        "qa/place-templestowe-trial-approach.png",
+        "qa/place-templestowe-trial-approach-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-great-hall",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "c9654997c74169bb0e4006eac062cd7566637590f1bbd293bd30813022d1e8df",
+      "compressedSha256": "b2297d858e2b3637ef82e6e47adc5479e569d38b335669470df037d38e770f2f",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Oak floor, raised Master chair and four lower preceptor seats; empty image clear, no accused or judgment. Old floor overlay separately fixed.",
+      "screenshots": [
+        "qa/place-templestowe-great-hall.png",
+        "qa/place-templestowe-great-hall-lightbox.png"
+      ]
+    }
+  ]
+}

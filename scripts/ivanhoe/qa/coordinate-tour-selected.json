@@ -1,0 +1,75 @@
+{
+  "fixtureSha256": "9cd3cedacf0e28c91437adce2ccfebdc3bc8e8bb8a2f59539c2b872016d8720b",
+  "scope": "Actual app sidebar focus, selected-point visibility and enlarged map captures; manual coordinate/source approval required",
+  "completed": 3,
+  "total": 3,
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-ashby-gallery-steps",
+      "name": "The gallery steps",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 1105,
+      "y": 863,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 961.3266219239374,
+          "y": 491.4398976982097
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-prince-gallery-steps",
+      "name": "Steps to the prince’s seat",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 710,
+      "y": 598,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-prince-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 729.847874720358,
+          "y": 492.2352941176471
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    },
+    {
+      "markerId": "ivanhoe-place-ashby-queen-gallery-steps",
+      "name": "The Queen’s steps",
+      "mapLayerId": "ivanhoe-map-ashby-lists",
+      "x": 300,
+      "y": 598,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-ashby-queen-gallery-steps.png",
+      "presentation": {
+        "point": {
+          "x": 730.1610738255033,
+          "y": 492.2352941176471
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      }
+    }
+  ],
+  "pageErrors": []
+}

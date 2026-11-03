@@ -1,0 +1,21 @@
+{
+  "scope": "Frock description, custody and linked note immediately before/after/rewind; not all-item certification",
+  "observations": [
+    {
+      "phase": "before",
+      "holder": "Wamba",
+      "screenshot": "qa/frock-metadata-before.png"
+    },
+    {
+      "phase": "exchanged",
+      "holder": "Cedric",
+      "screenshot": "qa/frock-metadata-exchanged.png"
+    },
+    {
+      "phase": "rewound",
+      "holder": "Wamba",
+      "screenshot": "qa/frock-metadata-rewound.png"
+    }
+  ],
+  "pageErrors": []
+}

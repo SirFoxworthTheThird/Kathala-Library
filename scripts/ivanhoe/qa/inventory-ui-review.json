@@ -1,0 +1,54 @@
+{
+  "scope": "Selected absent-holder removal/rewind and farewell item reveal; complete inventory QA remains open",
+  "checks": [
+    {
+      "label": "wamba-before",
+      "present": [
+        "The prize bugle",
+        "The archer’s baldric"
+      ],
+      "absent": [],
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nResumes attendance on Cedric.\n\nInventory\nCedric’s cloak\nCedric’s girdle\nThe archer’s baldric\nThe cap feather\nThe prize bugle\nWamba’s silver collar\nWamba’s steel sword\nThe sword of lath"
+    },
+    {
+      "label": "wamba-relinquished",
+      "present": [
+        "Wamba’s silver collar"
+      ],
+      "absent": [
+        "The prize bugle",
+        "The archer’s baldric"
+      ],
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nResumes attendance on Cedric.\n\nInventory\nCedric’s cloak\nCedric’s girdle\nThe cap feather\nWamba’s silver collar\nWamba’s steel sword\nThe sword of lath\n\nLocksley has the horn and baldric again and gives them to the Black Knight."
+    },
+    {
+      "label": "wamba-rewind",
+      "present": [
+        "The prize bugle",
+        "The archer’s baldric"
+      ],
+      "absent": [],
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nResumes attendance on Cedric.\n\nInventory\nCedric’s cloak\nCedric’s girdle\nThe archer’s baldric\nThe cap feather\nThe prize bugle\nWamba’s silver collar\nWamba’s steel sword\nThe sword of lath"
+    },
+    {
+      "label": "chain-reported",
+      "present": [
+        "Aymer’s gold collar"
+      ],
+      "absent": [
+        "Brian’s pledge-chain"
+      ],
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nDenounces the irregular friar, then leaves with his attendants.\n\nInventory\nAymer’s gold collar\n\nAymer’s postscript says that Brian’s pledge-chain is now around an unnamed outlaw deer-stalker’s neck."
+    },
+    {
+      "label": "chain-rewind",
+      "present": [
+        "Brian’s pledge-chain"
+      ],
+      "absent": [],
+      "body": "Status\nAlive\nCurrent Location\n\nUnknown\n\nStatus Notes\n\nDenounces the irregular friar, then leaves with his attendants.\n\nInventory\nAymer’s gold collar\nBrian’s pledge-chain"
+    }
+  ],
+  "casketForwardAndRewind": true,
+  "pageErrors": []
+}

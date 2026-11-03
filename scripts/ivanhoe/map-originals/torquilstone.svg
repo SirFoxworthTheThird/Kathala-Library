@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1400" viewBox="0 0 1800 1400"><defs><g id="tree"><circle r="30" fill="#82945f"/><circle cx="-15" cy="-12" r="23" fill="#a2af77"/><path d="M0 7v27m0-17-15-14m15 14L15 0" stroke="#626c48" stroke-width="4"/></g><pattern id="stone" width="55" height="30" patternUnits="userSpaceOnUse"><rect width="55" height="30" fill="#b3ac96"/><path d="M0 0h55v30H0Zm27 0v30" fill="none" stroke="#8e8875" stroke-width="2"/></pattern></defs><rect width="1800" height="1400" fill="#eee3cb"/><g font-family="Georgia,serif" fill="#382f25"><text x="65" y="65" font-size="35">Torquilstone · fortress and wooded approaches</text><text x="65" y="105" font-size="18">XXI.25–30; XXV; XXVII.55,116; XXIX.17; XXX.17 · source-led relative geography</text><rect x="70" y="155" width="1305" height="1060" rx="25" fill="#b7c18d"/>
+<g fill="none" stroke="#97a271" stroke-width="3"><path d="M110 350q190-170 370-100M110 390q170-165 340-100M110 430q145-150 310-100M1070 1100q130-160 245-110M1050 1140q160-180 280-110"/></g>
+<path d="M1360 175q-150 60-120 160t-55 100" fill="none" stroke="#82a3a5" stroke-width="21"/>
+<text x="1110" y="190" font-size="18">Supplying rivulet</text>
+<rect x="420" y="325" width="825" height="730" rx="45" fill="#89a6a6" stroke="#788f88" stroke-width="5"/>
+<rect x="500" y="390" width="665" height="595" fill="#c1b697" stroke="url(#stone)" stroke-width="24"/>
+<circle cx="500" cy="390" r="48" fill="url(#stone)" stroke="#756f5e" stroke-width="5"/><circle cx="1165" cy="390" r="48" fill="url(#stone)" stroke="#756f5e" stroke-width="5"/><circle cx="500" cy="985" r="48" fill="url(#stone)" stroke="#756f5e" stroke-width="5"/><circle cx="1165" cy="985" r="48" fill="url(#stone)" stroke="#756f5e" stroke-width="5"/>
+<rect x="730" y="535" width="210" height="240" fill="url(#stone)" stroke="#756f5e" stroke-width="10"/>
+<circle cx="935" cy="535" r="27" fill="url(#stone)" stroke="#756f5e" stroke-width="4"/>
+<text x="835" y="630" text-anchor="middle" font-size="25">Square keep</text><text x="835" y="665" text-anchor="middle" font-size="18">High main tower</text>
+<rect x="580" y="435" width="440" height="65" fill="#ae9d7e" stroke="#7d7059" stroke-width="4"/>
+<rect x="1045" y="465" width="65" height="355" fill="#ae9d7e" stroke="#7d7059" stroke-width="4"/>
+<text x="800" y="470" text-anchor="middle" font-size="18">Lower buildings</text><text x="780" y="875" font-size="23">Inner court</text>
+<text x="1185" y="675" font-size="18" transform="rotate(90 1185 675)">Lower eastern wall</text>
+<text x="550" y="740" font-size="18" transform="rotate(-90 550 740)">Western wall</text>
+<path d="M780 985h110" stroke="#c1b697" stroke-width="28"/>
+<rect x="765" y="1080" width="150" height="100" fill="url(#stone)" stroke="#756f5e" stroke-width="8"/>
+<rect x="748" y="1063" width="34" height="34" fill="url(#stone)" stroke="#756f5e" stroke-width="3"/><rect x="898" y="1063" width="34" height="34" fill="url(#stone)" stroke="#756f5e" stroke-width="3"/><rect x="748" y="1163" width="34" height="34" fill="url(#stone)" stroke="#756f5e" stroke-width="3"/><rect x="898" y="1163" width="34" height="34" fill="url(#stone)" stroke="#756f5e" stroke-width="3"/>
+<path d="M835 985v95" stroke="#8c7251" stroke-width="10" stroke-dasharray="10 8"/>
+<text x="950" y="1120" font-size="20">Main gate barbican</text><text x="950" y="1152" font-size="17">Drawbridge alignment</text>
+<rect x="255" y="615" width="125" height="150" fill="#c2b28d" stroke="#725b3e" stroke-width="10"/>
+<path d="M500 680H380" stroke="#8c7251" stroke-width="7" stroke-dasharray="10 8"/>
+<path d="M255 670v45" stroke="#c2b28d" stroke-width="15"/><path d="M500 655v50" stroke="#c1b697" stroke-width="28"/>
+<text x="100" y="550" font-size="20">Separate postern outwork</text><text x="100" y="580" font-size="17">Palisade and outward sallyport</text>
+<text x="410" y="800" font-size="17">Moat crossing</text><text x="555" y="680" font-size="18">Postern</text>
+<path d="M835 1215v-35" stroke="#ae9e77" stroke-width="22"/>
+<use href="#tree" x="755" y="1200"/><use href="#tree" x="915" y="1200"/><use href="#tree" x="190" y="1000"/><use href="#tree" x="270" y="1090"/><use href="#tree" x="130" y="855"/><use href="#tree" x="180" y="730"/><use href="#tree" x="245" y="375"/><use href="#tree" x="350" y="285"/><use href="#tree" x="1350" y="640"/><use href="#tree" x="1320" y="825"/><use href="#tree" x="1260" y="1140"/>
+<text x="110" y="1175" font-size="20">Woodland approaches</text>
+<path d="M130 260v-65m-10 18 10-18 10 18" fill="none" stroke="#625b45" stroke-width="3"/><text x="120" y="184" font-size="19">N</text>
+<rect x="1410" y="155" width="320" height="1060" rx="12" fill="#dfd0ac" stroke="#b09c75"/>
+<text x="1430" y="205" font-size="22">Woodland detail index</text><text x="1430" y="238" font-size="16">Positions are not geographic.</text>
+<use href="#tree" x="1540" y="335"/><text x="1430" y="395" font-size="18">Oak: three arrow-flights</text><text x="1430" y="423" font-size="16">from the castle walls</text>
+<use href="#tree" x="1540" y="585"/><text x="1430" y="645" font-size="18">The broad gathering tree</text><text x="1430" y="673" font-size="16">Half a mile from the castle</text>
+<use href="#tree" x="1580" y="835"/><text x="1430" y="895" font-size="18">A tree to one side</text>
+<path d="M1440 1030q100-25 250 20" fill="none" stroke="#af9b74" stroke-width="15"/><text x="1430" y="1090" font-size="18">Path beside the gathering</text><path d="M65 1260H1735" stroke="#b9a57e"/><text x="65" y="1298" font-size="16">Main-gate barbican and drawbridge are distinct from the fortified postern outwork and its moat crossing. Dashed alignments do not assert an open crossing.</text><text x="65" y="1326" font-size="16">Keep, buildings, walls and moat are ground-plan outlines. Their current condition belongs to the scene; outlines do not assert intact roofs or passable routes.</text><text x="65" y="1354" font-size="16">Dimensions, exact footprint, slopes, watercourse bends and all positions except stated east/west relations are reconstructed. No measured travel scale is assigned.</text></g></svg>

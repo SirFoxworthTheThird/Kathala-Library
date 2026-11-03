@@ -1,0 +1,367 @@
+{
+  "scope": "15 individual actual-app coordinate screenshots opened at native resolution; presentation only, gateway traversal and disclosure still separate",
+  "fixtureSha256": "393aad636700573d1883d31aad3a304b9533abc3f341e2f04c1fdc09dabdf303",
+  "appCommit": "02dcd633",
+  "checks": [
+    {
+      "markerId": "ivanhoe-place-saint-botolph-priory",
+      "name": "Saint Botolph’s Priory",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "x": 530,
+      "y": 666,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-saint-botolph-priory.png",
+      "presentation": {
+        "point": {
+          "x": 729.6132596685082,
+          "y": 492.0331491712707
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "562dbd2e0d5ae04e147b39be4bef89ba6b62b660e5cf1fb7c9c18d2ab0e0bde4",
+      "manualObservation": "General priory pin sits on the principal house; exterior and stairs remain legible."
+    },
+    {
+      "markerId": "ivanhoe-place-saint-botolph-gate",
+      "name": "The Priory gate",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "x": 590,
+      "y": 286,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-saint-botolph-gate.png",
+      "presentation": {
+        "point": {
+          "x": 730.4751381215469,
+          "y": 530.4917127071824
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "638ac607d2ac25c48bf812cac11dd3ab472ff960e3db31148e359cf9f49d8062",
+      "manualObservation": "Pin is at the small gate below the exterior stair, matching the departure-place description."
+    },
+    {
+      "markerId": "ivanhoe-place-saint-botolph-refectory",
+      "name": "The refectory",
+      "mapLayerId": "ivanhoe-map-botolph",
+      "x": 1130,
+      "y": 631,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-saint-botolph-refectory.png",
+      "presentation": {
+        "point": {
+          "x": 730.232044198895,
+          "y": 491.5359116022099
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "7df13fbc6f306b61798c38940f5410aedfeefa7144d8489313d13c5a67c11f80",
+      "manualObservation": "Pin is inside the separate refectory plan on its open floor beside the table; no invented connecting passage."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-keep-gateway",
+      "name": "The southern keep entrance",
+      "mapLayerId": "ivanhoe-map-coningsburgh",
+      "x": 945,
+      "y": 536,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-keep-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 730.6642806012885,
+          "y": 492.1740674955595
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c8e7493b4eeddc65589392e65065a4685816c9426873508567c143950b891e46",
+      "manualObservation": "Pin meets the southern entrance staircase of the round keep; child-map button is visible."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-approach",
+      "name": "The Don-side ascent",
+      "mapLayerId": "ivanhoe-map-coningsburgh",
+      "x": 660,
+      "y": 391,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-approach.png",
+      "presentation": {
+        "point": {
+          "x": 730.5433070866142,
+          "y": 492.18294849023096
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "d6117e038a6b1cd27b1a3e427a7064920294c5e1a1ace1f83efc8221fa88c1d7",
+      "manualObservation": "Pin lies on the rising Don-side approach just outside the palisade entrance."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-court",
+      "name": "The castle court",
+      "mapLayerId": "ivanhoe-map-coningsburgh",
+      "x": 650,
+      "y": 606,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-court.png",
+      "presentation": {
+        "point": {
+          "x": 730.3987115246957,
+          "y": 492.20426287744226
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "73a899e3451289bb3f85d845726f5e88c906702d098b4137bba38fcc1b959954",
+      "manualObservation": "Pin lies in the open court within the palisade, separate from the keep."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-guests-gateway",
+      "name": "The separate guests’ room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "x": 1200,
+      "y": 121,
+      "levelLabel": "Third storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-guests-gateway.png",
+      "presentation": {
+        "point": {
+          "x": 972.6386554621849,
+          "y": 763.8855585831063
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c706cd1300e0683182c79c8f5f943791b1d8a9971eefbe1f64cd1d08a2438478",
+      "manualObservation": "Pin lies in the blank margin as a room-detail index. Reader copy expressly says it is not a door here and preserves unknown floor and connections."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-third-storey",
+      "name": "The round gathering room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "x": 600,
+      "y": 561,
+      "levelLabel": "Third storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-third-storey.png",
+      "presentation": {
+        "point": {
+          "x": 729.3193277310925,
+          "y": 491.6512261580382
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "1592e2b424eed7a70bf7def28fddff74d1bf8de7115c5353e8e64828f943ade1",
+      "manualObservation": "Pin lies on the third-storey round-room floor beside the table; lower vault aperture and wall stair are visible."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-chapel",
+      "name": "The buttress chapel",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "x": 1180,
+      "y": 721,
+      "levelLabel": "Third storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-chapel.png",
+      "presentation": {
+        "point": {
+          "x": 800.3613445378151,
+          "y": 492.3841961852861
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "7b30cf37962b810734a3725adfe3ee1d4d5a49b56f9f04a2c442099b2e11158b",
+      "manualObservation": "Pin lies inside the separate buttress chapel detail, in front of the altar. Chapel and adjoining oratory remain distinct."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-oratory",
+      "name": "Edith’s oratory",
+      "mapLayerId": "ivanhoe-map-coningsburgh-keep",
+      "x": 1100,
+      "y": 376,
+      "levelLabel": "Third storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-oratory.png",
+      "presentation": {
+        "point": {
+          "x": 729.2521008403362,
+          "y": 492.2724795640329
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "c2dd601a61fd48c37493afa3e1f8b3123609835c57ecbda4ba7a3f09b757146c",
+      "manualObservation": "Pin lies in the small adjoining oratory with western window and devotional cross; few-step connection is illustrated."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-upper-room",
+      "name": "The women’s room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-upper",
+      "x": 700,
+      "y": 617,
+      "levelLabel": "Fourth storey",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-upper-room.png",
+      "presentation": {
+        "point": {
+          "x": 729.84375,
+          "y": 492.25156669650846
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "522ea682edc18ebf15c447da88d90fe1a17ec0a6558e7135979685d4327e8923",
+      "manualObservation": "Pin is in the round fourth-storey room; floor selector correctly highlights Fourth storey."
+    },
+    {
+      "markerId": "ivanhoe-place-coningsburgh-guest-room",
+      "name": "The guests’ room",
+      "mapLayerId": "ivanhoe-map-coningsburgh-guests",
+      "x": 725,
+      "y": 512,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-coningsburgh-guest-room.png",
+      "presentation": {
+        "point": {
+          "x": 730.0694444444443,
+          "y": 492.07326007326003
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "694d39fdc690b717f316fec78af881e669575dbcea9e80aca17a926ab4cb61aa",
+      "manualObservation": "Pin is within the separate guest-room detail; no claimed floor or geographical corridor."
+    },
+    {
+      "markerId": "ivanhoe-place-york-castle",
+      "name": "York Castle",
+      "mapLayerId": "ivanhoe-map-york",
+      "x": 950,
+      "y": 505,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-york-castle.png",
+      "presentation": {
+        "point": {
+          "x": 729.3920704845814,
+          "y": 492.00432900432907
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "07dc56e302b506e07747f1732431e7a58d0900550503603c6ca3dbce9e10c664",
+      "manualObservation": "Pin sits on the timber castle enclosure rather than river or town roofs."
+    },
+    {
+      "markerId": "ivanhoe-place-york-court",
+      "name": "Richard’s court at York",
+      "mapLayerId": "ivanhoe-map-york",
+      "x": 260,
+      "y": 215,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-york-court.png",
+      "presentation": {
+        "point": {
+          "x": 674.6651982378855,
+          "y": 631.0216450216449
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "713e8626c439ba8dccb727821ecdff43c29da4fc957dad74cfad05056bd15d88",
+      "manualObservation": "Pin is on a non-geographical margin index because source supplies no exact court room; reader copy retains this uncertainty."
+    },
+    {
+      "markerId": "ivanhoe-place-york-minster",
+      "name": "The Minster of York",
+      "mapLayerId": "ivanhoe-map-york",
+      "x": 750,
+      "y": 945,
+      "levelLabel": "",
+      "screenshot": "qa/coordinate-ivanhoe-place-york-minster.png",
+      "presentation": {
+        "point": {
+          "x": 729.5726872246696,
+          "y": 485.9090909090908
+        },
+        "viewport": {
+          "left": 308,
+          "top": 48,
+          "right": 1152,
+          "bottom": 936
+        },
+        "panelLeft": 1152
+      },
+      "screenshotSha256": "5e271a89664a25827af70a742ec3b520e9c5d13b58dd59bbc8e419f58aad7e2e",
+      "manualObservation": "Pin sits on the illustrated Romanesque church, distinct from castle and city houses."
+    }
+  ]
+}

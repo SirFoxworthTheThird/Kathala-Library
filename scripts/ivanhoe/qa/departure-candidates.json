@@ -1,0 +1,3734 @@
+{
+  "scope": "Source departure concordance; manual source classification required, not an automatic endpoint importer",
+  "sourceSha256": "188187a4af0956b01ccb0a9f8fb50587ffa4fca0b2d12d8ff5a82fc6f05f15e0",
+  "candidates": [
+    {
+      "chapter": 1,
+      "paragraph": 9,
+      "text": "The human figures which completed this landscape, were in number two,\npartaking, in their dress and appearance, of that wild and rustic\ncharacter, which belonged to the woodlands of the West-Riding of\nYorkshire at that early period. The eldest of these men had a stern,\nsavage, and wild aspect. His garment was of the simplest form\nimaginable, being a close jacket with sleeves, composed of the tanned\nskin of some animal, on which the hair had been originally left, but\nwhich had been worn off in so many places, that it would have been\ndifficult to distinguish from the patches that remained, to what\ncreature the fur had belonged. This primeval vestment reached from the\nthroat to the knees, and served at once all the usual purposes of\nbody-clothing; there was no wider opening at the collar, than was\nnecessary to admit the passage of the head, from which it may be\ninferred, that it was put on by slipping it over the head and\nshoulders, in the manner of a modern shirt, or ancient hauberk.\nSandals, bound with thongs made of boars’ hide, protected the feet, and\na roll of thin leather was twined artificially round the legs, and,\nascending above the calf, left the knees bare, like those of a Scottish\nHighlander. To make the jacket sit yet more close to the body, it was\ngathered at the middle by a broad leathern belt, secured by a brass\nbuckle; to one side of which was attached a sort of scrip, and to the\nother a ram’s horn, accoutred with a mouthpiece, for the purpose of\nblowing. In the same belt was stuck one of those long, broad,\nsharp-pointed, and two-edged knives, with a buck’s-horn handle, which\nwere fabricated in the neighbourhood, and bore even at this early\nperiod the name of a Sheffield whittle. The man had no covering upon\nhis head, which was only defended by his own thick hair, matted and\ntwisted together, and scorched by the influence of the sun into a rusty\ndark-red colour, forming a contrast with the overgrown beard upon his\ncheeks, which was rather of a yellow or amber hue. One part of his\ndress only remains, but it is too remarkable to be suppressed; it was a\nbrass ring, resembling a dog’s collar, but without any opening, and\nsoldered fast round his neck, so loose as to form no impediment to his\nbreathing, yet so tight as to be incapable of being removed, excepting\nby the use of the file. On this singular gorget was engraved, in Saxon\ncharacters, an inscription of the following purport:—“Gurth, the son of\nBeowulph, is the born thrall of Cedric of Rotherwood.”",
+      "scenes": [
+        {
+          "from": 8,
+          "title": "The forest glade",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "gurth",
+              "location": "forest-glade",
+              "status": "Looks down dejectedly in his brass thrall collar beside the grazing herd."
+            },
+            {
+              "key": "wamba",
+              "location": "forest-glade",
+              "status": "Rests on a fallen stone in his belled cap and contrasting red and yellow gaiters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "paragraph": 13,
+      "text": "“Truly,” said Wamba, without stirring from the spot, “I have consulted\nmy legs upon this matter, and they are altogether of opinion, that to\ncarry my gay garments through these sloughs, would be an act of\nunfriendship to my sovereign person and royal wardrobe; wherefore,\nGurth, I advise thee to call off Fangs, and leave the herd to their\ndestiny, which, whether they meet with bands of travelling soldiers, or\nof outlaws, or of wandering pilgrims, can be little else than to be\nconverted into Normans before morning, to thy no small ease and\ncomfort.”",
+      "scenes": [
+        {
+          "from": 12,
+          "title": "Swine and pork",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "gurth",
+              "location": "forest-glade",
+              "status": "Blows his horn and calls Fangs to gather the pigs, then listens to Wamba’s account of Saxon and Norman food names."
+            },
+            {
+              "key": "wamba",
+              "location": "forest-glade",
+              "status": "Declines to muddy his clothes and uses the names of meat to mock the division between Saxon labour and Norman consumption."
+            },
+            {
+              "key": "fangs",
+              "location": "forest-glade",
+              "status": "Limpingly scatters the pigs while trying to answer Gurth’s signals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "paragraph": 40,
+      "text": "We return to the riders, who had soon left the bondsmen far behind\nthem, and who maintained the following conversation in the\nNorman-French language, usually employed by the superior classes, with\nthe exception of the few who were still inclined to boast their Saxon\ndescent.",
+      "scenes": [
+        {
+          "from": 40,
+          "title": "A wager on the road",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "aymer",
+              "location": "road-to-sunken-cross",
+              "status": "Explains Cedric’s temperament and Rowena’s wardship, confirms his gold-collar wager and urges Brian to behave courteously."
+            },
+            {
+              "key": "brian",
+              "location": "road-to-sunken-cross",
+              "status": "Boasts of coercing captives and questions the promised beauty of Rowena."
+            },
+            {
+              "key": "hamet",
+              "location": "road-to-sunken-cross",
+              "status": "Travels onward with the cavalcade after it leaves the two servants behind; the leading riders discuss Cedric and their wager."
+            },
+            {
+              "key": "abdalla",
+              "location": "road-to-sunken-cross",
+              "status": "Travels onward with the cavalcade after it leaves the two servants behind; the leading riders discuss Cedric and their wager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "paragraph": 9,
+      "text": "His dress was a tunic of forest green, furred at the throat and cuffs\nwith what was called minever; a kind of fur inferior in quality to\nermine, and formed, it is believed, of the skin of the grey squirrel.\nThis doublet hung unbuttoned over a close dress of scarlet which sat\ntight to his body; he had breeches of the same, but they did not reach\nbelow the lower part of the thigh, leaving the knee exposed. His feet\nhad sandals of the same fashion with the peasants, but of finer\nmaterials, and secured in the front with golden clasps. He had\nbracelets of gold upon his arms, and a broad collar of the same\nprecious metal around his neck. About his waist he wore a\nrichly-studded belt, in which was stuck a short straight two-edged\nsword, with a sharp point, so disposed as to hang almost\nperpendicularly by his side. Behind his seat was hung a scarlet cloth\ncloak lined with fur, and a cap of the same materials richly\nembroidered, which completed the dress of the opulent landholder when\nhe chose to go forth. A short boar-spear, with a broad and bright steel\nhead, also reclined against the back of his chair, which served him,\nwhen he walked abroad, for the purposes of a staff or of a weapon, as\nchance might require.",
+      "scenes": [
+        {
+          "from": 0,
+          "title": "Cedric’s hall",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall",
+              "status": "Waits impatiently for supper in the chair on the dais and rebuffs Balder’s attempt to claim his attention."
+            },
+            {
+              "key": "balder",
+              "location": "rotherwood-hall",
+              "status": "Puts his head against Cedric’s knee and noses his hand before being ordered down."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "paragraph": 23,
+      "text": "The major-domo departed with several attendants, to execute his\nmaster’s commands.",
+      "scenes": [
+        {
+          "from": 23,
+          "title": "Preparing for the guests",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall",
+              "status": "Asks about the Prior’s family, recalls the displaced Saxon household and asks the Templar’s name."
+            },
+            {
+              "key": "oswald",
+              "location": "rotherwood-hall",
+              "status": "Assents to the Prior’s family connection and answers with Brian de Bois-Guilbert’s name."
+            },
+            {
+              "key": "elgitha",
+              "location": "rotherwood-hall",
+              "status": "Hears Cedric’s questions about the Prior and the Templar."
+            },
+            {
+              "key": "hundebert",
+              "location": null,
+              "status": "Leaves with several household attendants to carry out Cedric’s hospitality orders."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "paragraph": 29,
+      "text": "Cedric darted at the forward damsel a glance of hasty resentment; but\nRowena, and whatever belonged to her, were privileged and secure from\nhis anger. He only replied, “Silence, maiden; thy tongue outruns thy\ndiscretion. Say my message to thy mistress, and let her do her\npleasure. Here, at least, the descendant of Alfred still reigns a\nprincess.” Elgitha left the apartment.",
+      "scenes": [
+        {
+          "from": 29,
+          "title": "The disowned son",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall",
+              "status": "Dismisses Elgitha and declares that he will not enquire after the son who disobeyed him."
+            },
+            {
+              "key": "oswald",
+              "location": "rotherwood-hall",
+              "status": "Remains available to the master after Elgitha carries the message away."
+            },
+            {
+              "key": "elgitha",
+              "location": null,
+              "status": "Leaves the hall after Cedric directs her to carry his message to Rowena."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "paragraph": 6,
+      "text": "These two dignified persons were followed by their respective\nattendants, and at a more humble distance by their guide, whose figure\nhad nothing more remarkable than it derived from the usual weeds of a\npilgrim. A cloak or mantle of coarse black serge, enveloped his whole\nbody. It was in shape something like the cloak of a modern hussar,\nhaving similar flaps for covering the arms, and was called a\n“Sclaveyn”, or “Sclavonian”. Coarse sandals, bound with thongs, on his\nbare feet; a broad and shadowy hat, with cockle-shells stitched on its\nbrim, and a long staff shod with iron, to the upper end of which was\nattached a branch of palm, completed the palmer’s attire. He followed\nmodestly the last of the train which entered the hall, and, observing\nthat the lower table scarce afforded room sufficient for the domestics\nof Cedric and the retinue of his guests, he withdrew to a settle placed\nbeside and almost under one of the large chimneys, and seemed to employ\nhimself in drying his garments, until the retreat of some one should\nmake room at the board, or the hospitality of the steward should supply\nhim with refreshments in the place he had chosen apart.",
+      "scenes": [
+        {
+          "from": 0,
+          "title": "The guests’ attire",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "hamet",
+              "location": "rotherwood-hall",
+              "status": "Follows his master into the hall with the visiting attendants while the Palmer seeks a place apart."
+            },
+            {
+              "key": "abdalla",
+              "location": "rotherwood-hall",
+              "status": "Enters with the company attending the Templar as the dignitaries return in changed clothing."
+            },
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall",
+              "status": "Enters in an embroidered cope and jewelled rings after changing his travelling robe."
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall",
+              "status": "Wears purple silk under a white mantle marked by the black cross instead of his travelling mail."
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall",
+              "status": "Takes a settle by the chimney to dry his garments because the lower table is crowded."
+            },
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall",
+              "status": "Receives the guests in his hall."
+            },
+            {
+              "key": "hugo",
+              "location": "rotherwood-hall",
+              "status": "Is among the visiting attendants whose company crowds the lower table as the Palmer finds a separate settle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "paragraph": 37,
+      "text": "“Nay,” said the Priest, laughing, “it is only in our abbey that we\nconfine ourselves to the ‘lac dulce’ or the ‘lac acidum’ either.\nConversing with, the world, we use the world’s fashions, and therefore\nI answer your pledge in this honest wine, and leave the weaker liquor\nto my lay-brother.”",
+      "scenes": [
+        {
+          "from": 31,
+          "title": "A veil and an invitation",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rowena",
+              "location": "rotherwood-hall",
+              "status": "Draws her veil over her face to rebuke the Templar’s stare and declines to unveil for his toast."
+            },
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall",
+              "status": "Challenges Brian’s stare and refuses the implication that he needs Norman protection to travel."
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall",
+              "status": "Offers Rowena an apology and then drinks a lavishly flattering toast to her."
+            },
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall",
+              "status": "Invites the household to the tournament and responds to Cedric’s wine pledge."
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-hall",
+              "status": "Occupies his accustomed place behind Cedric during the feast."
+            },
+            {
+              "key": "gurth",
+              "location": "rotherwood-hall",
+              "status": "Has been sent back to his household place at supper."
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall",
+              "status": "Sits apart from the principal table during their exchange."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "paragraph": 50,
+      "text": "And the steward left the banqueting hall to see the commands of his\npatron obeyed.",
+      "scenes": [
+        {
+          "from": 48,
+          "title": "Another stranger",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall",
+              "status": "Orders that the new traveller at the gate be admitted and cared for in the storm."
+            },
+            {
+              "key": "oswald",
+              "location": null,
+              "status": "Receives Cedric’s order and leaves the hall to arrange the stranger’s welcome."
+            },
+            {
+              "key": "rowena",
+              "location": "rotherwood-hall",
+              "status": "Is at the upper table when the page’s message interrupts conversation."
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall",
+              "status": "Is dining in the hall when another guest is announced."
+            },
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall",
+              "status": "Is among the diners when the request from the gate arrives."
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-hall",
+              "status": "Hears the page interrupt the hall’s conversation."
+            },
+            {
+              "key": "gurth",
+              "location": "rotherwood-hall",
+              "status": "Is in the household hall at the interruption."
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall",
+              "status": "Waits at his separate seat as a new request for shelter is reported."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "paragraph": 27,
+      "text": "“I think, friend Cedric,” said Wamba, interfering, “that had Richard of\nthe Lion’s Heart been wise enough to have taken a fool’s advice, he\nmight have staid at home with his merry Englishmen, and left the\nrecovery of Jerusalem to those same Knights who had most to do with the\nloss of it.”",
+      "scenes": [
+        {
+          "from": 20,
+          "title": "Languages of the chase",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall",
+              "status": "Praises Norman hunting vocabulary and later proposes the Hospitallers as foremost crusading knights."
+            },
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall",
+              "status": "Rejects foreign hunting terms, recalls Northallerton and drinks to prowess in Palestine."
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall",
+              "status": "Claims French as the language of love and war, then speaks for his own order."
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-hall",
+              "status": "Questions the wisdom of Richard’s expedition."
+            },
+            {
+              "key": "rowena",
+              "location": "rotherwood-hall",
+              "status": "Remains at the upper table as the discussion moves from hunting language to the English knights’ reputation."
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall",
+              "status": "Stands on the other side of the hall, within hearing of the discussion that compares the crusading knights."
+            },
+            {
+              "key": "isaac",
+              "location": "rotherwood-hall",
+              "status": "Occupies the place at the hearth provided by the Palmer while the upper-table conversation turns to hunting and war."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "paragraph": 33,
+      "text": "It is impossible for language to describe the bitter scowl of rage\nwhich rendered yet darker the swarthy countenance of the Templar. In\nthe extremity of his resentment and confusion, his quivering fingers\ngriped towards the handle of his sword, and perhaps only withdrew, from\nthe consciousness that no act of violence could be safely executed in\nthat place and presence. Cedric, whose feelings were all of a right\nonward and simple kind, and were seldom occupied by more than one\nobject at once, omitted, in the joyous glee with which he heard of the\nglory of his countrymen, to remark the angry confusion of his guest; “I\nwould give thee this golden bracelet, Pilgrim,” he said, “couldst thou\ntell me the names of those knights who upheld so gallantly the renown\nof merry England.”",
+      "scenes": [
+        {
+          "from": 28,
+          "title": "The Palmer’s testimony",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rowena",
+              "location": "rotherwood-hall",
+              "status": "Asks whether English knights deserve comparison with the military orders."
+            },
+            {
+              "key": "brian",
+              "location": "rotherwood-hall",
+              "status": "Concedes English valour only second place and reacts angrily to the Palmer’s contradiction."
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-hall",
+              "status": "Interrupts to assert the English knights were second to none and cites the Acre tournament."
+            },
+            {
+              "key": "cedric",
+              "location": "rotherwood-hall",
+              "status": "Offers a gold bracelet for the names of the successful English knights."
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-hall",
+              "status": "Offers to wear the bracelet when the Palmer refuses gold."
+            },
+            {
+              "key": "hugo",
+              "location": "rotherwood-hall",
+              "status": "Turns with the company toward the Palmer’s unexpected assertion about the English knights."
+            },
+            {
+              "key": "aymer",
+              "location": "rotherwood-hall",
+              "status": "Turns with the company toward the Palmer when his claim for the English knights interrupts the exchange."
+            },
+            {
+              "key": "isaac",
+              "location": "rotherwood-hall",
+              "status": "Turns with the company toward the Palmer’s unexpected declaration from the place near the hearth."
+            },
+            {
+              "key": "hamet",
+              "location": "rotherwood-hall",
+              "status": "Turns with the company toward the Palmer when he publicly contradicts the claim about the English knights."
+            },
+            {
+              "key": "abdalla",
+              "location": "rotherwood-hall",
+              "status": "Turns with the company toward the Palmer’s unexpected defence of the English chivalry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "paragraph": 57,
+      "text": "The grace-cup was accordingly served round, and the guests, after\nmaking deep obeisance to their landlord and to the Lady Rowena, arose\nand mingled in the hall, while the heads of the family, by separate\ndoors, retired with their attendants.",
+      "scenes": [
+        {
+          "from": 57,
+          "title": "A question in the throng",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "brian",
+              "location": "rotherwood-hall",
+              "status": "Questions Isaac about going to the tournament, accuses him of lying and addresses his own servants in another language."
+            },
+            {
+              "key": "isaac",
+              "location": "rotherwood-hall",
+              "status": "Says he is travelling for assistance with a tax fine and is left frightened by Brian’s accusation."
+            },
+            {
+              "key": "cedric",
+              "location": null,
+              "status": "Receives the guests’ final salutation and retires from the hall by a separate door with his attendants."
+            },
+            {
+              "key": "rowena",
+              "location": null,
+              "status": "Receives the parting obeisance and retires with her attendants through a door separate from Cedric’s."
+            },
+            {
+              "key": "hamet",
+              "location": "rotherwood-hall",
+              "status": "Is addressed with the other attendant by Brian in a language unknown to the bystanders; the order’s contents are not yet translated."
+            },
+            {
+              "key": "abdalla",
+              "location": "rotherwood-hall",
+              "status": "Receives Brian’s words with the other attendant after the encounter with Isaac; the bystanders are not told what is said."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "paragraph": 11,
+      "text": "The maidens, without leaving the apartment, retired to its further\nextremity, and sat down on a small bench against the wall, where they\nremained mute as statues, though at such a distance that their whispers\ncould not have interrupted the conversation of their mistress.",
+      "scenes": [
+        {
+          "from": 7,
+          "title": "Seven steps to the chamber",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "edwina",
+              "location": "rotherwood-rowena-chamber",
+              "status": "Leads the Palmer up the seven oak steps into Rowena’s apartment with Anwold’s torch; her name has not yet been spoken."
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-rowena-chamber",
+              "status": "Enters Rowena’s raised apartment and bows before her."
+            },
+            {
+              "key": "rowena",
+              "location": "rotherwood-rowena-chamber",
+              "status": "Receives the Palmer and asks her attendants to withdraw, except Elgitha."
+            },
+            {
+              "key": "elgitha",
+              "location": "rotherwood-rowena-chamber",
+              "status": "Is specifically retained beside Rowena for the private conversation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "paragraph": 36,
+      "text": "It is impossible to describe the extremity of terror which seized upon\nthe Jew at this information, and seemed at once to overpower his whole\nfaculties. His arms fell down to his sides, and his head drooped on his\nbreast, his knees bent under his weight, every nerve and muscle of his\nframe seemed to collapse and lose its energy, and he sunk at the foot\nof the Palmer, not in the fashion of one who intentionally stoops,\nkneels, or prostrates himself to excite compassion, but like a man\nborne down on all sides by the pressure of some invisible force, which\ncrushes him to the earth without the power of resistance.",
+      "scenes": [
+        {
+          "from": 35,
+          "title": "The overheard order",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "palmer",
+              "location": "rotherwood-isaac-cell",
+              "status": "Explains Brian’s instruction to seize Isaac and offers a concealed route to safety."
+            },
+            {
+              "key": "isaac",
+              "location": "rotherwood-isaac-cell",
+              "status": "Collapses in terror, suspects betrayal, then agrees urgently to depart."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "paragraph": 51,
+      "text": "“Willingly, most willingly shall it be done,” said Gurth, and instantly\ndeparted to execute the commission.",
+      "scenes": [
+        {
+          "from": 49,
+          "title": "Outside the postern",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "rotherwood-postern",
+              "status": "Calls urgently for his mule when the postern is opened."
+            },
+            {
+              "key": "palmer",
+              "location": "rotherwood-postern",
+              "status": "Asks Gurth to fetch a second mule and promises to return it to Cedric’s train at Ashby."
+            },
+            {
+              "key": "gurth",
+              "location": null,
+              "status": "Agrees to the private instruction and departs to fetch the requested animals; the source does not establish where he goes."
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-postern",
+              "status": "Follows through the postern with Isaac, wondering at Gurth’s changed demeanour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "paragraph": 58,
+      "text": "The Pilgrim mounted with more deliberation, reaching, as he departed,\nhis hand to Gurth, who kissed it with the utmost possible veneration.\nThe swineherd stood gazing after the travellers until they were lost\nunder the boughs of the forest path, when he was disturbed from his\nreverie by the voice of Wamba.",
+      "scenes": [
+        {
+          "from": 57,
+          "title": "The narrow bridge",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "gurth",
+              "location": "rotherwood-postern-bridge",
+              "status": "Waits with the mules on the far side of the moat and reverently kisses the Palmer’s hand."
+            },
+            {
+              "key": "palmer",
+              "location": null,
+              "status": "Crosses the two-plank drawbridge and mounts the borrowed mule."
+            },
+            {
+              "key": "isaac",
+              "location": null,
+              "status": "Crosses, secures a blue buckram bag behind his saddle and conceals it beneath his clothing."
+            },
+            {
+              "key": "wamba",
+              "location": "rotherwood-postern-bridge",
+              "status": "Is at the postern as the travellers mount and depart."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "paragraph": 17,
+      "text": "Emboldened by these considerations, the Jew pursued his point, and\njostled the Norman Christian, without respect either to his descent,\nquality, or religion. The complaints of the old man, however, excited\nthe indignation of the bystanders. One of these, a stout well-set\nyeoman, arrayed in Lincoln green, having twelve arrows stuck in his\nbelt, with a baldric and badge of silver, and a bow of six feet length\nin his hand, turned short round, and while his countenance, which his\nconstant exposure to weather had rendered brown as a hazel nut, grew\ndarker with anger, he advised the Jew to remember that all the wealth\nhe had acquired by sucking the blood of his miserable victims had but\nswelled him like a bloated spider, which might be overlooked while he\nkept in a corner, but would be crushed if it ventured into the light.\nThis intimation, delivered in Norman-English with a firm voice and a\nstern aspect, made the Jew shrink back; and he would have probably\nwithdrawn himself altogether from a vicinity so dangerous, had not the\nattention of every one been called to the sudden entrance of Prince\nJohn, who at that moment entered the lists, attended by a numerous and\ngay train, consisting partly of laymen, partly of churchmen, as light\nin their dress, and as gay in their demeanour, as their companions.\nAmong the latter was the Prior of Jorvaulx, in the most gallant trim\nwhich a dignitary of the church could venture to exhibit. Fur and gold\nwere not spared in his garments; and the points of his boots,\nout-heroding the preposterous fashion of the time, turned up so very\nfar, as to be attached, not to his knees merely, but to his very\ngirdle, and effectually prevented him from putting his foot into the\nstirrup. This, however, was a slight inconvenience to the gallant\nAbbot, who, perhaps, even rejoicing in the opportunity to display his\naccomplished horsemanship before so many spectators, especially of the\nfair sex, dispensed with the use of these supports to a timid rider.\nThe rest of Prince John’s retinue consisted of the favourite leaders of\nhis mercenary troops, some marauding barons and profligate attendants\nupon the court, with several Knights Templars and Knights of St John.",
+      "scenes": [
+        {
+          "from": 17,
+          "title": "The Prince arrives",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "ashby-lower-ring",
+              "status": "Jostles the Norman spectator but shrinks back at the green-clad yeoman’s warning."
+            },
+            {
+              "key": "rebecca",
+              "location": "ashby-lower-ring",
+              "status": "Is still on her father’s arm below the galleries when the royal party draws the crowd’s attention."
+            },
+            {
+              "key": "yeoman",
+              "location": "ashby-lists",
+              "status": "Warns Isaac against pressing his claims before attention turns to John’s entrance."
+            },
+            {
+              "key": "john",
+              "location": "ashby-lists",
+              "status": "Enters on a grey palfrey with a falcon and a richly dressed retinue."
+            },
+            {
+              "key": "aymer",
+              "location": "ashby-lists",
+              "status": "Rides with John in elaborate attire, unable to use his stirrups because of his boots."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "paragraph": 50,
+      "text": "As the Jew, stunned by the request, afraid to refuse, and unwilling to\ncomply, fumbled in the furred bag which hung by his girdle, and was\nperhaps endeavouring to ascertain how few coins might pass for a\nhandful, the Prince stooped from his jennet and settled Isaac’s doubts\nby snatching the pouch itself from his side; and flinging to Wamba a\ncouple of the gold pieces which it contained, he pursued his career\nround the lists, leaving the Jew to the derision of those around him,\nand himself receiving as much applause from the spectators as if he had\ndone some honest and honourable action.",
+      "scenes": [
+        {
+          "from": 49,
+          "title": "A handful of gold",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rebecca",
+              "location": "ashby-lower-ring",
+              "status": "Is beside her father in the lower spectators’ space as the mounted prince takes his pouch and rides on."
+            },
+            {
+              "key": "john",
+              "location": "ashby-lists",
+              "status": "Seizes Isaac’s pouch, throws two gold coins to Wamba and rides onward."
+            },
+            {
+              "key": "isaac",
+              "location": "ashby-lower-ring",
+              "status": "Fumbles unwillingly for the demanded coins before John takes the whole pouch."
+            },
+            {
+              "key": "wamba",
+              "location": "ashby-gallery-steps",
+              "status": "Receives two gold pieces from John."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "paragraph": 21,
+      "text": "Fourthly, it was announced, that, on the second day, there should be a\ngeneral tournament, in which all the knights present, who were desirous\nto win praise, might take part; and being divided into two bands of\nequal numbers, might fight it out manfully, until the signal was given\nby Prince John to cease the combat. The elected Queen of Love and\nBeauty was then to crown the knight whom the Prince should adjudge to\nhave borne himself best in this second day, with a coronet composed of\nthin gold plate, cut into the shape of a laurel crown. On this second\nday the knightly games ceased. But on that which was to follow, feats\nof archery, of bull-baiting, and other popular amusements, were to be\npractised, for the more immediate amusement of the populace. In this\nmanner did Prince John endeavour to lay the foundation of a popularity,\nwhich he was perpetually throwing down by some inconsiderate act of\nwanton aggression upon the feelings and prejudices of the people.",
+      "scenes": [
+        {
+          "from": 17,
+          "title": "The laws proclaimed",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "aymer",
+              "location": "ashby-prince-gallery",
+              "status": "Is among the followers surrounding John’s throne while the heralds announce the day’s rules."
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-prince-gallery",
+              "status": "Attends the prince at his throne after proposing that the victor choose the Queen."
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery",
+              "status": "Has prevailed on John to take his seat and is among the followers surrounding him for the proclamation."
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Assumes his throne and orders the heralds to announce the tournament rules."
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-lists",
+              "status": "Holds position at one end of the lists as the proclamations conclude."
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists",
+              "status": "Holds the other end while knights gather outside the northern barrier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "paragraph": 23,
+      "text": "The heralds finished their proclamation with their usual cry of\n“Largesse, largesse, gallant knights!” and gold and silver pieces were\nshowered on them from the galleries, it being a high point of chivalry\nto exhibit liberality towards those whom the age accounted at once the\nsecretaries and the historians of honour. The bounty of the spectators\nwas acknowledged by the customary shouts of “Love of Ladies—Death of\nChampions—Honour to the Generous—Glory to the Brave!” To which the more\nhumble spectators added their acclamations, and a numerous band of\ntrumpeters the flourish of their martial instruments. When these sounds\nhad ceased, the heralds withdrew from the lists in gay and glittering\nprocession, and none remained within them save the marshals of the\nfield, who, armed cap-a-pie, sat on horseback, motionless as statues,\nat the opposite ends of the lists. Meantime, the enclosed space at the\nnorthern extremity of the lists, large as it was, was now completely\ncrowded with knights desirous to prove their skill against the\nchallengers, and, when viewed from the galleries, presented the\nappearance of a sea of waving plumage, intermixed with glistening\nhelmets, and tall lances, to the extremities of which were, in many\ncases, attached small pennons of about a span’s breadth, which,\nfluttering in the air as the breeze caught them, joined with the\nrestless motion of the feathers to add liveliness to the scene.",
+      "scenes": [
+        {
+          "from": 17,
+          "title": "The laws proclaimed",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "aymer",
+              "location": "ashby-prince-gallery",
+              "status": "Is among the followers surrounding John’s throne while the heralds announce the day’s rules."
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-prince-gallery",
+              "status": "Attends the prince at his throne after proposing that the victor choose the Queen."
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery",
+              "status": "Has prevailed on John to take his seat and is among the followers surrounding him for the proclamation."
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Assumes his throne and orders the heralds to announce the tournament rules."
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-lists",
+              "status": "Holds position at one end of the lists as the proclamations conclude."
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists",
+              "status": "Holds the other end while knights gather outside the northern barrier."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "paragraph": 30,
+      "text": "The shouts of the multitude, together with the acclamations of the\nheralds, and the clangour of the trumpets, announced the triumph of the\nvictors and the defeat of the vanquished. The former retreated to their\npavilions, and the latter, gathering themselves up as they could,\nwithdrew from the lists in disgrace and dejection, to agree with their\nvictors concerning the redemption of their arms and their horses,\nwhich, according to the laws of the tournament, they had forfeited. The\nfifth of their number alone tarried in the lists long enough to be\ngreeted by the applauses of the spectators, amongst whom he retreated,\nto the aggravation, doubtless, of his companions’ mortification.",
+      "scenes": [
+        {
+          "from": 24,
+          "title": "The challengers prevail",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "brian",
+              "location": "ashby-lists",
+              "status": "Overthrows his first opponent and retains his seat through successive challenges."
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "ashby-lists",
+              "status": "Unhorses an opponent and remains undefeated through the successive entries."
+            },
+            {
+              "key": "malvoisin",
+              "location": "ashby-lists",
+              "status": "Wins his bouts while the challengers maintain their advantage."
+            },
+            {
+              "key": "grantmesnil",
+              "location": "ashby-lists",
+              "status": "Receives a foul crossing blow from an opponent and remains undefeated."
+            },
+            {
+              "key": "vipont",
+              "location": "ashby-lists",
+              "status": "Breaks evenly with his first opponent and retains his seat in the subsequent entries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "paragraph": 47,
+      "text": "However incensed at his adversary for the precautions which he\nrecommended, Brian de Bois-Guilbert did not neglect his advice; for his\nhonour was too nearly concerned, to permit his neglecting any means\nwhich might ensure victory over his presumptuous opponent. He changed\nhis horse for a proved and fresh one of great strength and spirit. He\nchose a new and a tough spear, lest the wood of the former might have\nbeen strained in the previous encounters he had sustained. Lastly, he\nlaid aside his shield, which had received some little damage, and\nreceived another from his squires. His first had only borne the general\ndevice of his rider, representing two knights riding upon one horse, an\nemblem expressive of the original humility and poverty of the Templars,\nqualities which they had since exchanged for the arrogance and wealth\nthat finally occasioned their suppression. Bois-Guilbert’s new shield\nbore a raven in full flight, holding in its claws a skull, and bearing\nthe motto, “Gare le Corbeau”.",
+      "scenes": [
+        {
+          "from": 47,
+          "title": "A fresh shield",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "brian",
+              "location": "ashby-lists",
+              "status": "Changes horse, lance and damaged shield for fresh equipment, including the raven-and-skull shield."
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-northern-end",
+              "status": "Waits at the opposite end for the joust to begin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "paragraph": 49,
+      "text": "The trumpets had no sooner given the signal, than the champions\nvanished from their posts with the speed of lightning, and closed in\nthe centre of the lists with the shock of a thunderbolt. The lances\nburst into shivers up to the very grasp, and it seemed at the moment\nthat both knights had fallen, for the shock had made each horse recoil\nbackwards upon its haunches. The address of the riders recovered their\nsteeds by use of the bridle and spur; and having glared on each other\nfor an instant with eyes which seemed to flash fire through the bars of\ntheir visors, each made a demi-volte, and, retiring to the extremity of\nthe lists, received a fresh lance from the attendants.",
+      "scenes": [
+        {
+          "from": 49,
+          "title": "The first course",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "brian",
+              "location": "ashby-lists",
+              "status": "Breaks his lance in an even collision and recovers his horse after it recoils."
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-northern-end",
+              "status": "Meets Brian evenly, recovers his mount and receives a fresh lance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "paragraph": 62,
+      "text": "Ralph de Vipont summed up the list of the stranger’s triumphs, being\nhurled to the ground with such force, that the blood gushed from his\nnose and his mouth, and he was borne senseless from the lists.",
+      "scenes": [
+        {
+          "from": 62,
+          "title": "The day’s award",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "wyvil",
+              "location": "ashby-lists",
+              "status": "Joins the unanimous award of the first day’s honours after the stranger defeats the final challenger."
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists",
+              "status": "Concurs with the prince and the other marshal in declaring the stranger the day’s victor."
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-lists-centre",
+              "status": "Unhorses Vipont and is unanimously awarded the day’s honours."
+            },
+            {
+              "key": "vipont",
+              "location": null,
+              "status": "Is thrown violently, bleeds from nose and mouth and is carried away unconscious."
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Joins the marshals in awarding the day to the stranger."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "paragraph": 19,
+      "text": "The appearance of vanity, which might otherwise have been attributed to\nthis display, was removed by the propriety shown in exhibiting to the\nbest advantage the princely reward with which he had been just\nhonoured, and the Knight was again greeted by the acclamations of all\npresent.",
+      "scenes": [
+        {
+          "from": 16,
+          "title": "The prize horse",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "wyvil",
+              "location": "ashby-lists",
+              "status": "Conducts the victor to the wooden steps below John’s throne for the presentation of the prize horse."
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists",
+              "status": "Accompanies the victor’s approach to the foot of the throne steps, respecting his closed visor."
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Delivers the warhorse with an embarrassed compliment."
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-lists",
+              "status": "Acknowledges the award silently, mounts the prize horse and displays its paces around the lists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "paragraph": 45,
+      "text": "So saying, he prepared to leave the lists with his glittering train,\nand his turning his steed for that purpose, was the signal for the\nbreaking up and dispersion of the spectators.",
+      "scenes": [
+        {
+          "from": 45,
+          "title": "The archer detained",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "john",
+              "location": "ashby-lists",
+              "status": "Orders the men-at-arms to keep the archer from leaving."
+            },
+            {
+              "key": "yeoman",
+              "location": "ashby-lists",
+              "status": "States he intends to remain to see the archers of the neighbouring forests."
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-lists",
+              "status": "Urges restraint of the peasants’ insolence."
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-lists",
+              "status": "Responds to John’s unpopularity by a silent shrug."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "paragraph": 51,
+      "text": "In various routes, according to the different quarters from which they\ncame, and in groups of various numbers, the spectators were seen\nretiring over the plain. By far the most numerous part streamed towards\nthe town of Ashby, where many of the distinguished persons were lodged\nin the castle, and where others found accommodation in the town itself.\nAmong these were most of the knights who had already appeared in the\ntournament, or who proposed to fight there the ensuing day, and who, as\nthey rode slowly along, talking over the events of the day, were\ngreeted with loud shouts by the populace. The same acclamations were\nbestowed upon Prince John, although he was indebted for them rather to\nthe splendour of his appearance and train, than to the popularity of\nhis character.",
+      "scenes": [
+        {
+          "from": 51,
+          "title": "Evening at the lists",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "john",
+              "location": null,
+              "status": "Rides away with his glittering train, receiving the crowd’s acclaim as the spectators disperse toward Ashby and other quarters."
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-victor-pavilion",
+              "status": "Withdraws from public notice into a pavilion offered by the marshals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "paragraph": 52,
+      "text": "A more sincere and more general, as well as a better-merited\nacclamation, attended the victor of the day, until, anxious to withdraw\nhimself from popular notice, he accepted the accommodation of one of\nthose pavilions pitched at the extremities of the lists, the use of\nwhich was courteously tendered him by the marshals of the field. On his\nretiring to his tent, many who had lingered in the lists, to look upon\nand form conjectures concerning him, also dispersed.",
+      "scenes": [
+        {
+          "from": 51,
+          "title": "Evening at the lists",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "john",
+              "location": null,
+              "status": "Rides away with his glittering train, receiving the crowd’s acclaim as the spectators disperse toward Ashby and other quarters."
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-victor-pavilion",
+              "status": "Withdraws from public notice into a pavilion offered by the marshals."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "paragraph": 14,
+      "text": "Baldwin made a deep obeisance, and retired with his companions; and the\nDisinherited Knight entered the pavilion.",
+      "scenes": [
+        {
+          "from": 11,
+          "title": "An unended quarrel",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "disinherited",
+              "location": "ashby-victor-pavilion",
+              "status": "Refuses Brian’s ransom and arms, then grants Baldwin the forfeited equipment if Brian will not reclaim it."
+            },
+            {
+              "key": "baldwin",
+              "location": null,
+              "status": "Defends his master’s honour and leaves with the other squires after receiving the equipment back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "paragraph": 28,
+      "text": "“I will do so,” said Gurth, taking the bag under his cloak, and leaving\nthe apartment; “and it will go hard,” he muttered, “but I content him\nwith one-half of his own asking.” So saying, he departed, and left the\nDisinherited Knight to his own perplexed ruminations; which, upon more\naccounts than it is now possible to communicate to the reader, were of\na nature peculiarly agitating and painful.",
+      "scenes": [
+        {
+          "from": 23,
+          "title": "Money for Isaac",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "disinherited",
+              "location": "ashby-victor-pavilion",
+              "status": "Orders Gurth to use the bag of gold to settle the debt for horse and armour."
+            },
+            {
+              "key": "gurth",
+              "location": null,
+              "status": "Objects to letting Isaac set the price, then takes the money and leaves to negotiate."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "paragraph": 63,
+      "text": "Gurth grinned, which was his nearest approach to a laugh, as he\nreplied, “About the same quantity which thou hast just told over so\ncarefully.” He then folded the quittance, and put it under his cap,\nadding,—“Peril of thy beard, Jew, see that this be full and ample!” He\nfilled himself unbidden, a third goblet of wine, and left the apartment\nwithout ceremony.",
+      "scenes": [
+        {
+          "from": 60,
+          "title": "The acquittance",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "gurth",
+              "location": null,
+              "status": "Pays eighty zecchins, takes the acquittance under his cap and leaves after another cup."
+            },
+            {
+              "key": "isaac",
+              "location": "ashby-host-house-upper-room",
+              "status": "Counts and retains all eighty coins while giving the written acquittance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "paragraph": 65,
+      "text": "As he turned to receive Rebecca’s answer, he observed, that during his\nchattering with Gurth, she had left the apartment unperceived.",
+      "scenes": [
+        {
+          "from": 65,
+          "title": "An empty place",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "ashby-host-house-upper-room",
+              "status": "Turns for Rebecca’s answer and notices she has left without being observed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "paragraph": 45,
+      "text": "“Nay, that were a shame,” muttered the other fellow; “and yet, when I\nserved in the band of stout old Gandelyn, we had no such scruples of\nconscience. And this insolent peasant,—he too, I warrant me, is to be\ndismissed scatheless?”",
+      "scenes": [
+        {
+          "from": 41,
+          "title": "A snatched staff",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "gurth",
+              "location": "ashby-outlaw-clearing",
+              "status": "Breaks free, seizes a quarterstaff and knocks the captain down, but is recaptured before recovering the money."
+            },
+            {
+              "key": "outlawcaptain",
+              "location": "ashby-outlaw-clearing",
+              "status": "Rises from the blow, confirms the Hebrew embroidery and argues that the knight’s money should be spared."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "paragraph": 57,
+      "text": "Gurth thanked the Captain for his courtesy, and promised to attend to\nhis recommendation. Two of the outlaws, taking up their quarter-staves,\nand desiring Gurth to follow close in the rear, walked roundly forward\nalong a by-path, which traversed the thicket and the broken ground\nadjacent to it. On the very verge of the thicket two men spoke to his\nconductors, and receiving an answer in a whisper, withdrew into the\nwood, and suffered them to pass unmolested. This circumstance induced\nGurth to believe both that the gang was strong in numbers, and that\nthey kept regular guards around their place of rendezvous.",
+      "scenes": [
+        {
+          "from": 57,
+          "title": "Across the heath",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "gurth",
+              "location": "ashby-heath-overlook",
+              "status": "Follows two guides through the thicket past sentries to a rise overlooking the lists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "paragraph": 17,
+      "text": "This proclamation having been made, the heralds withdrew to their\nstations. The knights, entering at either end of the lists in long\nprocession, arranged themselves in a double file, precisely opposite to\neach other, the leader of each party being in the centre of the\nforemost rank, a post which he did not occupy until each had carefully\nmarshalled the ranks of his party, and stationed every one in his\nplace.",
+      "scenes": [
+        {
+          "from": 15,
+          "title": "The marshalled ranks",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "disinherited",
+              "location": "ashby-lists",
+              "status": "Leads one party into its arranged double rank."
+            },
+            {
+              "key": "brian",
+              "location": "ashby-lists",
+              "status": "Heads the opposing party as the combat rules are rehearsed."
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-lists",
+              "status": "Inspects the numbers before withdrawing from the field."
+            },
+            {
+              "key": "martival",
+              "location": "ashby-lists",
+              "status": "Helps verify equal numbers on each side."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "paragraph": 19,
+      "text": "As yet the knights held their long lances upright, their bright points\nglancing to the sun, and the streamers with which they were decorated\nfluttering over the plumage of the helmets. Thus they remained while\nthe marshals of the field surveyed their ranks with the utmost\nexactness, lest either party had more or fewer than the appointed\nnumber. The tale was found exactly complete. The marshals then withdrew\nfrom the lists, and William de Wyvil, with a voice of thunder,\npronounced the signal words—“Laissez aller!” The trumpets sounded as he\nspoke—the spears of the champions were at once lowered and placed in\nthe rests—the spurs were dashed into the flanks of the horses, and the\ntwo foremost ranks of either party rushed upon each other in full\ngallop, and met in the middle of the lists with a shock, the sound of\nwhich was heard at a mile’s distance. The rear rank of each party\nadvanced at a slower pace to sustain the defeated, and follow up the\nsuccess of the victors of their party.",
+      "scenes": [
+        {
+          "from": 19,
+          "title": "The general onset",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "martival",
+              "location": null,
+              "status": "Withdraws from the lists with the other marshal after checking the numbers, clearing the ground before the charge."
+            },
+            {
+              "key": "wyvil",
+              "location": null,
+              "status": "Pronounces the release signal after the counts are complete."
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-lists-centre",
+              "status": "Charges with his party and repeatedly tries to reach Brian through the crowded fight."
+            },
+            {
+              "key": "brian",
+              "location": "ashby-lists-centre",
+              "status": "Leads his own onset and seeks his rival amid the combat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "paragraph": 20,
+      "text": "The consequences of the encounter were not instantly seen, for the dust\nraised by the trampling of so many steeds darkened the air, and it was\na minute ere the anxious spectator could see the fate of the encounter.\nWhen the fight became visible, half the knights on each side were\ndismounted, some by the dexterity of their adversary’s lance,—some by\nthe superior weight and strength of opponents, which had borne down\nboth horse and man,—some lay stretched on earth as if never more to\nrise,—some had already gained their feet, and were closing hand to hand\nwith those of their antagonists who were in the same predicament,—and\nseveral on both sides, who had received wounds by which they were\ndisabled, were stopping their blood by their scarfs, and endeavouring\nto extricate themselves from the tumult. The mounted knights, whose\nlances had been almost all broken by the fury of the encounter, were\nnow closely engaged with their swords, shouting their war-cries, and\nexchanging buffets, as if honour and life depended on the issue of the\ncombat.",
+      "scenes": [
+        {
+          "from": 19,
+          "title": "The general onset",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "martival",
+              "location": null,
+              "status": "Withdraws from the lists with the other marshal after checking the numbers, clearing the ground before the charge."
+            },
+            {
+              "key": "wyvil",
+              "location": null,
+              "status": "Pronounces the release signal after the counts are complete."
+            },
+            {
+              "key": "disinherited",
+              "location": "ashby-lists-centre",
+              "status": "Charges with his party and repeatedly tries to reach Brian through the crowded fight."
+            },
+            {
+              "key": "brian",
+              "location": "ashby-lists-centre",
+              "status": "Leads his own onset and seeks his rival amid the combat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "paragraph": 37,
+      "text": "The squires, who had found it a matter of danger and difficulty to\nattend their masters during the engagement, now thronged into the lists\nto pay their dutiful attendance to the wounded, who were removed with\nthe utmost care and attention to the neighbouring pavilions, or to the\nquarters prepared for them in the adjoining village.",
+      "scenes": [
+        {
+          "from": 36,
+          "title": "The wounded removed",
+          "recollection": false,
+          "endpoints": []
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "paragraph": 40,
+      "text": "To the surprise of all present, however, the knight thus preferred was\nnowhere to be found. He had left the lists immediately when the\nconflict ceased, and had been observed by some spectators to move down\none of the forest glades with the same slow pace and listless and\nindifferent manner which had procured him the epithet of the Black\nSluggard. After he had been summoned twice by sound of trumpet, and\nproclamation of the heralds, it became necessary to name another to\nreceive the honours which had been assigned to him. Prince John had now\nno further excuse for resisting the claim of the Disinherited Knight,\nwhom, therefore, he named the champion of the day.",
+      "scenes": [
+        {
+          "from": 39,
+          "title": "An absent victor",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Attempts to award the prize to the Black Knight, then names the Disinherited Knight when the preferred recipient cannot be found."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "paragraph": 44,
+      "text": "On the lower step of this throne the champion was made to kneel down.\nIndeed his whole action since the fight had ended, seemed rather to\nhave been upon the impulse of those around him than from his own free\nwill; and it was observed that he tottered as they guided him the\nsecond time across the lists. Rowena, descending from her station with\na graceful and dignified step, was about to place the chaplet which she\nheld in her hand upon the helmet of the champion, when the marshals\nexclaimed with one voice, “It must not be thus—his head must be bare.”\nThe knight muttered faintly a few words, which were lost in the hollow\nof his helmet, but their purport seemed to be a desire that his casque\nmight not be removed.",
+      "scenes": [
+        {
+          "from": 44,
+          "title": "A reluctant kneeling",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "disinherited",
+              "location": "ashby-queen-gallery-steps",
+              "status": "Totters and is made to kneel, weakly protesting removal of his helmet."
+            },
+            {
+              "key": "rowena",
+              "location": "ashby-queen-gallery-steps",
+              "status": "Descends with the chaplet to crown the kneeling knight."
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-queen-gallery-steps",
+              "status": "Insists the champion’s head must be bare."
+            },
+            {
+              "key": "martival",
+              "location": "ashby-queen-gallery-steps",
+              "status": "Joins in demanding the ceremonial unhelming."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "paragraph": 45,
+      "text": "Whether from love of form, or from curiosity, the marshals paid no\nattention to his expressions of reluctance, but unhelmed him by cutting\nthe laces of his casque, and undoing the fastening of his gorget. When\nthe helmet was removed, the well-formed, yet sun-burnt features of a\nyoung man of twenty-five were seen, amidst a profusion of short fair\nhair. His countenance was as pale as death, and marked in one or two\nplaces with streaks of blood.",
+      "scenes": [
+        {
+          "from": 45,
+          "title": "The helmet removed",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "disinherited",
+              "location": "ashby-queen-gallery-steps",
+              "status": "Is unhelmeted despite his protests, revealing a pale, blood-streaked young face."
+            },
+            {
+              "key": "wyvil",
+              "location": "ashby-queen-gallery-steps",
+              "status": "Helps cut the helmet laces and undo the gorget."
+            },
+            {
+              "key": "martival",
+              "location": "ashby-queen-gallery-steps",
+              "status": "Assists the removal of the champion’s helmet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 11,
+      "text": "A stern smile curled the Prince’s lip as he spoke. Waldemar Fitzurse\nhastened to reply, that Ivanhoe was already removed from the lists, and\nin the custody of his friends.",
+      "scenes": [
+        {
+          "from": 9,
+          "title": "Removed from the field",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery",
+              "status": "Returns with news of Ivanhoe’s severe wound, removal and Rowena’s distress."
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Orders his physician to attend, then learns that friends have already taken custody."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 18,
+      "text": "Prince John had proceeded thus far, and was about to give the signal\nfor retiring from the lists, when a small billet was put into his hand.",
+      "scenes": [
+        {
+          "from": 18,
+          "title": "The sealed billet",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Receives and opens the foreign billet bearing a warning that the Devil is unchained."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 27,
+      "text": "“The yeomen and commons,” said De Bracy, “must not be dismissed\ndiscontented, for lack of their share in the sports.”",
+      "scenes": [
+        {
+          "from": 26,
+          "title": "The games brought forward",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery",
+              "status": "Urges an immediate political muster and suggests settling the archery prize today."
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-prince-gallery",
+              "status": "Warns against disappointing the yeomen of their promised sports."
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Keeps the banquet plan and advances the archery contest before dismissing tomorrow’s festival."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 30,
+      "text": "The sound of the trumpets soon recalled those spectators who had\nalready begun to leave the field; and proclamation was made that Prince\nJohn, suddenly called by high and peremptory public duties, held\nhimself obliged to discontinue the entertainments of to-morrow’s\nfestival: Nevertheless, that, unwilling so many good yeoman should\ndepart without a trial of skill, he was pleased to appoint them, before\nleaving the ground, presently to execute the competition of archery\nintended for the morrow. To the best archer a prize was to be awarded,\nbeing a bugle-horn, mounted with silver, and a silken baldric richly\nornamented with a medallion of St Hubert, the patron of silvan sport.",
+      "scenes": [
+        {
+          "from": 26,
+          "title": "The games brought forward",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "fitzurse",
+              "location": "ashby-prince-gallery",
+              "status": "Urges an immediate political muster and suggests settling the archery prize today."
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-prince-gallery",
+              "status": "Warns against disappointing the yeomen of their promised sports."
+            },
+            {
+              "key": "john",
+              "location": "ashby-prince-gallery",
+              "status": "Keeps the banquet plan and advances the archery contest before dismissing tomorrow’s festival."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 31,
+      "text": "More than thirty yeomen at first presented themselves as competitors,\nseveral of whom were rangers and under-keepers in the royal forests of\nNeedwood and Charnwood. When, however, the archers understood with whom\nthey were to be matched, upwards of twenty withdrew themselves from the\ncontest, unwilling to encounter the dishonour of almost certain defeat.\nFor in those days the skill of each celebrated marksman was as well\nknown for many miles round him, as the qualities of a horse trained at\nNewmarket are familiar to those who frequent that well-known meeting.",
+      "scenes": [
+        {
+          "from": 31,
+          "title": "A name demanded",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "john",
+              "location": "ashby-archery-ground",
+              "status": "Reviews eight remaining competitors and taunts the yeoman who stands apart."
+            },
+            {
+              "key": "yeoman",
+              "location": "ashby-archery-ground",
+              "status": "Explains his refusal to enter on unfamiliar terms before John demands his name."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 50,
+      "text": "The former target was now removed, and a fresh one of the same size\nplaced in its room. Hubert, who, as victor in the first trial of skill,\nhad the right to shoot first, took his aim with great deliberation,\nlong measuring the distance with his eye, while he held in his hand his\nbended bow, with the arrow placed on the string. At length he made a\nstep forward, and raising the bow at the full stretch of his left arm,\ntill the centre or grasping-place was nigh level with his face, he drew\nhis bowstring to his ear. The arrow whistled through the air, and\nlighted within the inner ring of the target, but not exactly in the\ncentre.",
+      "scenes": [
+        {
+          "from": 50,
+          "title": "Allowance for the wind",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "hubert",
+              "location": "ashby-archery-south-avenue",
+              "status": "Shoots within the ring but short of centre."
+            },
+            {
+              "key": "locksley",
+              "location": "ashby-archery-south-avenue",
+              "status": "Notes the wind and places his own arrow two inches nearer the white."
+            },
+            {
+              "key": "john",
+              "location": "ashby-archery-south-avenue",
+              "status": "Threatens Hubert with hanging if the stranger surpasses him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 52,
+      "text": "So saying, and without showing the least anxiety to pause upon his aim,\nLocksley stept to the appointed station, and shot his arrow as\ncarelessly in appearance as if he had not even looked at the mark. He\nwas speaking almost at the instant that the shaft left the bowstring,\nyet it alighted in the target two inches nearer to the white spot which\nmarked the centre than that of Hubert.",
+      "scenes": [
+        {
+          "from": 50,
+          "title": "Allowance for the wind",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "hubert",
+              "location": "ashby-archery-south-avenue",
+              "status": "Shoots within the ring but short of centre."
+            },
+            {
+              "key": "locksley",
+              "location": "ashby-archery-south-avenue",
+              "status": "Notes the wind and places his own arrow two inches nearer the white."
+            },
+            {
+              "key": "john",
+              "location": "ashby-archery-south-avenue",
+              "status": "Threatens Hubert with hanging if the stranger surpasses him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 63,
+      "text": "He then turned to leave the lists. “Let your guards attend me,” he\nsaid, “if you please—I go but to cut a rod from the next willow-bush.”",
+      "scenes": [
+        {
+          "from": 62,
+          "title": "A willow for a mark",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "locksley",
+              "location": "ashby-archery-south-avenue",
+              "status": "Cuts a six-foot willow rod, peels it and plants it at a hundred yards."
+            },
+            {
+              "key": "hubert",
+              "location": "ashby-archery-south-avenue",
+              "status": "Refuses the narrow target because he expects to miss."
+            },
+            {
+              "key": "john",
+              "location": "ashby-archery-south-avenue",
+              "status": "Threatens Locksley with a demand that he demonstrate rather than merely boast."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "paragraph": 72,
+      "text": "The victorious archer would not perhaps have escaped John’s attention\nso easily, had not that Prince had other subjects of anxious and more\nimportant meditation pressing upon his mind at that instant. He called\nupon his chamberlain as he gave the signal for retiring from the lists,\nand commanded him instantly to gallop to Ashby, and seek out Isaac the\nJew. “Tell the dog,” he said, “to send me, before sun-down, two\nthousand crowns. He knows the security; but thou mayst show him this\nring for a token. The rest of the money must be paid at York within six\ndays. If he neglects, I will have the unbelieving villain’s head. Look\nthat thou pass him not on the way; for the circumcised slave was\ndisplaying his stolen finery amongst us.”",
+      "scenes": [
+        {
+          "from": 72,
+          "title": "Money before sundown",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "john",
+              "location": "ashby-lists",
+              "status": "Sends his chamberlain with a ring token to demand money from Isaac, then rides back to Ashby."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "paragraph": 41,
+      "text": "So saying, he arose and left the banqueting room, followed by\nAthelstane, and by several other guests, who, partaking of the Saxon\nlineage, held themselves insulted by the sarcasms of Prince John and\nhis courtiers.",
+      "scenes": [
+        {
+          "from": 40,
+          "title": "Enough of royal courtesy",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": null,
+              "status": "Calls Athelstane to leave and departs the banquet."
+            },
+            {
+              "key": "athelstane",
+              "location": null,
+              "status": "Follows Cedric out with other offended Saxon guests."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "paragraph": 42,
+      "text": "“By the bones of St Thomas,” said Prince John, as they retreated, “the\nSaxon churls have borne off the best of the day, and have retreated\nwith triumph!”",
+      "scenes": [
+        {
+          "from": 42,
+          "title": "A dispersing company",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "john",
+              "location": "ashby-castle-hall",
+              "status": "Complains that the Saxons have won the encounter and fears his adherents will desert."
+            },
+            {
+              "key": "aymer",
+              "location": "ashby-castle-hall",
+              "status": "Announces the need to ride several miles on his homeward journey."
+            },
+            {
+              "key": "debracy",
+              "location": "ashby-castle-hall",
+              "status": "Jests at the Prior’s hurry."
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-castle-hall",
+              "status": "Requests a private word with Aymer to secure his support at York."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "paragraph": 16,
+      "text": "“I tell thee,” said De Bracy, “that I mean to purvey me a wife after\nthe fashion of the tribe of Benjamin; which is as much as to say, that\nin this same equipment I will fall upon that herd of Saxon bullocks,\nwho have this night left the castle, and carry off from them the lovely\nRowena.”",
+      "scenes": [
+        {
+          "from": 12,
+          "title": "A wife by force",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "debracy",
+              "location": "ashby-castle-inner-hall",
+              "status": "Uses a distorted account of the tribe of Benjamin to justify his plan to abduct Rowena in outlaw garb."
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-castle-inner-hall",
+              "status": "Questions the plan and warns that attacking respected Saxons threatens their cause."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "paragraph": 23,
+      "text": "“By my halidome,” said Fitzurse, “the plan was worthy of your united\nwisdom! and thy prudence, De Bracy, is most especially manifested in\nthe project of leaving the lady in the hands of thy worthy confederate.\nThou mayst, I think, succeed in taking her from her Saxon friends, but\nhow thou wilt rescue her afterwards from the clutches of Bois-Guilbert\nseems considerably more doubtful—He is a falcon well accustomed to\npounce on a partridge, and to hold his prey fast.”",
+      "scenes": [
+        {
+          "from": 21,
+          "title": "The Templar’s part",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "debracy",
+              "location": null,
+              "status": "Names Brian as co-planner and intended accomplice, then leaves on hearing his party assemble outside."
+            },
+            {
+              "key": "fitzurse",
+              "location": "ashby-castle-inner-hall",
+              "status": "Warns De Bracy against trusting Brian with the abducted woman and urges a swift return."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "paragraph": 27,
+      "text": "“Like a true knight?” repeated Fitzurse, looking after him; “like a\nfool, I should say, or like a child, who will leave the most serious\nand needful occupation, to chase the down of the thistle that drives\npast him.—But it is with such tools that I must work;—and for whose\nadvantage?—For that of a Prince as unwise as he is profligate, and as\nlikely to be an ungrateful master as he has already proved a rebellious\nson and an unnatural brother.—But he—he, too, is but one of the tools\nwith which I labour; and, proud as he is, should he presume to separate\nhis interest from mine, this is a secret which he shall soon learn.”",
+      "scenes": [
+        {
+          "from": 27,
+          "title": "The statesman’s tools",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "fitzurse",
+              "location": "ashby-castle-inner-hall",
+              "status": "Reflects bitterly on using De Bracy and even John as instruments of his ambition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "paragraph": 3,
+      "text": "The reader cannot have forgotten that the event of the tournament was\ndecided by the exertions of an unknown knight, whom, on account of the\npassive and indifferent conduct which he had manifested on the former\npart of the day, the spectators had entitled, “Le Noir Faineant”. This\nknight had left the field abruptly when the victory was achieved; and\nwhen he was called upon to receive the reward of his valour, he was\nnowhere to be found. In the meantime, while summoned by heralds and by\ntrumpets, the knight was holding his course northward, avoiding all\nfrequented paths, and taking the shortest road through the woodlands.\nHe paused for the night at a small hostelry lying out of the ordinary\nroute, where, however, he obtained from a wandering minstrel news of\nthe event of the tourney.",
+      "scenes": [
+        {
+          "from": 0,
+          "title": "North from Ashby",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "blackknight",
+              "location": null,
+              "status": "Leaves the tournament, avoids frequented paths and spends the night at an unnamed hostelry where a minstrel tells him the outcome."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "paragraph": 4,
+      "text": "On the next morning the knight departed early, with the intention of\nmaking a long journey; the condition of his horse, which he had\ncarefully spared during the preceding morning, being such as enabled\nhim to travel far without the necessity of much repose. Yet his purpose\nwas baffled by the devious paths through which he rode, so that when\nevening closed upon him, he only found himself on the frontiers of the\nWest Riding of Yorkshire. By this time both horse and man required\nrefreshment, and it became necessary, moreover, to look out for some\nplace in which they might spend the night, which was now fast\napproaching.",
+      "scenes": [
+        {
+          "from": 4,
+          "title": "The horse chooses",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "blackknight",
+              "location": "west-riding-forest",
+              "status": "Loses his way on the next day, then lets his tired horse choose a path as evening falls."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "paragraph": 20,
+      "text": "“The road,” replied the hermit, “is easy to hit. The path from the wood\nleads to a morass, and from thence to a ford, which, as the rains have\nabated, may now be passable. When thou hast crossed the ford, thou wilt\ntake care of thy footing up the left bank, as it is somewhat\nprecipitous; and the path, which hangs over the river, has lately, as I\nlearn, (for I seldom leave the duties of my chapel,) given way in\nsundry places. Thou wilt then keep straight forward—-”",
+      "scenes": [
+        {
+          "from": 12,
+          "title": "A closed door",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "blackknight",
+              "location": "copmanhurst-door",
+              "status": "Knocks with his lance, requests shelter and refuses the dangerous route the inhabitant offers."
+            },
+            {
+              "key": "hermit",
+              "location": "copmanhurst-inner-threshold",
+              "status": "Answers from inside, pleads poverty and devotion, then threatens armed resistance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "paragraph": 32,
+      "text": "The knight shrugged his shoulders, and leaving the hut, brought in his\nhorse, (which in the interim he had fastened to a tree,) unsaddled him\nwith much attention, and spread upon the steed’s weary back his own\nmantle.",
+      "scenes": [
+        {
+          "from": 32,
+          "title": "The charger indoors",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "blackknight",
+              "location": "copmanhurst-hut",
+              "status": "Brings his horse in, unsaddles it and covers its back with his own mantle."
+            },
+            {
+              "key": "hermit",
+              "location": "copmanhurst-hut",
+              "status": "Provides forage for the horse and dry fern for his visitor’s bed before eating pease."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "paragraph": 14,
+      "text": "High deeds achieved of knightly fame,\nFrom Palestine the champion came;\nThe cross upon his shoulders borne,\nBattle and blast had dimm’d and torn.\nEach dint upon his batter’d shield\nWas token of a foughten field;\nAnd thus, beneath his lady’s bower,\nHe sung as fell the twilight hour:—",
+      "scenes": [
+        {
+          "from": 12,
+          "title": "The Crusader’s Return",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "blackknight",
+              "location": "copmanhurst-hut",
+              "status": "Sings the Saxon ballad he learned in the Holy Land."
+            },
+            {
+              "key": "hermit",
+              "location": "copmanhurst-hut",
+              "status": "Listens with critical gestures and adds his voice at favourite cadences."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "paragraph": 12,
+      "text": "He went accordingly to the banquet, of which we have already mentioned\nthe principal events. Immediately upon retiring from the castle, the\nSaxon thanes, with their attendants, took horse; and it was during the\nbustle which attended their doing so, that Cedric, for the first time,\ncast his eyes upon the deserter Gurth. The noble Saxon had returned\nfrom the banquet, as we have seen, in no very placid humour, and wanted\nbut a pretext for wreaking his anger upon some one.",
+      "scenes": [
+        {
+          "from": 12,
+          "title": "The halter",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": "ashby-castle-departure",
+              "status": "Returns from the banquet, sees Gurth and orders him bound before the party rides."
+            },
+            {
+              "key": "gurth",
+              "location": "ashby-castle-departure",
+              "status": "Submits to a halter while reproaching Cedric for caring less for his own flesh and blood."
+            },
+            {
+              "key": "oswald",
+              "location": "ashby-castle-departure",
+              "status": "Is ordered to secure the fugitive servant."
+            },
+            {
+              "key": "hundebert",
+              "location": "ashby-castle-departure",
+              "status": "Is addressed in Cedric’s order under the source spelling Hundibert."
+            },
+            {
+              "key": "athelstane",
+              "location": "ashby-castle-departure",
+              "status": "Urges haste to preserve the expected late supper."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "paragraph": 18,
+      "text": "As the cavalcade left the court of the monastery, an incident happened\nsomewhat alarming to the Saxons, who, of all people of Europe, were\nmost addicted to a superstitious observance of omens, and to whose\nopinions can be traced most of those notions upon such subjects, still\nto be found among our popular antiquities. For the Normans being a\nmixed race, and better informed according to the information of the\ntimes, had lost most of the superstitious prejudices which their\nancestors had brought from Scandinavia, and piqued themselves upon\nthinking freely on such topics.",
+      "scenes": [
+        {
+          "from": 18,
+          "title": "A howling omen",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "fangs",
+              "location": "st-withold-gate",
+              "status": "Howls and bounds at the departing party, having tracked Gurth to the convent."
+            },
+            {
+              "key": "athelstane",
+              "location": "st-withold-gate",
+              "status": "Treats the dog as an ill omen and proposes returning until after another meal."
+            },
+            {
+              "key": "wamba",
+              "location": "st-withold-gate",
+              "status": "Shares the foreboding at the gate."
+            },
+            {
+              "key": "cedric",
+              "location": "st-withold-gate",
+              "status": "Recognises Gurth’s dog and insists on continuing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "paragraph": 19,
+      "text": "In the present instance, the apprehension of impending evil was\ninspired by no less respectable a prophet than a large lean black dog,\nwhich, sitting upright, howled most piteously as the foremost riders\nleft the gate, and presently afterwards, barking wildly, and jumping to\nand fro, seemed bent upon attaching itself to the party.",
+      "scenes": [
+        {
+          "from": 18,
+          "title": "A howling omen",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "fangs",
+              "location": "st-withold-gate",
+              "status": "Howls and bounds at the departing party, having tracked Gurth to the convent."
+            },
+            {
+              "key": "athelstane",
+              "location": "st-withold-gate",
+              "status": "Treats the dog as an ill omen and proposes returning until after another meal."
+            },
+            {
+              "key": "wamba",
+              "location": "st-withold-gate",
+              "status": "Shares the foreboding at the gate."
+            },
+            {
+              "key": "cedric",
+              "location": "st-withold-gate",
+              "status": "Recognises Gurth’s dog and insists on continuing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "paragraph": 5,
+      "text": "To the enquiries of Athelstane and Cedric, the old Jew could for some\ntime only answer by invoking the protection of all the patriarchs of\nthe Old Testament successively against the sons of Ishmael, who were\ncoming to smite them, hip and thigh, with the edge of the sword. When\nhe began to come to himself out of this agony of terror, Isaac of York\n(for it was our old friend) was at length able to explain, that he had\nhired a body-guard of six men at Ashby, together with mules for\ncarrying the litter of a sick friend. This party had undertaken to\nescort him as far as Doncaster. They had come thus far in safety; but\nhaving received information from a wood-cutter that there was a strong\nband of outlaws lying in wait in the woods before them, Isaac’s\nmercenaries had not only taken flight, but had carried off with them\nthe horses which bore the litter and left the Jew and his daughter\nwithout the means either of defence or of retreat, to be plundered, and\nprobably murdered, by the banditti, who they expected every moment\nwould bring down upon them. “Would it but please your valours,” added\nIsaac, in a tone of deep humiliation, “to permit the poor Jews to\ntravel under your safeguard, I swear by the tables of our law, that\nnever has favour been conferred upon a child of Israel since the days\nof our captivity, which shall be more gratefully acknowledged.”",
+      "scenes": [
+        {
+          "from": 4,
+          "title": "A stranded litter",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "forest-litter-halt",
+              "status": "Explains that his hired guards fled with the litter animals after hearing of outlaws."
+            },
+            {
+              "key": "rebecca",
+              "location": "forest-litter-halt",
+              "status": "Waits beside the grounded litter."
+            },
+            {
+              "key": "cedric",
+              "location": "forest-litter-halt",
+              "status": "Offers two attendants and horses for a retreat to the next village."
+            },
+            {
+              "key": "athelstane",
+              "location": "forest-litter-halt",
+              "status": "Refuses aid in anger over the earlier gallery dispute."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "paragraph": 15,
+      "text": "They promised implicit obedience, and departed with alacrity on their\ndifferent errands. In the meanwhile, their leader and his two\ncompanions, who now looked upon him with great respect, as well as some\nfear, pursued their way to the Chapel of Copmanhurst.",
+      "scenes": [
+        {
+          "from": 15,
+          "title": "Singing beyond the door",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "locksley",
+              "location": "copmanhurst-clearing",
+              "status": "Leads the pair to the hermitage and knocks repeatedly."
+            },
+            {
+              "key": "wamba",
+              "location": "copmanhurst-clearing",
+              "status": "Adds flourishes to the drinking chorus and remarks on its unlikely source."
+            },
+            {
+              "key": "gurth",
+              "location": "copmanhurst-clearing",
+              "status": "Identifies the Clerk’s reputation for taking deer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "paragraph": 24,
+      "text": "So saying, he struck up a thundering “De profundis clamavi”, under\ncover of which he removed the apparatus of their banquet: while the\nknight, laughing heartily, and arming himself all the while, assisted\nhis host with his voice from time to time as his mirth permitted.",
+      "scenes": [
+        {
+          "from": 21,
+          "title": "A hurried devotion",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "hermit",
+              "location": "copmanhurst-hut",
+              "status": "Hides the drinking vessels under cover of a loud Latin chant."
+            },
+            {
+              "key": "blackknight",
+              "location": "copmanhurst-hut",
+              "status": "Laughs, helps the chant and puts on his armour to conceal his face."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "paragraph": 3,
+      "text": "Leaving the Saxon chiefs to return to their banquet as soon as their\nungratified curiosity should permit them to attend to the calls of\ntheir half-satiated appetite, we have to look in upon the yet more\nsevere imprisonment of Isaac of York. The poor Jew had been hastily\nthrust into a dungeon-vault of the castle, the floor of which was deep\nbeneath the level of the ground, and very damp, being lower than even\nthe moat itself. The only light was received through one or two\nloop-holes far above the reach of the captive’s hand. These apertures\nadmitted, even at mid-day, only a dim and uncertain light, which was\nchanged for utter darkness long before the rest of the castle had lost\nthe blessing of day. Chains and shackles, which had been the portion of\nformer captives, from whom active exertions to escape had been\napprehended, hung rusted and empty on the walls of the prison, and in\nthe rings of one of those sets of fetters there remained two mouldering\nbones, which seemed to have been once those of the human leg, as if\nsome prisoner had been left not only to perish there, but to be\nconsumed to a skeleton.",
+      "scenes": [
+        {
+          "from": 0,
+          "title": "Below the moat",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "torquilstone-dungeon",
+              "status": "Sits on his gathered clothing to keep away from the wet pavement during long confinement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "paragraph": 7,
+      "text": "In this humour of passive resistance, and with his garment collected\nbeneath him to keep his limbs from the wet pavement, Isaac sat in a\ncorner of his dungeon, where his folded hands, his dishevelled hair and\nbeard, his furred cloak and high cap, seen by the wiry and broken\nlight, would have afforded a study for Rembrandt, had that celebrated\npainter existed at the period. The Jew remained, without altering his\nposition, for nearly three hours, at the expiry of which steps were\nheard on the dungeon stair. The bolts screamed as they were\nwithdrawn—the hinges creaked as the wicket opened, and Reginald\nFront-de-Bœuf, followed by the two Saracen slaves of the Templar,\nentered the prison.",
+      "scenes": [
+        {
+          "from": 7,
+          "title": "The scales",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "torquilstone-dungeon",
+              "status": "Has waited nearly three hours when Front-de-Bœuf and two attendants enter."
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-dungeon",
+              "status": "Locks the dungeon and has scales and weights laid before his prisoner."
+            },
+            {
+              "key": "hamet",
+              "location": "torquilstone-dungeon",
+              "status": "Enters the dungeon with Abdalla carrying one of the two baskets; waits back while one of the pair lays out scales and weights."
+            },
+            {
+              "key": "abdalla",
+              "location": "torquilstone-dungeon",
+              "status": "Enters the dungeon with Hamet carrying one of the two baskets; waits back while one of the pair lays out scales and weights."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "paragraph": 10,
+      "text": "On the other hand, the stately form of the Norman appeared to dilate in\nmagnitude, like that of the eagle, which ruffles up its plumage when\nabout to pounce on its defenceless prey. He paused within three steps\nof the corner in which the unfortunate Jew had now, as it were, coiled\nhimself up into the smallest possible space, and made a sign for one of\nthe slaves to approach. The black satellite came forward accordingly,\nand, producing from his basket a large pair of scales and several\nweights, he laid them at the feet of Front-de-Bœuf, and again retired\nto the respectful distance, at which his companion had already taken\nhis station.",
+      "scenes": [
+        {
+          "from": 7,
+          "title": "The scales",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "torquilstone-dungeon",
+              "status": "Has waited nearly three hours when Front-de-Bœuf and two attendants enter."
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-dungeon",
+              "status": "Locks the dungeon and has scales and weights laid before his prisoner."
+            },
+            {
+              "key": "hamet",
+              "location": "torquilstone-dungeon",
+              "status": "Enters the dungeon with Abdalla carrying one of the two baskets; waits back while one of the pair lays out scales and weights."
+            },
+            {
+              "key": "abdalla",
+              "location": "torquilstone-dungeon",
+              "status": "Enters the dungeon with Hamet carrying one of the two baskets; waits back while one of the pair lays out scales and weights."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "paragraph": 56,
+      "text": "In spite of the feeble struggles of the old man, the Saracens had\nalready torn from him his upper garment, and were proceeding totally to\ndisrobe him, when the sound of a bugle, twice winded without the\ncastle, penetrated even to the recesses of the dungeon, and immediately\nafter loud voices were heard calling for Sir Reginald Front-de-Bœuf.\nUnwilling to be found engaged in his hellish occupation, the savage\nBaron gave the slaves a signal to restore Isaac’s garment, and,\nquitting the dungeon with his attendants, he left the Jew to thank God\nfor his own deliverance, or to lament over his daughter’s captivity,\nand probable fate, as his personal or parental feelings might prove\nstrongest.",
+      "scenes": [
+        {
+          "from": 55,
+          "title": "The interrupted cruelty",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "frontdeboeuf",
+              "location": null,
+              "status": "Orders Isaac stripped for the bars, then stops on hearing the horn and calls for him from outside."
+            },
+            {
+              "key": "isaac",
+              "location": "torquilstone-dungeon",
+              "status": "Has his outer garment removed and restored before the Baron leaves with both attendants."
+            },
+            {
+              "key": "hamet",
+              "location": null,
+              "status": "With Abdalla tears off Isaac’s upper garment, restores it at the interrupted Baron’s signal, and leaves the dungeon; no burning occurs."
+            },
+            {
+              "key": "abdalla",
+              "location": null,
+              "status": "With Hamet tears off Isaac’s upper garment, restores it at the interrupted Baron’s signal, and leaves the dungeon; no burning occurs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "paragraph": 8,
+      "text": "“Answer it to our lord, then, old housefiend,” said the man, and\nretired; leaving Rebecca in company with the old woman, upon whose\npresence she had been thus unwillingly forced.",
+      "scenes": [
+        {
+          "from": 8,
+          "title": "A remembered conquest",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "urfried",
+              "location": "torquilstone-turret-cell",
+              "status": "Recognises Rebecca’s speech, recounts her family’s violent dispossession and refuses to aid escape."
+            },
+            {
+              "key": "rebecca",
+              "location": "torquilstone-turret-cell",
+              "status": "Pleads for help and asks the old woman not to leave her without protection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "paragraph": 18,
+      "text": "She left the room as she spoke, her features writhed into a sort of\nsneering laugh, which made them seem even more hideous than their\nhabitual frown. She locked the door behind her, and Rebecca might hear\nher curse every step for its steepness, as slowly and with difficulty\nshe descended the turret-stair.",
+      "scenes": [
+        {
+          "from": 18,
+          "title": "No inward bar",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "urfried",
+              "location": null,
+              "status": "Leaves the cell, locks the door and descends the steep turret stair; her next room is not stated."
+            },
+            {
+              "key": "rebecca",
+              "location": "torquilstone-turret-cell",
+              "status": "Is locked in alone and finds no secret exit or inner door bolt, only a window onto an isolated bartisan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "paragraph": 66,
+      "text": "And so saying he imitated the solemn and stately deportment of a friar,\nand departed to execute his mission.",
+      "scenes": [
+        {
+          "from": 60,
+          "title": "Wamba takes the frock",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "wamba",
+              "location": null,
+              "status": "Recalls his interrupted friar’s training, volunteers, puts on the hermit’s frock and departs in disguise."
+            },
+            {
+              "key": "gurth",
+              "location": "torquilstone-siege-oak",
+              "status": "Vouches for Wamba’s resourcefulness."
+            },
+            {
+              "key": "blackknight",
+              "location": "torquilstone-siege-oak",
+              "status": "Commissions the disguised jester to bring an account of the castle."
+            },
+            {
+              "key": "locksley",
+              "location": "torquilstone-siege-oak",
+              "status": "Promises a close blockade and a severe answer to violence against the prisoners."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "paragraph": 59,
+      "text": "“Yet, father, let me entreat you by the vow you have taken on you,”\nreplied the suppliant, “not to leave the oppressed and endangered\nwithout counsel or succour.”",
+      "scenes": [
+        {
+          "from": 53,
+          "title": "An appeal in the passage",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": "torquilstone-low-arched-passage",
+              "status": "Tries the greeting, admits he does not understand Latin well and resists a plea to visit a wounded prisoner."
+            },
+            {
+              "key": "rebecca",
+              "location": "torquilstone-low-arched-passage",
+              "status": "Asks the apparent holy man to counsel the endangered patient."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "paragraph": 30,
+      "text": "“Ulrica,” said Cedric, softened by this appeal, “hast thou borne up and\nendured to live through so much guilt and so much misery, and wilt thou\nnow yield to despair when thine eyes are opened to thy crimes, and when\nrepentance were thy fitter occupation?”",
+      "scenes": [
+        {
+          "from": 27,
+          "title": "A red flag promised",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "urfried",
+              "location": "torquilstone-urfried-room",
+              "status": "Threatens exposure, then asks Cedric to press the attack when a red flag flies from the donjon’s eastern-angle turret."
+            },
+            {
+              "key": "cedric",
+              "location": "torquilstone-urfried-room",
+              "status": "Rejects coercion, softens toward her distress and seeks to know her purpose."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "paragraph": 59,
+      "text": "“And full leave will I give thee to do both,” answered Cedric, leaving\nthe postern, and striding forth over the free field with a joyful step,\n“if, when we meet next, I deserve not better at thine hand.”—Turning\nthen back towards the castle, he threw the piece of gold towards the\ndonor, exclaiming at the same time, “False Norman, thy money perish\nwith thee!”",
+      "scenes": [
+        {
+          "from": 55,
+          "title": "The byzant flung back",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-postern-outwork",
+              "status": "Escorts Cedric across a single plank to a small barbican, gives him gold, then orders and cancels a shot at his retreating figure."
+            },
+            {
+              "key": "cedric",
+              "location": null,
+              "status": "Leaves through the fortified sallyport and throws the coin toward the Baron."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "paragraph": 72,
+      "text": "“Fiends of hell!” echoed Front-de-Bœuf, “it was then the boar of\nRotherwood whom I ushered to the postern, and dismissed with my own\nhands!—And thou,” he said to Wamba, “whose folly could overreach the\nwisdom of idiots yet more gross than thyself—I will give thee holy\norders—I will shave thy crown for thee!—Here, let them tear the scalp\nfrom his head, and then pitch him headlong from the battlements—Thy\ntrade is to jest, canst thou jest now?”",
+      "scenes": [
+        {
+          "from": 67,
+          "title": "The escape discovered",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "debracy",
+              "location": "torquilstone-armoury",
+              "status": "Enters, recognises Wamba and deduces Cedric left in the frock."
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-armoury",
+              "status": "Realises he personally dismissed Cedric and threatens Wamba with mutilation and death."
+            },
+            {
+              "key": "wamba",
+              "location": "torquilstone-armoury",
+              "status": "Faces the threat with a joke about becoming a cardinal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "paragraph": 101,
+      "text": "The Saxon prisoners were accordingly removed, just as they introduced\nthe monk Ambrose, who appeared to be in great perturbation.",
+      "scenes": [
+        {
+          "from": 101,
+          "title": "The Prior’s messenger",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "wamba",
+              "location": null,
+              "status": "Is led away with Athelstane and calls Ambrose the real Deus vobiscum as their paths cross."
+            },
+            {
+              "key": "athelstane",
+              "location": null,
+              "status": "Is removed from the armoury among the Saxon prisoners as Ambrose is brought before the knights."
+            },
+            {
+              "key": "ambrose",
+              "location": "torquilstone-armoury",
+              "status": "Arrives distressed and reports Aymer’s capture, lost gold and ransom request."
+            },
+            {
+              "key": "brian",
+              "location": "torquilstone-armoury",
+              "status": "Asks directly whether the Prior has been taken."
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-armoury",
+              "status": "Rejects paying or mounting a rescue while his own castle is besieged."
+            },
+            {
+              "key": "debracy",
+              "location": "torquilstone-armoury",
+              "status": "Mocks the claim that this is a safe Christian refuge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "paragraph": 17,
+      "text": "When Ivanhoe reached the habitation of Isaac, he was still in a state\nof unconsciousness, owing to the profuse loss of blood which had taken\nplace during his exertions in the lists. Rebecca examined the wound,\nand having applied to it such vulnerary remedies as her art prescribed,\ninformed her father that if fever could be averted, of which the great\nbleeding rendered her little apprehensive, and if the healing balsam of\nMiriam retained its virtue, there was nothing to fear for his guest’s\nlife, and that he might with safety travel to York with them on the\nensuing day. Isaac looked a little blank at this annunciation. His\ncharity would willingly have stopped short at Ashby, or at most would\nhave left the wounded Christian to be tended in the house where he was\nresiding at present, with an assurance to the Hebrew to whom it\nbelonged, that all expenses should be duly discharged. To this,\nhowever, Rebecca opposed many reasons, of which we shall only mention\ntwo that had peculiar weight with Isaac. The one was, that she would on\nno account put the phial of precious balsam into the hands of another\nphysician even of her own tribe, lest that valuable mystery should be\ndiscovered; the other, that this wounded knight, Wilfred of Ivanhoe,\nwas an intimate favourite of Richard Cœur-de-Lion, and that, in case\nthe monarch should return, Isaac, who had supplied his brother John\nwith treasure to prosecute his rebellious purposes, would stand in no\nsmall need of a powerful protector who enjoyed Richard’s favour.",
+      "scenes": [
+        {
+          "from": 17,
+          "title": "An onward patient",
+          "recollection": true,
+          "endpoints": [
+            {
+              "key": "rebecca",
+              "location": "ashby-host-house-sickroom",
+              "status": "Reports that the bleeding has not produced feared fever and argues he can travel next day with her care."
+            },
+            {
+              "key": "isaac",
+              "location": "ashby-host-house-sickroom",
+              "status": "Agrees to the York journey, persuaded by preserving the balsam’s secret and gaining Richard’s favourite as protector."
+            },
+            {
+              "key": "ivanhoe",
+              "location": "ashby-host-house-sickroom",
+              "status": "Remains unconscious while the treatment and onward plan are discussed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "paragraph": 8,
+      "text": "Rebecca in compliance with the wishes of Ivanhoe, made that attempt to\nbring Cedric into the wounded Knight’s chamber, which was defeated as\nwe have already seen by the interference of Urfried, who had also been\non the watch to intercept the supposed monk. Rebecca retired to\ncommunicate to Ivanhoe the result of her errand.",
+      "scenes": [
+        {
+          "from": 8,
+          "title": "Steps to the lattice",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "ivanhoe",
+              "location": "torquilstone-ivanhoe-room",
+              "status": "Laments being weaponless and too weak to fight, then urges Rebecca to shield herself."
+            },
+            {
+              "key": "rebecca",
+              "location": "torquilstone-ivanhoe-window",
+              "status": "Reports the failed errand, hears the preparations and climbs the few steps toward the window."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "paragraph": 17,
+      "text": "Following with wonderful promptitude the directions of Ivanhoe, and\navailing herself of the protection of the large ancient shield, which\nshe placed against the lower part of the window, Rebecca, with\ntolerable security to herself, could witness part of what was passing\nwithout the castle, and report to Ivanhoe the preparations which the\nassailants were making for the storm. Indeed the situation which she\nthus obtained was peculiarly favourable for this purpose, because,\nbeing placed on an angle of the main building, Rebecca could not only\nsee what passed beyond the precincts of the castle, but also commanded\na view of the outwork likely to be the first object of the meditated\nassault. It was an exterior fortification of no great height or\nstrength, intended to protect the postern-gate, through which Cedric\nhad been recently dismissed by Front-de-Bœuf. The castle moat divided\nthis species of barbican from the rest of the fortress, so that, in\ncase of its being taken, it was easy to cut off the communication with\nthe main building, by withdrawing the temporary bridge. In the outwork\nwas a sallyport corresponding to the postern of the castle, and the\nwhole was surrounded by a strong palisade. Rebecca could observe, from\nthe number of men placed for the defence of this post, that the\nbesieged entertained apprehensions for its safety; and from the\nmustering of the assailants in a direction nearly opposite to the\noutwork, it seemed no less plain that it had been selected as a\nvulnerable point of attack.",
+      "scenes": [
+        {
+          "from": 17,
+          "title": "A shield at the window",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rebecca",
+              "location": "torquilstone-ivanhoe-window",
+              "status": "Props an ancient shield before the lower lattice and describes the approaching archers and black-armoured leader."
+            },
+            {
+              "key": "ivanhoe",
+              "location": "torquilstone-ivanhoe-room",
+              "status": "Questions the banner and interprets the blue fetterlock device without identifying its bearer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "paragraph": 40,
+      "text": "“Look forth again, Rebecca,” said Ivanhoe, mistaking the cause of her\nretiring; “the archery must in some degree have ceased, since they are\nnow fighting hand to hand.—Look again, there is now less danger.”",
+      "scenes": [
+        {
+          "from": 38,
+          "title": "The axe at the breach",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rebecca",
+              "location": "torquilstone-ivanhoe-window",
+              "status": "Describes the barrier breached, the Black Knight’s recovery from a fall, his broken sword and Front-de-Bœuf’s fall and removal."
+            },
+            {
+              "key": "ivanhoe",
+              "location": "torquilstone-ivanhoe-room",
+              "status": "Asks who fell and follows the changing report anxiously."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "paragraph": 42,
+      "text": "So saying, she left the apartment; and Front-de-Bœuf could hear the\ncrash of the ponderous key, as she locked and double-locked the door\nbehind her, thus cutting off the most slender chance of escape. In the\nextremity of agony he shouted upon his servants and allies—“Stephen and\nSaint Maur!—Clement and Giles!—I burn here unaided!—To the rescue—to\nthe rescue, brave Bois-Guilbert, valiant De Bracy!—It is Front-de-Bœuf\nwho calls!—It is your master, ye traitor squires!—Your ally—your\nbrother in arms, ye perjured and faithless knights!—all the curses due\nto traitors upon your recreant heads, do you abandon me to perish thus\nmiserably!—They hear me not—they cannot hear me—my voice is lost in the\ndin of battle.—The smoke rolls thicker and thicker—the fire has caught\nupon the floor below—O, for one drought of the air of heaven, were it\nto be purchased by instant annihilation!” And in the mad frenzy of\ndespair, the wretch now shouted with the shouts of the fighters, now\nmuttered curses on himself, on mankind, and on Heaven itself.—“The red\nfire flashes through the thick smoke!” he exclaimed; “the demon marches\nagainst me under the banner of his own element—Foul spirit, avoid!—I go\nnot with thee without my comrades—all, all are thine, that garrison\nthese walls—Thinkest thou Front-de-Bœuf will be singled out to go\nalone?—No—the infidel Templar—the licentious De Bracy—Ulrica, the foul\nmurdering strumpet—the men who aided my enterprises—the dog Saxons and\naccursed Jews, who are my prisoners—all, all shall attend me—a goodly\nfellowship as ever took the downward road—Ha, ha, ha!” and he laughed\nin his frenzy till the vaulted roof rang again. “Who laughed there?”\nexclaimed Front-de-Bœuf, in altered mood, for the noise of the conflict\ndid not prevent the echoes of his own mad laughter from returning upon\nhis ear—“who laughed there?—Ulrica, was it thou?—Speak, witch, and I\nforgive thee—for, only thou or the fiend of hell himself could have\nlaughed at such a moment. Avaunt—avaunt!—-”",
+      "scenes": [
+        {
+          "from": 42,
+          "title": "The locked deathbed",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "urfried",
+              "location": null,
+              "status": "Leaves and double-locks the door behind her."
+            },
+            {
+              "key": "frontdeboeuf",
+              "location": "torquilstone-frontdeboeuf-room",
+              "status": "Calls unheard for aid as smoke thickens and flames rise, his voice lost in battle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "paragraph": 20,
+      "text": "The portal, which led from the inner-wall of the barbican to the moat,\nand which corresponded with a sallyport in the main wall of the castle,\nwas now suddenly opened; the temporary bridge was then thrust forward,\nand soon flashed in the waters, extending its length between the castle\nand outwork, and forming a slippery and precarious passage for two men\nabreast to cross the moat. Well aware of the importance of taking the\nfoe by surprise, the Black Knight, closely followed by Cedric, threw\nhimself upon the bridge, and reached the opposite side. Here he began\nto thunder with his axe upon the gate of the castle, protected in part\nfrom the shot and stones cast by the defenders by the ruins of the\nformer drawbridge, which the Templar had demolished in his retreat from\nthe barbican, leaving the counterpoise still attached to the upper part\nof the portal. The followers of the knight had no such shelter; two\nwere instantly shot with cross-bow bolts, and two more fell into the\nmoat; the others retreated back into the barbican.",
+      "scenes": [
+        {
+          "from": 20,
+          "title": "Two at the gate",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "blackknight",
+              "location": "torquilstone-main-postern",
+              "status": "Crosses the slippery raft and strikes the main gate with his axe."
+            },
+            {
+              "key": "cedric",
+              "location": "torquilstone-main-postern",
+              "status": "Follows him across while other attackers fall back."
+            },
+            {
+              "key": "debracy",
+              "location": "torquilstone-postern-parapet",
+              "status": "Orders the defenders to loosen a heavy pinnacle above the two attackers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "paragraph": 71,
+      "text": "A guard, which had been stationed in the outer, or anteroom, and whose\nspirits were already in a state of alarm, took fright at Wamba’s\nclamour, and, leaving the door open behind them, ran to tell the\nTemplar that foemen had entered the old hall. Meantime the prisoners\nfound no difficulty in making their escape into the anteroom, and from\nthence into the court of the castle, which was now the last scene of\ncontest. Here sat the fierce Templar, mounted on horseback, surrounded\nby several of the garrison both on horse and foot, who had united their\nstrength to that of this renowned leader, in order to secure the last\nchance of safety and retreat which remained to them. The drawbridge had\nbeen lowered by his orders, but the passage was beset; for the archers,\nwho had hitherto only annoyed the castle on that side by their\nmissiles, no sooner saw the flames breaking out, and the bridge\nlowered, than they thronged to the entrance, as well to prevent the\nescape of the garrison, as to secure their own share of booty ere the\ncastle should be burnt down. On the other hand, a party of the\nbesiegers who had entered by the postern were now issuing out into the\ncourt-yard, and attacking with fury the remnant of the defenders who\nwere thus assaulted on both sides at once.",
+      "scenes": [
+        {
+          "from": 70,
+          "title": "A clamour in the hall",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "brian",
+              "location": "torquilstone-court",
+              "status": "Sits mounted in the court among the remaining defenders after ordering the drawbridge lowered for their escape."
+            },
+            {
+              "key": "wamba",
+              "location": "torquilstone-court",
+              "status": "Bangs rusty armour and shouts a false victory cry, frightening the guard into leaving the door open."
+            },
+            {
+              "key": "athelstane",
+              "location": "torquilstone-court",
+              "status": "Escapes with Wamba through the anteroom to the court."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "paragraph": 9,
+      "text": "“Now, the saints, as many as there be of them,” said the Captain,\n“forefend, lest he has drunk too deep of the wine-butts, and perished\nby the fall of the castle!—Away, Miller!—take with you enow of men,\nseek the place where you last saw him—throw water from the moat on the\nscorching ruins—I will have them removed stone by stone ere I lose my\ncurtal Friar.”",
+      "scenes": [
+        {
+          "from": 0,
+          "title": "The nearer Trysting-tree",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "locksley",
+              "location": "harthill-trysting-tree",
+              "status": "Takes the turf seat, honours his allies and sends the Miller to search for the missing friar."
+            },
+            {
+              "key": "blackknight",
+              "location": "harthill-trysting-tree",
+              "status": "Sits at the leader’s right."
+            },
+            {
+              "key": "cedric",
+              "location": "harthill-trysting-tree",
+              "status": "Sits at Locksley’s left beside the turf seat under the trysting oak."
+            },
+            {
+              "key": "miller",
+              "location": null,
+              "status": "Reports the friar’s last cellar visit and goes to search."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "paragraph": 37,
+      "text": "Then retiring two steps backward, he permitted the lady to move on.",
+      "scenes": [
+        {
+          "from": 28,
+          "title": "The captive’s apology",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "debracy",
+              "location": "harthill-tree-edge",
+              "status": "Kneels and holds Rowena’s rein while asking forgiveness."
+            },
+            {
+              "key": "rowena",
+              "location": "harthill-tree-edge",
+              "status": "Forgives as a Christian but condemns the desolation his enterprise caused."
+            },
+            {
+              "key": "cedric",
+              "location": "harthill-tree-edge",
+              "status": "Intervenes and orders the rein released."
+            },
+            {
+              "key": "wamba",
+              "location": "harthill-tree-edge",
+              "status": "Comments on the terms of forgiveness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "paragraph": 38,
+      "text": "Cedric, ere they departed, expressed his peculiar gratitude to the\nBlack Champion, and earnestly entreated him to accompany him to\nRotherwood.",
+      "scenes": [
+        {
+          "from": 38,
+          "title": "An invitation and a promise",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": null,
+              "status": "Offers the Black Knight a home and a future boon, then invites him to Coningsburgh for funeral rites."
+            },
+            {
+              "key": "blackknight",
+              "location": "harthill-trysting-tree",
+              "status": "Promises to visit but withholds the boon he will seek."
+            },
+            {
+              "key": "rowena",
+              "location": null,
+              "status": "Departs with Cedric after waving farewell."
+            },
+            {
+              "key": "wamba",
+              "location": null,
+              "status": "Resumes attendance on Cedric."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "paragraph": 46,
+      "text": "They had scarce departed, ere a sudden procession moved from under the\ngreenwood branches, swept slowly round the silvan amphitheatre, and\ntook the same direction with Rowena and her followers. The priests of a\nneighbouring convent, in expectation of the ample donation, or\n“soul-scat”, which Cedric had propined, attended upon the car in which\nthe body of Athelstane was laid, and sang hymns as it was sadly and\nslowly borne on the shoulders of his vassals to his castle of\nConingsburgh, to be there deposited in the grave of Hengist, from whom\nthe deceased derived his long descent. Many of his vassals had\nassembled at the news of his death, and followed the bier with all the\nexternal marks, at least, of dejection and sorrow. Again the outlaws\narose, and paid the same rude and spontaneous homage to death, which\nthey had so lately rendered to beauty—the slow chant and mournful step\nof the priests brought back to their remembrance such of their comrades\nas had fallen in the yesterday’s array. But such recollections dwell\nnot long with those who lead a life of danger and enterprise, and ere\nthe sound of the death-hymn had died on the wind, the outlaws were\nagain busied in the distribution of their spoil.",
+      "scenes": [
+        {
+          "from": 46,
+          "title": "The funeral car",
+          "recollection": false,
+          "endpoints": []
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "paragraph": 70,
+      "text": "“By Saint Dunstan,” said the Friar, “I found him where I sought for\nbetter ware! I did step into the cellarage to see what might be rescued\nthere; for though a cup of burnt wine, with spice, be an evening’s\ndrought for an emperor, it were waste, methought, to let so much good\nliquor be mulled at once; and I had caught up one runlet of sack, and\nwas coming to call more aid among these lazy knaves, who are ever to\nseek when a good deed is to be done, when I was avised of a strong\ndoor—Aha! thought I, here is the choicest juice of all in this secret\ncrypt; and the knave butler, being disturbed in his vocation, hath left\nthe key in the door—In therefore I went, and found just nought besides\na commodity of rusted chains and this dog of a Jew, who presently\nrendered himself my prisoner, rescue or no rescue. I did but refresh\nmyself after the fatigue of the action, with the unbeliever, with one\nhumming cup of sack, and was proceeding to lead forth my captive, when,\ncrash after crash, as with wild thunder-dint and levin-fire, down\ntoppled the masonry of an outer tower, (marry beshrew their hands that\nbuilt it not the firmer!) and blocked up the passage. The roar of one\nfalling tower followed another—I gave up thought of life; and deeming\nit a dishonour to one of my profession to pass out of this world in\ncompany with a Jew, I heaved up my halberd to beat his brains out; but\nI took pity on his grey hairs, and judged it better to lay down the\npartisan, and take up my spiritual weapon for his conversion. And\ntruly, by the blessing of Saint Dunstan, the seed has been sown in good\nsoil; only that, with speaking to him of mysteries through the whole\nnight, and being in a manner fasting, (for the few droughts of sack\nwhich I sharpened my wits with were not worth marking,) my head is\nwell-nigh dizzied, I trow.—But I was clean exhausted.—Gilbert and\nWibbald know in what state they found me—quite and clean exhausted.”",
+      "scenes": [
+        {
+          "from": 70,
+          "title": "The blocked cellar",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "hermit",
+              "location": "harthill-trysting-tree",
+              "status": "Recounts finding Isaac in the dungeon and their overnight obstruction by falling masonry."
+            },
+            {
+              "key": "gilbert",
+              "location": "harthill-trysting-tree",
+              "status": "Confirms that searchers cleared rubble and found both men."
+            },
+            {
+              "key": "isaac",
+              "location": "harthill-trysting-tree",
+              "status": "Denies understanding the preached mysteries or promising his property."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "paragraph": 98,
+      "text": "“None of note enough to be put to ransom,” answered the Captain; “a set\nof hilding fellows there were, whom we dismissed to find them a new\nmaster—enough had been done for revenge and profit; the bunch of them\nwere not worth a cardecu. The prisoner I speak of is better booty—a\njolly monk riding to visit his leman, an I may judge by his horse-gear\nand wearing apparel.—Here cometh the worthy prelate, as pert as a\npyet.” And, between two yeomen, was brought before the silvan throne of\nthe outlaw Chief, our old friend, Prior Aymer of Jorvaulx.",
+      "scenes": [
+        {
+          "from": 96,
+          "title": "Another captive brought",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "locksley",
+              "location": "harthill-trysting-tree",
+              "status": "Defers Isaac’s terms and orders the more profitable prisoner forward."
+            },
+            {
+              "key": "aymer",
+              "location": "harthill-trysting-tree",
+              "status": "Is brought under guard before the outlaw leader."
+            },
+            {
+              "key": "blackknight",
+              "location": "harthill-trysting-tree",
+              "status": "Asks after prisoners from the garrison."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "paragraph": 53,
+      "text": "“Oh!” answered the Jew, “I would to God thou hadst shot, though the\narrow had pierced her bosom!—Better the tomb of her fathers than the\ndishonourable couch of the licentious and savage Templar. Ichabod!\nIchabod! the glory hath departed from my house!”",
+      "scenes": [
+        {
+          "from": 50,
+          "title": "News of Rebecca",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "harthill-trysting-tree",
+              "status": "Recognises the archer’s description of Rebecca, hears she was carried off by the Templar and laments her danger."
+            },
+            {
+              "key": "locksley",
+              "location": "harthill-trysting-tree",
+              "status": "Asks whether payment of the full ransom would leave Isaac without money to help his daughter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "paragraph": 67,
+      "text": "“Silent as a dormouse,” said the Outlaw; “and never trust me but I am\ngrieved for thy daughter. But I may not help it—The Templars lances are\ntoo strong for my archery in the open field—they would scatter us like\ndust. Had I but known it was Rebecca when she was borne off, something\nmight have been done; but now thou must needs proceed by policy. Come,\nshall I treat for thee with the Prior?”",
+      "scenes": [
+        {
+          "from": 64,
+          "title": "An old acquaintance",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "harthill-private-tree",
+              "status": "Recognises Diccon Bend-the-Bow and offers cloth, bows and strings to protect the vault’s secret."
+            },
+            {
+              "key": "locksley",
+              "location": "harthill-private-tree",
+              "status": "Confirms the name, explains the difficulty of force against the Templars and offers to negotiate with Aymer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "paragraph": 105,
+      "text": "Yet ere Isaac departed, the Outlaw Chief bestowed on him this parting\nadvice:—“Be liberal of thine offers, Isaac, and spare not thy purse for\nthy daughter’s safety. Credit me, that the gold thou shalt spare in her\ncause, will hereafter give thee as much agony as if it were poured\nmolten down thy throat.”",
+      "scenes": [
+        {
+          "from": 99,
+          "title": "The sealed order",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": null,
+              "status": "Issues a sealed order to Sheva at York for a thousand crowns and specified merchandise, then leaves with two guides."
+            },
+            {
+              "key": "locksley",
+              "location": "harthill-trysting-tree",
+              "status": "Accepts the security and urges generosity for Rebecca’s sake."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "paragraph": 58,
+      "text": "“He has fallen off from neither,” said Waldemar Fitzurse; “and since it\nmay not better be, I will take on me the conduct of this perilous\nenterprise. Dearly, however, did my father purchase the praise of a\nzealous friend; and yet did his proof of loyalty to Henry fall far\nshort of what I am about to afford; for rather would I assail a whole\ncalendar of saints, than put spear in rest against Cœur-de-Lion.—De\nBracy, to thee I must trust to keep up the spirits of the doubtful, and\nto guard Prince John’s person. If you receive such news as I trust to\nsend you, our enterprise will no longer wear a doubtful aspect.—Page,”\nhe said, “hie to my lodgings, and tell my armourer to be there in\nreadiness; and bid Stephen Wetheral, Broad Thoresby, and the Three\nSpears of Spyinghow, come to me instantly; and let the scout-master,\nHugh Bardon, attend me also.—Adieu, my Prince, till better times.” Thus\nspeaking, he left the apartment. “He goes to make my brother prisoner,”\nsaid Prince John to De Bracy, “with as little touch of compunction, as\nif it but concerned the liberty of a Saxon franklin. I trust he will\nobserve our orders, and use our dear Richard’s person with all due\nrespect.”",
+      "scenes": [
+        {
+          "from": 57,
+          "title": "Fitzurse undertakes the pursuit",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "fitzurse",
+              "location": null,
+              "status": "Offers to lead the pursuit with named supporters."
+            },
+            {
+              "key": "john",
+              "location": "york-castle",
+              "status": "Promises advancement and disclaims an intention to harm Richard."
+            },
+            {
+              "key": "debracy",
+              "location": "york-castle",
+              "status": "Withdraws after hearing Fitzurse accept the task."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "paragraph": 64,
+      "text": "“Fickle tyrant!” muttered De Bracy, as he left the presence of the\nPrince; “evil luck have they who trust thee. Thy Chancellor, indeed!—He\nwho hath the keeping of thy conscience shall have an easy charge, I\ntrow. But High Marshal of England! that,” he said, extending his arm,\nas if to grasp the baton of office, and assuming a loftier stride along\nthe antechamber, “that is indeed a prize worth playing for!”",
+      "scenes": [
+        {
+          "from": 57,
+          "title": "Fitzurse undertakes the pursuit",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "fitzurse",
+              "location": null,
+              "status": "Offers to lead the pursuit with named supporters."
+            },
+            {
+              "key": "john",
+              "location": "york-castle",
+              "status": "Promises advancement and disclaims an intention to harm Richard."
+            },
+            {
+              "key": "debracy",
+              "location": "york-castle",
+              "status": "Withdraws after hearing Fitzurse accept the task."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "paragraph": 65,
+      "text": "De Bracy had no sooner left the apartment than Prince John summoned an\nattendant.",
+      "scenes": [
+        {
+          "from": 65,
+          "title": "Another watcher",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "hughbardon",
+              "location": null,
+              "status": "Brings intelligence of the small travelling party and receives orders to watch De Bracy."
+            },
+            {
+              "key": "john",
+              "location": "york-castle",
+              "status": "Orders surveillance of his distrusted ally."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "paragraph": 77,
+      "text": "Hugh Bardon bowed, and retired.",
+      "scenes": [
+        {
+          "from": 65,
+          "title": "Another watcher",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "hughbardon",
+              "location": null,
+              "status": "Brings intelligence of the small travelling party and receives orders to watch De Bracy."
+            },
+            {
+              "key": "john",
+              "location": "york-castle",
+              "status": "Orders surveillance of his distrusted ally."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "paragraph": 3,
+      "text": "Our tale now returns to Isaac of York.—Mounted upon a mule, the gift of\nthe Outlaw, with two tall yeomen to act as his guard and guides, the\nJew had set out for the Preceptory of Templestowe, for the purpose of\nnegotiating his daughter’s redemption. The Preceptory was but a day’s\njourney from the demolished castle of Torquilstone, and the Jew had\nhoped to reach it before nightfall; accordingly, having dismissed his\nguides at the verge of the forest, and rewarded them with a piece of\nsilver, he began to press on with such speed as his weariness permitted\nhim to exert. But his strength failed him totally ere he had reached\nwithin four miles of the Temple-Court; racking pains shot along his\nback and through his limbs, and the excessive anguish which he felt at\nheart being now augmented by bodily suffering, he was rendered\naltogether incapable of proceeding farther than a small market-town,\nwere dwelt a Jewish Rabbi of his tribe, eminent in the medical\nprofession, and to whom Isaac was well known. Nathan Ben Israel\nreceived his suffering countryman with that kindness which the law\nprescribed, and which the Jews practised to each other. He insisted on\nhis betaking himself to repose, and used such remedies as were then in\nmost repute to check the progress of the fever, which terror, fatigue,\nill usage, and sorrow, had brought upon the poor old Jew.",
+      "scenes": [
+        {
+          "from": 0,
+          "title": "Shelter with Nathan",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": "nathan-house",
+              "status": "Dismisses his guides, reaches Nathan’s house feverish and rests overnight."
+            },
+            {
+              "key": "nathan",
+              "location": "nathan-house",
+              "status": "Shelters the distressed traveller near Templestowe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "paragraph": 9,
+      "text": "“He hath since come to England, unexpected by his brethren,” said Ben\nIsrael; “and he cometh among them with a strong and outstretched arm to\ncorrect and to punish. His countenance is kindled in anger against\nthose who have departed from the vow which they have made, and great is\nthe fear of those sons of Belial. Thou must have heard of his name?”",
+      "scenes": [
+        {
+          "from": 7,
+          "title": "The warning disregarded",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "nathan",
+              "location": "nathan-house",
+              "status": "Warns that the Grand Master’s presence makes Isaac’s errand dangerous."
+            },
+            {
+              "key": "isaac",
+              "location": "nathan-house",
+              "status": "Insists on seeking his daughter despite Nathan’s warning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "paragraph": 24,
+      "text": "“But by the Holy Temple! the zeal which hath devoured my substance and\nmy life, yea, the very nerves and marrow of my bones; by that very Holy\nTemple I swear to thee, that save thyself and some few that still\nretain the ancient severity of our Order, I look upon no brethren whom\nI can bring my soul to embrace under that holy name. What say our\nstatutes, and how do our brethren observe them? They should wear no\nvain or worldly ornament, no crest upon their helmet, no gold upon\nstirrup or bridle-bit; yet who now go pranked out so proudly and so\ngaily as the poor soldiers of the Temple? They are forbidden by our\nstatutes to take one bird by means of another, to shoot beasts with bow\nor arblast, to halloo to a hunting-horn, or to spur the horse after\ngame. But now, at hunting and hawking, and each idle sport of wood and\nriver, who so prompt as the Templars in all these fond vanities? They\nare forbidden to read, save what their Superior permitted, or listen to\nwhat is read, save such holy things as may be recited aloud during the\nhours of refaction; but lo! their ears are at the command of idle\nminstrels, and their eyes study empty romaunts. They were commanded to\nextirpate magic and heresy. Lo! they are charged with studying the\naccursed cabalistical secrets of the Jews, and the magic of the Paynim\nSaracens. Simpleness of diet was prescribed to them, roots, pottage,\ngruels, eating flesh but thrice a-week, because the accustomed feeding\non flesh is a dishonourable corruption of the body; and behold, their\ntables groan under delicate fare! Their drink was to be water, and now,\nto drink like a Templar, is the boast of each jolly boon companion!\nThis very garden, filled as it is with curious herbs and trees sent\nfrom the Eastern climes, better becomes the harem of an unbelieving\nEmir, than the plot which Christian Monks should devote to raise their\nhomely pot-herbs.—And O, Conrade! well it were that the relaxation of\ndiscipline stopped even here!—Well thou knowest that we were forbidden\nto receive those devout women, who at the beginning were associated as\nsisters of our Order, because, saith the forty-sixth chapter, the\nAncient Enemy hath, by female society, withdrawn many from the right\npath to paradise. Nay, in the last capital, being, as it were, the\ncope-stone which our blessed founder placed on the pure and undefiled\ndoctrine which he had enjoined, we are prohibited from offering, even\nto our sisters and our mothers, the kiss of affection—‘ut omnium\nmulierum fugiantur oscula’.—I shame to speak—I shame to think—of the\ncorruptions which have rushed in upon us even like a flood. The souls\nof our pure founders, the spirits of Hugh de Payen and Godfrey de Saint\nOmer, and of the blessed Seven who first joined in dedicating their\nlives to the service of the Temple, are disturbed even in the enjoyment\nof paradise itself. I have seen them, Conrade, in the visions of the\nnight—their sainted eyes shed tears for the sins and follies of their\nbrethren, and for the foul and shameful luxury in which they wallow.\nBeaumanoir, they say, thou slumberest—awake! There is a stain in the\nfabric of the Temple, deep and foul as that left by the streaks of\nleprosy on the walls of the infected houses of old. 50",
+      "scenes": [
+        {
+          "from": 19,
+          "title": "The reforming visitor",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-garden",
+              "status": "Discusses the Order’s discipline and his intended reforms."
+            },
+            {
+              "key": "conrade",
+              "location": "templestowe-garden",
+              "status": "Accompanies his superior and answers his complaints."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "paragraph": 36,
+      "text": "The squire departed with a profound reverence, and in a few minutes\nreturned, marshalling in Isaac of York. No naked slave, ushered into\nthe presence of some mighty prince, could approach his judgment-seat\nwith more profound reverence and terror than that with which the Jew\ndrew near to the presence of the Grand Master. When he had approached\nwithin the distance of three yards, Beaumanoir made a sign with his\nstaff that he should come no farther. The Jew kneeled down on the earth\nwhich he kissed in token of reverence; then rising, stood before the\nTemplars, his hands folded on his bosom, his head bowed on his breast,\nin all the submission of Oriental slavery.",
+      "scenes": [
+        {
+          "from": 30,
+          "title": "Isaac admitted",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "damian",
+              "location": null,
+              "status": "Announces the visitor, fetches him and withdraws."
+            },
+            {
+              "key": "isaac",
+              "location": "templestowe-garden",
+              "status": "Is brought before the Grand Master."
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-garden",
+              "status": "Allows Isaac to be brought before him in the garden."
+            },
+            {
+              "key": "conrade",
+              "location": "templestowe-garden",
+              "status": "Attends the interview."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "paragraph": 23,
+      "text": "Albert Malvoisin bowed and retired,—not to give directions for\npreparing the hall, but to seek out Brian de Bois-Guilbert, and\ncommunicate to him how matters were likely to terminate. It was not\nlong ere he found him, foaming with indignation at a repulse he had\nanew sustained from the fair Jewess. “The unthinking,” he said, “the\nungrateful, to scorn him who, amidst blood and flames, would have saved\nher life at the risk of his own! By Heaven, Malvoisin! I abode until\nroof and rafters crackled and crashed around me. I was the butt of a\nhundred arrows; they rattled on mine armour like hailstones against a\nlatticed casement, and the only use I made of my shield was for her\nprotection. This did I endure for her; and now the self-willed girl\nupbraids me that I did not leave her to perish, and refuses me not only\nthe slightest proof of gratitude, but even the most distant hope that\never she will be brought to grant any. The devil, that possessed her\nrace with obstinacy, has concentrated its full force in her single\nperson!”",
+      "scenes": [
+        {
+          "from": 23,
+          "title": "Brian warned",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "albert",
+              "location": "templestowe",
+              "status": "Finds Brian and warns that resisting the Grand Master threatens his position."
+            },
+            {
+              "key": "brian",
+              "location": "templestowe",
+              "status": "Contemplates resistance and escape but hears Albert’s political advice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "paragraph": 10,
+      "text": "“Reverend and valiant men, Knights, Preceptors, and Companions of this\nHoly Order, my brethren and my children!—you also, well-born and pious\nEsquires, who aspire to wear this holy Cross!—and you also, Christian\nbrethren, of every degree!—Be it known to you, that it is not defect of\npower in us which hath occasioned the assembling of this congregation;\nfor, however unworthy in our person, yet to us is committed, with this\nbatoon, full power to judge and to try all that regards the weal of\nthis our Holy Order. Holy Saint Bernard, in the rule of our knightly\nand religious profession, hath said, in the fifty-ninth capital, 53\nthat he would not that brethren be called together in council, save at\nthe will and command of the Master; leaving it free to us, as to those\nmore worthy fathers who have preceded us in this our office, to judge,\nas well of the occasion as of the time and place in which a chapter of\nthe whole Order, or of any part thereof, may be convoked. Also, in all\nsuch chapters, it is our duty to hear the advice of our brethren, and\nto proceed according to our own pleasure. But when the raging wolf hath\nmade an inroad upon the flock, and carried off one member thereof, it\nis the duty of the kind shepherd to call his comrades together, that\nwith bows and slings they may quell the invader, according to our\nwell-known rule, that the lion is ever to be beaten down. We have\ntherefore summoned to our presence a Jewish woman, by name Rebecca,\ndaughter of Isaac of York—a woman infamous for sortileges and for\nwitcheries; whereby she hath maddened the blood, and besotted the\nbrain, not of a churl, but of a Knight—not of a secular Knight, but of\none devoted to the service of the Holy Temple—not of a Knight\nCompanion, but of a Preceptor of our Order, first in honour as in\nplace. Our brother, Brian de Bois-Guilbert, is well known to ourselves,\nand to all degrees who now hear me, as a true and zealous champion of\nthe Cross, by whose arm many deeds of valour have been wrought in the\nHoly Land, and the holy places purified from pollution by the blood of\nthose infidels who defiled them. Neither have our brother’s sagacity\nand prudence been less in repute among his brethren than his valour and\ndiscipline; in so much, that knights, both in eastern and western\nlands, have named De Bois-Guilbert as one who may well be put in\nnomination as successor to this batoon, when it shall please Heaven to\nrelease us from the toil of bearing it. If we were told that such a\nman, so honoured, and so honourable, suddenly casting away regard for\nhis character, his vows, his brethren, and his prospects, had\nassociated to himself a Jewish damsel, wandered in this lewd company,\nthrough solitary places, defended her person in preference to his own,\nand, finally, was so utterly blinded and besotted by his folly, as to\nbring her even to one of our own Preceptories, what should we say but\nthat the noble knight was possessed by some evil demon, or influenced\nby some wicked spell?—If we could suppose it otherwise, think not rank,\nvalour, high repute, or any earthly consideration, should prevent us\nfrom visiting him with punishment, that the evil thing might be\nremoved, even according to the text, ‘Auferte malum ex vobis’. For\nvarious and heinous are the acts of transgression against the rule of\nour blessed Order in this lamentable history.—1st, He hath walked\naccording to his proper will, contrary to capital 33, ‘Quod nullus\njuxta propriam voluntatem incedat’.—2d, He hath held communication with\nan excommunicated person, capital 57, ‘Ut fratres non participent cum\nexcommunicatis’, and therefore hath a portion in ‘Anathema\nMaranatha’.—3d, He hath conversed with strange women, contrary to the\ncapital, ‘Ut fratres non conversantur cum extraneis mulieribus’.—4th,\nHe hath not avoided, nay, he hath, it is to be feared, solicited the\nkiss of woman; by which, saith the last rule of our renowned Order, ‘Ut\nfugiantur oscula’, the soldiers of the Cross are brought into a snare.\nFor which heinous and multiplied guilt, Brian de Bois-Guilbert should\nbe cut off and cast out from our congregation, were he the right hand\nand right eye thereof.”",
+      "scenes": [
+        {
+          "from": 10,
+          "title": "The accusation supported",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-master-seat",
+              "status": "Hears the accusation and imposes penance on Albert."
+            },
+            {
+              "key": "albert",
+              "location": "templestowe-preceptor-seats",
+              "status": "Gives testimony about Rebecca’s confinement."
+            },
+            {
+              "key": "rebecca",
+              "location": "templestowe-accused-place",
+              "status": "Listens to charges based on her healing and captivity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "paragraph": 33,
+      "text": "Higg, the son of Snell, withdrew into the crowd, but, interested in the\nfate of his benefactress, lingered until he should learn her doom, even\nat the risk of again encountering the frown of that severe judge, the\nterror of which withered his very heart within him.",
+      "scenes": [
+        {
+          "from": 29,
+          "title": "The witness named",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "higg",
+              "location": "templestowe-public-floor",
+              "status": "Gives his name as Higg, son of Snell, answers the rebuke by discussing his brothers’ service and withdraws into the crowd."
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-master-seat",
+              "status": "Rebukes Higg for accepting help from Rebecca and orders him away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "paragraph": 35,
+      "text": "She withdrew her veil, and looked on them with a countenance in which\nbashfulness contended with dignity. Her exceeding beauty excited a\nmurmur of surprise, and the younger knights told each other with their\neyes, in silent correspondence, that Brian’s best apology was in the\npower of her real charms, rather than of her imaginary witchcraft. But\nHigg, the son of Snell, felt most deeply the effect produced by the\nsight of the countenance of his benefactress.",
+      "scenes": [
+        {
+          "from": 34,
+          "title": "An unveiled appeal",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rebecca",
+              "location": "templestowe-accused-place",
+              "status": "Unveils and reassures Higg despite her danger."
+            },
+            {
+              "key": "higg",
+              "location": "templestowe-public-floor",
+              "status": "Grieves that his praise has helped the prosecution."
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-master-seat",
+              "status": "Permits him to remain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "paragraph": 55,
+      "text": "They embraced accordingly, and departed on their several roads. The\ncrippled peasant remained for some time looking after them.",
+      "scenes": [
+        {
+          "from": 50,
+          "title": "Separate searches",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "isaac",
+              "location": null,
+              "status": "Agrees to seek Ivanhoe and fund help for Rebecca."
+            },
+            {
+              "key": "bensamuel",
+              "location": null,
+              "status": "Undertakes to seek a champion at York and departs on his own road."
+            },
+            {
+              "key": "higg",
+              "location": "templestowe-nearby-road",
+              "status": "Watches them leave and reflects on his affection for Rebecca."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "paragraph": 58,
+      "text": "“Farewell, then,” said the Templar, and left the apartment.",
+      "scenes": [
+        {
+          "from": 50,
+          "title": "A farewell without surrender",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rebecca",
+              "location": "templestowe-rebecca-cell",
+              "status": "Defends women’s courage and her people’s history, forgives Brian and maintains her refusal."
+            },
+            {
+              "key": "brian",
+              "location": null,
+              "status": "Acknowledges her courage but leaves with his purpose unresolved."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "paragraph": 66,
+      "text": "“Thou canst not fly,” said the Preceptor; “thy ravings have excited\nsuspicion, and thou wilt not be permitted to leave the Preceptory. Go\nand make the essay—present thyself before the gate, and command the\nbridge to be lowered, and mark what answer thou shalt receive.—Thou are\nsurprised and offended; but is it not the better for thee? Wert thou to\nfly, what would ensue but the reversal of thy arms, the dishonour of\nthine ancestry, the degradation of thy rank?—Think on it. Where shall\nthine old companions in arms hide their heads when Brian de\nBois-Guilbert, the best lance of the Templars, is proclaimed recreant,\namid the hisses of the assembled people? What grief will be at the\nCourt of France! With what joy will the haughty Richard hear the news,\nthat the knight that set him hard in Palestine, and well-nigh darkened\nhis renown, has lost fame and honour for a Jewish girl, whom he could\nnot even save by so costly a sacrifice!”",
+      "scenes": [
+        {
+          "from": 59,
+          "title": "Albert bars the alternatives",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "albert",
+              "location": "templestowe-adjacent-chamber",
+              "status": "Warns Brian that renunciation or flight would bring imprisonment and disgrace."
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-adjacent-chamber",
+              "status": "Considers defending Rebecca himself or fleeing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "paragraph": 72,
+      "text": "He left the apartment hastily as he uttered these words, and the\nPreceptor followed, to watch and confirm him in his resolution; for in\nBois-Guilbert’s fame he had himself a strong interest, expecting much\nadvantage from his being one day at the head of the Order, not to\nmention the preferment of which Mont-Fitchet had given him hopes, on\ncondition he would forward the condemnation of the unfortunate Rebecca.\nYet although, in combating his friend’s better feelings, he possessed\nall the advantage which a wily, composed, selfish disposition has over\na man agitated by strong and contending passions, it required all\nMalvoisin’s art to keep Bois-Guilbert steady to the purpose he had\nprevailed on him to adopt. He was obliged to watch him closely to\nprevent his resuming his purpose of flight, to intercept his\ncommunication with the Grand Master, lest he should come to an open\nrupture with his Superior, and to renew, from time to time, the various\narguments by which he endeavoured to show, that, in appearing as\nchampion on this occasion, Bois-Guilbert, without either accelerating\nor ensuring the fate of Rebecca, would follow the only course by which\nhe could save himself from degradation and disgrace.",
+      "scenes": [
+        {
+          "from": 67,
+          "title": "The decision maintained",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "brian",
+              "location": null,
+              "status": "Agrees to appear in the lists and leaves the room."
+            },
+            {
+              "key": "albert",
+              "location": null,
+              "status": "Follows and watches him to prevent renewed flight or an appeal to the Grand Master."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "paragraph": 3,
+      "text": "When the Black Knight—for it becomes necessary to resume the train of\nhis adventures—left the Trysting-tree of the generous Outlaw, he held\nhis way straight to a neighbouring religious house, of small extent and\nrevenue, called the Priory of Saint Botolph, to which the wounded\nIvanhoe had been removed when the castle was taken, under the guidance\nof the faithful Gurth, and the magnanimous Wamba. It is unnecessary at\npresent to mention what took place in the interim betwixt Wilfred and\nhis deliverer; suffice it to say, that after long and grave\ncommunication, messengers were dispatched by the Prior in several\ndirections, and that on the succeeding morning the Black Knight was\nabout to set forth on his journey, accompanied by the jester Wamba, who\nattended as his guide.",
+      "scenes": [
+        {
+          "from": 0,
+          "title": "The refuge at Saint Botolph’s",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "blackknight",
+              "location": "saint-botolph-priory",
+              "status": "Visits the wounded Ivanhoe and confers with him."
+            },
+            {
+              "key": "ivanhoe",
+              "location": "saint-botolph-priory",
+              "status": "Has been brought to the Priory under Gurth and Wamba’s guidance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "paragraph": 12,
+      "text": "So saying, he extended his hand to Ivanhoe, who pressed it to his lips,\ntook leave of the Prior, mounted his horse, and departed, with Wamba\nfor his companion. Ivanhoe followed them with his eyes, until they were\nlost in the shades of the surrounding forest, and then returned into\nthe convent.",
+      "scenes": [
+        {
+          "from": 4,
+          "title": "A solitary guide chosen",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "blackknight",
+              "location": "coningsburgh-forest-road",
+              "status": "Orders Ivanhoe to rest and departs for Coningsburgh with Wamba."
+            },
+            {
+              "key": "ivanhoe",
+              "location": "saint-botolph-priory",
+              "status": "Wishes to accompany his deliverer but receives orders to stay."
+            },
+            {
+              "key": "wamba",
+              "location": "coningsburgh-forest-road",
+              "status": "Agrees to guide the Black Knight."
+            },
+            {
+              "key": "botolphprior",
+              "location": "saint-botolph-priory",
+              "status": "Takes leave of the departing knight."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "paragraph": 122,
+      "text": "“King of Outlaws, and Prince of good fellows!” said the King, “who hath\nnot heard a name that has been borne as far as Palestine? But be\nassured, brave Outlaw, that no deed done in our absence, and in the\nturbulent times to which it hath given rise, shall be remembered to thy\ndisadvantage.”",
+      "scenes": [
+        {
+          "from": 121,
+          "title": "The outlaw’s declaration",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "locksley",
+              "location": "forest-ambush-glade",
+              "status": "Declares himself Robin Hood of Sherwood Forest."
+            },
+            {
+              "key": "blackknight",
+              "location": "forest-ambush-glade",
+              "status": "Recognises the famous name and renews his assurance against punishment."
+            },
+            {
+              "key": "wamba",
+              "location": "forest-ambush-glade",
+              "status": "Reminds Richard of his service with sword and horn."
+            },
+            {
+              "key": "hermit",
+              "location": "forest-ambush-glade",
+              "status": "Hears the captain’s declaration and the king’s response."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "paragraph": 34,
+      "text": "The wise and attentive precautions adopted for his safety touched\nRichard’s feelings, and removed any slight grudge which he might retain\non account of the deception the Outlaw Captain had practised upon him.\nHe once more extended his hand to Robin Hood, assured him of his full\npardon and future favour, as well as his firm resolution to restrain\nthe tyrannical exercise of the forest rights and other oppressive laws,\nby which so many English yeomen were driven into a state of rebellion.\nBut Richard’s good intentions towards the bold Outlaw were frustrated\nby the King’s untimely death; and the Charter of the Forest was\nextorted from the unwilling hands of King John when he succeeded to his\nheroic brother. As for the rest of Robin Hood’s career, as well as the\ntale of his treacherous death, they are to be found in those\nblack-letter garlands, once sold at the low and easy rate of one\nhalfpenny.",
+      "scenes": [
+        {
+          "from": 34,
+          "title": "The narrator looks ahead",
+          "recollection": false,
+          "endpoints": []
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "paragraph": 8,
+      "text": "Before this altar was placed a bier, and on each side of this bier\nkneeled three priests, who told their beads, and muttered their\nprayers, with the greatest signs of external devotion. For this service\na splendid “soul-scat” was paid to the convent of Saint Edmund’s by the\nmother of the deceased; and, that it might be fully deserved, the whole\nbrethren, saving the lame Sacristan, had transferred themselves to\nConingsburgh, where, while six of their number were constantly on guard\nin the performance of divine rites by the bier of Athelstane, the\nothers failed not to take their share of the refreshments and\namusements which went on at the castle. In maintaining this pious watch\nand ward, the good monks were particularly careful not to interrupt\ntheir hymns for an instant, lest Zernebock, the ancient Saxon Apollyon,\nshould lay his clutches on the departed Athelstane. Nor were they less\ncareful to prevent any unhallowed layman from touching the pall, which,\nhaving been that used at the funeral of Saint Edmund, was liable to be\ndesecrated, if handled by the profane. If, in truth, these attentions\ncould be of any use to the deceased, he had some right to expect them\nat the hands of the brethren of Saint Edmund’s, since, besides a\nhundred mancuses of gold paid down as the soul-ransom, the mother of\nAthelstane had announced her intention of endowing that foundation with\nthe better part of the lands of the deceased, in order to maintain\nperpetual prayers for his soul, and that of her departed husband.\nRichard and Wilfred followed the Saxon Cedric into the apartment of\ndeath, where, as their guide pointed with solemn air to the untimely\nbier of Athelstane, they followed his example in devoutly crossing\nthemselves, and muttering a brief prayer for the weal of the departed\nsoul.",
+      "scenes": [
+        {
+          "from": 7,
+          "title": "The guarded bier",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "cedric",
+              "location": "coningsburgh-chapel",
+              "status": "Leads the visitors to the bier."
+            },
+            {
+              "key": "blackknight",
+              "location": "coningsburgh-chapel",
+              "status": "Offers a brief prayer."
+            },
+            {
+              "key": "ivanhoe",
+              "location": "coningsburgh-chapel",
+              "status": "Follows Cedric’s devotions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "paragraph": 12,
+      "text": "The guests bowed deeply to the mourning parent, and withdrew from their\nhospitable guide.",
+      "scenes": [
+        {
+          "from": 9,
+          "title": "Edith in mourning",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "edith",
+              "location": "coningsburgh-oratory",
+              "status": "Thanks the strangers for attempting to save her son."
+            },
+            {
+              "key": "cedric",
+              "location": "coningsburgh-oratory",
+              "status": "Introduces the visitors."
+            },
+            {
+              "key": "blackknight",
+              "location": null,
+              "status": "Pays respect to the grieving mother."
+            },
+            {
+              "key": "ivanhoe",
+              "location": null,
+              "status": "Accompanies the visitors without revealing himself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "paragraph": 41,
+      "text": "“In the name of God!” said Cedric, addressing what seemed the spectre\nof his departed friend, “if thou art mortal, speak!—if a departed\nspirit, say for what cause thou dost revisit us, or if I can do aught\nthat can set thy spirit at repose.—Living or dead, noble Athelstane,\nspeak to Cedric!”",
+      "scenes": [
+        {
+          "from": 38,
+          "title": "Athelstane returns",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "athelstane",
+              "location": "coningsburgh-guest-room",
+              "status": "Appears in grave clothes and declares himself alive."
+            },
+            {
+              "key": "cedric",
+              "location": "coningsburgh-guest-room",
+              "status": "Recoils before questioning the apparent apparition."
+            },
+            {
+              "key": "ivanhoe",
+              "location": "coningsburgh-guest-room",
+              "status": "Prays in astonishment."
+            },
+            {
+              "key": "blackknight",
+              "location": "coningsburgh-guest-room",
+              "status": "Questions the man he had seen struck down."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "paragraph": 70,
+      "text": "All now looked around and enquired for Ivanhoe, but he had vanished. It\nwas at length discovered that a Jew had been to seek him; and that,\nafter very brief conference, he had called for Gurth and his armour,\nand had left the castle.",
+      "scenes": [
+        {
+          "from": 69,
+          "title": "An absent bridegroom",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "athelstane",
+              "location": "coningsburgh-guest-room",
+              "status": "Renounces his claim to Rowena and notices Ivanhoe has disappeared."
+            },
+            {
+              "key": "rowena",
+              "location": null,
+              "status": "Withdraws after the embarrassing offer of her hand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "paragraph": 8,
+      "text": "“Have you not heard, Father Dennet,” quoth one boor to another advanced\nin years, “that the devil has carried away bodily the great Saxon\nThane, Athelstane of Coningsburgh?”",
+      "scenes": [
+        {
+          "from": 8,
+          "title": "A rumour retold",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "dennet",
+              "location": "templestowe-spectator-area",
+              "status": "Repeats an inaccurate account of Athelstane’s supposed death."
+            },
+            {
+              "key": "minstrel",
+              "location": "templestowe-spectator-area",
+              "status": "Questions the countrymen’s story about Athelstane’s supposed death and return."
+            },
+            {
+              "key": "hermit",
+              "location": "templestowe-spectator-area",
+              "status": "Interrupts and corrects details he claims to know."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "paragraph": 24,
+      "text": "“That’s a lie, and a loud one,” said the Friar, “for I saw him borne to\nhis own Castle of Coningsburgh.”",
+      "scenes": [
+        {
+          "from": 8,
+          "title": "A rumour retold",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "dennet",
+              "location": "templestowe-spectator-area",
+              "status": "Repeats an inaccurate account of Athelstane’s supposed death."
+            },
+            {
+              "key": "minstrel",
+              "location": "templestowe-spectator-area",
+              "status": "Questions the countrymen’s story about Athelstane’s supposed death and return."
+            },
+            {
+              "key": "hermit",
+              "location": "templestowe-spectator-area",
+              "status": "Interrupts and corrects details he claims to know."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "paragraph": 34,
+      "text": "At length the drawbridge fell, the gates opened, and a knight, bearing\nthe great standard of the Order, sallied from the castle, preceded by\nsix trumpets, and followed by the Knights Preceptors, two and two, the\nGrand Master coming last, mounted on a stately horse, whose furniture\nwas of the simplest kind. Behind him came Brian de Bois-Guilbert, armed\ncap-a-pie in bright armour, but without his lance, shield, and sword,\nwhich were borne by his two esquires behind him. His face, though\npartly hidden by a long plume which floated down from his barrel-cap,\nbore a strong and mingled expression of passion, in which pride seemed\nto contend with irresolution. He looked ghastly pale, as if he had not\nslept for several nights, yet reined his pawing war-horse with the\nhabitual ease and grace proper to the best lance of the Order of the\nTemple. His general appearance was grand and commanding; but, looking\nat him with attention, men read that in his dark features, from which\nthey willingly withdrew their eyes.",
+      "scenes": [
+        {
+          "from": 34,
+          "title": "The procession",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-procession-route",
+              "status": "Rides behind the preceptors through the opened gate and across the lowered drawbridge."
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-procession-route",
+              "status": "Rides in bright armour behind the Master while his two esquires carry his lance, shield and sword."
+            },
+            {
+              "key": "albert",
+              "location": "templestowe-procession-route",
+              "status": "Rides on one side of Brian as a godfather of the champion."
+            },
+            {
+              "key": "conrade",
+              "location": "templestowe-procession-route",
+              "status": "Rides on the other side of the champion in the Order’s white dress."
+            },
+            {
+              "key": "rebecca",
+              "location": "templestowe-procession-route",
+              "status": "Walks under the warders’ escort behind the mounted party, wearing a coarse white dress with her ornaments removed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "paragraph": 37,
+      "text": "This slow procession moved up the gentle eminence, on the summit of\nwhich was the tiltyard, and, entering the lists, marched once around\nthem from right to left, and when they had completed the circle, made a\nhalt. There was then a momentary bustle, while the Grand Master and all\nhis attendants, excepting the champion and his godfathers, dismounted\nfrom their horses, which were immediately removed out of the lists by\nthe esquires, who were in attendance for that purpose.",
+      "scenes": [
+        {
+          "from": 37,
+          "title": "Within the enclosure",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-lists",
+              "status": "Completes the circuit of the lists and dismounts while an esquire removes his horse."
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-lists",
+              "status": "Remains mounted as champion when the procession halts after its circuit."
+            },
+            {
+              "key": "albert",
+              "location": "templestowe-lists",
+              "status": "Stays mounted beside the champion in his role as godfather after the circuit."
+            },
+            {
+              "key": "conrade",
+              "location": "templestowe-lists",
+              "status": "Keeps his saddle as one of the two godfathers while the other attendants dismount."
+            },
+            {
+              "key": "rebecca",
+              "location": "templestowe-lists",
+              "status": "Enters the lists with her escort, makes the circuit on foot and halts with the procession."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "paragraph": 49,
+      "text": "“Say to the Grand Master,” replied Rebecca, “that I maintain my\ninnocence, and do not yield me as justly condemned, lest I become\nguilty of mine own blood. Say to him, that I challenge such delay as\nhis forms will permit, to see if God, whose opportunity is in man’s\nextremity, will raise me up a deliverer; and when such uttermost space\nis passed, may His holy will be done!” The herald retired to carry this\nanswer to the Grand Master.",
+      "scenes": [
+        {
+          "from": 45,
+          "title": "Time allowed",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rebecca",
+              "location": "templestowe-west-lists",
+              "status": "Maintains her innocence and asks for the permitted delay."
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-west-lists",
+              "status": "Turns his horse and reaches Rebecca’s chair as the herald does."
+            },
+            {
+              "key": "herald",
+              "location": "templestowe-west-lists",
+              "status": "Carries the question and answer between prisoner and Grand Master, then returns to Rebecca with the granted delay."
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-east-tribunal",
+              "status": "Grants a delay until the shadows fall eastward while remaining at the eastern tribunal."
+            },
+            {
+              "key": "albert",
+              "location": "templestowe-east-station",
+              "status": "Questions whether Brian may approach Rebecca and hears the Master permit their communication."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "paragraph": 80,
+      "text": "The herald, then, seeing each champion in his place, uplifted his\nvoice, repeating thrice—“Faites vos devoirs, preux chevaliers!” After\nthe third cry, he withdrew to one side of the lists, and again\nproclaimed, that none, on peril of instant death, should dare, by word,\ncry, or action, to interfere with or disturb this fair field of combat.\nThe Grand Master, who held in his hand the gage of battle, Rebecca’s\nglove, now threw it into the lists, and pronounced the fatal signal\nwords, “Laissez aller”.",
+      "scenes": [
+        {
+          "from": 79,
+          "title": "The charge",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "ivanhoe",
+              "location": "templestowe-lists",
+              "status": "Charges and falls with his exhausted horse."
+            },
+            {
+              "key": "brian",
+              "location": "templestowe-lists",
+              "status": "Strikes Ivanhoe down but reels and falls himself."
+            },
+            {
+              "key": "beaumanoir",
+              "location": "templestowe-east-tribunal",
+              "status": "Throws the glove into the lists and gives the signal."
+            },
+            {
+              "key": "herald",
+              "location": null,
+              "status": "Proclaims the rules and clears the way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "paragraph": 24,
+      "text": "The multitude, like a timid cur which waits to bark till the object of\nits challenge has turned his back, raised a feeble shout as the rear of\nthe squadron left the ground.",
+      "scenes": [
+        {
+          "from": 14,
+          "title": "The Temple withdraws",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "beaumanoir",
+              "location": null,
+              "status": "Protests and leads his followers away without combat."
+            },
+            {
+              "key": "blackknight",
+              "location": "templestowe-lists",
+              "status": "Orders the chapter dissolved and watches their withdrawal."
+            },
+            {
+              "key": "bohun",
+              "location": "templestowe-lists",
+              "status": "Arrays the king’s men against the Templars."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "paragraph": 34,
+      "text": "The Jewess, whose fortunes had formed the principal interest of the\nday, having now retired unobserved, the attention of the populace was\ntransferred to the Black Knight. They now filled the air with “Long\nlife to Richard with the Lion’s Heart, and down with the usurping\nTemplars!”",
+      "scenes": [
+        {
+          "from": 34,
+          "title": "Essex explains",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "ivanhoe",
+              "location": "templestowe-lists",
+              "status": "Questions Bohun about Richard’s journey and the rebels."
+            },
+            {
+              "key": "bohun",
+              "location": "templestowe-lists",
+              "status": "Reports joining Richard on the road and John’s reception."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "paragraph": 55,
+      "text": "She entered—a noble and commanding figure, the long white veil, in\nwhich she was shrouded, overshadowing rather than concealing the\nelegance and majesty of her shape. Her demeanour was that of respect,\nunmingled by the least shade either of fear, or of a wish to propitiate\nfavour. Rowena was ever ready to acknowledge the claims, and attend to\nthe feelings, of others. She arose, and would have conducted her lovely\nvisitor to a seat; but the stranger looked at Elgitha, and again\nintimated a wish to discourse with the Lady Rowena alone. Elgitha had\nno sooner retired with unwilling steps, than, to the surprise of the\nLady of Ivanhoe, her fair visitant kneeled on one knee, pressed her\nhands to her forehead, and bending her head to the ground, in spite of\nRowena’s resistance, kissed the embroidered hem of her tunic.",
+      "scenes": [
+        {
+          "from": 54,
+          "title": "The veiled visitor",
+          "recollection": false,
+          "endpoints": [
+            {
+              "key": "rowena",
+              "location": null,
+              "status": "Receives a request for a private interview and dismisses her attendants."
+            },
+            {
+              "key": "elgitha",
+              "location": null,
+              "status": "Announces the visitor and reluctantly withdraws."
+            },
+            {
+              "key": "rebecca",
+              "location": null,
+              "status": "Enters veiled and offers a respectful greeting."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "paragraph": 82,
+      "text": "His fate was destined to a foreign strand,\nA petty fortress and an “humble” hand;\nHe left the name at which the world grew pale,\nTo point a moral, or adorn a TALE.",
+      "scenes": [
+        {
+          "from": 80,
+          "title": "The narrator’s close",
+          "recollection": false,
+          "endpoints": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "message": "Runtime failure during continuous playback at ivanhoe-source-6-p0",
+  "pageErrors": [],
+  "networkFailures": [
+    {
+      "url": "blob:http://127.0.0.1:4186/4a09c2ca-8361-4972-8709-d082d28fbac6",
+      "failure": {
+        "errorText": "net::ERR_ABORTED"
+      }
+    }
+  ],
+  "consoleErrors": [],
+  "mapRequests": [
+    {
+      "url": "http://127.0.0.1:4186/assets/index-BbxU73or.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4186/assets/MapExplorerView-DBgLpgoP.js",
+      "status": 200
+    }
+  ]
+}

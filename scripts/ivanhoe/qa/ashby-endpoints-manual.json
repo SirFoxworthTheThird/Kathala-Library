@@ -1,0 +1,48 @@
+{
+  "fixtureSha256": "343d69aa3842c3225a988c20c9b6710e68b3c42560b85b805c3234f21c33008f",
+  "scope": "Five source-corrected VIII endpoint states displayed in actual character Current State views",
+  "checks": [
+    {
+      "key": "john",
+      "eventId": "ivanhoe-source-11-p51",
+      "locationId": "ivanhoe-place-ashby-prince-gallery",
+      "screenshot": "qa/ashby-endpoint-john-51.png",
+      "manualObservation": "John is alive at prince gallery while signalling onset, rather than at field centre.",
+      "screenshotSha256": "adfb0756f51489f138dd0e072fb8221088736ce0ba37b7854b55c6351f135698"
+    },
+    {
+      "key": "john",
+      "eventId": "ivanhoe-source-11-p62",
+      "locationId": "ivanhoe-place-ashby-prince-gallery",
+      "screenshot": "qa/ashby-endpoint-john-62.png",
+      "manualObservation": "John is alive at prince gallery while joining award.",
+      "screenshotSha256": "96743f68603659dc153bd45e117b242b3453c11056c01a89cb96800f37698cbc"
+    },
+    {
+      "key": "vipont",
+      "eventId": "ivanhoe-source-11-p62",
+      "locationId": null,
+      "screenshot": "qa/ashby-endpoint-vipont-62.png",
+      "manualObservation": "Vipont is alive, current location explicitly Unknown, and status says carried away unconscious; no field pin or invented death.",
+      "screenshotSha256": "28d549f02b936d3fc8bde4fd594bb0af38bb3de9cd2c74058fd1becaf0d6cf79"
+    },
+    {
+      "key": "disinherited",
+      "eventId": "ivanhoe-source-11-p40",
+      "locationId": "ivanhoe-place-ashby-northern-end",
+      "screenshot": "qa/ashby-endpoint-disinherited-40.png",
+      "manualObservation": "Anonymous challenger is at northern end after backing away from pavilion; no future identity shown.",
+      "screenshotSha256": "bda471ac7aa65bc3ad519eb08c73a6e80aee4be8e0e3f392e37718c82dd9e231"
+    },
+    {
+      "key": "brian",
+      "eventId": "ivanhoe-source-11-p54",
+      "locationId": "ivanhoe-place-ashby-challenger-platform",
+      "screenshot": "qa/ashby-endpoint-brian-54.png",
+      "manualObservation": "Brian is at challengers platform after separation, with sword-drawing action retained.",
+      "screenshotSha256": "6cc03b76ecc54cb0ad535cb628510c64fb29c877c9ac43459eac6a1881b306e5"
+    }
+  ],
+  "pageErrors": [],
+  "manualReview": "All five actual state screenshots opened individually at native size."
+}

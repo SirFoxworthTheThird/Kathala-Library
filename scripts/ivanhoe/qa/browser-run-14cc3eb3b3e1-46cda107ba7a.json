@@ -1,0 +1,21 @@
+{
+  "status": "PASSED SCOPED AUTHORING-FIXTURE CHECKS; NOT FINAL EDITION QA",
+  "fixtureSha256": "14cc3eb3b3e1aef12a2c27879c98dee50d39ec0b18dd493c09b3f0f591c071f9",
+  "flags": [
+    "--portrait=fangs",
+    "--continuous",
+    "--inventory",
+    "--reported-item-history",
+    "--relationships",
+    "--supporting",
+    "--name-gates",
+    "--knowledge",
+    "--lore",
+    "--calendar-clock"
+  ],
+  "browser": "147.0.7727.15",
+  "pageErrors": [],
+  "consoleErrors": [],
+  "networkFailures": [],
+  "cancelledImageRequests": []
+}

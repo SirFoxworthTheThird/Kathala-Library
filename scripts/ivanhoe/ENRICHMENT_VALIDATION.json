@@ -1,0 +1,378 @@
+{
+  "status": "PASSED COMPILED REFERENCE/ORDER CHECKS ONLY; NOT RELEASE APPROVAL",
+  "counts": {
+    "events": 537,
+    "chapters": 58,
+    "mapLayers": 30,
+    "locationMarkers": 171,
+    "characters": 78,
+    "characterSnapshots": 1473,
+    "items": 55,
+    "itemSnapshots": 92,
+    "itemPlacements": 6,
+    "relationships": 15,
+    "relationshipSnapshots": 14,
+    "characterGoals": 14,
+    "factions": 7,
+    "factionMemberships": 30,
+    "knowledgeFacts": 38,
+    "knowledgeReveals": 43,
+    "blobs": 334,
+    "plotThreads": 5,
+    "motifs": 5,
+    "loreCategories": 2,
+    "lorePages": 12
+  },
+  "initialNames": [
+    {
+      "characterId": "ivanhoe-character-gurth",
+      "initialName": "Gurth",
+      "firstEventId": "ivanhoe-source-4-p8",
+      "identifyingToken": "Gurth",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-wamba",
+      "initialName": "Wamba",
+      "firstEventId": "ivanhoe-source-4-p8",
+      "identifyingToken": "Wamba",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-fangs",
+      "initialName": "Fangs",
+      "firstEventId": "ivanhoe-source-4-p12",
+      "identifyingToken": "Fangs",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-hamet",
+      "initialName": "An eastern attendant",
+      "firstEventId": "ivanhoe-source-5-p0",
+      "identifyingToken": "An",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-hugo",
+      "initialName": "Hugo",
+      "firstEventId": "ivanhoe-source-5-p52",
+      "identifyingToken": "Hugo",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-cedric",
+      "initialName": "Cedric the Saxon",
+      "firstEventId": "ivanhoe-source-6-p0",
+      "identifyingToken": "Cedric",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-balder",
+      "initialName": "Balder",
+      "firstEventId": "ivanhoe-source-6-p0",
+      "identifyingToken": "Balder",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-oswald",
+      "initialName": "Oswald",
+      "firstEventId": "ivanhoe-source-6-p11",
+      "identifyingToken": "Oswald",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-hundebert",
+      "initialName": "Hundebert",
+      "firstEventId": "ivanhoe-source-6-p21",
+      "identifyingToken": "Hundebert",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-rowena",
+      "initialName": "Rowena",
+      "firstEventId": "ivanhoe-source-7-p26",
+      "identifyingToken": "Rowena",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-isaac",
+      "initialName": "Isaac of York",
+      "firstEventId": "ivanhoe-source-8-p14",
+      "identifyingToken": "Isaac",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-ambrose",
+      "initialName": "Brother Ambrose",
+      "firstEventId": "ivanhoe-source-8-p50",
+      "identifyingToken": "Ambrose",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-anwold",
+      "initialName": "Anwold",
+      "firstEventId": "ivanhoe-source-9-p0",
+      "identifyingToken": "Anwold",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-wyvil",
+      "initialName": "William de Wyvil",
+      "firstEventId": "ivanhoe-source-10-p13",
+      "identifyingToken": "William",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-martival",
+      "initialName": "Stephen de Martival",
+      "firstEventId": "ivanhoe-source-10-p13",
+      "identifyingToken": "Stephen",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-rebecca",
+      "initialName": "Rebecca",
+      "firstEventId": "ivanhoe-source-10-p16",
+      "identifyingToken": "Rebecca",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-john",
+      "initialName": "Prince John",
+      "firstEventId": "ivanhoe-source-10-p17",
+      "identifyingToken": "Prince",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-athelstane",
+      "initialName": "Athelstane of Coningsburgh",
+      "firstEventId": "ivanhoe-source-10-p21",
+      "identifyingToken": "Athelstane",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-debracy",
+      "initialName": "De Bracy",
+      "firstEventId": "ivanhoe-source-10-p30",
+      "identifyingToken": "De Bracy",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-fitzurse",
+      "initialName": "Waldemar Fitzurse",
+      "firstEventId": "ivanhoe-source-11-p0",
+      "identifyingToken": "Waldemar",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-frontdeboeuf",
+      "initialName": "Reginald Front-de-Boeuf",
+      "firstEventId": "ivanhoe-source-11-p24",
+      "identifyingToken": "Reginald",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-malvoisin",
+      "initialName": "Sir Malvoisin",
+      "firstEventId": "ivanhoe-source-11-p24",
+      "identifyingToken": "Malvoisin",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-grantmesnil",
+      "initialName": "Sir Hugh de Grantmesnil",
+      "firstEventId": "ivanhoe-source-11-p24",
+      "identifyingToken": "Hugh",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-vipont",
+      "initialName": "Ralph de Vipont",
+      "firstEventId": "ivanhoe-source-11-p24",
+      "identifyingToken": "Ralph",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-alicia",
+      "initialName": "Alicia",
+      "firstEventId": "ivanhoe-source-12-p24",
+      "identifyingToken": "Alicia",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-baldwin",
+      "initialName": "Baldwin",
+      "firstEventId": "ivanhoe-source-13-p5",
+      "identifyingToken": "Baldwin",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-reuben",
+      "initialName": "Reuben",
+      "firstEventId": "ivanhoe-source-13-p70-c416",
+      "identifyingToken": "Reuben",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-ivanhoe",
+      "initialName": "Ivanhoe",
+      "firstEventId": "ivanhoe-source-15-p49",
+      "identifyingToken": "Ivanhoe",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-debigot",
+      "initialName": "De Bigot",
+      "firstEventId": "ivanhoe-source-16-p13",
+      "identifyingToken": "De Bigot",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-locksley",
+      "initialName": "Locksley",
+      "firstEventId": "ivanhoe-source-16-p38",
+      "identifyingToken": "Locksley",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-hubert",
+      "initialName": "Hubert",
+      "firstEventId": "ivanhoe-source-16-p44",
+      "identifyingToken": "Hubert",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-waltheoff",
+      "initialName": "Waltheoff",
+      "firstEventId": "ivanhoe-source-21-p17",
+      "identifyingToken": "Waltheoff",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-engelred",
+      "initialName": "Engelred",
+      "firstEventId": "ivanhoe-source-28-p35",
+      "identifyingToken": "Engelred",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-giles",
+      "initialName": "Giles",
+      "firstEventId": "ivanhoe-source-30-p95",
+      "identifyingToken": "Giles",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-seth",
+      "initialName": "Seth",
+      "firstEventId": "ivanhoe-source-31-p0",
+      "identifyingToken": "Seth",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-gilbert",
+      "initialName": "Gilbert",
+      "firstEventId": "ivanhoe-source-35-p70",
+      "identifyingToken": "Gilbert",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-clementoutlaw",
+      "initialName": "Clement of the outlaws",
+      "firstEventId": "ivanhoe-source-35-p89",
+      "identifyingToken": "Clement",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-hughbardon",
+      "initialName": "Hugh Bardon",
+      "firstEventId": "ivanhoe-source-37-p65",
+      "identifyingToken": "Hugh",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-nathan",
+      "initialName": "Nathan Ben Israel",
+      "firstEventId": "ivanhoe-source-38-p0",
+      "identifyingToken": "Nathan",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-beaumanoir",
+      "initialName": "Lucas de Beaumanoir",
+      "firstEventId": "ivanhoe-source-38-p19",
+      "identifyingToken": "Lucas",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-conrade",
+      "initialName": "Conrade of Mont-Fitchet",
+      "firstEventId": "ivanhoe-source-38-p19",
+      "identifyingToken": "Conrade",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-damian",
+      "initialName": "Damian",
+      "firstEventId": "ivanhoe-source-38-p30",
+      "identifyingToken": "Damian",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-albert",
+      "initialName": "Albert de Malvoisin",
+      "firstEventId": "ivanhoe-source-39-p6",
+      "identifyingToken": "Albert",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-herman",
+      "initialName": "Herman of Goodalricke",
+      "firstEventId": "ivanhoe-source-40-p18",
+      "identifyingToken": "Herman",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-bensamuel",
+      "initialName": "Rabbi Ben Samuel",
+      "firstEventId": "ivanhoe-source-41-p38",
+      "identifyingToken": "Ben",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-diggory",
+      "initialName": "Father Diggory",
+      "firstEventId": "ivanhoe-source-43-p31",
+      "identifyingToken": "Diggory",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-scathlock",
+      "initialName": "Scathlock",
+      "firstEventId": "ivanhoe-source-44-p17",
+      "identifyingToken": "Scathlock",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-edith",
+      "initialName": "Edith",
+      "firstEventId": "ivanhoe-source-45-p9",
+      "identifyingToken": "Edith",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-dennet",
+      "initialName": "Dennet",
+      "firstEventId": "ivanhoe-source-46-p8",
+      "identifyingToken": "Dennet",
+      "knownInNarrativeByFirstAppearance": true
+    },
+    {
+      "characterId": "ivanhoe-character-bohun",
+      "initialName": "Henry Bohun",
+      "firstEventId": "ivanhoe-source-47-p5",
+      "identifyingToken": "Henry",
+      "knownInNarrativeByFirstAppearance": true
+    }
+  ]
+}

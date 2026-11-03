@@ -1,0 +1,90 @@
+{
+  "scope": "Selected five map plans and incomplete source/review fixtures only; not release approval",
+  "checks": [
+    {
+      "path": "scripts/ivanhoe/manuscript-draft.pwk",
+      "sha256": "2d49f2f86f3f85d0cf6fd116841b0ddba3a830cc428a2bdeef8772ff3e30c610",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/authoring-review.pwk",
+      "sha256": "c9a8d3ad8f03228f525a23950b101a6ba00b8764b9f6afd25c82f575ecea3d52",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone.svg",
+      "sha256": "b56c3e32239d345835a19b3a54d9cd26b881d586f25d9fd2e4b39cec5b3cbf79",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone.png",
+      "sha256": "821b26bcc3a77c557da68572a096423090ad4b492439b6c9d726b7c28333d166",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone.webp",
+      "sha256": "20ce2bc7c00fda1c434a03647a92e4ede2d9dd5bb33bd13a98c347470dd23258",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-interior.svg",
+      "sha256": "a23d05e3d2837d9f16dac11d951eaaaf2a1e6a448ebd775bbec452e6ea4b19e1",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-interior.png",
+      "sha256": "7294d65a728d228c5bf6517ec687a88fc2af6865878b6a7aea9da87675170664",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone-interior.webp",
+      "sha256": "e734baaa3ded6adf117dc2552d010fa865c93f4b5fb61d8311d3a73cfe3483dd",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-dungeon.svg",
+      "sha256": "e65cf5ed821c081cd189c67cf0014dde4c02a1c2dc771d0d6f3581e5c343e69c",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-dungeon.png",
+      "sha256": "9341f84aa9b28a541e47b24552476bbf3c6b80cb55e35563f076d9cab32a1959",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone-dungeon.webp",
+      "sha256": "51cffbdcef4e61188fce9df99bb89e021ceef44bcf96a0e91013ada0470122b4",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-turret.svg",
+      "sha256": "38a069c804567581b71a3cd70649a1c17c62f5f239e5d1a5cb3ada945470085a",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-turret.png",
+      "sha256": "9389e123096dd2a90815ddca4bfb64959baa55bbfd2a694edeeae847ebc6776d",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone-turret.webp",
+      "sha256": "ece07c93a304dca226566f2a2d0ea9c4d3941ade6d5e82944e8bfe164325993e",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-postern-defence.svg",
+      "sha256": "837d5e641378f64897451097316602257e060d9db5793ed9cd9d64b14fac937f",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-originals/torquilstone-postern-defence.png",
+      "sha256": "90d1d04574ca2cb78ea8f2a2aec1c83cde0ee21e1002f6c08cea33d52081a05c",
+      "byteIdentical": true
+    },
+    {
+      "path": "scripts/ivanhoe/map-reviewed/torquilstone-postern-defence.webp",
+      "sha256": "4a595c78ae6b91e85c2ba900ad7c07153222a0e1c25308ac61c2ed7812223e25",
+      "byteIdentical": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+
+> test
+> vitest run --run libraryCatalogue exampleQuality exampleCompat
+
+
+ RUN  v4.1.11 F:/Projects/WorldBreaker/PlotWeave-Library-ivanhoe
+
+
+ Test Files  2 passed (2)
+      Tests  951 passed (951)
+   Start at  08:45:08
+   Duration  15.44s (transform 14.22s, setup 0ms, import 18.75s, tests 3.12s, environment 0ms)

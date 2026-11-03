@@ -1,0 +1,23 @@
+{
+  "status": "SCOPED PORTRAIT FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "selection": [
+    "fangs"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-fangs",
+      "name": "Fangs",
+      "eventId": "ivanhoe-source-4-p12",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.4 · CHAPTER I — Swine and pork (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-fangs.png",
+      "enlargedScreenshot": null,
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

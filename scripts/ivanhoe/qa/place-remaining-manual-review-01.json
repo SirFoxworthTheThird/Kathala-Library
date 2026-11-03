@@ -1,0 +1,95 @@
+{
+  "scope": "Eight manually opened WebPs and sixteen actual app banner/lightbox screenshots; end cursor only, first-disclosure and final release approval remain open",
+  "fixtureSha256": "7da2d4c7b9fa7f530c4d0b8f8127fe89bc2aeb80545eebbc75fbe139bec7b77e",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "road-from-st-withold",
+      "originalSha256": "e3ddd162eb34379675b2b9cb8002562dce60800f9f40b728155ae3354a6bde3c",
+      "compressedSha256": "3b6b5296f04a9389e6561c72b007b9d02d9daf4c272883303506cfe0626d83eb",
+      "compressedReview": "Individually opened decoded WebP after compression; source-specific features retained, no visible objectionable compression artifact.",
+      "applicationReview": "Road and stream remain readable in banner, full square displayed without clipping.",
+      "screenshots": [
+        "qa/place-road-from-st-withold.png",
+        "qa/place-road-from-st-withold-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-edge-road",
+      "originalSha256": "ee50b0c8d6ccfb6692919821b7f480e7fc92df4d84d8e141e8f2b1bfa34b9b0f",
+      "compressedSha256": "ddd0164a7a7c6fd3e849ea66bfc9e60376f4497a66a0a8b7b47ae806960f9d06",
+      "compressedReview": "Individually opened decoded WebP after compression; source-specific features retained, no visible objectionable compression artifact.",
+      "applicationReview": "Road bend and brook readable in banner; full image unobscured.",
+      "screenshots": [
+        "qa/place-forest-edge-road.png",
+        "qa/place-forest-edge-road-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-litter-halt",
+      "originalSha256": "2b921401844723972259b6694efdad05e01ff886d522c4df375f4c23bee80691",
+      "compressedSha256": "723a599c1f2ed0e657efd66aeb8a937df89774c552ee9f6f99f60924487d410c",
+      "compressedReview": "Individually opened decoded WebP after compression; source-specific features retained, no visible objectionable compression artifact.",
+      "applicationReview": "Covered litter remains legible at banner size, no occupant visible; full poles/body shown in enlargement.",
+      "screenshots": [
+        "qa/place-forest-litter-halt.png",
+        "qa/place-forest-litter-halt-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-escape-thicket",
+      "originalSha256": "4d55f79ff6f3c8bd97e9abf12c26b9dc024f223b873531de515ad60c3c6fb939",
+      "compressedSha256": "f66921ea47aceb70fe37a585ab61f9e2ae61b4aa1ebd92471dc941d795380ff3",
+      "compressedReview": "Individually opened decoded WebP after compression; source-specific features retained, no visible objectionable compression artifact.",
+      "applicationReview": "Dense thicket and small path readable in banner; no figures exposed in enlargement.",
+      "screenshots": [
+        "qa/place-forest-escape-thicket.png",
+        "qa/place-forest-escape-thicket-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-rescue-path",
+      "originalSha256": "760cc203bbf00f630ff7f49630c8e8d2018238bfc55651d3313ae8ea8e60bf31",
+      "compressedSha256": "133e1e9ce22000e7faf3a1720e37fdec7568c624900ad488808291daf6563bcb",
+      "compressedReview": "Individually opened decoded WebP after compression; source-specific features retained, no visible objectionable compression artifact.",
+      "applicationReview": "Stream and path visible in banner, enlarged woodland scene unsigned.",
+      "screenshots": [
+        "qa/place-forest-rescue-path.png",
+        "qa/place-forest-rescue-path-lightbox.png"
+      ]
+    },
+    {
+      "key": "forest-rendezvous-oak",
+      "originalSha256": "e2f1bcd4c3b059078d271ed28e554ad011f80c4c4cb53533c2eefacab132cc98",
+      "compressedSha256": "93227011536149dede7b75f9de8a6cfd2cc48018cd1daae52e9814046ed69bdf",
+      "compressedReview": "Individually opened decoded WebP after compression; source-specific features retained, no visible objectionable compression artifact.",
+      "applicationReview": "Broad oak silhouette holds at banner size, full tree roots and canopy visible enlarged.",
+      "screenshots": [
+        "qa/place-forest-rendezvous-oak.png",
+        "qa/place-forest-rendezvous-oak-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-forest-approach",
+      "originalSha256": "9eb8e02a3e579139ae76c60a726b85158e74d3127f9525696d1af353d96ba646",
+      "compressedSha256": "6541f05f5d550e5ad55a0add0b03c5f6acc397669b2fa3b9bec146c1c6a11445",
+      "compressedReview": "Individually opened decoded WebP after compression; source-specific features retained, no visible objectionable compression artifact.",
+      "applicationReview": "Castle moat and wooded approach readable; square keep top cropped by banner but fully visible enlarged.",
+      "screenshots": [
+        "qa/place-torquilstone-forest-approach.png",
+        "qa/place-torquilstone-forest-approach-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-ruins",
+      "originalSha256": "fbf6690a064f6ec2f5def063c16a273605dccccb1185112a8d6435b631e83316",
+      "compressedSha256": "9b89f8f5fd3944c27e66b9fab461e497e570f7722f0c34da703fe747527c0764",
+      "compressedReview": "Individually opened decoded WebP after compression; source-specific features retained, no visible objectionable compression artifact.",
+      "applicationReview": "Burnt castle and flames read clearly in banner, whole ruin visible enlarged; end-cursor condition says Ruined. Early disclosure not yet audited.",
+      "screenshots": [
+        "qa/place-torquilstone-ruins.png",
+        "qa/place-torquilstone-ruins-lightbox.png"
+      ]
+    }
+  ]
+}

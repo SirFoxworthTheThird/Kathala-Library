@@ -1,0 +1,22 @@
+{
+  "fixtureSha256": "6df6d15f72c4ab4994c399ac4e0201576c0f8a67bafc25690134c3edb97e2af9",
+  "scope": "New collective roster visibility before first direct appearance, at first appearance and after rewind",
+  "checks": [
+    {
+      "label": "before",
+      "visible": false,
+      "screenshot": "qa/fuel-attendants-before.png"
+    },
+    {
+      "label": "present",
+      "visible": true,
+      "screenshot": "qa/fuel-attendants-present.png"
+    },
+    {
+      "label": "rewound",
+      "visible": false,
+      "screenshot": "qa/fuel-attendants-rewound.png"
+    }
+  ],
+  "pageErrors": []
+}

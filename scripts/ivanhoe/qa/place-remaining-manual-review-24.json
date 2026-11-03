@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "coningsburgh-third-storey",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "9067a1e7b95451af85e758b8ad4b508938bd6c25fca6948a618c0b30bae2e7d1",
+      "compressedSha256": "2ed5d4a48470c10890827d00c540559af779f805827db1c6c1bf9934caef0dce",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Round gathering room with flat timber ceiling supporting floor above, wall stair; empty, readable full view. Old floor overlay separately fixed.",
+      "screenshots": [
+        "qa/place-coningsburgh-third-storey.png",
+        "qa/place-coningsburgh-third-storey-lightbox.png"
+      ]
+    },
+    {
+      "key": "coningsburgh-oratory",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "f42a0461037ceab1855b6fb5f6d339c1bd56978c65d8182f600ffb435cec22aa",
+      "compressedSha256": "d243669e6dd89ec6f9d5b1b7ece07cba7f4323c392e7d6b03ece39432cbbd169",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Few steps to small oratory, western slit, ivory cross and book; no Edith shown, full view clear. Old floor overlay separately fixed.",
+      "screenshots": [
+        "qa/place-coningsburgh-oratory.png",
+        "qa/place-coningsburgh-oratory-lightbox.png"
+      ]
+    },
+    {
+      "key": "coningsburgh-upper-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "e38fe2a56f523338e92d8f549e541b769d4670b4e0e11246ea4d76cf703ef9c5",
+      "compressedSha256": "082a9e7698eecdc36befcc529913c5ab417a1574b453659ee6d696bedc955a1b",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Round upper apartment reached by winding stair, empty, no women or later event; full view readable. Old floor overlay separately fixed.",
+      "screenshots": [
+        "qa/place-coningsburgh-upper-room.png",
+        "qa/place-coningsburgh-upper-room-lightbox.png"
+      ]
+    },
+    {
+      "key": "coningsburgh-guest-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "f82f930c1b52b390f31e915dc1576c59d8b478ed656a0019fac4d1abc8e51e57",
+      "compressedSha256": "8eb8fca559aaefde7aea355ffb05cc637b15b18b06432e953f97767bb1498f81",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Separate modest guest chamber without Athelstane or identity reveal, no explicit floor claim; banner and full image clear.",
+      "screenshots": [
+        "qa/place-coningsburgh-guest-room.png",
+        "qa/place-coningsburgh-guest-room-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-lists",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "790179f232f4627c5449982fe2ccab26432c0641ac52b5144e3160d13e259603",
+      "compressedSha256": "9dbb08dede0b407c98c4188e0ffefb6a1cd2990e7f962de8d8809416b96c4854",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty level riding ground, black-white standards rather than royal devices, no stake or combat outcome in portrait; full image clear.",
+      "screenshots": [
+        "qa/place-templestowe-lists.png",
+        "qa/place-templestowe-lists-lightbox.png"
+      ]
+    },
+    {
+      "key": "templestowe-spectator-area",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "2e30ad7db9e53ce5c321d33a19ec1e113e4d3a8ac35d729658b0d88fb4eb3435",
+      "compressedSha256": "b192bf0ecf93ad384cd110df51abc46accb0d45d5f9ef3ac82d804722a385323",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty timber benches outside field, plain off-white and charcoal cloth; no occupants or future combat, banner and full image clear.",
+      "screenshots": [
+        "qa/place-templestowe-spectator-area.png",
+        "qa/place-templestowe-spectator-area-lightbox.png"
+      ]
+    }
+  ]
+}

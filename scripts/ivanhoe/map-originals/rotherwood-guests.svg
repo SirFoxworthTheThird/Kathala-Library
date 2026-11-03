@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+ <pattern id="earth" width="36" height="36" patternUnits="userSpaceOnUse"><rect width="36" height="36" fill="#d9c7a5"/><path d="M4 10h3m18 15h4m-18 7h2" stroke="#c8b38c"/></pattern>
+ <pattern id="oak" width="24" height="18" patternUnits="userSpaceOnUse"><rect width="24" height="18" fill="#79553c"/><path d="M0 4h24M0 15h24" stroke="#a17c52" stroke-width="1"/></pattern>
+ <pattern id="straw" width="15" height="14" patternUnits="userSpaceOnUse"><rect width="15" height="14" fill="#c3a76a"/><path d="m1 3 9 4m-5 6 8-6" stroke="#ead59b" stroke-width="1.3"/></pattern>
+ <filter id="shadow"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity=".15"/></filter>
+</defs>
+<rect width="1400" height="900" fill="#ece1c8"/>
+<g fill="#302d25" font-family="Georgia,serif">
+ <text x="70" y="66" font-size="35">Rotherwood · the sleeping cells</text>
+ <text x="72" y="104" font-size="18">An exterior, humbler part of Cedric’s household · Chapter VI, paragraphs 21–29 and 43–49</text>
+</g>
+<!-- The sequence of cells is supported; dimensions and corridor geometry are interpretation. -->
+<g filter="url(#shadow)">
+ <rect x="164" y="205" width="1072" height="432" rx="3" fill="url(#earth)" stroke="#594532" stroke-width="16"/>
+ <path d="M520 205v295M880 205v295" stroke="url(#oak)" stroke-width="16"/>
+ <path d="M164 500H280m100 0h260m100 0h260m100 0h136" stroke="#79553c" stroke-width="14"/>
+</g>
+<!-- Door openings face the passage; their exact positions are schematic. -->
+<g fill="none" stroke="#79553c" stroke-width="5">
+ <path d="M280 500v-100M640 500v-100M1000 500v-100"/>
+ <path d="M280 400a100 100 0 0 1 100 100M640 400a100 100 0 0 1 100 100M1000 400a100 100 0 0 1 100 100" stroke-dasharray="5 6" stroke-width="2"/>
+</g>
+<!-- Two described couches, with no claim to an unmentioned Gurth window or identical furnishing. -->
+<g stroke="#62472e" stroke-width="8">
+ <rect x="210" y="275" width="110" height="175" rx="3" fill="url(#straw)"/>
+ <rect x="570" y="275" width="110" height="175" rx="3" fill="url(#straw)"/>
+ <rect x="930" y="275" width="110" height="175" rx="3" fill="url(#straw)"/>
+</g>
+<path d="M218 292q35-20 84 9l-4 96q-42-18-78 4zM578 292q35-20 84 9l-4 96q-42-18-78 4z" fill="#ded5bf" stroke="#9f9076" stroke-width="2"/>
+<rect x="938" y="286" width="94" height="22" rx="8" fill="#896440" stroke="#62472e" stroke-width="3"/>
+<rect x="800" y="370" width="41" height="38" fill="#96744c" stroke="#62472e" stroke-width="4"/>
+<g stroke="#62472e" fill="#b8ccd0"><rect x="755" y="194" width="68" height="22" stroke-width="5"/><path d="M770 194v22m17-22v22m17-22v22" stroke-width="3"/></g>
+<g font-family="Georgia,serif" fill="#302d25" font-size="22">
+ <text x="345" y="269">Isaac’s cell</text><text x="705" y="269" font-size="20">The Palmer’s cell</text><text x="1060" y="269">Gurth’s cell</text>
+ <text x="348" y="321" font-size="17">Similar couch;</text><text x="348" y="347" font-size="17">clothes kept close.</text>
+ <text x="705" y="310" font-size="16">Straw, sheepskins,</text><text x="705" y="334" font-size="16">a stool and a small</text><text x="705" y="358" font-size="16">grated window.</text>
+ <text x="1058" y="321" font-size="17">Pallet with a</text><text x="1058" y="347" font-size="17">wooden-log pillow.</text>
+ <text x="477" y="578" font-size="26">Passage serving the sleeping cells</text>
+ <text x="700" y="169" font-size="18" text-anchor="middle">The Palmer lies between his two neighbours, separated by oak partitions.</text>
+</g>
+<path d="M220 590H110m0 0 20-12m-20 12 20 12" fill="none" stroke="#69563b" stroke-width="3" stroke-dasharray="7 5"/>
+<text x="70" y="684" fill="#302d25" font-family="Georgia,serif" font-size="20">Onward route to the postern</text>
+<text x="70" y="713" fill="#554d3d" font-family="Georgia,serif" font-size="17">Connection is narrated; turns, distance and compass direction are not supplied.</text>
+<path d="M70 750h1260" stroke="#a29170"/>
+<g fill="#554d3d" font-family="Georgia,serif" font-size="17">
+ <text x="70" y="785">Interpretive interior plan · not to scale · room sizes, passage width and door positions reconstructed.</text>
+ <text x="70" y="817">Left and right follow Anwold’s account; no cardinal orientation is asserted. Further cells are not individually located.</text>
+ <text x="70" y="849">Furniture follows the descriptions of the three cells; positions within each cell are interpretive.</text>
+</g>
+</svg>

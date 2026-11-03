@@ -1,0 +1,32 @@
+[
+  {
+    "path": "scripts/ivanhoe/manuscript-draft.pwk",
+    "sha256": "e43562f1ecee7ee89d8e0362f1b9fe7a50d37bc6bcf271db9680d0d7d5d85a18",
+    "byteIdentical": true
+  },
+  {
+    "path": "scripts/ivanhoe/authoring-review.pwk",
+    "sha256": "5fe547264da2dfce1a5e03817a91f3f2c7f0c002dbd0cd4147202acb3663f894",
+    "byteIdentical": true
+  },
+  {
+    "path": "scripts/ivanhoe/map-originals/copmanhurst.svg",
+    "sha256": "af99524765a0926f624e644efd38c3ec4face72b9ef0591eb0fabfaa090ef715",
+    "byteIdentical": true
+  },
+  {
+    "path": "scripts/ivanhoe/map-originals/copmanhurst.png",
+    "sha256": "801fbccf1473242976211178919a9e4110aa32232eaece7690161b6350253064",
+    "byteIdentical": true
+  },
+  {
+    "path": "scripts/ivanhoe/map-originals/copmanhurst-hut.svg",
+    "sha256": "6b8608e2a4472c4aa210b107e3d425fe1ad905005edaa41e693c1539927fcd20",
+    "byteIdentical": true
+  },
+  {
+    "path": "scripts/ivanhoe/map-originals/copmanhurst-hut.png",
+    "sha256": "156bc4f07c6f796c37f3417313bf3fb6e4d6c6cb5449f5cf55c0c478b548f2ed",
+    "byteIdentical": true
+  }
+]

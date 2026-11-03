@@ -1,0 +1,27 @@
+{
+  "scope": "Explicit Chapter XXVIII retrospect/resumption and rewind, desktop/maps and mobile context; not final all-source QA",
+  "observations": [
+    {
+      "phase": "earlier",
+      "visible": true,
+      "screenshot": "qa/retrospect-earlier.png"
+    },
+    {
+      "phase": "resumed",
+      "visible": false,
+      "screenshot": "qa/retrospect-resumed.png"
+    },
+    {
+      "phase": "rewound",
+      "visible": true,
+      "screenshot": "qa/retrospect-rewound.png"
+    }
+  ],
+  "mobileBounds": {
+    "x": 0,
+    "y": 48,
+    "width": 360,
+    "height": 25
+  },
+  "pageErrors": []
+}

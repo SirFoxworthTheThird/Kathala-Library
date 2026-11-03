@@ -1,0 +1,23 @@
+{
+  "status": "SCOPED PORTRAIT FIXTURE CAPTURES; MANUAL CROP REVIEW REQUIRED",
+  "fixtureSha256": "49c11fd87bea577db1667bdc38cafbcfefd6b454fdf6f2a1755da3d83e43e2e0",
+  "selection": [
+    "executionattendants"
+  ],
+  "pageErrors": [],
+  "checks": [
+    {
+      "characterId": "ivanhoe-character-executionattendants",
+      "name": "The four fuel attendants",
+      "eventId": "ivanhoe-source-46-p0",
+      "appearanceKind": "direct source appearance",
+      "writerOnly": false,
+      "cursorLabel": "Ch.46 · CHAPTER XLIII — The prepared lists (open timeline)",
+      "screenshot": "qa/avatar-ivanhoe-character-executionattendants.png",
+      "enlargedScreenshot": "qa/portrait-full-ivanhoe-character-executionattendants.png",
+      "complete": true,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

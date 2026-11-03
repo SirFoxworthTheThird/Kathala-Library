@@ -1,0 +1,78 @@
+{
+  "scope": "Explicit manual banner/lightbox observations at end cursor. Earlier disclosure and final approval separate.",
+  "releaseApproval": false,
+  "checks": [
+    {
+      "key": "torquilstone-turret-cell",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "777963cce1a354ac99cd3919dca17e0c01da0d8b35d4c47af19d8825e6edc894",
+      "compressedSha256": "2230e977ad828c9ddeed3a276d4809712c3a15d6c98c507f94784896814819ea",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty upper chamber with open lattice and narrow isolated bartisan, no victim; full view readable.",
+      "screenshots": [
+        "qa/place-torquilstone-turret-cell.png",
+        "qa/place-torquilstone-turret-cell-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-bartisan",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "ddda0e6a9231f97cdce42b167c265107f845ce25f58416a16b00bdb7916d79e2",
+      "compressedSha256": "99bd7f9aab4d5e9e645d520275e01814f8cc0e7cbdb346934822392b4bb0ae10",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Narrow isolated parapet with inner court below, no canyon or connection to neighbouring battlements; clear full view.",
+      "screenshots": [
+        "qa/place-torquilstone-bartisan.png",
+        "qa/place-torquilstone-bartisan-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-siege-oak",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "8154d9aaf7b95d2cdbfd386a855b8953abe06a683b40caccaf9876804a20d8b3",
+      "compressedSha256": "f9ad5ac250015e9812fc06b6be5a21cbd6df91737564eb369d468c7c42dfb7eb",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Large oak with distant intact castle, about three arrow-flights rather than at wall; no besiegers shown.",
+      "screenshots": [
+        "qa/place-torquilstone-siege-oak.png",
+        "qa/place-torquilstone-siege-oak-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-barbican",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "ca14ee83d1151dd25bb5a500275d25bb6f1983bc1b52a10762424645577df8f5",
+      "compressedSha256": "36d6ca565fdae0225748ce932f269dfb827c9a0be043abda23af7f3fb9195ce3",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Main guarded entrance and broad drawbridge distinct from narrow postern plank; empty full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-barbican.png",
+        "qa/place-torquilstone-barbican-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-low-arched-passage",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "948b8b57bd02425b519de9096feb98d4f1f540208cbb9e41cc9a1dab657e742a",
+      "compressedSha256": "0e196f1fe9d21abc097998262387ba87a1188d4f768f20748f215933feee5c0c",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Low empty stone passage, no disguised Cedric or later encounter shown; banner and full image readable.",
+      "screenshots": [
+        "qa/place-torquilstone-low-arched-passage.png",
+        "qa/place-torquilstone-low-arched-passage-lightbox.png"
+      ]
+    },
+    {
+      "key": "torquilstone-ivanhoe-room",
+      "fixtureSha256": "cfd4c9a224279c990bcdcb3268bacf278b4813677eb788975a941dc96733db44",
+      "originalSha256": "af9b9b5e85ee3a3e07988e98843db960acf9f09ac5abfeb3a7fc9ee341379fb8",
+      "compressedSha256": "699de89e7b4d67389492181244ff01f2599f116e67d0914a1316b4158a0e4171",
+      "compressedReview": "Individually opened full decoded app image; served bytes checked by capture helper. No objectionable compression artifacts observed.",
+      "applicationReview": "Empty bedchamber with raised window, no knight face or fighting; banner and full view clear.",
+      "screenshots": [
+        "qa/place-torquilstone-ivanhoe-room.png",
+        "qa/place-torquilstone-ivanhoe-room-lightbox.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "scope": "All166 individually opened coordinate screenshots still match current compiled marker IDs, layers and exact coordinates; recorded screenshots retain actual capture fixture hashes. This does not certify source presence, gateways or first disclosure.",
+  "currentFixtureSha256": "9cd3cedacf0e28c91437adce2ccfebdc3bc8e8bb8a2f59539c2b872016d8720b",
+  "appCommit": "02dcd633",
+  "reviewed": 166,
+  "records": [
+    "coordinate-manual-review-01.json",
+    "coordinate-manual-review-02.json",
+    "coordinate-manual-review-03.json",
+    "coordinate-manual-review-04.json",
+    "coordinate-manual-review-05.json",
+    "coordinate-manual-review-06.json",
+    "coordinate-manual-review-07.json"
+  ]
+}

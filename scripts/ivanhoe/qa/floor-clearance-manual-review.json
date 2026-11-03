@@ -1,0 +1,13 @@
+{
+  "fixtureSha256": "4f74418ff67de3a91b3dfb23a447e5f8f184d611e207dca6279d1b9cfb8a4a67",
+  "desktop": "visible floor switcher clears the panel horizontally",
+  "mobile": "floor switcher hidden while location panel open",
+  "pageErrors": [],
+  "appCommit": "2f869753",
+  "manualReview": "Both desktop and mobile screenshots individually opened. Desktop selector clears right panel; mobile location panel and image are readable after drawer closes, selector hidden.",
+  "screenshots": [
+    "qa/floor-clearance-desktop.png",
+    "qa/floor-clearance-mobile.png"
+  ],
+  "releaseApproval": false
+}

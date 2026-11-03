@@ -1,0 +1,37 @@
+{
+  "fixtureSha256": "343d69aa3842c3225a988c20c9b6710e68b3c42560b85b805c3234f21c33008f",
+  "scope": "Five source-corrected VIII endpoint states displayed in actual character Current State views",
+  "checks": [
+    {
+      "key": "john",
+      "eventId": "ivanhoe-source-11-p51",
+      "locationId": "ivanhoe-place-ashby-prince-gallery",
+      "screenshot": "qa/ashby-endpoint-john-51.png"
+    },
+    {
+      "key": "john",
+      "eventId": "ivanhoe-source-11-p62",
+      "locationId": "ivanhoe-place-ashby-prince-gallery",
+      "screenshot": "qa/ashby-endpoint-john-62.png"
+    },
+    {
+      "key": "vipont",
+      "eventId": "ivanhoe-source-11-p62",
+      "locationId": null,
+      "screenshot": "qa/ashby-endpoint-vipont-62.png"
+    },
+    {
+      "key": "disinherited",
+      "eventId": "ivanhoe-source-11-p40",
+      "locationId": "ivanhoe-place-ashby-northern-end",
+      "screenshot": "qa/ashby-endpoint-disinherited-40.png"
+    },
+    {
+      "key": "brian",
+      "eventId": "ivanhoe-source-11-p54",
+      "locationId": "ivanhoe-place-ashby-challenger-platform",
+      "screenshot": "qa/ashby-endpoint-brian-54.png"
+    }
+  ],
+  "pageErrors": []
+}

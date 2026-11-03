@@ -1,0 +1,9 @@
+{
+  "id": "place-torquilstone-main-postern",
+  "variant": "v2",
+  "generated": "F:\\CodexData\\.codex\\generated_images\\01a186dd-6c96-74f0-b16b-8425d714bcf4\\exec-26bd89fa-f386-4e21-a7ce-59e0d0390886.png",
+  "original": "scripts/ivanhoe/art-originals/place-torquilstone-main-postern-v2.png",
+  "reason": "XXVII.55 single plank; reject v1 broad assembled bridge and drawbridge hardware",
+  "generator": "built-in image_gen",
+  "prompt": "Edit v1: replace broad assembled deck with one narrow unrailed single plank spanning moat between secondary door sills (XXVII.55). Remove bridge framing, transverse boards, chains and drawbridge hardware. Preserve quiet empty painterly castle; no text or future outcome."
+}
