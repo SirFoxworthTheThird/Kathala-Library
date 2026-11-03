@@ -40,3 +40,17 @@ LOCAL_RELEASE.json is the machine-readable evidence index; REVIEW_CHECKLIST.md
 and RESUME.md provide the contract checklist and reproduction instructions.
 Historical failure captures are retained and resolved in
 qa/resolved-review-failures.json; they do not supersede the final successful runs.
+
+
+Remote release authorization (2026-11-03): the user requested PR creation and
+merge. Library PR76 contains the edition and LFS authoring/visual-review evidence.
+Companion app PR648 is merged at e4a09dd968469b4070776b1a3b4d6bea17920c09.
+Integration with current main preserves sparse person records, explicit custody
+statements and era boundaries. All3347 app tests, lint/build, nine Chromium
+regressions and final book-level checks pass. A fresh537-event playback passes
+on app build941dedb5285e9a11508f203068b70bf0f00273732707fc612cecb695c30879e0.
+The PWK is still exactly3302723 bytes with its original final SHA-256.
+Netlify now stages only index.html, CORS headers and library/ into an ignored
+build directory. All reader paths retain their library/ prefix; authoring
+originals and QA evidence stay in Git LFS instead of the public deploy.
+GitHub PR status is authoritative for the final Library merge and deployment.

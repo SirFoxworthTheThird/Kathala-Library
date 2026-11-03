@@ -1,0 +1,13 @@
+
+> kathala@2.0.0 test
+> vitest run
+
+
+ RUN  v4.1.2 F:/Projects/WorldBreaker/Kathala-ivanhoe-qa
+
+Not implemented: navigation to another Document
+
+ Test Files  297 passed (297)
+      Tests  3347 passed (3347)
+   Start at  09:20:27
+   Duration  88.54s (transform 36.17s, setup 103.65s, import 110.22s, tests 15.26s, environment 978.03s)

@@ -1,8 +1,8 @@
 {
   "candidateSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
-  "scope": "Source, artwork, maps and final URL candidate application review complete. Packaged download and repository gates remain separate.",
-  "companionAppCommit": "e8e8b0c2004392e7612516f463a4ed39e8da9b38",
-  "appBuildSha256": "4224c5d33ce2c7f49c373f04de9e500e737ff53f339d9f8cf9c1212bdb8eae90",
+  "scope": "Hash-bound source/artwork review retained; final URL edition additionally reviewed against current-main sparse-state/custody integration, app PR648.",
+  "companionAppCommit": "e4a09dd968469b4070776b1a3b4d6bea17920c09",
+  "appBuildSha256": "941dedb5285e9a11508f203068b70bf0f00273732707fc612cecb695c30879e0",
   "gates": {
     "sourceAndScenes": {
       "complete": true,
@@ -101,10 +101,10 @@
     "readerApplication": {
       "complete": true,
       "evidence": [
-        "qa/browser-run-466697b4262d-b4c582cb080a.json",
+        "qa/browser-run-466697b4262d-f40802902bb9.json",
+        "qa/browser-run-466697b4262d-98070f8a598e.json",
         "qa/continuous-playback.json",
-        "qa/all-pages-manual-review.json",
-        "qa/calendar-clock-manual.json"
+        "qa/all-pages-review.json"
       ]
     }
   },

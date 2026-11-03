@@ -1,5 +1,5 @@
 {
-  "status": "COMPLETE LOCAL RELEASE; NOT PUSHED OR PUBLISHED",
+  "status": "COMPLETE LOCAL GATES; REMOTE RELEASE AUTHORIZED IN PR76; APP648 MERGED",
   "path": "library/ivanhoe.pwk",
   "sha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
   "bytes": 3302723,
@@ -61,5 +61,22 @@
     "Optional writer-only seven-beat Structure is deliberately unassigned.",
     "URL assets and companion application fixes have not been published; public delivery requires separately authorized releases."
   ],
-  "remoteActionsPerformed": []
+  "remoteActionsPerformed": [],
+  "remoteRelease": {
+    "authorization": "User explicitly requested PR creation and merge to main.",
+    "libraryPr": "https://github.com/SirFoxworthTheThird/Kathala-Library/pull/76",
+    "companionPr": "https://github.com/SirFoxworthTheThird/Kathala/pull/648",
+    "companionMergedSha": "e4a09dd968469b4070776b1a3b4d6bea17920c09",
+    "libraryStateAtRecord": "PR open; final merge/check state is authoritative on GitHub."
+  },
+  "currentMainCompatibility": {
+    "appMainSha": "e4a09dd968469b4070776b1a3b4d6bea17920c09",
+    "buildSha256": "941dedb5285e9a11508f203068b70bf0f00273732707fc612cecb695c30879e0",
+    "unitTests": 3347,
+    "browserRegressionCases": 9,
+    "lint": "PASS",
+    "build": "PASS",
+    "bookLevelUi": "qa/browser-run-466697b4262d-f40802902bb9.json",
+    "continuousPlayback": "qa/browser-run-466697b4262d-98070f8a598e.json"
+  }
 }

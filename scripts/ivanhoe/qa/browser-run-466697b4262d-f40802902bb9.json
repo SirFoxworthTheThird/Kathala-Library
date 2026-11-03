@@ -1,0 +1,33 @@
+{
+  "inputPath": "F:\\Projects\\WorldBreaker\\PlotWeave-Library-ivanhoe\\library\\ivanhoe.pwk",
+  "libraryDownloadProof": {
+    "url": "http://127.0.0.1:4186/library/ivanhoe.pwk",
+    "status": 200,
+    "bytes": 3302723,
+    "sha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29"
+  },
+  "status": "PASSED SCOPED APPLICATION CHECKS; MANUAL REVIEW AND PACKAGING ARE SEPARATE GATES",
+  "fixtureSha256": "466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29",
+  "appBuildSha256": "941dedb5285e9a11508f203068b70bf0f00273732707fc612cecb695c30879e0",
+  "flags": [
+    "--packaged",
+    "--library-download",
+    "--portrait=fangs",
+    "--all-pages",
+    "--inventory",
+    "--reported-item-history",
+    "--relationships",
+    "--supporting",
+    "--name-gates",
+    "--knowledge",
+    "--lore",
+    "--calendar-clock",
+    "--opening-attendants",
+    "--cover"
+  ],
+  "browser": "147.0.7727.15",
+  "pageErrors": [],
+  "consoleErrors": [],
+  "networkFailures": [],
+  "cancelledImageRequests": []
+}

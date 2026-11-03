@@ -1,11 +1,23 @@
 {
-  "message": "Catalogue downloaded different PWK bytes {\"url\":\"http://127.0.0.1:4186/library/ivanhoe.pwk\",\"status\":200,\"method\":\"GET\",\"bytes\":0,\"downloadedSha256\":\"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\",\"fixtureSha256\":\"466697b4262d6a42d3048143aa68dcb744c57975b6ba9ff1b9b700ea1b0cfc29\"}",
+  "message": "Attendant named before II.51",
   "pageErrors": [],
   "networkFailures": [],
   "consoleErrors": [],
   "mapRequests": [
     {
-      "url": "http://127.0.0.1:4186/assets/index-BbxU73or.css",
+      "url": "http://127.0.0.1:4186/assets/index-T1rN1fPG.css",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4186/assets/MapExplorerView-BB0bBSv6.js",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4186/library/ivanhoe/art/generated/maps/england.webp",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:4186/assets/RelationshipGraphView-8hax8RNO.css",
       "status": 200
     }
   ]

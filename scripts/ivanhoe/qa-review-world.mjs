@@ -138,6 +138,9 @@ try{
     await page.getByTitle(title,{exact:true}).first().click()
     await page.waitForFunction(title=>Array.from(document.querySelectorAll('button')).some(b=>b.title.endsWith('(open timeline)')&&b.title.includes(title)),title)
     await page.evaluate(async()=>window.__pwdb.worlds.update('ivanhoe-world',{readingMode:true}))
+    // Fixture setup temporarily enters the writer. Wait for the reader's UI
+    // before checking disclosure; transaction completion precedes React effects.
+    await page.getByRole('link',{name:'Book',exact:true}).waitFor()
   }
   async function captureLayer(key,label,checks){
     const layer=fixture.mapLayers.find(m=>m.id===`ivanhoe-map-${key}`)
@@ -742,7 +745,8 @@ try{
       await selectMoment('A wager on the road')
       await page.goto(`${base}/#/worlds/ivanhoe-world/characters/ivanhoe-character-${key}`)
       await page.getByRole('heading',{name:anonymous,exact:true}).waitFor()
-      if((await page.locator('body').innerText()).includes(named))throw Error('Attendant named before II.51')
+      const beforeNameBody=await page.locator('body').innerText()
+      if(beforeNameBody.includes(named)){fs.writeFileSync(new URL('./qa/instant-name-failure.txt',book),beforeNameBody);throw Error('Attendant named before II.51')}
       await page.getByRole('button',{name:'Next moment',exact:true}).click()
       await page.getByRole('heading',{name:named,exact:true}).waitFor()
       await page.getByRole('button',{name:'Previous moment',exact:true}).click()
